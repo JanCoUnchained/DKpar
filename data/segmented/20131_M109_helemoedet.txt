@@ -1,0 +1,541 @@
+split;reason;text;value
+0;;"Torsdag den 2. oktober 2014 (D)
+
+1
+
+Ønsker nogen at udtale sig? Hr. Lars Barfoed.";
+91;Time;109. møde;Kl. 09:00
+139;Time;"Dagsorden
+1) Eventuelt: fortsættelse af 2. (sidste) behandling af beslutningsforslag nr. B 123:
+Forslag til folketingsbeslutning om yderligere dansk militært bidrag
+til støtte for indsatsen mod ISIL.
+Af udenrigsministeren (Martin Lidegaard).
+(Fremsættelse 30.09.2014. 1. behandling 01.10.2014. 2. (sidste) behandling 01.10.2014. Betænkning 01.10.2014. Tilføjelse til betænkning 02.10.2014).";kl. 9.00
+541;Time;"Formanden:
+Mødet er åbnet.";Kl. 09:00
+579;Time;"Samtykke til behandling
+Formanden:
+Det punkt, som er opført som nr. 1 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde. Hvis ingen gør indsigelse,
+betragter jeg samtykket som givet.
+Det er givet.
+
+(Ordfører)";Kl. 09:00
+825;name_party;":
+Jeg vil, inden vi går til afstemning, på vegne af Venstre, Dansk Folkeparti, Liberal Alliance og Det Konservative Folkeparti gøre rede
+for vores stilling. Vi er nu, som vi hele tiden har været det, enige i at
+stemme for regeringens forslag om at sende F-16-fly og andre former for bistand ned til aktiv deltagelse i koalitionens kamp mod
+ISIL. Vi mener imidlertid også politisk, at det er landsforræderi, hvis
+danskere tager ned og kæmper på ISIL's side mod koalitionens styrker, og derunder mod de danske styrker.
+Vi har så her til morgen haft udenrigsministeren og justitsministeren i samråd i Forsvarsudvalget for at få afklaret, i hvilket omfang
+det er i strid med straffeloven, især § 101 og § 102, hvis danskere
+tager ned og kæmper på ISIL's side. Det har vi gjort, fordi vi af flere
+grunde synes, at det er vigtigt at komme så langt i retning af en afklaring af det spørgsmål, inden vi stemmer. På grundlag af samrådet
+har vi så – og det er altså Venstre, Dansk Folkeparti, Liberal Alliance og Det Konservative Folkeparti – afgivet følgende betænkningsbidrag , hvor vi siger:
+Partierne lægger til grund for vedtagelsen, at der med Danmarks
+deltagelse i koalitionen mod ISIL er det fornødne grundlag for at
+tage straffelovens § 101 og 102 m.v., altså landssvigerparagrafferne,
+i anvendelse over for danske statsborgere eller personer bosiddende i
+Danmark, som måtte deltage på ISILʼs side i konflikten. Citat slut.
+Det er en politisk tilkendegivelse, fordi vi som sagt mener, at det
+må være forræderi at kæmpe mod de danske tropper og de andre i
+koalitionen i Irak.";Lars Barfoed
+2408;Time;"Formanden:
+Der er korte bemærkninger. Først fra hr. Christian Juhl.";Kl. 09:03
+2487;Time;"Det eneste punkt på dagsordenen er:
+1) Fortsættelse af 2. (sidste) behandling af beslutningsforslag nr.
+B 123:
+Forslag til folketingsbeslutning om yderligere dansk militært bidrag til støtte for indsatsen mod ISIL.
+Af udenrigsministeren (Martin Lidegaard).
+(Fremsættelse 30.09.2014. 1. behandling 01.10.2014. 2. (sidste) behandling 01.10.2014. Betænkning 01.10.2014. Tilføjelse til betænkning 02.10.2014).";Kl. 09:03
+2904;Time;"Forhandling
+Formanden:
+Der er ikke stillet ændringsforslag.";Kl. 09:00
+2986;name_party;":
+Jeg vil gerne spørge Konservatives ordfører, hvornår de borgerlige
+partier er kommet til at stå over den dømmende magt her i landet.
+Det er jo sådan set domstolene, der skal vurdere den slags ting. Det
+er ikke fire tilfældige partier i Folketinget.";Christian Juhl
+3246;Time;"Formanden:
+Ordføreren.";Kl. 09:03
+3280;Time;;Kl. 09:03
+3299;name_party;":
+Det svar er meget klart. Folketinget, herunder partier i Folketinget,
+står ikke over domstolene, og derfor vil det jo være domstolene, der i
+sidste ende ville skulle træffe en afgørelse, hvis anklagemyndigheden rejser tiltale mod danskere, der har deltaget på ISIL's side. Vi giver blot udtryk for vores opfattelse af tingene, men det er domstolene, der afgør sagen – naturligvis. Vi har heller aldrig påstået andet.
+
+2
+
+Torsdag den 2. oktober 2014 (B 123)";Lars Barfoed
+3769;Time;;Kl. 09:06
+3780;Time;"Formanden:
+Hr. Christian Juhl.
+
+Formanden:
+Ja, spørgeren.";Kl. 09:03
+3849;Time;;Kl. 09:06
+3860;Time;;Kl. 09:03
+3881;name_party;":
+Det er fint. Så forstår jeg, at de borgerlige af deres cirkus i går ikke
+har fået en pind ud af det. De har trukket tiden i langdrag – det skal
+de have lov til, det er meget fint – og så ville det da være meget
+smartere at vedstå: Vi erkender, at vi har dummet os, lad os gå videre til næste sag.";Christian Juhl
+4189;Time;"Formanden:
+Ordføreren.";Kl. 09:04
+4237;name_party;":
+Tak til hr. Lars Barfoed. Jeg synes, det er godt at få bekræftet, at vi
+absolut ikke har bevæget os en tøddel siden går. I går havde vi en
+situation, hvor de borgerlige partier syntes, at det her forslag, vi nu
+skal stemme om om lidt, var så problematisk, at de ikke kunne stemme for, hvorimod man nu åbenbart har tænkt sig at stemme for. Og
+man bekræfter selv, at der ikke er ændret et komma. Det er da en
+ganske interessant situation, og jeg må ærlig talt sige, at når vi står
+over for en så alvorlig sag som at gå i krig, undrer det mig, at vi befinder os på så lavt et niveau.";Nikolaj Villumsen
+4830;Time;;Kl. 09:04
+4849;name_party;":
+Vi skal nok selv bestemme, om vi synes, vi har dummet os eller ej.
+Vi har forsøgt at få en afklaring af det her, og det er sådan, at domstolene, når de dømmer, jo altid ser på, hvad der er af forarbejder fra
+Folketingets side. Det er jo kun lovgivning og forarbejder fra Folketingets side, som domstolene kan tage i betragtning, og selvfølgelig
+praksis og alt muligt andet, men det har en betydning, hvordan Folketinget opfatter Folketingets egen lovgivning, når domstolene skal
+fortolke bestemmelser.
+Derfor har det betydning, at vi, inden vi stemmer, har forsøgt at
+komme så tæt en afklaring som muligt af det her spørgsmål. Det har
+også betydning, fordi vi gerne ser, at vi så hurtigt som muligt får
+gjort det tindrende klart, hvis ikke det er klart nok i straffeloven, at
+det er i strid med § 102 og 101 i straffeloven at gå i krig på ISIL's
+side, for jo hurtigere vi får den afgørelse, jo hurtigere kan vi også få
+straffet danskere, der måtte gøre det.";Lars Barfoed
+5818;Time;"Formanden:
+Hr. Nikolaj Villumsen, en kort bemærkning.";Kl. 09:05
+5883;Time;;Kl. 09:05
+5907;name_party;":
+Tak for det. Jeg vil bare høre hr. Lars Barfoed, om han kan bekræfte,
+at der absolut intet er ændret i det beslutningsforslag, vi nu stemmer
+om, fra i går til i dag.";Nikolaj Villumsen
+6085;Time;"Formanden:
+Ordføreren.";Kl. 09:06
+6119;Time;;Kl. 09:06
+6138;name_party;":
+Jeg vil gerne undskylde på hr. Nikolaj Villumsens vegne, for hr. Nikolaj Villumsen har jo ligesom mig været til møde til midnatstid i
+går, og vi var til møde i Forsvarsudvalget kl. 7.00 i morges, og der
+kan man godt blive lidt træt, og det forstår jeg godt at hr. Nikolaj
+Villumsen er. Men jeg vil bare gøre opmærksom på – når hr. Nikolaj
+Villumsen ikke har opdaget det – at vi ikke på noget tidspunkt har
+sat spørgsmålstegn ved beslutningsforslaget.
+Det, vi har interesseret os for – og det er lidt underligt, at hr. Nikolaj Villumsen ikke har opdaget det, eftersom vi har drøftet det i
+udvalget her til morgen – er, at når vi nu vedtager det her, som vi er
+enige om, bortset fra Enhedslisten, er det så sådan, at man kan straffe de danskere, der tager ned og kæmper imod de danske styrker
+nede i Irak? Det mener vi bør kunne straffes klart i henhold til straffeloven, og det bør stå tindrende klart, at det efter min opfattelse og
+efter vores opfattelse er forræderi at gøre det. Det er det, diskussionen har drejet sig om, ikke indholdet af beslutningsforslaget.";Lars Barfoed
+7215;Time;"Formanden:
+Hr. Holger K. Nielsen for en kort bemærkning.";Kl. 09:07
+7283;Time;;Kl. 09:07
+7294;Time;"Formanden:
+Ordføreren.";Kl. 09:05
+7328;Time;;Kl. 09:05
+7347;name_party;":
+Det er sjovt, som nogle medlemmer af Folketinget har det med at
+stille spørgsmål, som de godt kender svaret på, men jeg skal gerne
+give hr. Nikolaj Villumsen det svar, som han gerne vil have, nemlig
+at beslutningsforslaget ikke er ændret. I givet fald ville der da også
+være blevet stillet ændringsforslag til det. Så selvfølgelig er beslutningsforslaget ikke ændret.
+Der er heller ikke nogen ændring i vores position. Vi har hele tiden ment, at vi ville gå ind for forslaget i modsætning til Enhedslisten, der er imod forslaget, men vi har fundet det rigtigt af de grunde, jeg har nævnt, at få den afklaring eller komme så tæt på en afklaring som muligt af, om det er forræderi at tage ned og kæmpe på
+ISIL's side. Det er vi så en række partier der mener at det bør være,
+det bør være strafbart, og det har derfor været øvelsen værd at komme så langt, som det har været muligt, i retning af at få en afklaring
+af det.";Lars Barfoed
+8291;name_party;":
+Men så er det så, man må spørge: Er det ikke temmelig usædvanligt,
+at et parti som Det Konservative Folkeparti nu vil bruge en politisk
+betragtning i et beslutningsforslag om at sende danske kampfly af
+sted til at påvirke domstolenes fortolkning af straffelovens § 101 og
+102? Er det ikke meget, meget usædvanligt, når man tænker på, at vi
+har et system her i landet, hvor der er en adskillelse mellem den lovgivende og den dømmende magt?
+Vil hr. Lars Barfoed ikke medgive, at vi står juridisk i fuldstændig den samme situation i dag, som vi gjorde i går aftes, da de borgerlige opførte deres show? Vil hr. Lars Barfoed ikke medgive, at
+den politiske betragtning, som han gjorde rede for før, er et slag i
+luften, altså ikke har nogen som helst betydning? Vil hr. Lars Barfoed så erkende, at det, vi har været vidne til her, er en gang politisk
+striptease fra de borgerlige partiers side?";Holger K. Nielsen
+9191;Time;"Formanden:
+Ordføreren.
+
+Torsdag den 2. oktober 2014 (B 123)";Kl. 09:08
+9264;Time;;Kl. 09:11
+9275;Time;;Kl. 09:08
+9294;name_party;":
+Det har i høj grad gjort en forskel, for det har, som jeg har sagt flere
+gange, stor betydning at komme så tæt som muligt på en afklaring
+af, om man kan straffe danskere, som tager ned og kæmper mod de
+danske soldater nede i Irak på ISIL's side, eller om man ikke kan
+straffe dem.
+Det, at vi interesserer os for den problemstilling, har intet at gøre
+med adskillelsen mellem den lovgivende og den dømmende magt.
+Vi påstår jo ikke, at vi kan træffe afgørelser i en retssal. Det gør
+domstolene, men domstolene dømmer jo på grundlag af, hvad Folketinget beslutter, og hvad Folketinget mener. Og det burde være gået
+op for hr. Holger K. Nielsen, at hver gang domstolene træffer afgørelser, fælder domme, så gør de det på grundlag af lovgivning og
+forarbejder til lovgivning, som er vedtaget her i Folketinget.
+Derfor har det selvfølgelig betydning, hvad vi mener i Folketinget. Det ville da også være mærkeligt, hvis det modsatte var tilfældet, altså at det ikke havde betydning for domstolene, hvad Folketinget vedtager af love. Det ville være helt mærkeligt.";Lars Barfoed
+10362;Time;"Formanden:
+Hr. Holger K. Nielsen.";Kl. 09:09
+10407;Time;;Kl. 09:09
+10431;name_party;":
+Jo, men det er jo ikke straffeloven, vi behandler her. Det er jo et beslutningsforslag om at sende danske kampfly til Irak, og derfor er det
+jo helt, helt utidigt, at man begynder at bruge det som løftestang for
+at få en anden domstolsfortolkning af straffeloven. Det er jo det, som
+er fuldstændig skudt i låget – for at sige det rent ud.
+Det er jo derfor, at hr. Lars Barfoed så må indrømme, at man ikke
+er kommet ét skridt videre i forhold til i går. Juraen er helt på samme
+måde, som den var i går aftes – som det også er fremgået af de
+skriftlige besvarelser, vi har fået, og som det fremgik af de svar, vi
+fik fra talerstolen i går, fra regeringen.
+Der er intet som helst ændret. Og det er derfor, at det har været et
+fuldstændig latterligt show, som vi har været vidne til her fra de borgerliges side, og som ikke har nogen som helst betydning for, hvordan man efterfølgende kan dømme, hvilket Folketinget jo heller ikke
+skal blande sig i.";Holger K. Nielsen
+11388;Time;"Formanden:
+Ordføreren.";Kl. 09:10
+11422;Time;;Kl. 09:10
+11441;name_party;":
+Altså, nu vil jeg lige erindre hr. Holger K. Nielsen om, at det var hr.
+Holger K. Nielsen selv, der sent i går aftes fra den her talerstol opfordrede til, at vi kaldte sagen tilbage til udvalget for at få en afklaring. Så jeg forstår ikke, hvorfor man nu lige pludselig fra hr. Holger
+K. Nielsens side mener, det er utidigt. Det er lidt underligt så markant at skifte standpunkt fra sent om aftenen til tidligt om morgenen,
+men o.k., vi har alle sammen fået for lidt søvn; sådan er det.
+Men det har bestemt betydning. Og jeg tror roligt, jeg kan tale på
+de pågældende partiers vegne og sige: Vi vil naturligvis følge op på
+den her sag, for vi mener, at det skal komme til at stå til tindrende
+klart, hvis det ikke gør det i forvejen, at det er ulovligt at tage ned og
+kæmpe på ISIL's side mod danske styrker og mod koalitionens styrker.
+
+3
+
+Formanden:
+Hr. Morten Bødskov for en kort bemærkning.";Lars Barfoed
+12347;Time;;Kl. 09:11
+12367;name_party;":
+Jeg tror faktisk, at der er rigtig mange mennesker, der sidder og undrer sig lige nu. Altså, vi taler her om en af de mest modbydelige terrororganisationer, vi har stået over for. Vi har et dansk bidrag, som
+man må forstå nærmest holder på startbanen og skal til at af sted, og
+så bruger Folketinget tid på at få genopfrisket noget, som jeg gerne
+vil bede ordføreren om at bekræfte: Er det ikke sådan, at de regler,
+som gjaldt i går, også gælder i dag? Og er det ikke sådan, at ligesom
+i går, hvor det var domstolene, der træffer afgørelse om de regler,
+der gælder, er det fuldstændig det samme i dag: Så er det også domstolene, der træffer afgørelse om de regler, der gælder?
+Altså, der er intet som helst ændret, andet end at de borgerlige nu
+har brugt et halvt døgn på ingenting. Der er ingenting, der er ændret
+i det her, andet end at der er 16-17 minutter, til de her fly skal af
+sted. Så forhåbentlig kan vi få sendt et signal fra et enigt Folketing
+om, at vi skal bekæmpe den her uhyrlige terrororganisation. Er der
+ændret noget som helst? Er det ikke sådan, at de regler, der gjaldt i
+går, også gælder i dag, og ligesom i går, hvor det var domstolene,
+der træffer afgørelser, er det også domstolene, der træffer afgørelser
+i dag, vil jeg spørge hr. Lars Barfoed?";Morten Bødskov
+13649;Time;"Formanden:
+Ordføreren.";Kl. 09:12
+13683;Time;;Kl. 09:12
+13702;name_party;":
+Jamen hvis hr. Morten Bødskov mener, at det er spild af tid, at vi
+står her i Folketingssalen og diskuterer det her spørgsmål nu, hvor
+flyene snart skal lette, så vil jeg da spørge – men måske kan jeg ikke
+få svar, for jeg ved ikke, om hr. Morten Bødskov vil svare: Hvorfor i
+alverden tager hr. Morten Bødskov så ordet og holder en lang tale og
+stiller et spørgsmål, som alle kender svaret på? Hvorfor skrider vi så
+ikke bare til afstemning? Det er jo hr. Morten Bødskov, der trækker
+tiden nu.
+Men jeg er fuldstændig enig, og jeg har svaret på det før til andre
+i den her sammenhæng: Beslutningsforslaget er det samme nu, som
+det var i går, men vi har arbejdet på at komme tæt på en afklaring af,
+om man kan straffe danskere, der tager ned og kæmper på ISIL's side, eller om man ikke kan. Og jeg synes da, det er skuffende, at hr.
+Morten Bødskov ikke mere aktivt vil bidrage til, hvis ikke der er sikkerhed for det nu, så at få sikkerhed for, at man kan straffe efter §
+102 og § 101 i straffeloven, hvis danskere tager ned og kæmper på
+ISIL's side. Jeg synes, det er skuffende, at Socialdemokratiet ikke –
+som vi appellerede til her til morgen – vil arbejde konstruktivt på at
+få den sag på plads. Hvis det ikke står tindrende klart, så bør vi gøre
+det tindrende klart i straffelovgivningen.";Lars Barfoed
+15005;Time;"Formanden:
+Hr. Morten Bødskov.";Kl. 09:14
+15047;Time;;Kl. 09:14
+15067;name_party;":
+Selv om der er afholdt to møder om det her spørgsmål, et samråd i
+Folketingets Retsudvalg i går eftermiddags og et samråd her til morgen i Folketings Forsvarsudvalg, har hr. Lars Barfoed åbenbart ikke
+lyttet efter. Det er jo sagt fuldstændig tindrende klart. Punkt 1: Vi
+har den straffelov, vi har. Punkt 2: Det kan bestemt ikke afvises, at
+
+4
+
+Torsdag den 2. oktober 2014 (B 123)
+
+de her folk, hvis de er landsforrædere, kan falde ind under det, men
+for at være knusende sikker på det spørgsmål, har justitsministeren
+sagt, at så beder vi Straffelovrådet om at affeje enhver tvivl. Hvis der
+er tvivl, har regeringen også sagt, at så er vi klar til at rette op på det.
+Det er da sådan set meget, meget enkelt og meget, meget klart. Jeg
+forstår simpelt hen ikke, hvorfor man vil gøre en diskussion ud af
+det, her et kvarter før flyene står og skal til at lette.";Morten Bødskov
+15940;Time;;Kl. 09:14
+15951;Time;"Formanden:
+Hr. Søren Pind.";Kl. 09:16
+15989;Time;;Kl. 09:16
+16005;name_party;":
+Kunne hr. Lars Barfoed eventuelt udtrykke meget kort, hvorfor han
+tror det forholder sig sådan?";Søren Pind
+16112;Time;"Formanden:
+Ordføreren.";Kl. 09:16
+16146;Time;;Kl. 09:14
+16165;name_party;":
+Jamen det er jo ikke mig, der gør en diskussion ud af det, det er hr.
+Morten Bødskov, der bliver ved med at tage ordet og vil diskutere
+det. Sådan er det jo.
+Med hensyn til Straffelovrådet, som jeg har meget respekt for, og
+som jeg synes det er helt naturligt at inddrage i sådan nogle spørgsmål, vil jeg bare sige, at hvis de skal bruge et år eller to på at sidde
+og filosofere over den sag, kan det jo være, at vi har trukket vores
+styrker hjem, fordi ISIL er blevet bekæmpet. Så har der været danskere nede og kæmpe på ISIL's side, men de kan ikke straffes, for de
+kan ikke straffes, før Straffelovrådet har tænkt over tingene, og hvis
+vi så har vedtaget noget i Folketinget, er det alt for sent. Det er derfor, vi gerne ville have den afklaring så hurtigt som muligt, og hvis
+vi ikke kan få det, så vil vi så hurtigt som muligt have ændret loven,
+så det står tindrende klart, at de kan straffes.";Lars Barfoed
+17076;Time;"Formanden:
+Hr. Søren Pind for en kort bemærkning.";Kl. 09:15
+17137;Time;;Kl. 09:15
+17153;name_party;":
+Man kan undre sig over, at hr. Morten Bødskov tager ordet i en sammenhæng, hvor regeringen har brug et flertal. Det er lidt mærkeligt. I
+forhold til det med standpunkter vil jeg sige, at det jo ikke er forunderligt, at regeringen eller venstrefløjen skifter standpunkt døgn for
+døgn; det har vi tit og ofte oplevet. Så jeg synes egentlig ikke, at hr.
+Lars Barfoed skal være så overrasket.
+Mit spørgsmål lyder: Kan hr. Lars Barfoed bekræfte, at ikke ét
+parti på venstrefløjen og i regeringen kan tiltræde, at det er landsforræderi, når danske skyder mod danske styrker i udlandet, at ikke ét
+parti har valgt at tiltræde tillægsbetænkningen, at det nu er på den
+baggrund, vi sender danske styrker i kamp, og at det udelukkende er
+borgerlige partier, der klart statuerer, at der selvfølgelig er tale om
+landsforræderi i den her sammenhæng?";Søren Pind
+18001;Time;"Formanden:
+Ordføreren.";Kl. 09:16
+18035;Time;;Kl. 09:16
+18054;name_party;":
+Det er jo for en gangs skyld ærgerligt at skulle give hr. Søren Pind
+ret. Normalt er jeg glad for at kunne gøre det, men i dag er jeg lidt
+ærgerlig over at give hr. Søren Pind ret. Men det er jo rigtigt, at sådan forholder det sig. Jeg håber alligevel, at det lykkes efter i dag i et
+konstruktivt samarbejde at få et bredt flertal, der vil være med til at
+gøre det tindrende klart, at det selvfølgelig er forræderi at tage ned
+og kæmpe på ISIL's side mod danske tropper, og jeg appellerer til, at
+vi kan få et bredt samarbejde om det.
+
+Formanden:
+Ordføreren.";Lars Barfoed
+18624;Time;;Kl. 09:16
+18643;name_party;":
+Nej, det går lidt ud over min fatteevne, hvorfor det forholder sig sådan. Jeg synes, det er mærkværdigt, for det havde været meget let
+her til morgen i forbindelse med udvalgsmødet, hvor vi appellerede
+til det, at tilkendegive, at det ville man gerne samarbejde om. Men
+den tilkendegivelse kunne vi ikke få.";Lars Barfoed
+18962;Time;"Formanden:
+Hr. Uffe Elbæk for en kort bemærkning.";Kl. 09:17
+19023;Time;"Uffe Elbæk (UFG):
+Jeg synes, det kun er udmærket, at det kom i udvalget i går. Det var
+jo et meget specielt forløb sidst på aftenen, og det er jo fint, at vi får
+en afklaring af, om der er nogle uklarheder. Det lyder på Lars Barfoed til, at oppositionen føler, at de er kommet tættere på en afklaring i forhold til det standpunkt, de kommer med her i dag. Kunne
+Lars Barfoed ikke bare kort sige: Kom der overhovedet nogen nye
+informationer på udvalgsmødet i dag, som ikke blev præsenteret i
+går af udenrigsministeren? For os, der ikke var med til udvalgsmødet
+her til morgen, står det meget klart, for Lars Barfoed siger: Vi er
+kommet tættere på en afklaring.
+Så jeg spørger: Kom der overhovedet nogen nye informationer på
+udvalgsmødet her til morgen, som ikke kom i salen i går?";Kl. 09:17
+19814;Time;"Formanden:
+Ordføreren.";Kl. 09:17
+19848;Time;;Kl. 09:17
+19867;name_party;":
+Det er sådan, at justitsministeren jo var i samråd i Retsudvalget i går.
+Men nu havde vi så også lejlighed til at have justitsministeren i samråd i Forsvarsudvalget, og justitsministeren gav faktisk en, synes jeg,
+saglig og redelig orientering og redegørelse for, hvordan tingene set
+fra Justitsministeriet hænger sammen juridisk, og hun sagde også lidt
+mere detaljeret, hvorfor man mener, at der ikke er fuldstændig sikkerhed for, at der i straffelovens forstand er tale om krig, således at
+man kan bringe de bestemmelser i anvendelse. Vi fire partier mener
+imidlertid, at det må være sådan, at man kan bringe de bestemmelser
+i anmeldelse. Men med den tilkendegivelse fra justitsministeren,
+som er fair og redeligt nok, mener vi også, at der vil være grundlag
+for, at vi nu så hurtigt som muligt får gjort det mere klart. Det er så
+langt, vi kunne komme en afklaring. Men jeg synes, at det var det
+værd.";Lars Barfoed
+20783;Time;"Formanden:
+Hr. Uffe Elbæk.
+
+Torsdag den 2. oktober 2014 (B 123)";Kl. 09:18
+20860;Time;"Uffe Elbæk (UFG):
+Jeg synes jo, det er udmærket, at oppositionen gør sin holdning tydelig. Men jeg spørger lige en gang til: Kom der nogen nye informationer i udvalget, som ikke blev præsenteret i går af udenrigsministeren?
+
+5
+
+afgør, om højrefløjen kan stemme for eller imod i så afgørende en
+sag; som afgør, om det her skal trækkes i langdrag eller ej?";Kl. 09:18
+21226;Time;"Formanden:
+Ordføreren.";Kl. 09:21
+21260;Time;;Kl. 09:21
+21271;Time;"Formanden:
+Ordføreren.";Kl. 09:19
+21305;Time;;Kl. 09:19
+21324;name_party;":
+Vi fik en uddybning af det, udenrigsministeren kunne redegøre for i
+salen i går, som jeg lige har forklaret det.";Lars Barfoed
+21457;name_party;":
+Altså, så vil jeg sige til fru Johanne Schmidt-Nielsen, at muntre
+spørgsmål også kræver muntre svar. Men det er en alvorlig sag, ja.
+Så vil jeg gerne give den tilkendegivelse – måske kan jeg også
+her tale på alle fire partiers vegne – at nej, jeg tror aldrig nogen sinde, det kommer til at ske, at det er hr. Holger K. Nielsen, der er afgørende for, om vi stemmer for eller imod et forslag her i Folketinget.
+Det har det bestemt ikke været i denne sag.";Lars Barfoed
+21922;Time;"Formanden:
+Fru Johanne Schmidt-Nielsen for en kort bemærkning.";Kl. 09:19
+21997;Time;"Formanden:
+Jeg siger tak til ordføreren. Udenrigsministeren.";Kl. 09:22
+22069;Time;;Kl. 09:19
+22080;Time;;Kl. 09:22
+22110;name_party;":
+Står hr. Lars Barfoed virkelig på Folketingets talerstol og siger: Jamen det er også bare Holgers skyld, eller undskyld, hr. Holger K.
+Nielsens skyld? Er det virkelig det, hr. Lars Barfoed står på Folketingets talerstol og siger? Er sandheden den, at højrefløjen i går syntes, at hr. Holger K. Nielsen var sådan lidt irriterende og provokerende, og derfor valgte man at trække den her sag i langdrag?
+
+Udenrigsministeren (Martin Lidegaard):
+God morgen. Som det er alle bekendt, havde vi i går en længere
+drøftelse om straffelovens anvendelse, især straffelovens § 102 om
+bistand til fjenden under krig og besættelse. Jeg vil forsøge her at
+opsummere de svar, der er blevet givet både under lovgivningsprocessen og i går aftes, i et forsøg på at skabe en klarhed, der forhåbentlig kan resultere i, at vi om ganske kort tid i værdighed kan give
+vores soldater den opbakning, de fortjener.
+Der er ingen tvivl om, at danskere, der tilslutter sig terrororganisationen ISIL, kan straffes og skal straffes hårdt. Det kan ske ifølge
+straffelovens § 114, den såkaldte terrorlovgivning. Der har vi en
+strafferamme, der er op til livstid. Det kan heller ikke udelukkes, at
+det kan ske i henhold til § 102, den såkaldte landssvigerparagraf.
+Men den konkrete vurdering af, om den ene eller anden paragraf anvendes, og i hvilket omfang den anvendes, er domstolenes afgørelse.
+Men lad mig bare i al stilfærdighed sige, at hvis domstolene skulle
+vælge, som nogle partier ønsker, at anvende § 102, er der tale om en
+lavere strafferamme, end der er i terrorparagraffen. Så man skal selvfølgelig tænke over, hvilke signaler man ønsker at sende.
+Til sidst vil jeg bare sige, at hvis man har et ønske om at ændre i
+straffeloven for at sikre, at det er den mildere § 102, der finder anvendelse, af politiske grunde – jeg taler her om hele diskussionen om
+landsforræderi – så er det jo en selvstændig lovproces, som vi i regeringen naturligvis vil kigge på med politisk alvor og seriøsitet, som
+det skal være i Folketinget. Vi har igangsat en undersøgelse, som jeg
+også gjorde opmærksom på i går, hvor vi har bedt Straffelovrådet
+om at kigge på det, og det er, fordi – og det er det sidste, jeg skal
+sige – hele diskussionen bl.a. handler om, hvorvidt det her i juridisk
+forstand er en krig eller en væbnet konflikt. Og det er desværre ikke
+noget, jeg kan stå her og bestemme eller beslutte om det er, for her
+har vi at gøre med den internationale folkeret, der anvender nogle
+meget præcise definitioner på det. Vores vurdering er, at ifølge den
+internationale folkeret er der tale om en ikkeinternational væbnet
+konflikt, som jeg også gjorde opmærksom på i går. Det er derfor, at
+jeg ikke kan garantere, at § 102 kommer i anvendelse. Jeg kan derfor
+hverken bede domstolene eller nogle andre om at anlægge den fortolkning på grund af den tredeling af magten, som bl.a. hr. Holger K.
+Nielsen var inde på.
+Jeg håber, at disse ord er med til at afklare de spørgsmål, der har
+været. Jeg takker for debatten og håber på Folketingets velvillige behandling.";Johanne Schmidt-Nielsen
+25150;Time;"Formanden:
+Ordføreren.";Kl. 09:19
+25184;Time;;Kl. 09:19
+25203;name_party;":
+Må jeg sige til fru Johanne Schmidt-Nielsen, at jeg ikke har ment, at
+hr. Holger K. Nielsen var provokerende, men han var hidsig, rigtig
+hidsig (Munterhed), og jeg mener heller ikke, at alt, hvad der er sket,
+er hr. Holger K. Nielsens skyld. Men hr. Holger K. Nielsen bebrejdede os, at vi havde fået sagen i udvalg her til morgen, og der tillod
+jeg mig stilfærdigt og diplomatisk, for jeg vil nødig provokere hr.
+Holger K. Nielsen til at blive hidsig igen, bare at gøre opmærksom
+på, at det altså var hr. Holger K. Nielsen selv, som på den her talerstol sent i går aftes opfordrede til, at vi trak sagen tilbage til udvalget, så vi kunne få mere afklaring – helt stilfærdigt.";Lars Barfoed
+25890;Time;"Formanden:
+Fru Johanne Schmidt-Nielsen.";Kl. 09:20
+25941;Time;;Kl. 09:20
+25971;name_party;":
+Nu griner vi lidt, for det er jo meget sjovt, og er hr. Holger K. Nielsen hidsig osv., men det er sådan set en ret alvorlig sag. Altså, det, vi
+skal tage stilling til, er, om Danmark skal sende fly af sted i en meget alvorlig konflikt. Der er ikke kommet noget nyt frem fra i går til
+i dag. Der var ikke sket noget nyt, siden højrefløjen havde skrevet i
+betænkningen, at man ville stemme for, til man så stod i Folketingssalen og blev lidt sure eller syntes, at hr. Holger K. Nielsen var lidt
+irriterende.
+Er det virkelig den tilgang, højrefløjen har til så vigtigt, så alvorligt et emne? Det er en tilgang, der betyder, at hvis hr. Holger K.
+Nielsen bliver lidt hidsig, så putter man grus i det hele, så udskyder
+man sagen. Er det virkelig hr. Holger K. Nielsens temperament, som
+
+6
+
+Torsdag den 2. oktober 2014 (FM )";Johanne Schmidt-Nielsen
+26803;Time;"stens side til at stemme imod forslaget; Enhedslisten ønsker ikke en
+ny krig i Irak.
+
+Formanden:
+Nu er der en kort bemærkning fra hr. Christian Juhl.";Kl. 09:25
+26965;Time;;Kl. 09:28
+26975;Time;;Kl. 09:25
+26996;name_party;":
+Regeringen vil sende 200 mand og syv bombefly til Irak efter en forceret og kaotisk proces, uden at vi har kunnet få vigtige FN-dokumenter, som beslutningen hviler på, oversendt på dansk, uden et forsøg på at få FN til at stå for aktionen mod ISIL, uden en skriftlig anmodning fra Irak – deltagelsen bygger på en mundtlig aftale – uden
+en strategi for, hvad der skal ske, hvis ISIL trækker sig ind i byerne
+eller over til Syrien, uden en garanti for, at kurderne, der i øjeblikket
+er det stærkeste kort på landjorden, har modtaget våben via det danske Herkulesfly, og med stor risiko for, at danske fly deltager i
+bombninger af bymæssig bebyggelse, med stor risiko for, at mange
+civile rammes, med stor risiko for, at ISIL vil svare igen i deltagerlandene, bl.a. i Danmark, og med stor risiko for, at det danske bidrag
+gavner ISIL og dermed forværrer situationen. Det er de fakta, der er
+ud af de nogle og firs svar, vi fik i går. Det synes jeg godt nok er et
+problematisk grundlag at tage den her beslutning på, så jeg vil da gerne bede ministeren om at overveje, om det her er forsvarligt.";Christian Juhl
+28099;Time;"Formanden:
+Udenrigsministeren.";Kl. 09:26
+28141;Time;"Udenrigsministeren (Martin Lidegaard):
+Jeg opfatter hr. Christian Juhls indlæg som en gentagelse eller klargøring af den lange debat, vi havde i går, så jeg tror ikke, jeg vil gå i
+detaljer, men skal måske for god ordens skyld sige, at det folkeretlige grundlag i denne sag, altså om vi har det folkeretlige grundlag i
+orden, kan der efter min mening ikke sættes spørgsmålstegn ved.
+Irak har henvendt sig skriftligt til FN for at få hjælp, og jeg har ganske rigtigt også haft en samtale med den irakiske udenrigsminister.
+Der er ingen tvivl om, at Irak har brug for hjælp for at forsvare sit
+eget territorium og sin egen civilbefolkning, og der er heller ikke nogen tvivl om, at Irak har bedt om hjælp i den henseende.
+
+Formanden:
+Tak til ordføreren. Der er så flere, der ønsker ordet? Hr. Holger K.
+Nielsen.";Kl. 09:26
+28961;Time;(Ordfører);Kl. 09:28
+28996;name_party;":
+Det er jo rigtig nok en meget alvorlig beslutning, vi skal træffe om
+lidt. Det er det altid, når et land går ind i en militær operation, går i
+krig, som tilfældet er her. Det er også derfor, vi har haft en grundig
+debat, og man kan mene, at den burde have været grundigere – det
+skulle den måske nok have været – men den har trods alt været grundig.
+Jeg vil godt lige anholde en ting, som blev sagt før af hr. Nikolaj
+Villumsen, nemlig at det her er det samme som den sidste Irakkrig.
+Det er det ikke! Det synes jeg er meget, meget vigtigt at få sagt. Jeg
+gjorde rede for det i går i min ordførertale under førstebehandlingen:
+Der er væsentlige forskelle i forhold til situationen i 2003. Først og
+fremmest er det folkeretlige grundlag i orden. Der er ikke tale om, at
+vi skal ind og besætte Irak, som det var meningen dengang. Vi er ikke moderne demokratiske korsfarere, som George Bush og Anders
+Fogh Rasmussen var dengang. Der er en bred koalition den her
+gang, hvor også en række sunnilande er med. Det her har ikke givet
+en splittelse blandt de europæiske lande, som tilfældet var sidste
+gang. Og det vil sige, at overordnet er der tale om en begrænset operation, hvor vi ikke skal besætte Irak, men hvor vi skal hjælpe tropper på jorden: de kurdiske tropper, de irakiske tropper. Det er det,
+som er vores opgave her, og derfor er det her noget helt andet, end
+det var tilfældet i 2003.";Holger K. Nielsen
+30399;Time;"Formanden:
+Tak til ordføreren. Ønsker flere ordet?
+Da det ikke er tilfældet, går vi til afstemning.";Kl. 09:30
+30510;Time;;Kl. 09:30
+30521;Time;"Afstemning
+Formanden:
+Hr. Christian Juhl? Nej. Så siger jeg tak til udenrigsministeren. Er
+der flere, der ønsker ordet? Hr. Nikolaj Villumsen.";Kl. 09:27
+30675;Time;(Ordfører);Kl. 09:27
+30710;name_party;":
+Krig er en meget, meget alvorlig sag, krig kan koste soldater og civile livet. Når vi om lidt skal stemme om, om Danmark endnu en gang
+skal gå i krig i Irak, så gør vi det på en baggrund af, at den sidste
+danske krig i Irak medvirkede til at skabe det kaos og styrke de ekstremister, som lige nu er i landet. I Enhedslisten er vi imod forslaget
+fra regeringen. I Enhedslisten ønsker vi at bekæmpe ISIL. Derfor
+fremsatte vi også forslag om at støtte de demokratiske styrker i de
+kurdiske områder i Syrien. Vi er triste over, at det forslag blev afvist,
+for de kæmper en ensom og desperat kamp i forsøget på at afværge
+en truende humanitær katastrofe. Men i forslaget fra regeringen frygter jeg at det vil styrke de ekstreme kræfter. Jeg frygter de civile tab,
+som kommer, når man laver luftangreb, og som særlig kommer, fordi regeringen i de svar, der er givet til Folketinget, ikke udelukker, at
+der kan blive bombet i tætbefolkede områder. Jeg frygter, at disse
+bombardementer vil styrke ISIL. Derfor kommer vi fra Enhedsli-
+
+Formanden:
+Der stemmes om forslagets endelige vedtagelse, og der kan stemmes
+nu.
+Jeg slutter afstemningen.
+For stemte 94 (V, S, DF, RV, SF, LA og KF), imod stemte 9 (EL og
+Uffe Elbæk (UFG)), hverken for eller imod stemte 0.
+Forslaget til folketingsbeslutning er vedtaget og vil nu blive sendt til
+udenrigsministeren.";Nikolaj Villumsen
+32066;Time;"Meddelelser fra formanden
+Formanden:
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes på tirsdag den 7. oktober 2014, kl.
+12.00.
+
+Torsdag den 2. oktober 2014 (FM )
+
+Jeg henviser til den dagsorden, der vil fremgå af Folketingets
+hjemmeside.
+Mødet er hævet. (Kl. 09:32).
+
+7";Kl. 09:31

@@ -1,0 +1,1346 @@
+split;reason;text;value
+0;;"Fredag den 1. juni 2018 (D)
+
+106. møde";
+72;Time;"Dagsorden
+1) Fortsættelse af forespørgsel nr. F 28 [afstemning]:
+Forespørgsel til udenrigsministeren om finansiering af tyrkisk
+grænseværn på grænsen til Syrien.
+Af Rasmus Nordqvist (ALT) og Carolina Magdalene Maier (ALT).
+(Anmeldelse 03.04.2018. Fremme 05.04.2018. Forhandling
+31.05.2018. Forslag til vedtagelse nr. V 74 af Claus Kvist Hansen
+(DF). Forslag til vedtagelse nr. V 75 af Nick Hækkerup (S), Michael
+Aastrup Jensen (V), Henrik Dahl (LA), Martin Lidegaard (RV) og
+Naser Khader (KF). Forslag til vedtagelse nr. V 76 af Rasmus Nordqvist (ALT), Søren Søndergaard (EL) og Holger K. Nielsen (SF)).
+2) 3. behandling af lovforslag nr. L 227:
+Forslag til lov om ændring af afskrivningsloven og ligningsloven.
+(Højere skattefradrag for udgifter til forsøgs- og forskningsvirksomhed).
+Af skatteministeren (Karsten Lauritzen).
+(Fremsættelse 25.04.2018. 1. behandling 03.05.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018).
+3) 3. behandling af lovforslag nr. L 207:
+Forslag til lov om ændring af fusionsskatteloven. (Beskatning af løbende indtægter ved grænseoverskridende omstruktureringer).
+Af skatteministeren (Karsten Lauritzen).
+(Fremsættelse 23.03.2018. 1. behandling 08.05.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018).
+4) 3. behandling af lovforslag nr. L 237 B:
+Forslag til lov om ændring af selskabsskatteloven og kildeskatteloven. (Justering af reglerne om fast driftssted ved investering via
+transparente enheder).
+Af skatteministeren (Karsten Lauritzen).
+(2. behandling 29.05.2018. Lovforslaget optrykt efter 2. behandling).
+5) 3. behandling af lovforslag nr. L 238:
+Forslag til lov om ændring af ligningsloven og personskatteloven.
+(Lavere skat på arbejdsindkomst og større fradrag for pensionsindbetalinger m.v.).
+Af skatteministeren (Karsten Lauritzen).
+(Fremsættelse 02.05.2018. 1. behandling 08.05.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018. Lovforslaget optrykt efter 2.
+behandling).
+6) 3. behandling af lovforslag nr. L 123:
+Forslag til lov om Vækstfonden.
+Af erhvervsministeren (Brian Mikkelsen).
+
+1
+
+(Fremsættelse 20.12.2017. 1. behandling 16.01.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018. Lovforslaget optrykt efter 2.
+behandling).
+7) 3. behandling af lovforslag nr. L 222:
+Forslag til lov om indfødsrets meddelelse.
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 19.04.2018. 1. behandling 26.04.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018. Lovforslaget optrykt efter 2.
+behandling).
+8) 3. behandling af lovforslag nr. L 141:
+Forslag til lov om ændring af udlændingeloven. (Smidigere regler
+for bibeskæftigelse og frivilligt arbejde for udenlandske arbejdstagere m.v.).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 07.02.2018. 1. behandling 01.03.2018. Betænkning
+10.04.2018. 1. del af 2. behandling 17.05.2018. Tilføjelse til betænkning 22.05.2018. Ændringsforslag nr. 8 af 28.05.2018 uden for tilføjelsen til betænkningen af Sofie Carsten Nielsen (RV). Fortsættelse
+af 2. behandling 29.05.2018. Lovforslaget optrykt efter 2. behandling. Ændringsforslag nr. 1 af 31.05.2018 af udlændinge- og integrationsministeren (Inger Støjberg)).
+9) 2. (sidste) behandling af beslutningsforslag nr. B 130:
+Forslag til folketingsbeslutning om en folkeafstemning forud for
+dansk deltagelse i EU's bankunion.
+Af Kenneth Kristensen Berth (DF) m.fl.
+(Fremsættelse 23.03.2018. 1. behandling 22.05.2018. Betænkning
+25.05.2018).
+10) 2. (sidste) behandling af beslutningsforslag nr. B 105:
+Forslag til folketingsbeslutning om Danmarks tilslutning på mellemstatsligt grundlag til Europa-Parlamentets og Rådets forordning om
+oprettelse af et EU-system vedrørende rejseinformation og rejsetilladelse (ETIAS) og om ændring af forordning (EU) nr. 515/2014,
+(EU) 2016/399 og (EU) 2016/1624.
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 21.03.2018. 1. behandling 05.04.2018. Betænkning
+29.05.2018. Ændringsforslag nr. 1 og 2 af 31.05.2018 uden for betænkningen af udlændinge- og integrationsministeren (Inger Støjberg)).
+11) 2. behandling af lovforslag nr. L 225:
+Forslag til lov om ændring af lov om danskuddannelse til voksne udlændinge m.fl. (Indførelse af deltagerbetaling for danskuddannelse
+til udenlandske arbejdstagere, studerende m.v.).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 25.04.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).
+
+2
+
+Fredag den 1. juni 2018 (FM )
+
+12) 2. behandling af lovforslag nr. L 231:
+Forslag til lov om ændring af udlændingeloven. (Reform af reglerne
+om ægtefællesammenføring med nyt integrationskrav i stedet for tilknytningskravet, skærpet boligkrav m.v.).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 26.04.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018. Ændringsforslag nr. 22 af 31.05.2018 uden for betænkningen af udlændinge- og integrationsministeren (Inger Støjberg)).
+13) 2. behandling af lovforslag nr. L 239:
+Forslag til lov om ændring af lov om aktiv socialpolitik, lov om Udbetaling Danmark og udlændingeloven. (Indførelse af beskæftigelseskrav for ret til uddannelses- og kontanthjælp og forlængelse af
+opholdskravet samt ophævelse af bestemmelsen om opholdstilladelse på baggrund af arbejdsmarkedstilknytning).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 04.05.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).
+14) 2. behandling af lovforslag nr. L 189:
+Forslag til lov om ændring af udlændingeloven. (Justering af kravene i beløbsordningen).
+Af Martin Henriksen (DF) m.fl.
+(Fremsættelse 20.03.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).
+15) 2. behandling af lovforslag nr. L 215:
+Forslag til lov om ændring af udlændingeloven, ferieloven og lov
+om danskuddannelse til voksne udlændinge m.fl. (Afskaffelse af au
+pair-ordningen).
+Af Martin Henriksen (DF) og Karsten Hønge (SF) m.fl.
+(Fremsættelse 23.03.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).
+16) 2. behandling af lovforslag nr. L 230:
+Forslag til lov om ændring af lov om ophavsret. (Gennemførelse af
+Marrakeshdirektivet m.v.).
+Af kulturministeren (Mette Bock).
+(Fremsættelse 25.04.2018. 1. behandling 02.05.2018. Betænkning
+30.05.2018).
+17) 2. behandling af lovforslag nr. L 236:
+Forslag til lov om nedsættelse af statstilskuddet til kommuner som
+følge af indtægter fra parkering.
+Af økonomi- og indenrigsministeren (Simon Emil Ammitzbøll-Bille).
+(Fremsættelse 02.05.2018. 1. behandling 09.05.2018. Betænkning
+29.05.2018. Ændringsforslag nr. 7 og 8 af 31.05.2018 uden for betænkningen af økonomi- og indenrigsministeren (Simon Emil Ammitzbøll-Bille)).
+18) 2. behandling af lovforslag nr. L 232:
+Forslag til lov om ændring af lov om en aktiv beskæftigelsesindsats,
+lov om social service, lov om integration af udlændinge i Danmark
+og forskellige andre love. (Mulighed for at udarbejde en helhedsorienteret plan til borgere med komplekse og sammensatte problemer).
+Af ministeren for offentlig innovation (Sophie Løhde).
+(Fremsættelse 26.04.2018. 1. behandling 03.05.2018. Betænkning
+29.05.2018).";kl. 10.00
+7140;Time;Meddelelser fra formanden;Kl. 10:00
+7203;title_name;":
+Mødet er åbnet.
+Til Folketingets dagsorden i dag, fredag den 1. juni 2018, har jeg fra
+statsministeren modtaget meddelelse om, at der ved kongelig resolution af 31. maj 2018 er bestemt, at ledelsen af de under Økonomi- og
+Indenrigsministeriets hørende forretninger fra den 31. maj 2018 til
+og med den 17. juni 2018 må blive overdraget til transport-, bygnings- og boligministeren.
+Meddelelsen vil fremgå af www.folketingstidende.dk (jf. nedenfor).
+[»Folketingets formand
+Efter min indstilling er det ved kongelig resolution af 31. maj 2018
+bestemt,
+at ledelsen af de under Økonomi- og Indenrigsministeriet hørende
+forretninger fra den 31. maj 2018 til og med den 17. juni 2018 må
+blive overdraget til transport-, bygnings- og boligministeren.
+Jeg beder formanden underrette Folketinget herom.
+Sign. Lars Løkke Rasmussen
+/Carsten Madsen«].
+
+Det første punkt på dagsordenen er:
+1) Fortsættelse af forespørgsel nr. F 28 [afstemning]:
+Forespørgsel til udenrigsministeren om finansiering af tyrkisk
+grænseværn på grænsen til Syrien.
+Af Rasmus Nordqvist (ALT) og Carolina Magdalene Maier (ALT).
+(Anmeldelse 03.04.2018. Fremme 05.04.2018. Forhandling
+31.05.2018. Forslag til vedtagelse nr. V 74 af Claus Kvist Hansen
+(DF). Forslag til vedtagelse nr. V 75 af Nick Hækkerup (S), Michael
+Aastrup Jensen (V), Henrik Dahl (LA), Martin Lidegaard (RV) og
+Naser Khader (KF). Forslag til vedtagelse nr. V 76 af Rasmus Nordqvist (ALT), Søren Søndergaard (EL) og Holger K. Nielsen (SF)).";Christian Juhl
+8684;Time;Afstemning;Kl. 10:01
+8732;title_name;":
+Forhandlingen er sluttet, og vi går til afstemning om de fremsatte
+forslag til vedtagelse. Der foreligger tre forslag.
+Der stemmes først om forslag til vedtagelse nr. V 75 af Nick Hækkerup (S), Michael Aastrup Jensen (V), Henrik Dahl (LA), Martin Lidegaard (RV) og Naser Khader (KF). Og der kan stemmes nu.
+Jeg afslutter afstemningen nu.
+For stemte 62 (S, V, LA, RV og KF), imod stemte 39 (DF, EL, ALT
+og SF), hverken for eller imod stemte 0.
+Forslag til vedtagelse nr. V 75 er vedtaget.
+
+Fredag den 1. juni 2018 (L 227)
+
+Herefter er forslag til vedtagelse nr. V 74 af Claus Kvist Hansen
+(DF) og forslag til vedtagelse nr. V 76 af Rasmus Nordqvist (ALT),
+Søren Søndergaard (EL) og Holger K. Nielsen (SF) bortfaldet.
+Hermed er forespørgslen afsluttet.
+
+3";Christian Juhl
+9499;Time;Afstemning;Kl. 10:03
+9547;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse. Og der kan
+stemmes nu.
+Jeg afslutter afstemningen nu.
+
+Det næste punkt på dagsordenen er:
+2) 3. behandling af lovforslag nr. L 227:
+Forslag til lov om ændring af afskrivningsloven og ligningsloven.
+(Højere skattefradrag for udgifter til forsøgs- og forskningsvirksomhed).
+Af skatteministeren (Karsten Lauritzen).
+(Fremsættelse 25.04.2018. 1. behandling 03.05.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018).";Christian Juhl
+10023;Time;Forhandling;Kl. 10:02
+10072;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen af jer, der ønsker at udtale sig?
+Det er der ikke, så vi går til afstemning.
+
+For stemte 102 (S, DF, V, EL, LA, ALT, RV, SF og KF), imod
+stemte 0, hverken for eller imod stemte 0.
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+4) 3. behandling af lovforslag nr. L 237 B:
+Forslag til lov om ændring af selskabsskatteloven og kildeskatteloven. (Justering af reglerne om fast driftssted ved investering
+via transparente enheder).
+Af skatteministeren (Karsten Lauritzen).
+(2. behandling 29.05.2018. Lovforslaget optrykt efter 2. behandling).";Christian Juhl
+10725;Time;;Kl. 10:04
+10736;Time;"Forhandling
+Afstemning";Kl. 10:03
+10796;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse. Og der kan
+stemmes nu.
+Jeg afslutter afstemningen nu.
+For stemte 84 (S, DF, V, LA, RV og KF), imod stemte 17 (EL, ALT
+og SF), hverken for eller imod stemte 0.
+Lovforslaget er vedtaget og vil nu blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+3) 3. behandling af lovforslag nr. L 207:
+Forslag til lov om ændring af fusionsskatteloven. (Beskatning af
+løbende indtægter ved grænseoverskridende omstruktureringer).
+Af skatteministeren (Karsten Lauritzen).
+(Fremsættelse 23.03.2018. 1. behandling 08.05.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018).";Christian Juhl
+11432;Time;Forhandling;Kl. 10:03
+11481;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen af jer, der ønsker at udtale sig?
+Det er der ikke, så vi går til afstemning.";Christian Juhl
+11646;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Det er ikke tilfældet, så vi går til afstemning.";Christian Juhl
+11771;Time;Afstemning;Kl. 10:04
+11819;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse. Og der kan
+stemmes nu.
+Jeg afslutter afstemningen nu.
+For stemte 88 (S, DF, V, LA, RV, KF, 2 (ALT) (ved en fejl) og 2
+(SF) (ved en fejl)), imod stemte 12 (EL, ALT og SF), hverken for
+eller imod stemte 0.
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.
+
+4
+
+Fredag den 1. juni 2018 (L 238)
+
+Det næste punkt på dagsordenen er:
+5) 3. behandling af lovforslag nr. L 238:
+Forslag til lov om ændring af ligningsloven og personskatteloven. (Lavere skat på arbejdsindkomst og større fradrag for pensionsindbetalinger m.v.).
+Af skatteministeren (Karsten Lauritzen).
+(Fremsættelse 02.05.2018. 1. behandling 08.05.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018. Lovforslaget optrykt efter 2.
+behandling).";Christian Juhl
+12598;Time;Forhandling;Kl. 10:05
+12647;title_name;":
+Der er ikke stillet ændringsforslag. Skatteministeren ønsker at få ordet. Værsgo.";Christian Juhl
+12740;Time;;Kl. 10:05
+12778;title_name;":
+Tak skal du have, formand. Når der forhåbentlig er et flertal, der om
+lidt vedtager det her lovforslag, bliver det formentlig kun med stemmer fra regeringen og Dansk Folkeparti. Det er måske ikke så overraskende, når vi i Folketinget ikke er helt enige, når det handler om
+skattelettelser, men det kan alligevel undre, at et forslag med det her
+indhold ikke har bredere opbakning i Folketinget, og det vil jeg godt
+bruge et par ord på her i dag.
+Der skal ikke herske nogen tvivl om, at den her regering arbejder
+for at lette skatten på at arbejde – noget, jeg noterede mig mange
+partier gik til valg på, også flere partier end dem, der stemmer for
+det forslag, regeringen kommer med her i dag – og når vi arbejder
+for det, gør vi det med lovforslaget her ved at indføre et jobfradrag
+målrettet lavere arbejdsindkomster. Jeg har hørt mange forskellige
+meninger om jobfradraget: Nogle synes, det er urimeligt, at folk med
+høje indkomster også får en skattelettelse, så de ville gerne have fradraget aftrappet. Sådan ser regeringen ikke på det, for vi havde gerne
+set, at vi i endnu højere grad kunne lette skatten, ikke bare for nogle,
+men for alle, der er i fuldtidsbeskæftigelse. Det er kun rimeligt, at
+dem, der går på arbejde, bliver belønnet i større omfang end i dag for
+at arbejde, for det er dem, der finansierer vores velfærdssamfund.
+Det der synspunkt om, at skattelettelsen skal målrettes nogle, og så
+er der nogle, der ikke skal have den, er et mærkeligt synspunkt, og
+det svarer lidt til, at man går ind til de offentlige overenskomstforhandlinger, og så siger man, at der kun er én faggruppe, der skal have en lønstigning, mens nogle andre faggrupper absolut ingenting
+skal have. Der kan godt være forskel, når man laver offentlige overenskomstforhandlinger, på, hvem der skal have de største lønstigninger, men at have et udgangspunkt om, at nogle slet ikke skal belønnes for den arbejdsindsats, de har lagt, er meget mærkeligt, og det er
+den politik, en række partier her i Folketinget fører, når det handler
+om skattelettelser. Jeg synes, det er mærkværdigt.
+Jeg vil gerne slå noget helt fast: Der er ikke nogen, der med det
+her forslag får mere end det maksimale jobfradrag på 2.500 kr. i
+2020, så relativt set får de laveste indkomster mest ud af jobfradraget
+– de laveste indkomster får mest ud af jobfradraget. Der er så nogle,
+der mener, at jobfradraget bør gælde fra den først tjente krone, uanset om man er på kontanthjælp eller får løn, fordi man er ude at arbejde. Vi har foreslået, at jobfradraget bliver udmøntet i den aftale,
+vi har lavet med Dansk Folkeparti, i det her lovforslag, så det er målrettet folk i beskæftigelse. Så vi giver folk i beskæftigelse et incitament til at tage et arbejde eller arbejde noget mere, altså at gøre vores samfund rigere, og derfor er det selvfølgelig kun rimeligt, at det
+er forbeholdt lønindkomst og målrettet folk, der er på arbejdsmarkedet. Er det ikke urimeligt for dem, der står uden for arbejdsmarke-
+
+det? Det giver dem i hvert fald et incitament til at bevæge sig ind på
+arbejdsmarkedet, som er rimeligt.
+Så er der nogle, der siger, at de slet ikke vil give de lavestlønnede
+skattelettelser, og jeg kan virkelig undre mig over, at man i overenskomstforhandlinger kan kæmpe en hård kamp for højere løn, men
+ikke vil give arbejdstagerne mere på lommen gennem skattelettelser.
+Jeg savner noget sammenhæng hos de partier, der har den holdning.
+Til den sidstnævnte gruppe kan man medregne Socialdemokratiet,
+som med deres ændringsforslag, som blev nedstemt ved andenbehandlingen, hverken ønskede et målrettet jobfradrag, lettelser i
+bundskatten eller forhøjelse af loftet over beskæftigelsesfradraget.
+Jeg kunne så forstå, hvis man bare var imod forhøjelsen af beskæftigelsesfradraget, som der er noget fordelingsmæssigt i, men jeg undrer mig såre over, at Socialdemokratiet og en række andre partier i
+Folketinget ikke vil være med til at give helt almindelige, hårdtarbejdende danskere lidt flere penge på lommen – helt almindelige, hårdtarbejdende arbejdere, der får lov til at beholde lidt mere af deres løn.
+Ikke meget mere, men lidt mere.
+Det er meget overraskende, at der ikke er flere partier i Folketinget, der kan stemme for den del af lovforslaget, særlig når man kigger på den linje, der blev ført under den tidligere regering, hvor man
+lavede en skattereform, der jo er meget mere skæv end den skattereform, regeringen her har aftalt med Dansk Folkeparti, og som er meget mere ulige end den skattereform, regeringen har aftalt med Folketinget – den tidligere regering, der lavede en skattereform, hvor
+man løftede grænsen for topskat, som slet ikke indgår som et element i regeringens udspil. Det undrer mig altså meget, at man ikke
+kan se sig selv her under tredjebehandlingen kan se sig selv i det forslag, der ligger, så det må jeg sige jeg synes er meget mærkeligt, og
+det håber jeg der er nogle vælgere og nogle danskere der tager ad
+notam.
+Hvis de ændringsforslag, som Socialdemokraterne har stillet til
+andenbehandlingen, men som altså er stemt ned, var blevet stemt
+igennem, havde man fået en skattereform med et negativt arbejdsudbud, og det vil sige en skattereform, som ville gøre Danmark fattigere.";Karsten Lauritzen
+17979;Time;"Jeg vil også godt benytte lejligheden til at påpege her, at det er
+mærkeligt, at i øvrigt ansvarlige partier kan foreslå skattereformer,
+som har et negativt arbejdsudbud. Hvad betyder det? Det betyder, at
+det er en skattereform, som samlet set gør Danmark fattigere i stedet
+for at gøre Danmark rigere, og så svigter man en central politisk opgave set fra min side. Det er fair nok, at man ikke vil være med til
+det, regeringen foreslår, det er fair nok, at man har alternativer, men
+når man foreslår ting, der reelt gør Danmark fattigere, så er der
+grund til at undre sig fra Folketingets talerstol, og det gør jeg i dag
+som skatteminister.
+Jeg har også bemærket, at der har været en del udsagn, bl.a. fra
+socialdemokraternes side, om, at man må prioritere mellem skattelettelser og velfærd. Det er jo et helt rimeligt synspunkt, som også andre partier har. Nu forholder det sig imidlertid sådan, at det ene ikke
+udelukker det andet med det råderum, vi ser ind i. Og med regeringens skatteaftale, som altså udmøntes her med lovforslaget i dag, vil
+der overordnet set være plads i økonomien til også at håndtere det
+demografiske træk i perioden frem til 2025. Og med den økonomi,
+vi har i øjeblikket, hvor det buldrer frem, ser vi jo også ind i, at råderummet i hvert fald ikke bliver mindre, men muligvis bliver større
+end det, man har regnet med. Så den bekymring kan være fair nok at
+have, men når man dykker ned i tallene, mener jeg ikke, at der er
+fagligt grundlag for at have den.
+Afslutningsvis vil jeg godt knytte et par ord til Socialdemokratiets forslag om at nedsætte loftet for størrelsen af pensionsindbetalingerne, så man derved finansierer en højere fradragssats, som der også var et ændringsforslag om, der blev nedstemt ved andenbehand-
+
+Fredag den 1. juni 2018 (L 238)
+
+lingen. På den måde målretter man det, der er i forslaget her omkring
+samspilsproblemer, til at løse det for personer i lavindkomstgruppen,
+men det er ikke kun personer i lavindkomstgruppen, der er ramt af
+samspilsproblemer, som altså handler om, hvorvidt det kan betale
+sig at spare op til pension eller ej. Størrelsen på loftet for fradraget er
+afgørende for, at pensionsfradraget øger tilskyndelsen til at spare
+ekstra op til pension. Et lavere loft vil indebære, at færre personer vil
+få en ekstra gevinst ved at øge deres pensionsindbetalinger. Det gælder også personer, der ikke betaler topskat.
+Med det loft på 70.000 kr., som vi foreslår her i lovforslaget, vil
+personer, hvis pensionsindbetalinger udgør 13,7 pct. af lønnen i indkomsten, opnå det maksimale pensionsfradrag ved en lønindkomst
+svarende til topskattegrænsen. Det er ganske fornuftigt og afbalanceret. For et typisk medlem af Dansk Metal er indbetalingsprocenten
+f.eks. 12, mens den for gymnasielærere er 16,8. På den baggrund synes jeg, måske ikke så overraskende, at jeg vil benytte lejligheden til
+at gøre reklame for regeringens lovforslag her i dag og mene, at det
+er et velafbalanceret lovforslag, som vi tredjebehandler. Det er et
+forslag, der fortjener en bredere opbakning, end det får her ved afstemningen. Og det er jeg ikke ene om at mene. Forsikring & Pension har så sent som i mandags direkte opfordret Folketingets politikere til at stå fast og vedtage det her forslag, som vi nu behandler. Og
+når brancheorganisationen for Danmarks forsikringsselskaber og
+pensionskasser, som jo til daglig har de her samspilsproblemer inde
+på livet, altså det, at det ikke kan betale sig at spare op for helt almindelige danskere, går ud med sådan en klar opfordring, så synes
+jeg også, at Folketinget skylder at lytte til dem, og derfor vil jeg godt
+understrege den anbefaling her i dag.
+Forslaget kommer rigtig mange danskere til gode. Jeg synes, det
+ville være en god måde at runde folketingssamlingen af på og gå på
+sommerferie, at der var en bred kreds af partier i Folketinget, som
+stemte for det forslag, der ligger.";Kl. 10:10
+21875;Time;;Kl. 10:14
+21912;title_name;":
+Tak til ministeren. Det affødte tre korte bemærkninger, og den første
+er fra hr. Rune Lund fra Enhedslisten.";Christian Juhl
+22032;Time;;Kl. 10:14
+22048;name_party;":
+Der er jo en grund til, at vi nogle, som ikke stemmer for det her forslag i dag, og det er jo, at det er pilskævt, og at det også frem mod
+2025 tager 8 mia. kr. af råderummet, som skulle have været brugt til
+velfærd. Det er jo interessant, at der er så mange partier, der har lavet forringelser for de syge, for de handicappede og for de arbejdsløse med den begrundelse, at de penge da engang skulle bruges til velfærd, og så får man sådan aftale her, som er pilskæv, og hvor pengene så går til de folk, som i forvejen har mest.
+I forhold til det der målrettede jobfradrag, som skatteministeren
+taler om, må man jo bare sige, at hvis det skulle være målrettet dem,
+der har mindst, så gad jeg virkelig godt se, hvordan et jobfradrag for
+dem, der i forvejen har mest, ser ud set fra regeringens synspunkt,
+for vi kan jo se, at de 10 pct. med de laveste indkomster med det
+målrettede jobfradrag får 20 kr., mens de rigeste 10 pct. får 440 kr.
+Og jobfradraget koster 1,4 mia. kr. om året, men det er kun 160 mio.
+kr. af dem, der går til dem, som tjener op til 300.000 kr. om året –
+resten går til dem, der tjener mere end det.
+Hvis det her i noget som helst omfang er målrettet noget, så er
+det målrettet dem, der tjener mest. Hvordan kan det være et jobfradrag, som primært kommer dem, der tjener mindst, til gode? Det forstår jeg simpelt hen ikke.";Rune Lund
+23405;Time;;Kl. 10:15
+23442;title_name;":
+Ministeren.
+
+5";Christian Juhl
+23469;Time;;Kl. 10:15
+23507;title_name;":
+Altså, det målrettede jobfradrag er målrettet folk i fuldtidsbeskæftigelse, og der, hvor man får den relativt største lettelse, er i lavindkomstgruppen, der er i fuldtidsbeskæftigelse. Jobfradraget giver jo
+både HK'eren og direktøren 650 kr., og derfor er det mærkeligt at
+være imod sådan et målrettet jobfradrag.
+Jeg forstår godt, at Enhedslisten er modstander af forslaget. Enhedslisten vil jo bare bruge penge på velfærd – Enhedslisten vil ikke
+bruge penge på at gøre det her samfund rigere, hvilket vi gør ved at
+belønne dem, der arbejder. Det er ikke urimeligt at sige til en HK'er
+eller en LO'er på mindsteløn: Du får lov til at beholde lidt flere af
+dine egne penge. Det er altså ikke urimeligt, ligesom det ikke er urimeligt, at vi har givet dem mere i lønningsposen i forbindelse med
+de offentlige overenskomstforhandlinger, men der har vi altså også
+givet lægen, der knokler på sygehuset mere i lønningsposen, ligesom
+vi har gjort det til sygeplejersken og SOSU-assistenten. Der har vi
+ikke sagt til lægen: Du skal ikke have noget.
+Derfor er det mærkeligt, at Enhedslisten har den skattepolitik,
+men det er ikke en ny skattepolitik, og derfor er jeg ikke overrasket
+over hr. Rune Lunds synspunkter.";Karsten Lauritzen
+24727;Time;;Kl. 10:17
+24764;title_name;":
+Spørgeren.";Christian Juhl
+24786;Time;;Kl. 10:17
+24802;name_party;":
+Jeg vil gerne lige spørge: Hvis man har et såkaldt målrettet jobfradrag, som skal komme dem med de laveste indkomster til gode, og
+som koster 1,4 mia. kr. om året, men der kun er 160 mio. kr. af de
+1,4 mia. kr., der går til dem, som tjener op til 300.000 kr. om året,
+hvordan kan man dog så kalde det for et jobfradrag, der er målrettet
+dem med de laveste indkomster?
+Så er det rigtigt, at hvis vi måtte lave en ordning her, så ville vi
+ændre principperne for, hvornår man bliver modregnet i pensionstillægget, og vi ville finde finansieringen, ved at man ikke kunne fradrage pensionsindbetalinger i topskattenbetalingen. Det ville være en
+socialt afbalanceret løsning, som ville sikre, at dem, der tjener mest i
+det her samfund, ville bidrage mest til en sådan løsning, og det ville i
+øvrigt også komme rigtig mange pensionister til gavn, som allerede i
+dag er pensionister, og som ikke er erhvervsaktive, og som derfor
+bl.a. ikke får gavn af det, som regeringen foreslår her.";Rune Lund
+25791;Time;;Kl. 10:17
+25828;title_name;":
+Ministeren.";Christian Juhl
+25851;Time;;Kl. 10:17
+25889;title_name;":
+Alle får 650 kr., med det målrettede jobfradrag, og det vil sige, at
+den største relative andel går til lavindkomstgruppen. Sådan er det
+jo.
+Hvis man skulle gøre det, som Enhedslisten ønsker, så ville vi få
+en skattereform med et meget stort negativt arbejdsudbud, og så ville
+vi få en skattereform, hvor vi måske lavede lidt om på indkomstfordelingen, men hvor Danmark og danskerne samlet set blev fattigere.
+Jeg synes, det er en fattig skattepolitik at føre, og derfor er det ikke
+regeringens.";Karsten Lauritzen
+26396;Time;;Kl. 10:18
+26433;title_name;":
+Fru Lisbeth Bech Poulsen.
+
+6
+
+Fredag den 1. juni 2018 (L 238)";Christian Juhl
+26508;Time;;Kl. 10:18
+26535;name_party;":
+Skatteministeren kalder det mærkværdigt, at vi er nogle, der ikke vil
+stemme for det her forslag, men anerkender også, at vi har en anden
+skattepolitik, end regeringen har. Man kan jo synes, det er mærkværdigt, at Dansk Folkeparti vil stemme for et forslag, som koster 8 mia.
+kr. af råderummet, penge, som vi kunne bruge på velfærd; som er
+pilskævt; som i høj grad kommer dem, som allerede har mest, til gode; som kunne have være ændret, som Rune Lund også sagde, ved
+simpelt hen at hæve grænsen for, hvornår der bliver modregnet; og
+som omfatter et jobfradrag, der i den grad ikke er målrettet dem, der
+har mindst.
+Så jeg synes, det er lidt interessant, og jeg kan ikke forstå, at
+skatteministeren er overrasket over, at os, der ønsker en solidarisk
+fordeling målrettet dem, der tjener mindst – og egentlig også målrettet de pensionister, der allerede findes i dag, som jo ingenting får ud
+af det her – ikke stemmer for det.";Lisbeth Bech Poulsen
+27472;Time;;Kl. 10:19
+27509;title_name;":
+Ministeren.";Christian Juhl
+27532;Time;;Kl. 10:19
+27570;title_name;":
+Jeg er måske heller ikke så overrasket over, at SF ikke stemmer for,
+men jeg er meget overrasket over, at Socialdemokratiet ikke stemmer for. Jeg har hørt masser af socialdemokratiske folketingsmedlemmer, også en tidligere socialdemokratisk statsminister, gå til valg
+på, at hårdtarbejdende danskere skulle have lov til at beholde lidt
+flere af deres penge. Man har også oplevet en tidligere socialdemokratisk regering, sågar med en SF-skatteminister, lave en skattereform, og jeg køber slet ikke præmissen om, at de skattereformer, der
+er lavet, skulle være skæve, men hvis den her er skæv, så var den
+tidligere røde regerings skattereform da pilskæv. Så var den daværende SF-skatteministers skattereform da helt håbløs.
+Det var den ikke, og hvorfor var den ikke det? Fordi den lettede
+skatten på arbejde. Den skabte et incitament til at arbejde, den belønnede den arbejdende dansker, og den gjorde Danmark rigere. At SF
+ikke længere vil være med til at gøre Danmark rigere via skattereformer, er så SF's valg, men jeg synes, det er ærgerligt.";Karsten Lauritzen
+28626;Time;;Kl. 10:20
+28663;title_name;":
+Spørgeren.";Christian Juhl
+28685;Time;;Kl. 10:20
+28712;name_party;":
+Skatteministeren nærmer sig jo noget, der er manipulation, for han
+italesætter løsningen på samspilsproblemet, altså det med, om det
+kan betale sig at spare op til pension, som om der kun er en løsning,
+nemlig den, som regeringen har lagt frem, og som der skal stemmes
+om i dag. Man kunne sagtens have lavet en løsning på samspilsproblemet, der i den grad var målrettet dem, der tjener mindst, i stedet
+for at komme dem, der tjener mest, mest til gode.";Lisbeth Bech Poulsen
+29176;Time;;Kl. 10:20
+29213;title_name;":
+Ministeren.
+
+ikke, det er rimeligt at sige, at en, der tjener ½ mio. kr., ikke skal have en tilskyndelse til at spare op, men at en, der tjener 250.000 kroner, skal. Det bliver på lang sigt også dyrt for samfundet, hvis ikke
+vi får løst samspilsproblemet, som det ligger i forslaget her.";Christian Juhl
+29512;Time;;Kl. 10:21
+29549;title_name;":
+Hr. Jesper Petersen.";Christian Juhl
+29581;Time;;Kl. 10:21
+29602;name_party;":
+Man kan godt høre på skatteministeren, at vi nærmer os, at der er et
+år til, at der skal være folketingsvalg. Og jeg synes også, det er fint,
+at skatteministeren går op og holder den tale, han holder i dag. Jeg
+ved godt, at han i virkeligheden gerne ville have holdt en tale om, at
+topskatten var blevet afskaffet. Og det lovforslag, vi behandler her,
+er jo resterne af regeringens store ønske om at nedsætte topskatten
+markant, hvilket regeringen er blevet forhindret i. Og det er jo så udmærket. Så den tale måtte skatteministeren skrotte og så prøve med
+noget andet.
+Skatteministeren ved godt, at det her er et spørgsmål om prioritering. Vi er ikke modstandere af, at almindelige mennesker kan få
+mere i lønningsposen. Vi er heller ikke modstandere af, hvis man
+kan sætte skatten ned for dem. Men rækkefølgen skal være rigtig, og
+prioriteringen skal være i orden. Og det, man gør her, er jo at lave en
+skatteaftale, som vil koste 2 mia. kr. om året på den fælles velfærd –
+penge, som statsministeren tidligere har lovet danskerne skulle gå til
+velfærd. Samtidig laver man en skæv løsning på samspilsproblemet,
+og man kunne have lavet en, der gav HK'eren mere, mod at direktøren fik lidt mindre. Og derfor må regeringen jo finde på en klogere
+politik – hvis den gerne vil have vores opbakning – som er rimelig i
+forhold til velfærden, og som er fordelingspolitisk afbalanceret. Og
+det har man ikke gjort.";Jesper Petersen
+31020;Time;;Kl. 10:22
+31057;title_name;":
+Ministeren.";Christian Juhl
+31080;Time;;Kl. 10:22
+31118;title_name;":
+Jeg hører jo, hvad hr. Jesper Petersen siger. Det undrer mig bare, at
+man ikke kan se sig selv i noget af forslaget. Jeg kan forstå, hvis
+man ikke vil være med til at øge loftet over beskæftigelsesfradraget.
+Men man vil ikke være med til et målrettet jobfradrag, som er målrettet folk i fuldtidsbeskæftigelse. For den relativt største lettelse er
+dernede og koster 1,4 mia. kr. At man ikke vil være med til at give
+hårdtarbejdende danskere en skattelettelse, undrer mig såre, særlig
+fordi man, når man fulgte valgkampen sidste gang, fik det klare indtryk, at den daværende socialdemokratiske statsminister syntes, det
+var helt rimeligt, at den almindelige hårdtarbejdende dansker skulle
+have lov til at beholde lidt mere. Man var også af den opfattelse, at
+der var penge til det. Og når man kigger på råderummet, er der penge til at give skattelettelser.
+Så det er fair nok, at man ikke vil være med til det, regeringen
+foreslog, det er fair nok, at man ikke vil være med til det, der ligger
+her i lovforslaget, men at man ikke vil være med til noget af det, synes jeg er lidt mærkværdigt.";Karsten Lauritzen
+32219;Time;;Kl. 10:23
+32230;Time;;Kl. 10:20
+32268;title_name;":
+I forhold til samspilsproblemet kunne man have valgt at gøre det på
+forskellige måder. Vi har valgt en løsning, som brancheorganisationen Forsikring & Pension bakker op om, og som løser samspilsproblemet – ikke for alle, men for en stor del af danskerne. Og jeg synes";Karsten Lauritzen
+32574;title_name;":
+Spørgeren.
+
+Fredag den 1. juni 2018 (L 123)";Christian Juhl
+32631;Time;;Kl. 10:23
+32652;name_party;":
+Skatteministeren kan ikke tale sig fra det. Det her koster 2 mia. kr.
+om året af de midler, som egentlig var forudsat skulle gå til fælles
+velfærd. Og jeg tror, Venstre skulle tage signalet fra kommunaludvalget lidt mere alvorligt om, at borgerne mener, at der er problemer
+lokalt – i folkeskoler, ældrepleje, daginstitutioner, socialpolitik osv.
+Det er problemer, som vi skal løse først, inden vi går over til at se,
+om der er råd til yderligere nedsættelser af skatten.
+Skatteministeren har ret i, at der er lavet en skattereform i 2012.
+Den kostede ikke noget på råderummet. Den er stadig under indfasning. Den handlede primært om lavtlønnede. Spørgsmålet er nu, om
+vi skal bruge 2 mia. kr. mere. Skal vi gøre det på den her måde? Men
+spørg Folketinget. Vi synes ikke, det her er den rigtige måde at gøre
+det på, fordi man ikke vælger velfærd først, og fordi man laver en
+skæv løsning på et samspilsproblem, man kunne have løst på en bedre måde, der kom HK'eren mere til gavn og til gengæld mindre til
+gavn for direktøren. Det ville regeringen ikke. Derfor kan den ikke
+få vores opbakning til forslaget.";Jesper Petersen
+33770;Time;;Kl. 10:24
+33807;title_name;":
+Man kan ikke lægge skat eller moms til sin taletid. Taletiden er 1 minut og ½ minut.
+Ministeren.";Christian Juhl
+33915;Time;;Kl. 10:24
+33953;title_name;":
+Til gengæld er det talte ord skattefrit, endnu i hvert fald. Og det skal
+folketingsmedlemmerne være glade for, for vi taler meget.
+Jeg undrer mig bare over, at Socialdemokratiet slet ikke kan se
+sig selv i løsningen, der ligger her i forhold til samspilsproblemet, og
+som lytter til Forsikring & Pension; at de på ingen måde kan se sig
+selv bruge en bøjet 25-øre på at give den almindelige hårdtarbejdende dansker, arbejderen, en lille belønning for at gå på arbejde. Der er
+råd både til velfærd og til de skattelettelser, regeringen her lægger
+frem. Og det vil man kunne se i de økonomiske konjunkturvurderinger.";Karsten Lauritzen
+34578;Time;;Kl. 10:25
+34615;title_name;":
+Tak til ministeren. Der er ikke flere korte bemærkninger.
+Derfor skal jeg høre, om andre ønsker at udtale sig.
+Det er ikke tilfældet, og så går vi over til afstemning.
+
+7
+
+Det næste punkt på dagsordenen er:
+6) 3. behandling af lovforslag nr. L 123:
+Forslag til lov om Vækstfonden.
+Af erhvervsministeren (Brian Mikkelsen).
+(Fremsættelse 20.12.2017. 1. behandling 16.01.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018. Lovforslaget optrykt efter 2.
+behandling).";Christian Juhl
+35092;Time;Forhandling;Kl. 10:26
+35141;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Christian Juhl
+35278;Time;Afstemning;Kl. 10:26
+35326;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+For stemte 89 (S, DF, V, LA, RV, SF og KF), imod stemte 14 (EL
+og ALT), hverken for eller imod stemte 0.
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+7) 3. behandling af lovforslag nr. L 222:
+Forslag til lov om indfødsrets meddelelse.
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 19.04.2018. 1. behandling 26.04.2018. Betænkning
+24.05.2018. 2. behandling 29.05.2018. Lovforslaget optrykt efter 2.
+behandling).";Christian Juhl
+35923;Time;;Kl. 10:27
+35934;Time;Afstemning;Kl. 10:25
+35982;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Jeg afslutter afstemningen nu.
+For stemte 53 (DF, V, LA og KF), imod stemte 50 (S, EL, ALT, RV
+og SF), hverken for eller imod stemte 0.
+Lovforslaget er vedtaget og vil nu blive oversendt til statsministeren.
+
+Forhandling";Christian Juhl
+36310;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Christian Juhl
+36447;Time;Afstemning;Kl. 10:27
+36495;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+For stemte 79 (S, V, EL, LA, ALT, RV, SF og KF), imod stemte 22
+(DF), hverken for eller imod stemte 0.
+
+8
+
+Fredag den 1. juni 2018 (L 141)
+
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+8) 3. behandling af lovforslag nr. L 141:
+Forslag til lov om ændring af udlændingeloven. (Smidigere regler for bibeskæftigelse og frivilligt arbejde for udenlandske arbejdstagere m.v.).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 07.02.2018. 1. behandling 01.03.2018. Betænkning
+10.04.2018. 1. del af 2. behandling 17.05.2018. Tilføjelse til betænkning 22.05.2018. Ændringsforslag nr. 8 af 28.05.2018 uden for tilføjelsen til betænkningen af Sofie Carsten Nielsen (RV). Fortsættelse
+af 2. behandling 29.05.2018. Lovforslaget optrykt efter 2. behandling. Ændringsforslag nr. 1 af 31.05.2018 af udlændinge- og integrationsministeren (Inger Støjberg)).";Christian Juhl
+37519;Time;Forhandling;Kl. 10:27
+37568;title_name;":
+Forhandlingen drejer sig i første omgang om det stillede ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen om ændringsforslaget
+sluttet, og vi går til afstemning.
+
+Det næste punkt på dagsordenen er:
+9) 2. (sidste) behandling af beslutningsforslag nr. B 130:
+Forslag til folketingsbeslutning om en folkeafstemning forud for
+dansk deltagelse i EU's bankunion.
+Af Kenneth Kristensen Berth (DF) m.fl.
+(Fremsættelse 23.03.2018. 1. behandling 22.05.2018. Betænkning
+25.05.2018).";Christian Juhl
+38090;Time;Forhandling;Kl. 10:29
+38139;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Christian Juhl
+38276;Time;Afstemning;Kl. 10:29
+38324;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+For stemte 31 (DF og EL), imod stemte 70 (S, V, LA, ALT, RV, SF
+og KF), hverken for eller imod stemte 0.
+Lovforslaget er forkastet.";Christian Juhl
+38560;Time;Afstemning;Kl. 10:28
+38608;title_name;":
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 1 af
+udlændinge- og integrationsministeren som vedtaget.
+Det er vedtaget.";Christian Juhl
+38757;Time;Forhandling;Kl. 10:28
+38806;title_name;":
+Forhandlingen drejer sig herefter om lovforslaget som helhed.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Det næste punkt på dagsordenen er:
+10) 2. (sidste) behandling af beslutningsforslag nr. B 105:
+Forslag til folketingsbeslutning om Danmarks tilslutning på mellemstatsligt grundlag til Europa-Parlamentets og Rådets forordning om oprettelse af et EU-system vedrørende rejseinformation
+og rejsetilladelse (ETIAS) og om ændring af forordning (EU) nr.
+515/2014, (EU) 2016/399 og (EU) 2016/1624.
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 21.03.2018. 1. behandling 05.04.2018. Betænkning
+29.05.2018. Ændringsforslag nr. 1 og 2 af 31.05.2018 uden for betænkningen af udlændinge- og integrationsministeren (Inger Støjberg)).";Christian Juhl
+39604;Time;;Kl. 10:30
+39615;Time;"Forhandling
+Afstemning";Kl. 10:28
+39675;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+For stemte 80 (S, V, EL, LA, ALT, RV, SF og KF), imod stemte 0,
+hverken for eller imod stemte 22 (DF).
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.";Christian Juhl
+39973;title_name;":
+Forhandlingen drejer sig i første omgang om de stillede ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen om ændringsforslagene
+slut, og vi går til afstemning.
+
+Fredag den 1. juni 2018 (L 225)";Christian Juhl
+40229;Time;Afstemning;Kl. 10:31
+40277;title_name;":
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 1 og
+2 uden for betænkningen af udlændinge- og integrationsministeren
+som vedtaget.
+De er vedtaget.";Christian Juhl
+40452;Time;Forhandling;Kl. 10:31
+40501;title_name;":
+Forhandlingen drejer sig herefter om lovforslaget som helhed.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Christian Juhl
+40651;Time;Afstemning;Kl. 10:31
+40699;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+For stemte 91 (S, DF, V, LA, ALT, RV, SF og KF), imod stemte 9
+(EL), hverken for eller imod stemte 0.
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+11) 2. behandling af lovforslag nr. L 225:
+Forslag til lov om ændring af lov om danskuddannelse til voksne
+udlændinge m.fl. (Indførelse af deltagerbetaling for danskuddannelse til udenlandske arbejdstagere, studerende m.v.).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 25.04.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).";Christian Juhl
+41365;Time;Forhandling;Kl. 10:32
+41414;title_name;":
+Der er i hvert fald en, der ønsker at udtale sig, nemlig fru Aaja
+Chemnitz Larsen fra IA. Velkommen.";Christian Juhl
+41526;Time;(Ordfører);Kl. 10:32
+41564;name_party;":
+Mange tak. Og tak for ordet. Inuit Ataqatigiit tager ordet i debatten,
+fordi der er to ting ved dette lovforslag, som har bekymret os. Det
+ene er, at grønlændere og færinger, som bor i Danmark, sidestilles
+med udlændinge, og det andet er, at adgangen til danskuddannelse
+bliver forringet med lovforslaget.
+Når vi sidestiller grønlændere og færinger med udlændinge, har
+det umiddelbart en symbolsk værdi. Men lad os slå det fast, at grønlændere er danske statsborgere og bør behandles som sådan. I den
+
+9
+
+gældende lov bliver grønlændere og færinger, som ikke behersker
+det danske sprog, behandlet som udlændinge, dvs. i den gældende
+lov, ikke i dette lovforslag. Det betyder også, at vi er med til at holde
+liv i de fordomme og de udfordringer, som der er for grønlændere.
+Vi marginalisere så at sige grønlændere. Derfor vil IA også opfordre
+regeringen til at ændre den gældende lovgivning, ikke med det her
+lovforslag, men i en videre proces.
+Rigtig mange grønlændere holder af at bo her i Danmark. Mange
+trives, og langt de fleste er også en kæmpestor ressource for det danske samfund. Hos Inuit Ataqatigiit mener vi, at mangfoldighed er en
+styrke – det mener vi også det er, når grønlændere bosætter sig i
+Danmark. Vi mener, at grønlændere i Danmark er med til at gøre
+Danmark større, til et mere rigt og til et mere mangfoldigt samfund.
+Inuit Ataqatigiit har kæmpet for et politisk flertal, som bakker op
+om at anerkende grønlændere og færinger som ligeværdige medlemmer i rigsfællesskabet. De er ikke udlændinge, og det står klart i den
+udtalelse, som et udvalg i bred enighed er kommet med.
+Det glæder mig, at der har været et godt samarbejde mellem
+Grønlandsudvalget og Udlændinge- og Integrationsudvalget. Tak til
+alle partierne for deres støtte til det. Og så tilbage til det andet punkt.
+Når vi forringer adgangen til danskundervisning, forringer vi også adgangen til arbejdsmarkedet. Aldrig før har vi i det danske samfund set, at der har været så mange i arbejde. Det er rigtig, rigtig positivt og glædeligt. Men det er også vigtigt at huske på, at kun omkring halvdelen af alle grønlændere, som bor her i Danmark, hver
+dag går på arbejde, betaler skat og gør deres for at være en aktiv del
+af det danske samfund.
+Vi har ikke været gode nok til at inkludere grønlændere på det
+danske arbejdsmarked. Det handler selvfølgelig om et personligt ansvar hos den enkelte, det handler også om faglighed og kompetencer,
+men det handler også om et manglende politisk fokus, og det vil vi
+gerne være med til at gøre op med. Derfor er jeg også glad for, at
+Beskæftigelsesministeriet i det kommende folketingsår vil være med
+til at bane vejen for at forsøge at få endnu flere grønlændere i arbejde, og det synes jeg er helt på sin plads.
+Det glæder mig, at regeringen har lyttet til den kritik, som der har
+været af det her lovforslag om forringet adgang til danskundervisning. Regeringen har valgt at afsætte en pulje på 2,5 mio. kr. i de
+kommende år til danskundervisning for grønlændere i Danmark. Det
+er meget positivt, og jeg ser frem til, at det understøtter indsatsen for
+at få endnu flere grønlændere i Danmark i arbejde. Mange tak.";Aaja Chemnitz Larsen
+44715;Time;;Kl. 10:36
+44752;title_name;":
+Selv tak. Og der er en kort bemærkning fra hr. Marcus Knuth.";Christian Juhl
+44824;Time;;Kl. 10:36
+44842;name_party;":
+Jeg vil sådan set bare gerne takke ordføreren for vores gode samarbejde. Jeg er klar over, at ordføreren også godt ved, at dele af den
+her lovtekst er formuleret, som den er, på grund af EU-regler, og det
+er jo også netop derfor, at den udtalelse, som et mig bekendt enigt
+Grønlandsudvalg sender over, understreger, at alle danskere, færinger og grønlændere er ligeværdige medlemmer af rigsfællesskabet.
+Og så var jeg særdeles glad for den udmelding, der kom forleden fra
+Undervisningsministeriet, hvor man i forhold til danskundervisning
+til herboende grønlændere afsætter 2,5 mio. kr. til netop det område
+for at sikre, at herboende grønlændere fortsat har adgang til rigtig,
+rigtig god danskundervisning.";Marcus Knuth
+45561;Time;;Kl. 10:36
+45598;title_name;":
+Ordføreren.
+
+10
+
+Fredag den 1. juni 2018 (L 231)";Christian Juhl
+45660;Time;;Kl. 10:37
+45687;name_party;":
+Mange tak til spørgeren. Jeg ser det primært som en kommentar, og
+jeg vil gerne takke og kvittere for det gode samarbejde. Det her viser, at politik er det muliges kunst, så det her har jo været et kompromis, som vi er nået frem til – som vi kan se os afspejlet i, og som jeg
+kan forstå at mange af partierne herinde også ser sig afspejlet i. Så
+tak for det samarbejde.";Aaja Chemnitz Larsen
+46068;Time;;Kl. 10:37
+46105;title_name;":
+Tak til fru Aaja Chemnitz Larsen, og tillykke med den store opbakning.
+Er der flere, der ønsker at udtale sig?
+Det er der ikke, og så er forhandlingen sluttet, og vi går til afstemning.";Christian Juhl
+46302;Time;"For stemte 23 (EL, ALT, RV og SF), imod stemte 78 (S, DF, V, LA
+og KF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Herefter er ændringsforslag nr. 15 og 16, stillet og tiltrådt af det
+samme mindretal bortfaldet.
+Ønskes afstemning om ændringsforslag nr. 3, tiltrådt af et flertal (S,
+DF, V, LA og KF), om ændringsforslag nr. 4, tiltrådt af udvalget, om
+ændringsforslag nr. 5-8, tiltrådt af et flertal (S, DF, V, LA, SF og
+KF), om ændringsforslag nr. 9-12, tiltrådt af et flertal (S, DF, V, LA
+og KF), om ændringsforslag nr. 22 uden for betænkningen af udlændinge- og integrationsministeren, om ændringsforslag nr. 13, tiltrådt
+af et flertal (S, DF, V, LA og KF), om ændringsforslag nr. 14, tiltrådt af udvalget, om ændringsforslag nr. 17-20, tiltrådt af et flertal
+(S, DF, V, LA og KF) eller om ændringsforslag nr. 21, tiltrådt af udvalget?
+Så er det hele vedtaget.
+
+Afstemning";Kl. 10:37
+47238;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1 og 2, tiltrådt af udvalget? Og egentlig skulle I sige nej, men I siger jo aldrig noget!
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det vedtaget.
+
+Det næste punkt på dagsordenen er:
+12) 2. behandling af lovforslag nr. L 231:
+Forslag til lov om ændring af udlændingeloven. (Reform af reglerne om ægtefællesammenføring med nyt integrationskrav i stedet for tilknytningskravet, skærpet boligkrav m.v.).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 26.04.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018. Ændringsforslag nr. 22 af 31.05.2018 uden for betænkningen af udlændinge- og integrationsministeren (Inger Støjberg)).";Christian Juhl
+48074;Time;"Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+13) 2. behandling af lovforslag nr. L 239:
+Forslag til lov om ændring af lov om aktiv socialpolitik, lov om
+Udbetaling Danmark og udlændingeloven. (Indførelse af beskæftigelseskrav for ret til uddannelses- og kontanthjælp og forlængelse af opholdskravet samt ophævelse af bestemmelsen om
+opholdstilladelse på baggrund af arbejdsmarkedstilknytning).
+Af udlændinge- og integrationsministeren (Inger Støjberg).
+(Fremsættelse 04.05.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).";Kl. 10:38
+48779;Time;"Forhandling
+
+Forhandling";Kl. 10:40
+48842;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da dette ikke er tilfældet, er forhandlingen slut.";Christian Juhl
+49008;title_name;":
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen slut, og vi går til afstemning.
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.";Christian Juhl
+49310;Time;Afstemning;Kl. 10:38
+49358;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af udvalget?
+Det er vedtaget.
+Der stemmes om ændringsforslag nr. 2 af et mindretal (SF), tiltrådt
+af et mindretal (EL, ALT og RV). Der kan stemmes nu.
+Jeg afslutter afstemningen nu.
+
+Fredag den 1. juni 2018 (L 215)
+
+Det næste punkt på dagsordenen er:
+14) 2. behandling af lovforslag nr. L 189:
+Forslag til lov om ændring af udlændingeloven. (Justering af
+kravene i beløbsordningen).
+Af Martin Henriksen (DF) m.fl.
+(Fremsættelse 20.03.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).
+
+11
+
+Det næste punkt på dagsordenen er:
+16) 2. behandling af lovforslag nr. L 230:
+Forslag til lov om ændring af lov om ophavsret. (Gennemførelse
+af Marrakeshdirektivet m.v.).
+Af kulturministeren (Mette Bock).
+(Fremsættelse 25.04.2018. 1. behandling 02.05.2018. Betænkning
+30.05.2018).";Christian Juhl
+50200;Time;;Kl. 10:40
+50211;Time;"Forhandling
+
+Forhandling";Kl. 10:42
+50274;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.";Christian Juhl
+50441;title_name;":
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen slut, og vi går til afstemning.";Christian Juhl
+50555;Time;"Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+15) 2. behandling af lovforslag nr. L 215:
+Forslag til lov om ændring af udlændingeloven, ferieloven og lov
+om danskuddannelse til voksne udlændinge m.fl. (Afskaffelse af
+au pair-ordningen).
+Af Martin Henriksen (DF) og Karsten Hønge (SF) m.fl.
+(Fremsættelse 23.03.2018. 1. behandling 08.05.2018. Betænkning
+29.05.2018).
+
+Afstemning";Kl. 10:42
+51132;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1 og 2, tiltrådt af udvalget?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.";Christian Juhl
+51405;Time;Forhandling;Kl. 10:41
+51454;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen slut.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen af jer gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+17) 2. behandling af lovforslag nr. L 236:
+Forslag til lov om nedsættelse af statstilskuddet til kommuner
+som følge af indtægter fra parkering.
+Af økonomi- og indenrigsministeren (Simon Emil Ammitzbøll-Bille).
+(Fremsættelse 02.05.2018. 1. behandling 09.05.2018. Betænkning
+29.05.2018. Ændringsforslag nr. 7 og 8 af 31.05.2018 uden for betænkningen af økonomi- og indenrigsministeren (Simon Emil Ammitzbøll-Bille)).";Christian Juhl
+52211;Time;Forhandling;Kl. 10:42
+52260;title_name;":
+Økonomi- og indenrigsministeren har meddelt mig, at han ønsker at
+tage ændringsforslag nr. 2 og 5 i betænkningen tilbage. Ønsker nogen at optage disse forslag?
+Da det ikke er tilfældet, er ændringsforslagene bortfaldet.
+Socialdemokratiets medlemmer har meddelt mig, at de herefter ønsker at tage ændringsforslag nr. 3 i betænkningen tilbage. Ønsker nogen at optage det forslag?
+Da det ikke er tilfældet, er ændringsforslaget bortfaldet.
+Ønsker nogen at udtale sig?
+Ja, jeg kan se, at transport-, bygnings- og boligministeren ønsker
+at udtale sig. Værsgo.
+
+12
+
+Fredag den 1. juni 2018 (L 236)";Christian Juhl
+52865;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Det er ikke som transport-, bygnings- og boligminister, at jeg ønsker
+at udtale mig, men som en af mine to andre titler, nemlig som stedfortrædende økonomi- og indenrigsminister. Jeg vil gerne kvittere
+for modtagelsen af lovforslaget og for den konstruktive debat, som
+vi har haft. Regeringen har også lyttet til de synspunkter, der er kommet – især dem, der er kommet fra flere kommuner.
+Lovforslaget har til formål primært at understøtte, at kommuner
+opkræver betaling for parkering af trafikale hensyn og ikke af fiskale
+hensyn, at behandle kommunerne mere lige, at tilskynde til omkostningseffektivitet og samtidig give mulighed for at dække udgifter til
+betalingsparkering, herunder til nye investeringer i parkeringspladser.
+Jeg vil gerne fremhæve, at regeringen ikke har noget ønske om at
+ramme kommuner, der i tiltro til de hidtidige regler har investeret i
+parkeringsanlæg. Regeringen har her lyttet til de kommunale synspunkter og fremsat et ændringsforslag, som betyder, at modregningen for den enkelte kommune bliver nedsat med et beløb svarende til
+kommunens omkostninger til afskrivning og forrentning af de hidtidige og planlagte investeringer i parkeringsanlæg. Hermed vil kommuner altså kunne få et fradrag for allerede iværksatte investeringer i
+parkeringsanlæg, og fremadrettet vil kommuners nettoindtægter således kunne anvendes til at dække kommunernes udgifter til drift og
+nye investeringer på parkeringsområdet.
+Jeg vil dog også fremhæve, at der er andre synspunkter, som kan
+give anledning til bekymring om, at der er kommuner, der som modtræk til stramningen af modregningsregler kunne finde på at hæve
+priserne for parkering. Derfor vil regeringen følge udviklingen i
+kommunerne, og regeringen er også parat til på et senere tidspunkt at
+stramme yderligere op, hvis det skulle være nødvendigt. Tak.";Kl. 10:43
+54759;Time;;Kl. 10:45
+54796;title_name;":
+Selv tak. Der er et par korte bemærkninger. Og den første er fra hr.
+Magnus Heunicke.";Christian Juhl
+54893;Time;;Kl. 10:45
+54914;name_party;":
+Tak for det. Først vil jeg da godt kvittere for, at regeringen har flyttet sig, efter at vi har haft høringer og indtil videre to samråd i sagen
+her. Det var nødvendigt at rykke sig. Men det, man har rykket sig på,
+er jo kun overgangsordningen. Kan ministeren ikke bekræfte, at den
+kritik, der har været, ikke bliver adresseret? Der har været bred kritik
+fra kommuner, der er styret af alle partier, og ikke kun fra kommunerne, også fra en organisation som FDM, altså FORENEDE DANSKE MOTOREJERE – hvor indenrigsministeren under førstebehandlingen sagde, at han syntes, det var et, og jeg citerer »helt fint
+forslag« – der har meddelt Folketinget, at de synes, det ville være en
+katastrofe at indføre det. Deres kritik, at det vil være en katastrofe
+for bilisterne at indføre det, bliver slet ikke adresseret i det ændringsforslag, regeringen har stillet. Kan ministeren bekræfte det?";Magnus Heunicke
+55809;Time;;Kl. 10:46
+55846;title_name;":
+Ministeren.";Christian Juhl
+55869;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+FDM har det synspunkt, at det er godt, der kommer nogle modregningsregler, sådan at kommunerne ikke af fiskale hensyn kan blive
+ved med at stramme parkeringsskruen yderligere og yderligere. Men
+
+FDM har også det synspunkt, at pengene, som kommer i statskassen,
+så skal gå til på en eller anden måde at tilskynde kommunerne til at
+oprette parkeringspladser. Det har vi ikke imødekommet. Vi har et
+ønske om, at kommunerne ikke skal blive ved med at plukke bilisterne, og derfor har vi fremsat det her lovforslag.
+Men det ønske er Socialdemokratiet jo bare imod. Socialdemokratiet ønsker, at kommunerne skal have en skrue, de kan stramme
+over for bilisterne, og det er derfor, Socialdemokratiet er imod det
+her forslag. Så det er jo ikke så sært. Men sig det dog ærligt, hr.
+Magnus Heunicke, at Socialdemokratiet ønsker, at kommunerne skal
+kunne plukke bilisterne.";Kl. 10:46
+56799;Time;;Kl. 10:47
+56836;title_name;":
+Spørgeren.";Christian Juhl
+56858;Time;;Kl. 10:47
+56879;name_party;":
+Der taler ministeren jo helt imod bedre vidende, og han er vikar på
+området her, men han ved udmærket godt, at med de nuværende regler er der ingen mulighed for, at kommunerne kan skrue på den knap
+her og få pengene selv. Det er vel derfor, kunne man forestille sig,
+regeringen har været nødsaget til at skrive, meget usædvanligt, at
+man vil følge området tæt, og at man vil indføre yderligere tiltag eller lignende i næste folketingssamling. Det står i betænkningen.
+Hr. Jan E. Jørgensen fra Venstre udtalte til Danmarks Radio i går,
+at de penge, staten får ind, skal bruges på nye infrastrukturprojekter i
+hovedstaden. Hvor mange af pengene fra de jyske bilister i Aarhus, i
+Aalborg, i Esbjerg og fra de fynske i Odense skal gå til, som regeringspartiet siger det, infrastrukturprojekter i hovedstaden?";Magnus Heunicke
+57695;Time;;Kl. 10:48
+57732;title_name;":
+Ministeren.";Christian Juhl
+57755;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Reglerne, som de er i dag, sørger for, at hvis kommunerne øger indtægterne fra parkering, går de i statskassen. Men skaden er jo allerede sket. Det er jo sådan i kommunerne gennemsnitligt set, at hvis de
+opkræver 100 pct. indtægter fra parkering, bruger de kun de 30 pct.
+på udgifter, som er relateret til parkering. Den skade gør den nuværende lovgivning ikke noget ved, men det gør den lovgivning, som
+regeringen her har fremsat i salen.";Kl. 10:48
+58263;Time;;Kl. 10:48
+58300;title_name;":
+Hr. Orla Hav. Nej! Så tager vi hr. Henning Hyllested.";Christian Juhl
+58365;Time;;Kl. 10:49
+58389;name_party;":
+Jeg vil gerne spørge lidt ind til, hvordan det skal forstås, når regeringen, som hr. Magnus Heunicke var inde på, jo ret usædvanligt har
+bidraget til betænkningen med at skrive, at man vil følge området
+tæt, og at det er regeringens intention at indføre yderligere stramninger. Vil det sige, at man kan forvente, hvis det ikke går, som regeringen gerne vil have det til at gå – og der er en række kommuner, der
+har gjort opmærksom på, at det eneste middel faktisk kan blive at
+forhøje betalingen for parkering – at regeringen så i næste folketingssamling ender med at fremsætte et forslag om at gå op til 80
+pct.s eller 90 pct.s modregning i parkeringsindtægterne?";Henning Hyllested
+59065;Time;;Kl. 10:49
+59102;title_name;":
+Ministeren.
+
+Fredag den 1. juni 2018 (L 236)";Christian Juhl
+59160;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Jamen jeg betragter det som hypotetisk, men der er altså nogle kommuner, der har sagt, at det så kunne være, at man ville stramme parkeringsskruen yderligere. Og så er det bare jeg siger: Regeringen er
+helt åben over for også at tage højde for det i ny lovgivning. Så det
+skal man måske passe på med at gøre i kommunerne.
+Der er indtægter nok fra parkering i kommunerne, til at man både
+kan aflevere 70 pct. til staten og stadig væk beholde de 30 pct., som
+dækker de omkostninger, man har. Det er jo det, som tallene viser
+helt tydeligt, nemlig at kommunerne – de store kommuner – bruger
+under 30 pct. af deres indtægter fra parkering til omkostninger, der
+er relateret til parkering.
+Så derfor er der ikke noget behov for at opkræve flere parkeringsgebyrer fra kommunerne. I de parkeringsgebyrer, man opkræver i dag, får man allerede rigeligt med penge til at dække udgifterne
+til parkering.
+
+13
+
+at holde. Det er jo noget af det, som bl.a. Venstres hr. Jan E. Jørgensen har kritiseret og sagt, at den her aftale bestemt ikke er i bilisternes interesse, tværtimod, for det vil gøre det meget sværere at finde
+en parkeringsplads.
+Så har han så rejst noget kritik og fået noget igennem, og så hylder han så her i en artikel hos Danmarks Radio, at de penge, der bliver kradset ind, har han fået så fået sikret skal bruges til investeringer, men i hovedstaden, og det vil sige, at i Aalborg, hvor jeg bor, og
+hvor vi har en rigtig god parkeringspolitik, vil det være sådan, at de
+penge, kommunen får konfiskeret af regeringen, så skal bruges her i
+hovedstadsområdet. Så man skal køre rundt og lede efter en parkeringsplads, når man så endelig finder en og betaler, så ryger de penge, kommunen har fået konfiskeret, lige til hovedstaden. Er det korrekt forstået?";Kl. 10:49
+60987;Time;;Kl. 10:53
+61024;title_name;":
+Ministeren.";Christian Juhl
+61047;Time;;Kl. 10:53
+61058;Time;;Kl. 10:50
+61095;title_name;":
+Spørgeren.";Christian Juhl
+61117;Time;;Kl. 10:50
+61141;name_party;":
+Jamen det er jo ærlig snak. Det er en regulær trussel mod de kommuner, der kunne finde på at formaste sig til f.eks. at sætte betalingen
+for parkering op, hvis de vil sikre sig midler nok til at investere i
+området.
+Man kan undre sig over, at regeringen jo her i virkeligheden er i
+færd med at overtage, hvad skal man sige, hele fordelingspolitikken
+fra kommunerne. Man kan så yderligere undre sig, for den pulje, eller det bliver det jo ikke, men de penge, man modregner, bliver jo et
+ganske betragteligt beløb på 360 mio. kr. eller sådan noget, men man
+vil så ikke bruge, love at bruge dem på trafikale foranstaltninger, investeringer i parkeringsanlæg, og hvad det ellers kunne være, rundtomkring. Det bliver penge, som går direkte ned i statskassen, og
+som skal bruges til f.eks. skattelettelser, som jo er regeringens store
+slagnummer.";Henning Hyllested
+61993;Time;;Kl. 10:51
+62030;title_name;":
+Ministeren.
+
+(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Der har ikke været nogen drøftelse i regeringen om, hvordan provenuet for denne ordning skal bruges. Der har heller ikke været nogen
+drøftelse med Dansk Folkeparti, mig bekendt. Så det har slet ikke
+været aktuelt at snakke om endnu. Vi laver finanslov, når efteråret
+kommer, og til den tid finder man ud af, hvordan de samlede offentlige indtægter skal fordeles på udgifter.";Christian Juhl
+62486;Time;;Kl. 10:53
+62523;title_name;":
+Spørgeren.";Christian Juhl
+62545;Time;;Kl. 10:53
+62563;name_party;":
+Jeg står bare her med en artikel fra hr. Jan E. Jørgensen, hvor der
+står: Derudover vil regeringen ifølge Venstres Jan E. Jørgensen forpligte sig til at bruge et betragteligt beløb af de øgede indtægter til
+statskassen fra kommunernes parkeringsindtægter til nye infrastrukturprojekter i hovedstaden. Er det hr. Jan E. Jørgensen, der taler
+usandt til Danmarks Radio, eller vil ministeren bare ikke være ærlig
+om, hvordan man plyndrer jyske kommuner for penge for at bruge
+dem i hovedstaden?";Rasmus Prehn
+63065;Time;;Kl. 10:54
+63076;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Jamen det bliver jo med stor sandsynlighed den samme kreds af partier, som stemmer det her lovforslag igennem til beskyttelse af den
+almindelige bilist, som også i finanslovssammenhæng disponerer
+over midlerne. Hvordan de penge skal bruges, er overhovedet ikke
+noget problem, som hr. Henning Hyllested behøver at bekymre sig
+om. De partier, som kradser pengene ind, bliver nok også de partier,
+der finder ud af, hvordan pengene skal bruges.";Kl. 10:51
+63585;Time;;Kl. 10:52
+63622;title_name;":
+Så er det hr. Rasmus Prehn.";Christian Juhl
+63688;title_name;":
+Ministeren.";Christian Juhl
+63711;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Fra år 2021 og frem er der jo betragtelige infrastrukturmidler til rådighed, og det skulle da undre mig meget, om de ikke bliver fordelt
+på en måde, så der også kommer mere til hovedstaden end det, der
+kommer ind fra det her parkeringsprovenu. Så vi står jo lige nu med
+en investeringsudfordring. Vi har ikke penge til nye infrastrukturinvesteringer, men fra 2021 og frem er der store beløb, og regeringens
+2025-plan reserverer 20 mia. kr. mere, og jeg er helt sikker på, at en
+del af de penge går til hovedstaden.";Kl. 10:54
+64294;Time;;Kl. 10:55
+64305;Time;;Kl. 10:52
+64323;name_party;":
+Jeg tror, at ministeren og regeringen kan have ret i, at mange bilister
+oplever det som træls og ærgerligt at skulle betale for at parkere,
+men en ting, man synes er mere træls og ærgerligt, er, hvis man skal
+køre rundt og lede efter en parkeringsplads, at der ikke er noget sted";Rasmus Prehn
+64641;title_name;":
+Det affødte en kort kommentar fra hr. Jan E. Jørgensen.
+
+14
+
+Fredag den 1. juni 2018 (L 236)";Christian Juhl
+64747;Time;;Kl. 10:55
+64769;name_party;":
+Jeg behøver vist ikke selv tage ordet, det gør andre jo fint på mine
+vegne. Jeg siger jo intet sted, at der kun skal bruges penge på infrastrukturudfordringer i hovedstaden. Der er også udfordringer andre
+steder: Aalborg, Limfjordsforbindelse osv., men der skal også bruges penge i hovedstaden. Det er også det, ministeren står og siger.
+Jeg synes, at vi skal glæde os over, at der har været en fornuftig høringsproces. Der er kommet nogle fornuftige indlæg, og regeringen
+lytter og ændrer ting. Det synes jeg egentlig vidner om en regering,
+som ikke bare graver sig ned og siger, at det, vi har sagt en gang, kan
+aldrig nogen sinde blive ændret. Det er en fin demokratisk proces,
+der har været, og det synes jeg da egentlig at vi alle sammen bare
+skulle glæde os over og så satse på at få nogle bedre forhold for trafikken i hovedstaden, men også andre steder, hvor trafikken er ved at
+sande til.";Jan E. Jørgensen
+65678;Time;;Kl. 10:56
+65715;title_name;":
+Ministeren.
+
+kratiets ord for, at hvis man kan finde nogle penge efter 2020 til infrastrukturinvesteringer – hvis der er noget tilbage, efter at man har
+brugt penge på velfærd og overførselsindkomster – så skal de først
+og fremmest gå til at stoppe hullet i Togfonden DK, før de kan bruges på vejprojekter. Altså, først Togfonden DK med dens vidtløftige
+fase-2-projekter, før man kan begynde at kigge på vejene. Det er jo
+Socialdemokratiets politik.";Christian Juhl
+66176;Time;;Kl. 10:58
+66213;title_name;":
+Spørgeren.";Christian Juhl
+66235;Time;;Kl. 10:58
+66255;name_party;":
+Jeg tror godt, jeg kender Socialdemokratiets politik, og jeg vedkender mig den også. Men den indebærer jo ikke, at vi stopper de bynære parkeringspladser eller parkeringspladser i byerne. Vi ønsker jo
+også renere byer.
+Så mit spørgsmål gik på: Når vi samler penge ind til staten og
+staten godt vil bruge dem på veje eller på parkeringspladser, bruger
+man dem så også på parkeringspladser i provinsbyerne?";Karen J. Klint
+66671;Time;;Kl. 10:58
+66682;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Jeg kan bekræfte, at der overalt i landet er behov for infrastrukturinvesteringer. De senere år har vi jo næsten brugt alle vores penge og
+endda en stor sum penge på jernbaneinvesteringer. Det skal vi fortsætte med, og vi skal også lave yderligere jernbanetiltag, men vejene
+har ikke fået nok. Dem har man underprioriteret, bl.a. under den tidligere regering, hvor man kun havde øje for dem, der kører i tog, og
+ikke dem, der kører i bil på vejene. Det er trods alt de fleste. Men
+man har ikke rigtig haft øje for deres udfordringer, deres trængsler.
+Det vil den her regering gøre noget ved. Det er vores ambition, at de
+midler, som kan findes til infrastrukturinvesteringer efter 2021, i høj
+grad skal bruges på vejene over hele landet.";Kl. 10:56
+67488;Time;;Kl. 10:56
+67525;title_name;":
+Fru Karen J. Klint.";Christian Juhl
+67556;Time;;Kl. 10:56
+67576;name_party;":
+Jamen det lyder da fint, at man godt vil hjælpe bilerne. Jeg vedkender mig som socialdemokrat, at jeg faktisk stadig væk går ind for
+Togfonden DK, for jeg tror, at kollektiv trafik vil mindske behovet
+for parkering. Nu kommer jeg fra Vejle. Der kører vi også nogle
+gange rundt og leder efter parkeringspladser, og nu har vi jo hørt, at
+hovedstaden hjælpes. Hjælpes de andre provinsbyer ikke ved den
+parkeringsmulighed, der er her?";Karen J. Klint
+68018;Time;;Kl. 10:57
+68055;title_name;":
+Ministeren.";Christian Juhl
+68078;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Der er ikke nogen politik i regeringen om, at disse penge, der kommer fra parkering, lige præcis skal bruges i hovedstaden. Jeg tror, at
+det, hr. Jan E. Jørgensen har sagt, er, at der også skal bruges penge i
+hovedstaden. Men det betyder da ikke, at der ikke skal bruges penge
+i Aalborg eller i Sønderjylland eller på Fyn eller på Sydsjælland. Der
+skal da bruges penge alle steder, især fordi Socialdemokratiet har
+forsømt vejene så meget, som de har, og kun har tænkt på togene.
+Og det er jo stadig Socialdemokratiets politik. Vi har jo Socialdemo-";Kl. 10:57
+68723;title_name;":
+Ministeren.";Christian Juhl
+68746;Time;"(Økonomi- og indenrigsministeren)
+Ole Birk Olesen (fg.):
+Vi ved, at der efter 2020, altså fra 2021 og frem, er et råderum til
+infrastrukturinvesteringer igen, og hvordan de skal bruges, er ikke
+besluttet endnu. Det er jo et flertal i Folketinget, der afgør det, men
+regeringens prioritet er klar: Vejene skal have nogle flere investeringer. Det er ikke kun togene, der skal investeres i, sådan som Socialdemokratiet mener.";Kl. 10:58
+69180;Time;;Kl. 10:59
+69217;title_name;":
+Tak til transport-, bygnings-, bolig- og stedfortrædende økonomi- og
+indenrigsminister.
+Er der andre, der ønsker ordet?
+Det er ikke tilfældet, og forhandlingen er sluttet, og vi går til afstemning.";Christian Juhl
+69426;Time;Afstemning;Kl. 10:59
+69474;title_name;":
+Der stemmes om ændringsforslag nr. 1, af et mindretal (EL), tiltrådt
+af et mindretal (SF og ALT), og der kan stemmes nu.
+Jeg afslutter afstemningen nu.
+For stemte 19 (EL, ALT, SF og 1 RV (fejlafstemning)), imod stemte
+55 (DF, V, LA, RV og KF), hverken for eller imod stemte 27 (S).
+Ændringsforslaget er forkastet.
+Jeg betragter herefter ændringsforslag nr. 6 stillet og tiltrådt af de
+samme mindretal som forkastet.
+Det er forkastet.
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 7
+uden for betænkningen af økonomi- og indenrigsministeren (Simon
+Emil Ammitzbøll-Bille) som vedtaget.
+Det er vedtaget.
+
+Fredag den 1. juni 2018 (L 232)
+
+Der stemmes om ændringsforslag nr. 4, af et mindretal (EL), tiltrådt
+af et mindretal (SF og ALT), og der kan stemmes.
+Jeg afslutter afstemningen nu.
+For stemte 50 (S, EL, ALT, RV og SF), imod stemte 52 (DF, V, LA
+og KF), hverken for eller imod stemte 0.
+
+15
+
+en helhedsorienteret plan til borgere med komplekse og sammensatte problemer).
+Af ministeren for offentlig innovation (Sophie Løhde).
+(Fremsættelse 26.04.2018. 1. behandling 03.05.2018. Betænkning
+29.05.2018).";Christian Juhl
+70607;Time;"Ændringsforslaget er forkastet.
+Forhandling
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 8
+uden for betænkningen af økonomi- og indenrigsministeren (Simon
+Emil Ammitzbøll-Bille) som vedtaget.
+Det er vedtaget.";Kl. 11:03
+70873;title_name;":
+Jeg kan se, at der er nogen, der ønsker at udtale sig, nemlig fru Jette
+Gottlieb fra Enhedslisten. Værsgo.";Christian Juhl
+70991;Time;"Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.";Kl. 11:03
+71157;Time;Forhandling;Kl. 11:01
+71206;title_name;":
+Hr. Magnus Heunicke gør indsigelse.";Christian Juhl
+71253;Time;(Ordfører);Kl. 11:01
+71285;name_party;":
+Ja, det gør jeg. Tak for det, formand, og jeg kommer med den indsigelse, at vi beder om at få forslaget tilbage til udvalget her mellem
+anden og tredje behandling.
+Jeg synes, debatten her med ministeren med al tydelighed viser,
+at regeringen har måttet annullere nogle ændringsforslag og er kommet med et nyt ændringsforslag, og det kom i går. Derfor er der et
+behov for, at vi har tid til at gennemgå det ændringsforslag i udvalget, og det håber jeg at få opbakning til i Folketinget.";Magnus Heunicke
+71782;Time;;Kl. 11:01
+71819;title_name;":
+Jeg vil høre, om der er nogen, der gør indvendinger mod, at forslaget
+går tilbage til udvalget.
+Det er der. Så tager vi en afstemning om det.
+Vi skal lige have en kort pause, så teknikken kan følge med. Er
+teknikken klar til en afstemning? Et øjeblik.
+Er ministeren heller ikke imod det? Så vil jeg gerne spørge igen:
+Er der nogen, der er imod, at vi sender det tilbage til udvalget?
+Det er ikke tilfældet. Så lovforslaget går tilbage til fornyet behandling i udvalget. Tak for det. Så slap teknikken.
+
+(Ordfører)
+Jette Gottlieb (EL):
+Tak for det. Jeg vover at tage ordet, selv om det er det sidste punkt
+på dagsordenen. For jeg vil nemlig gerne sige noget om forslaget om
+helhedsorienteret plan for borgere med komplekse problemer. Jeg vil
+putte forslaget ind i kategorien beskrivelse af sund fornuft. Og derfor
+må det vække til almindelig eftertanke i Tinget, at der kræves 58 siders lovtekst – og med vores egne ændringsforslag bliver det nok 59
+sider – for det kræver det at have et forslag om at bruge sund fornuft
+i sagsbehandlingen. Så meget kræver det.
+Så meget desto mere ufornuftigt er det, at ændringerne ikke nødvendigvis fører til nogen som helst praktiske ændringer. Kommunerne kan lave helhedsorienteret sagsbehandling; nogle gør det allerede
+med stor succes i dag, og de kan gøre det efter vedtagelsen af lovforslaget. Men de er ikke forpligtet til det. Og det er så lige der, vores
+ændringsforslag ligger, for det betyder nemlig, at hvis borgeren ønsker det, bør kommunen være forpligtet til det.
+Men derudover må vi også bemærke, at i bemærkningerne – ikke
+i selve lovteksten, men i bemærkningerne – er der benyttet en lejlighed til at indføre mulighed for samkøring af datadeling mellem forvaltningerne, bl.a. også med det formål at finde de folk, der kunne
+have glæde af én plan. Og det er jo nærmest i modstrid med ånden i
+forslaget. Ånden i forslaget er jo, at man med én plan og én sagsbehandler vil opnå en tættere dialog mellem sagsbehandler og borger.
+Og så er løsningen snublende nær: Spørg dog borgeren selv. Der er
+ikke nogen grund til almindelig udveksling af data og datasamkøring
+og den slags.
+På trods af det sagte vil jeg dog også fortælle, at Enhedslisten har
+tænkt sig at stemme for forslaget, for man kan jo næsten ikke stemme imod sund fornuft. Men tænk lige over, at der skal være 58 siders
+lovtekst for at opnå muligheden – som allerede eksisterer – for at have sund fornuft i sagsbehandlingen. Det er altså noget, vi må tænke
+lidt mere over.";Christian Juhl
+74313;Time;"Det sidste punkt på dagsordenen er:
+18) 2. behandling af lovforslag nr. L 232:
+Forslag til lov om ændring af lov om en aktiv beskæftigelsesindsats, lov om social service, lov om integration af udlændinge i
+Danmark og forskellige andre love. (Mulighed for at udarbejde";Kl. 11:05
+74619;title_name;":
+Tusind tak til fru Jette Gottlieb. Det affødte ingen korte bemærkninger.
+Er der flere, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen slut, og vi går til afstemning.";Christian Juhl
+74818;Time;Afstemning;Kl. 11:06
+74866;title_name;":
+Der stemmes om ændringsforslag nr. 1 af et mindretal (EL), tiltrådt
+af et mindretal (SF og ALT). Og der kan stemmes.
+Afstemningen slutter.
+
+16
+
+Fredag den 1. juni 2018 (FM )
+
+For stemte 19 (DF) (ved en fejl), EL, ALT og SF), imod stemte 80
+(S, DF, V, LA, RV og KF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 2 af et mindretal (EL), tiltrådt
+af et mindretal (SF og ALT). Og der kan stemmes.
+Afstemningen slutter.
+For stemte 18 (EL, ALT og SF), imod stemte 82 (S, DF, V, LA, RV
+og KF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 3 af et mindretal (EL), tiltrådt
+af et mindretal (SF og ALT). Og der kan stemmes.
+Afstemningen slutter.
+For stemte 18 (EL, ALT og SF), imod stemte 83 (S, DF, V, LA, RV
+og KF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Jeg betragter herefter ændringsforslag nr. 6, 7 og 8, stillet og tiltrådt
+af det samme mindretal, som forkastet.
+De er forkastet.
+Ønskes afstemning om ændringsforslag nr. 4 og 5, tiltrådt af udvalget?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.";Christian Juhl
+76153;Time;Meddelelser fra formanden;Kl. 11:08
+76216;title_name;":
+Der er ikke mere at foretage i dette møde, ud over at jeg gerne vil
+sige tak til alle for dagens indsats i folkestyrets tjeneste – ikke
+mindst teknikken.
+Folketingets næste møde afholdes mandag den 4. juni 2018, kl. 9.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Jeg skal i øvrigt henvise til ugeplanen, der vil fremgå af Folketingets
+hjemmeside.
+God weekend.
+Mødet er hævet. (Kl. 11:08).";Christian Juhl

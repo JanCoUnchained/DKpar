@@ -1,0 +1,3275 @@
+split;reason;text;value
+0;;"Onsdag den 7. oktober 2009 (D)
+
+2. møde";
+76;Time;"Dagsorden
+1) Valg til stående udvalg m.v.
+2) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+Fødevareministeren deltager i spørgetimen.
+3) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til finansministeren af:";kl. 13.00
+341;name_party;":
+Kan ministeren uddybe regeringens planer for overflytning af en
+række opgaver og medarbejdere i kommunerne til en central enhed
+under overskriften centralisering af objektiv sagsbehandling?
+(Spm. nr. S 9).
+2) Til finansministeren af:";Rasmus Prehn
+593;name_party;":
+Kan ministeren redegøre for, hvorfor Kommunernes Landsforening
+(KL) har trukket sig fra samarbejdet i arbejdsgruppen vedrørende
+centralisering af objektiv sagsbehandling under Finansministeriet?
+(Spm. nr. S 11).
+3) Til miljøministeren af:";Rasmus Prehn
+848;name_party;":
+Er ministeren enig i, at alle aspekter af Danmarks afrapportering til
+EU efter habitatdirektivets artikel 17 i 2007 er ministerens politiske
+og juridiske ansvar?
+(Spm. nr. S 6).
+4) Til miljøministeren af:";Ida Auken
+1069;name_party;":
+Hvilke politiske hensyn tilgodeså ministeren ved ikke at afrapportere
+til EU i overensstemmelse med DMU's faglige opgørelse af naturtilstanden?
+(Spm. nr. S 8).
+5) Til indenrigs- og socialministeren af:";Ida Auken
+1289;name_party;":
+Hvad mener ministeren er årsagen til, at over 90 pct. af kommunerne
+forventer at skære i velfærden i forbindelse med budgettet for 2010?
+(Spm. nr. S 1).
+
+1
+
+6) Til indenrigs- og socialministeren af:";Line Barfod
+1506;name_party;":
+Vil ministeren sikre, at der kommer en krisepakke til kommunerne?
+(Spm. nr. S 2).
+7) Til beskæftigelsesministeren af:";Line Barfod
+1645;name_party;":
+Hvilke overvejelser gør ministeren sig om at stramme arbejdsmiljøreglerne i plastindustrien med mange hormonforstyrrende stoffer og
+organiske opløsningsmidler på baggrund af en undersøgelse fra SFI,
+der viser, at det er 20 pct. sværere for kvinder i denne branche at blive gravide end for andre kvinder?
+(Spm. nr. S 3, skr. begr.).
+8) Til integrationsministeren af:";Eigil Andersen
+2041;name_party;":
+Hvad er ministerens holdning til, at ministeriet i maj oversendte en
+ufuldstændig version af hjemsendelsesaftalen mellem Irak og Danmark til Folketinget og dermed tilbageholdt vigtig information for
+Folketinget og offentligheden?
+(Spm. nr. S 4).
+9) Til integrationsministeren af:";Johanne Schmidt-Nielsen
+2351;name_party;":
+Hvad er ministerens holdning til, at regeringen kun én dag efter at
+have indgået en hjemsendelsesaftale med Irak, hvor Danmark forpligter sig til at fortsætte den økonomiske og uddannelsesmæssige
+støtte til de irakere, der vælger at rejse frivilligt hjem, i strid med aftalens ord ophører med at yde den lovede støtte til frivillig hjemrejse?
+(Spm. nr. S 5).
+10) Til videnskabsministeren af:";Johanne Schmidt-Nielsen
+2766;name_party;":
+Finder ministeren, at det er acceptabelt, at danske teleselskaber overtakserer teletjenester som nummeroplysningen 118?
+(Spm. nr. S 7).
+11) Til videnskabsministeren af:";Benny Engelbrecht
+2958;name_party;":
+Hvilke initiativer vil ministeren tage for at imødegå, at teleselskaber
+kan overtaksere teletjenester som politiets enhedsnummer 114?
+(Spm. nr. S 10, skr. begr.).";Benny Engelbrecht
+3133;Time;"Meddelelser fra formanden
+Formanden:
+Mødet er åbnet.
+
+2
+
+Onsdag den 7. oktober 2009 (FM )
+
+Transportministeren (Lars Barfoed) har meddelt mig, at han ønsker
+skriftligt at fremsætte:
+
+(Overdragelse af licensandele med betaling af fremtidige efterforskningsomkostninger, finansielle indtægter m.v.)),
+
+Lovforslag nr. L 2 (Forslag til lov om anlæg af Frederikssundmotorvejen mellem Motorring 4 og Frederikssund).
+
+Lovforslag nr. L 22 (Forslag til lov om ændring af pensionsafkastbeskatningsloven, pensionsbeskatningsloven og forskellige andre love.
+(Justeringer af pensionsafkastbeskatningsloven og pensionsbeskatningsloven, udbytteskat i skattefritagne dødsboer samt tekniske justeringer af Forårspakke 2.0)),
+
+Integrationsministeren (Birthe Rønn Hornbech) har meddelt mig, at
+hun ønsker skriftligt at fremsætte:
+Lovforslag nr. L 3 (Forslag til lov om ændring af udlændingeloven.
+(Gennemførelse af forordning om en fællesskabskodeks for visa (visumkodeks), bemyndigelse til at fastsætte regler om studieaktivitet
+m.v.)).
+Økonomi- og erhvervsministeren (Lene Espersen) har meddelt mig,
+at hun ønsker skriftligt at fremsætte:
+Lovforslag nr. L 10 (Forslag til lov om ændring af lov om Danmarks
+Statistik og forskellige andre love. (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, ændring af reglerne om
+sammensætning af Danmarks Vækstråd m.v.)),
+Lovforslag nr. L 11 (Forslag til lov om ændring af lov om finansiel
+virksomhed, lov om værdipapirhandel m.v., lov om finansiel stabilitet og forskellige andre love. (Registrering af kreditvurderingsbureauer, godkendelsesordning for udenlandske clearingcentraler,
+overførsel af tilsyn fra Finanstilsynet til Konkurrencestyrelsen, sekretariatsbistand for Garantifonden for Indskydere og Investorer
+m.v.)),
+Lovforslag nr. L 12 (Forslag til lov om ændring af lov om registrering af ledningsejere. (Udvidelse af dækningsområde m.v.)) og
+Lovforslag nr. L 13 (Forslag til lov om ændring af lov om restaurationsvirksomhed og alkoholbevilling m.v. (Videregivelse og behandling af oplysninger om forbud mod ophold i bestemte virksomheder)).
+Skatteministeren (Kristian Jensen) har meddelt mig, at han ønsker
+skriftligt at fremsætte:
+Lovforslag nr. L 14 (Forslag til lov om indgåelse af skatteaftaler
+mellem Danmark og henholdsvis Aruba, Bermuda, De Britiske Jomfruøer, Cayman Islands og De Nederlandske Antiller),
+Lovforslag nr. L 15 (Forslag til lov om indgåelse af protokoller om
+ændring af dobbeltbeskatningsoverenskomster mellem Danmark og
+henholdsvis Belgien, Luxembourg, Singapore og Østrig),
+Lovforslag nr. L 16 (Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Israel),
+Lovforslag nr. L 17 (Forslag til lov om indgåelse af protokol om ændring af overenskomst mellem Danmark og Schweiz til undgåelse af
+dobbeltbeskatning vedrørende skatter af indkomst og formue),
+Lovforslag nr. L 18 (Forslag til lov om indgåelse af dobbeltbeskatningsoverenskomst mellem Danmark og Serbien),
+Lovforslag nr. L 19 (Forslag til lov om ændring af merværdiafgift.
+(Leveringsstedsregler for ydelser, omvendt betalingspligt, CO2-kvoter, VIES-systemet, momsgodtgørelse inden for EU m.v.)),
+Lovforslag nr. L 21 (Forslag til lov om ændring af lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark.
+
+Lovforslag nr. L 23 (Forslag til lov om ændring af ligningsloven.
+(Skattefrihed for soldaterlegater)) og
+Lovforslag nr. L 24 (Forslag til lov om ændring af lov om afgift efter
+brændstofforbrug for visse personbiler, registreringsafgiftsloven og
+forskellige andre love.(Grøn omlægning af bilbeskatningen - II)).
+Kulturministeren (Carina Christensen) har meddelt mig, at hun ønsker skriftligt at fremsætte:
+Lovforslag nr. L 25 (Forslag til lov om ændring af lov om radio- og
+fjernsynsvirksomhed og lov om ophavsret. (Gennemførelse af direktivet om audiovisuelle medietjenester m.v.)) og
+Lovforslag nr. L 26 (Forslag til lov om ændring af lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet.
+(Ændring af status for Danmarks Designskole, udmøntning af aftale
+om fusion af visse uddannelsesinstitutioner m.v.)).
+Justitsministeren (Brian Mikkelsen) har meddelt mig, at han ønsker
+skriftligt at fremsætte:
+Lovforslag nr. L 27 (Forslag til lov om Den Europæiske Politienhed.
+(Europol)),
+Lovforslag nr. L 28 (Forslag til lov om offentligt hasardspil i turneringsform) og
+Lovforslag nr. L 29 (Forslag til lov om ændring af konkursloven.
+(Behandlingen i konkurs af indeståender på fritvalgsordninger)).
+Medlemmer af Folketinget Mette Frederiksen (S), Anne Baastrup
+(SF), Anne Marie Geisler Andersen (RV) og Line Barfod (EL) m.fl.
+har meddelt mig, at de ønsker skriftligt at fremsætte:
+Beslutningsforslag nr. B 1 (Forslag til folketingsbeslutning om oprettelse af kommunale udsatteråd).
+Medlemmer af Folketinget Frank Aaen (EL) m.fl. har meddelt mig,
+at de ønsker skriftligt at fremsætte:
+Beslutningsforslag nr. B 3 (Forslag til folketingsbeslutning om en
+undersøgelse af årsagerne til finanskrisen).
+Skatteministeren (Kristian Jensen) har meddelt mig, at han ønsker
+skriftligt at fremsætte:
+Beslutningsforslag nr. B 4 (Forslag til folketingsbeslutning om Danmarks ratifikation af Konvention om centraliseret toldbehandling for
+så vidt angår fordelingen af de nationale opkrævningsomkostninger,
+der tilbageholdes, når de traditionelle egne indtægter overdrages til
+EU’s budget).
+Medlemmer af Folketinget Tina Petersen (DF) m.fl. har meddelt
+mig, at de ønsker skriftligt at fremsætte:
+
+Onsdag den 7. oktober 2009 (VALG )
+
+Beslutningsforslag nr. B 5 (Forslag til folketingsbeslutning om en
+national handlingsplan om demens).
+
+3
+
+Titlerne på de anmeldte forespørgsler vil fremgå af www.folketingstidende.dk (jf. ovenfor).
+
+Justitsministeren (Brian Mikkelsen) har meddelt mig, at han ønsker
+skriftligt at fremsætte:
+Beslutningsforslag nr. B 6 (Forslag til folketingsbeslutning om forslag til rammeafgørelse om anvendelse mellem Den Europæiske
+Unions medlemsstater af princippet om gensidig anerkendelse på afgørelser om tilsynsforanstaltninger som et alternativ til varetægtsfængsling).
+Medlemmer af Folketinget Line Barfod (EL) m.fl. har meddelt mig,
+at de ønsker skriftligt at fremsætte:
+Beslutningsforslag nr. B 7 (Forslag til folketingsbeslutning om ophævelse af bestemmelsen om minimumsstraf for overtrædelse af våbenlovens forbud mod knive på offentlige steder).
+Titler på de fremsatte lov- og beslutningsforslag vil fremgå af
+www.folketingstidende.dk (jf. ovenfor).
+Medlemmer af Folketinget Anders Samuelsen (LA) m.fl. har meddelt mig, at de ønsker at stille følgende forespørgsel til beskæftigelsesministeren og finansministeren:
+Forespørgsel nr. F 1 (Vil ministeren redegøre for regeringens vurdering af og opfølgning på Arbejdsmarkedskommissionens rapport,
+herunder konkret, hvordan regeringen fremadrettet agter at løse problemet med mangel på arbejdskraft, samtidig med at man sikrer høj
+velstand for fremtidige generationer?).
+
+Det første punkt på dagsordenen er:
+1) Valg til stående udvalg m.v.";Kl. 13:00
+10161;Time;"Formanden:
+Til disse valg er anmeldt følgende valggrupper:
+en gruppe på 95 medlemmer: Venstre, Dansk Folkeparti, Det
+Konservative Folkeparti, Liberal Alliance, Sambandspartiet og Pia
+Christmas-Møller (UFG);
+en gruppe på 84 medlemmer: Socialdemokratiet, Socialistisk Folkeparti, Det Radikale Venstre, Enhedslisten, Tjóðveldisflokkurin
+(TF), Inuit Ataqatigiit (IA) og Siumut (SIU).
+Der foreligger indstilling fra grupperne om disse navne. Navnene
+på de valgte kan findes på Folketingets hjemmeside og i Folketingstidende.
+Samtidig er der fra grupperne fremkommet forslag om valg af
+formand og næstformand. Der er kun bragt én i forslag til hver af
+disse poster, og navnene bliver optaget i Folketingstidende.
+Skulle der inden kl. 12 i morgen komme indsigelse mod et eller
+flere af valgene af formænd og næstformænd, vil der blive indkaldt
+til sættemøde i det pågældende udvalg.
+[Valg af 16 medlemmer til Udvalget for Forretningsordenen.
+Valgt blev:
+
+Medlemmer af Folketinget Simon Emil Ammitzbøll (LA) m.fl. har
+meddelt mig, at de ønsker at stille følgende forespørgsel til justitsministeren:
+Forespørgsel nr. F 2 (Vil ministeren, nu da bandekrigen har stået på i
+et år, redegøre for, hvordan sikkerheden og trygheden genoprettes i
+de største danske byer?).
+Medlemmer af Folketinget Niels Sindal (S), Marion Pedersen (V),
+Anita Knakkergaard (DF), Kristen Touborg (SF), Jørgen S. Lundsgaard (KF), Bente Dahl (RV) og Line Barfod (EL) har meddelt mig,
+at de ønsker at stille følgende forespørgsel til udenrigsministeren:
+Forespørgsel nr. F 3 (På hvilke måder følger regeringen forslagene i
+den forhenværende norske udenrigs- og forsvarsminister Thorvald
+Stoltenbergs rapport til de nordiske udenrigsministre om det fremtidige nordiske samarbejde om udenrigs- og sikkerhedspolitik?).
+Medlemmer af Folketinget Karsten Lauritzen (V), Naser Khader
+(KF) og Martin Henriksen (DF) har meddelt mig, at de ønsker at stille følgende forespørgsel til integrationsministeren:
+Forespørgsel nr. F 4 (Vil ministeren redegøre for lovgrundlaget for
+at give humanitær opholdstilladelse og herunder den etablerede
+praksis for at give humanitær opholdstilladelse?).
+Medlemmer af Folketinget Juliane Henningsen (IA) og Høgni Hoydal (TF) har meddelt mig, at de ønsker at stille følgende forespørgsel
+til klima- og energiministeren:
+Forespørgsel nr. F 5 (Hvad kan ministeren oplyse om de aftaler, der
+er indgået med Færøerne og Grønland forud for forhandlingerne om
+den nye klimaaftale, der skal vedtages på COP15 i december 2009?).
+
+1 Thor Pedersen (V)
+2 Mogens Lykketoft (S)
+3 Søren Espersen (DF)
+4 Holger K. Nielsen (SF)
+5 Helge Adam Møller (KF)
+6 Flemming Damgaard Larsen (V)
+7 Jens Vibjerg (V)
+8 Peter Christensen (V)
+9 Anne-Mette Winther Christiansen (V)
+10 Hans Christian Schmidt (V)
+11 Pia Kjærsgaard (DF)
+12 Kristian Thulesen Dahl (DF)
+13 Tom Behnke (KF)
+14 Carsten Hansen (S)
+15 Henrik Dam Kristensen (S)
+16 Karen J. Klint (S)
+17 Nick Hækkerup (S)
+18 Ole Sohn (SF)
+19 Margrethe Vestager (RV)
+20 Morten Østergaard (RV)
+21 Line Barfod (EL)
+22 Simon Emil Ammitzbøll (LA) (uden stemmeret, jf. forretningsordenens § 7, stk. 3, 2. pkt.)
+(Udvalget for Forretningsordenen består af Folketingets Præsidium
+(nr. 1-5) tillige med 16 valgte medlemmer).
+Formand: Thor Pedersen (V)
+Næstformand: Mogens Lykketoft (S)
+Valg af 17 medlemmer til Udvalget til Valgs Prøvelse.
+
+4
+
+Onsdag den 7. oktober 2009 (VALG )
+
+Valgt blev:
+
+Valgt blev:
+
+1 Karsten Nonbo (V)
+2 Peter Juel Jensen (V)
+3 Per Bisgaard (V)
+4 Hans Christian Thoning (V)
+5 Anne-Mette Winther Christiansen (V)
+6 Søren Espersen (DF)
+7 Peter Skaarup (DF)
+8 Helge Adam Møller (KF)
+9 Vivi Kier (KF)
+10 Karen J. Klint (S)
+11 Henrik Dam Kristensen (S)
+12 Klaus Hækkerup (S)
+13 Julie Skovsby (S)
+14 Anne Baastrup (SF)
+15 Pernille Frahm (SF)
+16 Niels Helveg Petersen (RV)
+17 Frank Aaen (EL)
+
+Til medlemmer:
+1 Troels Christensen (V)
+2 Louise Schack Elholm (V)
+3 Søren Pind (V)
+4 Eyvind Vesselbo (V)
+5 Michael Aastrup Jensen (V)
+6 Anita Knakkergaard (DF)
+7 Hans Kristian Skibby (DF)
+8 Knud Kristensen (KF)
+9 Naser Khader (KF)
+10 Yildiz Akdogan (S)
+11 Bjarne Laustsen (S)
+12 Lennart Damsbo-Andersen (S)
+13 Thomas Jensen (S)
+14 Nanna Westerby (SF)
+15 Karsten Hønge (SF)
+16 Jørgen Poulsen (RV)
+17 Frank Aaen (EL)
+
+Formand: Karen J. Klint (S)
+Næstformand: Peter Juel Jensen (V)
+Valg af 17 medlemmer og stedfortrædere til Arbejdsmarkedsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Jens Vibjerg (V)
+2 Peter Juel Jensen (V)
+3 Louise Schack Elholm (V)
+4 Sophie Løhde (V)
+5 Bent Bøgsted (DF)
+6 Colette L. Brix (DF)
+7 Knud Kristensen (KF)
+8 Charlotte Dyremose (KF)
+9 Anders Samuelsen (LA)
+10 Torben Hansen (S)
+11 Anne-Marie Meldgaard (S)
+12 Lone Møller (S)
+13 Leif Lahn Jensen (S)
+14 Eigil Andersen (SF)
+15 Karsten Hønge (SF)
+16 Morten Østergaard (RV)
+17 Line Barfod (EL)
+Til stedfortrædere for:
+1-4 Erling Bonnesen (V)
+1-4 Marion Pedersen (V)
+5-6 Kristian Thulesen Dahl (DF)
+5-6 René Christensen (DF)
+7-8 Helle Sjelle (KF)
+7-8 Naser Khader (KF)
+9 Malou Aamund (V)
+10-13 Bjarne Laustsen (S)
+10-13 Lennart Damsbo-Andersen (S)
+14-15 Özlem Sara Cekic (SF)
+16 Anne Marie Geisler Andersen (RV)
+17 Julie Rademacher (S)
+Formand: Knud Kristensen (KF)
+Næstformand: Lone Møller (S)
+Valg af 17 medlemmer og stedfortrædere til Boligudvalget.
+
+Til stedfortrædere for:
+1-5 Karsten Lauritzen (V)
+1-5 Erling Bonnesen (V)
+6-7 Henrik Brodersen (DF)
+6-7 Kim Christiansen (DF)
+8-9 Vivi Kier (KF)
+8-9 Pia Christmas-Møller (UFG)
+10-13 Rasmus Prehn (S)
+10-13 René Skau Björnsson (S)
+14-15 Flemming Bonne (SF)
+14-15 Meta Fuglsang (SF)
+16 Sophie Hæstorp Andersen (S)
+Formand: Nanna Westerby (SF)
+Næstformand: Troels Christensen (V)
+Valg af 17 medlemmer og stedfortrædere til Det Energipolitiske
+Udvalg.
+Valgt blev:
+Til medlemmer:
+1 Eyvind Vesselbo (V)
+2 Jens Kirk (V)
+3 Lars Christian Lilleholt (V)
+4 Kristian Pihl Lorentzen (V)
+5 Henrik Høegh (V)
+6 Ellen Trane Nørby (V)
+7 Per Dalgaard (DF)
+8 Tina Petersen (DF)
+9 Per Ørum Jørgensen (KF)
+10 Mette Gjerskov (S)
+11 Ole Vagn Christensen (S)
+12 Kim Mortensen (S)
+13 Ole Hækkerup (S)
+14 Anne Grete Holmsgaard (SF)
+15 Ida Auken (SF)
+16 Margrethe Vestager (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-6 Hans Christian Schmidt (V)
+1-6 Flemming Møller (V)
+7-8 Kristian Thulesen Dahl (DF)
+
+Onsdag den 7. oktober 2009 (VALG )
+
+7-8 René Christensen (DF)
+9 Jørgen S. Lundsgaard (KF)
+10-13 Maja Panduro (S)
+14-15 Flemming Bonne (SF)
+16 Jens Christian Lund (S)
+17 Jesper Petersen (SF)
+Formand: Jens Kirk (V)
+Næstformand: Margrethe Vestager (RV)
+Valg af 17 medlemmer og stedfortrædere til Erhvervsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Hans Christian Schmidt (V)
+2 Jacob Jensen (V)
+3 Jens Vibjerg (V)
+4 Lars Christian Lilleholt (V)
+5 Tina Nedergaard (V)
+6 Colette L. Brix (DF)
+7 Pia Adelsteen (DF)
+8 Mike Legarth (KF)
+9 Per Ørum Jørgensen (KF)
+10 Orla Hav (S)
+11 Benny Engelbrecht (S)
+12 Henrik Dam Kristensen (S)
+13 Niels Sindal (S)
+14 Karsten Hønge (SF)
+15 Flemming Bonne (SF)
+16 Morten Østergaard (RV)
+17 Frank Aaen (EL)
+
+11 Kim Mortensen (S)
+12 Yildiz Akdogans (S)
+13 Jeppe Kofod (S)
+14 Anne Grete Holmsgaard (SF)
+15 Hanne Agersnap (SF)
+16 Lone Dybkjær (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-5 Malou Aamund (V)
+1-5 Birgitte Josefsen (V)
+6-7 Martin Henriksen (DF)
+6-7 Tina Petersen (DF)
+8-9 Naser Khader (KF)
+8-9 Pia Christmas-Møller (UFG)
+10-13 Benny Engelbrecht (S)
+10-13 Orla Hav (S)
+14-15 Karina Lorentzen Dehnhardt (SF)
+14-15 Høgni Hoydal (TF)
+16 Bjarne Laustsen (S)
+17 Frank Aaen (EL)
+Formand: Anne-Marie Meldgaard (S)
+Næstformand: Henrik Høegh (V)
+Valg af 17 medlemmer til Finansudvalget.
+Valgt blev:
+
+Til stedfortrædere for:
+1-5 Anne-Mette Winther Christiansen (V)
+1-5 Hans Christian Thoning (V)
+6-7 Mikkel Dencker (DF)
+6-7 Tina Petersen (DF)
+8-9 Flemming Damgaard Larsen (V)
+8-9 Villum Christensen (LA)
+10-13 Ole Vagn Christensen (S)
+10-13 Yildiz Akdogan (S)
+14-15 Pia Olsen Dyhr (SF)
+14-15 Steen Gade (SF)
+16 Jens Christian Lund (S)
+17 Jesper Petersen (SF)
+
+1 Torsten Schack Pedersen (V)
+2 Flemming Damgaard Larsen (V)
+3 Tina Nedergaard (V)
+4 Kim Andersen (V)
+5 Jacob Jensen (V)
+6 Kristian Thulesen Dahl (DF)
+7 Tina Petersen (DF)
+8 Mike Legarth (KF)
+9 Henriette Kjær (KF)
+10 Morten Bødskov (S)
+11 Klaus Hækkerup (S)
+12 Jens Peter Vernersen (S)
+13 Nick Hækkerup (S)
+14 Ole Sohn (SF)
+15 Jesper Petersen (SF)
+16 Morten Østergaard (RV)
+17 Frank Aaen (EL)
+
+Formand: Hans Christian Schmidt (V)
+Næstformand: Colette L. Brix (DF)
+
+Formand: Kristian Thulesen Dahl (DF)
+Næstformand: Flemming Damgaard Larsen (V)
+
+Valg af 17 medlemmer og stedfortrædere til Europaudvalget.
+
+Valg af 17 medlemmer og stedfortrædere til Forsvarsudvalget.
+
+Valgt blev:
+
+Valgt blev:
+
+Til medlemmer:
+1 Kim Andersen (V)
+2 Michael Aastrup Jensen (V)
+3 Erling Bonnesen (V)
+4 Henrik Høegh (V)
+5 Tina Nedergaard (V)
+6 Pia Adelsteen (DF)
+7 Ib Poulsen (DF)
+8 Helle Sjelle (KF)
+9 Jørgen S. Lundsgaard (KF)
+10 Anne-Marie Meldgaard (S)
+
+Til medlemmer:
+1 Hans Christian Thoning (V)
+2 Karsten Nonbo (V)
+3 Kristian Pihl Lorentzen (V)
+4 Gitte Lillelund Bech (V)
+5 Søren Pind (V)
+6 Marion Pedersen (V)
+7 Ib Poulsen (DF)
+8 Søren Krarup (DF)
+9 Helge Adam Møller (KF)
+10 John Dyrby Paulsen (S)
+
+5
+
+6
+
+Onsdag den 7. oktober 2009 (VALG )
+
+11 Jens Christian Lund (S)
+12 Poul Andersen (S)
+13 Julie Rademacher (S)
+14 Holger K. Nielsen (SF)
+15 Pernille Frahm (SF)
+16 Niels Helveg Petersen (RV)
+17 Frank Aaen (EL)
+
+14 Pernille Vigsø Bagge (SF)
+15 Anne Baastrup (SF)
+16 Bente Dahl (RV)
+17 Johanne Schmidt-Nielsen (EL)
+
+Til stedfortrædere for:
+1-6 Peter Juel Jensen (V)
+1-6 Villum Christensen (LA)
+7-8 Hans Kristian Skibby (DF)
+7-8 Søren Espersen (DF)
+9 Tom Behnke (KF)
+10-13 Bjarne Laustsen (S)
+10-13 Christine Antorini (S)
+14-15 Jonas Dahl (SF)
+16 Juliane Henningsen (IA)
+
+Til stedfortrædere for:
+1-4 Lars Christian Lilleholt (V)
+1-4 Søren Pind (V)
+5-6 René Christensen (DF)
+5-6 Karin Nødgaard (DF)
+7-8 Jørgen S. Lundsgaard (KF)
+7-8 Vivi Kier (KF)
+9 Eyvind Vesselbo (V)
+10-13 Ole Hækkerup (S)
+10-13 Flemming Møller Mortensen (S)
+14-15 Eigil Andersen (SF)
+14-15 Ole Sohn (SF)
+16 Magnus Heunicke (S)
+
+Formand: Hans Christian Thoning (V)
+Næstformand: Poul Andersen (S)
+
+Formand: Britta Schall Holberg (V)
+Næstformand: Pernille Vigsø Bagge (SF)";Kl. 13:02
+20296;Time;"Valg af 17 medlemmer til Indfødsretsudvalget.
+
+Valg af 17 medlemmer og stedfortrædere til Kommunaludvalget.
+
+Valgt blev:
+Valgt blev:
+1 Karsten Nonbo (V)
+2 Per Bisgaard (V)
+3 Sophie Løhde (V)
+4 Gitte Lillelund Bech (V)
+5 Peter Juel Jensen (V)
+6 Louise Schack Elholm (V)
+7 Søren Krarup (DF)
+8 Jesper Langballe (DF)
+9 Tom Behnke (KF)
+10 Henrik Dam Kristensen (S)
+11 Sophie Hæstorp Andersen (S)
+12 Lennart Damsbo-Andersen (S)
+13 Maja Panduro (S)
+14 Meta Fuglsang (SF)
+15 Hanne Agersnap (SF)
+16 Jørgen Poulsen (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Formand: Tom Behnke (KF)
+Næstformand: Søren Krarup (DF)
+Valg af 17 medlemmer og stedfortrædere til Kirkeudvalget.
+Valgt blev:
+Til medlemmer:
+1 Flemming Damgaard Larsen (V)
+2 Britta Schall Holberg (V)
+3 Jens Kirk (V)
+4 Per Bisgaard (V)
+5 Jesper Langballe (DF)
+6 Søren Krarup (DF)
+7 Charlotte Dyremose (KF)
+8 Per Ørum Jørgensen (KF)
+9 Simon Emil Ammitzbøll (LA)
+10 Karen J. Klint (S)
+11 Sophie Hæstorp Andersen (S)
+12 Benny Engelbrecht (S)
+13 Leif Lahn Jensen (S)
+
+Til medlemmer:
+1 Erling Bonnesen (V)
+2 Britta Schall Holberg (V)
+3 Hans Christian Thoning (V)
+4 Per Bisgaard (V)
+5 Flemming Damgaard Larsen (V)
+6 Hans Kristian Skibby (DF)
+7 Henrik Brodersen (DF)
+8 Henriette Kjær (KF)
+9 Jørgen S. Lundsgaard (KF)
+10 Rasmus Prehn (S)
+11 Lene Hansen (S)
+12 Thomas Jensen (S)
+13 Lennart Damsbo-Andersen (S)
+14 Flemming Bonne (SF)
+15 Karl H. Bornhøft (SF)
+16 Johs. Poulsen (RV)
+17 Line Barfod (EL)
+Til stedfortrædere for:
+1-5 Troels Christensen (V)
+1-5 Birgitte Josefsen (V)
+6-7 Ib Poulsen (DF)
+6-7 Mikkel Dencker (DF)
+8-9 Colette L. Brix (DF)
+8-9 Knud Kristensen (KF)
+10-13 Julie Skovsby (S)
+10-13 Nick Hækkerup (S)
+14-15 Kristen Touborg (SF)
+14-15 Anne Baastrup (SF)
+16 Thomas Adelskov (S)
+17 Magnus Heunicke (S)
+Formand: Hans Kristian Skibby (DF)
+Næstformand: Jørgen S. Lundsgaard (KF)
+Valg af 17 medlemmer og stedfortrædere til Kulturudvalget.
+
+Onsdag den 7. oktober 2009 (VALG )
+
+Valgt blev:
+Til medlemmer:
+1 Troels Christensen (V)
+2 Ellen Trane Nørby (V)
+3 Flemming Damgaard Larsen (V)
+4 Preben Rudiengaard (V)
+5 Karin Nødgaard (DF)
+6 Pia Kjærsgaard (DF)
+7 Helle Sjelle (KF)
+8 Per Ørum Jørgensen (KF)
+9 Simon Emil Ammitzbøll (LA)
+10 Mogens Jensen (S)
+11 Lise von Seelen (S)
+12 Leif Lahn Jensen (S)
+13 Yildiz Akdogan (S)
+14 Pernille Frahm (SF)
+15 Holger K. Nielsen (SF)
+16 Johs. Poulsen (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-4 Eyvind Vesselbo (V)
+1-4 Britta Schall Holberg (V)
+5-6 Henrik Brodersen (DF)
+5-6 Peter Skaarup (DF)
+7-8 Henriette Kjær (KF)
+7-8 Karen Jespersen (V)
+9 Malou Aamund (V)
+10-13 Flemming Møller Mortensen (S)
+10-13 Rasmus Prehn (S)
+14-15 Ida Auken (SF)
+14-15 Ole Sohn (SF)
+16 Anne-Marie Meldgaard (S)
+17 Karl H. Bornhøft (SF)
+Formand: Karin Nødgaard (DF)
+Næstformand: Preben Rudiengaard (V)
+Valg af 17 medlemmer og stedfortrædere til Miljø- og Planlægningsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Peter Juel Jensen (V)
+2 Eyvind Vesselbo (V)
+3 Erling Bonnesen (V)
+4 Birgitte Josefsen (V)
+5 Hans Christian Thoning (V)
+6 Jørn Dohrmann (DF)
+7 Liselott Blixt (DF)
+8 Per Ørum Jørgensen (KF)
+9 Helle Sjelle (KF)
+10 Torben Hansen (S)
+11 Mette Gjerskov (S)
+12 Flemming Møller Mortensen (S)
+13 Ida Auken (SF)
+14 Steen Gade (SF)
+15 Johs. Poulsen (RV)
+16 Per Clausen (EL)
+17 Juliane Henningsen (IA)
+Til stedfortrædere for:
+1-5 Lars Christian Lilleholt (V)
+
+7
+
+1-5 Henrik Høegh (V)
+6-7 Ib Poulsen (DF)
+6-7 Anita Knakkergaard (DF)
+8-9 Knud Kristensen (KF)
+8-9 Britta Schall Holberg (V)
+10-12 Ole Vagn Christensen (S)
+10-12 Benny Engelbrecht (S)
+13-14 Pia Olsen Dyhr (SF)
+13-14 Jonas Dahl (SF)
+15 Bente Dahl (RV)
+16 Ole Hækkerup (S)
+17 Anne Grete Holmsgaard (SF)
+Formand: Steen Gade (SF)
+Næstformand: Peter Juel Jensen (V)
+Valg af 17 medlemmer og stedfortrædere til Det Politisk-Økonomiske Udvalg.
+Valgt blev:
+Til medlemmer:
+1 Torsten Schack Pedersen (V)
+2 Peter Christensen (V)
+3 Hans Christian Schmidt (V)
+4 Flemming Møller (V)
+5 Per Bisgaard (V)
+6 Pia Adelsteen (DF)
+7 Marlene Harpsøe (DF)
+8 Helle Sjelle (KF)
+9 Anders Samuelsen (LA)
+10 René Skau Björnsson (S)
+11 Jens Peter Vernersen (S)
+12 Helle Thorning-Schmidt (S)
+13 Julie Rademacher (S)
+14 Ole Sohn (SF)
+15 Lone Dybkjær (RV)
+16 Frank Aaen (EL)
+17 Høgni Hoydal (TF)
+Til stedfortrædere for:
+1-5 Ellen Trane Nørby (V)
+1-5 Karsten Lauritzen (V)
+6-7 Henrik Brodersen (DF)
+6-7 Anita Christensen (DF)
+8 Charlotte Dyremose (KF)
+9 Hans Christian Thoning (V)
+10-13 Karen Hækkerup (S)
+10-13 Jeppe Kofod (S)
+14 Pernille Vigsø Bagge (SF)
+15 Morten Bødskov (S)
+16 Jesper Petersen (SF)
+Formand: Frank Aaen (EL)
+Næstformand: Pia Adelsteen (DF)
+Valg af 17 medlemmer og stedfortrædere til Retsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Kim Andersen (V)
+2 Søren Pind (V)
+3 Karsten Nonbo (V)
+4 Peter Skaarup (DF)
+
+8
+
+Onsdag den 7. oktober 2009 (VALG )
+
+5 Marlene Harpsøe (DF)
+6 Dennis Flydtkjær (DF)
+7 Tom Behnke (KF)
+8 Vivi Kier (KF)
+9 Simon Emil Ammitzbøll (LA)
+10 Karen Hækkerup (S)
+11 Maja Panduro (S)
+12 Mogens Jensen (S)
+13 Julie Skovsby (S)
+14 Anne Baastrup (SF)
+15 Karina Lorentzen Dehnhardt (SF)
+16 Lone Dybkjær (RV)
+17 Line Barfod (EL)
+Til stedfortrædere for:
+1-3 Flemming Møller (V)
+1-3 Karen Jespersen (V)
+4-6 René Christensen (DF)
+4-6 Kim Christiansen (DF)
+4-6 Louise Schack Elholm (V)
+7-8 Helle Sjelle (KF)
+9 Marion Pedersen (V)
+10-13 Morten Bødskov (S)
+10-13 Flemming Møller Mortensen (S)
+14-15 Meta Fuglsang (SF)
+14-15 Kristen Touborg (SF)
+16 Lise von Seelen (S)
+17 Pia Olsen Dyhr (SF)
+Formand: Peter Skaarup (DF)
+Næstformand: Anne Baastrup (SF)
+Valg af 17 medlemmer og stedfortrædere til Skatteudvalget.
+Valgt blev:
+Til medlemmer:
+1 Torsten Schack Pedersen (V)
+2 Karsten Lauritzen (V)
+3 Flemming Møller (V)
+4 Jacob Jensen (V)
+5 Mikkel Dencker (DF)
+6 Pia Adelsteen (DF)
+7 Mike Legarth (KF)
+8 Charlotte Dyremose (KF)
+9 Anders Samuelsen (LA)
+1 Nick Hækkerup (S)
+11 John Dyrby Paulsen (S)
+12 Klaus Hækkerup (S)
+13 René Skau Björnsson (S)
+14 Thomas Jensen (S)
+15 Jesper Petersen (SF)
+16 Niels Helveg Petersen (RV)
+17 Frank Aaen (EL)
+Til stedfortrædere for:
+1-4 Lars Christian Lilleholt (V)
+1-4 Gitte Lillelund Bech (V)
+5-6 Colette L. Brix (DF)
+5-6 Bent Bøgsted (DF)
+7-8 Tina Nedergaard (V)
+7-8 Per Ørum Jørgensen (KF)
+9 Kim Andersen (V)
+10-14 Morten Østergaard (RV)
+10-14 Jens Peter Vernersen (S)
+
+15 Hanne Agersnap (SF)
+16 Ole Sohn (SF)
+17 Jonas Dahl (SF)
+Formand: Niels Helveg Petersen (RV)
+Næstformand: Anders Samuelsen (LA)";Kl. 13:02
+26639;Time;"Valg af 17 medlemmer og stedfortrædere til Socialudvalget.
+Valgt blev:
+Til medlemmer:
+1 Ellen Trane Nørby (V)
+2 Erling Bonnesen (V)
+3 Anne-Mette Winther Christiansen (V)
+4 Sophie Løhde (V)
+5 Martin Henriksen (DF)
+6 Tina Petersen (DF)
+7 Dennis Flydtkjær (DF)
+8 Vivi Kier (KF)
+9 Tom Behnke (KF)
+10 Mette Frederiksen (S)
+11 Lone Møller (S)
+12 Lene Hansen (S)
+13 Lise von Seelen (S)
+14 Özlem Sara Cekic (SF)
+15 Meta Fuglsang (SF)
+16 Anne Marie Geisler Andersen (RV)
+17 Line Barfod (EL)
+Til stedfortrædere for:
+1-4 Louise Schack Elholm (V)
+1-4 Marion Pedersen (V)
+5-7 Anita Christensen (DF)
+5-7 René Christensen (DF)
+8-9 Knud Kristensen (KF)
+8-9 Simon Emil Ammitzbøll (LA)
+10-13 René Skau Björnsson (S)
+10-13 Orla Hav (S)
+14-15 Anne Baastrup (SF)
+14-15 Pernille Vigsø Bagge (SF)
+16 Marianne Jelved (RV)
+17 Yildiz Akdogan (S)
+Formand: Martin Henriksen (DF)
+Næstformand: Erling Bonnesen (V)
+Valg af 17 medlemmer og stedfortrædere til Sundhedsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Louise Schack Elholm (V)
+2 Preben Rudiengaard (V)
+3 Birgitte Josefsen (V)
+4 Sophie Løhde (V)
+5 Anne-Mette Winther Christiansen (V)
+6 Liselott Blixt (DF)
+7 Karin Nødgaard (DF)
+8 Vivi Kier (KF)
+9 Pia Christmas-Møller (UFG)
+10 Sophie Hæstorp Andersen (S)
+11 Flemming Møller Mortensen (S)
+12 Karen J. Klint (S)
+13 Lene Hansen (S)
+
+Onsdag den 7. oktober 2009 (VALG )
+
+14 Karl H. Bornhøft (SF)
+15 Jonas Dahl (SF)
+16 Lone Dybkjær (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-5 Britta Schall Holberg (V)
+1-5 Flemming Møller (V)
+6-7 René Christensen (DF)
+6-7 Anita Christensen (DF)
+8 Naser Khader (KF)
+9 Simon Emil Ammitzbøll (LA)
+10-13 Lone Møller (S)
+10-13 Mette Frederiksen (S)
+14-15 Özlem Sara Cekic (SF)
+14-15 Anne Baastrup (SF)
+16 Anne Marie Geisler Andersen (RV)
+17 Orla Hav (S)
+Formand: Preben Rudiengaard (V)
+Næstformand: Pia Christmas-Møller (UFG)
+Valg af 17 medlemmer og stedfortrædere til Trafikudvalget.
+Valgt blev:
+Til medlemmer:
+1 Jens Vibjerg (V)
+2 Flemming Damgaard Larsen (V)
+3 Kristian Pihl Lorentzen (V)
+4 Hans Christian Schmidt (V)
+5 Karsten Nonbo (V)
+6 Kim Christiansen (DF)
+7 Pia Adelsteen (DF)
+8 Henriette Kjær (KF)
+9 Helge Adam Møller (KF)
+10 Magnus Heunicke (S)
+11 Jens Christian Lund (S)
+12 Poul Andersen (S)
+13 Klaus Hækkerup (S)
+14 Pia Olsen Dyhr (SF)
+15 Jesper Petersen (SF)
+16 Johs. Poulsen (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-5 Jens Kirk (V)
+1-5 Jacob Jensen (V)
+6-7 Jørn Dohrmann (DF)
+6-7 Mikkel Dencker (DF)
+8-9 Henrik Brodersen (DF)
+8-9 Tom Behnke (KF)
+10-13 Benny Engelbrecht (S)
+10-13 Kim Mortensen (S)
+14-15 Jonas Dahl (SF)
+14-15 Hanne Agersnap (SF)
+16 Thomas Adelskov (S)
+Formand: Flemming Damgaard Larsen (V)
+Næstformand: Henriette Kjær (KF)
+Valg af 17 medlemmer og stedfortrædere til Uddannelsesudvalget.
+Valgt blev:
+
+Til medlemmer:
+1 Sophie Løhde (V)
+2 Britta Schall Holberg (V)
+3 Malou Aamund (V)
+4 Anne-Mette Winther Christiansen (V)
+5 Troels Christensen (V)
+6 Marlene Harpsøe (DF)
+7 Hans Kristian Skibby (DF)
+8 Charlotte Dyremose (KF)
+9 Villum Christensen (LA)
+10 Christine Antorini (S)
+11 Carsten Hansen (S)
+12 Kim Mortensen (S)
+13 Julie Skovsby (S)
+14 Pernille Vigsø Bagge (SF)
+15 Nanna Westerby (SF)
+16 Marianne Jelved (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Til stedfortrædere for:
+1-5 Per Bisgaard (V)
+1-5 Peter Juel Jensen (V)
+6-7 Martin Henriksen (DF)
+6-7 Karin Nødgaard (DF)
+8 Jørgen S. Lundsgaard (KF)
+9 Gitte Lillelund Bech (V)
+10-13 Bjarne Laustsen (S)
+10-13 Kirsten Brosbøl (S)
+14-15 Pernille Frahm (SF)
+14-15 Karsten Hønge (SF)
+16 Anne Marie Geisler Andersen (RV)
+17 Leif Lahn Jensen (S)
+Formand: Charlotte Dyremose (KF)
+Næstformand: Marlene Harpsøe (DF)
+Valg af 17 medlemmer og stedfortrædere til Udenrigsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Michael Aastrup Jensen (V)
+2 Søren Pind (V)
+3 Peter Juel Jensen (V)
+4 Karsten Lauritzen (V)
+5 Gitte Lillelund Bech (V)
+6 Søren Espersen (DF)
+7 Tina Petersen (DF)
+8 Helle Sjelle (KF)
+9 Marion Pedersen (V)
+10 Jeppe Kofod (S)
+11 Mogens Lykketoft (S)
+12 Mette Gjerskov (S)
+13 Kirsten Brosbøl (S)
+14 Steen Gade (SF)
+15 Anne Baastrup (SF)
+16 Jørgen Poulsen (RV)
+17 Frank Aaen (EL)
+Til stedfortrædere for:
+1-5 Kristian Pihl Lorentzen (V)
+1-5 Ellen Trane Nørby (V)
+6-7 Pia Kjærsgaard (DF)
+6-7 Peter Skaarup (DF)
+8-9 Naser Khader (KF)
+
+9
+
+10
+
+Onsdag den 7. oktober 2009 (VALG )
+
+10-13 Mogens Jensen (S)
+10-13 Julie Rademacher (S)
+14-15 Pia Olsen Dyhr (SF)
+14-15 Hanne Agersnap (SF)
+16 John Dyrby Paulsen (S)
+17 Kamal Qureshi (SF)
+Formand: Marion Pedersen (V)
+Næstformand: Karsten Lauritzen (V)
+Valg af 17 medlemmer og stedfortrædere til Udvalget for Fødevarer, Landbrug og Fiskeri.
+Valgt blev:
+Til medlemmer:
+1 Torsten Schack Pedersen (V)
+2 Tina Nedergaard (V)
+3 Henrik Høegh (V)
+4 Jens Kirk (V)
+5 Eyvind Vesselbo (V)
+6 René Christensen (DF)
+7 Bent Bøgsted (DF)
+8 Anita Christensen (DF)
+9 Knud Kristensen (KF)
+10 Bjarne Laustsen (S)
+11 Ole Vagn Christensen (S)
+12 Julie Skovsby (S)
+13 Benny Engelbrecht (S)
+14 Kristen Touborg (SF)
+15 Pia Olsen Dyhr (SF)
+16 Bente Dahl (RV)
+17 Per Clausen (EL)
+Til stedfortrædere for:
+1-5 Karsten Lauritzen (V)
+1-5 Flemming Møller (V)
+6-8 Marlene Harpsøe (DF)
+6-8 Dennis Flydtkjær (DF)
+9 Helle Sjelle (KF)
+10-13 Ole Hækkerup (S)
+10-13 Mette Gjerskov (S)
+14-15 Karina Lorentzen Dehnhardt (SF)
+14-15 Jesper Petersen (SF)
+16 Kirsten Brosbøl (S)
+17 Johanne Schmidt-Nielsen (EL)
+Formand: René Christensen (DF)
+Næstformand: Torsten Schack Pedersen (V)
+Valg af 17 medlemmer og stedfortrædere til Udvalget for Udlændinge- og Integrationspolitik.
+Valgt blev:
+Til medlemmer:
+1 Karsten Lauritzen (V)
+2 Karen Jespersen (V)
+3 Eyvind Vesselbo (V)
+4 Troels Christensen (V)
+5 Peter Skaarup (DF)
+6 Martin Henriksen (DF)
+7 Jesper Langballe (DF)
+8 Helle Sjelle (KF)
+9 Naser Khader (KF)
+
+10 Henrik Dam Kristensen (S)
+11 Maja Panduro (S)
+12 Ole Hækkerup (S)
+13 Sophie Hæstorp Andersen (S)
+14 Meta Fuglsang (SF)
+15 Anne Baastrup (SF)
+16 Marianne Jelved (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Til stedfortrædere for:
+1-4 Søren Pind (V)
+1-4 Erling Bonnesen (V)
+5-7 Søren Krarup (DF)
+5-7 Pia Kjærsgaard (DF)
+8-9 Tom Behnke (KF)
+8-9 Simon Emil Ammitzbøll (LA)
+10-13 Karen Hækkerup (S)
+10-13 Karen J. Klint (S)
+14-15 Karina Lorentzen Dehnhardt (SF)
+14-15 Nanna Westerby (SF)
+16 Anne Marie Geisler Andersen (RV)
+17 Lennart Damsbo Andersen (S)
+Formand: Karen Jespersen (V)
+Næstformand: Anne Baastrup (SF)
+Valg af 17 medlemmer og stedfortrædere til Udvalget for Videnskab og Teknologi.
+Valgt blev:
+Til medlemmer:
+1 Lars Christian Lilleholt (V)
+2 Henrik Høegh (V)
+3 Michael Aastrup Jensen (V)
+4 Anne-Mette Winther Christiansen (V)
+5 Malou Aamund (V)
+6 Jesper Langballe (DF)
+7 Mikkel Dencker (DF)
+8 Jørgen S. Lundsgaard (KF)
+9 Per Ørum Jørgensen (KF)
+10 Kirsten Brosbøl (S)
+11 Rasmus Prehn (S)
+12 Benny Engelbrecht (S)
+13 Maja Panduro (S)
+14 Jonas Dahl (SF)
+15 Hanne Agersnap (SF)
+16 Marianne Jelved (RV)
+17 Johanne Schmidt-Nielsen (EL)
+Til stedfortrædere for:
+1-5 Jens Kirk (V)
+1-5 Torsten Schack Pedersen (V)
+6-7 Jørn Dohrmann (DF)
+6-7 Martin Henriksen (DF)
+8-9 Charlotte Dyremose (KF)
+8-9 Pia Christmas-Møller (UFG)
+10-13 Christine Antorini (S)
+10-13 Ole Hækkerup (S)
+14-15 Nanna Westerby (SF)
+14-15 Karl H. Bornhøft (SF)
+16 Lone Dybkjær (RV)
+17 Yildiz Akdogan (S)
+Formand: Marianne Jelved (RV)
+
+Onsdag den 7. oktober 2009 (VALG )
+
+Næstformand: Lars Christian Lilleholt (V)
+Valg af 17 medlemmer og stedfortrædere til Grønlandsudvalget.
+Valgt blev:
+Til medlemmer:
+1 Flemming Møller (V)
+2 Britta Schall Holberg (V)
+3 Preben Rudiengaard (V)
+4 Lars Christian Lilleholt (V)
+5 Kim Andersen (V)
+6 Liselott Blixt (DF)
+7 Søren Espersen (DF)
+8 Henrik Brodersen (DF)
+9 Per Ørum Jørgensen (KF)
+10 Mogens Jensen (S)
+11 Mogens Lykketoft (S)
+12 Julie Rademacher (S)
+13 Kristen Touborg (SF)
+14 Niels Helveg Petersen (RV)
+15 Line Barfod (EL)
+16 Lars-Emil Johansen (SIU)
+17 Juliane Henningsen (IA)
+Til stedfortrædere for:
+1-5 Birgitte Josefsen (V)
+1-5 Jacob Jensen (V)
+6-8 Kristian Thulesen Dahl (DF)
+6-8 Dennis Flydtkjær (DF)
+9 Vivi Kier (KF)
+10-12 Niels Sindal (S)
+10-12 Torben Hansen (S)
+13 Ole Sohn (SF)
+14 Bente Dahl (RV)
+15 Poul Andersen (S)
+16 Pernille Frahm (SF)
+17 Anne Baastrup (SF)
+Formand: Lars-Emil Johansen (SIU)
+Næstformand: Britta Schall Holberg (V)
+Valg af 17 medlemmer og stedfortrædere til Færøudvalget.
+
+11
+
+Til stedfortrædere for:
+1-5 Jens Vibjerg (V)
+1-5 Helge Adam Møller (KF)
+6-7 Kristian Thulesen Dahl (DF)
+6-7 Anita Knakkergaard (DF)
+8 Per Ørum Jørgensen (KF)
+9 Kim Andersen (V)
+10-13 Torben Hansen (S)
+10-13 Mogens Jensen (S)
+14 Ole Sohn (SF)
+15 Orla Hav (S)
+16 Anne Baastrup (SF)
+17 Lars-Emil Johansen (SIU)
+Formand: Edmund Joensen (SP)
+Næstformand: Søren Espersen (DF)";Kl. 13:03
+35211;Time;"Valg af 2 medlemmer til at føre tilsyn med Folketingets Bibliotek.
+Valgt blev:
+1 Flemming Damgaard Larsen (V)
+2 Jens Christian Lund (S)
+Valg af 9 medlemmer til det i grundlovens § 71, stk. 7, omhandlede tilsyn med behandlingen af personer, som er underkastet
+frihedsberøvelse af den i grundlovens § 71, stk. 6, omhandlede
+art.
+Valgt blev:
+1 Sophie Løhde (V)
+2 Birgitte Josefsen (V)
+3 Marion Pedersen (V)
+4 Anita Christensen (DF)
+5 Vivi Kier (KF)
+6 Karen J. Klint (S)
+7 Orla Hav (S)
+8 Özlem Sara Cekic (SF)
+9 Anne Baastrup (SF)
+Formand: Karen J. Klint (S)
+Næstformand: Anita Christensen (DF)
+
+Valgt blev:
+Til medlemmer:
+1 Louise Schack Elholm (V)
+2 Flemming Damgaard Larsen (V)
+3 Britta Schall Holberg (V)
+4 Sophie Løhde (V)
+5 Flemming Møller (V)
+6 Søren Espersen (DF)
+7 Henrik Brodersen (DF)
+8 Vivi Kier (KF)
+9 Edmund Joensen (SP)
+10 Niels Sindal (S)
+11 Lise von Seelen (S)
+12 Lene Hansen (S)
+13 Poul Andersen (S)
+14 Kristen Touborg (SF)
+15 Niels Helveg Petersen (RV)
+16 Line Barfod (EL)
+17 Høgni Hoydal (TF)
+
+Valg af 17 medlemmer og 17 stedfortrædere til Det Udenrigspolitiske Nævn.
+Valgt blev:
+Til medlemmer:
+1 Gitte Lillelund Bech (V)
+2 Søren Pind (V)
+3 Peter Christensen (V)
+4 Pia Kjærsgaard (DF)
+5 Peter Skaarup (DF)
+6 Søren Espersen (DF)
+7 Tom Behnke (KF)
+8 Naser Khader (KF)
+9 Edmund Joensen (SP)
+10 Mogens Lykketoft (S)
+11 Helle Thorning-Schmidt (S)
+12 Jeppe Kofod (S)
+13 Poul Andersen (S)
+14 Villy Søvndal (SF)
+
+12
+
+Onsdag den 7. oktober 2009 (VALG )
+
+15 Margrethe Vestager (RV)
+16 Frank Aaen (EL)
+17 Høgni Hoydal (TF)
+Til stedfortrædere for:
+1-3 a Helle Sjelle (KF)
+1-3 b Karsten Nonbo (V)
+1-3 c Torsten Schack Pedersen (V)
+4-6 a Kristian Thulesen Dahl (DF)
+4-6 b Søren Krarup (DF)
+4-6 c Ib Poulsen (DF)
+7 Kristian Pihl Lorentzen (V)
+8 Hans Christian Thoning (V)
+9 Kim Andersen (V)
+10-13 a Klaus Hækkerup (S)
+10-13 b Mogens Jensen (S)
+10-13 c Henrik Sass Larsen (S)
+10-13 d John Dyrby Paulsen (S)
+14 Ole Sohn (SF)
+15 Niels Helveg Petersen (RV)
+16 Line Barfod (EL)
+17 Holger K. Nielsen (SF)
+Formand: Gitte Lillelund Bech (V)
+Næstformand: Mogens Lykketoft (S)
+Valg af 16 medlemmer og 16 stedfortrædere til Nordisk Råd.
+Valgt blev:
+Til medlemmer:
+1 Per Bisgaard (V)
+2 Erling Bonnesen (V)
+3 Troels Christensen (V)
+4 Marion Pedersen (V)
+5 Anita Knakkergaard (DF)
+6 Henrik Brodersen (DF)
+7 Jørgen S. Lundsgaard (KF)
+8 Pia Christmas-Møller (UFG)
+9 Niels Sindal (S)
+10 Mogens Jensen (S)
+11 Henrik Dam Kristensen (S)
+12 Ole Vagn Christensen (S)
+13 Kristen Touborg (SF)
+14 Karina Lorentzen Dehnhardt (SF)
+15 Bente Dahl (RV)
+16 Line Barfod (EL)
+Til stedfortrædere for:
+1-4 Flemming Damgaard Larsen (V)
+1-4 Eyvind Vesselbo (V)
+1-4 Henrik Høegh (V)
+1-4 Edmund Joensen (SP)
+5-6 Tina Petersen (DF)
+5-6 Hans Kristian Skibby (DF)
+7-8 Mike Legarth (KF)
+7-8 Knud Kristensen (KF)
+9-12 Karen J. Klint (S)
+9-12 Thomas Jensen (S)
+9-12 Mette Gjerskov (S)
+9-12 Carsten Hansen (S)
+13 Anne Baastrup (SF)
+14 Ole Sohn (SF)
+15 Høgni Hoydal (TF)
+16 Juliane Henningsen (IA)
+
+Formand: Niels Sindal (S)
+Næstformand: Marion Pedersen (V)
+Valg af 9 medlemmer og 9 stedfortrædere til Udvalget vedrørende Det Etiske Råd.
+Valgt blev:
+Til medlemmer:
+1 Flemming Møller (V)
+2 Preben Rudiengaard (V)
+3 Britta Schall Holberg (V)
+4 Anita Christensen (DF)
+5 Charlotte Dyremose (KF)
+6 Karen J. Klint (S)
+7 Lene Hansen (S)
+8 Pernille Vigsø Bagge (SF)
+9 Marianne Jelved (RV)
+Til stedfortrædere for:
+1-3 Louise Schack Elholm (V)
+1-3 Jens Vibjerg (V)
+1-3 Birgitte Josefsen (V)
+4 Tina Petersen (DF)
+5 Pia Christmas-Møller (UFG)
+6-7 Sophie Hæstorp Andersen (S)
+6-7 René Skau Björnsson (S)
+8 Pernille Frahm (SF)
+9 Anne Marie Geisler Andersen (RV)
+Formand: Lene Hansen (S)
+Næstformand: Britta Schall Holberg (V)
+Valg af 5 medlemmer og 5 stedfortrædere til Europarådet.
+Valgt blev:
+Til medlemmer:
+1 Michael Aastrup Jensen (V)
+2 Per Dalgaard (DF)
+3 Pia Christmas-Møller (UFG)
+4 Mogens Jensen (S)
+5 Pernille Frahm (SF)
+Til stedfortrædere for:
+1 Sophie Løhde (V)
+2 Hans Kristian Skibby (DF)
+3 Hans Christian Schmidt (V)
+4 Jørgen Poulsen (RV)
+5 Frank Aaen (EL)
+Formand: Michael Aastrup Jensen (V)
+Næstformand: Mogens Jensen (S)
+Valg af 6 medlemmer og 6 stedfortrædere til OSCE’s Parlamentariske Forsamling.
+Valgt blev:
+Til medlemmer:
+1 Peter Juel Jensen (V)
+2 Pia Kjærsgaard (DF)
+3 Pia Christmas-Møller (UFG)
+4 Jeppe Kofod (S)
+5 Kamal Qureshi (SF)
+
+Onsdag den 7. oktober 2009 (US )
+
+6 Frank Aaen (EL)
+
+13
+
+Er der flere, der ønsker at melde sig som spørgere?
+Det er ikke tilfældet. Jeg vil godt her gentage, hvad man måske
+ved, at i første runde har spørger og minister 2 minutters taletid, og
+derefter har man to gange 1 minuts taletid.
+Jeg giver ordet til den første, og det er hr. Bjarne Laustsen, værsgo.
+
+Til stedfortrædere for:
+1 Hans Christian Schmidt (V)
+2 Ib Poulsen (DF)
+3 Helle Sjelle (KF)
+4 Jens Christian Lund (S)
+5 Karina Lorentzen Dehnhardt (SF)
+6 Pernille Frahm (SF)";Kl. 13:03
+40056;Time;"Spm. nr. US 1
+
+Formand: Peter Juel Jensen (V)
+Næstformand: Jeppe Kofod (S)
+Valg af 3 medlemmer og 3 stedfortrædere til Den Parlamentariske Forsamling for EU-Middelhavsområdet (EMPA).
+Valgt blev:
+Til medlemmer:
+1 Michael Aastrup Jensen (V)
+2 Pia Adelsteen (DF)
+3 Yildiz Akdogan (S)
+Til stedfortrædere for:
+1 Birgitte Josefsen (V)
+2 Tina Nedergaard (V)
+3 Anne Grete Holmsgaard (SF)
+Formand: Yildiz Akdogan (S)
+Næstformand: Michael Aastrup Jensen (V)
+Valg af 1 medlem af hver gruppe, der er repræsenteret i Udvalget for Forretningsordenen, til dette udvalgs underudvalg, jf. §
+59 i Folketingets Forretningsorden.
+Valgt blev:
+1 Flemming Damgaard Larsen (V)
+2 Mogens Lykketoft (S)
+3 Søren Espersen (DF)
+4 Ole Sohn (SF)
+5 Tom Behnke (KF)
+6 Margrethe Vestager (RV)
+7 Line Barfod (EL)
+8 Simon Emil Ammitzbøll (LA)
+Formand: Flemming Damgaard Larsen (V)
+Næstformand: Mogens Lykketoft (S)]";Kl. 13:04
+40957;name_party;":
+Tak, hr. formand. Den sag, jeg vil bringe på banen i dag, drejer sig
+om hjemtagning af EU's fiskerifondsmidler. Systemet er sådan, at
+hvis man selv finder 1 kr., kan man også få 1 kr., og så har man lige
+pludselig 2 kr. i stedet for. Det er sådan set det, det hele drejer sig
+om.
+Vi er i en situation, hvor der er stor ledighed, stigende ledighed,
+vi har rigtig mange virksomheder, der arbejder med fiskeri, og fordelingen er sådan nogenlunde, at i den forarbejdning, der foregår af
+fisk, er andelen af danske fisk på 15 pct., men vi har meget behov
+for, at andre landes fiskerkuttere lander fisk her i Danmark, som vi
+så kan forarbejde og sælge.
+Med hensyn til hele det setup handler det om, at der skal investeres i fremtiden, i morgendagens arbejdspladser inden for det her, innovation osv., og der findes faktisk rigtig mange gode eksempler på,
+at det har nyttet noget, at man har haft den her konstruktion. Jeg synes jo, at det ligger lige til højrebenet at hjemtage fuld EU-finansiering. Det har vi presset regeringen til, når det drejer sig om landbrugsdelen, men når det drejer sig om fiskerifondsmidler, kan vi se
+af dette års finanslov, at der mangler at blive hjemtaget 31 mio. kr.,
+og plus de midler, som regionerne og andre kan komme i, ligger vi
+på ca. 65 mio. kr. om året, som man ikke vil investere i fiskeriet
+fremover.
+Kigger man på hele programperioden, kan man se, at det her
+sammenlagt jo løber op i ca. 0,5 mia. kr., som man kunne investere i
+fremtiden, hvis man ville. Jeg kan simpelt hen ikke forstå, at regeringen nedprioriterer fiskeriet. Jeg synes, det er fornuftigt at gøre det på
+landbrugsområdet, men jeg kan simpelt hen ikke forstå, at man ikke
+vil hjemtage midler her, for vi er i den situation, at det drejer sig om
+at sørge for, at vi bevarer flest mulige arbejdspladser i Danmark. Og
+risikoen er jo, at hvis andre lande hjemtager fuld EU-finansiering,
+tilbyder virksomheder det for at flytte ud af landet osv., så mister vi
+arbejdspladser. Omvendt kan vi altså stå i en situation her, hvor vi
+ikke alene kan bevare, men også udvikle. Det er der gode eksempler
+på; der findes eksempelvis en virksomhed i Hirtshals, Brdr. Schlie,
+som har fordoblet deres antal af medarbejdere, fordi man ud fra en
+beskeden investering fik gang i hjulene og har været i stand til at ansætte flere.";Bjarne Laustsen
+43281;Time;"Det næste punkt på dagsordenen er:
+2) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+Fødevareministeren deltager i spørgetimen.";Kl. 13:06
+43438;Time;"Formanden:
+Til at besvare spørgsmål i spørgetimen i dag har statsministeren udpeget fødevareministeren.
+Der er anmeldt følgende spørgere til ministeren:
+Bjarne Laustsen (S)
+Bente Dahl (RV)
+Benny Engelbrecht (S)
+
+Formanden:
+Tak. Jeg kan se, at den røde lampe ikke lyser. Jeg ved ikke, om det
+er spørgeren, der har revet ledningen ud af lampen for at have ubegrænset taletid. Men jeg skal nok markere, hvornår tiden er gået
+Fødevareministeren.";Kl. 13:03
+43891;Time;;Kl. 13:06
+43929;title_name;":
+Jeg må starte med at rette hr. Bjarne Laustsen, for det er jo hverken
+hr. Bjarne Laustsen eller Socialdemokraterne for den sags skyld, der
+på nogen måde har presset regeringen eller bidraget til, at vi nu har
+sikret fuld hjemtagning i landdistriktsprogrammet. Tværtimod har
+hr. Bjarne Laustsen jo ikke ønsket at deltage i et forlig på det område, og derfor vil jeg sige, at det, der er sket, er, at regeringen sammen med Dansk Folkeparti har lavet en meget ambitiøs plan i for-
+
+14
+
+Onsdag den 7. oktober 2009 (US 2)
+
+bindelse med »Grøn vækst«, hvor vi både tager hånd om de miljøog klimamæssige udfordringer, som vi står over for, og samtidig sikrer en fornuftig udvikling i erhvervet. Og det er jo i den aftale, vi er
+blevet enige om at lave fuld hjemtagning i landdistriktsprogrammet
+frem til 2013.
+Så vil jeg sige, at jeg også gerne så, at vi kunne hjemtage fiskerifondsprogrammet fuldt ud, men det er jo et spørgsmål om at finde
+den der krone, der skal gå til medfinansieringen, og jeg kan ikke bare sådan hive de her medfinansieringsopgaver ud af budgettet. Så det
+ville jo i givet fald være et spørgsmål om, hvorvidt hr. Bjarne Laustsen ville gå ind og tage ansvar i forhold til finansloven og på den
+måde så kunne anvise, hvordan en fuld hjemtagning kunne lade sig
+gøre. Det vil jo blive rigtig interessant her i den kommende tid at se,
+om Socialdemokraterne for alvor vil gå ind i diskussionen om, hvordan vi fremover skal prioritere finansieringen af forskellige initiativer.";Eva Kjer Hansen
+45427;Time;"Formanden:
+Hr. Bjarne Laustsen.";Kl. 13:08
+45470;Time;;Kl. 13:08
+45491;name_party;":
+Tak. Der er ikke så meget nyt under solen, måske lige ud over det, at
+den røde lampe ikke lyser. Formanden skal ikke have utak for, at det
+ikke lige er bragt i orden.
+Jeg troede jo, at når jeg stillede et spørgsmål, fik jeg svar på det
+spørgsmål, jeg stillede, i stedet for en sang fra de varme lande om
+Socialdemokratiet og ny »Grøn Vækst«, og hvad det hedder alt sammen. Det har jo intet med det her at gøre.
+Ministerens forgænger måtte under hårdt pres, bl.a. her i salen,
+love, at regeringen ville hjemtage fuld EU-finansiering, når det drejede sig om landbrugsområdet. Det har man så fundet på at man vil
+gøre nu, fordi man skal have finansieret »Grøn Vækst«. Men det har
+jo intet at gøre med, at vi står i en situation, hvor ledigheden stiger
+og stiger og stiger, og hvor vi har behov for at investere i morgendagens arbejdspladser. Det troede jeg jo at ministeren var fuldstændig
+enig i, og at det også blev understøttet af de gode eksempler, der er
+på, at hvis man investerer, kan der også komme noget ud i den anden
+ende. Derfor havde jeg selvfølgelig håbet på, at vi sammen havde
+kunnet finde ud af, hvordan vi kan gøre det her og sørge for at finde
+de midler, der skal investeres i dansk fiskeri og dansk fiskeforarbejdning. Det må være det, der er interessant.";Bjarne Laustsen
+46775;Time;anvise den medfinansiering, der er behov for - og det mangler jo stadig væk fra hr. Bjarne Laustsens side.;Kl. 13:09
+46893;Time;"Formanden:
+Hr. Bjarne Laustsen.";Kl. 13:10
+46936;Time;;Kl. 13:10
+46957;name_party;":
+Nu er det jo ikke en skam at blive væk, hvis man ikke bliver inviteret. Regeringen har valgt at prioritere den politiske og økonomiske
+situation sammen med Dansk Folkeparti. Det bærer man hovedansvaret for. Man har valgt at sige, at man giver skattelettelser, og beskæftigelsesministeren har valgt at sige: Vi vil hellere udbetale dagpenge end at gøre noget som helst, fordi ledigheden ikke er høj nok
+endnu. Jeg synes bare, at det er en kortsigtet argumentation.
+Jeg synes, at hvis vi er enige om, at konstruktionen med krone til
+krone gør, at vi kan være med til at udvikle arbejdspladser i Danmark inden for fiskeriområdet, så er det fornuftigt at gøre det. Jeg
+mangler en argumentation fra fødevareministeren for, hvorfor man
+ikke vil gøre det. Hvis nu ministeren er enig i, at det er klogt at investere i dansk fiskeri i fremtiden, hvorfor så ikke hjemtage de midler?
+Maskinen er opfundet. Man skal bare give 1 kr., så får man 2 kr.
+Man kan faktisk ikke få noget, der er bedre. Det mangler jeg at få at
+vide.";Bjarne Laustsen
+47982;Time;"Formanden:
+Fødevareministeren.";Kl. 13:11
+48024;Time;;Kl. 13:11
+48062;title_name;":
+Det var jo det, jeg bad hr. Bjarne Laustsen om, nemlig at anvise,
+hvor det så er de medfinansieringsmidler skal komme fra. Jeg kan
+oplyse hr. Bjarne Laustsen om, at vi vil kunne lave sådan cirka fuld
+hjemtagning af fiskerifondsprogrammet med omkring 120 mio. kr.,
+altså frem til 2013. Hvis vi så tog det over 4 år, var det fire gange 30
+mio. kr. Jeg tvivler da ikke på, at der ville komme gode ansøgninger
+fra hele landet, fordi der er rigtig mange, der har gode ideer til, hvordan man kan videreudvikle fiskerierhvervet. Så jeg er da ikke i tvivl
+om, at de også ville kunne komme i anvendelse.
+Men hr. Bjarne Laustsen skylder mig jo, hvis vi sammen skulle
+skabe resultater på det her område, at komme med forslag til, hvor
+det så er, vi skal hente de her 120 mio. kr., der skulle kunne sikre, at
+vi kunne hjemtage de resterende midler.";Eva Kjer Hansen
+48910;Time;"Formanden:
+Fødevareministeren.";Kl. 13:12
+48952;Time;;Kl. 13:09
+48990;title_name;":
+Jeg synes, at det sidste, der blev sagt fra hr. Bjarne Laustsens side,
+var interessant: hvordan vi sammen kunne finde ud af at skabe nogle
+løsninger. Jeg må jo bare konstatere, at indtil videre har Socialdemokraterne valgt ikke at ville deltage i noget, at melde sig ud af de politiske prioriteringer, fordi man ikke vil gå ind og tage ansvar. Så det
+er jo helt nye toner, der kommer fra hr. Bjarne Laustsens side i dag.
+Og som sagt her i første runde vil jeg kun hilse det velkommen, hvis
+det er udtryk for, at Socialdemokraterne nu går ind i et nyt spor og
+siger: Vi vil faktisk godt tage det alvorligt, at vi står i den her krisesituation, hvor især fiskeriet har nogle voldsomme udfordringer og er
+meget presset.
+Det er da rigtigt, at der kan det være en hjælp, hvis vi kunne sikre
+fuld hjemtagning af fiskerifondsmidlerne. Men det ændrer bare ikke
+ved, at det kræver, at man vil gå ind at tage et ansvar i forhold til at
+
+Formanden:
+Tak til hr. Bjarne Laustsen som spørger.
+Næste spørger er fru Bente Dahl. Nej, den røde knap virker ikke,
+men det gør formanden. Værsgo, fru Bente Dahl.";Eva Kjer Hansen
+50092;Time;Spm. nr. US 2;Kl. 13:12
+50123;name_party;":
+Tak. Det emne, jeg gerne vil have belyst i dag, er sammenhængen
+mellem viden om og anvendelse af genmodificerede afgrøder. I Det
+Radikale Venstre er vi jo ikke teknologiforskrækkede, men vi vil gerne have tingene undersøgt ordentligt og til bunds, før vi tager dem i
+anvendelse. Vi er skeptiske over for, at sådanne afgrøder skulle dyrkes i Danmark, fordi vi gerne ser økologien fremmet, men det vigtige er som sagt, at vi under alle omstændigheder vil have, at gmo skal
+belyses med den viden, der er tilgængelig. Derfor vil jeg gerne spørge ind til den vidensyntese, som ministeriet og ministeren har udgi-
+
+Onsdag den 7. oktober 2009 (US 3)
+
+vet, og som skulle flytte debatten væk fra mytedannelsen, som der
+står i indledningen.
+Nu er det sådan, at ikke al den viden, der er henvist til i vidensyntesen, er offentlig. Der findes mere viden. F.eks. er en undersøgelse,
+som FN's landbrugsvidenskabelige panel har foretaget, ikke omtalt i
+vidensyntesen. Ligeledes er der to undersøgelser, en fra USA og en
+fra Østrig, som heller ikke er omtalt i vidensyntesen. Og så er det,
+jeg gerne vil vide, hvordan det kan være, at fødevareministerens syntese ikke indeholder disse internationale undersøgelser, som er af
+stor værdi for forskningen vedrørende gmo.";Bente Dahl
+51387;Time;"15
+
+heder. Jeg synes, det er vigtigt, at vi ikke bare er afhængige af nogle
+andre, men at vi rent faktisk også har vores forskere, der er med i det
+her felt.
+Det, der er helt afgørende for mig, er, at vi ikke på forhånd udelukker nogle muligheder, nogle andre metoder, fordi vi simpelt hen
+bare ikke har nok kendskab til det eller er lidt angste, i forhold til
+hvad det her nymodens halløj nu handler om. Derfor er det vigtigt
+for mig både at inddrage og kende diverse rapporter, diverse forsøg,
+de erfaringer, som nogle lande allerede har gjort sig. Men det helt
+centrale er jo at følge med i, om anvendelse af gmo-afgrøder vil kunne hjælpe os i forhold til nogle af de udfordringer, vi står over for,
+omkring miljø, klima og andre ting.
+
+Formanden:
+Fødevareministeren.";Kl. 13:13
+52170;Time;;Kl. 13:17
+52180;Time;;Kl. 13:13
+52218;title_name;":
+Jeg har jo simpelt hen bedt en række eksperter om at samle, hvad vi
+ved om gmo på nuværende tidspunkt, hvor vi står, hvis vi skal gøre
+status nu, og vidensyntesen konkluderer jo, at der er et potentiale i
+forhold til gmo-afgrøder, men at vi simpelt hen har brug for mere viden på området.
+Det er også derfor, at jeg har afsat en ramme på, som jeg husker
+det, 85 mio. kr. til forskning i bioteknologi og herunder gmo, fordi
+jeg simpelt hen synes, det er vigtigt, at vi i Danmark er med i forhold
+til at vurdere, om der er nogle perspektiver i det her, eller der ikke
+er, om det er noget, vi skal tage i anvendelse, når der kommer nogle
+bedre resultater, eller hvordan det i det hele taget ser ud.
+Fru Bente Dahl henviser til en række rapporter, som ikke er taget
+med, og det undrer fru Bente Dahl sig over. Det må jeg simpelt hen
+sige at jeg ikke kan svare på på stående fod, men jeg skal gerne spørge gruppen bag vidensyntesen om det og så vende tilbage med svaret
+til enten fru Bente Dahl eller til Fødevareudvalget. Jeg har fuld tillid
+til, at de, der har lavet vidensyntesen for mig, har foretaget en rigtig
+vurdering i forhold til, hvad det er, man på nuværende tidspunkt kan
+oplyse om, men der sker selvfølgelig også hele tiden det, at der kommer nye forskningsresultater og nye undersøgelser.
+Det, der er afgørende for mig, er, at vi har et godt grundlag at debattere ud fra, når vi skal prioritere, hvor vi vil hen, hvad angår gmo.";Eva Kjer Hansen
+53668;Time;"Formanden:
+Fru Bente Dahl.";Kl. 13:15
+53706;Time;;Kl. 13:15
+53723;name_party;":
+Det er jeg jo rigtig glad for, for jeg ville også høre ministeren sige, at
+ministeren også er åben for at tage den viden ind, der findes i FN's
+landbrugsvidenskabelige panels undersøgelser, som er offentliggjort
+i en rapport fra IAASTD, det står for International Assessment of
+Agricultural Knowledge, Science and Technology for Development.
+Det hører jeg at ministeren er åben for. Det er jeg jo glad for, for det
+næste spørgsmål, jeg vil stille, er netop, hvorfor der skulle afsættes
+de 65 mio. kr., som jeg har fået oplyst det er, til forskning i noget,
+som FN's landbrugsvidenskabelige panel har vejet og fundet for let.";Bente Dahl
+54359;Time;"Formanden:
+Fødevareministeren.
+
+Formanden:
+Fru Bente Dahl.";Kl. 13:16
+54429;Time;;Kl. 13:17
+54446;name_party;":
+Tak. Igen er jeg opmuntret af, at ministeren siger, vi må inddrage anden viden, ministeren vil gerne inddrage al viden. Dog hørte jeg ministeren sige, at den danske viden skulle med ind. Det er jeg helt
+enig i. Mit spørgsmål må så være: Er ministeren åben over for at
+tage de her tre undersøgelser, som jeg nævner, med ind i grundlaget
+for den videre politik på området? Det er det ene spørgsmål.
+Til sidst vil jeg gerne tage fat i ministerens bemærkning om fødevaresikkerhed: Hvordan vil ministeren sikre, at gmo-forskningen afdækker, hvordan tørkeresistente afgrøder kan udvikles? I øjeblikket
+er det sådan, at der er forholdsvis få – nemlig to – store internationale virksomheder, der sidder på hele den her forskning på gmo-området, og der vil jeg gerne høre, hvordan ministeren vil sikre, at f.eks.
+tørkeresistente afgrøder kan udvikles.";Bente Dahl
+55300;Time;"Formanden:
+Fødevareministeren.";Kl. 13:18
+55342;Time;;Kl. 13:18
+55380;title_name;":
+Jeg er jo ikke i tvivl om, at noget af det mest sikre og i hvert fald det
+mest overvågede i virkeligheden er gmo, og det er jo bl.a., fordi der
+er et politisk krav om, at vi hele tiden får foretaget de her sikkerhedsmæssige vurderinger af, hvad det er der sker, og hvad konsekvensen er.
+Jeg synes jo, at fru Bente Dahl således oplivet af ministerens besvarelse, kan jeg forstå, er inde på det helt rigtige spor i forhold til,
+om der f.eks. kan være nogle afgrøder, der kan være tørkeresistente
+og dermed afhjælpe nogle af de hungersnødproblemer, man har i
+ulande. Jeg synes, at der virkelig er nogle perspektiver i det. Det andet er f.eks. en resistent kartoffelplante, så man ikke skal bruge så
+meget pesticid, som man gør i dag. Det er jo de muligheder, som jeg
+ønsker at vi får et kendskab til, og som indgår, når vi skal vurdere,
+hvad der skal være den danske holdning til gmo'er.
+Selvfølgelig er jeg åben over for nu at undersøge de der tre undersøgelser, som fru Bente Dahl henviser til. Jeg synes, at vi alle
+sammen skal være åbne i forhold til, hvad vi har af viden, og hvad vi
+har af erfaring, og hvad mulighederne er – og så forholde os til det
+derefter. Tak.";Eva Kjer Hansen
+56561;Time;;Kl. 13:19
+56572;Time;;Kl. 13:16
+56610;title_name;":
+Jeg har allerede gjort rede for, at jeg synes, det er helt afgørende, at
+vi i Danmark er med, i forhold til hvad vi ved om gmo'er, hvad de
+eventuelt kan anvendes til, hvad der er af risici, hvad der er af mulig-
+
+Formanden:
+Tak til fru Bente Dahl.
+Næste spørger er hr. Benny Engelbrecht, værsgo.";Eva Kjer Hansen
+56917;Time;"16
+
+Onsdag den 7. oktober 2009 (US 3)
+
+Spm. nr. US 3";Kl. 13:19
+56994;name_party;":
+Tak, formand. Selv om det her er den uforberedte spørgetime, er jeg
+ikke bekymret for at stille konkrete spørgsmål. Jeg er sikker på, at
+ministeren er utrolig godt klædt på, når det drejer sig om spørgsmål,
+hvor vi går helt ned i køledisken ude i supermarkederne. For den seneste uges tid har jo i den grad været præget af først og fremmest en
+debat om slagtermestre og om hakket kød. Så jeg er ret sikker på, at
+ministeren er godt klædt på til mit spørgsmål.
+Vi har set en ganske ulykkelig sag og en afsløring af en række
+overtrædelser af almindelig god skik i forhold til hakket kød, altså
+hvor vi oplever, at hakket kød bliver ompakket i butikkerne, og at
+der bliver sat nye datoer på.
+Det, som mit spørgsmål går på, er i den forbindelse ressourceforbruget, for jeg har naturligvis bemærket, at der er sat en meget intensiv kontrol i gang. Vi er enige om, at det skal der så sandelig også
+være. Men jeg har også bemærket, at det decideret fremgår, at kontrolmetoden, som man anvender nu, er særlig arbejdskrævende. I betragtning af at vi jo må erkende, at fødevaremyndighederne sådan set
+desværre har rigeligt at se til og også er hårdt spændt for, er vores
+bekymring i Socialdemokratiet selvfølgelig, om der er ressourcer
+nok, eller om det her kommer til at betyde, at vi kommer til at være i
+underskud på et tidspunkt.
+Jeg er sikker på, vi alle meget spændt venter på resultaterne af fødevaremyndighedernes undersøgelser, nemlig de regnskabskontroller, hvor jeg kan forstå man er inde at kontroltjekke, om det købte og
+det solgte stemmer overens. Det er i hvert fald en metode, som man
+kan bruge, men det kan også være, at der er andre metoder, som ministeren kan løfte sløret for her i dag i forhold til, hvad man kan anvende.
+Men som sagt: Har vi de fornødne ressourcer? Er det her noget,
+der skaber et ekstraordinært træk? For skal vi hele vejen rundt, er det
+altså mange butikker, der skal kontrolleres. Jeg kunne se, at 60 butikker fik besøg den 6. oktober. Det er mange, men der er mange
+flere butikker i Danmark. Så hvis man skal hele raden rundt, kan det
+blive vanskeligt.";Benny Engelbrecht
+59091;Time;"Formanden:
+Fødevareministeren.";Kl. 13:21
+59133;Time;;Kl. 13:21
+59171;title_name;":
+Jeg synes simpelt hen, det i dag er så dejligt at opleve, hvordan Socialdemokraterne er optaget af at hjælpe mig med eventuelle økonomiske problemer. Jeg må virkelig kvittere over for både hr. Bjarne
+Laustsen og hr. Benny Engelbrecht for at udvise den her interesse.
+Og jeg må jo sige, at jeg håber, at den varer hele vejen ind i finanslovforhandlingerne, og at man senere vil vise, at man faktisk er parat
+til at tage et ansvar for, hvordan tingene hænger sammen.
+Jeg kan sige til hr. Benny Engelbrecht, at det er helt rigtigt, at vi
+er i fuld gang med at gennemføre kontrolaktioner. Da vi hørte historien med de her eksempler i sidste uge, iværksatte vi straks yderligere kontrolforanstaltninger, og f.eks. er der i går blevet gennemført
+ca. 60 kontroller. Det er rigtigt, at det er meget ressourcekrævende,
+for der deltager mellem 200 og 250 tilsynsførende – og det samme
+gentager sig i øvrigt i dag. Men det er jo, fordi jeg er meget optaget
+af, at vi finder ud af, om det her er sådan et gennemgående problem.
+Er det noget, vi ser over hele landet, eller er det bare nogle bestemte
+steder, hvor der ikke har været den her respekt for regelsættet? Så
+det er vigtigt at gøre.
+Det er det, vi får brug for at kigge nærmere på i kredsen af forligspartnere i forhold til muligheden for netop at kunne køre sådan
+nogle kampagner. Det er noget af det mest effektive for at afdække
+
+problemer og få butikker og andre til at rette ind, og derfor vil det
+blive det, vi skal kigge nærmere på i forhold til, hvor meget der er til
+rådighed, når der akut opstår sådan et problem, som vi så skal følge
+op med kampagner.";Eva Kjer Hansen
+60791;Time;"Formanden:
+Hr. Benny Engelbrecht.";Kl. 13:23
+60836;Time;;Kl. 13:23
+60859;name_party;":
+Jeg er meget glad for, at ressourcerne er til stede på nuværende tidspunkt, og jeg er også enig i, at 200-250 tilsynsførende er meget omfattende. Men det ændrer jo ikke på, at vi også er nødt til at gøre os
+nogle seriøse overvejelser, og vi ved jo, at området er meget presset
+rent økonomisk; der er rigtig mange opgaver at tage sig af.
+Vi har også oplevet, hvordan den indsats imod salmonella, der
+har været gjort tidligere, også har presset systemet hårdt, og der er
+desværre også sket afskedigelser inden for området.
+Så derfor er spørgsmålet naturligvis: Skal vi til at overveje at give fødevaremyndighederne nogle andre værktøjer i værktøjskassen?
+For vi ved, at der er nogle andre metoder, bl.a. den metode, som
+Danmarks Radios journalister fra »Kontant« anvendte for at afsløre
+det fusk, der bliver lavet med kødkontrol, for nu at tage det som et
+tænkt eksempel – jeg har ikke nogen forestilling om, at man amatøragtigt skal gå ind og gøre det i fødevarekontrollen. Men vi ved i
+hvert fald, at man ikke kan anvende den metode med den retspraksis,
+med den lovgivning, der er i dag.
+Så derfor er det vel oplagt at se på: Er der nogen ting, vi kan gøre
+for at gøre det lettere og måske endda spare ressourcer?";Benny Engelbrecht
+62084;Time;"Formanden:
+Ministeren.";Kl. 13:24
+62118;Time;;Kl. 13:24
+62156;title_name;":
+Det synes jeg netop vi skal have en god snak om, og derfor har jeg jo
+inviteret ordførerne fra forligspartierne bag fødevareloven til møde
+her på fredag. Her er det netop meningen, at vi skal gennemgå, hvad
+det er for en kontrol, der finder sted: Er den god nok, sådan som den
+er? Er der behov for, at vi prioriterer anderledes?
+Det er rigtigt, at Fødevarestyrelsen jo har meget store udfordringer, og derfor er vi nu i det hele taget i gang med at kigge nærmere
+på Fødevarestyrelsens økonomi i relation til finansloven. Men selve
+det her område skal vi også drøfte. Jeg kan bl.a. oplyse hr. Benny
+Engelbrecht om, at jeg netop har stillet det her spørgsmål til Fødevarestyrelsen og bedt om tilbagemeldinger om det på mødet på fredag,
+altså: Har vi de rigtige metoder? Er den her fysiske kontrol sammenholdt med den regnskabsmæssige kontrol, selv om det er meget ressourcekrævende, så den mest effektive måde at gøre det på?
+Jeg har forstået Fødevarestyrelsens foreløbige tilbagemeldinger
+sådan, at det faktisk er en god og egnet måde at gøre det på, men har
+også bedt om, at man også lige tænker på, om der er andre ting, man
+skal overveje. Men det vil vi som sagt tage en nærmere drøftelse af
+på fredag.";Eva Kjer Hansen
+63372;Time;"Formanden:
+Hr. Benny Engelbrecht.";Kl. 13:25
+63417;Time;;Kl. 13:25
+63440;name_party;":
+Skal ministerens melding her i dag så opfattes sådan, at ministeren i
+hvert fald heller ikke har berøringsangst over for at tage nye metoder
+
+Onsdag den 7. oktober 2009 (S )
+
+i brug, ligesom der også er politiske partier her i Folketinget, der har
+indikeret at de ikke har, også selv om det jo kan betyde en anderledes og mere pågående kontrol af de enkelte butikker? For det er jo
+det, som er det grundlæggende i den her sammenhæng, altså at man
+ikke kan foretage sig noget, uden at man i hvert fald tydeligt gør opmærksom på, hvad det er for nogle metoder, man bruger. Jeg har sådan lidt populært kaldt det at bruge noget mere skæg og blå briller i
+undersøgelsesmetoderne; det kan man godt overveje. Men det er jo
+selvfølgelig så en udfordring i forhold til erhvervet, og jeg vil da gerne høre, om ministeren også er villig til at se på det.";Benny Engelbrecht
+64297;Time;;Kl. 14:00
+64315;name_party;":
+Kan ministeren uddybe regeringens planer for overflytning af en
+række opgaver og medarbejdere i kommunerne til en central enhed
+under overskriften centralisering af objektiv sagsbehandling?";Rasmus Prehn
+64516;Time;"Formanden:
+Finansministeren.";Kl. 14:00
+64556;Time;;Kl. 14:00
+64567;Time;"Formanden:
+Fødevareministeren.";Kl. 13:26
+64609;Time;;Kl. 13:26
+64647;title_name;":
+Altså, jeg er optaget af: Hvad er effektivt? Hvad giver en god kontrol? Hvad er der brug for for at afdække, når der finder svindel sted,
+og hvordan sætter vi bedst ind over for det? Det er det, jeg har bedt
+Fødevarestyrelsen om lige at forholde sig til, nemlig: Har man de
+optimale værktøjer i redskabskassen, eller er der brug for andet?
+Men jeg tror nok, at jeg allerede nu kan sige i forhold til de forslag, der har været fremme, at Fødevarestyrelsen jo ikke har brug for
+skæg og blå briller, så længe man kan komme på uanmeldt besøg.
+Det vigtigste er, at man kan komme uanmeldt, og så er der jo ikke
+nogen problemer i at give sig til kende, for så konstaterer man, hvad
+det er, på stedet. Og med hensyn til det der med, at der skal være en
+chip i bakken vil jeg sige, at den chip jo heller ikke giver nogen mening, hvis man skifter bakkerne ud.
+Så som sagt: Jeg har stillet spørgsmålet, fordi jeg synes, vi skal
+give rum til at overveje, om der kan være andet i værktøjskassen. Så
+må det jo bero på, hvilke tilbagemeldinger vi får fra fagfolkene, for
+det er dem, der har erfaringen med og kendskabet til, hvad de har
+brug for, og så tager vi drøftelsen blandt partierne.";Eva Kjer Hansen
+65834;Time;"Formanden:
+Tak til fødevareministeren, tak til hr. Benny Engelbrecht.
+Så er spørgetimen slut, og jeg skal her udsætte mødet.
+Mødet er udsat til kl. 14.00.
+Mødet er udsat. (Kl. 13:27).
+
+17";Kl. 13:27
+66067;title_name;":
+[Lydudfald] … objektiv sagsbehandling. Det er områder, hvor det
+for det meste bygger på alderskriterier, hvorvidt man skal have udbetalt en ydelse. I den forbindelse blev der nedsat en arbejdsgruppe,
+og den arbejdsgruppe har konstateret, at der vil være et rationaliserings- og effektiviseringspotentiale, men regeringen har endnu ikke
+taget stilling til konkrete planer på området.";Claus Hjort Frederiksen
+66461;Time;"Formanden:
+Hr. Rasmus Prehn.";Kl. 14:01
+66501;Time;;Kl. 14:01
+66519;name_party;":
+Der er altså ikke konkrete planer på området endnu, kan jeg forstå,
+men ikke desto mindre hører man jo, at der er nok så konkrete planer, og at der sådan set også - hvilket mit næste spørgsmål handler
+om - har været ret seriøse forhandlinger med Kommunernes Landsforening, som har valgt at sige fra over for det her.
+Så det, der ligger som helt konkrete forslag, er jo altså, at områder som boligstøtte, folkepension, børnebidrag, friplads og barseldagpenge er noget, der skal ligge i nogle centrale centre, fordi man
+så tror på, at man kan spare nogle penge. Men jeg vil spørge finansministeren, om det ikke bryder med det princip, som regeringen
+gjorde nok så meget ud af i forbindelse med strukturreformen, nemlig at vi ved at lave nogle større kommuner skulle give danskerne én
+indgang til det offentlige. Bryder man ikke med det princip, hvis
+man vælger at fjerne opgaver fra kommunerne?
+Vi skal jo også lige være opmærksomme på, at man nu lige har
+haft en kæmpe øvelse med at få de her nye kommuner til at fungere,
+og det har været fyldt med problemer, og mange byrådsmedlemmer
+dumper jo den strukturreform, der er blevet gennemført. Nu vil man
+så, inden de i kommunerne er kommet på plads med de opgaver,
+flytte nye opgaver ud. Bryder det ikke med det princip om, at vi
+skulle have én indgang til det offentlige?";Rasmus Prehn
+67850;Time;"Det sidste punkt på dagsordenen er:
+3) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 14:02
+67963;Time;"Formanden:
+Finansministeren.";Kl. 14:00
+68003;Time;"Formanden:
+Mødet er genoptaget.
+Det første spørgsmål er til finansministeren af hr. Rasmus Prehn.";Kl. 14:02
+68112;Time;"Spm. nr. S 9
+1) Til finansministeren af:";Kl. 14:00
+68171;name_party;":
+Kan ministeren uddybe regeringens planer for overflytning af en
+række opgaver og medarbejdere i kommunerne til en central enhed
+under overskriften centralisering af objektiv sagsbehandling?
+Formanden:
+Værsgo til hr. Rasmus Prehn.";Rasmus Prehn
+68446;title_name;":
+Det, der kendetegner denne opgave er jo, at der ikke er nogen egentlig sagsbehandling i kommunerne på de her områder. Udbetaling af
+folkepension, boligstøtte, barseldagpenge, økonomisk fripladstilskud
+og forskudsvis udbetaling af børnebidrag er jo alt sammen noget, der
+er dækket af nogle objektive kriterier som f.eks. alder og indkomst.
+Derfor er der for mig god mening i, at man prøver at samle ressourcerne på det her område, så kommunerne får mere plads til at
+tage sig af de borgernære områder, og det er jo meningen med den
+analyse, som har kunnet konstatere, at der er et effektiviseringspotentiale, som jeg tror at mange kommuner ville være rigtig, rigtig
+glade for at kunne bruge til nogle andre ting end at sidde og udbetale
+folkepension.
+
+18
+
+Onsdag den 7. oktober 2009 (S 11)";Claus Hjort Frederiksen
+69248;Time;"kort tid laver én stor løsning, og hvor alle de her opgaver skal centraliseres ét sted. Men er det ikke for voldsom en centralisering?
+
+Formanden:
+Hr. Rasmus Prehn.";Kl. 14:03
+69425;Time;;Kl. 14:06
+69435;Time;;Kl. 14:03
+69453;name_party;":
+Nu er det jo ikke meget offentlighed, der har været om den her sag
+endnu. Det virker, som om regeringen går sådan lidt stille med dørene, også fordi man ikke er helt sikker på, hvordan man vil gribe det
+an. Jeg står her med en artikel fra Jyllands-Posten den 10. september
+af journalist Hanne Fall Nielsen, og der giver formanden for HK
+Kommunal udtryk for, at det netop ikke er, som ministeren siger her,
+nemlig at det bare altid er nogle objektive kriterier. Formanden siger:
+»En sådan plan ødelægger fuldstændig muligheden for at se en
+sag i sin helhed. Som regel kommer borgerne ikke kun med et enkelt
+teknisk problem omkring pensionen, men har også brug for råd og
+vejledning på andre områder.«
+Får vi ikke et problem her? For det første er der længere for borgeren til et centralcenter - hvor skal man henvende sig? Det kender
+vi jo fra SKAT, og det har også været problematisk. For det andet
+kommer man ikke kun med et problem i forbindelse med sin folkepension eller sin boligsikring, næh, det hele hænger sammen. Er der
+ikke et problem her? Og så igen spørgsmålet vedrørende strukturreformen: Har vi ikke haft rod nok med at flytte rundt på opgaver?
+Skal vi nu til at bryde det hele op igen?";Rasmus Prehn
+70665;Time;"Formanden:
+Finansministeren.";Kl. 14:04
+70705;Time;;Kl. 14:06
+70749;title_name;":
+Nu ved jeg jo altså ikke, hvor Socialdemokraterne er henne i den her
+sag, men regeringen og KL har jo i fællesskab analyseret mulighederne for at frigøre ressourcer til noget bedre end bare automatisk at
+sidde og udbetale en række ydelser, ud fra om man kan konstatere,
+om personen er 65 år eller ikke er 65 år, og hvis personen er 65 år, så
+får personen sin folkepension. Hvis det kan gøres på en smartere måde, synes jeg, at det er den rigtige vej at betræde, og det er i hvert
+fald det, vi arbejder med.
+Men om det konkrete projekt er der bare at sige, at der ligger et
+effektiviseringspotentiale. Der ligger et trecifret millionbeløb, som
+man kan bruge på andre og bedre ting, og det tæller for mig ret meget i den her sag. Jeg kan ikke forstå, at det skulle have en særlig
+kvalitet, at man skulle sidde i 98 kommuner og konstatere, at deres
+borgere nu når folkepensionsalderen, hvis man kan gøre det på en
+smartere måde.
+Som jeg sagde før, ser vi på det på en fordomsfri måde, og vi vil
+da bestræbe os på, at så mange ressourcer som muligt frigøres fra
+bureaukrati og sagsbehandling til andre områder. Det er sådan set
+vores ledestjerne i den her sag.";Claus Hjort Frederiksen
+71917;Time;"Formanden:
+Finansministeren.";Kl. 14:07
+71957;Time;;Kl. 14:04
+72001;title_name;":
+Altså, jeg vil bare sige, at vi i regeringen ser fuldstændig fordomsfrit
+på den her sag. Hvis der er et potentiale for, at man kan aflaste kommunerne for nogle rene rutineopgaver, nogle rent maskinelle sager,
+så synes jeg, det er vigtigt, at de ressourcer, der så kan frigives der,
+kan bruges til at give noget borgernær service, og det er jo sådan set
+meningen med det her område. Der er lavet en analyse i fællesskab
+mellem KL og regeringen. Regeringen har endnu ikke taget stilling
+til denne rapport, men jeg vil bare sige, at min forhåndsindstilling er,
+at jeg ikke kan se, at det sådan er af særlig værdi for det kommunale
+selvstyre, at man skal beslaglægge mandskabsmæssige ressourcer til
+ting, som kunne være løst på en anden måde.
+
+Formanden:
+Ja tak. Hermed sluttede det første spørgsmål.
+Det andet spørgsmål er også stillet af hr. Rasmus Prehn til finansministeren.";Claus Hjort Frederiksen
+72887;Time;"Spm. nr. S 11
+2) Til finansministeren af:";Kl. 14:07
+72947;name_party;":
+Kan ministeren redegøre for, hvorfor Kommunernes Landsforening
+(KL) har trukket sig fra samarbejdet i arbejdsgruppen vedrørende
+centralisering af objektiv sagsbehandling under Finansministeriet?
+Formanden:
+Værsgo til hr. Rasmus Prehn.";Rasmus Prehn
+73193;Time;;Kl. 14:07
+73204;Time;"Formanden:
+Hr. Rasmus Prehn.";Kl. 14:05
+73244;Time;;Kl. 14:05
+73262;name_party;":
+Nu er det jo altid positivt at se på tingene og at gøre det fordomsfrit.
+Hvis der er en rationaliseringsgevinst, så lad os tage det med. Men
+her er der jo rent faktisk tale om en række interessenter på området,
+medarbejderne, kommunerne osv., som hejser et advarselsflag i forhold til det her og siger, at tingene hænger sammen, at det ikke bare
+er objektive kriterier det hele, tingene hænger sammen, så de er bange for det her, de tror, det giver mere rod, og de tror faktisk, det bliver dyrere på sigt. Skulle regeringen ikke lytte til det?
+Endelig vil jeg sige, at hvis man går i gang med det her, forestiller regeringen sig så et enkelt center, så alle skal søge i ét center, eller skal man have nogle regionale centre? Hvad med indfasningsperioden, hvor hurtigt skal det her gå? Der beskrives jo i notatet, at der
+er mulighed for at køre med et såkaldt big bang, hvor man på meget";Rasmus Prehn
+74168;name_party;":
+Kan ministeren redegøre for, hvorfor Kommunernes Landsforening,
+KL, har trukket sig fra samarbejdet i arbejdsgruppen vedrørende
+centralisering af objektiv sagsbehandling under Finansministeriet?";Rasmus Prehn
+74374;Time;"Formanden:
+Finansministeren.";Kl. 14:07
+74414;Time;;Kl. 14:07
+74458;title_name;":
+Der kan jeg sige, at det er en forkert præmis, hr. Rasmus Prehn har
+for spørgsmålet. Kommunernes Landsforening har mig bekendt ikke
+trukket sig fra et samarbejde i arbejdsgruppen vedrørende den objektive sagsbehandling. Regeringen og KL nedsatte i forlængelse af
+økonomiaftalen for 2009 en arbejdsgruppe, der skulle undersøge
+mulighederne for at effektivisere den objektive sagsbehandling ved
+at udnytte stordriftsfordele. Arbejdsgruppen færdiggjorde sit analy-
+
+Onsdag den 7. oktober 2009 (S 11)
+
+searbejde, og da analysearbejdet var færdigt, opløstes arbejdsgruppen, fordi der ikke var mere at lave.
+Så jeg tror ikke, at der er nogle, der har trukket sig i den her sag.
+Man analyserede opgaven, man løste opgaven, man afleverede sin
+rapport. Nu ved jeg ikke, om hr. Rasmus Prehn synes, at arbejdsgruppen så skulle fortsætte, men i lyset af det tidligere spørgsmål om
+ønsket om, at man skal kunne sidde og arbejde med tingene, selv om
+det måske er overflødigt, vil jeg bare sige, at vi i fællesskab har draget den konklusion, at når der ikke er mere at analysere, er arbejdet
+færdigt.";Claus Hjort Frederiksen
+75556;Time;"Formanden:
+Hr. Rasmus Prehn.";Kl. 14:08
+75596;Time;;Kl. 14:09
+75614;name_party;":
+Ja, altså hvis udgangspunktet er, at man har haft sådan en gruppe,
+der bare skulle sidde og analysere, og den så rent faktisk er færdig
+med arbejdet, så er den historie jo ude. Men det, jeg forstår, er, at
+man rent faktisk fra regeringens side har været meget mere pågående
+i forhold til rent faktisk at få lavet en aftale. Man har rent faktisk
+prøvet at forhandle med Kommunernes Landsforening om at få landet en aftale om det her om, at kommunerne midt i en periode med
+strukturreform og alt muligt andet skulle til at bryde op en gang til
+og flytte rundt på medarbejdere, afgive ting og have alle de problemer, der er, med de mellemregninger, der er, når kommunen løser en
+opgave, og når en mere central enhed løser en opgave. Alle de ting
+har man prøvet at forhandle om, men til sidst – jeg forstår, at det var
+den 23. september – har Kommunernes Landsforening så sagt:
+Hov, hov, det her er altså ikke med vores gode vilje. Vi er faktisk
+nervøse over for den her udvikling, vi synes, det er en dårlig idé.
+Det fremgår jo sådan set også af artiklen her fra den 10. september i Jyllands-Posten, at der er op til flere, der rejser det kritiske flag
+over for det her. Det er måske det, der er årsagen til, at finansministeren er lidt mere tilbageholdende med at sige, hvad regeringens
+planer er på det her område. Det virker, som om man har slået et meget stort brød op – at man sådan set har stillet en masse ting i udsigt
+her – men så har man i forhandlinger med forskellige parter kunnet
+konstatere, at man endnu en gang havde et projekt fra regeringens side, som ikke havde nogen gang på jorden, at der ikke rigtig var opbakning til det.
+Er det i virkeligheden ikke det, der er situationen? For hvor er ellers de konkrete beslutningsforslag i forhold til det her henne? Hvis
+man har analyseret færdigt, hvorfor kommer regeringen så ikke med
+en mere klar plan? Er det, fordi man har fået kolde fødder, og fordi
+man kan se, at der ikke er opbakning til det og det slet ikke kan hænge sammen?";Rasmus Prehn
+77619;Time;"Formanden:
+Finansministeren.";Kl. 14:10
+77659;Time;;Kl. 14:10
+77703;title_name;":
+For at der ikke skal være nogen misforståelser om det, er der ikke
+nogen, der er gået fra noget arbejde. KL og regeringen har i fællesskab analyseret det her, der ligger en rapport, der viser, at der er et
+effektiviseringspotentiale, arbejdsgruppen løste sin mission, arbejdsgruppen blev opløst. Derefter prøver regeringen naturligvis at sondere og arbejde videre med den rapport, der ligger, ligesom, har jeg
+forstået, KL rent faktisk i øjeblikket arbejder med konklusionerne i
+rapporten og ser, hvad de skal gøre. Så det er en ikkesag, vi står og
+debatterer her i Folketinget, og det kan man selvfølgelig sige er fint
+
+19
+
+for folkestyret, men det er næppe særlig frugtbart for den her sag, for
+det fører hverken til en løsning eller til det modsatte.
+Der ligger en analyse. KL arbejder med sagen, regeringen arbejder med sagen, og det må vel sådan set være hele formålet med øvelsen.";Claus Hjort Frederiksen
+78601;Time;"Formanden:
+Hr. Rasmus Prehn.";Kl. 14:11
+78641;Time;;Kl. 14:11
+78659;name_party;":
+Det har jo altså virkelig stor betydning for det danske samfund, hvis
+man lige efter en strukturreform, som jo ikke har været problemfri,
+synes, at man skal til at rippe op i strukturerne en gang til og tage
+områder som boligstøtte, folkepension, børnebidrag, friplads og barseldagpenge og administrere dem fra centralt hold. Det er da virkelig
+en kæmpeændring, og jeg synes, at finansministeren skal passe meget på med at stå og negligere det som noget ubetydeligt at debattere
+her i Folketinget.
+Vi ved jo, at den strukturreform, som regeringen gennemførte
+med en historisk smal opbakning i Folketinget, har været fuld af problemer. Man lovede, at man skulle spare penge på administration,
+der er kommet flere udgifter til administration. Man lovede, at borgerne skulle have en oplevelse af bedre service, de har fået det modsatte. Der har været så mange problemer i strukturreformen.
+Man er, allerede inden det her arbejde er faldet på plads, i gang
+med at tage helt centrale områder i kernevelfærden og flytte dem
+væk fra kommunerne igen, og så kan ministeren ikke redegøre her i
+salen mere præcist for, hvad regeringens planer er, end ved at sige,
+at man sidder og analyserer, og man håber på nogle stordriftsfordele.
+Men det gik jo galt sidste gang, så skulle man ikke til at passe lidt
+på?";Rasmus Prehn
+79967;Time;"Formanden:
+Finansministeren.";Kl. 14:12
+80007;Time;;Kl. 14:12
+80051;title_name;":
+Jeg ved ikke, om jeg skal tage det her som udtryk for, at hr. Rasmus
+Prehn og Socialdemokraterne synes, at vi skal bruge penge, hvor det
+er overflødigt. Jeg opfatter det som min rolle som finansminister –
+og jeg tror også, at tidligere finansministre har opfattet det som deres
+rolle – at sikre, at vi får valuta for pengene. Valuta for pengene i
+denne forbindelse må jo være, at der frigøres ressourcer til, at man i
+kommunerne kan tage sig af borgernes problemer, den borgernære
+behandling, og ikke, at alle skal sidde og lave nogle ting, som man
+kunne løse på anden og smartere vis.
+Det var det, den her analyse viste, nemlig at der er et effektiviseringspotentiale i et ret betydeligt omfang. Jeg synes, at det er en meget flot indstilling at have til det at sige, at selv om de kan påvise, at
+de kan bruge pengene på en smartere måde, vil man ikke. Men det er
+jo ikke sådan, at det kommer som en overraskelse for mig, at det er
+Socialdemokratiets tilgang til problemerne. Jeg vil bare sige, at for
+regeringen er det helt afgørende, at pengene bruges fornuftigt.";Claus Hjort Frederiksen
+81129;Time;"Formanden:
+Hr. Rasmus Prehn.";Kl. 14:13
+81169;Time;;Kl. 14:13
+81187;name_party;":
+Finansministeren får det til at lyde legende let: Hvis bare man tager
+lige de her opgaver og flytter dem over i nogle mere centrale enhe-
+
+20
+
+Onsdag den 7. oktober 2009 (S 6)
+
+der, begynder det simpelt hen at regne ned fra himlen med guld, og
+så er der masser af penge at spare. Men hvis det er sådan, hvorfor er
+det så, at regeringen ikke har mere konkrete planer? Hvis det er så
+ligetil, hvorfor har man så ikke lagt noget mere konkret frem end
+nogle fugle på taget, som ikke rigtig er særlig konkrete? Det virker
+mærkeligt.
+Det næste er, at sagen jo nok er meget mere kompliceret, end ministeren får det til at lyde. Strukturreformen har jo tydeligt vist, at
+selv om man havde en daværende indenrigsminister, som er nuværende statsminister, der turnerede land og rige rundt og fortalte om,
+hvor fabelagtig godt det ville blive, så har det vist sig, at strukturreformen på lange strækninger har været en fiasko.
+På forsiden af Politiken i søndags kunne vi se, at strukturreformen dumpede, så tingene er ikke så lette, som finansministeren får
+det til at lyde her. Det er meget mere kompliceret, og det er nok også
+derfor, at regeringen har skyndt sig at trække følehornene lidt til sig.
+Man tør alligevel ikke det her, eller hvordan skal det forstås? Planerne er i hvert fald meget ukonkrete, og hvis det er så nemt og godt at
+gøre, som ministeren giver udtryk for her, kan vi jo undre os over, at
+man ikke har gjort et mere konkret arbejde.";Rasmus Prehn
+82644;Time;"Formanden:
+Finansministeren.
+
+rekt, og at der indrapporteres til EU, sådan som vi er forpligtet til.
+Det er også ministeriets ansvar at fortolke direktivet.";Kl. 14:15
+82812;Time;"Formanden:
+Fru Ida Auken.";Kl. 14:16
+82849;Time;;Kl. 14:16
+82865;name_party;":
+Ja, jeg synes lige, vi skal minde om, hvad den her sag handler om.
+Den handler om, at Danmarks Miljøundersøgelser, som er fagpersonerne, skal lave en indrapportering til EU om, hvordan de danske
+skove har det. Så vælger Skov- og Naturstyrelsen at gribe ind i
+DMU's arbejde så meget, at man – nu står jeg her med tallene – ændrer en indrapportering fra dårlig, dårlig, dårlig, dårlig, ringe, ringe,
+ringe, ringe, dårlig, dårlig, dårlig, dårlig til, efter at Skov- og Naturstyrelsen har grebet ind i DMU's arbejde, god, god, ringe, ukendt,
+ukendt, ukendt, ukendt, ukendt, god, god, ringe, ukendt.
+Ministeren siger så til Altinget den 30. september, og han siger
+det til Jyllands-Posten, at han tilbage i december 2007 krævede, at
+man skulle lægge DMU's vurderinger af skovenes tilstand til grund
+for indberetningen til EU. Holder ministeren fast i den udtalelse, altså at han krævede af sit ministerium, at man lagde DMU's indberetninger til grund for det?";Ida Auken
+83831;Time;;Kl. 14:17
+83842;Time;;Kl. 14:15
+83886;title_name;":
+Jeg vil bare sige, at der arbejdes på højtryk med det.
+Jeg vil så gerne lige notere mig, at hvis Kommunernes Landsforening kommer tilbage med en løsning, hvor Kommunernes Landsforening centraliserer den her opgave, fordi der er et potentiale for at
+spare og for at bruge pengene bedre, er Socialdemokraterne imod.";Claus Hjort Frederiksen
+84211;Time;"Formanden:
+Hermed sluttede spørgsmålet. Tak til hr. Rasmus Prehn, og tak til finansministeren.
+Næste spørgsmål er stillet af fru Ida Auken til miljøministeren.";Kl. 14:15
+84382;Time;"Spm. nr. S 6
+3) Til miljøministeren af:";Kl. 14:15
+84438;name_party;":
+Er ministeren enig i, at alle aspekter af Danmarks afrapportering til
+EU efter habitatdirektivets artikel 17 i 2007 er ministerens politiske
+og juridiske ansvar?
+Formanden:
+Fru Ida Auken, værsgo.";Ida Auken
+84645;Time;;Kl. 14:15
+84661;name_party;":
+Er ministeren enig i, at alle aspekter af Danmarks afrapportering til
+EU efter habitatdirektivets artikel 17 i 2007 er ministerens politiske
+og juridiske ansvar?";Ida Auken
+84834;Time;"Formanden:
+Miljøministeren.";Kl. 14:15
+84873;Time;"Miljøministeren (Troels Lund Poulsen):
+Jeg er enig i, at Danmarks afrapportering til EU efter habitatdirektivets artikel 17 er Miljøministeriets og dermed også miljøministerens
+ansvar. Det er ministeriets ansvar, at direktivet implementeres kor-
+
+Formanden:
+Miljøministeren.";Kl. 14:15
+85159;Time;"Miljøministeren (Troels Lund Poulsen):
+Jeg kan jo starte med igen at svare på det, som spørgsmålet går på,
+nemlig spørgsmål 6, og det er om, hvem der har ansvaret. Og det er
+Miljøministeriet og miljøministeren, der har ansvaret for at leve op
+til de direktivforpligtelser, der er. Men når det er sagt, så vil jeg også
+gerne sige, at jeg jo også har noteret mig, at Danmarks Miljøundersøgelser mener, at det er den danske stat og ikke DMU, der er ansvarlig for indrapportering, og at de anerkender Miljøministeriets ret
+til at tolke direktivteksterne. Det fremgår jo også af en pressemeddelelse, som DMU udsendte i torsdags, den 1. oktober.";Kl. 14:17
+85810;Time;"Formanden:
+Fru Ida Auken.";Kl. 14:17
+85847;Time;;Kl. 14:17
+85863;name_party;":
+Hold da op, jeg kan godt forstå, at miljøministeren ikke ønsker at
+svare på spørgsmålet. Nu prøver jeg igen: Holder ministeren fast i
+det, som han sagde til to danske medier, nemlig at han har bedt sit
+ministerium om at følge DMU's indstilling om at indrapportere,
+hvordan skovene har det? Det kan ikke være noget svært spørgsmål
+for ministeren at svare på. Og hvis ministeren ikke – når nu vi er der
+– synes, det er tilfældet, så kan man jo undre sig over den pressemeddelelse, der dengang kom fra ministeriet, hvori der stod noget så
+fint som en statusrapport til EU fra DMU. Der siger ministeriet altså
+i sin egen pressemeddelelse, at statusrapporten er fra DMU. Så nu
+må vi da kunne få ministerens svar ganske kort: Holder ministeren
+fast i sine udtalelser om, at han bad ministeriet lægge DMU's vurderinger til grund for indrapporteringen, eller var det en løgn, han sagde til Jyllands-Posten og til Altinget?";Ida Auken
+86789;Time;"Formanden:
+Miljøministeren.
+
+Onsdag den 7. oktober 2009 (S 8)";Kl. 14:18
+86864;Time;"Miljøministeren (Troels Lund Poulsen):
+Nu er det jo generelt en dum idé at lyve, også når man er politiker,
+og fru Ida Auken stiller jo også det spørgsmål i spørgsmål 8, som jeg
+da gerne vil svare på nu, selv om det er spørgsmål 6, vi er ved.
+Som det bl.a. fremgår af Jyllands-Posten, gav jeg, da jeg lige var
+tiltrådt som minister, klart udtryk for, at vi i forhold til den fremtidige udvikling for arts- og naturtyper skulle lægge DMU's faglige vurdering til grund for ikke at blande faglighed sammen med politik.
+Derfor er det jo også det, som er fremgået af medierne, og det står
+jeg fuldt og helt ved.
+Jeg står også ved det andet, som jeg har sagt, nemlig at der er
+hvirvlet mange påstande op i den her forbindelse. Fru Ida Auken har
+haft en lang række kommentarer, og der er også andre politikere, der
+har haft kommentarer, og derfor har jeg så også bedt om, at jeg nu
+får en redegørelse om sagen, for nogle af de ting, der hænger sammen med hele det her spørgsmål, har jo også fundet sted, før jeg var
+miljøminister.";Kl. 14:18
+87899;Time;"Formanden:
+Fru Ida Auken.";Kl. 14:19
+87936;Time;;Kl. 14:19
+87952;name_party;":
+Ja, hvis ministeren holder fast i, at han har bedt ministeriet følge
+DMU's indrapporteringer, om det så kun er med hensyn til fremtidsudsigter, eller hvilken kattelem ministeren nu prøver at skabe sig
+her, så må han jo være noget utilfreds med den indrapportering, der
+er sket, altså hvor dårlig og ringe er blevet vendt til god og ukendt.
+Det kan man da ikke være tjent med som minister. Og hvis ministeren er det, så kan jeg ikke forstå, at ministeren så bagefter prøver at
+tørre skylden af på alle mulige andre. Og jeg kan slet ikke forstå, at
+det først kommer til ministerens kendskab nu, når jeg nu heroppe
+står med et brev fra Nepenthes fra februar 2008, jeg står med en mail
+fra en privatperson, jeg står med en forsidehistorie fra Politiken fra
+december 2008, jeg står med samrådsspørgsmål fra SF fra februar
+2009, hvori ministeren gentagne gange er blevet gjort opmærksom
+på, at man ikke har fulgt DMU. Så kan ministeren vel ikke holde fast
+i, at han har bedt ministeriet om at følge DMU's anbefalinger.";Ida Auken
+88976;Time;"Formanden:
+Miljøministeren.";Kl. 14:20
+89015;Time;"Miljøministeren (Troels Lund Poulsen):
+Men jeg kan jo sige, at det samråd, som fru Ida Auken også deltog i,
+handlede om selve implementeringen af direktivet, og det havde vi
+jo en lang diskussion om på det samråd.";Kl. 14:20
+89240;Time;"21
+
+Formanden:
+Værsgo, fru Ida Auken.";Kl. 14:20
+89289;Time;;Kl. 14:21
+89305;name_party;":
+Jeg vil gerne vide: Hvilke politiske hensyn tilgodeså ministeren ved
+ikke at afrapportere til EU i overensstemmelse med DMU’s faglige
+opgørelse af naturtilstanden?";Ida Auken
+89480;Time;"Formanden:
+Miljøministeren.";Kl. 14:21
+89519;Time;"Miljøministeren (Troels Lund Poulsen):
+Som det jo er fremgået af pressen, gav jeg, da jeg lige var tiltrådt
+som minister, klart udtryk for, at vi i forhold til den fremtidige udvikling for arter og naturtyper skulle lægge DMU’s faglige vurdering til grund, netop for ikke at blande det faglige sammen med det
+politiske. Men som jeg også har sagt, er der jo kommet en lang række alvorlige anklager i den her sag, som jeg også vil sige er kompliceret, og derfor har jeg bedt om at få en redegørelse, sådan at vi kan
+få vendt hver en sten, og den vil jeg selvfølgelig også orientere både
+fru Ida Auken og Folketingets Miljø- og Planlægningsudvalg om,
+når den foreligger.";Kl. 14:21
+90198;Time;"Formanden:
+Fru Ida Auken.";Kl. 14:21
+90235;Time;;Kl. 14:21
+90251;name_party;":
+Det er meget svært at få et svar ud af miljøministeren. Han har et talepapir, som han så læser op af, og det kan jeg godt forstå. Det er
+også en virkelig, virkelig dårlig sag, han har her, hvor vi tydeligt kan
+se, at dårlig, dårlig, dårlig, ringe, ringe, ringe, ringe, dårlig, dårlig,
+dårlig er blevet vendt til god, god, ringe, ukendt, ukendt osv., og
+hvor ministeren bliver ved med at holde fast i, at han har sagt, at
+man skulle følge DMU. Og så tror han, at han kan slippe uden om
+ved at tale om fremtidsudsigterne.
+Jeg synes, at ministeren skulle gå ind og tage ansvaret for den
+indrapportering, der er sket nu her, og stå til ansvar for, at man har
+ændret i det, fagpersonerne har villet indrapportere. Han kan da rejse
+sig op nu og tage ansvaret for det, som han skulle have gjort for i
+hvert fald 1 år, måske endda længere tid siden, men det er sådan lidt
+sent gået op for ham, at man ikke har fulgt DMU.
+Men nu, lige om lidt, får vi talepapiret læst op en gang til, og det
+vil jeg så glæde mig til.";Ida Auken
+91270;Time;"Formanden:
+Miljøministeren.";Kl. 14:22
+91309;Time;"Formanden:
+Hermed sluttede spørgsmål 3.
+Spørgsmål 4 er også stillet af fru Ida Auken til miljøministeren.";Kl. 14:22
+91426;Time;"Spm. nr. S 8
+4) Til miljøministeren af:";Kl. 14:20
+91482;name_party;":
+Hvilke politiske hensyn tilgodeså ministeren ved ikke at afrapportere
+til EU i overensstemmelse med DMU's faglige opgørelse af naturtilstanden?
+
+Miljøministeren (Troels Lund Poulsen):
+Det vil jeg skåne fru Ida Auken for og blot sige til fru Ida Auken, at
+jeg synes, at det ville tjene fru Ida Auken, hvis hun afventede den
+redegørelse, der kommer.";Ida Auken
+91841;Time;"Formanden:
+Fru Ida Auken.
+
+22
+
+Onsdag den 7. oktober 2009 (S 1)";Kl. 14:22
+91918;Time;"Det næste spørgsmål, spørgsmål 5, er stillet af fru Line Barfod til
+indenrigs- og socialministeren.";Kl. 14:22
+92035;name_party;":
+Jeg kunne godt tænke mig at vide, om Skov- og Naturstyrelsen har
+nogen økonomiske interesser i, hvordan de danske skove har det, og
+i den her rapportering til EU. Så måske kunne miljøministeren løfte
+sløret for, om det betyder noget for Skov- og Naturstyrelsens økonomi, hvis der er flere skove, hvor tilstanden ikke er gunstig.";Ida Auken
+92376;Time;;Kl. 14:25
+92387;Time;"Formanden:
+Miljøministeren.
+
+Spm. nr. S 1
+5) Til indenrigs- og socialministeren af:";Kl. 14:23
+92489;name_party;":
+Hvad mener ministeren er årsagen til, at over 90 pct. af kommunerne
+forventer at skære i velfærden i forbindelse med budgettet for 2010?
+Formanden:
+Det er først fru Line Barfod, værsgo.";Line Barfod
+92687;Time;"Miljøministeren (Troels Lund Poulsen):
+Det har i hvert fald ikke meget at gøre med spørgsmål nr. S 8, der er
+stillet, og derfor vil jeg sige til fru Ida Auken, at det spørgsmål må
+stilles på skrift.";Kl. 14:23
+92898;Time;;Kl. 14:25
+92916;name_party;":
+Tak. Jeg har spurgt: Hvad mener ministeren er årsagen til, at over 90
+pct. af kommunerne forventer at skære i velfærden i forbindelse med
+budgettet for 2010?";Line Barfod
+93086;Time;"Formanden:
+Fru Ida Auken.";Kl. 14:23
+93124;Time;"Formanden:
+Indenrigs- og socialministeren.";Kl. 14:25
+93178;Time;;Kl. 14:23
+93194;name_party;":
+Nu har det temmelig meget med det spørgsmål at gøre, for jeg
+spurgte, hvilke politiske hensyn ministeren tilgodeså ved ikke at afrapportere til EU i overensstemmelse med DMU. Det vil sige: Hvis
+man ikke følger det, som DMU siger, men laver den ændring, som
+ministeren lige nu lægger ryg til, hvad er det så for interesser, der
+ligger bag? Er det f.eks. en Skov- og Naturstyrelse, der lever af
+skovdrift? Er det en Skov- og Naturstyrelse, som har visse faglige
+traditioner, hvor de går mere op i skovene, end de går op i alt den
+her kriblekrablenatur, biodiversiteten i bunden?
+Jeg kan forstå, at jeg ikke får noget svar fra ministeren, men så
+vil jeg gerne høre: Vil ministeren nu gå ind og rette op på det, vi har
+set her? Vil ministeren gå ind og ændre det, sådan at man nu følger
+DMU hele vejen rundt, ikke kun med hensyn til fremtidsudsigterne,
+men sådan at man faktisk stopper det her fifleri og følger DMU hele
+vejen rundt? Vil ministeren gøre det?";Ida Auken
+94160;Time;"Formanden:
+Miljøministeren.";Kl. 14:24
+94199;Time;"Miljøministeren (Troels Lund Poulsen):
+Jamen jeg synes jo, at det er en god idé, at man får set på den her sag
+i sammenhæng. Det er jo ikke en sag, der er kommet fra den ene dag
+til den anden, det er en sag, der starter tilbage i 2005 og strækker sig
+over mange år. Derfor må jeg sige, at jeg ikke på den måde kan være
+lige så skråsikker, som fru Ida Auken er, og påstå det ene og det andet. Det er selvfølgelig fuldt op til SF og fru Ida Auken at gøre det,
+men som jeg har sagt flere gange, synes jeg, at det er mest rigtigt, at
+jeg afventer den redegørelse, som jeg har bedt om, og som fru Ida
+Auken faktisk også har været ude at sige var en god idé, lige indtil
+jeg selv sagde, at jeg ville have en redegørelse – så var det en dårlig
+idé. Men lad det være.
+Jeg synes, at fru Ida Auken skulle styre sin utålmodighed, til vi
+kan diskutere redegørelsen. Så kan man også se det i sammenhæng.";Kl. 14:24
+95101;Time;"Formanden:
+Hermed sluttede spørgsmål 4. Tak til fru Ida Auken og tak til miljøministeren.";Kl. 14:24
+95203;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Tak for spørgsmålet. Situationen er jo den lige nu og her, at kommunerne er ved at lægge sidste hånd på næste års budgetter. Derfor mener jeg ikke, at det giver mening på nuværende tidspunkt at kommentere på kommunernes budgetresultater. Jeg vil sådan set opfordre alle til på nuværende tidspunkt at slå koldt vand i blodet og afvente vedtagelsen af de kommunale budgetter, som jo ligger lige for,
+før vi nu og her på et for tidligt tidspunkt står og drager forhastede
+konklusioner. Det skyldes altså ikke mindst, at sådan nogle foreløbige meldinger, som spørgeren også henviser til, erfaringsmæssigt i
+hvert fald, skal tages med et gran salt. Det er det samme billede, der
+tegner sig år efter år: Jo tættere vi kommer på fristen for vedtagelsen
+af de kommunale budgetter, jo flere historier om kommunale besparelser. Det er formodentlig en medfødt del af budgetprocessen.
+Men i den forbindelse vil jeg dog også gerne understrege, at jeg
+på ingen måde underkender det store arbejde, som ligger til grund
+for at opnå et budgetresultat i balance. Det stiller naturligvis krav om
+en fornuftig prioritering af midlerne hos den enkelte kommune, men
+samtidig bliver jeg også nødt til at sige, at det er tankevækkende, når
+tre ud af fire adspurgte økonomichefer ude i kommunerne giver udtryk for, at sparerunder i forbindelse med budget 2009 ikke nødvendigvis har været ensbetydende med serviceforringelser. Det synes
+jeg i hvert fald giver anledning til at overveje, om ordet sparerunder
+er den rigtige betegnelse.";Kl. 14:25
+96772;Time;"Formanden:
+Fru Line Barfod.";Kl. 14:27
+96811;Time;;Kl. 14:27
+96829;name_party;":
+Det er meget muligt, at ministeren vil påstå, at der ikke sker nedskæringer i kommunerne. Det synes jeg er noget af en flot påstand. Det
+er ret usædvanligt, især når vi er i et valgår, hvor politikerne i kommunerne normalt vil være optaget af at blive genvalgt, at de så er
+ude i at diskutere at skulle skære ned på de steder, hvor det virkelig
+gør ondt.
+Vi ser jo, at nogle kommuner allerede er ude i at skulle gøre det i
+forhold til indeværende års budget. Vi har f.eks. historien fra Syddjurs Kommune, der hjemtager børn, der ellers er anbragt, hvor
+Mads på 8 år, der har været i pleje, siden han var 15 måneder gammel, bliver flyttet med 3 timers varsel fra den familiepleje, han er i,
+
+Onsdag den 7. oktober 2009 (S 1)
+
+over til en familiepleje internt i kommunen, som er billigere. Vi hører lignende historier fra mange andre steder, fordi kommunerne
+simpelt hen skraber bunden i forhold til, hvad de har af penge, og
+derfor er ude at se alle de steder, hvor de overhovedet kan finde besparelser.
+Derfor vil jeg gerne høre: Mener ministeren overhovedet ikke, at
+den økonomiske spændetrøje, som regeringen har lagt ned over
+kommunerne, har nogen som helst betydning for den økonomi, der
+er i kommunerne?";Line Barfod
+98050;Time;"23
+
+ket bl.a. giver mulighed for et generelt løft i serviceudgifterne på
+500 mio. kr., og ud over serviceløftet er der altså allerede for 2009
+aftalt et niveauløft på 800 mio. kr. på det specialiserede socialområde samt et tilskud på op til 400 mio. kr. til madordninger i daginstitutionerne. Så jeg har meget svært ved at genkende billedet af en
+samlet serviceforringelse.";Kl. 14:28
+98435;Time;;Kl. 14:30
+98475;title_name;":
+Fru Line Barfod.";Holger K. Nielsen
+98503;Time;"Formanden:
+Ministeren.";Kl. 14:31
+98537;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Jeg må igen sige, at jeg synes, det er for tidligt at drage de her forhastede konklusioner, og et billede af spændetrøjer kan jeg på ingen
+måde nikke genkendende til, fordi hvorfor skulle billedet i år være et
+helt andet, end det har været de foregående år?
+Vi har jo altså indgået en rigtig god økonomiaftale, regeringen og
+KL imellem, hvor der for kommunerne under et er skabt fuld finansiering til, at kommunerne også i 2010 kan løse deres velfærdsopgaver. For kommunerne som helhed er der altså ikke på noget tidspunkt lagt op til besparelser, men der er som altid behov for, at kommunerne prioriterer midlerne - det er klart - og herunder at der foretages nødvendige effektiviseringer og omprioriteringer.
+Den konkrete sag kan jeg naturligvis ikke kommentere på, men i
+forhold til hele det specialiserede socialområde har jeg været meget
+klar i mælet i forhold til, at man i en foranstaltning jo altid skal tage
+et fagligt hensyn og naturligvis også have et øje for økonomien på
+det område.";Kl. 14:28
+99593;Time;;Kl. 14:29
+99611;name_party;":
+Det er meget muligt, at ministeren ikke kan, men det kan de forældre, der oplever, at der bliver skåret på skolerne, at der bliver lukket
+skoler rundtom i landet, at der bliver skåret på børnehaver, at børneinstitutioner blevet slået sammen til store 100-børns-institutioner, og
+som oplever, at der især på det særlige socialområde virkelig sker
+nedskæringer. Vi hørte fra Egedal forleden om et forældrepar med
+en stærkt handicappet søn, der er ved at dø, at de har fået skåret
+halvdelen af deres hjælp væk, så de ikke længere kan tage sig ordentligt af ham. Det er altså ikke noget, som jeg tror kommunalpolitikere gør for sjov; det sker, fordi de virkelig er hårdt presset økonomisk. Også det, KL har sendt ud, om, at man i kommunerne skal
+gennemgå hele børneområdet ud fra en økonomisk synsvinkel, er jo
+udtryk for, at de er hårdt presset økonomisk.
+Der vil jeg bare høre, om ministeren mener, det er kommunernes
+skyld, eller om det er regeringen, der lægger den økonomiske ramme, som gør, at det simpelt hen ikke kan hænge sammen.";Line Barfod
+100657;Time;;Kl. 14:31
+100697;title_name;":
+Ministeren.";Holger K. Nielsen
+100720;Time;;Kl. 14:31
+100760;title_name;":
+Fru Line Barfod.";Holger K. Nielsen
+100788;Time;;Kl. 14:29
+100806;name_party;":
+Jeg kan godt forstå, at ministeren forsøger at fralægge sig ethvert ansvar og sige, at regeringen intet har med det her at gøre, at det bare
+er kommunerne, der åbenbart af en eller anden grund synes, at man
+skal skære ned rundtomkring. Men det står jo klart – og det har vi
+også hørt tidligere fra den tidligere finansminister – at selve den
+økonomiske ramme ikke er noget, man forhandler med kommunerne, at det er et diktat fra regeringen, hvor mange penge der er til
+kommunerne. Det er det, kommunerne kan forhandle inden for, og
+de skal så sidde og prøve at få budgetterne til at hænge sammen. Og
+det er der, det nu lyder fra 90 pct. af kommunerne, at de er nødt til at
+skære, og det er jo altså også en række kommuner med Venstreborgmestre, der siger, at bunden simpelt hen er nået. Mange af dem bruger af kassebeholdningen i år, og så er der ikke flere penge.
+Men jeg kan forstå, ministeren mener, at det altid er nogle andres
+skyld, det er ikke ministerens skyld.";Line Barfod
+101787;Time;;Kl. 14:30
+101827;title_name;":
+Ministeren.";Holger K. Nielsen
+101850;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Jeg tager meget gerne et medansvar for de økonomiske rammer, som
+kommunerne tildeles under et. Og lad mig helt klart slå fast her, at
+jeg også mener, spørgeren tager fejl, for i forhold til budgettet for
+2009 er der altså i aftalen for 2010 afsat flere penge til service, hvil-
+
+Indenrigs- og socialministeren (Karen Ellemann):
+Som jeg svarede på det forrige spørgsmål, tager jeg hjertens gerne et
+medansvar. Jeg har og erkender at have et medansvar for økonomien
+til kommunerne, og der må jeg altså igen sige, at der aldrig har været
+brugt så mange penge på de store serviceområder, som der bruges i
+dag.
+Jeg er meget opmærksom på – og det ved jeg også at spørgeren
+er – at udgiftsvæksten på det specialiserede socialområde har været
+særlig stor. Der bruges simpelt hen markant flere midler i forhold til
+tidligere, og det kan jo være et udtryk for, at man har vanskeligheder
+i forhold til styringen. Men lad mig lige pointere, at KL's otte gyldne
+regler og initiativet omkring de 25 konkrete redskaber til, hvordan
+den enkelte kommune inden for gældende lovgivning kan styre og
+prioritere opgaverne, ikke alene skal ses som en sparemanøvre, absolut ikke; det handler om økonomisk styring, og lige præcis på det
+specialiserede socialområde handler det i høj grad også om fagligheden, og at der simpelt hen skal være balance i de ting.
+Vi kan tage udgangspunkt i antallet af børn, der er anbragt uden
+for hjemmet, hvor antallet af børn sådan set er nogenlunde stabilt,
+men vi ser simpelt hen bare en vækst i, hvor mange penge der bruges
+på det område, og det får i hvert fald mig til at sige, at man også skal
+have øje for, hvordan man anvender ressourcerne. Det tager jeg gerne et medansvar for. Det synes jeg også de fleste kommunalpolitikere gør ude i kommunerne, og det vil jeg appellere til at folketingsmedlemmerne generelt også gør.";Kl. 14:30
+103750;Time;;Kl. 14:33
+103790;title_name;":
+Tak for det. Spørgsmålet er afsluttet.
+
+24
+
+Onsdag den 7. oktober 2009 (S 2)
+
+Det næste spørgsmål er også stillet af fru Line Barfod til indenrigs- og socialministeren.
+
+så det har fulgt med den almindelige udvikling i samfundet, og de
+har slet ikke fået, så det har fulgt med udviklingen af behovet.";Holger K. Nielsen
+104103;Time;;Kl. 14:36
+104114;Time;"Spm. nr. S 2
+6) Til indenrigs- og socialministeren af:";Kl. 14:33
+104187;name_party;":
+Vil ministeren sikre, at der kommer en krisepakke til kommunerne?";Line Barfod
+104293;title_name;":
+Fru Line Barfod for oplæsning af spørgsmålet.";Holger K. Nielsen
+104350;Time;;Kl. 14:33
+104368;name_party;":
+Jeg har spurgt: Vil ministeren sikre, at der kommer en krisepakke til
+kommunerne?";Line Barfod
+104461;Time;;Kl. 14:33
+104501;title_name;":
+Ministeren.";Holger K. Nielsen
+104524;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Det er et af den slags spørgsmål, man kan svare ja eller nej til. Det
+har jeg sådan set også tænkt mig at gøre, og svaret er nej, for jeg mener ikke, at der er behov for en krisepakke til kommunerne. Det er jo
+simpelt hen begrundet i, at kommunerne allerede i dag i udstrakt
+grad afskærmes fra konjunkturafhængige udsving i udgifter og indtægter.
+Som nævnt i det foregående spørgsmål, indgår regeringen og KL
+hvert år en aftale om kommunernes økonomi og sikrer hermed fuld
+finansiering af de aftalte kommunale udgifter. De seneste års aftaler
+har indeholdt et niveauløft, som har gjort det muligt for kommunerne at videreføre og udbygge serviceniveauet. Og det gælder altså også for aftalen 2010, der sikrer, at kommunerne kan videreføre et højt
+serviceniveau i 2010. Desuden er der også ydet midler til et væsentligt øget anlægsniveau.";Kl. 14:33
+105421;Time;;Kl. 14:34
+105461;title_name;":
+Fru Line Barfod.";Holger K. Nielsen
+105489;Time;;Kl. 14:34
+105507;name_party;":
+Det er meget muligt, at ministeren synes, at bare der er 5 kr. mere
+nominelt, end der var året før, så forøges de penge, man har. Men
+når behovet samtidig stiger, når priser og lønninger stiger og der bliver flere og flere, der har behov for hjælp, er virkeligheden altså ude
+i kommunerne, at så må man skære ned. Når man f.eks. i Kolding
+skal fyre op mod 400 medarbejdere, går jeg ud fra, at det ikke er,
+fordi de synes, at det er sjovt at gøre det, og det samme gælder Favrskov Kommune, hvor man har været nødt til at tage 70 mio. kr. af
+kassen for at få tingene til at hænge sammen, i øvrigt med en Venstreborgmester. Og når en Venstreborgmester i Svendborg vælger at
+sætte skatten op for overhovedet at få det til at hænge sammen, og
+når flere andre kommuner har tømt kommunekassen fuldstændig og
+risikerer snart at komme så langt ned, at de kommer under administration af ministeren, så går jeg ud fra, at det ikke er, fordi de synes,
+at det er sjovt. Så er det faktisk, fordi de mener, at det er et kæmpe
+problem, hvis de ikke kan sikre, at der er børnehaver, vuggestuer,
+skoler osv. på et rimeligt niveau, og hvis de ikke kan sikre, at der er
+den nødvendige hjemmehjælp til de ældre.
+Det er der, vi er ude, nemlig at kommunerne er blevet udsultet
+igennem så mange år. De har fået en lille smule flere penge år for år,
+det gør vi jo alle sammen, når vores løn stiger, men de har ikke fået,";Line Barfod
+106944;title_name;":
+Ministeren.";Holger K. Nielsen
+106967;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Nu hørte jeg ikke noget konkret spørgsmål, men jeg må altså simpelt
+hen bare kraftigt opponere imod den påstand, som fru Line Barfod
+kommer med, altså at kommunerne bliver udsultet. Jeg er simpelt
+hen nødt til at smide nogle tal på bordet og igen understrege, at aftalen om kommunernes økonomi for 2010 altså sikrer, at kommunerne
+kan videreføre et højt serviceniveau i 2010, dels gives der med aftalen et generelt løft af serviceudgifterne på 500 mio. kr. – altså 0,5
+mia. kr. – dels løftes det specialiserede socialområde, som vi var inde på i det foregående spørgsmål, med 800 mio. kr. fra og med 2009.
+Så i forhold til budgetterne for 2009 løftes udgiftsniveauet samlet set
+med 1,3 mia. kr. Jeg har svært ved at genkende det som et minimalt,
+lillelillebitte løft.";Kl. 14:36
+107795;Time;;Kl. 14:37
+107835;title_name;":
+Fru Line Barfod.";Holger K. Nielsen
+107863;Time;;Kl. 14:37
+107881;name_party;":
+Mener ministeren så, at Venstreborgmesteren i Favrskov er uduelig,
+at Venstreborgmesteren i Svendborg er uduelig, at alle de andre
+borgmestre, som gør opmærksom på, at situationen er meget, meget
+alvorlig, og som har været nødt til at bringe deres kommuner meget
+tæt på at komme under administration, er uduelige borgmestre, der
+slet ikke har forstået, at de har penge nok, og som slet ikke kan se de
+penge, der åbenbart skulle være kommet fra ministeren, eller er der
+rent faktisk et problem?
+I forhold til bankerne var regeringen jo hurtig til at sende 100
+mia. kr. ud til bankdirektører og spekulanter, fordi man ikke ville risikere, at de kom til at miste noget af deres store lønninger og de udbytter, de plejede at have. Hvad er grunden til, at ministeren overhovedet ikke vil overveje, at der er brug for at sende penge ud til kommunerne, og at borgmestrene faktisk har ret i, at der mangler penge
+til skoler, til ældrepleje, til vuggestuer og børnehaver, penge til børn,
+så vi ikke risikerer, at en 8 år gammel dreng skal hentes med 3 timers varsel?";Line Barfod
+108950;Time;;Kl. 14:38
+108990;title_name;":
+Ministeren.";Holger K. Nielsen
+109013;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Til det genfremsatte spørgsmål om, hvorvidt kommunerne skal have
+en krisepakke, svarer jeg nej, fordi jeg simpelt hen fuldstændig klokkeklart kan sige, at kommunerne altså i udstrakt grad afskærmes fra
+konjunkturafhængige udsving i udgifter og indtægter. Så det er sådan set det klare og korte svar på det
+Dernæst vil jeg sige: Nej, jeg mener bestemt ikke, at Venstreborgmestre landet over er uduelige ledere, og jeg bliver nødt til at
+gentage, at kommunerne altså fuldt ud har fået økonomi til at løse
+deres velfærdsopgaver i 2010, hvad enten det drejer sig om skoler,
+daginstitutioner eller udsatte grupper. Jeg har altså stor tiltro til, at
+kommunalbestyrelserne kan løfte den her opgave, og at kommunerne under et er i stand til at overholde den indgåede aftale med regeringen.
+
+Onsdag den 7. oktober 2009 (S 3)
+
+Men når det så er sagt, er regeringen jo altså også opmærksom
+på, at der i nogle kommuner kan være behov for øgede finansieringsmuligheder. Af hensyn til de økonomisk trængte kommuner er der i
+økonomiaftalen for 2010, og nu ruller jeg igen ud med flere tal, fordi
+jeg sådan set synes, at det hører med til det samlede billede, er der
+yderligere taget to særlige initiativer: særtilskudspuljen til særlig
+vanskeligt stillede kommuner, som ekstraordinært er forhøjet med
+0,5 mia. kr., og så er der altså afsat en ramme på 0,5 mia. kr. til skattestigninger, sådan at et mindre antal kommuner kan foretage en
+målrettet justering af den kommunale skat.";Kl. 14:38
+110539;Time;;Kl. 14:39
+110579;title_name;":
+Fru Line Barfod.";Holger K. Nielsen
+110607;Time;"25
+
+Hvilke overvejelser gør ministeren sig om at stramme arbejdsmiljøreglerne i plastindustrien med mange hormonforstyrrende stoffer og
+organiske opløsningsmidler på baggrund af en undersøgelse fra SFI,
+der viser, at det er 20 pct. sværere for kvinder i denne branche at blive gravide end for andre kvinder?
+
+Skriftlig begrundelse
+Det må være en menneskeret, at arbejdsmiljøet ikke skal ødelægge
+den enkelte medarbejders mulighed for at få børn på almindelig vis.
+Det gælder både i plastbranchen og andre brancher.";Kl. 14:39
+111162;title_name;":
+Hr. Eigil Andersen for oplæsning af spørgsmålet, værsgo.";Holger K. Nielsen
+111230;Time;;Kl. 14:41
+111248;name_party;":
+Ministeren bliver altså nødt til at vælge: Enten har ministeren tillid
+til de mange borgmestre, herunder Venstreborgmestre, der siger, at
+det står rigtig, rigtig galt til, eller også har ministeren ikke tillid til
+dem og siger, at der er masser af penge. Man kan ikke sige begge
+dele på en gang. Man kan jo ikke både sige, at man har tillid til borgmestrene, og så sige, at det ikke passer, når de siger, at der mangler
+penge ude i kommunerne til den mest basale velfærd, og at de derfor
+har været nødt til at komme så langt ud, at de risikerer at komme under administration, fordi der snart ikke er flere penge i kassen.
+Ministeren må vælge: Er det borgmestrene, der har ansvaret og
+overhovedet ikke kan finde ud af det, eller er det regeringen, der ikke har sørget for, at der er penge nok til velfærd, men har prioriteret
+at bruge penge på bankerne og skattelettelser, der er galt på den?";Line Barfod
+112162;name_party;":
+Spørgsmålet lyder:
+Hvilke overvejelser gør ministeren sig om at stramme arbejdsmiljøreglerne i plastindustrien med mange hormonforstyrrende stoffer
+og organiske opløsningsmidler på baggrund af en undersøgelse fra
+Socialforskningsinstituttet, der viser, at det er 20 pct. sværere for
+kvinder i denne branche at blive gravide end for andre kvinder?";Eigil Andersen
+112520;Time;;Kl. 14:42
+112560;title_name;":
+Beskæftigelsesministeren.";Holger K. Nielsen
+112597;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Det valg er jo klokkeklart. Jeg mener ikke, at det er et valg om, at
+man enten har tillid, eller også har man ikke tillid. Selvfølgelig har
+jeg tillid, og jeg har tillid begrundet med, at vi præcis har skabt de
+økonomiske rammer for, at kommunerne under et kan leve op til de
+aftaler, der er indgået.
+Når jeg siger, at det også er vigtigt at få det fulde billede med, og
+derfor altså bruger ord på at fortælle om de yderligere puljer, så
+handler det jo om, at vi betragter hele danmarkskortet, ser på alle 98
+kommuner, ser på udgiftsniveauet osv. og indgår en økonomiaftale,
+som altså bare har været støt stigende. Så jeg har sådan set brugt min
+taletid på at sige, hvad der er grundlaget for den her fornuftige budgetlægning, som skal finde sted ude i kommunerne nu. Det grundlag
+har jeg et medansvar for. Det har jeg i allerhøjeste grad leveret, og
+nu skal kommunerne derude levere i deres budgetlægning, og det har
+jeg tillid til at de kan, fordi de sådan set har fået hele grundlaget for
+at kunne gøre det.";Kl. 14:42
+113701;title_name;":
+Det er naturligvis bekymrende, at en undersøgelse viser, at kvinder i
+plastbranchen hyppigere må søge hjælp mod ufrivillig barnløshed
+end andre. Det har været kendt længe, at der er farlige stoffer i plastbranchen. Derfor har vi også en lang række regler og krav til virksomheder inden for den branche.
+Det er ikke nye regler, der efter min mening er behov for. Jeg
+mener heller ikke, at der er grund til at stramme gældende regler på
+grund af undersøgelsen. Arbejdsmiljøreformen, som regeringen sammen med Socialdemokraterne, Dansk Folkeparti og De Radikale står
+bag, er med til at sætte fokus på arbejdsmiljøet i alle landets virksomheder, og det gælder også virksomheder i plastindustrien.
+I Arbejdstilsynets screening af virksomheder i plastindustrien,
+som er påbegyndt, efter at undersøgelsen er afsluttet i 2005, er der
+selvfølgelig fokus på de kemiske farer og risici. Hvis der er problemer med arbejdsmiljøet, får virksomheden et grundigt tilsyn af Arbejdstilsynet.
+Jeg forventer, at branchen tager undersøgelsen til sig og om nødvendigt sætter initiativer i gang. Jeg vil selvfølgelig fortsat have opmærksomhed på området, da det jo er uacceptabelt, hvis medarbejdere ikke har et sikkert og sundt arbejdsmiljø. For jeg er nemlig helt
+enig med hr. Eigil Andersen i, at et arbejdsmiljø ikke skal ødelægge
+den enkelte medarbejders mulighed for at få børn.";Inger Støjberg
+115075;Time;;Kl. 14:41
+115086;Time;;Kl. 14:43
+115097;Time;;Kl. 14:40
+115137;title_name;":
+Ministeren.";Holger K. Nielsen
+115160;Time;;Kl. 14:40
+115200;title_name;":
+Tak til ministeren. Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til beskæftigelsesministeren af hr.
+Eigil Andersen.";Holger K. Nielsen
+115340;Time;"Spm. nr. S 3
+7) Til beskæftigelsesministeren af:";Kl. 14:41
+115410;name_party;:;Eigil Andersen
+115451;title_name;":
+Hr. Eigil Andersen.";Holger K. Nielsen
+115482;Time;;Kl. 14:43
+115503;name_party;":
+Jeg er glad for, at ministeren er enig i det princip. Til gengæld er jeg
+meget skuffet over, at der ikke er nogen forslag til, hvad ministeren
+selv vil gøre f.eks. gennem Arbejdstilsynet.
+Hvis vi vender blikket et andet sted hen, kan man sige, at vi jo i
+virkeligheden som menneskehed desværre er i gang med at ødelægge den jordklode, vi bor på, som et godt sted at leve. I forbindelse
+
+26
+
+Onsdag den 7. oktober 2009 (S 4)
+
+med CO2-forureningen kan der ske det, at Bangladesh kan synke i
+havet på grund af stigende vandstand. Sahara bliver måske dobbelt
+så stor, og vi får millioner af flygtninge.
+Det, som er princippet her - og så er vi tilbage ved arbejdsmiljøet
+- er, at vi skal sørge for bæredygtighed, og at vi skal sørge for at respektere naturen. På den måde mener jeg, at det skal være en menneskeret, hvilket jeg kan forstå ministeren også er enig i, at ens arbejdsmiljø ikke skal ødelægge ens mulighed for at få børn.
+Jeg er derfor meget skuffet over, at ministeren ingen initiativer
+vil tage, men blot vil overlade det til arbejdsgivere og fagforbund.
+De kan naturligvis gøre visse ting, men når det her resultat er kommet frem, er det jo et meget, meget stort faretegn. Derfor vil jeg gerne gentage spørgsmålet: Hvad er årsagen til, at ministeren mener, at
+hun bare kan lægge armene over kors og lade som ingenting over for
+det her?";Eigil Andersen
+116863;Time;"Indenrigs- og socialministeren (Karen Ellemann):
+Jeg er bange for, at det er at gå for vidt at diskutere et forslag som
+det, hr. Eigil Andersen lige her rejser. Men jeg vil sige, at det jo altså
+er sådan, at Arbejdstilsynets screeninger af de virksomheder, som vi
+taler om, er påbegyndt efter den undersøgelse, som hr. Eigil Andersen henviser til. Så altså, dataindsamlingen til undersøgelsen, som
+der henvises til, er jo fra 1995-2005, og siden da har Arbejdstilsynet
+ændret praksis.
+Derfor må jeg sige, at jeg ikke ser grund til at tage yderligere initiativer dels på baggrund af det regelsæt, der allerede gælder, som
+jeg mener giver en god beskyttelse af medarbejderne, hvilket det også nødvendigvis skal gøre, dels fordi der jo er ændret tilsynspraksis
+fra Arbejdstilsynets side, siden den her undersøgelse blev lavet.";Kl. 14:47
+117698;Time;;Kl. 14:48
+117709;Time;;Kl. 14:45
+117749;title_name;":
+Hr. Eigil Andersen.";Holger K. Nielsen
+117810;title_name;":
+Ministeren.";Holger K. Nielsen
+117833;Time;;Kl. 14:45
+117844;Time;;Kl. 14:48
+117887;title_name;":
+Jeg synes egentlig, det er lidt skuffende, at hr. Eigil Andersen forsøger at fremstille det, som om jeg bare skulle lægge armene over kors.
+Faktisk tværtimod. Jeg er jo helt enig i, at det selvfølgelig er helt
+nødvendigt, at arbejdsmiljøet er i orden. Derfor er det jo også sådan,
+at plastindustrien allerede i dag skal leve op til en række krav til arbejdsmiljøet. Arbejdsgiveren har f.eks. pligt til at undersøge, om det
+er muligt at erstatte et farligt stof med et mindre farligt stof, så medarbejdernes påvirkning af farlige stoffer er begrænset mest muligt.
+Det er også sådan, at arbejdsgiveren skal udarbejde en særlig kemisk
+arbejdspladsvurdering, bl.a. når der arbejdes med farlige stoffer og
+materialer. Det er også sådan, at arbejdsgiveren har pligt til at instruere sine medarbejdere i brugen af kemiske stoffer og materialer.
+Så det er sådan, at der allerede i dag også gælder en lang række
+regler for plastbranchen, og det er selvfølgelig helt afgørende, at vi
+har de regler, der er der i dag.";Inger Støjberg
+118916;name_party;":
+Den tilsynspraksis, som er lavet, er jo fuldstændig utilstrækkelig til
+at belyse det her problem. Det her er jo et meget dybtgående problem, som kræver stor omhyggelighed med hensyn til løsninger. Der
+er det jo ikke tilstrækkeligt bare at sige, at vi besøger alle landets
+virksomheder. Det er selvfølgelig godt nok, men det er da ikke et tilstrækkeligt svar på det her meget specifikke spørgsmål, så jeg må
+fastholde, at det simpelt hen er for dårligt, at ministeren ikke vil gøre
+noget mere.
+Men jeg vil så stille et andet spørgsmål i tilknytning til det her.
+Der vil jo være en række andre brancher, hvor der også kan være
+samme fare både for kvinder og for mænd med hensyn til nedsat evne eller ingen evne til at få børn på grund af arbejdsmiljøet. Har ministeren taget initiativer til at få kortlagt, hvilke brancher det drejer
+sig om? Har ministeren i det hele taget på det her område nogen initiativer på vej?";Eigil Andersen
+119843;Time;;Kl. 14:49
+119854;Time;;Kl. 14:46
+119894;title_name;":
+Ministeren.";Holger K. Nielsen
+119947;title_name;":
+Hr. Eigil Andersen.";Holger K. Nielsen
+119978;Time;;Kl. 14:46
+119989;Time;;Kl. 14:49
+120010;name_party;":
+Vi kan jo konstatere, at de regler ikke er tilstrækkelige. Altså, undersøgelsen belyser jo netop, at der er et meget stort problem med hensyn til kvinders ufrivillige barnløshed inden for plastindustrien, og så
+nytter det ikke noget bare at remse op, hvilke regler der er gældende.
+Sagen viser jo med lysende klarhed, at de regler er utilstrækkelige,
+og jeg mener, at der er stort behov for at se på de grænseværdier og
+de stoffer, som man bliver udsat for inden for den her branche, og at
+det bør ministeren gøre. Det forstår jeg så at ministeren ikke vil.
+Så vil jeg spørge om noget andet. Vil ministeren sige ja til, at for
+de kvinder, som arbejder på at blive gravide og ønsker at få børn, vil
+man lave en ordning, hvorefter de så kan få lov til at være væk fra
+arbejdet – i det mindste på dagpenge og egentlig helst med fuld løn –
+i den periode, hvor de forsøger at blive gravide?
+
+Indenrigs- og socialministeren (Karen Ellemann):
+Det er selvfølgelig sådan, at vi jo på baggrund af Arbejdstilsynets
+besøg får et godt datagrundlag, og vi får i virkeligheden også et godt
+overblik over de forskellige brancher, så derudover er der ikke aktuelt taget initiativer over for f.eks. plastbranchen eller andre brancher.
+Men jeg vil bare understrege, at Arbejdstilsynets praksis netop omkring tilsyn på virksomheder jo altså er ændret, siden den undersøgelse, som hele det her spørgsmål har som baggrund, er lavet. Derfor
+mener jeg, at de regler, vi i dag har for virksomhederne, og deres egne forpligtelser, som bestemt ikke er små og heller ikke skal være
+det, er gode nok. Også på baggrund af Arbejdstilsynets tilsynsbesøg
+mener jeg, at vi for nuværende har et godt overblik.";Eigil Andersen
+121697;Time;;Kl. 14:47
+121737;title_name;":
+Ministeren.";Holger K. Nielsen
+121761;Time;;Kl. 14:50
+121801;title_name;":
+Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til integrationsministeren af fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+121928;Time;"Spm. nr. S 4
+8) Til integrationsministeren af:";Kl. 14:50
+122005;name_party;":
+
+Onsdag den 7. oktober 2009 (S 4)
+
+Hvad er ministerens holdning til, at ministeriet i maj oversendte en
+ufuldstændig version af hjemsendelsesaftalen mellem Irak og Danmark til Folketinget og dermed tilbageholdt vigtig information for
+Folketinget og offentligheden?
+
+27
+
+tinget er blevet korrekt informeret i denne sag? Det kan man svare ja
+eller nej til.";Johanne Schmidt-Nielsen
+122372;Time;;Kl. 14:53
+122412;title_name;":
+Integrationsministeren.";Holger K. Nielsen
+122477;title_name;":
+Fru Johanne Schmidt-Nielsen for oplæsning af spørgsmålet.";Holger K. Nielsen
+122547;Time;;Kl. 14:53
+122557;Time;;Kl. 14:50
+122587;name_party;":
+Hvad er ministerens holdning til, at ministeriet i maj oversendte en
+ufuldstændig version af hjemsendelsesaftalen mellem Irak og Danmark til Folketinget og dermed tilbageholdt vigtig information for
+Folketinget og offentligheden?";Johanne Schmidt-Nielsen
+122828;Time;;Kl. 14:50
+122868;title_name;":
+Integrationsministeren.";Holger K. Nielsen
+122903;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jeg kan, som en gammel statsminister sagde, sige, at spørgsmålet er
+forkert stillet. Det, jeg gjorde i maj måned, var, at jeg underrettede
+Folketinget om, at den opkvalificeringsordning, som havde været
+gældende, ophørte, lige så snart vi fik en hjemsendelsesaftale med
+Irak. Det var det, der var underretningen, og det kan man jo se i bilaget. Og så vedlagde jeg underretningen om ophøret af aftalen. Men
+det var ophøret, der var det primære; det var det, jeg ønskede at underrette Folketinget om.
+Den slags aftaler, som der er tale om med Irak, offentliggøres i
+Lovtidende C, og det er den blevet. Så det var sådan set overhovedet
+ikke min intention på det tidspunkt at underrette Folketinget selvstændigt om aftalen, men alene at vedlægge den for at dokumentere,
+at der nu altså var en aftale. Det er det, det drejer sig om. Sådan er
+det, og sådan var det også, sidste gang vi indgik en aftale med Nordirak.";Kl. 14:50
+123872;Time;;Kl. 14:51
+123912;title_name;":
+Fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+123952;Time;;Kl. 14:51
+123982;name_party;":
+Det er interessant, at der kommer nye svar, alt efter hvem man spørger, og hvornår man spørger. Det her er en meget, meget alvorlig
+sag, og hvis vi ligesom skal ridse op, handler det om, at ministeren i
+maj oversender en aftale til Folketinget, som samtidig offentliggøres
+på ministeriets hjemmeside, og som jo præsenteres som den fuldstændige aftale. Altså, vi har i oppositionen absolut ingen grund til at
+tro, at det ikke skulle være den fuldstændige aftale, der er indgået
+med Irak. Ved et tilfælde får Enhedslisten så oversendt de fire siders
+bilag, som har været hemmeligholdt indtil da, som har været tilbageholdt for Folketinget, fordi vi beder om at få aftalen oversendt i underskrevet version. Det er så først den 17. september, at vi modtager
+de ekstra fire sider. Man undlader altså at overlevere cirka halvdelen
+af aftalen.
+Ministeren siger så, at den er blevet offentliggjort i Lovtidende.
+For det første vil jeg sige til ministeren, at vi regner med, at den aftale, ministeren sender til os, er den fuldstændige. For det andet er det
+altså tre måneder efter aftalens indgåelse, at den bliver offentliggjort
+i Lovtidende.
+Jeg vil gerne spørge ministeren en gang til – det er et meget enkelt spørgsmål, som jeg sådan set mener at man kan svare ja eller nej
+til: Mener ministeren virkelig, at det er acceptabelt, at Folketinget
+kun får en del af aftalen? Altså, mener ministeren virkelig, at Folke-
+
+Integrationsministeren (Birthe Rønn Hornbech):
+Jeg har overinformeret Folketinget. Jeg har underrettet Folketinget
+om en opkvalificeringsaftale, der var indgået, og hvor det af lovforslagets bemærkninger fremgik, at den skulle ophæves, når der var
+indgået en aftale om tvangstilbagesendelse. Det var det, jeg ønskede
+at underrette Folketinget om, resten ønskede jeg at have i Lovtidende. Jeg kunne da udmærket have sendt det hele, og resultatet er det
+samme: Vi har fået en aftale om, at vi kan sende tilbage.
+Jeg accepterer da fuldt ud, at Enhedslisten har en helt anden politik, og når man ikke kan komme igennem og ikke tør fremsætte lovforslag om særlov og alt det der, jamen så prøver man på alle mulige
+måder. Nu tror jeg at jeg har svaret på det hundrede gange, og jeg
+kan blive ved med at finde nye begrundelser. Altså, der er intet at
+komme efter, Folketinget har fået de oplysninger, det skal have. Aftalen fungerer, og ingen er overhovedet blev misinformeret i den
+sag. Sådan er det.
+Men husk lige, at det, som underretningen gik på, var noget ganske andet end den aftale. Den var sendt med som et bilag, men det
+skal jeg da nok lade være at gøre en anden gang, når man opfører sig
+på den måde.";Johanne Schmidt-Nielsen
+126611;Time;;Kl. 14:54
+126651;title_name;":
+Fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+126691;Time;;Kl. 14:54
+126721;name_party;":
+Skal jeg forstå ministerens svar sådan, at ministeren ikke ønskede at
+vise Folketinget den samlede aftale? Altså, ministeren siger, at det
+bare var en underretning osv. Skal jeg forstå ministerens svar sådan,
+at ministeren efter indgåelsen af aftalen ikke ønskede, at vi som folketingsmedlemmer og i øvrigt den brede offentlighed kunne få lov
+til at se den færdige aftale?
+Så må jeg sige til det der med, at Enhedslisten har en anden politik end ministeren, at det er fuldstændig korrekt. I Enhedslisten har
+vi en anden politik end regeringen, men det her handler om, at vi ikke har fået de informationer, vi har krav på som folketingsmedlemmer. Det handler om, at vi er blevet misinformeret, og det gør det
+meget, meget svært for os at følge med i og kontrollere regeringens
+gøren og laden, og det er sådan set en af de opgaver, vi har som folketingsmedlemmer.";Johanne Schmidt-Nielsen
+127594;Time;;Kl. 14:55
+127634;title_name;":
+Ministeren.";Holger K. Nielsen
+127657;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Svaret er det samme hver gang: Folketinget har fået de oplysninger,
+Folketinget har krav på. Havde man spurgt om det hele på en gang,
+havde man fået det. Havde jeg vidst, at der var blevet så meget
+vrøvl, havde jeg slet ikke sendt det med; så havde jeg bare underrettet Folketinget om, at vi havde droppet opkvalificeringsaftalen. Det
+er blevet offentliggjort i Lovtidende, og det tager nogen tid at få det
+oversat og alt det der, men det er blevet offentliggjort, sådan som det
+skal efter reglerne, og sådan som vi plejer og Udenrigsministeriet
+plejer.
+
+28
+
+Onsdag den 7. oktober 2009 (S 4)
+
+Altså, der er intet at komme efter for fru Johanne Schmidt-Nielsen, der nu har prøvet med, jeg ved ikke hvor mange spørgsmål, der
+totalt ligner hinanden.";Kl. 14:55
+128463;Time;;Kl. 14:55
+128503;title_name;":
+Fru Line Barfod som medspørger.";Holger K. Nielsen
+128546;Time;;Kl. 14:55
+128564;name_party;":
+Det er muligt, at ministeren mener, at bare man siger, at der intet er
+at komme efter, eller at der ikke er fejet noget ind under gulvtæppet,
+så forsvinder en sag. Så nemt er det altså ikke.
+Det plejer at være sådan i forholdet mellem Folketing og regering, at man kan regne med, at de informationer, man får fra en minister, er fyldestgørende. Ministeren har selv som folketingsmedlem
+været med til at fastlægge, også i beretninger fra Folketinget, at det
+er sådan, det skal være – at man kan regne med, at man får fyldestgørende information fra en minister. Hvis ikke man gør det, skal ministeren gøre opmærksom på, at informationen ikke er fyldestgørende.
+Ministeren kunne have ladet være med at sende aftalen, men bare
+oplyst, at der var indgået en aftale. Eller ministeren kunne have
+sendt den halve aftale med, som ministeren gjorde, men så oplyst, at
+der manglede noget. Her vælger ministeren kun at sende halvdelen
+af aftalen og ikke oplyse, at der mangler noget. Hvad var begrundelsen for det?
+
+Hvis ministeren bare havde underrettet om, at der var kommet en
+aftale, var der selvfølgelig blevet stillet et spørgsmål, og man havde
+bedt om at få aftalen. Mener ministeren så, at ministeren kunne nøjes
+med at sende halvdelen af aftalen og ikke gøre opmærksom på, at
+der manglede noget? Det har jo været afgørende, at vi ikke har fået
+den halvdel af aftalen før, fordi vi så ikke har vidst, at regeringen
+havde indgået aftale med Irak om, at man ville fortsætte med at hjælpe dem, der vendte frivilligt hjem – en aftale, som man brød, dagen
+efter at den var indgået.
+Ministeren har som minister en forpligtelse til at give fyldestgørende svar og underretning til Folketinget. Er ministeren enig i, at
+man som minister har pligt til at give fyldestgørende svar?";Line Barfod
+130342;Time;;Kl. 14:58
+130382;title_name;":
+Ministeren.";Holger K. Nielsen
+130405;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Her har jeg overinformeret, og det beklager jeg, men jeg er glad for,
+at fru Line Barfod indrømmer, at det havde jeg slet ikke behøvet.
+Men i øvrigt blev det bilag, som angår en fremgangsmåde, og
+som ikke har nogen betydning for indholdet og for aftalen, sendt
+over, da Folketinget bad om det. Så med hensyn til, hvad jeg ville
+have gjort, hvis man havde bedt om det: Jamen det bad man jo om,
+og så fik man det.";Kl. 14:58
+130875;Time;;Kl. 14:58
+130886;Time;;Kl. 14:56
+130926;title_name;":
+Fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+130996;title_name;":
+Ministeren.";Holger K. Nielsen
+131020;Time;;Kl. 14:58
+131030;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jeg er glad for, at fru Line Barfod siger, at jeg ikke havde behøvet at
+sende aftalen. Det skal jeg huske en anden gang i lignende sager.
+Det er jo det rene – undskyld, jeg siger det – nonsens, at der skulle være skjult noget. Altså, aftalen er blevet offentliggjort, vi sendte
+bilaget, så snart der blev bedt om det, og det ændrer jo ikke noget
+som helst. Den aftale, der blev indgået i maj, har fungeret. Den har
+fungeret med Irak, og den har fungeret på fuldkommen samme måde
+som dengang, vi droppede opkvalificeringsordningen, da det drejede
+sig om Nordirak. Der er ikke noget mystik i det.
+Jeg kan ikke huske, om Enhedslisten overhovedet interesserede
+sig for det, da vi sidste gang fik en aftale – det er ikke så længe siden, det er også i min ministertid. Jeg kan slet ikke huske, at man
+udtalte sig om det. Nej, det, man ønsker, er jo en særlov, for at de
+afviste asylsøgere skal have opholdstilladelse, men det tør man ikke
+komme med. Det er det, man prøver på alle mulige måder, fra alle
+mulige sider. Det her kan jo ikke føre til noget. Aftalen er offentliggjort, den fungerer med Irak. Færdig.";Kl. 14:56
+132194;Time;;Kl. 14:57
+132234;title_name;":
+Fru Line Barfod.";Holger K. Nielsen
+132282;name_party;":
+Nu var det jo ikke helt ligegyldigt indhold, der gemte sig i de der fire
+sider. For af de fire sider kunne vi jo altså forstå, at man skulle fortsætte ordningen med økonomisk støtte – en ordning, som regeringen
+valgte at ophæve, dagen efter at aftalen var indgået. Så det er ikke
+sådan tilfældige fire sider, man valgte at undlade at oversende.
+Jeg kunne godt tænke mig at spørge ministeren, om ministeren
+kan komme med bare én god grund til, at vi i oppositionen skulle have bedt om at få oversendt aftalen, én god grund til, at vi på nogen
+måde skulle kunne forestille os, at den aftale, vi havde fået oversendt, den aftale, der lå på Integrationsministeriets hjemmeside, ikke
+skulle være den fuldstændige aftale. Hvad skulle dog have fået os til
+at tænke den tanke, at ministeren, når ministeren sender aftalen, så
+undlader de fire sider, hvor der gemmer sig et aftalebrud?
+Til sidst må jeg bare konstatere, at det altså åbenbart ikke kun er i
+Forsvarsministeriet, man har problemer med de demokratiske spilleregler. Jeg kan forstå, at det også gælder i Integrationsministeriet og
+for integrationsministeren. Jeg vil spørge ministeren igen, og det er
+så mit spørgsmål nummer to i den her omgang: Er ministeren fortsat
+sikker på, at der ikke er demokratiske problemer i den her sag? Kan
+ministeren fuldstændig afvise, at der ikke skulle være demokratiske
+problemer i, at man undlader at oversende næsten halvdelen af en
+meget, meget afgørende politisk aftale?";Johanne Schmidt-Nielsen
+133756;Time;;Kl. 14:57
+133774;name_party;":
+Det er muligt, at ministeren ikke mener, der er nogen problemer. Det
+var der jo også en tidligere regering, der blev ved med at sige: Der er
+ikke fejet noget ind under gulvtæppet, og der er ikke nogen problemer med hensyn til tamilsagen. Den holdning kan man selvfølgelig
+godt have, så man bare, når man har flertallet, kan gøre, hvad der
+passer en. Men det er bare ikke det, der er forholdet mellem regering
+og Folketing i et demokrati.";Line Barfod
+134224;Time;;Kl. 15:00
+134264;title_name;":
+Ministeren.";Holger K. Nielsen
+134287;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Fru Johanne Schmidt-Nielsen beder mig kommentere, hvad jeg tror
+fører til hendes udtalelser og tanker. Det er et meget fristende tilbud,
+men jeg vil ikke i strid med anden lovgivning, så det vil jeg afstå fra.
+
+Onsdag den 7. oktober 2009 (S 5)
+
+Men vi er komplet uenige om, hvordan indholdet af det bilag,
+som angår noget om proces, skal forstås. Og jeg kan bare sige, at det
+referat, som fru Johanne Schmidt-Nielsen giver, er tordnende forkert. Aftalen fungerer også fortsat, og vi har sendt hjem efter aftalen.";Kl. 15:00
+134859;Time;;Kl. 15:00
+134899;title_name;":
+Tak til ministeren. Spørgsmålet er afsluttet.
+Det næste spørgsmål er også stillet til integrationsministeren af
+fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+135051;Time;"Spm. nr. S 5
+9) Til integrationsministeren af:";Kl. 15:00
+135128;name_party;":
+Hvad er ministerens holdning til, at regeringen kun én dag efter at
+have indgået en hjemsendelsesaftale med Irak, hvor Danmark forpligter sig til at fortsætte den økonomiske og uddannelsesmæssige
+støtte til de irakere, der vælger at rejse frivilligt hjem, i strid med aftalens ord ophører med at yde den lovede støtte til frivillig hjemrejse?";Johanne Schmidt-Nielsen
+135511;title_name;":
+Fru Johanne Schmidt-Nielsen for oplæsning af spørgsmålet.";Holger K. Nielsen
+135580;Time;;Kl. 15:00
+135610;name_party;":
+Hvad er ministerens holdning til, at regeringen kun én dag efter at
+have indgået en hjemsendelsesaftale med Irak, hvor Danmark forpligter sig til at fortsætte den økonomiske og uddannelsesmæssige
+støtte til de irakere, der vælger at rejse frivilligt hjem, i strid med aftalens ord ophører med at yde den lovede støtte til frivillig hjemrejse?";Johanne Schmidt-Nielsen
+135964;Time;;Kl. 15:01
+136004;title_name;":
+Integrationsministeren.";Holger K. Nielsen
+136039;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Hvad er ministerens holdning? Nu er det altså mig, der har truffet
+beslutningen, og det har jeg gjort, fordi det fremgår af lovforslagets
+bemærkninger, at når der kommer en aftale om tvangshjemsendelse,
+så ophører den ordning. Det er man i asylcentrene blevet underrettet
+om ved møder og gennem forskellige pjecer, dengang aftalen blev
+indgået med Dansk Folkeparti. Det har også været tilgængeligt på
+hjemmesiden, at kommer der en aftale, så slutter festen; så inddrages
+den ordning, der er tale om. Så det har Folketinget vidst, da man
+vedtog loven.";Kl. 15:01
+136648;Time;"29
+
+misk og uddannelsesmæssig støtte, sådan set er ligegyldig, for lige
+så snart underskriften er sat på papiret, gælder den ikke længere?";Kl. 15:01
+136798;Time;;Kl. 15:02
+136838;title_name;":
+Ministeren.";Holger K. Nielsen
+136861;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Den opkvalificeringsaftale er overhovedet ikke ligegyldig. Tværtimod har den været et meget vigtigt argument for netop at få Irak til
+at underskrive, fordi man netop med den aftale har kunnet påvise
+over for Irak, at vi har gjort alt ad frivillighedens vej. Vi har tilbudt
+hjemsendelsesydelser, også til gavn for Irak. Det er da et meget vigtigt argument, der skal indgå, når man forhandler. Det siger da sig
+selv.";Kl. 15:02
+137334;Time;;Kl. 15:03
+137374;title_name;":
+Fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+137414;Time;;Kl. 15:03
+137444;name_party;":
+Så kunne jeg godt tænke mig at spørge ministeren, hvorfor det står i
+aftalen. For aftalen er jo fremadrettet; aftalen handler om, hvordan
+hjemsendelserne skal foregå, og en del af den fremadrettede aftale er
+altså, at hvis et menneske rejser frivilligt, så skal der følge en økonomisk og uddannelsesmæssig støtte med. Hvorfor skulle man dog beskrive det i en fremadrettet hjemsendelsesaftale, som Danmark og
+Irak sætter underskrifter på, hvis det ikke længere er relevant og ikke
+længere gælder?
+Så skulle jeg måske lige kommentere bemærkningen før – den
+om ikke at bryde anden lovgivning ved at gætte på, hvad der foregår
+inde i mit hoved. Nej, jeg har også svært ved at forstå, hvad der foregår i ministerens hoved. Men det har sådan set ikke noget at gøre
+med det spørgsmål, jeg stillede. Spørgsmålet var nemlig, hvad der
+skulle have fået os i oppositionen til at tro, at det ikke var den fuldstændige aftale, vi fik oversendt. Men spørgsmålet i den her omgang
+er: Hvad er forklaringen på, at man lader det indgå i aftalen, hvis det
+ikke længere eksisterer?";Johanne Schmidt-Nielsen
+138516;Time;;Kl. 15:04
+138556;title_name;":
+Integrationsministeren.";Holger K. Nielsen
+138591;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Ja, nu kom spørgeren til at spole tilbage. Men med hensyn til det nuværende spørgsmål om, hvorfor det står i aftalen, kan jeg henvise til
+det, jeg lige sagde for et øjeblik siden: Det er meget vigtigt i argumentationen.";Kl. 15:04
+138899;title_name;":
+Fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+138940;Time;;Kl. 15:04
+138950;Time;;Kl. 15:01
+138980;name_party;":
+Én ting er, hvad Folketinget har vidst, noget andet er, hvad den irakiske regering har vidst. For hvorfor skulle man dog bruge en hel side
+i en hjemsendelsesaftale indgået mellem den danske og den irakiske
+regering på at beskrive den ordning, der går ud på, at hvis et menneske rejser frivilligt hjem, er der altså en økonomisk og uddannelsesmæssig støtte, der følger med, hvis man dagen efter vælger, at den
+ordning skal afskaffes? Blev de irakiske myndigheder gjort fuldstændig klart opmærksomme på, at det var tilfældet? Mener ministeren, at den irakiske regering og de irakiske myndigheder var klar
+over, at den side i aftalen, der handler om, at der skal tildeles økono-";Johanne Schmidt-Nielsen
+139697;title_name;":
+Fru Line Barfod som medspørger.";Holger K. Nielsen
+139740;Time;;Kl. 15:04
+139758;name_party;":
+Det, der står i den del af aftalen, vi nu flere måneder efter har fået –
+som ministeren ikke ville sende til Folketinget, ikke ville offentliggøre til at starte med – er, at det er en støtte, der fortsætter. Den danske regering forpligter sig til at give den her støtte til de irakere, der
+rejser frivilligt hjem. Hvis det er, som ministeren siger, at den danske regering klart havde en intention om, at den skulle falde væk
+dagen efter, at aftalen var indgået, som der står i bemærkningerne til
+
+30
+
+Onsdag den 7. oktober 2009 (S 7)";Line Barfod
+140305;Time;"lovforslaget, hvorfor skriver man så ind i aftalen, at den støtte vil
+fortsætte?";Kl. 15:07
+140397;Time;;Kl. 15:05
+140437;title_name;":
+Integrationsministeren.";Holger K. Nielsen
+140472;Time;;Kl. 15:07
+140512;title_name;":
+Integrationsministeren.";Holger K. Nielsen
+140547;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jeg vil bede fru Line Barfod lige læse op, hvad der står. (Line Barfod: Jeg har ikke aftalen med). Nej, det er jo nok klogt.";Kl. 15:05
+140730;Time;;Kl. 15:05
+140770;title_name;":
+Integrationsministeren besvarer spørgsmålet nu.
+
+Integrationsministeren (Birthe Rønn Hornbech):
+Jeg har svaret klart på, hvorfor jeg mener, det er vigtigt, at det stod i
+bilaget.";Holger K. Nielsen
+140960;Time;;Kl. 15:07
+141000;title_name;":
+Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til videnskabsministeren af hr.
+Benny Engelbrecht.";Holger K. Nielsen
+141119;Time;;Kl. 15:07
+141130;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Ja, men jeg beder om at få det læst op, for jeg kan ikke tage stilling
+til noget hypotetisk. Jeg må bede om at få læst op, hvad der står.";Kl. 15:05
+141326;Time;;Kl. 15:05
+141366;title_name;":
+Vi har fået svaret her. Fru Line Barfod for næste spørgsmål.";Holger K. Nielsen
+141438;Time;"Spm. nr. S 7
+10) Til videnskabsministeren af:";Kl. 15:05
+141507;name_party;":
+Finder ministeren, at det er acceptabelt, at danske teleselskaber overtakserer teletjenester som nummeroplysningen 118?";Benny Engelbrecht
+141667;title_name;":
+Hr. Benny Engelbrecht for oplæsning af spørgsmålet.";Holger K. Nielsen
+141730;Time;;Kl. 15:07
+141748;name_party;":
+Mener ministeren, at den irakiske regering var klar over, at støtten
+ville ophøre, samtidig med at aftalen blev indgået?";Line Barfod
+141880;Time;;Kl. 15:05
+141903;name_party;":
+Finder ministeren, at det er acceptabelt, at danske teleselskaber overtakserer teletjenester som nummeroplysningen 118?";Benny Engelbrecht
+142034;Time;;Kl. 15:07
+142074;title_name;":
+Integrationsministeren for en rigtig besvarelse.";Holger K. Nielsen
+142134;Time;;Kl. 15:05
+142174;title_name;":
+Ministeren.";Holger K. Nielsen
+142197;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Nu synes jeg, man skal gå hjem og læse, hvad der står, ikke i aftalen,
+men i bilaget. Det, der står, står tydeligt, og det må en jurist kunne
+læse – at det er den gældende ret, man beskriver.";Kl. 15:07
+142447;Time;;Kl. 15:06
+142487;title_name;":
+Fru Johanne Schmidt-Nielsen.";Holger K. Nielsen
+142527;Time;;Kl. 15:06
+142557;name_party;":
+Vi kan jo endnu en gang konkludere – og det er sådan set lidt tragisk, det er en ærgerlig konklusion at komme frem til – at det der
+med mangel på demokratisk sindelag ikke begrænser sig til at foregå
+i Forsvarsministeriet; det er desværre noget, som også gør sig gældende på mange andre områder, ikke mindst på Integrationsministeriets og integrationsministerens område. For at man hemmeligholder
+en aftale, er én ting; det er et stort, stort demokratisk problem, og det
+umuliggør vores arbejde med at kontrollere bl.a. ministerens gøren
+og laden. En anden ting er, når det så viser sig, at det, der er indeholdt i den hemmeligholdte del af aftalen, er noget, man er løbet fra
+dagen efter, at aftalen er underskrevet; så bliver problemet jo altså
+endnu større.
+Jeg vil endnu en gang spørge ministeren: Mener ministeren virkelig, at det giver mening at beskrive noget, som foregik engang, i
+en aftale? Kan ministeren ikke se, at når man i en aftale beskriver, at
+der ved frivillig hjemrejse skal ydes økonomisk støtte, så er det selvfølgelig noget, der gælder fremadrettet?
+
+Videnskabsministeren (Helge Sander):
+Nej, jeg synes ikke, det er rimeligt, at der hos Telias kunder opkræves en markant højere pris for opkald til 118, end det er tilfældet hos
+de andre selskaber. Jeg har fået oplyst fra IT- og Telestyrelsen, at der
+kun er et selskab, der tager en markant højere pris for opkald til 118,
+nemlig Telia. Men der er fri konkurrence på telemarkedet. Det er således de enkelte selskaber, der selv bestemmer, hvilke takster der
+gælder for deres egne kunder. Den fri konkurrence betyder imidlertid, at kunderne frit kan skifte selskab. Kunderne kan derfor vælge et
+andet selskab med lavere priser, hvis det er det, de ønsker.";Johanne Schmidt-Nielsen
+144295;Time;;Kl. 15:08
+144335;title_name;":
+Hr. Benny Engelbrecht.";Holger K. Nielsen
+144369;Time;;Kl. 15:08
+144392;name_party;":
+Der er jo ikke nogen tvivl om, at hvis man kan gennemskue, hvad
+det er for nogle priser, der rent faktisk er i telebranchen, så er det jo
+ikke ukorrekt, at det frie valg er der, og at man kan vælge det teleselskab, man gerne vil have. Men vi må også konkludere, at niveauet i
+lige præcis telebranchen jo næsten ikke kan ligge lavere, når vi taler
+om den tillid, der er i samfundet, i befolkningen.
+Det skyldes jo i høj grad – må vi også konstatere – at det stort set
+er umuligt at gennemskue, præcis hvad det er for nogle priser, der
+gør sig gældende. Der er rigtig mange teleselskaber, herunder det teleselskab, som ministeren også henviser til, nemlig Telia, som gør
+meget ud af at få det til at se ud, som om det er forholdsvis enkelt
+med nogle meget enkle tarifplaner at finde ud af, hvad det rent faktisk koster for forbrugeren. Men når man så dykker ned i gebyrerne
+
+Onsdag den 7. oktober 2009 (S 10)
+
+– og dem ved jeg ministeren også har været meget langt nede i, og
+det er jeg sådan set glad for at ministeren har været – så begynder
+det at blive ret uoverskueligt, og det viser netop eksemplet med
+overtaksering af opkald til 118.
+Går man ind og slår op på Telias hjemmeside – jeg har ikke været der i dag, men jeg har været der for nylig – er der ikke nogen oplysninger om overtaksering og hvad priserne er. Så er der ikke brug
+for noget andet og noget mere end bare at sige, at der er fri prisdannelse, der er fri leg derude, og så må teleselskaberne i øvrigt gøre,
+hvad de vil? Kan man ikke som absolut minimum sikre nogle fuldstændig klare rammer og regler for, hvad selskaberne skal oplyse
+om?";Benny Engelbrecht
+146012;Time;31;Kl. 15:10
+146027;Time;;Kl. 15:12
+146050;name_party;":
+Jo, men vi taler jo altså om, at første gang den store, brede offentlighed blev opmærksom på den her redegørelse, som skulle udarbejdes,
+var den 3. september i Berlingske Business, og jeg noterede mig det
+som sagt med stor glæde. Men det ændrer jo ikke på, at den 3. september dog immer væk er over en måned siden, så noget må der da
+være kommet ud af det. Er det virkelig sådan, at det her er noget, der
+skal tage så lang tid, altså at nå frem til nogle konklusioner? Jeg går
+da ud fra, at ministeren også har sendt styrelsen i byen med et klart
+signal om, at det ikke er acceptabelt, at man ikke har en overskuelighed, og at det ikke er nemt at overskue, hvordan de enkelte gebyrer
+ligger fordelt.";Benny Engelbrecht
+146761;Time;;Kl. 15:12
+146801;title_name;":
+Ministeren.";Holger K. Nielsen
+146824;Time;"Videnskabsministeren (Helge Sander):
+Som spørgeren også har kvitteret for, har jeg dykket ned i den her
+problemstilling, for der har været eksempler på, at det er temmelig
+uoverskueligt. Netop for at få et overblik over anvendelsen af gebyrer, har jeg bedt IT- og Telestyrelsen om at se nærmere på sagen, så
+det er det svar, som jeg kan give i dag.";Kl. 15:10
+147184;Time;;Kl. 15:10
+147224;title_name;":
+Hr. Benny Engelbrecht.";Holger K. Nielsen
+147258;Time;;Kl. 15:10
+147298;title_name;":
+Ministeren.";Holger K. Nielsen
+147321;Time;"Videnskabsministeren (Helge Sander):
+Jeg synes også, det er vigtigt, men må dog tilstå, at det ikke er en af
+de sager, som jeg har bedt om hastebehandling af, og det har jeg ikke gjort, fordi jeg er meget, meget sikker på, at det er noget, der allerede har stor opmærksomhed i teleselskabernes egen kreds. Og jeg
+må jo altså igen fastslå, at der er fri konkurrence på telemarkedet, og
+at vi har sikret området. Så derfor er det også en problemstilling,
+som jeg er rimelig tryg ved, for hver enkelt har jo lov til at skifte selskab, hvis man føler, at det er mere fordelagtigt.";Kl. 15:12
+147909;Time;;Kl. 15:13
+147932;name_party;":
+Jeg konstaterede det også for en måneds tid siden. Jeg var meget
+glad for den artikel, der var i Berlingske Business den dag, hvor ministeren og jeg var enige. Vi var måske ikke helt enige om rammerne, for vi sagde som socialdemokrater, at vi godt ville regulere, hvis
+ikke markedet tog sig sammen; hvis ikke teleselskaberne begynder
+at tage sig sammen på det her område, vil vi godt regulere. Det hørte
+jeg selvfølgelig ikke ministeren sige, og det er også det, som ministeren bekræfter i dag. Men ikke desto mindre var ministeren meget
+klar i sin tale på det tidspunkt.
+Men det er altså en måneds tid siden, og det er da fristende at
+spørge, hvor langt vi i grunden er med den redegørelse, som også
+blev nævnt i netop den artikel for en måned siden. Kan vi forvente,
+at der kommer noget substans, og har ministeren en reel forventning
+om, at selskaberne så også vil tage affære og handle på det?";Benny Engelbrecht
+148841;Time;;Kl. 15:11
+148881;title_name;":
+Ministeren.";Holger K. Nielsen
+148904;Time;"Videnskabsministeren (Helge Sander):
+Jeg vil gerne sige, at det er mit indtryk, helt uanset resultatet af den
+redegørelse, som jeg afventer, og som jeg ikke har fået noget tidspunkt for aflevering på, at teleselskaberne også selv er optaget af den
+her problemstilling, for det har efterhånden givet ganske megen negativ presseomtale. Jeg har også talt med repræsentanter, som har givet udtryk for, at man kigger på sagen, og det tror jeg i og for sig at
+man er i fuld gang med, uanset om spørgeren og jeg står her i dag
+eller ej, og det er også tiltrængt.";Kl. 15:11
+149471;Time;;Kl. 15:12
+149511;title_name;":
+Hr. Benny Engelbrecht.";Holger K. Nielsen
+149575;title_name;":
+Tak for det. Spørgsmålet er afsluttet.
+Det næste spørgsmål er også stillet til videnskabsministeren af hr.
+Benny Engelbrecht.";Holger K. Nielsen
+149712;Time;"Spm. nr. S 10
+11) Til videnskabsministeren af:";Kl. 15:13
+149782;name_party;":
+Hvilke initiativer vil ministeren tage for at imødegå, at teleselskaber
+kan overtaksere teletjenester som politiets enhedsnummer 114?
+
+Skriftlig begrundelse
+Teleselskabet Telia er blevet kritiseret for i nogle tilfælde at overtaksere telefonnummeret 114 i forhold til det lokale politis direkte 8-cifrede telefonnummer, og ministeren har tidligere svaret Udvalget for
+Videnskab og Teknologi, at der ikke er nogen lovbegrænsninger for
+en sådan overtaksering.";Benny Engelbrecht
+150280;title_name;":
+Hr. Benny Engelbrecht for oplæsning af spørgsmålet.";Holger K. Nielsen
+150343;Time;;Kl. 15:13
+150366;name_party;":
+Hvilke initiativer vil ministeren tage for at imødegå, at teleselskaber
+kan overtaksere teletjenester som politiets enhedsnummer, nr. 114?";Benny Engelbrecht
+150516;Time;;Kl. 15:13
+150556;title_name;":
+Videnskabsministeren.
+
+32
+
+Onsdag den 7. oktober 2009 (S 10)";Holger K. Nielsen
+150630;Time;;Kl. 15:13
+150641;Time;"Videnskabsministeren (Helge Sander):
+Nr. 114 er som bekendt et nummer, som rigspolitiet har ønsket at
+stille til rådighed som en ekstra service for borgere, når de skal ringe
+til deres lokale politikreds. Jeg er af IT- og Telestyrelsen blevet oplyst, at styrelsen ikke er bekendt med, at der skulle være nogen selskaber, der overtakserer opkald til nr. 114. Ifølge det, som er blevet
+oplyst over for mig, er det derfor forkert, når det i pressen har været
+fremme, at Telia skulle overtaksere 114-nummeret.
+I øvrigt kan jeg oplyse, at Telia allerede den 24. september 2009
+udsendte en pressemeddelelse om, at det ikke er korrekt, at selskabet
+overtakserer 114-opkald.";Kl. 15:16
+151332;name_party;":
+Det bliver jo nemt en principiel diskussion, og det er egentlig også
+derfor, vi står her i Folketingssalen. Vi skal jo ikke ned og file på de
+enkelte sms-tjenester m.v. Men når grundprincippet er, at man altså
+godt kan opleve, at man betaler mere for at ringe til en bestemt tjeneste via sin mobiltelefon, fordi man har valgt et bestemt selskab, så
+giver det jo en uoverskuelighed. Og vi er faktisk tilbage til der, hvor
+man må sige, at vi da må kræve – og det går jeg ud fra ministeren
+også er enig med mig i – at vi som et minimum kan slå disse priser
+op på de enkelte selskabers hjemmesider eller ved anden henvendelse til teleselskabet klart og tydeligt få redegjort for og få at vide,
+hvad det er for nogle takster, der gælder for opkald til andre numre
+end dem, som er de primære numre. Det er klart, at ringer man til et
+almindeligt 8-cifret nummer, så kender man tjenestens pris, men når
+man ringer til bestemte numre, må man da kunne få det oplyst.";Benny Engelbrecht
+152302;Time;;Kl. 15:14
+152342;title_name;":
+Hr. Benny Engelbrecht.";Holger K. Nielsen
+152376;Time;;Kl. 15:14
+152399;name_party;":
+Det er i høj grad et spørgsmål om, hvordan man definerer overtaksering. Hvis man har en fast pris på opkald, altså et ubegrænset antal
+minutter eksempelvis, eller et begrænset antal minutter, som man
+kan tale frit inden for, så er det da i hvert fald sådan – det har jeg set
+eksempler på teleregninger på – at man betaler ekstra for at ringe op
+til telefonnummeret 114, hvorimod man ville kunne ringe gratis til
+det lokale politis 8-cifrede nummer, altså det, der typisk ender på
+1448. Der kan man selvfølgelig diskutere princippet i det, og om det
+så er en overtaksering, eller om det er, fordi 114-nummeret er en type nummer, som er en særlig service, ligesom vi kender det fra 118.
+Men det ændrer da ikke ved, at det er noget, som for den enkelte
+detailkunde, den enkelte køber af teleservice, vil blive opfattet som
+en merpris i forhold til det at ringe til et 8-cifret nummer, når man
+særskilt skal afregnes for opkald til telefonnummeret 114 og man i
+øvrigt har et eller andet antal friminutter. Og så er jeg enig i, at man
+godt kan diskutere, om det så er en overtaksering eller ej, men det
+ændrer ikke ved, at man betaler mere for at ringe til 114, end man
+gør til det 8-cifrede nummer.
+Min bekymring i den sammenhæng hænger jo meget sammen
+med det forrige spørgsmål, vi lige har haft om nr. 118, nemlig det
+her grundprincip, at der er nogle services, som vi gerne vil have på
+en nogenlunde god og fri måde bliver leveret til abonnenterne. Altså,
+de, som ikke er i stand til at slå op i en telefonbog – synshandicappede f.eks. – skal selvfølgelig have mulighed for at kunne ringe til
+nummeroplysningen. Og er man ikke klar over, hvor i landet man
+står, når man skal ringe til det lokale politi, så skal man ikke til at
+bøvle med at finde det telefonnummer, men alene ringe til servicenummeret 114 uden at skulle spekulere i, om det f.eks. koster 99 øre
+mere, end det ville gøre at ringe til det 8-cifrede nummer.";Benny Engelbrecht
+154331;Time;;Kl. 15:16
+154371;title_name;":
+Ministeren.";Holger K. Nielsen
+154394;Time;"Videnskabsministeren (Helge Sander):
+Det er fuldstændig rigtigt, som spørgeren angiver, at man jo altid
+kan diskutere taksterne. Men jeg vil gerne sige, at på det her område
+synes jeg ikke man på nogen måde kan tale om overtaksering, og
+derfor er mit svar på spørgsmålet også, at jeg ikke agter at foretage
+mig yderligere i denne sag.";Kl. 15:16
+154740;Time;;Kl. 15:16
+154780;title_name;":
+Hr. Benny Engelbrecht.";Holger K. Nielsen
+154815;Time;;Kl. 15:17
+154855;title_name;":
+Ministeren.";Holger K. Nielsen
+154878;Time;"Videnskabsministeren (Helge Sander):
+For så vidt angår overskueligheden, er det klart, at mit svar er det
+samme som svaret på det foregående spørgsmål: at det mener jeg er
+vigtigt, og derfor har jeg også fokus på den problemstilling. Men
+med hensyn til det, vi står og taler om her, må vi nok begge to erkende, at det baserer sig på en historie i et vestjysk dagblad, der ikke var
+sand. På det grundlag synes jeg ikke, der er grund til, at vi sætter alt
+muligt i bevægelse, for det indtryk, jeg har fået efter den historie,
+som altså er blevet dementeret, er, at der ikke er tale om overtaksering på det her område. Så derfor vil jeg sige, at der skal ske noget
+nyt, før jeg vil foretage mig yderligere i sagen.";Kl. 15:17
+155601;Time;;Kl. 15:18
+155641;title_name;":
+Hr. Benny Engelbrecht.";Holger K. Nielsen
+155675;Time;;Kl. 15:18
+155698;name_party;":
+Man kan selvfølgelig diskutere, hvad overtaksering er, men det ændrer ikke på, hvad man ser eksempler på. Jeg har, hvad angår telefonregninger, set eksempler på, at kunder, som har haft fri taletid hos
+det pågældende teleselskab, har betalt særskilt overpris for at ringe
+til telefonnummeret 114. Jeg giver ministeren ret i, at man ikke nødvendigvis kan definere det som overtaksering, men det ændrer ikke
+på, at man betaler mere for det, og det ændrer ikke på, at man på det
+pågældende selskabs hjemmeside ikke kan slå den slags informationer op.
+Så er jeg sådan set græskkatolsk, i forhold til om det så hedder
+det ene eller det andet. Det er i mine øjne vildledning over for kunderne, og i betragtning af hvor meget vildledning der er, og hvor ringe den branche er, som ministeren har det øverste ansvar for i sidste
+ende, så må vi sige, at vi da må kræve, at man sætter foden lidt hårdere i jorden og får gang i at få sat nogle rammer for disse teleselskaber.";Benny Engelbrecht
+156673;Time;;Kl. 15:19
+156713;title_name;":
+Ministeren.";Holger K. Nielsen
+156736;Time;"Videnskabsministeren (Helge Sander):
+Heldigvis er der jo forskellige konkurrenceparametre og forskellige
+abonnementsordninger. Heldigvis for det. Det er noget af det, der
+
+Onsdag den 7. oktober 2009 (FM )
+
+bl.a. er med til at innovere på det her område. Men jeg synes, at vi
+nu forsøger at tale en kunstig situation op, for på det her område mener jeg ikke at der er noget problem. Jeg vil gerne fastholde, at vi
+lever i et frit land. Der er mulighed for at skifte selskab, hvis ikke
+man er tilfreds, men jeg kan dårligt forestille mig, at der er nogen,
+der finder anledning til at skifte selskab på grund af takseringen akkurat lige på det her nummer. Det ser altså ikke ud til at være noget
+problem, som vi ser det.";Kl. 15:19
+157466;Time;;Kl. 15:19
+157506;title_name;":
+Spørgsmålet er afsluttet, og spørgetiden er hermed også afsluttet.";Holger K. Nielsen
+157585;Time;Meddelelser fra formanden;Kl. 15:20
+157651;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, torsdag den 8. oktober
+2009, kl. 10.00.
+Jeg henviser til den dagsorden, der er opslået i salen. Jeg skal i
+øvrigt henvise til den omdelte ugeplan.
+Mødet er hævet. (Kl. 15:20).
+
+33";Holger K. Nielsen

@@ -1,0 +1,186 @@
+split;reason;text;value
+0;;"Onsdag den 27. august 2014 (D)
+
+1
+
+fra og med den 1. august 2014, hvor Christian Friis Bach nedlagde
+sit mandat.
+Er der nogen, der ønsker ordet?
+Da det ikke er tilfældet, går vi til afstemning.
+
+103. møde";
+215;Time;;Kl. 17:01
+253;Time;"Dagsorden
+
+Afstemning
+
+1) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som ordinært medlem af Folketinget.
+2) Eventuelt: 2. (sidste) behandling af beslutningsforslag nr. B
+122:
+Forslag til folketingsbeslutning om dansk militært bidrag til støtte
+for indsatsen i Irak.
+Af udenrigsministeren (Martin Lidegaard).
+(Fremsættelse 25.08.2014. 1. behandling 27.08.2014. Betænkning
+27.08.2014).";kl. 17.00
+679;Time;;Kl. 17:00
+711;title_name;":
+Mødet er åbnet.";Bent Bøgsted
+738;Time;;Kl. 17:00
+770;title_name;":
+Afstemningen starter, og der stemmes om udvalgets indstilling.
+Afstemningen slutter.
+For stemte 103 (V, S, DF, RV, SF, EL, LA, KF og Uffe Elbæk
+(UFG)), imod stemte 0, hverken for eller imod stemte 0.
+Udvalgets indstilling er vedtaget enstemmigt.
+
+Det sidste punkt på dagsordenen er:
+2) 2. (sidste) behandling af beslutningsforslag nr. B 122:
+Forslag til folketingsbeslutning om dansk militært bidrag til
+støtte for indsatsen i Irak.
+Af udenrigsministeren (Martin Lidegaard).
+(Fremsættelse 25.08.2014. 1. behandling 27.08.2014. Betænkning
+27.08.2014).
+
+Samtykke til behandling";Bent Bøgsted
+1358;Time;;Kl. 17:01
+1390;title_name;":
+Det punkt, som er opført som nr. 2 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde, og hvis ingen gør indsigelse, betragter jeg samtykket som givet.
+Det er givet.
+
+Forhandling";Bent Bøgsted
+1618;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig? Ja, hr. Villumsen fra Enhedslisten
+som ordfører.";Bent Bøgsted
+1743;Time;"Det første punkt på dagsordenen er:
+1) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som ordinært medlem af Folketinget.";Kl. 17:02
+1903;Time;Forhandling;Kl. 17:00
+1947;title_name;":
+Fra Udvalget til Valgs Prøvelse har jeg modtaget indstilling om, at 1.
+stedfortræder for Radikale Venstre i Nordsjællands Storkreds, Helle
+Løvgreen Mølvig, godkendes som ordinært medlem af Folketinget
+
+(Ordfører)";Bent Bøgsted
+2184;name_party;":
+Tak for det. I Enhedslisten er vi generelt skeptiske over for brugen af
+militære midler i konflikter. Ligeledes så vi helst, at det var FN og
+ikke USA, der førte an i støtten til kurdernes forsvar mod ISIL. Der
+er dog ingen tvivl om, at situationen i Irak og Nordirak er forfærdelig, og at ISIL gør sig skyldig i etnisk udrensning, massakrer og grove overgreb på civilbefolkningen. Enhedslisten ønsker derfor at støtte de kurdiske styrker i deres kamp mod ISIL, og derfor støtter vi, at
+Danmark transporterer våben og ammunition til støtte for kurderne.
+Dette er ikke en støtte til en ny Irakkrig, og derfor er det for Enhedslisten også helt afgørende, at udenrigsministeren i svar til Folketinget har forsikret, at såfremt danske soldater eller kampfly skal indsættes i Irak, vil dette skulle ske ved fornyet vedtagelse i Folketin-
+
+2
+
+Onsdag den 27. august 2014 (B 122)
+
+get. Det samme vil gøre sig gældende, såfremt regeringen skulle ønske at engagere Danmark i borgerkrigen i Syrien, hvis det danske
+forsvar bliver bedt om at bistå de amerikanske kamptropper i Irak,
+eller hvis der skulle blive tale om en forlængelse af bidraget til efter
+årsskiftet 2014-15.
+Lad mig gøre det klart, at Enhedslisten ønsker, at Danmark skal
+støtte de kurdiske styrker i kampen mod ISIL, og vores støtte til dette er betinget af, at regeringen ikke løber fra sine forsikringer over
+for Folketinget. På baggrund af erfaringerne fra Libyenkrigen, hvor
+den daværende regering medvirkede til at bryde FN-mandatet om
+sikring af civile og i stedet bidrog til det kaos, der hersker i dag i landet, gør vi det selvfølgelig klart, at Enhedslisten vil trække sin støtte,
+hvis regeringen løber fra sine forsikringer over for Folketinget.
+Ligeledes er det for Enhedslisten afgørende, at denne konflikt er
+anderledes end andre konflikter, Danmark har været involveret i.
+Der er ikke tale om en ulovlig angrebskrig, som der var i Irakkrigen i
+2003. Nej, nu har vi en folkevalgt kurdisk regering, som beder om
+hjælp til at beskytte sin civilbefolkning og mindretal. Der er altså tale om en støtte til en suveræn irakisk regering i tråd med folkeretten.
+Når jeg står her i dag og vi om lidt har et enigt Folketing, der
+vedtager at sende våben og ammunition til de kæmpende kurdiske
+styrker, kan jeg ærlig talt ikke lade være med at tænke tilbage til forrige lørdag. Forrige lørdag stod jeg lige her udenfor på Christiansborgs Slotsplads og demonstrerede til støtte for kurdernes og yazidiernes kamp imod ISIL. Her mødte jeg en mand, der hed Saiar Deriki. Han var meget bedrøvet, fordi han få dage forinden havde mistet sin nevø. Saiars nevø var nemlig blevet dræbt i kampen mod
+ekstremisterne fra ISIL. Han var blevet dræbt, da han fra Syrien havde krydset grænsen til Irak for at komme de nødstedte yazidier til
+hjælp sammen med enheder fra den syriske gren af Kurdistans arbejderparti, der i Tyrkiet hedder PKK og i Syrien hedder YPG. Mens
+Saiars nevø blev dræbt, lykkedes det hans kammerater at bryde igennem ISIL's forsvarslinjer til Sinjarbjerget, hvor de reddede tusinder
+af yazidier fra døden.
+Saiars historie udstiller den lidt absurde situation – for ikke at sige meget absurde situation – vi befinder os i. Læser man beslutningsforslaget og svarene fra forsvarsministeren, vil man se, at det
+tydeligt fremgår, at styrker fra PKK lige nu spiller en helt afgørende
+rolle i forsvaret af civilbefolkningen. De kæmper tæt sammen med
+de kurdiske styrker fra Nordirak og udgør her de stærkeste styrker i
+forsvaret af civilbefolkningen imod overgrebene fra ISIL. Det er derfor naivt at tro, at våben, der gives til den kurdiske lokalregering, ikke vil blive givet videre til de PKK-enheder, der kæmper i forreste
+linje imod ISIL.
+Der skal ikke være nogen tvivl om, at jeg mener, at PKK tidligere
+har brugt metoder, som Enhedslisten og jeg selv klart tager afstand
+fra. Men situationen har ændret sig. Der foregår lige nu en fredsproces i Tyrkiet, og PKK kæmper i forreste række mod ISIL i Syrien og
+Nordirak. Enhedslisten mener derfor, at Danmark bør støtte fredsforhandlingerne i Tyrkiet og anerkende den store indsats, PKK yder i
+kampen mod ISIL. Det gør vi bedst fra dansk side ved at arbejde for
+at fjerne PKK fra EU's terrorliste. Ligeledes bør den kurdiske tv-station Roj TV have sin sendetilladelse tilbage. Alt andet vil ærlig talt
+være absurd, i betragtning af at vi om lidt alle sammen trykker på
+den grønne knap og stemmer for at sende våben til kurderne og PKK
+i deres kamp mod ISIL.
+På Enhedslistens vegne kan jeg sige, at vi kan støtte beslutningsforslaget. Vi ønsker at støtte de kurdiske forsvarsstyrker i kampen
+mod ISIL, vi ønsker at bidrage til at forsvare civilbefolkningen gennem støtte til kurderne, men det sker udelukkende under den klare
+forudsætning, at Danmark ikke bliver inddraget i en ny Irakkrig med
+indsættelse af danske kamptropper, danske kampfly, uden at der har
+været en fornyet debat og vedtagelse her i Folketinget.";Nikolaj Villumsen
+7123;Time;;Kl. 17:08
+7155;title_name;":
+Tak til hr. Nikolaj Villumsen. Der er ingen spørgsmål og kommentarer. Så har udenrigsministeren bedt om ordet.";Bent Bøgsted
+7277;Time;"Udenrigsministeren (Martin Lidegaard):
+I går morges havde jeg lejlighed til at tale med min irakiske kollega
+over telefonen. Han er som udenrigsminister i Irak netop vendt tilbage, efter at have trukket sig i 2 måneder i protest mod den tidligere
+irakiske regering, og er den ledende forhandler for den kurdiske delegation, der er ved at forhandle et nyt regeringsgrundlag i Irak.
+Han bad mig overbringe sin dybfølte tak til det danske folk og
+det danske Folketing for det bidrag, som Danmark nu er i færd med
+at sende til Irak – det er både det humanitære og det militære – og
+han forsikrede om, at det irakiske folk ikke vil glemme det bidrag.
+Han forsikrede også om, at man i Irak er på vej til at lave den regering, som vi har bedt om, og som jeg tror er forudsætningen for, at vi
+kan håbe på en fredelig fremtid for det irakiske folk; en regering, der
+både bliver en regering for sunnier, shiaer og kurdere.
+Jeg nævner det, fordi vi alle sammen ved, hvor forfærdelig situationen er i Irak, fordi vi ved, at det ikke er overstået med det her bidrag, men også fordi det er vigtigt for os alle sammen at vide, at det
+gør en forskel. Derfor vil jeg gerne kvittere for det meget seriøse og
+gode samarbejde, som alle Folketingets partier har bidraget med ved
+det her beslutningsforslag. Jeg er glad for og stolt over, at det et
+fuldstændig enigt Folketing, der kan sende det her afsted. Det betyder noget for de 55 soldater, som vi sender afsted med vores fly, og
+det betyder noget for det politiske signal, som vi sender til Irak og til
+resten af verden, at det er et enigt Folketing, der står bag. Tak for
+det.";Kl. 17:08
+8900;Time;;Kl. 17:09
+8932;title_name;":
+Tak til udenrigsministeren. Er der flere, der ønsker at udtale sig?
+Det ser det ikke ud til. Jo, forsvarsministeren. Undskyld, jeg havde ikke lige set, at kuglepennen var oppe.";Bent Bøgsted
+9120;Time;;Kl. 17:10
+9157;title_name;":
+Jeg vil meget gerne benytte lejligheden til at udtrykke stor tak til
+Folketinget for, at samtlige partier kan bakke op om udsendelsen af
+ikke alene fly, men også de 55 fra forsvaret, som vil deltage på Danmarks vegne.
+Det er ikke nogen risikofri mission, vi sender dem ud på, og derfor er det også meget vigtigt, at de har hele Folketingets opbakning
+til det arbejde, der nu ligger forude. Det er samtidig også en god lejlighed til at gøre opmærksom på, at der allerede i dag er folk fra
+Danmark, der gør et stort stykke arbejde i forhold til Nordirak. Allerede i sidste uge tog den første ekspert fra Beredskabsstyrelsen til
+Erbil i Nordirak, og der er også andre folk på vej. Dermed er det en
+bred dansk indsats, der bliver leveret, både i forhold til det, forsvaret
+kan bidrage med, men også i forhold til det, Beredskabsstyrelsen kan
+stille med.
+Med de ord vil jeg sige, at den opbakning, der er i det her Folketing, er vigtig, og at når vi om et øjeblik trykker på de grønne knapper, ja, så er flyet klar til afgang, i det øjeblik det får den opgave, det
+skal løse.";Nicolai Wammen
+10239;Time;;Kl. 17:11
+10271;title_name;":
+Tak til forsvarsministeren. Der er ingen spørgsmål. Er der flere, der
+ønsker at udtale sig?
+Det ser ikke ud til at være tilfældet.
+
+Onsdag den 27. august 2014 (FM )";Bent Bøgsted
+10449;Time;Afstemning;Kl. 17:11
+10492;title_name;":
+Der skal stemmes om forslagets endelige vedtagelse, og der kan
+stemmes.
+Afstemningen slutter.
+For stemte 104 (V, S, DF, RV, SF, EL, LA, KF og Uffe Elbæk
+(UFG)), imod stemte 0, hverken for eller imod stemte 0.
+Forslaget til folketingsbeslutning er vedtaget. [Forslaget vil blive
+sendt til udenrigsministeren].";Bent Bøgsted
+10813;Time;Meddelelser fra formanden;Kl. 17:12
+10871;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes tirsdag den 9. september 2014, kl.
+9.00.
+Jeg henviser til den dagsorden, der vil fremgå af Folketingets
+hjemmeside.
+Mødet er hævet. (Kl. 17:12).
+
+3";Bent Bøgsted

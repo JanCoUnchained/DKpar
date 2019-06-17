@@ -1,0 +1,2135 @@
+split;reason;text;value
+0;;"Tirsdag den 11. januar 2011 (D)
+
+1";
+45;Time;38. møde;Kl. 13:00
+93;Time;Meddelelser fra formanden;kl. 13.00
+151;title_name;":
+Mødet er åbnet.
+
+Dagsorden
+I dag er der følgende meddelelser:
+1) Spørgsmål om fremme af forespørgsel nr. F 12:
+Forespørgsel til indenrigs- og sundhedsministeren om ventetid på respirationsbehandling.
+Af Liselott Blixt (DF) og Karin Nødgaard (DF).
+(Anmeldelse 16.12.2010).
+
+Frank Aaen (EL) m.fl.:
+Beslutningsforslag nr. B 52 (Forslag til folketingsbeslutning om ministres pensionsvilkår),
+
+2) Spørgsmål om fremme af forespørgsel nr. F 13:
+Forespørgsel til udenrigsministeren og integrationsministeren om
+EU's indflydelse på dansk udlændingepolitik.
+Af Martin Henriksen (DF) og Peter Skaarup (DF).
+(Anmeldelse 16.12.2010).
+
+Beslutningsforslag nr. B 53 (Forslag til folketingsbeslutning om folketingsmedlemmers pensionsvilkår) og
+
+3) 1. behandling af lovforslag nr. L 87:
+Forslag til lov om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning, lov om Energinet.dk og lov om
+fremme af vedvarende energi. (Gennemførelse af el- og gasdirektiverne m.v.).
+Af klima- og energiministeren (Hans Christian Schmidt, fg.).
+(Fremsættelse 01.12.2010).
+
+Morten Østergaard (RV), Lennart Damsbo-Andersen (S), Özlem Sara Cekic (SF), Anne Marie Geisler Andersen (RV), Line Barfod
+(EL), Per Ørum Jørgensen (KD), Juliane Henningsen (IA), LarsEmil Johansen (SIU), Høgni Hoydal (T), Pia Christmas-Møller
+(UFG) og Christian H. Hansen (UFG) m.fl.:
+
+4) 1. behandling af lovforslag nr. L 88:
+Forslag til lov om ændring af lov om ændring af lov om ligestilling
+af kvinder og mænd. (Ophævelse af lovens revisionsbestemmelse).
+Af ministeren for ligestilling (Hans Christian Schmidt, fg.).
+(Fremsættelse 01.12.2010).
+5) 1. behandling af lovforslag nr. L 93:
+Forslag til lov om ændring af lov om fuldbyrdelse af straf m.v. (Anvendelse af peberspray som magtmiddel, undersøgelse af den indsattes person og opholdsrum og udvidelse af behandlingsgarantien for
+indsatte i fængsler og arresthuse).
+Af justitsministeren (Lars Barfoed).
+(Fremsættelse 08.12.2010).
+6) 1. behandling af beslutningsforslag nr. B 37:
+Forslag til folketingsbeslutning om tiltrædelse af Stabiliserings- og
+Associeringsaftale mellem De Europæiske Fællesskaber og deres
+medlemsstater på den ene side og Serbien på den anden side.
+Af udenrigsministeren (Lene Espersen).
+(Fremsættelse 10.12.2010).
+
+Beslutningsforslag nr. B 54 (Forslag til folketingsbeslutning om folketingsmedlemmers eftervederlag).
+
+Beslutningsforslag nr. B 55 (Forslag til folketingsbeslutning om tillæg til unge under 25 år med psykiske lidelser, der modtager starthjælp).
+Karina Lorentzen Dehnhardt m.fl.:
+Beslutningsforslag nr. B 56 (Forslag til folketingsbeslutning om mulighed for eftergivelse af sagsomkostninger i straffesager).
+Karina Lorentzen Dehnhardt (SF), Karen Hækkerup (S), Manu Sareen (RV) og Line Barfod (EL):
+Forespørgsel nr. F 14 (Vil ministeren redegøre for forholdene i kriminalforsorgen og redegøre for regeringens planer for fremtiden?).
+Titlerne på de anmeldte sager vil fremgå af www.folketingstidende.dk. (jf. ovenfor).
+
+2
+
+Tirsdag den 11. januar 2011 (L 87)
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål om fremme af forespørgsel nr. F 12:
+Forespørgsel til indenrigs- og sundhedsministeren om ventetid
+på respirationsbehandling.
+Af Liselott Blixt (DF) og Karin Nødgaard (DF).
+(Anmeldelse 16.12.2010).
+Sammen med dette punkt foretages:
+2) Spørgsmål om fremme af forespørgsel nr. F 13:
+Forespørgsel til udenrigsministeren og integrationsministeren
+om EU's indflydelse på dansk udlændingepolitik.
+Af Martin Henriksen (DF) og Peter Skaarup (DF).
+(Anmeldelse 16.12.2010).";Jens Vibjerg
+3690;Time;;Kl. 13:01
+3722;title_name;":
+Hvis ingen gør indsigelse mod fremme af disse forespørgsler, betragter jeg Tingets samtykke som givet.
+Det er givet.
+
+Det næste punkt på dagsordenen er:
+3) 1. behandling af lovforslag nr. L 87:
+Forslag til lov om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning, lov om Energinet.dk og
+lov om fremme af vedvarende energi. (Gennemførelse af el- og
+gasdirektiverne m.v.).
+Af klima- og energiministeren (Hans Christian Schmidt, fg.).
+(Fremsættelse 01.12.2010).";Jens Vibjerg
+4221;Time;Forhandling;Kl. 13:01
+4265;title_name;":
+Forhandlingen er åbnet, og det er Venstres ordfører, hr. Lars Christian Lilleholt.";Jens Vibjerg
+4359;Time;(Ordfører);Kl. 13:02
+4400;name_party;":
+Det her er et meget, meget omfattende lovforslag, som implementerer EU-direktivet i forbindelse med el- og gasdirektiverne fra 2009.
+Det helt afgørende i det her lovforslag er, at vi sikrer, at der sker en
+adskillelse mellem det, der foregår i nettene og i ledningerne, og det,
+der foregår med hensyn til handel og produktion af energi. Det har
+været et meget, meget stort dansk ønske, at det her direktiv gennemføres.
+Vi har oplevet, at den el- og gasliberalisering, der er gennemført i
+EU, ikke helt har haft den ønskede effekt. Der har været en række
+lande, som har undgået konkurrencen, og som har beskyttet deres
+egne selskaber og deres egne interesser på energiområdet. Det undgår vi med det her forslag.
+Vi sikrer, at der bliver en langt stærkere konkurrence på energimarkederne i Europa, og det synes vi er til fordel både for forbrugerne og de europæiske virksomheder. I Danmark er og har vi været i
+front på det her område.
+Vi har i meget, meget bred enighed i Folketinget etableret Energinet.dk, som har ansvaret for det overordnede transmissionsnet, både med hensyn til gas og el, og der bliver også endnu en udfordring,
+for en del af det net, der i dag ligger hos elselskaberne, skal ind under Energinet.dk eller i hvert fald placeres på en anden måde, end
+det er tilfældet i dag.
+
+Det her er et rigtig godt forslag, som Venstre kan give sin fulde
+opbakning.";Lars Christian Lilleholt
+5783;Time;;Kl. 13:03
+5815;title_name;":
+Tak til Venstres ordfører. Så er det den socialdemokratiske ordfører,
+hr. Ole Hækkerup.";Jens Vibjerg
+5914;Time;(Ordfører);Kl. 13:03
+5943;name_party;":
+Tak, formand. Som allerede nævnt indeholder det her lovforslag, at
+el- og gasdirektiverne omsættes til dansk lovgivning samt en ændring af varmeforsyningsloven. Jeg skal med det samme sige, at Socialdemokraterne kan støtte forslaget, men at vi da også har nogle
+spørgsmål, som jeg vil vende tilbage til om et øjeblik.
+Det første først: El- og gasdirektiverne går jo ud på, at energimarkederne i Europa skal blive bedre integreret. Når vi helt grundlæggende synes, at det er en god idé, er det, fordi det vil give os en bedre udnyttelse af energien, og dermed kan vi sænke udledningerne af
+CO2, vi kan udnytte ressourcerne bedre, og vi kan reducere forureningen. Ændringer, der går i den retning, handler for os om ansvaret
+for de næste generationer.
+Derudover er det så også en god idé at forbinde Europa tættere på
+energiområdet, fordi vi dermed kommer i samme båd. Man kan sige,
+at ét lands afhængighed i energiforsyningerne bliver et fælles anliggende, når landene i EU bliver tæt forbundet på energileverancerne.
+Dernæst er der så ændringen af varmeforsyningsloven. Ved undersøgelser særlig i Midtjylland, som også har været omtalt hidsigt i
+pressen, er der fundet store forskelle på, hvor meget der opkræves
+hos varmekunderne, og særlig store forskelle i forhold til, hvad der
+er hjemmel til i lovgivningen. Det går jo mildest talt ikke.
+I lovforslaget er der så en model for, hvordan kontrol af fjernvarmeværker i fremtiden skal tilrettelægges: en ekstra revisionspåtegning af regnskabsaflæggelserne til Energitilsynet og 20 årlige besøg
+ud i landet af Energitilsynets regnskabsenhed. Løser det så problemet? Ja, her er det jo, at man godt kan have et par spørgsmål til lovforslaget. Umiddelbart må man sige, at det kommer til at tage nogle
+år, hvis vi skal igennem alle Danmarks varmeværker og vi tager 20
+om året. Det kan måske løses ved at tage fat der, hvor man umiddelbart synes, at det ser mest mærkeligt ud.
+Dernæst vil vi gerne have, at brancheforeningen kommer med i
+en dialog. De må jo alle have den største interesse i, at der bliver opkrævet korrekt, og korrekt skal der opkræves. Den model, der er
+foreslået i det her lovforslag, skulle jo gerne betyde, at borgerne er
+sikre på, at de ikke igen bliver opkrævet regninger fra varmeværkerne ud over, hvad der er grundlag for i loven.";Ole Hækkerup
+8255;Time;;Kl. 13:06
+8287;title_name;":
+Tak til den socialdemokratiske ordfører. Så er det Dansk Folkepartis
+ordfører, hr. Per Dalgaard.";Jens Vibjerg
+8395;Time;"(Ordfører)
+Per Dalgaard (DF):
+Her har vi så et par EU-direktiver, som er ret fornuftige, og som
+Dansk Folkeparti også synes er fornuftige i forbindelse med den her
+sag. Der kommer mindre ændringer i forhold til lov om vedvarende
+energi, og der kommer ændringer i lov om elforsyning og lov om naturgasforsyning, så vi får nogle fælles regler i hele EU. Der sikres en
+ejermæssig adskillelse af dem, der producerer energi, og dem, der
+transmitterer energi, på samme måde som vi i sin tid adskilte DSB
+fra banelegemet – meget fornuftigt. Det skulle skabe et mere åbent
+energimarked, som kan øge konkurrenceevnen.
+
+Tirsdag den 11. januar 2011 (L 87)
+
+Der ændres også i varmeforsyningsloven, sådan at Energitilsynet
+på grund af pligt hos varmeselskaberne til en selvevaluering af egne
+regnskaber og virksomhed kan gennemgå disse. Som tidligere nævnt
+er det på basis af nogle lidt uheldige forhold, der gjorde sig gældende i midtjyske varmeselskaber fra 2007 til 2010; det bliver der så
+skabt bedre forhold omkring nu, og der bliver mere opmærksomhed
+omkring det.
+Så overordnet set finder vi, at intentionerne med el- og gasdirektivet er gode, og vi kan acceptere de forhold, der fremgår af lovforslaget.
+Der er dog lige et par ting, som jeg synes er lidt specielle. Der
+lægges i lovforslaget op til et direkte forbud mod, at der sker en sammenblanding af producenter og distributører, og det er helt fint, men
+at der også yderligere lægges op til, at personale, der har arbejdet det
+ene sted i mange år, ikke må arbejde det næste sted, er måske lige
+lovlig specielt. Det kunne jeg måske få en afklaring på fra ministeren.
+Energitilsynet skal så sikre alle de forhold mellem producenter
+og distributører, sådan at alting foregår korrekt. Energinet.dk varetager opgaven som uafhængig systemoperatør og er ansvarlig for, at
+der opretholdes en sikker energiforsyning, og at der er en effektiv
+sammenhæng i og udnyttelse af vores energiforsyningssystem, elforsyningssystemet og gasforsyningssystemet. Det er alt sammen meget
+fint.
+Der er et par ting i forbindelse med lovforslaget, som jeg også synes kræver noget afklaring. Man taler om en transmissionsvirksomhed, man taler om et transmissionsnet – det er sådan set forståeligt
+nok – man taler om produktions- og handelsvirksomhed, og så taler
+man om en producent. Jeg synes, at mange af de der begreber virker
+lidt tricky, når man læser lovforslaget, så jeg kunne godt tænke mig
+at få en afklaring af, om en producent er det samme som en produktions- og handelsvirksomhed i lovforslagets tekst. Et transmissionsnet ved vi alle hvad er, men jeg synes, der er brug for en afklaring af,
+hvad der egentlig er tale om, når der bruges begreber som transmissionsvirksomhed i forhold til producent og produktions- og handelsvirksomhed.
+Men alt i alt er det et forslag, som vi med hensyn til med de her
+småbegreber ser frem til at behandle i udvalgsarbejdet, og vores hovedindstilling er, at vi er positive over for det.";Kl. 13:06
+11361;Time;;Kl. 13:09
+11393;title_name;":
+Tak til Dansk Folkepartis ordfører. Så er det ordføreren for SF, fru
+Anne Grete Holmsgaard.";Jens Vibjerg
+11496;Time;(Ordfører);Kl. 13:09
+11535;name_party;":
+Selve el- og gasdirektivernes grundsubstans er vi meget positive
+over for, altså det, der består i, at man adskiller energiproduktion og
+handel med energi fra selve transmissionen, dvs. rørene, ledningerne
+og kablerne – altså det, at man adskiller de to ting fra hinanden, sådan at der ikke bliver en sammenblanding og dermed ublu konkurrence eller i hvert tilfælde overordentlig store muligheder for at lave
+ublu konkurrence. Jeg kan ikke lade være med at tænke på, hvor meget lettere livet havde været for alle telekunderne, hvis man havde
+gjort det samme på teleområdet, altså hvis man havde sagt, at kobberet, der ligger i jorden, lægger vi over i et selskab, og så har vi dem,
+der handler med teleydelser, altså serviceydelser, på den anden side.
+Det havde virkelig været godt. Det tog vi faktisk ved lære af på energiområdet for nogle år siden, hvor vi fik udskilt transmissionssystemerne, i hvert tilfælde det meste af dem, og lagt dem over i et særligt
+nonprofitselskab, altså et statsligt selskab, der hedder Energinet.dk.
+Det, der ligger i el- og gasdirektiverne, er i bund og grund det
+samme. Det har været en meget, meget lang kamp på europæisk
+
+3
+
+plan, og det er jo ikke underligt, for der er nogle selskaber, der har
+haft nogle store egeninteresser i at holde fast ved, at de ikke bare
+skulle producere energi og sælge energi, men at de også skulle sidde
+på kablerne, sådan at de kunne holde andre ude og holde sig selv inde, når der skulle transporteres energi imellem de forskellige dele.
+Vi har støttet den her adskillelse hele vejen igennem. Så jeg vil ikke
+sige mere om det, ud over end at det da er udmærket, at man er nået
+så langt på området.
+Et lille hjørne, kan man sige, af forslaget handler om Energitilsynet, som bliver gjort mere uafhængigt – institutionelt uafhængigt,
+som det hedder i teksten. Det betyder vel bare mere uafhængigt. Det
+synes vi er glimrende, og det tilslutter vi os. Men det skal alligevel
+have par ord med på vejen, for Energitilsynet siger selv, at de kan
+have nogle problemer med at overholde klagefristen, altså fristen
+for, hvornår de skal have svaret på en klage, som er 4 måneder. Man
+kan sige, at 4 måneder jo er ret lang tid, og at det er vigtigt for dem,
+der klager, at de får svar rimelig hurtigt. Men det, Energitilsynet påpeger, er, at de kan have svært ved at få oplysningerne fra de selskaber, der skal give dem oplysninger. Det synes vi faktisk er et reelt
+problem.
+Energitilsynet har så foreslået, at de, hvis de ikke kan hive oplysningerne ud af de virksomheder, som skal levere dem, kan afgøre
+sagen alligevel. Hertil har ministeriet og styrelsen så sagt, at man i
+hvert tilfælde kan give et påbud i medfør af § 77, og det er da et
+skridt på vejen. Men vi vil undervejs godt se på, om man faktisk kan
+gøre mere. Vi synes, at det er urimeligt, at der er så lang ventetid for
+dem, der klager. Nu vi har den del, der handler om lovgivningen om
+Energitilsynet oppe, så synes jeg, at det er vigtigt at se på det.
+Jeg synes også, at vi skal have en ordentlig drøftelse af, om Energitilsynet har de tilstrækkelige midler til rent faktisk at være et effektivt tilsyn. Vi har meget brug for, at der er et effektivt tilsyn på det
+her område. Det var det ene, jeg ville tage op.
+Det andet er den særlige ordning om, at man på fjernvarmeområdet – og det har ikke noget med el- og gasdirektiverne at gøre – siger, at fjernvarmevirksomhederne skal lave en selvevaluering. De
+skal indlevere sådan en hvert tredje år, og den skal være påtegnet af
+det, der hedder en fremmed revisor, altså i princippet en, der ikke
+har forstand på fjernvarme. Det kan jo lyde meget ordentligt og rigtigt og sådan noget, i betragtning af at en lang række fjernvarmeværker i det midtjyske har krævet for mange penge op, som de så skal
+betale tilbage. Men jeg synes faktisk, at det er en problematisk ordning, som jeg mere tror fører til bureaukrati end til god disciplin på
+det her område, og det afgørende er vel, at vi sikrer god regnskabsdisciplin inden for fjernvarmesektoren.
+Faktisk blev reglerne ændret sidste år i form af den såkaldte anmeldeordning, som betyder, at der skal revisionspåtegning på de
+prisoplysninger, som fjernvarmeselskaberne skal sende ind til Energitilsynet. Siden hen har Energitilsynet så også meddelt, at de vil lave mere stikprøvekontrol på området, dvs. 20 årlige kontroller. Vi
+synes, at det er godt, at der kommer mere stikprøvekontrol, men vi
+vil absolut foretrække, at man gennemfører mere end 20 – måske 40,
+eller hvad ved jeg – stikprøvekontroller og så ser, om de regler, der
+er blevet ændret sidste år, faktisk ikke er bedre end det, der bliver
+foreslået her. Det vil vi i hvert tilfælde gerne have en drøftelse af, for
+vi synes, det er lidt ærgerligt, hvis man får noget, der er for bureaukratisk.
+Nu har jeg selv været med til at forhandle vandsektorloven, og
+jeg vil sige, at sporene skræmmer lidt, for der er vi på nogle områder
+kommet ud i noget, som virker unødig bureaukratisk, og det vil bare
+være ærgerligt, hvis man kommer til at gøre det på andre områder.";Anne Grete Holmsgaard
+16586;Time;;Kl. 13:14
+16618;title_name;":
+Tak til SF's ordfører. Så er det den konservative ordfører, hr. Jørgen
+S. Lundsgaard.
+
+4
+
+Tirsdag den 11. januar 2011 (L 87)";Jens Vibjerg
+16756;Time;"(Ordfører)
+Jørgen S. Lundsgaard (KF):
+Energiforsyningen er en livsnerve for det danske velfærdssamfund,
+men energimarkedet er i hastig forandring. Fra at være et købers
+marked med overskud af energi, stabile priser og langtidsaftaler er
+det blevet til et sælgers marked med stærkt svingende priser på et
+dynamisk, internationalt spotmarked. Det er vi og den danske regering godt klar over, og derfor blev Klimakommissionen nedsat. Den
+skulle som bekendt fremkomme med forslag til i fremtiden at sikre
+Danmark en uafhængig energiforsyning, men også til at sikre økonomisk vækst, og at dansk industri forbliver en global aktør på energiforsyningsmarkedet.
+Klimakommissionens væsentligste budskab for den nærmeste
+fremtid blev flere vindmøller. Men vindmøllers energiforsyning passer til vejret og ikke til forbrugerne. Det kræver derfor en lagermulighed, som vi endnu ikke har – som den, man har i forbindelse med
+brint, naturgasnettet og naturgaslagrene – eller en mulighed for at
+sælge el til områder, der har behov, når vinden blæser i Danmark, og
+derfor giver gode priser på energibørsen.
+Men det kræver et stort og stabilt transmissionsnet, som strækker
+sig fra Nordkap til Sahara og over tre-fire tidszoner – et net, som har
+stabile, lave priser og er uafhængigt af nationale interesser og producentinteresser. At det samtidig giver industrien og forbrugerne adgang til billigere energi, er en yderligere fordel. Det er det, dette forslag lægger op til, og det kan vi kun bifalde.
+Vi får også i fremtiden et øget behov for at lagre naturgas for at
+udjævne spotmarkedets svingende priser, men visionen på sigt er også, at biogas og brint fra overskudsel skal i naturgasnettet og lagrene.
+Det er derfor vigtigt, at alle får ens adgangskrav til lagrene. Dette
+sikres af lovforslagets forhandlede adgang, som i praksis er en auktion. Samtidig giver det en optimal udnyttelse og økonomi og dermed
+tilskyndelse til udbygningen af Danmarks lagermuligheder.
+Med hensyn til overvågningsdelen i lovforslaget ser jeg frem til
+en væsentlig bedre forbrugerbeskyttelse end hidtil, således at fremtidige jyske tilfælde kan undgås.
+Med hensyn til selvevalueringen hos varmeforsyningsselskaberne
+ser jeg det som en indførelse af god revisionsskik med god balance
+mellem eget ansvar og offentligt tilsyn. Og samtidig er det en fin
+mulighed for at optimere driften som i alle andre veldrevne virksomheder.
+Vi kan derfor tilslutte os det fremsatte forslag.";Kl. 13:15
+19208;Time;;Kl. 13:17
+19240;title_name;":
+Tak til den konservative ordfører. Så er det den radikale ordfører, fru
+Margrethe Vestager.";Jens Vibjerg
+19343;Time;(Ordfører);Kl. 13:18
+19379;name_party;":
+Lovforslaget er jo allerede på glimrende vis blevet gennemgået af
+mine kolleger, og jeg skal kun sige, at Det Radikale Venstre er meget positivt indstillet over for forslaget. Jeg noterede mig også med
+glæde, at der var flere EU-direktiver, som Dansk Folkeparti synes
+om. Det skrev vi på listen over Dansk Folkepartis bevægelse hen imod glæde over det forpligtende europæiske fællesskab. Det synes jeg
+er aldeles fremragende.
+Vi har stillet os nogle af de samme spørgsmål, som SF gjorde, og
+derfor glæder vi os naturligvis til at høre ministerens svar på dem,
+ikke nødvendigvis i dag, men så i hvert fald i løbet af lovbehandlingen. Det er klart, at hele spørgsmålet om selve direktivimplementeringen er interessant. Jo mindre bureaukratisk, det kan gøres, jo bed-
+
+re er det, samtidig med at man meget gerne skulle høste de fordele,
+der ligger i liberaliseringen.
+En ting håber jeg ministeren kan svare på i dag, og det er, hvordan det går med undersøgelsen af sammenhængen mellem prisudvikling og liberalisering. Det var jo en diskussion, som var oppe for
+efterhånden et godt stykke tid siden, hvor der kom en debat, som ikke rigtig blev afklaret, og hvor tankegangen ligesom var, at liberaliseringen havde ført til højere priser. Grundlaget for de her direktiver
+og dermed også for lovbehandlingen er jo, at hvis man får en liberalisering og en sund konkurrence, får forbrugerne alt andet lige billigere priser, og samtidig vil det være muligt at gennemføre en forbrugerbeskyttelse og en gennemskuelighed i sektoren, som man har
+brug for, selv om det er en meget, meget kompleks sektor at have
+med at gøre. Derfor synes jeg, det vil være godt også i det videre forløb at kunne sige, at kommer der ting op, som skaber tvivl om, hvorvidt det er hensigtsmæssigt eller ej, så går vi altså ned i det og ser på
+det for at finde ud af, om det er rigtigt eller forkert, at liberaliseringen har givet højere priser.
+De Radikales synspunkt er – som vi iagttager markedet – at liberaliseringen er et gode, men der er nogle andre ting, som man godt
+kunne lade sig inspirere af til at liberalisere på en bedre måde, når
+man ser på den måde, det er tænkt her i direktiverne, som også flere
+ordførere har været inde på før.
+Men vi glæder os til lovbehandlingen og svarene på de spørgsmål, som er stillet.";Margrethe Vestager
+21683;Time;;Kl. 13:20
+21715;title_name;":
+Tak til den radikale ordfører. Så er det Enhedslistens ordfører, hr.
+Per Clausen.";Jens Vibjerg
+21808;Time;(Ordfører);Kl. 13:20
+21837;name_party;":
+Jeg bemærkede også med interesse hr. Per Dalgaards begejstring for
+disse EU-direktiver, og da fru Margrethe Vestager jo er lige så begejstret for EU som helhed, som hr. Per Dalgaard næsten var for det
+her lovforslag, så er det klart, at fru Margrethe Vestager er glad over,
+at Dansk Folkeparti støtter noget, der kommer fra EU. Jeg synes måske lige så vel, det kunne give anledning til overvejelser om, hvad
+der er indholdet i de her direktiver og lovforslag, når hr. Per Dalgaard er så begejstret for dem, fordi kombinationen af EU og Dansk
+Folkepartis energipolitik synes jeg måske ikke er nogen særlig opmuntrende kombination.
+Vi hører næsten hver dag om, at regeringen igen må udsætte sit
+forslag til det, der er vores rigtige udfordring, nemlig at få omstillet
+vores energiproduktion, vores energiforbrug, så vi bliver uafhængige
+af de fossile brændstoffer og kan gå over til vedvarende energi. Det
+udsættes gang på gang. Da jeg sad og læste de her 190 sider, som
+lovforslaget omfatter, plus flere hundrede sider høringssvar, kom jeg
+til at tænke på, at det måske var en lidt absurd prioritering af ens tid,
+at man sad og brugte rigtig, rigtig meget tid på det, når vi står over
+for nogle udfordringer, som, hvad man selv kan læse i lovforslaget,
+ikke løses med det her lovforslag, for regeringen skriver jo selv i bemærkningerne til lovforslaget, at det er miljømæssigt neutralt. Og
+hvis der er noget, vi ikke har brug for på energiområdet, så er det vel
+at bruge tid på lovforslag, som er miljømæssigt neutrale.
+O.k., det her handler jo om noget helt andet. Det handler om at få
+markedet til at fungere, sikre, at liberaliseringen virker. Så kunne
+man spørge sig selv: Løser lovforslaget så det problem, som vi har
+opdaget her i Danmark, nemlig at liberaliseringen har ført til urimelig store prisstigninger for de små forbrugere, sådan at man rammer
+socialt skævt og måske i virkeligheden også modvirker det ønske,
+man har om at reducere energiforbruget, fordi man har liberaliseret
+det her marked? Nej, heller ikke dette vigtige spørgsmål forholder
+
+Tirsdag den 11. januar 2011 (L 87)
+
+lovforslaget sig til. Nu kan det også være lidt lige meget, hvad lovforslaget forholder sig til, for der er tale om et EU-direktiv, og derfor
+skal vi jo vedtage det. Det er der også et flertal der har tilkendegivet
+at de ønsker.
+Lovforslaget er fremsat, fordi der ikke er kommet alle de positive
+effekter ud af liberaliseringen, man havde forventet der ville komme
+ud af den. Hvorfor er der så ikke kommet nok ud af liberaliseringen
+af energisektoren? Ja, det skyldes, at man ikke har regler nok, der regulerer liberalisering. Vi har ikke bureaukrati nok, der sikrer, at konkurrencen fungerer effektivt. Derfor bliver man nødt til at lave mere
+bureaukrati og mere regelstyring for at sikre, at markedet fungerer.
+Hvis jeg nu var ægte liberalist, og dem må der vel være nogle af,
+om ikke andet den næste taler fra Liberal Alliance, så ville jeg alligevel undre mig lidt over, at konsekvensen af at liberalisere en forbrugerejet sektor, som baserer produktionen på hvile i sig selv-princippet, og gå over til et ægte liberalt frit marked, er, at man skal have
+meget mere regulering. Når det er sagt, kan man jo ikke udelukke, at
+det er rigtigt, og at det er en rigtig iagttagelse, at når man først har
+begået den fejl at liberalisere energiproduktion, energisalg, så er man
+nødt til at sikre, at der er et omfattende velfungerende bureaukrati
+for at forhindre, at monopoldannelser slår igennem. Desværre lykkedes det ikke, kan man sige, fordi det, vi kan se, er, at vi på producentsiden vil få nogle ganske få selskaber i EU, som vil køre rundt
+med produktionen. Vi vil så fornuftig vis, heldigvis, få et transmissionsnet, som er uafhængigt af dem, og så vil vi sikkert få rigtig mange, der handler med el. Man har så en idé om, at det vil føre til billigere priser på elforsyningen. Jeg har ikke de store forventninger til
+det. Så Enhedslistens forhold til det her forslag er måske, at det er
+lidt lige meget.
+Det sidste, jeg vil sige noget om, er varmeforsyningsområdet.
+Der har vi jo fra Enhedslistens side flere gange rejst en kraftig kritik
+af, at man ikke har en ordentlig kontrol, der sikrer, at varmeforbrugerne ikke betaler mere end det, de skal ifølge reglerne. Det blev jo
+påvist i Midtjylland, at sådan var det, og alle går sådan set ud fra, at
+det er nogenlunde på samme måde i resten af landet. Det er ikke acceptabelt, og det har vi sagt at vi synes man skulle få undersøgt og få
+bragt i orden, også tilbageskuende. Det har regeringen og ministeren
+ikke været indstillet på. Det ville være dyrt, siger man. Men man har
+så lovet at lave et nyt system, der virker.
+Der vil vi nok være en lille smule mere grundige i behandlingen
+af lovforslaget, fordi det interessante er, at forbrugerne siger, at det
+system, man har opfundet, ikke er godt nok og slet ikke virker, og de
+producenter, der skal leve med det, siger, at det bliver alt for bureaukratisk og alt for besværligt. Og en ting har vi i hvert fald ikke brug
+for, nemlig et dyrt bureaukratisk system, som ikke fungerer, for så
+får man dobbeltdobbelt dårlig behandling som forbruger. Så det vil
+vi prøve at se kritisk på.
+Jeg har ligesom fru Anne Grete Holmsgaard deltaget i forhandlingerne om vandforsyningssektoren, og der har vi vist fået et system, der gør, at det næsten er umuligt at få det til at fungere, og det
+er jo ikke så godt. Så jeg vil se meget kritisk på det, fordi vi skal have sikret, at forbrugerne ikke betaler mere for varmen end det, de
+skal ifølge reglerne. Man kan sige, at det burde give sig selv i en
+sektor, som i stor udstrækning er forbrugerejet. Vi skal have et kontrolsystem, og det skal være effektivt, men også rimelig enkelt, og
+det synes jeg ikke der er lagt op til.";Per Clausen
+27612;Time;;Kl. 13:25
+27644;title_name;":
+Tak. Jeg skal lige bede ordføreren blive her, for det har fremprovokeret en kort bemærkning fra hr. Per Dalgaard.
+
+5";Jens Vibjerg
+27773;Time;"Per Dalgaard (DF):
+Ja, det har formanden fuldstændig ret i, og det, der har provokeret
+mig til at komme med en bemærkning, er den rosende omtale af
+Dansk Folkeparti og af EU, som også fru Margrethe Vestager fremkom med. Så jeg bliver nødt til lige at komme med en forbrugeroplysning. Det er ikke, fordi vi lige pludselig er blevet fuldstændig vilde med EU som sådan, men ret skal være ret, og når de kommer med
+noget fornuftigt, nemlig det her forslag, synes vi da selvfølgelig, at
+vi skal tage positivt imod det, og det var sådan set det, jeg gav udtryk for her fra talerstolen.
+Jeg vil i øvrigt ikke gå ind i en længere energipolitisk debat med
+Enhedslistens ordfører lige nu, for jeg kan se, at vi får lejlighed til
+det den 27. januar, og der er jeg helt sikker på, at vi får brug for masser af energi til at snakke om vedvarende energi og om, hvad vedvarende energi er. Men helt overordnet set er Dansk Folkepartis holdning til vedvarende energi den, at vi her i landet skal have en energiforsyning, som er stabil og billig, altså til at betale for både forbrugerne og erhvervslivet, og der må jeg nok sige, at VE-energien i
+nogle tilfælde ikke helt lever op til det.
+Men EU-tilhængere som sådan, lige på grund af det her, er vi ikke blevet.";Kl. 13:26
+29030;Time;;Kl. 13:27
+29062;title_name;":
+Hr. Per Clausen.";Jens Vibjerg
+29090;Time;;Kl. 13:27
+29108;name_party;":
+Jeg er godt klar over, at Dansk Folkeparti forsøger at opretholde et
+skin af, at de er EU-kritiske og EU-modstandere. Det, der er Dansk
+Folkepartis problem og i virkeligheden også i hvert fald nogle EUtilhængeres problem, er, at der meget ofte sker et sammenfald med
+den politik, der bliver ført i EU, og den politik, Dansk Folkeparti ønsker skal føres. Og det viser jo sådan set bare, at det både er galt med
+Dansk Folkeparti og med EU.";Per Clausen
+29557;Time;;Kl. 13:27
+29589;title_name;":
+Tak til Enhedslistens ordfører. Så er det Liberal Alliances ordfører,
+hr. Villum Christensen.";Jens Vibjerg
+29694;Time;(Ordfører);Kl. 13:27
+29730;name_party;":
+Liberal Alliance kan tilslutte sig denne implementering af el- og gasdirektiverne, som har til formål at udbygge konkurrenceudsættelsen
+på energiområdet, en udvikling, som har været til debat vel nok i
+mere end 20 år, og hvor man stille og roligt – meget stille vil nogle
+sikkert sige, – tager bid for bid.
+Vi får nu en ejermæssig adskillelse af transmissionen, altså monopolaktiviteten, fra produktions- og handelsaktiviteter i samtlige
+led i elforsyningen, dvs. både det overordnede og det regionale
+transmissionsnet. En total ejermæssig adskillelse er helt afgørende
+for, at det liberaliserede elmarked kan fungere optimalt for forbrugerne og på den måde sikre en effektiv prissætning på transport af
+energi og ikke mindst for at undgå krydssubsidiering, som vi har set,
+mellem de forskellige aktiviteter, dvs. imellem monopolaktiviteter
+og kommercielle aktiviteter.
+Vi finder det også meget centralt, at der eksisterer en totalt uafhængig national kontrol- og tilsynsinstans, og kan derfor også støtte
+reglerne, som præciserer, at Energitilsynets institutionelle uafhængighed fra energisektoren og statslige myndigheder sikres. Det har
+vist sig, at det er nødvendigt med en kompetent overvågning – det er
+
+6
+
+Tirsdag den 11. januar 2011 (L 87)
+
+der masser af eksempler på – af det her marked, og vi ser også, at
+formandskabet har fået et udvidet ansvar på området.
+Regelsættet er særdeles kompliceret, det har flere været inde på,
+især når der skal løses problemstillinger, der går på tværs af den sektoropdelte lovgivning. Så en grundlæggende sanering af hele regelsættet så hurtigt som muligt må egentlig være en bedre hjælp i liberaliseringens tjeneste end mange af de ting, vi ser her. Hvis det er
+rigtigt, at vi har fået prisstigninger på grund af liberaliseringen, og
+det er der jo ikke rigtig nogen, der ved, så er der i hvert fald gode
+argumenter for, at man ser på hele det her regelsystem – nogle vil
+sige regeltyranni – så hurtigt, som det overhovedet er muligt. Det
+skal i hvert fald være noget, som vi vil holde øje med.";Villum Christensen
+31780;Time;"Formanden :
+Tak til hr. Villum Christensen. Der er ingen ønsker om korte bemærkninger, og så er det klima- og energiministeren.";Kl. 13:29
+31919;Time;"Klima- og energiministeren (Lykke Friis):
+Først og fremmest vil jeg sige tak for ordførernes bemærkninger til
+lovforslaget. Jeg er glad for den interesse, der i dag er blevet udtrykt
+over for det her lovforslag.
+Som det jo er fremgået af debatten, er det i høj grad EU-direktiver, vi her skal forholde os til. Og som det også er blevet påpeget – i
+hvert fald af nogle – er det jo altså en vigtig del af EU-integrationen,
+at vi nu formår at få en ordning, hvor det er adskilt, sådan at rørene
+fra handel med vores gas og el vil give mulighed for at få et mere
+gennemskueligt marked og på den måde jo også fjerne risikoen for,
+at transmissionsvirksomheder tilgodeser økonomiske interesser vedrørende handel og produktion til skade for forbrugerne. Så det er jo
+det, der er det overordnede perspektiv. Det er klart nok – og det vil
+jeg da godt medgive med det samme – at det jo ikke løser alle problemer vedrørende den overordnede liberalisering i EU, for der er
+selvfølgelig mange andre ting, der også skal kigges nærmere på, men
+det, vi behandler her, er præcis det med at få adskilt den overordnede
+situation med rørene på den ene side og så handelen på den anden
+side.
+Kravet har jo så i Danmark især betydning for de transmissionsnet, der ikke ejes af Energinet.dk, og som ikke i dag opfylder adskillelseskravene, fordi ejerne af det pågældende net også udøver handels- eller produktionsaktiviteter. Og derudover har lovforslaget jo
+også væsentlig betydning for Energitilsynet, hvilket flere også har
+fremhævet. Energitilsynet får flere opgaver med henblik på at sikre
+konkurrencen for el- og gasmarkederne, og Energitilsynets sekretariat, der hidtil har hørt under Konkurrence- og Forbrugerstyrelsen, bliver en selvstændig myndighed for at opfylde direktivernes krav om
+fuld uafhængighed.
+Så er der det, som nogle har kaldt et hjørne af forslaget, og det er
+jo så det, der vedrører vores nuværende situation med varmeforsyningsvirksomhederne, hvor vi jo har haft nogle oplevelser, hvor det
+er lige før, at det har været sådan, at man som forbruger skulle agere
+bank for sit varmeselskab. Det er naturligvis ikke acceptabelt, og
+derfor ligger der jo så nu her et forslag om at indføre en ny model,
+en selvevalueringsmodel for varmevirksomheder, og den vil så muliggøre, at vi gennemfører en ny og mere effektiv tilsynsmodel end
+den, vi har i dag. Den er der så blevet rejst en række spørgsmål om,
+og det synes jeg naturligvis vi skal have udboret endnu mere i den
+kommende tid. Det ser jeg selvfølgelig frem til, og derfor ser jeg også frem til de konstruktive drøftelser om lovforslagets enkeltelementer i Det Energipolitiske Udvalg.
+Så med de bemærkninger vil jeg anmode om en velvillig behandling af lovforslaget.";Kl. 13:30
+34650;Time;"Formanden :
+Der er ønske om en kort bemærkning, og det trykker man på knappen for at få. Fru Anne Grete Holmsgaard, værsgo.";Kl. 13:32
+34785;Time;;Kl. 13:32
+34813;name_party;":
+Der er jo nye regler!
+Jeg forstod ministeren sådan, at hun er villig til at se på det forslag, der nu er lagt frem – kan man ikke lige være stille? Godt, tak –
+og om det eventuelt skal ændres med hensyn til en særlig selvevaluering i fjernvarmesektoren. Jeg forstod også, at ministeren er villig
+til at drøfte, hvad man gør ved de varmeselskaber, som ikke var en
+del af den undersøgelse i det midtjyske, som førte til, at man fandt
+ud af, at der var en lang række værker, der havde opkrævet for mange penge. Og dem skal forbrugerne selvfølgelig have tilbage. Jeg vil
+bare være sikker på, at det var begge dele, ministeren var villig til at
+drøfte, og i givet fald vil jeg nemlig foreslå, ud over at jeg beder om
+nogle skriftlige svar på spørgsmål til ministeren, at vi også holder et
+møde om det, så vi ligesom kunne prøve at drøfte igennem, hvordan
+det her kunne gøres på en ordentlig måde.";Anne Grete Holmsgaard
+35716;Time;"Formanden :
+Ministeren.";Kl. 13:33
+35751;Time;"Klima- og energiministeren (Lykke Friis):
+Nu er det jo ikke sådan, at den model, der er fremlagt her, er faldet
+ned fra himlen på nogen som helst måde. Den model, der bliver foreslået, står Energitilsynet bag. Rigsrevisionen har jo også været inde
+at kigge på området som sådan. Man er så nu kommet frem til en
+model, som forsøger at balancere imellem forskellige hensyn.
+For det første er der selvfølgelig virksomhedernes eget ansvar.
+De skal jo i høj grad også være bedre til at styre regnskaberne som
+sådan, og der skal være orden i tingene, når de fremlægger dem. Det
+andet er, at man selvfølgelig også skal have en kontrol udefra, altså
+en stikprøvekontrol som sådan. Og det tredje er, at vi også skal finde
+den rette balance i den effektive udnyttelse af Energitilsynets ressourcer. Den model synes jeg jo vi skal have kigget nærmere på,
+som vi gør med alt andet lovarbejde, og vi skal se på forskellige problemer, der er med den. Men jeg vil bare sige, at det jo altså er en
+model, hvor man virkelig har forsøgt at finde en balance imellem de
+her respektive hensyn.";Kl. 13:33
+36835;Time;"Formanden :
+Fru Anne Grete Holmsgaard.";Kl. 13:34
+36885;Time;;Kl. 13:34
+36913;name_party;":
+Jeg sætter sådan set ikke spørgsmålstegn ved, at man har forsøgt at
+lave noget. Jeg synes bare, at når man ser på det, virker det ikke så
+voldsomt overbevisende. Det, jeg frygter, er, at man får en model,
+som er mere bureaukratisk, og, for at sige det ligeud, vil være til stor
+glæde for revisorforeningen, fordi det skaber mere arbejde til dem,
+men ikke tager fat på det, der er det grundlæggende, nemlig at man
+skal sørge for, at der er god disciplin i fjernvarmesektoren. Det gælder både inden for de 300 værker, der nu er undersøgt, og alle de andre, der ikke er undersøgt. Så det eneste, jeg appellerer til, er sådan
+set, at vi går til det rimelig åbent og fordomsfrit for at finde noget,
+der er ubureaukratisk, og som vi har tillid til giver den tilstrækkelige
+disciplin med regnskabsførelsen inden for fjernvarmesektoren.
+
+Tirsdag den 11. januar 2011 (L 88)";Anne Grete Holmsgaard
+37791;Time;"Formanden :
+Ministeren.";Kl. 13:35
+37826;Time;"Klima- og energiministeren (Lykke Friis):
+Jeg er bestemt heller ikke interesseret i at skabe unødigt bureaukrati
+på nogen som helst måde. Jeg synes, jeg bare var nødt til at forholde
+mig til det som det første, da jeg så, hvor mange fejl der var i regnskaberne, og især også i den her situation, som jeg også sagde før,
+hvor man nærmest skulle agere bank for sit varmeselskab. Det synes
+jeg bare ikke var acceptabelt, og det bliver vi nødt til at se på, og det
+går jeg også ud fra vi er enige om.
+Så vil jeg også sige, at med hensyn til bureaukrati er det nye jo
+her sådan set, at man som selskab nu skal kigge på regnskabet over
+tid for netop at se, hvordan det har udviklet sig, og det er jo ikke,
+fordi det nødvendigvis gør det mere bureaukratisk. Det sikrer sådan
+set bare, at vi får kigget mere systematisk på det, end vi har gjort
+indtil videre.
+Men selvfølgelig vil jeg lytte til, hvad der kommer af kommentarer under behandlingen efterfølgende.";Kl. 13:35
+38790;Time;"Formanden :
+Tak til klima- og energiministeren.
+Der er ikke flere, der har bedt om ordet, og så er forhandlingen
+sluttet.
+Jeg foreslår, at lovforslaget henvises til Det Energipolitiske Udvalg,
+hvis ingen gør indsigelse.
+Det var ikke tilfældet.
+
+Det næste punkt på dagsordenen er:
+4) 1. behandling af lovforslag nr. L 88:
+Forslag til lov om ændring af lov om ændring af lov om ligestilling af kvinder og mænd. (Ophævelse af lovens revisionsbestemmelse).
+Af ministeren for ligestilling (Hans Christian Schmidt, fg.).
+(Fremsættelse 01.12.2010).";Kl. 13:36
+39343;Time;"7
+
+Med L 88 foretager vi ikke de store lovændringer. Med L 88 følger vi blot op på et lovforslag, som vi vedtog i Folketinget for 2 år
+siden, og som fungerer efter hensigten. Med L 88 sikrer vi derfor en
+ophævelse af revisionsbestemmelsen, uden at der samtidig foretages
+andre ændringer i lovgivningen.
+Når L 88 fremsættes, er det, fordi det er en del af den lovaftale,
+som blev lavet for 2 år siden, nemlig at loven skulle revideres efter 2
+år, og at der skulle tages stilling til revisionsbestemmelsen. Så det
+følger jo helt naturlig praksis, at vi nu ophæver lovbestemmelsen, sådan som der var aftale om for 2 år siden, da den oprindelige lov blev
+vedtaget.
+Formålet med lovændringen var jo at sørge for, at alle talenter,
+også dygtige kvinder, kommer i spil, når der skal besættes poster i
+offentlige nævn, råd, kommissioner og lignende. Oprindelig var baggrunden for ligestillingsloven, der blev til i midten af 1980'erne under Schlüterregeringen, jo, at ligestillingsloven skulle være med til at
+sikre, at alle – ligegyldigt hvilket køn de havde – kunne komme frem
+i samfundet, uden at struktur, kultur bandt dem. Derfor lagde ligestillingsloven fra 1980'erne også op til, at der altid skal indstilles både en mand og kvinde til en post, medmindre der er saglige begrundelser, der taler imod dette.
+For at kunne følge udviklingen og se resultatet af de initiativer,
+der er taget, bliver der hvert år udarbejdet en ligestillingsredegørelse,
+hvor man aktivt kan følge med i, hvordan situationen ser ud. Det betyder også, at der ikke er nogen, der kan slippe for at gøre en aktiv
+indsats; for det bliver offentliggjort hvert år, hvad status på området
+er.
+Da lovændringen blev vedtaget for 2 år siden, var der visse organisationer, der mente, at det ville medføre tomme, nærmest spøgelsesagtige pladser i råd og nævn. For lovændringen tilsagde nemlig,
+at ressortministeren skulle lade pladsen stå tom, hvis der ikke blev
+indstillet både en mand og en kvinde og der samtidig ikke var en
+saglig begrundelse for, hvorfor man i det konkrete tilfælde ikke
+valgte at indstille både en mand og en kvinde. I dag kan vi så konstatere, at der ikke står nogen pladser spøgelsesagtigt tomme hen. Der
+har ikke været ubesatte poster, siden loven blev ændret for 2 år siden, og viljen til at sikre, at alle talenter bringes i spil, og sikre både
+høj faglighed og mangfoldighed, er derfor i høj grad eksisterende.
+På den baggrund synes vi i Venstre, det er helt naturligt, at vi i
+dag ophæver revisionsbestemmelsen i loven, og derfor kan vi støtte
+L 88.";Kl. 13:36
+41895;Time;"Formanden :
+Tak til fru Ellen Trane Nørby. Så er det fru Julie Rademacher som
+ordfører for Socialdemokratiet.";Kl. 13:39
+42016;Time;"Forhandling
+Formanden :
+Forhandlingen er åbnet. Den første, der får ordet, er fru Ellen Trane
+Nørby som ordfører for Venstre.";Kl. 13:40
+42153;Time;(Ordfører);Kl. 13:36
+42187;name_party;":
+Formålet med ligestillingspolitik er for os i Venstre ikke at gennemtrumfe et millimeterdemokrati, hvor der altid er lige så mange kvindelige tømrere, som der er mandlige, eller tilsvarende lige så mange
+mandlige pædagoger, som der er kvindelige. Ligestilling er for os i
+Venstre at sikre, at alle har mulighed for og frihed til at vælge det, de
+ønsker at udleve, bl.a. den beskæftigelsesdrøm, de måtte have, uden
+at der er kultur, tradition eller struktur, der tvinger dem til noget andet. Ligestilling handler for os i Venstre om at bringe alle talenter i
+spil og sikre, at vi som enkeltpersoner og som samfund udnytter alle
+de menneskelige ressourcer, der er til stede.
+
+(Ordfører)";Ellen Trane Nørby
+42894;name_party;":
+Mange tak. Det er jo ofte sådan, når vi har diskuteret ligestilling her
+i Folketingssalen, at linjerne har været trukket meget, meget klart op,
+for det er bestemt ikke noget, vi har været enige om i oppositionen
+og i regeringen samt dens støtteparti. Men der har faktisk været et
+forslag, vi siden sidste folketingsvalg helt klart alle har kunnet bakke
+op om på nær Dansk Folkeparti, og det handler netop om, at vi faktisk er meget enige i målene for ligestilling i Danmark, og at både
+mænd og kvinder skal være repræsenteret i offentlige råd, nævn og
+udvalg. Jeg er rigtig glad for, at vi rent faktisk har fået indført det
+her, og jeg mener også, at vi på en lang række andre områder kunne
+lære af det her forslag, vi har lavet.
+Jeg må dog til det her helt konkrete forslag, L 88, sige, at vi mener – som det også bliver sagt fra Venstres ordførers side, og som
+Kvinfo også skriver i deres høringssvar – at ligestillingsredegørelserne opfylder rigtig mange krav i dag. Dog vil vi også lytte til det, der
+
+8
+
+Tirsdag den 11. januar 2011 (L 88)
+
+fremgår af LO's høringssvar, og afvente en ændring af revisionsbestemmelsen.
+Så kort sagt i forhold til det her lovforslag vil jeg sige, at vi sådan
+set støtter formålet i den lov, vi har vedtaget, men vi vil meget gerne
+vente med at ophæve revisionsforpligtelsen. Vi ser dog frem til udvalgsarbejdet, men indtil videre er vores indstilling et nej tak til L
+88.";Julie Rademacher
+44313;Time;"Formanden :
+Der er ønske om en kort bemærkning. Fru Ellen Trane Nørby.";Kl. 13:41
+44395;Time;;Kl. 13:41
+44418;name_party;":
+Tak. Det er jo meget interessant at høre den socialdemokratiske ordfører så meget klart tale om LO's høringssvar. Endnu en gang ser vi
+altså et eksempel på, at Socialdemokraterne har deponeret deres ligestillingspolitiske handlekraft hos LO. Det er jo ikke nogen hemmelighed for hverken Socialdemokraterne eller nogen af de andre partier i Folketingssalen, at både Dansk Arbejdsgiverforening og LO var
+modstandere af forslaget, da det blev fremsat her i Folketinget for 2
+år siden, hvor oppositionen bakkede op om forslaget, og det er heller
+ikke nogen hemmelighed for nogen, at LO og DA fortsat er de eneste parter, der i deres høringssvar er kritiske nu, hvor revisionsbestemmelsen skal ophæves. Men det er jo så meget desto tydeligere,
+at Socialdemokraterne har lavet en så klokkeklar aftale med LO, at
+det her så er et punkt, hvor man ikke vil fravige LO's holdninger og
+have sin egen ligestillingspolitiske holdning, men derimod bare følge LO.
+Derfor vil jeg blot høre den socialdemokratiske ordfører, om det
+virkelig kan passe, at ligestillingspolitik i dag ikke længere fastlægges i Socialdemokraternes gruppeværelse, men hos fagbevægelsen.";Ellen Trane Nørby
+45577;Time;"Formanden :
+Ordføreren.";Kl. 13:42
+45612;Time;;Kl. 13:42
+45634;name_party;":
+Det lyder næsten, som om at fru Ellen Trane Nørby har fået gang i
+sin valgknap, der pr. automatik sætter Socialdemokraternes holdning
+til alt sammen med fagbevægelsen. Vi er rigtig stolte af, at vi ofte i
+fællesskab med den kan finde nogle løsninger, men jeg vil godt understrege, at vores ligestillingspolitik er langt mere progressiv end
+det, regeringen overhovedet har formået. Regeringen og de partier,
+der bakker op om regeringen, når os ikke til sokkeholderne på det
+område.
+Derfor kunne jeg godt tænke mig at sparke igen og sige: Det her
+handler om en såre simpel revisionsbestemmelse. Vi går ikke mod
+det. Vi siger, at vi bare gerne vil have, at der går lidt mere tid, før vi
+fjerner den. Skulle vi efter et valg sidde i regering, vil vi også være
+villige til at kigge på det. Så lad nu være med at trykke på automatknappen og få det til at lyde, som om at vi bare har deponeret vores
+ligestillingspolitiske dagsorden. Vi har rent faktisk en dagsorden, og
+den har rigtig mange andre punkter også.";Julie Rademacher
+46650;Time;"Formanden :
+Fru Ellen Trane Nørby.";Kl. 13:43
+46696;Time;;Kl. 13:44
+46719;name_party;":
+Det glæder mig da, at vi kan drøfte det her i udvalget, sådan at vi
+forhåbentlig kan få en konstruktiv drøftelse, også på baggrund af de
+mange andre høringssvar, der er indkommet, hvor der jo ikke er no-
+
+gen problemer med, at man ophæver revisionsbestemmelsen og dermed vedtager L 88, sådan som det ligger.
+Den socialdemokratiske ordfører står jo nu og siger, at man gerne
+ville have haft en længere periode. Det er jo ikke et synspunkt, som
+Socialdemokraterne fremførte, dengang vi havde drøftelsen for 2 år
+siden, og hvor det jo står i loven, at den skal revideres nu her efter 2
+år. Det er et helt nyt synspunkt hos Socialdemokraterne, at der skulle
+være problemer med det her, på trods af at det jo ikke er første gang,
+vi drøfter sagen.
+Derfor må man jo lidt foranlediges til at tro, at det hænger sammen med de meget tætte bånd, der er mellem LO, som er modstander af det her forslag, og Socialdemokraterne. Det håber jeg da på at
+ordføreren kan knytte en kommentar til, samtidig med at ordføreren
+jo så kan få lov til at svare på det med den der såkaldte progressive
+politik, som ordføreren taler om. Det handler jo om, at man vil
+tvangsopløse danske virksomheder, man vil indføre kvoter. Er det
+ikke korrekt, at det i Norge har ført til, at 32 pct. af de norske selskaber har ændret selskabsform for at undgå den tilsvarende lovgivning,
+der er indført i Norge, og som Socialdemokraterne nu ønsker i Danmark?";Ellen Trane Nørby
+48147;Time;"Formanden :
+Ordføreren.";Kl. 13:45
+48182;Time;;Kl. 13:45
+48204;name_party;":
+Man skal ikke alene lægge øre til fru Ellen Trane Nørbys valgknap
+med hensyn til Socialdemokraternes og fagbevægelsens sammenhold, næh, nu skal man også høre på skræmmekampagner om, at Socialdemokraterne ønsker at tvangsopløse virksomheder. Det gør vi
+bestemt ikke. Men vi ønsker klart flere kvindelige og mandlige talenter i spil i det offentlige og som sagt også i det private erhvervsliv. Der er det jo netop, at fru Ellen Trane Nørby på mange områder
+mange gange har forsøgt at forsvare erhvervslivet og sagt: Ih og åh,
+vi vil ikke stille nogle kriterier eller nogle mål for, hvad vi gerne vil
+nå.
+Her er vi rent faktisk helt konstruktivt nået frem til et forslag,
+hvor vi gerne vil have både mænd og kvinder indstillet til råd, nævn
+og udvalg. Så lad os nu holde den konstruktive tone. Lad os nu sætte
+nogle konkrete mål for, hvad det er, vi gerne vil nå i Danmark, for vi
+er jo enige om målsætningerne. Så kan vi altid diskutere barsel, vi
+kan altid diskutere ligeløn, vi kan altid diskutere, hvordan vi også får
+flere kvinder og mænd igennem uddannelsessystemet. Det er vi meget åbne over for.";Julie Rademacher
+49316;Time;"Formanden :
+Så er det hr. Simon Emil Ammitzbøll, en kort bemærkning.";Kl. 13:46
+49396;Time;;Kl. 13:46
+49424;name_party;":
+Det kan da godt være, at Venstre og Socialdemokraterne er enige,
+det skal jeg ikke gøre mig klog på, men hvis der er nogen, der har
+prøvet at skræmme dansk erhvervsliv, så er det vel fru Julie Rademacher, der sidste år virkelig prøvede at skræmme erhvervslivet med
+det her med tvangsopløsninger af virksomheder, der ikke ville følge
+fru Julie Rademachers direktiver. Bare lige for at få det på plads
+først.
+Så sagde fru Julie Rademacher, at de initiativer, Socialdemokraterne tog, var for at sikre kvindelige og mandlige talenter i det private erhvervsliv. Hvordan i alverden sikrer man mandlige talenter i det
+private erhvervsliv ved at fremme kvinder, som erhvervslivet ikke
+vil have?
+
+Tirsdag den 11. januar 2011 (L 88)";Simon Emil Ammitzbøll
+50160;Time;"Formanden :
+Ordføreren.";Kl. 13:47
+50195;Time;;Kl. 13:47
+50217;name_party;":
+Det er klart, at jo flere talenter, der kommer i spil, jo hårdere er konkurrencen – sådan er det jo. Og hvis man så i et miljø, hvor der traditionelt er mange mænd eller mange kvinder, stiller krav som dem, vi
+har indført i det her tilfælde, om, at der skal være både kvinder og
+mænd, så kommer der rigtig mange flere ansøgere. På den måde tror
+jeg faktisk vi samlet set opnår, at de allermest kompetente får posterne. Det synes jeg faktisk det her forslag har været et bevis på.
+Hvad angår det andet om en skræmmekampagne om tvangsopløsning af virksomheder, vil jeg blot slå fast en gang for alle: Vi ønsker ikke at tvangsopløse virksomheder. Og det fremgår heller ikke
+af det beslutningsforslag, vi rent faktisk havde til behandling her i
+Folketingssalen i sidste samling – jeg mener, det var B 167. Det er
+ren skræmmekampagne fra hr. Simon Emil Ammitzbølls side. Og
+det skal man høre fra en mand, som ikke selv er kommet med nogen
+former for forslag til, hvordan vi rent faktisk kan fremme ligestilling.";Julie Rademacher
+51235;Time;"Formanden :
+Hr. Simon Emil Ammitzbøll.";Kl. 13:48
+51285;Time;;Kl. 13:48
+51313;name_party;":
+Jamen der er fuld ligestilling i forhold til bestyrelsesposter i det private erhvervsliv, erhvervslivet kan nemlig frit vælge, hvem de vil,
+staten har ikke lagt nogen begrænsninger ind. Jeg ved dog godt, at
+erhvervslivets forhold er ret fremmede for Socialdemokraterne; det
+er ikke noget, man går særlig meget op i.
+Når fru Julie Rademacher siger, at der skal flere talenter i spil, er
+det jo spil for galleriet, for alle talenter er i spil. Og det er altså ikke
+sådan, som fru Julie Rademacher siger, at man nødvendigvis ligesom ansøger om en post i en bestyrelse. Det ville da være en meget
+mærkelig virksomhed, der bare slog et opslag op og spurgte: Findes
+der nogle gode kandidater? Det er jo ejerne af virksomheden, der suverænt bestemmer, hvem de vil have, ligesom det er vælgerne, der
+suverænt bestemmer, hvem de vil have til at repræsentere dem i dette Folketing. Og jeg går ud fra, at det også er de socialdemokratiske
+medlemmer, der suverænt bestemmer, hvilke Socialdemokrater der
+opstilles.
+Har man i øvrigt en 40-procents-kvote for folketingskandidater i
+Socialdemokratiet?";Simon Emil Ammitzbøll
+52410;Time;"Formanden :
+Ordføreren.";Kl. 13:49
+52445;Time;;Kl. 13:49
+52467;name_party;":
+Vi arbejder på en lang række områder på også at implementere ligestillingspolitikken i vores eget parti. Der skal ikke herske nogen tvivl
+om, at det ser langt bedre ud hos Socialdemokraterne i dag, end det
+gjorde for mange år siden, fordi vi netop har arbejdet for at fremme
+ligestillingen mellem mænd og kvinder. Og der er ingen tvivl om, at
+vi ikke fuldstændig har vundet den kamp endnu – og det har vi heller
+ikke i hele Danmark. Der er langt mere, vi kan gøre på det her punkt,
+og vi ser rigtig meget frem til at komme i gang med det arbejde.
+Men vi er ikke bange. Vi er ikke bange for at sætte nogle konkrete
+mål for, hvad det egentlig er, vi gerne vil nå. Vi synes, det er helt
+naturligt, at man på en lang række områder – f.eks. i uddannelsessy-
+
+9
+
+stemet, hvor vi har 50- og 95-procents-målsætninger, og en lang
+række andre steder – har mål for, hvad vi gerne vil nå.
+Hvorfor er det, at hr. Simon Emil Ammitzbøll ikke vil det på lige
+det her område? Det er, fordi man er så meget liberalist, at man ikke
+ønsker, at fællesskabet skal sætte mål, og fordi man jo har erhvervslivet derude – der er imod det – som sponsorer. Det er vi ikke bange
+for.";Julie Rademacher
+53633;Time;"Formanden :
+Fru Pia Adelsteen for en kort bemærkning.";Kl. 13:50
+53698;Time;;Kl. 13:50
+53718;name_party;":
+Jeg synes, at det er bemærkelsesværdigt, at når der bliver spurgt om
+noget, bliver der i hvert fald ikke svaret på det. Har Socialdemokraterne en 40-procents-ordning for deres kandidater, sådan at der er de
+her kvoter, som man jo er så vild med? Det vil jeg da gerne have
+svar på. Nu har hr. Simon Emil Ammitzbøll spurgt, og han fik i
+hvert fald ikke noget svar.
+Jeg kunne også godt tænke mig at vide, om man ikke mener, at
+når en ejer har investeret sine penge, sin ejendom, eller hvad det nu
+måtte være, i en privat virksomhed, så er det også den ejer, der selvfølgelig bestemmer, hvem der skal bestyre butikken. Det må da være
+rimeligt. Der er altså tale om noget risikovillig kapital, ergo skal
+man også have tillid til de folk, der sidder der. Jeg har ikke noget imod, at talenter kommer i spil, selv om jeg synes, at det er en floskel,
+der simpelt hen bliver brugt ulidelig meget. Men kan fru Julie Rademacher ikke bare fortælle, om der er kvoteordning i Socialdemokratiet, sådan som man jo ønsker det for alle andre, og om det ikke er
+ejerne af virksomhederne, der kan bestemme, hvem bestyrelserne
+skal bestå af.";Pia Adelsteen
+54849;Time;"Formanden :
+Ordføreren.";Kl. 13:51
+54884;Time;;Kl. 13:51
+54906;name_party;":
+Det er da utroligt, at Dansk Folkepartis ordfører i forbindelse med et
+lovforslag om ophævelse af en revisionsbestemmelse, et forslag, vi
+allerede har behandlet tidligere, rent faktisk kan stille sig op og køre
+debatten endnu længere ud. Jeg vil meget gerne svare på de spørgsmål, der bliver stillet. Vi har ikke i dag direkte kønskvotering i Socialdemokratiet, i forhold til hvem der skal være kandidater. Vi overvejer forskellige modeller, men ligesom det er rigtig mange andre
+steder, er det noget, vores kongres og vores organisation tager stilling til.
+I modsætning til Dansk Folkeparti er vi ikke et totalt topstyret
+parti. Vores medlemmer har meget, meget stor indflydelse, og det er
+også grunden til, at vi faktisk er kommet til at være mange kvinder
+og også mange mænd i mange aldre med meget forskellig baggrund
+i partiet. Det er jeg stolt af. Jeg repræsenterer et parti, hvor der er
+rigtig mange slags mennesker. Så ligestilling handler ikke kun om
+mænd og kvinder; det handler også om etnicitet og om alder, og det
+synes jeg er utrolig vigtigt vi tager op i den her sammenhæng. Men
+vi har et ligestillingsudvalg, det har vi også i vores folketingsgruppe.
+Vi arbejder målrettet for at få langt flere kriterier med i modsætning
+til det, Dansk Folkeparti gør i dag.";Julie Rademacher
+56192;Time;"Formanden :
+Fru Pia Adelsteen.
+
+10
+
+Tirsdag den 11. januar 2011 (L 88)";Kl. 13:52
+56276;Time;;Kl. 13:55
+56287;Time;;Kl. 13:52
+56307;name_party;":
+Så vil jeg gå tilbage til det her forslag. En ting, der undrer mig, er, at
+man nu siger nej til en ophævelse af revisionsbestemmelsen, noget,
+som man for 2 år siden sagde ja til, for det var jo det, man gjorde.
+Fru Julie Rademacher sagde tidligere, at målet, altså det her med, at
+der bliver indstillet en mand og kvinde, er fint nok. Det er vi jo dybt
+uenige i, men Socialdemokraterne er enige om, at sådan skal der indstilles. Dengang kom revisionsbestemmelsen også, og der sagde man
+det. Hvordan kan det være, at det lige pludselig er et problem? Altså,
+jeg synes også, det er et problem, men hvordan kan det være, at fru
+Julie Rademacher og Socialdemokraterne synes, at det er et problem
+nu?";Pia Adelsteen
+57014;Time;"Formanden :
+Ordføreren.
+
+Formanden :
+Fru Helle Sjelle.";Kl. 13:53
+57080;Time;;Kl. 13:55
+57099;name_party;":
+Noget klart svar blev det jo ikke til, og det er nok også, hvad man
+kan forvente, hvis det ulykkelige skulle ske, at en socialdemokratisk
+regering kommer til magten. Det eneste, man kan være sikker på, og
+som står meget klart, er i hvert fald, at fagforeningerne får en væsentlig indflydelse, for ikke at sige, at det er derfra, Danmarks fremtid bliver styret fremover, hvis det ulykkelige skulle ske, at Socialdemokratiet får magten.
+Jeg synes, jeg vil prøve en gang til at spørge fru Julie Rademacher, hvad det er, der gør, at man ikke ønsker at ophæve den her revisionsbestemmelse. Er det ikke, fordi fagforeningerne ikke ønsker
+det? Er det ikke det, der er årsagen?";Helle Sjelle
+57780;Time;;Kl. 13:56
+57791;Time;;Kl. 13:53
+57813;name_party;":
+Det er jo sådan, at man altid har lov til at vurdere et forslag, når der
+er gået noget tid. Her stiller vi os sådan set ikke meget imod, at vi
+skal tage revisionsbestemmelsen ud – eller det modsatte. Vi vil bare
+gerne have lidt mere tid til at vurdere det, så vi kan se de nøjagtige
+effekter af det her lovforslag. Det synes jeg egentlig er meget, meget
+rimeligt.
+Til de andre bemærkninger, der er kommet fra Dansk Folkepartis
+side, vil jeg sige, at jeg synes, det er helt utroligt, at et parti, der ikke
+selv vil noget på ligestillingsområdet og her i høj grad bremser den
+regering, vi har, ikke selv tager debatten og sikrer ligeløn, sikrer, at
+vi får mænd og kvinder ind rigtig mange steder i uddannelsessystemet. En af kerneværdierne i det danske samfund for mig har været,
+at vi bl.a. har været kendt for ligestilling og også for, at vi arbejder
+for det i Danmark. Det er en dansk kerneværdi for mig, og derfor er
+jeg enormt skuffet over, at et parti, der kalder sig Dansk Folkeparti,
+ikke værner noget mere om denne værdi.";Julie Rademacher
+58853;Time;"Formanden :
+Ordføreren.";Kl. 13:54
+58888;Time;;Kl. 13:56
+58910;name_party;":
+Som jeg allerede har sagt, er det, fordi vi gerne vil lade bestemmelsen virke i lidt længere tid, før vi vurderer forslaget endeligt. Når det
+så er sagt, må sige, at jeg ikke kan forstå, at De Konservative, der
+selv er i dyb krise i øjeblikket, søger at sætte et skræmmebillede op
+af, hvordan det vil gå, hvis Socialdemokraterne kommer i regering.
+Jamen altså, De Konservative kan jo knap nok styre sig selv for tiden. Så jeg synes ærlig talt, at vi skal lukke valgkampen her i Folketingssalen og tage den til debatmøderne derude og forholde os til
+forslaget om revisionsbestemmelsen, som vi bestemt stiller os åbne
+over for at diskutere under udvalgsbehandlingen.
+Men indtil videre ser vi kritisk på, at bestemmelsen kun har fået
+lov til at virke i så kort tid, som den har, og derfor ser vi egentlig
+gerne, at der går lidt længere tid, før vi overvejer revisionsbestemmelsen.";Julie Rademacher
+59799;Time;"Formanden :
+Så er det fru Helle Sjelle med en kort bemærkning.";Kl. 13:57
+59873;Time;;Kl. 13:54
+59892;name_party;":
+Jeg synes stadig væk, det står ganske uklart, hvorfor fru Julie Rademacher og Socialdemokratiet ikke vil ophæve revisionsbestemmelsen. Hvorfor er det, man vil have mere tid? Hvad er det, der gør, at
+man lige præcis på det her område har brug for ekstra tid? Er det ikke, fordi det er noget, fagforeningerne synes er en god idé at man
+får? Er det ikke det, der er sagens kerne? Er det ikke det, der er sandheden? Jeg synes, at vi alle fortjener et ærligt svar.";Helle Sjelle
+60363;Time;"Formanden :
+Ordføreren.";Kl. 13:55
+60398;Time;;Kl. 13:55
+60420;name_party;":
+Nu er der altså ikke nogen grund til at gøre en revisionsbestemmelse
+til et meget større emne, end det er. Vi vil gerne kigge på det her under udvalgsbehandlingen, og jeg håber også, at vi kan nærme os hinanden noget mere, end det er sket; det har jeg ikke stillet mig fuldstændig afvisende over for. Så lad os nu prøve at se, hvad der sker
+under udvalgsbehandlingen, og så tage den derfra. Indtil videre har
+vi sådan set bare givet vores umiddelbare indstilling til det, men vi
+er ikke afvisende over for forhandling.
+
+Formanden :
+Tak til fru Julie Rademacher. Der er ikke flere ønsker om korte bemærkninger, og så er det fru Pia Adelsteen som ordfører for Dansk
+Folkeparti.";Julie Rademacher
+61107;Time;(Ordfører);Kl. 13:57
+61138;name_party;":
+Tilbage i 2009 blev det af et flertal i Folketinget vedtaget, at en minister i stedet for at kunne nu skulle lade en plads stå tom, hvis der
+ikke var indstillet både en mand og en kvinde, medmindre der var
+særlige grunde hertil. Samtidig indførtes en revisionsbestemmelse,
+da der var en del bekymring for, at flere poster ville kunne stå tomme på grund af denne ændring. Det er så denne revisionsbestemmelse, der nu foreslås ophævet.
+Når jeg læser bemærkningerne til forslaget, kan jeg ikke andet
+end at sige, at selve lovgivningen i forbindelse med indstillingen af
+både en mand og en kvinde er fuldstændig tåbelig og i alle tilfælde
+ikke hænger sammen med virkeligheden.
+Når man f.eks. efter et kommunalvalg skal sidde og fordele poster i byrådets politiske grupper, bliver de typisk fordelt efter, hvor
+store partierne er, og en hel del af posterne skal i øvrigt besættes af
+medlemmer af byrådet. Sådan er det også inden for stat og regioner.
+Det betyder også, at man kan komme i klemme i forhold til ligestil-
+
+Tirsdag den 11. januar 2011 (L 88)
+
+lingsloven, når der sker udpegninger, simpelt hen på grund af partiets størrelse.
+F.eks. sidder der i handicaprådet i min hjemkommune ikke færre
+end fem byrådskvinder på de fem pladser, der er. Skulle vi så vrage
+politikere, fordi der på nogle af de her fem pladser sidder en kvinde
+og der kun er et enkelt medlem af det parti, der er valgt til byrådet?
+Så skulle vi vrage dem, fordi vi nu skulle have nogle flere mænd ind,
+og vrage folk, der er interesseret i det her arbejde, og så i stedet for
+få en af det modsatte køn ind, som måske er knap så interesseret i
+dette arbejde.
+I de statslige råd og nævn har der stort set ikke været nogen ændring i andelen af kvinder siden år 2000. Fra 2000 til 2007 steg andelen af kvinder fra 35 til 42 pct., og i 2009 udgjorde kvinder knap
+40 pct. På det kommunale område udgjorde kvinder i perioden
+2006-2007 35 pct., mens andelen af kvinder i perioden 2007-2009
+faldt til 30 pct. Kun hvad angår regionerne, kan man se en fremgang:
+I perioden 2006-2007 udgjorde kvinder 28 pct., og i perioden
+2007-2009 var denne andel steget til 44 pct.
+Siden indførelsen af bestemmelsen i 2009 om, at en minister skal
+lade en plads stå tom, hvis ikke der er blevet indstillet både en kvinde og en mand og der ikke er blevet givet en saglig begrundelse for
+det, har der ikke været eksempler på, at det er sket.
+I Dansk Folkeparti er vi af den opfattelse, at denne tvangsudskrivning af både mænd og kvinder er et forsøg på at lave kvoteordninger, der, som tallene viser, overhovedet ingen effekt har på sammensætningen af råd og nævn, netop fordi man vælger ud fra interesser og kvalifikationer. Derfor bør Folketinget også fjerne bestemmelsen om indstilling af både en mand og en kvinde, da det intet har
+med ligestilling at gøre. Jeg er godt klar over, at der p.t. ikke er flertal for det, men det kunne være rart, at den blev fjernet, og det er i
+hvert fald noget, vi vil foreslå.
+Umiddelbart kan jeg ikke se nogen grund til at ophæve revisionsbestemmelsen – nu var vi heller ikke med til at indføre den, og jeg
+synes egentlig, at dem, der har indført den, kan slås om det – så vi
+kan ikke støtte op om det.";Pia Adelsteen
+64335;Time;"Formanden :
+Tak til fru Pia Adelsteen. Er der ønske om en kort bemærkning? Det
+er der fra fru Julie Rademacher, værsgo.";Kl. 14:00
+64466;Time;;Kl. 14:01
+64488;name_party;":
+Mange tak. Jeg vil sådan set bare kort annoncere, at SF's ordfører desværre ligger med 39 i feber, men her under DF's ordførers bemærkning godt vil give den tilkendegivelse, at de sådan set støtter den
+holdning, jeg redegjorde for fra Socialdemokraternes side, og også
+stiller sig åbne over for udvalgsbehandlingen og den senere behandling. Så på SF's vegne vil jeg lade fru Pia Adelsteen slippe her for i
+dag og blot tilkendegive det af hensyn til referatet.";Julie Rademacher
+64959;Time;"Formanden :
+Tak. Det var en kort kommentar. Tak til fru Pia Adelsteen. Der er
+ikke ønske om yderligere bemærkninger, og så er det fru Helle Sjelle
+som ordfører for Det Konservative Folkeparti.";Kl. 14:01
+65163;Time;(Ordfører);Kl. 14:02
+65193;name_party;":
+Lovforslaget fra ligestillingsministeren har til formål at ophæve en
+revisionsbestemmelse i ligestillingsloven, som et flertal her har indsat i loven tilbage i 2009. Revisionsbestemmelsen vedrører de bestemmelser i loven, som handler om en ligelig kønsfordeling i offentlige udvalg. Bestemmelserne har eksisteret siden 1985, og i dag
+
+11
+
+er reglerne sådan, at stat, regioner og kommuner skal tilstræbe en ligelig kønsfordeling i de udvalg, som de nedsætter. I praksis sker det
+ved, at der skal indstilles både en kvinde og en mand, når en ledig
+post skal besættes, og hvis den offentlige myndighed ikke kan indstille det, skal den give en saglig begrundelse – ellers skal den lade
+pladsen stå tom.
+Det er den sidste regel – at pladsen skal stå tom, hvis der ikke er
+indstillet både en mand og kvinde, og hvis der ikke er givet en saglig
+begrundelse – som revisionsbestemmelsen vedrører. Folketinget
+vedtog nemlig reglen om den tomme plads i 2009, men indsatte samtidig en revisionsbestemmelse, fordi det var fornuftigt efter et stykke
+tid at vurdere, hvorvidt reglen også virkede efter hensigten. Og det
+gør den så. Det har endnu ikke været nødvendigt at lade en udvalgsplads stå tom; derfor er der også god grund til nu at fjerne bestemmelsen.
+Det gode ved reglerne om en ligelig kønsfordeling i offentlige
+udvalg er, at de bidrager til at bringe flere kvalificerede kvinder i
+spil og samtidig ikke udgør nogen tvingende kvote. Reglerne er
+nemlig så smart indrettet, at hvis der ikke er nogen kvalificeret kvinde til en ledig post, ja, så behøver den pågældende offentlige myndighed heller ikke at opstille nogen kvinde til posten. Hvis der var
+tale om en kvote, ville posten pinedød skulle besættes med en kvinde, kvalificeret eller ej.
+Så vil nogle måske spørge: Hvorfor vil vi Konservative være med
+til at lave vejledende regler for sammensætningen af offentlige udvalg, når vi ikke vil indføre kvoter i landets private virksomheder?
+Det er der et væld af gode grunde til, og jeg vil fremhæve to:
+For det første er der i forvejen rigtig mange regler for landets private virksomheder, selv om det er dem og kun dem, der tjener de
+penge, vi alle sammen lever af, og derfor mener vi Konservative ikke, at staten skal genere virksomhederne med endnu en regel, som
+oven i købet er en meget indgribende regel, nemlig kvotekvinder.
+Der skal være grænser for statsmagten, ellers ender vi i ren socialisme, hvor staten blander sig i alle dele af samfundslivet, og det ønsker vi ikke. Derfor er vi imod kvoter og andre samfundsskadelige
+tiltag.
+For det andet er kvindekvoter en rigtig dårlig idé, fordi de skaber
+kvotekvinder, dvs. kvinder, som kun bliver udpeget til en bestemt
+post, fordi de er kvinder, og ikke, fordi de er de bedst kvalificerede.
+Der findes rigtig mange dygtige og veluddannede og flittige kvinder
+i Danmark, og de stormer frem. Jeg er også sikker på, at al tale om
+kvoter vil forstumme om få år, og at venstrefløjen i stedet vil kaste
+sig frådende over mandekvoter. Men hverken kvindekvoter eller
+mandekvoter er vejen frem, hvis vi ønsker at skabe reel ligestilling,
+for kvoter overbeviser ikke nogen som helst om, at mænd og kvinder
+er ligeværdige. Kvoter er en tvangsmekanisme, der kan tvinge nogen
+til noget, men de kan ikke overbevise nogen om noget, og derfor er
+vi imod kønskvoter.
+Samlet set kan vi Konservative således bakke fuldt og fast op om
+lovforslaget fra ligestillingsministeren, som vil ophæve revisionsbestemmelsen i ligestillingsloven, men som derudover ikke ændrer noget.";Helle Sjelle
+68712;Time;"Formanden :
+Tak til fru Helle Sjelle. Så er det hr. Manu Sareen som ordfører for
+Det Radikale Venstre.";Kl. 14:05
+68826;Time;(Ordfører);Kl. 14:05
+68855;name_party;":
+L 88 kommer meget, meget vidt omkring – det havde jeg ikke regnet
+med – fra den konservative krise til bestyrelsesposter i Norge, men
+uagtet hvor vi ender henne, vil jeg sige, at Det Radikale Venstre
+umiddelbart ikke støtter ophævelsen af revisionsbestemmelsen i lov
+
+12
+
+Tirsdag den 11. januar 2011 (L 88)
+
+om ligestilling af mænd og kvinder. Generelt er vi positive og ser
+positivt på, at der selvfølgelig gøres en aktiv indsats for at fremme
+ligestillingen i offentligt nedsatte råd, nævn og udvalg, og især skal
+det fremhæves, at man på grund af lovgivningen bliver nødt til at afsøge kandidatfeltet grundigere for at få kvalificerede kandidater af
+begge køn frem for bare at vælge dem, som man normalt har en snitflade med – det, som alle efterhånden kender som Rip, Rap og Rupeffekten.
+Desuden bidrager den positive udvikling til, at der er indberetningspligt, da det synliggør udviklingen og fører til refleksion, nytænkning og en øget bevidsthed. Derfor er det selvfølgelig også håbet, at vi i fremtiden vil se en endnu bedre og meget mere klar tendens i udviklingen af kønssammensætningen, end der foreligger lige
+nu, så vi får en meget mere ligelig fordeling og dermed får udnyttet
+alle ressourcer i samfundet på den mest gavnlige måde for os alle.
+Det er derfor vores overbevisning, at en revision af loven vil være til
+stor nytte og vil kunne hjælpe med at få afdækket, om loven fungerer hensigtsmæssigt, eller om den skal justeres for at sikre de optimale betingelser for en fortsat positiv udvikling på området.
+Derfor kan Det Radikale Venstre, som jeg startede med at sige,
+umiddelbart ikke støtte ophævelsen af revisionsbestemmelsen på nuværende tidspunkt, men vi anbefaler, at man udskyder revisionen bare et par år, så loven får lov til at virke og slå rødder i en rum tid, og
+så man dermed også får et bredere erfaringsgrundlag at trække på.
+Jeg kan godt høre, at vi selvfølgelig ikke er enige, men jeg håber, vi
+i udvalgsarbejdet kan nå til en fælles forståelse.";Manu Sareen
+70850;Time;"Formanden :
+Tak til hr. Manu Sareen. Der er ikke ønske om korte bemærkninger.
+Så er det næste ordfører, der skal på talerstolen, og det er hr. Simon
+Emil Ammitzbøll fra Liberal Alliance.";Kl. 14:07
+71048;Time;(Ordfører);Kl. 14:08
+71087;name_party;":
+Det er godt, der er aktiviteter i salen, så Tinget kan være underholdt.
+(Den forrige ordfører ønskes tillykke med sin første ordførertale).
+Jeg må sige, jeg er noget overrasket over den debat, vi har haft
+her i dag. Jeg troede simpelt hen, det her var ugens mest ukontroversielle lovforslag: Vi skulle slette en revisionsbestemmelse. Jeg har
+aldrig oplevet noget lignende, men man skal jo aldrig sige aldrig. Jeg
+vil bare endnu en gang understrege, at Liberal Alliance er støtteparti
+til regeringen og derfor selvfølgelig bakker op om det her fuldstændig uskyldige lovforslag.
+Når det er sagt, synes vi dog, at man skal være opmærksom på,
+hvordan man opfatter ligestilling, og hvordan vi diskuterer ligestilling. For os i Liberal Alliance er ligestilling lige muligheder, det vil
+sige, at alle har de samme muligheder for at opnå de samme poster i
+samfundet. Er det sådan på forskellige steder i tilværelsen? Ja, det er
+det faktisk. Det er faktisk muligt i dette land at opnå de samme ting,
+om man er mand eller kvinde, med undtagelse af insemination og
+fødsler, tror jeg. Så i virkeligheden skulle man måske dæmpe retorikken lidt og kæmpe for, at de bedst kvalificerede bliver valgt.
+Derfor kan jeg ikke undlade at stille et lille drillespørgsmål til ligestillingsministeren, fordi ligestillingsministeren jo også har en fortid på Københavns Universitet, inden ligestillingsministeren blev ligestillingsminister. Det er jo et af de to universiteter, som har fået
+dispensation, så vidt jeg ved, fra ligestillingsloven, i forhold til at
+man kan gå ind og give en pose penge enten til et institut eller en
+bestemt forsker, hvis man vælger en forsker af et bestemt køn. Der
+var nogle diskussioner sidste år, og derfor vil jeg gerne have slået
+fast, om ligestillingsministeren og videnskabsministeren er blevet
+enige om, hvordan det skal være fremadrettet, og hvad man har
+tænkt sig gøre i forhold til de ordninger, der er på Aarhus Universitet
+
+og Københavns Universitet, i tilfælde af at man fremadrettet ikke har
+tænkt sig at give de dispensationer, sådan som jeg har forstået videnskabsministeren.
+Er der så problemer f.eks. på universiteterne i forhold til ligestilling? Nej, det er der sådan set ikke. Forfatteren og journalisten Leny
+Malacinski har skrevet bogen »Den dag, jeg opdagede, jeg var undertrykt«. Det kom som en stor overraskelse for den unge kvinde, at
+hun levede i et land, hvor kvinder ikke havde samme muligheder
+som mænd, så hun gik i gang med at undersøge det og fandt ud af, at
+det var sådan, at kvinder udgjorde 14 pct. af ansøgerne til professorstillinger på Københavns Universitet – 14 pct. af ansøgerne! – og 15
+pct. af de nyansatte. Det var i 2006. Der var altså flere kvinder procentuelt ansat, end der ansøgte. Men er det så kun blandt professorer,
+det er sådan? Nej, på lektoraterne var det sådan, at kvinder udgjorde
+25 pct. af ansøgerne, men 29 pct. af de nyansatte. Også dér ansatte
+man flere kvinder procentuelt, end der søgte. Og selv når man så på
+adjunktstillingerne, viste det sig, at det var sådan, at kvinder udgjorde hele 31 pct. af ansøgerne, men 36 pct. af de nyansatte.
+Med baggrund i de tal vil jeg faktisk mene, at det er en skandale,
+at man tillader undtagelser fra princippet om, at vi bliver behandlet
+lige her i det danske samfund for at fremme kvinder, der i forvejen
+faktisk får flere af stillingerne, end de ansøger om. Der er jo ikke engang noget problem. Jo, der er måske det problem, at de ikke søger
+nok. Der synes jeg, at alle, der ønsker, at vi skal have flere kvinder
+ansat på universiteterne, og det kan være et fint formål, som jeg bestemt ikke har noget imod, burde gå i gang med at være mentor for
+andre kvinder. Jeg håber, at alle kvinder i Folketinget her, der virkelig mener det alvorligt, er mentorer for andre kvinder for at få dem
+frem. Det er noget, der virker, i stedet for at lave kvoter og undtagelser fra den almindelige ligebehandling.
+Så er der nogle, der siger: Ja, men det er ikke diskrimination, for
+det er jo bare sådan, de får lidt flere penge. Altså, enten er der et
+økonomisk incitament, der virker, eller også er der ikke noget økonomisk incitament, og så er det spild af penge. Der er jo kun de to
+muligheder, og derfor glæder jeg mig til, ligestillingsministeren
+kommer op og forklarer, ikke så meget baggrunden for, hvorfor man
+gjorde sådan, som man gjorde, da man var ansat på Københavns
+Universitet, men mere om, hvad regeringens fremadrettede politik er
+i forhold til universiteterne og ligestillingsspørgsmålet.
+Man kunne jo også mene, at der var for mange homoseksuelle eller jødiske professorer, uden at jeg skal beskylde professorerne for,
+at det skulle være sådan. Skal man så sørge for, at man får færre penge, hvis man ansætter en jøde eller en homoseksuel? Altså, helt ærligt!
+Vi stemmer selvfølgelig for lovforslaget.";Simon Emil Ammitzbøll
+75915;Time;"Formanden :
+Der er ønske om korte bemærkninger. Først er det fru Ellen Trane
+Nørby.";Kl. 14:13
+76010;Time;;Kl. 14:13
+76033;name_party;":
+Tak. Nu er det jo heldigvis sådan, at Liberal Alliance og Venstre er
+fuldstændig enige om holdningen til det forslag, som oppositionen
+har fremsat, om kvoter og indkvotering af kvinder i danske bestyrelser og trusler om at tvangsopløse danske erhvervsvirksomheder, hvis
+man ikke kan få kvoter; det er noget, vi er enormt enige om.
+Jeg kan så også høre, at hr. Simon Emil Ammitzbøll har læst en
+meget interessant bog. Den har jeg også læst, og den viser vel egentlig bare, at den bedste mand/kvinde vinder, og at ligestillingen jo
+netop ikke skal være et millimeterprincip. Så hvis der er 15 pct. rigtig gode kvinder, selv om de kun udgør 14 pct. af ansøgerne, er det
+vel netop det, vi skal fremme i et liberalt samfund: at det altid er de
+mest talentfulde, der får posterne.
+
+Tirsdag den 11. januar 2011 (L 88)
+
+Den socialdemokratiske ordfører ville ikke bekræfte, at i Norge,
+som jo bliver fremhævet som det her rosenrøde eksempel på, hvor
+god kvotelovgivning er, er der 32 pct. af aktieselskaberne, som har
+skiftet selskabsform for at undgå kvotelovgivning, altså som simpelt
+hen er gået fra én selskabsform til en anden selskabsform for at undgå de her politisk indførte kvoter. Og jeg vil blot høre, om Liberal
+Alliances ordfører ikke kan bekræfte, at det jo netop viser, hvor
+uomgængelig dårlig en idé, det er at indføre kvoter også i Danmark,
+sådan som oppositionen har foreslået.";Ellen Trane Nørby
+77432;Time;"Formanden :
+Ordføreren.";Kl. 14:14
+77467;Time;;Kl. 14:14
+77495;name_party;":
+Jeg synes i virkeligheden, at begge spørgerens pointer understreger,
+hvor dårlig en idé kvoter er. Jeg plejer at sige sådan lidt sarkastisk, at
+hvis der er nogen, der skulle gå ind for kvoter, er det mændene – inden kvinderne overtager magten. For vi lever i slutningen af mandens epoke, tror jeg, hvis jeg skal være helt ærlig. Jeg tror, at kvinderne kommer til at overtage i fremtiden. Så man kan sige, at de svage mænd måske skulle satse på at indføre kvoterne, mens tid er.
+Men mere seriøst vil jeg sige, at det jo er fuldstændig korrekt, at
+der skete det med, at cirka en tredjedel af de børsnoterede aktieselskaber, der er underlagt de her kvoter i Norge, konverterede til andre
+selskabsformer for at undgå lovgivningen. Der er i øvrigt også sket
+det, som vi tidligere diskuterede i Folketinget, at Norge har været
+nødt til at importere kvinder fra andre lande, bl.a. fra Danmark. Så
+man må håbe, hvis man vil gennemføre det socialdemokratiske forslag, at der så er nok danske kvinder, der har tid, og at man ellers
+kan importere fra andre lande.
+Vi synes, at de mest velkvalificerede skal sidde i bestyrelserne.
+Og hvis jeg havde en virksomhed og kunne finde ti kvalificerede
+kvinder til ti poster, ville jeg vælge dem – men ikke på grund af deres køn.";Simon Emil Ammitzbøll
+78766;Time;"Formanden :
+Så er det fru Julie Rademacher for en kort bemærkning.";Kl. 14:16
+78844;Time;;Kl. 14:16
+78866;name_party;":
+Mange tak. Det er jo skægt, som hr. Simon Emil Ammitzbøll selv
+indledte med at sige, at en revisionsbestemmelse kan give anledning
+til sådan en debat. Jeg tror, det her er noget, der virkelig berører os
+som mennesker, det her er virkelig noget, som betyder noget i demokratiet. Den diskussion om ligestilling, som vi har i dag, er rigtig,
+rigtig vigtig, og det er også vigtigt, at vi tør træffe nogle beslutninger
+og tør tage den debat.
+Så jeg vil sige tak til hr. Simon Emil Ammitzbøll for hans indspark i debatten, men jeg må bare sige, at jeg ikke synes, de er super
+kvalificerede. Jeg har læst Leny Malacinskis bog, jeg har læst om
+den norske model, jeg har læst om, hvad man gør i Spanien, Frankrig, Sverige og Island, og om, hvad der er på vej rigtig mange andre
+steder. Der er alle mulige former for modeller. Nogle kalder det her
+kvoter, andre kalder det et paritetsprincip, og det er faktisk det, vi
+har indført med den her lov, nemlig at der både skal indstilles en
+mand og en kvinde.
+Men det, der egentlig får mig til at rejse mig og stille et spørgsmål til hr. Simon Emil Ammitzbøll, er, at jeg gerne vil høre, hvilke
+initiativer Liberal Alliance, Ny Alliance, eller hvad partiet nu hedder, egentlig vil tage på det her område for at fremme en ligelig fordeling mellem mænd og kvinder.
+
+13";Julie Rademacher
+80180;Time;"Formanden :
+Det var et spørgsmål til ordføreren.";Kl. 14:17
+80240;Time;;Kl. 14:17
+80268;name_party;":
+Altså, når spørgeren ikke engang kender partierne i Folketinget, kan
+man jo heller ikke undre sig over, at hun kommer frem til de konklusioner, hun kommer frem til, i forbindelse med ligestillingsspørgsmålet.
+Man kan kalde det noget andet end kvoter, siger spørgeren. Undskyld mig, men det er jo fuldstændig et socialdemokratisk manipulationstrick. Kvoter er kvoter, lige meget hvad Socialdemokraterne
+vælger at kalde det. For min skyld kan man kalde det, hvad man vil
+– det er jo stadig kvoter.
+Jeg er nødt til at spørge fru Julie Rademacher: Benægter fru Julie
+Rademacher de tal, som Ligestillingsministeriet oplyste i 2006 vedrørende forholdene på Københavns Universitet, og som viste, at der
+procentuelt var flere kvinder, der fik jobbene, både som professorer,
+lektorer og adjunkter, end der var kvinder, der ansøgte? Benægter
+fru Julie Rademacher det faktum?";Simon Emil Ammitzbøll
+81144;Time;"Formanden :
+Fru Julie Rademacher.";Kl. 14:18
+81189;Time;;Kl. 14:18
+81211;name_party;":
+Jeg benægter bestemt ikke de tal, som har ligget på Ligestillingsafdelingens hjemmeside. Jeg benægter heller ikke, at jeg er ganske imponeret over, at også hr. Simon Emil Ammitzbøll nu deltager i debatten, men jeg synes også bare, vi må sige, at det skal være ret og
+rimeligt.
+Lad os nu blive enige om, at vi gerne vil have både mandlige og
+kvindelige talenter i spil. Lad os nu blive enige om, at vi inden for de
+næste måske 10 år gerne vil have nået visse mål på det her område.
+Jeg kan fortælle hr. Simon Emil Ammitzbøll, at hvis vi fortsætter i
+det tempo, vi har i dag, skal vi vente 100 år – måske 97 år, eller hvad
+det helt præcis bliver. Hvor mange år vil hr. Simon Emil Ammitzbøll vente på, at vi i Danmark rent faktisk kan gøre status og sige, at
+vi har ligestilling mellem mænd og kvinder, både i topledelserne og i
+uddannelsessystemet, hvor jeg mener at ordføreren har en pointe i at
+sige, at rigtig mange mænd møder større og større udfordringer?";Julie Rademacher
+82181;Time;"Formanden :
+Ordføreren.";Kl. 14:19
+82216;Time;;Kl. 14:19
+82244;name_party;":
+I Liberal Alliance har vi ikke den holdning, at alt skal være procentuelt korrekt efter nogle statistikker, så det nødvendigvis skal være
+sådan, at der skal være 50 pct. – eller måske nærmere 51 pct. – kvinder alle steder og 49 pct. mænd, eller at der skal være 10 pct. homoseksuelle eller 8 pct. muslimer. Sådan har vi det ikke i Liberal Alliance. Det er, fordi liberalisme i modsætning til socialisme opfatter
+mennesker som individer, som enkeltpersoner, og vi tager udgangspunkt i det enkelte menneske i stedet for nogle statistiske fakta.
+Men det er klart, at det er en uenighed, der er mellem Socialdemokraterne og Liberal Alliance. Er det det statistiske, der er det vigtige, som det f.eks. også er for Socialdemokratiet i sundhedspolitikken, eller er det de individuelle valg, der er det vigtige? Er det den
+enkelte persons talent, den enkelte persons muligheder, der står i
+
+14
+
+Tirsdag den 11. januar 2011 (L 88)
+
+centrum? Vi tror på mennesket og ikke på systemet og på statistikker.";Simon Emil Ammitzbøll
+83249;Time;"Formanden :
+Så er der et ønske om en kort bemærkning fra fru Pia Adelsteen.";Kl. 14:20
+83336;Time;;Kl. 14:20
+83356;name_party;":
+Jeg er meget glad for det sidste svar, hr. Simon Emil Ammitzbøll
+kom med, for jeg synes, det, som hr. Simon Emil Ammitzbøll startede med, var værd at bemærke: Man skal være opmærksom på, hvordan man opfatter ligestilling. Og nu kan vi jo så stå og bekræfte hinanden i, at vi er enige, men vi er i hvert fald ikke enige med fru Julie Rademacher i, at man kan kalde tingene noget andet – så er det
+ikke kvoter – og at hvis man har statistikkerne i orden, så har vi ligestilling. Tværtimod er ligestilling lige muligheder for begge køn. Det
+er det, der er ligestilling.
+Jeg ynder jo i min kommunalbestyrelse at sige, at jeg er så glad
+for, at vi ikke har en ligestillingspolitik, jeg er glad for, at vi har en
+personalepolitik, for jeg synes, det er det, der er væsentligt, altså at
+man bliver behandlet ens. Og når man bliver behandlet ens, så er der
+reel ligestilling.";Pia Adelsteen
+84235;Time;"Formanden :
+Ordføreren.
+
+at man fik en bedre systematik til at afsøge kandidatfeltet af begge
+køn; og det har været sådan, at der ikke har været de her tomme
+pladser, som der jo også blev refereret til på et tidspunkt. Der har ikke været ét tidspunkt, hvor man har været nødt til at have en tom
+plads.
+Så derfor synes vi i regeringen sådan set, det er fornuftigt at ophæve denne revisionsklausul. Nu forstår jeg så, at oppositionen har
+den opfattelse, at her behøver vi altså ikke at skynde os, på trods af
+at vi ellers altid får at vide, at det ikke går hurtigt nok med ligestillingen i Danmark, men her har vi åbenbart god tid til at analysere det
+her yderligere igennem. Jeg vil sige, at den tid har vi egentlig ikke
+behov for i regeringen, for efter at have set, hvordan det her virker,
+må vi sige, at det sådan set virker efter hensigten. Men det er da klart
+nok, at det er noget, vi så må diskutere i udvalgsbehandlingen – det
+kvitterer jeg da også for blev sagt – og det ser jeg naturligvis frem til
+at vi så gør. Men jeg vil ikke undlade at sige, at jeg er lidt forundret,
+for der har været et bredt flertal for, at vi skulle kigge på det her og
+se, om der skulle være sket et eller andet, der gjorde, at vi var nødt
+til at handle anderledes, og når det ikke er sket, så siger man alligevel: Nu har vi altså brug for mere tid. Men o.k., der må vi jo så se,
+om vi gør hinanden klogere i udvalgsbehandlingen. Tak.";Kl. 14:21
+85666;Time;"Formanden :
+Der er ønske om korte bemærkninger, og det er hr. Simon Emil Ammitzbøll.";Kl. 14:24
+85762;Time;;Kl. 14:24
+85773;Time;;Kl. 14:21
+85801;name_party;":
+Jeg kan bekræfte, at jeg er enig med fru Pia Adelsteen og uenig med
+fru Julie Rademacher.";Simon Emil Ammitzbøll
+85902;Time;"Formanden :
+Tak til hr. Simon Emil Ammitzbøll. Så er det ministeren for ligestilling.";Kl. 14:21
+85999;Time;"Ministeren for ligestilling (Lykke Friis):
+Tak for ordførernes bemærkninger. Ligesom hr. Simon Emil Ammitzbøll må jeg sige, at jeg også er en anelse forundret over den debat, der har været. Det har selvfølgelig været meget, meget interessant, og det kan jeg selvfølgelig altid kvittere for; det bekræfter jo
+kun, at ligestilling er et emne, som vi som oftest har nogle rigtig gode debatter om, og som også kan sætte sindene i kog.
+Men for bare lige at rulle den her sag en anelse tilbage vil jeg sige, at det jo var sådan i 2009, at der strammede et meget bredt flertal
+her i Folketinget ligestillingsloven, hvad angår kapitel 4, altså kønssammensætningen i offentlige råd, nævn osv. Tidligere kunne man
+lade en plads stå åben, hvis man ikke havde en saglig begrundelse
+for, at man ikke kunne indstille både en mand og en kvinde, men nu
+skal man lade den plads stå åben. Så gjorde man det på det tidspunkt, at man også indsatte en revisionsklausul og sagde: Lad se på
+det og se, hvordan det kommer til at virke. Og det er da ualmindelig
+fornuftigt, at man indsatte sådan en revisionsklausul. Jeg forstår så
+også, at det var et meget bredt flertal, der sagde, at man skulle se på
+det, og som også sagde: Lad os se på det i denne samling. Og det er
+jo naturligvis også derfor, regeringen fremsætter dette lovforslag.
+Så kunne man naturligvis forestille sig, at der, siden dette lovforslag var blevet vedtaget, altså stramningen i 2009, var sket et eller
+andet dramatisk, som gjorde, at man så sagde: Hov hov, vi må hellere gribe ind på det her område. Men som flere har været inde på, er
+det jo ikke tilfældet. Det er jo nemlig sådan, at den stramning, man
+indførte, har virket sådan, som flertallet ønskede at den skulle virke,";Kl. 14:21
+87755;name_party;":
+Tak. Først og fremmest er jeg glad for, at vi kan være enige om at
+støtte lovforslaget.
+Jeg stillede i min ordførertale et spørgsmål om det med universiteterne og regeringens fremadrettede politik på det område. Kunne
+jeg også få en besvarelse af det?";Simon Emil Ammitzbøll
+88018;Time;"Formanden :
+Ministeren.";Kl. 14:25
+88053;Time;"Ministeren for ligestilling (Lykke Friis):
+Ja, naturligvis. Jeg beklager, at jeg ikke svarede på det med det samme. Man kan jo sige, at med hensyn til det, der er min grundfilosofi,
+hvad angår ligestilling, er jeg meget enig i det, som ordføreren selv
+sagde, og for den sags skyld også i det, der blev fremført fra Dansk
+Folkepartis side, nemlig at ordet ligestilling nok ikke er det bedste.
+Ordet ligestilling giver det indtryk, at det er noget med noget procenttyranni, og at det skal være 50-50 eller 60-40, altså en bestemt
+procent, man går efter.
+Det er ikke på den måde, jeg ser den her debat. Jeg ser præcis på
+samme måde, som der blev redegjort for, på den her debat ud fra, at
+der skal være lige muligheder. Vi skal se på, om der er nogle barrierer, som gør, at man bliver blokeret bare på grund af sit køn eller
+seksuelle tilhørsforhold – nu breder jeg debatten lidt ud. Det er det,
+vi skal have fokus på. Det er også det, som vi fremadrettet fra regeringens side naturligvis vil fokusere på, og det er, uanset om det gælder universiteter, eller om det gælder erhvervslivet, bestyrelser osv.";Kl. 14:25
+89166;Time;"Formanden :
+Hr. Simon Emil Ammitzbøll.
+
+Tirsdag den 11. januar 2011 (L 93)";Kl. 14:26
+89254;Time;;Kl. 14:26
+89282;name_party;":
+Tak. Det er fair nok med forglemmelsen, det var såmænd ikke så
+meget det. Jeg mener, det var en lidt forvirret debat i forhold til det
+emne, der var lagt op til.
+Jeg har to ting: Betyder det så, at man ikke har tænkt sig at give
+dispensation til flere universiteter, og hvis svaret er ja, hvad har man
+så tænkt sig gøre i forhold til de to universiteter, som man allerede
+har givet dispensation til?";Simon Emil Ammitzbøll
+89693;Time;"Formanden :
+Ministeren.
+
+15
+
+indsattes person og opholdsrum og udvidelse af behandlingsgarantien for indsatte i fængsler og arresthuse).
+Af justitsministeren (Lars Barfoed).
+(Fremsættelse 08.12.2010).";Kl. 14:26
+89905;Time;"Forhandling
+Formanden :
+Forhandlingen er åbnet. Den første, der får ordet, er hr. Kim Andersen som ordfører for Venstre.";Kl. 14:27
+90037;Time;;Kl. 14:28
+90048;Time;"Ministeren for ligestilling (Lykke Friis):
+Tak. Nu er det jo ikke sådan, at det er ligestillingsministeren, der har
+givet dispensationen i de her konkrete sager. Det gælder hverken den
+sag, der har med Københavns Universitet at gøre, eller den sag, der
+har med Aarhus Universitet at gøre. Det er videnskabsministeren.
+Præcis derfor vil det jo også være sådan, at det er videnskabsministeren, der kommer til at tage stilling til det, hvis der måtte komme lignende ansøgninger i fremtiden. Den opgave har jeg selvfølgelig fuld
+tillid til at videnskabsministeren er i stand til at håndtere.
+Så vil jeg også sige, at det, som jeg har gjort sammen med videnskabsministeren, er at indkalde til, kald det et topmøde, kald det et
+møde med universitetsrektorerne for at diskutere igennem, hvilke
+barrierer der er inden for universitetsverdenen. Det fremgår i øvrigt
+også af perspektiv- og handlingsplanen. Det er præcis noget, vi kommer til at kigge på nu, og jeg må bare sige, at der her jo altså er tale
+om nogle universiteter, der har handlet, fordi de mente, at der var
+nogle barrierer. De mente, at der var nogle ting, der blokerede dem i
+forhold til at rykke op ad ranglisterne. Vi har jo uafhængige bestyrelser i det her land – det skal vi også være opmærksomme på – og det
+er altså to uafhængige bestyrelser, der har truffet denne beslutning.";Kl. 14:26
+91401;Time;"Formanden :
+Tak til ministeren for ligestilling.
+Der er ikke flere, der har bedt om ordet, og så er forhandlingen
+sluttet.
+Jeg foreslår, at lovforslaget henvises til Det Politisk-Økonomiske
+Udvalg, hvis ingen gør indsigelse.
+Det er ikke tilfældet.
+
+(Ordfører)";Kl. 14:27
+91679;name_party;":
+Vi synes i mit parti, at der er rigtig mange gode tiltag i det lovforslag, vi her har til behandling, og som er fremsat af justitsministeren.
+Vi synes, at det er helt på sin plads og rigtigt at gøre en forstærket indsats til bekæmpelse af narko i fængslerne, og vi synes, at det
+er rigtigt at sørge for, at sikkerheden i kriminalforsorgens institutioner er optimal, og at fængselspersonalet har de nødvendige redskaber til at sikre, at der er ro og orden i institutionerne.
+Vi kan støtte det her forslag, som medfører, at man på baggrund
+af den forsøgsordning, der har været lokalt med anvendelsen af peberspray, da gør det til et magtmiddel, der kan bruges generelt i kriminalforsorgens institutioner i hele landet. Forsøgsordningen er faldet heldigt ud, og det har skabt yderligere ro og sikkerhed på institutionerne, og det har gjort, at fængselspersonalet har kunnet føle en
+højere grad af tryghed i arbejdet.
+Dernæst var der i slutningen af efteråret sidste år evaluering af
+regeringens handlingsplan til bekæmpelse af narko, og lovforslaget
+her lægger op til i forlængelse af den handlingsplan at gøre en forstærket indsats for at undgå, at der kommer narko ind i kriminalforsorgens institutioner, og at der finder anvendelse sted af narko i disse
+institutioner. Det kan vi fuldt ud støtte.
+Mange af de indsatte har jo misbrugsproblemer, og vi ved også,
+at misbrugsproblemer, særlig indtagelse af narkotiske stoffer, er
+medvirkende til at fortsætte en kriminel løbebane, så jo før vi kan få
+disse stoffer ud af institutionerne, jo før er der håb om, at man kan
+komme i gang med en resocialisering af de indsatte med henblik på
+at få dem ud i samfundet på den rigtige side af hegnet, om jeg så må
+sige, og få dem til at komme videre med uddannelse og job.
+I den forbindelse kan vi også støtte, at man anvender narkohunde
+internt i kriminalforsorgens institutioner til at opspore narkotiske
+stoffer i kriminalforsorgens institutioner og på de indsatte, alt i alt et
+meget fornuftigt forslag, som vi fuldt ud kan støtte.";Kim Andersen
+93714;Time;"Det næste punkt på dagsordenen er:
+5) 1. behandling af lovforslag nr. L 93:
+Forslag til lov om ændring af lov om fuldbyrdelse af straf m.v.
+(Anvendelse af peberspray som magtmiddel, undersøgelse af den";Kl. 14:31
+93956;title_name;":
+Tak til ordføreren. Så er det fru Maja Panduro som socialdemokratisk ordfører.";Mogens Lykketoft
+94046;Time;(Ordfører);Kl. 14:31
+94075;name_party;":
+Hos Socialdemokraterne er vi meget optaget af, hvordan vi sørger
+for, at vores fængsler kan blive til steder, som gør de indsatte mindre
+kriminelle. Det vil de færreste forhåbentlig være uenige i, men desværre går det slet ikke godt nok med det i dag. Recidivet, altså tilbagefaldet, til kriminalitet er stadig væk alt for stort, og vores fængsler fungerer desværre flere steder som vældig effektive forbryderskoler, som steder, hvor man kan opbygge netværk, lære af naboen
+osv. Når nu vi har fat på kraven i folk, når de er i fængslet, så kunne
+vi jo lige så godt bruge tiden på at mindske risikoen for, at de kom-
+
+16
+
+Tirsdag den 11. januar 2011 (L 93)
+
+mer tilbage igen. Det handler ikke om at nurse de indsatte eller fritage dem for ansvar, men det handler om at give dem alternativer og
+en ny chance for et ordentligt liv som aktiv og bidragende samfundsborger, og det handler om at minimere antallet af ofre, som skal udsættes for kriminalitet, der kunne have været undgået.
+Derfor har vi også fremsat en lang række forslag, bl.a. vores udspil »Straf, der virker«, til, hvordan man i langt højere grad end i dag
+kan bruge tiden, hvor folk er fængslet, til at gøre dem mindre kriminelle. Det handler om en langt bedre uddannelsesindsats, om bedre
+udslusning, om efterværn i forbindelse med løsladelse, og så handler
+det om at gøre vores fængsler narkofri, hvilket de desværre langtfra
+er i dag.
+Lovforslaget her er ikke nok, men det er et skridt i den rigtige retning, især selvfølgelig fordi vi udvider behandlingsgarantien til også
+at omfatte kortere straffe og omfatte varetægtsfængslinger, men også
+fordi en forudsætning for alt det andet arbejde med de indsatte er, at
+der er styr på det, at der er ro og orden indenfor i fængslerne, og at
+narkotikaen ikke flyder på gangene.
+For at tage det sidste først er det også grunden til, at vi kan bakke
+op om den udvidelse af mulighederne for at undersøge både de indsatte og deres opholdsrum, som der også ligger i lovforslaget her. Til
+det andet spørgsmål i forbindelse med peberspray vil jeg sige, at vi
+også umiddelbart kan støtte det. Vi bakkede jo i sin tid også op om
+forsøgsordningen, fordi vi er meget optaget af, hvordan vi kan give
+vores medarbejdere i fængslerne et bredere spekter af redskaber, og
+også gerne mindre indgribende redskaber, i forbindelse med magtanvendelse over for de indsatte. Erfaringerne har vist, at peberspray har
+kunnet virke præventivt og har kunnet virke pacificerende, så man
+ikke har skullet skride til yderligere magtanvendelse, og derfor kan
+vi også støtte den del.
+I den forbindelse har jeg et spørgsmål til justitsministeren, nemlig
+om de her indberetninger, som man stadig skal foretage til Justitsministeriet, er nogle, som vi vil kunne få oversendt til Retsudvalget, således at vi kan følge udviklingen. Det vil vi sætte pris på fra Socialdemokraternes side.
+Men vi ser frem til udvalgsarbejdet og kan altså støtte forslaget
+her.";Maja Panduro
+97017;Time;;Kl. 14:34
+97056;title_name;":
+Tak til ordføreren. Fru Marlene Harpsøe som ordfører for Dansk
+Folkeparti.";Mogens Lykketoft
+97142;Time;(Ordfører);Kl. 14:34
+97175;name_party;":
+Dette lovforslag handler jo i høj grad om narkotikaindsatsen i fængslerne, og den er vigtig at styrke. I Dansk Folkeparti mener vi, det er
+utrolig krænkende for retsbevidstheden og retsfølelsen, når man
+f.eks. i tv kan opleve programmer, hvor indsatte sidder og tager stoffer og ryger hash nærmest frit i fængslet. Det duer simpelt hen ikke.
+Men for at tage det fra en ende af indeholder det her lovforslag
+en ændring af loven, som først og fremmest bevirker, at peberspray
+kan anvendes som et permanent magtmiddel i fængsler og arresthuse, og det mener vi i Dansk Folkeparti er udmærket. Erfaringerne fra
+den forsøgsordning, der har været, har været gode, og det er også
+Dansk Folkepartis opfattelse, at fængselsbetjentene sætter pris på at
+kunne bruge peberspray frem for mere indgribende magtmidler.
+I Dansk Folkeparti har vi også noteret os, at Henrik Stagetorn,
+som er formand for Landsforeningen af Forsvarsadvokater, mener, at
+det er en urimelig ændring, der sker. For han udtaler, at hvis den ene
+part opruster, gør den anden part det også. Og jeg skal lige love for,
+at det var en udtalelse, som i hvert fald interesserede os i Dansk Folkeparti, for hvis vi taler med helt almindelige fængselsfunktionærer,
+hører vi, at det ikke er det, de oplever i dag. Det, de oplever i dag, er,
+
+at den her råhed og brutalitet i fængslerne allerede er steget. Så vi
+synes i Dansk Folkeparti, det er rimeligt, at man fra fængselspersonalets side har mulighed for at benytte peberspray i de situationer,
+hvor der er behov for det. Og vi har også noteret os, at hvis man ligefrem fremsætter trussel om det først, inden man bruger det, er der
+rent faktisk mulighed for, at det har en præventiv effekt. Det er godt
+for bl.a. fængselsfunktionærerne; det vil jeg gerne sige her. Så der
+synes vi i Dansk Folkeparti at Henrik Stagetorn, som er formand for
+Landsforeningen af Forsvarsadvokater, tager fejl.
+Direktoratet for Kriminalforsorgen får også med det her lovforslag den hjemmel, der for nogle år siden blev sat spørgsmålstegn ved
+om de havde i forbindelse med undersøgelsesinstitutionerne, tilbage.
+Så er vi i hvert fald helt sikre på, at de har den, når de har behov for
+den.
+Man udvider også behandlingsgarantien, så personer, som afsoner en fængselsstraf, der er kortere end 3 måneder, eller som forventes løsladt inden for 3 måneder, kan få behandlingsgaranti for afvænning af stofmisbrug, og det kommer også til at gælde for varetægtsarrestanter. Flere kriminelle er misbrugere, det kommer vi ikke
+uden om, og derfor er det selvfølgelig hensigtsmæssigt at behandle
+dem og det, som kan være årsagen til kriminaliteten, eller som på anden vis har en indflydelse på, at kriminaliteten begås.
+I Dansk Folkeparti mener vi, det er udmærket med en behandlingsgaranti – det er helt sikkert den rigtige vej at gå – men vi kommer ikke uden om, at der er behov for en massiv indsats i fængslerne
+og arresthusene for at få narkoen ud af fængselscellerne. Når man
+ser fjernsynsudsendelser – nu kommer jeg tilbage til det, jeg startede
+med – hvor kriminelle i fængslerne åbent fortæller om deres narkotika- og hashmisbrug og ryger og tager stoffer for åben skærm, så hele
+familien Danmark kan følge med, er det altså dybt krænkende for
+retsbevidstheden og retsfølelsen. Og hvis den her behandlingsgaranti
+eller behandling i det hele taget skal virke, synes vi i hvert fald, at
+narkoen først og fremmest skal ud af fængslerne.
+Dansk Folkeparti mener, at man i højere grad bør benytte hunde
+til at søge efter narkotika hos indsatte og besøgende i fængslerne og
+arresthusene. Vi mener, det er acceptabelt, at ministeren vil skabe
+mulighed for netop det, så vi kan få narkoen ud af fængslerne og arresthusene, og så vi kan forhindre, at besøgende agerer narkobude,
+er narkokurerer, der leverer stofferne til de indsatte. Men i Dansk
+Folkeparti vil vi også meget gerne vide mere om, hvilke intentioner
+ministeren yderligere har med hensyn til netop det her spørgsmål om
+personsøgning med hund, altså om man har intentioner om at lægge
+visse begrænsninger på det, og hvad det så i øvrigt handler om. For
+det nævnes ikke rigtigt i det her lovforslag.
+Men i Dansk Folkeparti mener vi i hvert fald, at det, når nu reglerne skal skærpes, er uhensigtsmæssigt, hvis der etableres nogle smuthuller, som kan udnyttes, og derfor er det også vigtigt for os i Dansk
+Folkeparti at vide, nøjagtig hvad ministeren har i sinde, så der ikke
+opstår de her smuthuller, og så vi ikke gentagne gange kan se de her
+hashrygende indsatte i fængslerne for åben skærm lige ud til familien Danmark. Det duer ikke.
+Men når det så er sagt, støtter Dansk Folkeparti lovforslaget. Det
+er et ganske udramatisk lovforslag, som medvirker til at styrke indsatsen mod narkotika i fængslerne. Om end vi sikkert godt kunne
+finde nogle elementer, som ville styrke indsatsen endnu mere, støtter
+vi dette lovforslag.";Marlene Harpsøe
+102042;Time;;Kl. 14:39
+102081;title_name;":
+Tak til ordføreren. Fru Karina Lorentzen Dehnhardt som ordfører for
+SF.
+
+Tirsdag den 11. januar 2011 (L 93)";Mogens Lykketoft
+102202;Time;"(Ordfører)
+Karina Lorentzen Dehnhardt (SF):
+Egentlig er jeg lidt skeptisk over for at diskutere muligheden for, at
+kriminalforsorgen får flere magtmidler lige præcis nu. Jeg har godt
+noteret mig, at der faktisk ligger en evaluering, som siger, at der ikke
+har været nævneværdige problemer, og at det hele er gået godt og
+fint. Det har jeg forstået. Men jeg synes, at forholdene i vores kriminalforsorg lige nu er dybt bekymrende, og derfor kan jeg også være
+en anelse bekymret over, at man nu fast får et ekstra magtmiddel.
+Den dynamiske sikkerhed er under pres. Vi ser et stigende niveau
+af vold mellem indsatte og mod ansatte, vi har et overbelæg, som
+presser rigtig mange institutioner, og vi har set, at der er blevet nedlagt stillinger i Kriminalforsorgen, så der oven i købet er blevet færre
+ansatte til flere indsatte. Det er en rigtig uheldig udvikling, som risikerer at blive skærpet, og som godt kan resultere i, at pebersprayen
+kommer hyppigere i anvendelse.
+Vi støtter forslaget, men jeg vil også godt sige klart, at vi så også
+forventer, at peberspray ikke bliver en fast bestanddel af de ting,
+som fængselsfunktionæren bringer med sig rundt i fængslet. Vi synes, det skal være som med de andre magtmidler, man har for hånden i dag, at dem henter man, og dem bruger man, når situationen opstår, men at de ikke altid er ved hånden. Vi har set i forhold til politiet, som jo virkelig, virkelig har taget det her magtmiddel til sig, at
+der er kommet en eksplosiv stigning i brugen af peberspray, og derfor synes jeg også, når det nu også bliver indberettet til Kriminalforsorgen, hvor mange gange man bruger det her, at der årligt bør falde
+en redegørelse til Retsudvalget, så vi har mulighed for at følge udviklingen. Jeg vil være rigtig ked af det, hvis vores kriminalforsorg
+bliver mere rå af at få et magtmiddel, som man anvender hyppigere
+og hyppigere.
+Men i udgangspunktet støtter vi det her forslag under de nævnte
+betingelser, som jeg håber at ministeren vil komme med en tilkendegivelse om her i dag. Vi støtter også udvidelsen af behandlingsgarantien. Det er den helt rigtige vej at gå at udvide personkredsen, så
+også de, der sidder meget kort tid i vores fængsler, får mulighed for
+at få adgang til behandling. Det er ret afgørende. Jeg tror, at det er
+noget med 60 pct. af dem, vi sætter ind i fængslerne, som har et misbrug ved ankomsten, så der er al mulig god grund til at gøre en indsats her, for ellers fortsætter kriminaliteten, og vi vil se flere ofre.
+Når det så er sagt, er det altså også afgørende, at vi får en helhedsorienteret løsladelsesplan, som der bliver fulgt op på, for det
+nytter ikke noget – og det tror jeg at de i kriminalforsorgen faktisk er
+blevet ret gode til at gøre – hvis hele den her indsats tabes ved løsladelsen, så er vi lige langt. Jeg tror på, at løsladelse med en mentor til
+nogle af de mest udsatte indsatte kan være det, der også kan hjælpe i
+en overgangsfase. Og så handler det jo om meningsfyldte aktiviteter,
+som gør, at folk får lyst til at opgive hashen, men jeg kan godt forstå,
+at man, hvis man skal sidde i sin celle 23 timer i døgnet, får lyst til at
+ryge hash. Så i de billeder, fru Marlene Harpsøe refererer til, tror jeg
+også man godt kan se en sammenhæng med fraværet af noget fornuftigt at lave.
+Den sidste del handler om narkohunde, og ja, det er velkendt, at
+der er problemer med indsmugling af narko i vores fængsler. Vi kan
+nok aldrig helt forhindre det, men det er nok evident, at en hel del af
+det, der kommer ind, kommer ind via besøgende, og derfor har vi ikke noget imod, at man bruger narkohunde til at markere. Men jeg synes også, at ministeren måske i dag kan redegøre for, hvad man gør,
+når en narkohund markerer. Betyder det så, at besøget bliver afvist?
+Jeg forestiller mig bare, at nogle af de besøgende, som er venner eller familie til den her kriminelle person, måske også selv kunne have
+et hashmisbrug og derfor godt kunne lugte lidt af hash uden egentlig
+at forsøge at smugle det ind, og hvad gør vi så?
+
+17
+
+Hvis jeg kunne få svar på mine tre spørgsmål her i dag, ville jeg
+være glad for det, ellers stiller jeg dem som udvalgsspørgsmål og får
+svarene der, men i udgangspunktet støtter vi det her lovforslag.";Kl. 14:39
+106419;Time;;Kl. 14:43
+106458;title_name;":
+Tak til ordføreren. Hr. Tom Behnke som konservativ ordfører.";Mogens Lykketoft
+106530;Time;(Ordfører);Kl. 14:43
+106558;name_party;":
+Også fra konservativ side kan vi støtte lovforslaget her. Flere ordførere har været inde på, hvad forslaget går ud på, og vi er særlig glade
+for, at netop behandlingen af stofmisbrugere nu yderligere bliver forstærket og bliver gjort endnu bedre.
+Det er jo netop den her regering, som har indført behandlingsgaranti til stofmisbrugere både i fængslerne og uden for fængslerne, og
+derfor er det et supergodt forslag, også på det punkt, at ordningen
+herved udvides, således at man fremover ikke nødvendigvis behøver
+at sidde mere end 3 måneder i fængsel, for at man er omfattet af behandlingsgarantien, men så det simpelt hen er en behandlingsgaranti,
+der gælder alle, der kommer i Kriminalforsorgens institutioner, fordi
+det betyder, at hvis man er i et behandlingsforløb, inden man kommer ind, kan det fortsætte med det samme uden ophold. Det betyder
+også, at selv om man kun skal sidde kortvarigt i en af Kriminalforsorgens institutioner, og hvis man er stofmisbruger, har man muligheden for at starte på en behandling, en behandling, som vel at mærke så fordrer, at kommunerne sørger for at følge op, den dag man
+bliver løsladt igen. Men det er et rigtig godt tiltag.
+Jeg tror, at meget af den kriminalitet, der finder sted, netop er
+forbundet til stofmisbrug af den ene eller den anden art. Så det er
+rigtig godt, at det nu bliver udvidet og kommer til at omfatte alle.
+At give mulighed for at bruge peberspray tror jeg at det en rigtig
+god idé. Forsøgsordningen har også vist, at det var med stor succes.
+Politiet bruger det også med stor succes. Hvad er det, pebersprayen
+kan? Ja, den kan jo altså i en situation, hvor nogle af de indsatte
+overfalder andre indsatte eller personale, meget, meget hurtigt og effektivt pacificere voldsmanden og sørge for, at voldshandlingen hører op omgående. Det gode ved peberspray er, at samtidig med at det
+er meget, meget effektivt til at stoppe en gerningsmand, efterlader
+det ingen skader.
+Jeg kunne forstå på SF's ordfører, at man måske sådan var lidt
+skeptisk over for, om det blev brugt for meget, og der må man bare
+huske at stille sig selv spørgsmålet: Hvad er alternativet? Hvis ikke
+man har peberspray som magtmiddel til at pacificere, som ikke giver
+nogen skader, ingen varige men, hvilke andre muligheder har man
+så? Ja, så har personalet kun den fysiske magt tilbage over for en,
+der er gået amok og har overfaldet andre indsatte eller personale. Det
+kan ofte have den konsekvens, at det giver skader. Så derfor er peberspray et rigtig effektivt, men også et meget skånsomt magtmiddel
+at bruge, og derfor er vi glade for, at forsøgsordningen har været positiv, og at man nu sørger for, at det bliver et magtmiddel, man kan
+bruge i de situationer, hvor det er nødvendigt.
+Det tredje element er vi også tilfredse med, nemlig at man fortsætter kursen med at prøve at gøre alt, hvad man kan, for at holde
+narkotika ude af fængslerne. Vi ved jo alle sammen godt, at der er
+narkotika i fængslerne. Vi ved også godt, at det er meget, meget
+svært at holde det ude, men man skal gøre, hvad man kan, og her er
+yderligere et initiativ, der går i retning af at sikre, at man holder så
+meget narko ude i fængslerne som overhovedet muligt – også en del
+af forslaget, som vi fra konservativ side kan støtte.";Tom Behnke
+109816;Time;;Kl. 14:47
+109855;title_name;":
+Der er en kort bemærkning fra fru Karina Lorentzen Dehnhardt.
+
+18
+
+Tirsdag den 11. januar 2011 (L 93)";Mogens Lykketoft
+109970;Time;"Karina Lorentzen Dehnhardt (SF):
+Jeg tror, jeg er enig med den konservative ordfører i, at peberspray
+trods alt er et effektivt og også meget skånsomt magtmiddel. Men
+det, jeg prøvede at sige, og det kan være, det ikke kom så klart frem,
+er, at hvis vi passer på den dynamiske sikkerhed, altså sørger for, at
+der er tid til den enkelte indsatte, at der er nogle fornuftige ting at
+lave, så vil vi i virkeligheden være i stand til at forebygge nogle af
+de situationer, hvor peberspray kunne komme i anvendelse.
+Jeg skal bare høre, om den konservative ordfører ikke er enig
+med mig i, at det er nødvendigt at passe på den dynamiske sikkerhed, og at det faktisk går den forkerte vej i vores kriminalforsorg lige nu, hvor belægget er tårnhøjt, hvor der er blevet færre ansatte, og
+hvor volden er stigende, og at vi derfor i virkeligheden også burde se
+på den dynamiske sikkerhed.";Kl. 14:47
+110857;Time;;Kl. 14:48
+110896;title_name;":
+Ordføreren.";Mogens Lykketoft
+110919;Time;;Kl. 14:48
+110936;name_party;":
+Der er ingen tvivl om, at sådan et magtmiddel som peberspray først
+skal bruges, når det er gået galt, altså når der er en overhængende
+fare for et overfald, eller når et overfald er i gang. Så det er fuldstændig rigtigt, at man ikke bare skal gøre det, men også være opmærksom på, hvordan man kan indrette sig på en sådan måde, så vi undgår, der opstår de her konflikter, hvor det kan blive nødvendigt at
+bruge magtmidler af den ene eller anden art.
+Jeg er ikke enig i SF's ordførers udlægning af situationen i kriminalforsorgen, men jeg er dog enig i, at der er nogle udfordringer i
+kriminalforsorgen i øjeblikket, det er der ingen tvivl om, og det er
+også derfor, at det er glædeligt, at vi netop i år skal i gang med nogle
+forhandlinger om en flerårsaftale for Kriminalforsorgen. Vi har bedt
+Kriminalforsorgen om at melde tilbage til os, hvad udfordringen er:
+Hvad er noget midlertidigt, hvad er mest relateret til bandekonflikten, hvad er mere langsigtede udfordringer for kriminalforsorgen, og
+hvordan sørger vi for at imødegå dem – og ikke bare økonomisk?
+For en ting er, at vi skal finde nogle penge til det, men det drejer sig
+også om, hvordan vi indretter kriminalforsorgen. De forhandlinger
+glæder jeg mig utrolig meget til.";Tom Behnke
+112182;Time;;Kl. 14:49
+112221;title_name;":
+Ikke flere spørgsmål? Så siger vi tak til ordføreren. Hr. Manu Sareen
+som radikal ordfører.";Mogens Lykketoft
+112324;Time;(Ordfører);Kl. 14:49
+112353;name_party;":
+Det Radikale Venstre støtter forslaget. Vi støtter også alle tre delelementer deri, dvs. brugen af peberspray som magtmiddel, adgang for
+Kriminalforsorgen til at foretage undersøgelser og ikke mindst udvidelsen af behandlingsgarantien for stofmisbrugere, der er indsat i
+Kriminalforsorgens institutioner. Som vi har hørt fra de tidligere talere, er arbejdet i de danske fængsler hårdt, til tider for hårdt. Dansk
+Folkeparti betegnede det som brutalt, og det er jeg helt enig i. Det
+har udviklet sig i en uheldig retning de sidste mange år, og der er ingen tvivl om for mig, at råheden har været stigende igennem rigtig
+mange år, ligesom det også kan opleves blandt de indsatte, og som
+det kan opleves mellem de indsatte og ansatte. Det skal vi selvfølgelig finde en løsning på, men i en balance, så de redskaber, vi tilbyder
+de ansatte, ikke bliver konfliktoptrappende, men i stedet virker som
+tryghedsskabende og samtidig præventivt.
+
+Man kan naturligvis frygte, at anvendelse af peberspray som en
+fast del af uniformen i konfliktfyldte situationer eller risikosituationer, som det også hedder, kan virke konfliktoptrappende. Samtidig
+skal argumentet naturligvis vægtes mod de ansattes følelse af tryghed, og den tryghedsfølelse vægter vi naturligvis rigtig højt. Jeg skal
+da ærligt indrømme, at vi har været lidt bekymrede for, hvorvidt peberspray er en god idé, netop fordi det umiddelbart kan virke konfliktoptrappende. Derfor er jeg i hvert fald rigtig glad for, at jeg kan
+læse, at forsøgsperioden har været positiv, og at man har konstateret,
+at peberspray ligefrem virker præventivt. Så det er virkelig positivt.
+Vi finder det ligeledes positivt, at behandlingsgarantien udvides
+for stofmisbrugere, der er indsat i Kriminalforsorgens institutioner,
+og at den udvides til at omfatte personer, der afsoner både korte
+fængselsstraffe og varetægtsfængsling. Formålet er selvfølgelig at
+sikre, at alle indsatte i danske fængsler og arresthuse kan få behandling for deres stofmisbrug for bl.a. at forebygge, at indsatte begår ny
+kriminalitet. Som man også kan læse i lovforslaget, og det er jo fuldstændig korrekt, er der en sammenhæng mellem stofmisbrug og kriminalitet, og får man arbejdet med misbruget, er der en stor sandsynlighed for, at man selvfølgelig også får gjort noget ved kriminaliteten.
+Der er i høringssvaret også lidt betænkeligheder omkring effektiviteten i forbindelse med anvendelse af hunde. Der henvises til australske hunde, som kun har fundet færten af narkotika i 26 pct. af
+tilfældene. Men hos Det Radikale Venstre har vi stor tiltro til de danske hunde og håber i hvert fald på en større effektivitet hos dem.
+Men ud over det ser vi frem til udvalgsarbejdet og muligheden
+for, som vi hører fra SF, at få en årlig redegørelse om, hvordan det
+går med brugen af peberspray fremover.";Manu Sareen
+115173;Time;;Kl. 14:52
+115212;title_name;":
+Tak til ordføreren. Fru Line Barfod som ordfører for Enhedslisten.";Mogens Lykketoft
+115290;Time;(Ordfører);Kl. 14:52
+115319;name_party;":
+I Enhedslisten er vi vældig glade for, at man udvider behandlingsgarantien. Det er rigtig godt, hvis mennesker, der er ude i et misbrug,
+får mulighed for at komme i gang med en behandling, også selv om
+det kun er i kortere tid hos kriminalforsorgen.
+Det allerbedste ville jo være, hvis man havde sørget for, at de
+kom i behandling inden, og hvis man i stedet for at sætte dem i
+fængsel, lod dem komme i behandling, for selve det at være i et
+fængsel er jo ikke noget, der ligefrem er befordrende for at komme
+ud af misbrug og for at få en bedre social situation. Så der er behov
+for, at vi også gør noget på andre områder, hvis vi gerne vil nedbringe antallet af misbrugere i fængslerne.
+Jeg er fuldstændig enig med SF og andre, som har sagt, at det altså er et kæmpe problem, at der ikke er ordentlige tilbud i fængslerne,
+og at der er skåret så meget, så rigtig mange af de indsatte ikke har
+noget at lave. Derfor er der nogle, der kommer ud i et misbrug eller
+kommer ud i et større misbrug, end de ellers ville have haft, fordi
+man ikke sørger for, at der er fornuftige aktiviteter.
+Det bedste vil jo være, hvis man kan få flere i gang med uddannelse, så folk kan bruge den tid, de sidder indespærret, fornuftigt, til
+at de faktisk kan få nogle bedre vilkår og har en mulighed for at få
+en kriminalitetsfri tilværelse, når de kommer ud af fængslerne.
+Jeg er så også fuldstændig enig i det høringssvar, der ligger fra
+Fængselsforbundet, om, at det jo ikke er nok, at folk får en behandling, mens de er i fængslerne. Vi skal også sikre, at der er nogle ordentlige udslusningsforløb. Det er altså vigtigt, at folk ikke bare bliver løsladt og kommer tilbage til det, de kom fra, men at man sikrer,
+at der er en ordentlig udslusning, hvor de faktisk kan komme videre i
+et behandlingsforløb, hvis det er det, der er behov for, og at de kan
+
+Tirsdag den 11. januar 2011 (L 93)
+
+få et sted at bo, kan få arbejde, uddannelse, hvad der nu skal til for at
+komme videre. Så den del af forslaget er vi meget positive over for.
+I forhold til peberspray er vi lodret imod brugen af peberspray.
+Uanset om det er privatpersoner, der går rundt med den i håndtasken, som Dansk Folkeparti argumenterer for at man skal have tilladelse til, eller det er politi, eller det er fængselspersonale, kan vi ikke
+se, at vi har behov for, at man kan bruge det magtmiddel i Danmark.
+Som Institut for Menneskerettigheder påpeger i deres høringssvar, er
+der stor risiko for alvorlige personskader ved brug af peberspray, og
+vi kan ikke se, hvorfor man skal bruge den. Det, vi har set fra politiets anvendelse af peberspray, er jo, at det ikke har ført til, at man
+bruger skydevåben langt mindre, som argumentet var, men at man
+nu bare også bruger peberspray og knipler i større omfang, end man
+gjorde før. Vi synes ikke, at man skal bruge det magtmiddel, heller
+ikke i fængslerne.
+Vi synes langt hellere, man skal sørge for, at der er mange flere
+ansatte, at vi ikke har ansatte, der går alene på vagt, at vi har ansatte,
+der har tid nok til at snakke med folk, kan sørge for at gribe ind i
+forhold til konflikter i forebyggende øjemed i god tid osv., og som
+jeg sagde før, kan sikre, at de indsatte faktisk har nogle aktiviteter,
+især uddannelse, som gør, at de ikke sidder og keder sig og der dermed kommer konflikter.
+I forhold til spørgsmålet om narkohunde synes jeg, at det, Gadejuristen peger på i sit høringssvar, som der også er et par andre, der
+har været inde på, er rigtig relevant, nemlig, hvad gør man i de tilfælde, hvor narkohunde markerer, at her har der været narko, og det
+så viser sig, at der ikke er det. Det er jo dybt krænkende, hvis der
+kommer kone og børn, og de får at vide, at der er mistanke om, at de
+har narko, de bliver taget ud til legemsundersøgelse, eller hvad der
+ellers skal foregå, og så viser det sig, at der ikke er noget. Betyder
+det så, at de alligevel ikke får lov til at besøge den indsatte, eller
+hvad kommer der til at ske? Det mener jeg vi må have svar på fra
+ministeren allerede under udvalgsbehandlingen, og ikke som der er
+lagt op til i kommentarer til høringssvar, at det først er noget, der
+kommer, når lovforslaget er vedtaget. Jeg mener faktisk, at det er ret
+afgørende, at Folketinget også får et svar på, hvad der skal ske.
+Men vi står stadig tilbage med, at man indfører de her forskellige
+tiltag, fordi vi har et problem med overfyldte fængsler og fængsler,
+hvor der er store konflikter, der er dårlige forhold, elendige forhold
+for de ansatte og for de indsatte. Det er det, man burde tage fat i og
+gøre noget ved i stedet for bare at optrappe kontrol og magtmidler.
+Det har vi ingen gode erfaringer med, hverken fra Danmark eller andre lande. Det er altså det forebyggende, der virker, også i forhold til
+at sikre gode arbejdsvilkår for de ansatte, og det håber jeg meget at
+man snart kommer i gang med i stedet for kun at bruge flere magtmidler.";Line Barfod
+120206;Time;;Kl. 14:57
+120245;title_name;":
+Tak til ordføreren. Hr. Simon Emil Ammitzbøll som ordfører for Liberal Alliance.";Mogens Lykketoft
+120337;Time;(Ordfører);Kl. 14:57
+120376;name_party;":
+Liberal Alliance har taget stilling til det her lovforslag ud fra de tre
+hovedelementer, der vel er i forslaget.
+I forhold til det første, som handler om anvendelse af peberspray
+i kriminalforsorgen, kan jeg sige, at det synes vi er en rigtig god idé.
+Vi synes sådan set, at det er smart, at man kan få nogle nye redskaber, sådan at man kan sikre ordentlige forhold på institutionerne, også for de øvrige indsatte. Det er jo sådan set ret vigtigt for os, især i
+den situation, vi er i i øjeblikket, med et stort antal indsatte.
+Udvidelsen af behandlingsgarantien synes vi også er rigtig positiv. Nu ved jeg jo godt, at der sidder folk i salen, som regner med, at
+
+19
+
+Liberal Alliance vil gøre en masse ondt mod folk, som ikke har det
+godt. Men dem, der tror det, tager som sædvanlig fejl. Vi vil sådan
+set gøre noget godt for folk generelt, både for almindelige danskere
+ved f.eks. at nedsætte deres skat og for folk, som er i den situation, at
+de har et narkotikamisbrug, sådan at de kan få noget hjælp til at
+komme ud af det, når det hæmmer deres muligheder for at få arbejde
+og komme ud af kriminalitet. Så det synes jeg sådan set også er et
+rigtig godt element. Det betyder også, at vi stemmer for forslaget.
+Bare rolig, vil jeg sige til ministeren, det kommer såmænd ikke an på
+det.
+Vi er ikke så glade for det tredje element – det siger jeg bare, for
+at det er sagt – om, at man strammer den handlingsplan mod narkotikamisbrug, som der er, og hvor der vil blive fastsat de her administrative regler for anvendelse af narkohunde til undersøgelse af indsatte og besøgende for ulovlige stoffer. Jo, det er vi, hvis man kan
+gøre det på en måde, så man, som fru Line Barfod jo var inde på,
+sikrer retssikkerheden for de indsatte og deres familier. Men det kan
+der godt være problemer med, og derfor håber jeg på lige fod med
+fru Line Barfod også, at man kunne fremskynde de svar, der var i
+forbindelse med det. Det er ikke, fordi det afgør sagen, for vi skal
+nok stemme for det samlede forslag, for vi synes, at de to hovedelementer er positive og gode, men vi kunne godt tænke os lige at høre
+lidt nærmere, hvad det her går ud på, for vi har en bekymring for,
+om man bliver lidt for rigid i det her spørgsmål.
+Så kunne man gå ind i nogle lange, principielle diskussioner om,
+hvordan man kunne sikre egentlig stoffri fængsler osv., og det vil vi
+gerne have en større debat om på et tidspunkt, men nok om det her.
+Overordnet kan vi sige, at vi stemmer for forslaget, fordi vi støtter hovedelementerne, men vi synes, der er et enkelt lille hår i suppen.";Simon Emil Ammitzbøll
+122941;Time;;Kl. 15:00
+122980;title_name;":
+Tak til ordføreren. Justitsministeren.";Mogens Lykketoft
+123030;Time;;Kl. 15:00
+123064;title_name;":
+Jeg vil gerne starte med at sige tak for en positiv behandling af lovforslaget. Der var mange gode bemærkninger undervejs, og jeg skal
+kommentere nogle af dem.
+Det er glædeligt, at der er opbakning til, at vi med det her forslag
+skærper indsatsen mod narko i vores fængsler, og til, at vi giver de
+ansatte i fængslerne en mulighed for at forebygge uroligheder ved at
+bruge peberspray.
+Det er jo sådan med hensyn til peberspray, at vi i 2009 iværksatte
+en forsøgsordning med magtanvendelse ved brug af peberspray i
+nogle af kriminalforsorgens institutioner. Og Direktoratet for Kriminalforsorgen har så her i efteråret udarbejdet en evalueringsrapport
+om forsøgsordningen, og der bliver det konkluderet, at det har haft
+den ønskede effekt og den ønskede virkning. Peberspray har virket
+præventivt, det har skabt tryghed for fængselsbetjentene, og det har
+været medvirkende til at undgå, at tilspidsede situationer blev optrappet yderligere. Derfor lægges der med lovforslaget op til, at vi
+indfører en landsdækkende og permanent ordning med peberspray i
+alle fængsler og arresthuse for netop at skabe større tryghed og sikkerhed for fængselsbetjentene og dermed mere ro også til gavn for
+de indsatte.
+Jeg kunne godt høre, at flere har haft betænkeligheder ved forslaget om at anvende peberspray. Hr. Manu Sareen sagde, at man i Det
+Radikale Venstre havde været noget bekymrede for, om det ville virke konfliktoptrappende, men tilføjede så – hvilket jo er ganske rigtigt – at rapporten faktisk viser, at det gør det ikke.
+Jeg noterede mig også, at fru Karina Lorentzen Dehnhardt – tror
+jeg, det var – var noget skeptisk over for det; det var det, der blev
+sagt: Man er skeptisk over for at give kriminalforsorgen flere magt-
+
+20
+
+Tirsdag den 11. januar 2011 (L 93)
+
+midler. Jeg synes sådan set, det er vigtigt, at kriminalforsorgen har
+de nødvendige magtmidler for at kunne bekæmpe uroligheder og
+konflikter, og jeg mener jo, at vi netop her indfører et magtmiddel,
+der gør, at man måske kan undgå nogle af de magtmidler, som netop
+giver eller risikerer at give legemsbeskadigelse. Så jeg synes i virkeligheden, man lige så vel kan se det her som en nedtrapning af volden, altså at man her får et magtmiddel, der ikke fører til skader.
+Så er der jo også andre tiltag i lovforslaget. Regeringen offentliggjorde i oktober måned en handlingsplan mod narkomisbrug, og i
+overensstemmelse med den handlingsplan lægger vi nu med det her
+lovforslag op til en skærpet indsats mod narko i vores fængsler. Jeg
+tror, vi alle sammen er enige om, at det er vigtigt, at vi bekæmper og
+undgår narko i fængslerne så godt som overhovedet muligt. Ved at
+bekæmpe narkomisbrug i vores fængsler og vores arresthuse er vi
+også med til at forebygge, at de indsatte fortsætter en kriminel løbebane efter afsoningen. Jeg synes jo, noget af det vigtigste i retspolitikken og kriminalitetspolitikken er, at vi kombineret med den stramme retspolitik også gør en effektiv indsats for at bekæmpe årsagerne
+til kriminalitet, og for mange kriminelles vedkommende må vi jo
+konstatere, at de begår kriminalitet for at få penge til narko. Kan vi
+derfor bekæmpe deres narkomisbrug, ja, så bekæmper vi også en af
+årsagerne til kriminalitet, og derfor er det en vigtig indsats, vi gør.
+Det gælder selvfølgelig også den narkobekæmpelse og bekæmpelse
+af narkomisbrug, der sker uden for fængslerne, men nu er det altså
+fængslerne, vi taler om her i dag.
+På den baggrund foreslår vi at indføre en mere effektiv kontrol
+af, om der er ulovlige effekter i fængslerne og altså ikke mindst
+ulovlige stoffer, og vi udvider også behandlingsgarantien for stofmisbrugere i kriminalforsorgens institutioner. Så der er altså på den
+ene side den hårde måde med mere effektiv kontrol og på den anden
+side den bløde måde med bekæmpelse af narkomisbruget ved simpelt hen at give en bedre garanti til stofmisbrugerne blandt dem, som
+er indsatte.
+Herudover vil der så i overensstemmelse med handlingsplanen
+blive fastsat nogle administrative regler for anvendelse af narkohunde til at undersøge de indsatte og de besøgende for ulovlige stoffer.
+Det synes jeg jo også er rigtigt.
+Man kan sige, at selv om i hvert fald de fleste var positive over
+for lovforslaget og ville støtte det, så var der jo alligevel nogle, der
+på den ene side kom med nogle bemærkninger om, at det er for dårligt, at der er narko i vores fængsler – og det er det jo; det må vi undgå – men på den anden side var det også dem, der sagde, at det ikke
+er særlig godt, at der kommer nogle hunde og snuser til de folk, der
+skal ind i fængslerne, for eventuelt at opdage, om de smugler noget
+narko med ind.";Lars Barfoed
+127688;Time;"Altså, man kan ikke mene, at vi skal begrænse narkoen i fængslerne, hvis man ikke også mener, at vi må styrke kontrollen. Og der
+er hundene altså gode til netop at opdage narko, hvor mennesker ikke kan opdage det.
+Så har jeg noteret mig, at der er flere, som gerne ser – og det må
+vi jo arbejde med under udvalgsarbejdet – at vi får uddybet, hvordan
+vi anvender hundene, når de f.eks. får færten af narkotika. Jeg tror
+også, det er en ordning, som vi skal gøre os vores erfaringer med undervejs, og at vi skal blive bedre til opgaven, og det gælder både de
+mennesker, som står ved siden af hundene og måske også hundene
+selv. Men jeg kan ikke se andet, end at hvis vi vil begrænse indsmuglingen af narko i vores fængsler, er det en effektiv måde at gøre
+det på, fordi hundene altså kan sætte ind der, hvor, havde jeg nær
+sagt, mennesker ikke kan opdage det.
+Flere siger så – og det er jeg meget enig i – at det er vigtigt, at vi
+har nogle gode udslusningsforløb, i forbindelse med at man skal ud
+af fængslet, og derfor har vi jo Projekt God Løsladelse. Jeg lagde
+mærke til, at fru Karina Lorentzen f.eks. havde en række betragtnin-
+
+ger, som jeg er fuldstændig enig i, men fru Karina Lorentzen fik det
+sagt, som om det var noget, vi ikke var enige om, og at det var Socialistisk Folkeparti, der nu ville have indført nogle bedre sammenhænge, når folk skulle ud af fængslerne. Det er jo det, regeringen er i
+fuld gang med at gennemføre, vi er netop i Projekt God Løsladelse i
+gang med at sikre en helhedsorienteret udgang fra fængslerne, så der
+bliver et tæt samarbejde gennem kontrakter med kommunerne omkring løsladelsen.
+For jeg er fuldstændig enig i, at det er afgørende, at vi, når de
+indsatte skal ud, forsøger så vidt muligt at give dem job, bolig, uddannelse, altså får dem sat i gang med en god tilværelse og et godt
+forløb i deres videre liv. Det er ret afgørende for den resocialiserende effekt og for en fortsættelse af den resocialiserende indsats vi gør
+gennem uddannelse, narkoafvænning osv. i fængslerne.
+Men altså, tak for en god modtagelse af lovforslaget. Jeg ser frem
+til en konstruktiv behandling i udvalget.";Kl. 15:05
+129828;Time;;Kl. 15:07
+129867;title_name;":
+Der er et par korte bemærkninger, først fra fru Karina Lorentzen
+Dehnhardt.";Mogens Lykketoft
+129954;Time;"Karina Lorentzen Dehnhardt (SF):
+Jeg synes faktisk, det er ret relevant, når vi nu i dag diskuterer magtmidler, også at diskutere den dynamiske sikkerhed, som jo er hverdagssikkerheden. Og der ved vi bare, at kriminalforsorgen er under
+voldsomt pres lige nu. Der er alt for mange indsatte, der er stigende
+vold og mange bandemedlemmer, som presser kriminalforsorgen.
+Jeg har stillet et spørgsmål til ministeren for et par måneder siden, som jeg endnu ikke har fået svar på, og det optager mig faktisk
+rigtig meget. Ministeren har lovet os en rapport om sikkerhedssituationen og kapaciteten i kriminalforsorgen. Derfor vil jeg spørge ministeren: Hvornår kommer den? Har ministeren eventuelt modtaget
+den? Hvornår kan vi forvente, at man kommer videre med det her
+projekt? Eller er det fuldstændig lagt ud i forbindelse med flerårsaftalen?";Kl. 15:07
+130803;Time;;Kl. 15:08
+130842;title_name;":
+Ministeren.";Mogens Lykketoft
+130865;Time;;Kl. 15:08
+130899;title_name;":
+Nej, jeg har ikke set rapporten, men ligesom fru Karina Lorentzen
+Dehnhardt rykker jeg for den, for jeg synes også, det er på tide, at vi
+nu får den på bordet, så vi kan tage aktion på den.
+For det er jo ganske rigtigt, at vi er tæt på kapacitetsgrænsen i vores fængsler, når det gælder antallet af indsatte. Det skal vi jo på den
+ene side glæde os over, i den forstand at det er et udtryk for, at politiet har succes med at efterforske forbrydelser og få forbrydere dømt
+– ikke mindst er det jo lykkedes for politiet, også gennem den reorganisering af politiet, der er sket i forbindelse med politireformen,
+som jo nu er ved at være en stor succes, at sørge for, at vi får dømt
+flere bandemedlemmer og rockere, som har begået grov kriminalitet.
+Det betyder selvfølgelig så på den anden side, at der er en større belastning på vores fængselsvæsen, og det skal vi gøre noget ved.
+Derfor afventer jeg den rapport med spænding, og den kan så give anledning til de første skridt, men vi kommer også til i løbet af
+året – jeg agter jo også senere på året at indkalde partierne til drøftelser om det – at drøfte en ny flerårig aftale om kriminalforsorgens
+økonomi og indsats.
+
+Tirsdag den 11. januar 2011 (B 37)";Lars Barfoed
+132118;Time;;Kl. 15:11
+132129;Time;;Kl. 15:09
+132168;title_name;":
+Fru Karina Lorentzen Dehnhardt.";Mogens Lykketoft
+132211;Time;"Karina Lorentzen Dehnhardt (SF):
+Jeg kan så bare ikke forstå, at jeg ikke har fået et svar, for jeg har
+spurgt om det her for næsten 2 måneder siden og har rykket for svar
+indtil flere gange. Det er et ret simpelt spørgsmål: Har ministeren
+modtaget rapporten, eller har han ikke modtaget rapporten? Det har
+jeg ikke fået et svar på.
+Ministeren siger, at han ikke har set rapporten, men er der så andre i ministerens ministerium, som har set rapporten? Det kunne jeg
+faktisk godt forestille mig, og jeg synes ikke, det er særlig tilfredsstillende. Vi risikerer, at der sker en udvikling i kriminalforsorgen,
+som er virkelig, virkelig uheldig, hvis vi ikke snart får sat ind.
+Jeg synes, det er meget mærkværdigt, at jeg ikke bare kan få et ja
+eller et nej til spørgsmålet om, om man har set rapporten – ikke om
+ministeren har set den eller ej, men om ministeriet har modtaget noget fra Kriminalforsorgen, som kan ligne det, man kan kalde en rapport om kapaciteten og sikkerhedssituationen. Ja eller nej?";Kl. 15:09
+133224;Time;;Kl. 15:10
+133263;title_name;":
+Ministeren.";Mogens Lykketoft
+133286;Time;;Kl. 15:10
+133320;title_name;":
+Som sagt har jeg ikke set rapporten. Jeg tror ikke engang, må jeg tilstå, at jeg har set fru Karina Lorentzen Dehnhardts spørgsmål.
+Men svaret er jo altså, at den er lige på trapperne, og derfor tror
+jeg såmænd også, at der i hvert fald er nogle med tilknytning til ministeriet, der har set et udkast til rapporten. Men den skal jo lige gøres færdig.
+Jeg er helt enig i, at den har været meget lang tid undervejs, men
+når jeg nu siger, at jeg også har rykket for den, at jeg er utålmodig,
+ligesom fru Karina Lorentzen Dehnhardt er det, og at jeg tror, at den
+er lige på trapperne, mon vi så ikke snart i fællesskab kan glæde os
+over at se rapporten? Det tror jeg.";Lars Barfoed
+133995;Time;;Kl. 15:11
+134034;title_name;":
+Der er en kort bemærkning fra hr. Simon Emil Ammitzbøll.";Mogens Lykketoft
+134102;Time;;Kl. 15:11
+134130;name_party;":
+Jamen det drejer sig i virkeligheden kun om en enkelt bemærkning
+fra justitsministeren. Hvad er det, man siger? – den sovjetiske diktator, Lenin, sagde, at tillid er godt, men at kontrol er bedre, og det jeg
+ved efterhånden også er et herskende mantra i Danmark. Jeg tror
+dog, at justitsministeren og jeg også deler et ønske om at få mindre
+kontrol mange steder i det danske samfund. Nogle steder skal den
+selvfølgelig være der, og vi støtter selvfølgelig op om, at når man laver et forbud, skal man også ville kontrollere det. Ellers er vores generelle politik, at man så skal afskaffe det pågældende forbud, og det
+er ligegyldigt, hvad det nu måtte være.
+Det eneste, jeg bemærkede fra Liberal Alliances side, var, at vi
+var bekymrede over kvaliteten af kontrollen – bare lige for at få det
+slået fast med syvtommersøm.";Simon Emil Ammitzbøll
+134962;Time;;Kl. 15:11
+135001;title_name;":
+Ministeren.
+
+21";Mogens Lykketoft
+135052;title_name;":
+Jeg forstod det sådan, at det mere var noget, der skulle slås fast med
+syvtommersøm, snarere end at det var et spørgsmål til mig, så det
+noterer jeg.";Lars Barfoed
+135213;Time;;Kl. 15:12
+135252;title_name;":
+Så siger vi tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Retsudvalget. Hvis ingen gør
+indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+6) 1. behandling af beslutningsforslag nr. B 37:
+Forslag til folketingsbeslutning om tiltrædelse af Stabiliseringsog Associeringsaftale mellem De Europæiske Fællesskaber og
+deres medlemsstater på den ene side og Serbien på den anden side.
+Af udenrigsministeren (Lene Espersen).
+(Fremsættelse 10.12.2010).";Mogens Lykketoft
+135843;Time;Forhandling;Kl. 15:12
+135894;title_name;":
+Forhandlingen er åbnet. Hr. Flemming Møller som ordfører for Venstre.";Mogens Lykketoft
+135975;Time;"(Ordfører for forslagstillerne)
+Flemming Møller (V):
+Lad mig først sige, at Venstre kan støtte forslaget. Vi finder det glædeligt, at landene på Balkan knyttes tættere til EU. Landene på Balkan er jo eksempler på, hvordan fjendebilleder ikke sådan bare lige
+forsvinder i et undertrykt samfund. I en lang periode var der ikke
+mulighed for meningsudveksling i de samfund, og derfor oplevede
+vi jo, da de fik deres frihed til at ytre sig, at alle de gamle fjendebilleder fra anden verdenskrig levede i bedste velgående, og det var rystende at opleve, hvad de førte til.
+EU står for det stik modsatte. Det står for afmontering af fjendebilleder gennem fri meningsudveksling og samhandel. Derfor må det
+være et håb, at det vil føre frem til en proces, hvor de principper, der
+har sikret fred og frihed i vores del af Europa, også vil komme til at
+gøre det på Balkan.";Kl. 15:12
+136848;Time;;Kl. 15:14
+136887;title_name;":
+Tak til ordføreren. Så er det hr. Kim Mortensen som socialdemokratisk ordfører.";Mogens Lykketoft
+136978;Time;(Ordfører);Kl. 15:14
+137008;name_party;":
+Jeg kan i lighed med Venstres ordfører tilføje, at Socialdemokratiet
+støtter forslaget om en associeringsaftale mellem EU og Serbien. Vi
+har hele tiden set og ser stadig væk EU som et fredens projekt, og
+
+22
+
+Tirsdag den 11. januar 2011 (B 37)
+
+man kan sige, at udviklingen i Europa i 1930'erne og 1940'erne på
+mange måder minder om udviklingen i det tidligere Jugoslavien i
+1990'erne med politiseret nationalisme, der førte til konflikter, der
+førte til krige, der førte til folkedrab.
+Man kan sige, at hvis ikke vi har den ambition at knytte Serbien
+til EU, på linje med hvad vi har gjort med en lang række andre lande
+i det tidligere Jugoslavien, vil alternativet være, at vi støder Serbien
+fra os, og alternativet vil være, at vi vil øge risikoen for splittelse og
+konflikter i Europa.
+Vi synes i Socialdemokratiet, at man skal det modsatte. Vi synes,
+at man skal holde sammen på Europa. Vi synes, at man skal tilknytte
+de mange nye lande, men betingelsen er stadig væk, at man lever op
+til de værdier, til de demokratiske værdier – menneskerettigheder, ligestilling, ytringsfrihed, det, som vi i den vestlige verden kender
+som almindelige, demokratiske værdier. Den proces vil vi gerne have at lande som Serbien kommer ind i, og derfor kan vi støtte, at
+man laver en associeringsaftale, og at Serbien også på sigt bliver
+medlem af EU.";Kim Mortensen
+138360;Time;;Kl. 15:16
+138399;title_name;":
+Tak til ordføreren. Så er det fru Pia Adelsteen som ordfører for
+Dansk Folkeparti.";Mogens Lykketoft
+138493;Time;(Ordfører);Kl. 15:16
+138524;name_party;":
+I Dansk Folkeparti er vi tilhængere af frihandel. Frihandel er vejen
+til udvikling af et samfund, og frihandel er forudsætningen for vækst
+og velstand. En aftale med Serbien giver god mening set i lyset af, at
+landet er centralt placeret på Balkan, omsluttet af lande, som har aftaler med EU, eller som er EU-medlemslande. Samtidig anser vi det
+for et positivt og støttende signal til Serbien og håber, at det vil trække landets udvikling i en demokratisk retning. Netop respekten for
+demokratiske principper udgør et væsentligt element i aftalen, hvilket vi i Dansk Folkeparti finder vigtigt.
+Et element i aftalen har jeg dog et forståelsesspørgsmål til til ministeren, og det drejer sig om udbetaling af familieydelser. Når jeg
+spørger til dette, er det, fordi vi jo for nylig har aftalt at indføre et
+optjeningsprincip, når der skal udbetales børnecheck, og det er aftalt,
+netop fordi andre EU-borgere har ret til de sociale ydelser, som landets egne borgere har. Her er mit spørgsmål så, om dette også gælder
+for serbiske børn bosiddende i Serbien. Jeg er simpelt hen i tvivl om,
+om jeg forstår teksten rigtigt, men det håber jeg ministeren kan afklare.
+Samtidig vil jeg godt sige, at vi jo har det her EU-mantra om fri
+bevægelighed. Nu er Ungarn jo i gang med at udstede en masse pas
+til etniske serbere, der bor rundtomkring, jeg tror, jeg læste, at antallet var 3,5 millioner. Det er så, hvad det er, for det er de i Ungarn i
+deres gode ret til. Men det, som jeg egentlig gerne vil stille spørgsmål til i forbindelse med aftalen, er, om den mulighed for indvandring, som f.eks. tyrkerne har i forbindelse med deres aftale, er den
+samme for serberne.
+Så det håber jeg ministeren kan afklare, men vi er positive.";Pia Adelsteen
+140253;Time;;Kl. 15:17
+140292;title_name;":
+Tak til ordføreren. Fru Pia Olsen Dyhr som ordfører for SF.";Mogens Lykketoft
+140363;Time;(Ordfører);Kl. 15:18
+140395;name_party;":
+SF kan også støtte forslaget om at fastholde Serbiens ønske om en
+stadig tættere tilknytning til EU. EU har med den her indgåelse af aftalen vist, at man ønsker at støtte reformprocessen i Serbien, og det
+
+mener vi er helt centralt. Derudover underbygger man, at de demokratiske principper samt menneskerettighederne er et væsentligt element i aftalen, og det ser vi bestemt som positivt. Så SF støtter forslaget.";Pia Olsen Dyhr
+140820;Time;;Kl. 15:18
+140859;title_name;":
+Tak til ordføreren. Fru Helle Sjelle som konservativ ordfører.";Mogens Lykketoft
+140933;Time;(Ordfører);Kl. 15:18
+140963;name_party;":
+I dag førstebehandler vi et beslutningsforslag, der har til formål at få
+Danmark til at tiltræde stabiliserings- og associeringsaftalen mellem
+EU og Serbien. Det er en aftale, der blev indgået tilbage i april 2008,
+men den træder ikke i kraft, før alle EU's 27 medlemsstater har tiltrådt den.
+Vi Konservative er meget glade for den meget positive effekt,
+som EU de seneste 15-20 år har haft i de tidligere socialistiske lande
+i Central- og Østeuropa. Mange af de lande var tidligere fattige og
+tilbagestående, men buldrer nu fremad mod velfungerende demokrati og markedsøkonomi. Det gør de bl.a. på grund af den store indsats,
+som EU har ydet i de lande. Nogle af landene er sågar blevet optaget
+i EU, andre arbejder EU og dermed Danmark tæt sammen med, og
+vi påvirker dem derved til en udvikling i den rigtige retning. Det er
+stabiliserings- og associeringsaftalerne et rigtig godt eksempel på.
+På Balkan har EU allerede stabiliserings- og associeringsaftaler
+med Albanien, Makedonien og Kroatien, som alle er trådt i kraft.
+Serbien er derfor også et logisk næste skridt. Jo flere samarbejdsaftaler EU kan indgå på Balkan, desto bedre kan vi præge udviklingen i
+en region, der i mange år var præget af massiv politisk undertrykkelse og adskillige krige. Det er i vores interesse at have en stabil naboregion, som ikke producerer krige og flygtninge, men som bidrager
+til vækst og velstand i Europa.
+Jeg vil fremhæve to punkter fra stabiliserings- og associeringsaftalen med Serbien, som set fra et konservativt synspunkt er særlig
+gode. Det første punkt er det særlig stærke fokus på demokrati og
+menneskerettigheder, som findes i aftalen. For et land som Serbien,
+der i så mange år har været tynget af et socialistisk diktatur, er demokrati noget, der skal læres, og det tager tid, ligesom det tager tid
+at lære at tage de grundlæggende menneskerettigheder alvorligt. Af
+aftalen fremgår det, at Serbien skal samarbejde uindskrænket med
+Den Internationale Krigsforbryderdomstol for det tidligere Jugoslavien. Det lægger jeg meget stor vægt på, når man påtænker de store
+vanskeligheder, som visse serbiske politikere har haft med at gøre op
+med fortiden på netop det punkt. Med aftalen bliver samarbejdet
+med krigsforbryderdomstolen uomgængeligt, også for Serbien.
+Det andet punkt er, at Serbien med aftalen gradvis bliver en del
+af EU's indre marked. Over en 6-årig periode vil der blive opbygget
+et frihandelsområde, der sikrer fri bevægelighed for varer, tjenesteydelser, kapital og arbejdskraft, sådan som vi kender det fra EU i
+dag. Det indre marked har været en enorm økonomisk gevinst for
+hele EU og dermed også for Danmark, fordi det har gjort op med
+fortidens toldmure og øvrige handelshindringer. Med aftalen vil også
+Serbien gradvis blive en del af det indre marked, og det betyder, at
+serbiske virksomheder får lettere ved at eksportere deres varer til
+EU-landene til gavn for vækst og velstand i Serbien og dermed til
+gavn for serberne.
+Alt i alt bakker vi Konservative således fuldt og fast op om den
+stabiliserings- og associeringsaftale med Serbien, som EU har indgået, og som Folketinget nu også har mulighed for at tiltræde på Danmark vegne. Det gør vi, fordi vi ønsker, at Serbien og Balkan i det
+hele taget fortsætter sin positive udvikling i retning af et velfungerende demokrati og en velfungerende markedsøkonomi. Det har vi
+alle en interesse i.
+
+Tirsdag den 11. januar 2011 (B 37)";Helle Sjelle
+144381;Time;;Kl. 15:22
+144420;title_name;":
+Tak til ordføreren. Hr. Niels Helveg Petersen som radikal ordfører.";Mogens Lykketoft
+144499;Time;(Ordfører);Kl. 15:22
+144538;name_party;":
+Det Radikale Venstre tilslutter sig med glæde dette forslag, og jeg
+vil gerne udtrykke håbet om, at denne aftale bliver til gavn for udviklingen i Serbien både økonomisk og socialt, politisk og med hensyn til menneskerettigheder. Det vil være et afgørende skridt, for at
+Serbien bevæger sig i en god retning udviklingsmæssigt, og det er
+klart i interesse både for Serbien og for Serbiens europæiske naboer.";Niels Helveg Petersen
+144956;Time;;Kl. 15:23
+144995;title_name;":
+Tak til ordføreren. Hr. Per Clausen som ordfører for Enhedslisten.";Mogens Lykketoft
+145073;Time;(Ordfører);Kl. 15:23
+145102;name_party;":
+Nu har vi jo ikke i Enhedslisten nogen tradition for at forhindre andre lande i at begå fejltagelser ved at stemme imod deres optagelse i
+EU eller for den sags skyld forhindre, at de indgår associeringsaftaler. Alligevel synes jeg nu nok, at man må tilføje et par kritiske bemærkninger til debatten. Hr. Niels Helveg Petersen var jo så fornuftig, at han nøjedes med at give udtryk for et ønske om, at det ville
+gavne den serbiske befolkning, og det tror jeg er meget klogt. Andre
+havde ligesom draget konklusionen i forvejen. Man var sikker på, at
+det ville gavne den serbiske befolkning, og så henviste man til de erfaringer, der har været fra en række andre østeuropæiske lande.
+Der synes jeg jo, at man er nødt til at læse associeringsaftalen lidt
+grundigt, fordi den indeholder elementer, der bekræfter, at man i
+Serbien på en række områder fremover vil bestræbe sig på at overholde menneskerettighederne, rette sig efter menneskerettighedsdomstol og krigsforbryderdomstol osv. Og det er rigtigt godt, at man
+siger, at man vil det. Desværre kan vi jo se, at selv det at blive medlem af EU ikke er nogen garant for, at man helt har styr på ytringsfrihed, pressefrihed og er et velfungerende demokrati, ja, selv hvis
+man har været med til at danne EU, kan det give visse vanskeligheder, som Italien jo hele tiden overbeviser os om. Men det er positivt.
+Hvad der derimod er en lille smule overraskende – det er det måske ikke, men alligevel – er, at betingelsen for, at man kan indgå en
+aftale med Serbien også er, at man i et og alt underlægger sig den
+liberalistiske økonomiske politik, som føres i EU, og det er jo vanligt, når det drejer sig om EU og associeringsaftaler. Det handler om,
+at man skal sørge for, at der bliver åbnet for udenlandske investeringer uden nogen begrænsninger, det handler om, at man skal acceptere den fri bevægelighed af kapital, arbejdskraft og varer med de konsekvenser, også negative konsekvenser, som det kan få for befolkningen i Serbien og for det serbiske erhvervsliv, og også, at man skal
+tilpasse sin økonomiske politik til de krav, der stilles til, hvordan den
+sociale politik skal indrettes.
+Der må vi jo bare sige, at hvis vi kigger på de østeuropæiske lande og udviklingen i de østeuropæiske lande efter deres medlemskab
+af EU, så skal man være usædvanlig, om jeg så må sige, enøjet for
+kun at kunne se fordele og en positiv udvikling. I en lang række lande har man set fattigdom, social udstødelse og problemer, som ikke
+er løst. Man har set, hvordan det ikke er lykkedes at gøre op med
+mafiadominans og kriminelle forhold.
+Så jeg synes, at det udgangspunkt, at det her kun er godt, og at vi
+er fuldstændig sikre på, at det vil være godt for den serbiske befolkning, er forkert. Jeg tror også, man skal erkende, at der vel er to interesser, der driver EU i det her. Den ene er interessen for – og den
+
+23
+
+interesse kan der være rimelighed nok i – at man vil have rimelige,
+rolige og ordnede forhold uden for EU's grænser, og selvfølgelig
+kunne det da være en smuk utopi, at Eksjugoslavien kunne blive
+genetableret som en region under EU, hvis det var det, der var pointen, men sagen er jo også, at EU også har nogle økonomiske interesser i det her, og det handler også om, at de erhvervsinteresser, de kapitalinteresser, der findes i EU-landene, skal have mulighed for at
+etablere sig og tjene penge i Serbien. Om det så i sidste instans vil
+vise sig være til fordel for befolkningen i Serbien, mener vi faktisk i
+Enhedslisten er stærkt uafklaret, og det har vi ikke nogen klar opfattelse af, at man kan være sikre på.
+Så vi er sådan set grundlæggende skeptiske og negative over for
+en række af de elementer, der ligger i associeringsaftalen, men vil på
+den anden side sige, at hvis det er sådan, at man i Serbien på demokratisk vis træffer en sådan beslutning om, at man vil indgå i det her,
+så vil vi ikke være dem, som blokerer for det. Så selv om jeg kom
+omkring et par omveje undervejs, hvor jeg forsøgte at påpege, at heller ikke i den her sag er alt, hvad EU gør, godt, så vil konklusionen
+være, at vi vil stemme for beslutningsforslaget ved sidste behandling.";Per Clausen
+149229;Time;;Kl. 15:27
+149268;title_name;":
+Tak til ordføreren. Så er det udenrigsministeren.";Mogens Lykketoft
+149329;Time;"Udenrigsministeren (Lene Espersen):
+Jeg vil også gerne indlede med at takke for den brede støtte til beslutningsforslaget, om end den forrige talers støtte måske ikke var så
+betingelsesløs, men det var dog en støtte til beslutningsforslaget.
+Jeg er meget glad for at kunne konstatere, at der i Folketinget
+som helhed er støtte til tiltrædelsen af denne aftale mellem EU og
+Serbien. Vi har jo tidligere tiltrådt tilsvarende aftaler med Kroatien,
+med Den Tidligere Jugoslaviske Republik Makedonien, med Albanien, Montenegro og Bosnien-Hercegovina.
+Politisk og økonomisk fremgang i Serbien er jo af central betydning for den generelle stabilitet på Balkan, som også den konservative ordfører, fru Helle Sjelle, var inde på. Det er en aftale, der udgør
+et vigtigt bidrag til den fortsatte opbygning af de nødvendige politiske og økonomiske institutioner i Serbien og dermed også til integration af Serbien i det europæiske samarbejde.
+Beslutningen om at tiltræde aftalen er et vigtigt signal til Serbien
+om, at EU's og Danmarks bidrag til fortsat at sikre stabiliteten på det
+vestlige Balkan er der. Det er også min vurdering, at denne aftale vil
+få stor betydning for den politiske og økonomiske udvikling i Serbien, så jeg er meget glad for de positive bemærkninger, der er faldet
+om aftalen.
+Fru Pia Adelsteen havde to spørgsmål til aftalen. Det ene spørgsmål gik på børnefamilieydelsen, altså på børnechecken. Det er jo sådan, at retten til social sikring og adgangen til sociale ydelser er rettigheder, som indgår i en bilateral socialsikringsaftale, som Danmark
+i 1977 indgik med det daværende Jugoslavien, og den aftale om adgangen til sociale ydelser dækker også Serbien i dag. Men for ikke
+her at skulle kloge mig for meget på, hvilke betingelser der skal være opfyldt for at få adgang til børnefamilieydelser, vil jeg foreslå, at
+fru Pia Adelsteen stiller et skriftligt spørgsmål, så vi kan få skrevet
+de præcise konditioner ned for, hvornår man har ret til at optjene
+børnefamilieydelse efter at have haft varigt ophold i Danmark og arbejdet her. Jeg tror, det vil være det bedste, så vi ikke taler forbi hinanden.
+Til fru Pia Adelsteens andet spørgsmål om indvandring kan jeg
+sige, at aftalen her faktisk har konsekvenser. Serbien forpligter sig i
+aftalen, jævnfør artikel 83, til at samarbejde med EU og andre lande
+i regionen om at bekæmpe ulovlig indvandring. I henhold til aftalen
+forpligter Serbien sig også til at tilbagetage egne statsborgere, der
+
+24
+
+Tirsdag den 11. januar 2011 (FM )
+
+opholder sig ulovligt i et EU-land. EU har indgået en tilbagetagelsesaftale med Serbien, men Danmark har på grund af vores forbehold på RIA-området indgået en bilateral aftale selv, således at der
+er en tilbagetagelsesaftale med Serbien. Det vil altså sige, at der er
+fast grund under fødderne, med hensyn til at Serbien skal tilbagetage
+statsborgere, der opholder sig uretmæssigt i et EU-land.
+Derudover kan jeg også sige, at Serbien med aftalen forpligter sig
+til at samarbejde med EU om bekæmpelse af organiseret kriminalitet
+og andre ulovligheder som f.eks. menneskesmugling, menneskehandel, korruption, ulovlig handel med narkotika og ulovlig våbenhandel, og det er jo faktisk rigtig godt.
+Så jeg vil sige, at aftalen faktisk har et ganske positivt indhold,
+der, også når det gælder bekæmpelse af grænseoverskridende kriminalitet, kan skabe bedre og tryggere rammer og være et mere effektivt våben for vores fælles politi i landene. Men vi mangler selvfølgelig at få alle landene til at ratificere aftalen, og det er sådan, at der
+på nuværende tidspunkt er ni lande, der har ratificeret aftalen udover
+Serbien. Nu kommer Danmark så til, men vi håber selvfølgelig på, at
+de positive vibrationer fra det danske parlament, påvirker de øvrige
+parlamenter til, at der kommer en hurtig ratifikation.
+Jeg vil i hvert fald gerne takke for en positiv behandling i salen
+her i dag. Tak.";Kl. 15:27
+153226;Time;;Kl. 15:31
+153265;title_name;":
+Tak til udenrigsministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Europaudvalget. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.";Mogens Lykketoft
+153535;Time;Meddelelser fra formanden;Kl. 15:31
+153600;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 12. januar 2011, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets
+hjemmeside.
+:
+Mødet er hævet. (Kl. 15:32).";Mogens Lykketoft

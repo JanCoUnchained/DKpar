@@ -1,0 +1,544 @@
+split;reason;text;value
+0;;"Onsdag den 19. marts 2014 (D)
+
+1
+
+Rosa Lund (EL) m.fl.:
+Beslutningsforslag nr. B 64 (Forslag til folketingsbeslutning om at
+ophæve private leverandørers adgang til at trække overskud ud af
+drift af daginstitutioner, fritidshjem og klubtilbudom at ophæve private leverandørers adgang til at trække overskud ud af drift af daginstitutioner, fritidshjem og klubtilbud).
+
+65. møde";
+412;Time;"Dagsorden
+
+Brian Mikkelsen (KF) og Ole Birk Olesen (LA):
+1) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til justitsministeren af:
+Martin Henriksen (DF)
+Er ministeren indstillet på at nedsætte en hurtigtarbejdende arbejdsgruppe, der skal komme med anbefalinger til, hvordan udvisning af
+kriminelle udlændinge kan gøres nemmere, således at der udvises
+flere kriminelle udlændinge?
+(Spm. nr. S 1122).
+2) Til ministeren for børn, ligestilling, integration og sociale forhold
+af:
+Karina Adsbøl (DF)
+Finder ministeren, at kommunerne lever op til fokuspunkterne i Barnets Reform, og hvilke initiativer vil ministeren tage for at sikre sig,
+at børnesamtaler bliver afholdt?
+(Spm. nr. S 1151).
+3) Til ministeren for børn, ligestilling, integration og sociale forhold
+af:
+Karina Adsbøl (DF)
+Hvordan vil ministeren sikre inddragelse af netværket i forbindelse
+med § 50-undersøgelser (børnefaglige undersøgelser)?
+(Spm. nr. S 1152).";kl. 13.00
+1367;Time;"Beslutningsforslag nr. B 65 (Forslag til folketingsbeslutning om
+skattemæssig ligestilling af familieejede ejendomsvirksomheder med
+andre familieejede virksomheder).
+Titler på de anmeldte sager vil fremgå af www.folketingstidende.dk.
+(jf. ovenfor).
+Venstres folketingsgruppe har meddelt mig, at de har udpeget medlem af Folketinget Inger Støjberg som medlem af Danmarks Nationalbanks Repræsentantskab for den resterende del af indeværende
+funktionsperiode i stedet for medlem af Folketinget Ellen Trane
+Nørby.
+Venstres folketingsgruppe har ligeledes meddelt mig, at de har udpeget medlem af Folketinget Inger Støjberg, som stedfortræder for
+statsrevisor Kristian Jensen for den resterende del af indeværende
+funktionsperiode i stedet for medlem af Folketinget Ellen Trane
+Nørby.
+
+Det eneste punkt på dagsordenen er:
+1) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 13:00
+2260;Time;"Formanden:
+Det første af de i alt tre oversendte spørgsmål er til justitsministeren
+af hr. Martin Henriksen.";Kl. 13:01
+2380;Time;"Meddelelser fra formanden
+Formanden:
+Mødet er åbnet.
+I dag er der følgende anmeldelser:
+
+Spm. nr. S 1122
+1) Til justitsministeren af:
+Martin Henriksen (DF)):
+Er ministeren indstillet på at nedsætte en hurtigtarbejdende arbejdsgruppe, der skal komme med anbefalinger til, hvordan udvisning af
+kriminelle udlændinge kan gøres nemmere, således at der udvises
+flere kriminelle udlændinge?";Kl. 13:01
+2812;title_name;":
+Lovforslag nr. L 159 (Forslag til lov om ændring af lov om ferie.
+(Overførsel af 280 mio. kr. fra Arbejdsmarkedets Feriefond til statskassen m.v.)).
+
+Formanden:
+Værsgo.
+
+2
+
+Onsdag den 19. marts 2014 (S 1122)";Mette Frederiksen
+3033;Time;;Kl. 13:01
+3056;name_party;":
+Tak for det. Er ministeren indstillet på at nedsætte en hurtigtarbejdende arbejdsgruppe, der skal komme med anbefalinger til, hvordan
+udvisning af kriminelle udlændinge kan gøres nemmere, således at
+der udvises flere kriminelle udlændinge?";Martin Henriksen
+3307;Time;"Formanden:
+Justitsministeren.";Kl. 13:01
+3348;Time;;Kl. 13:01
+3384;title_name;":
+Jeg vil sige, at jeg sådan set ikke er af den opfattelse, at vores udvisningsregler kan gøres skrappere, for vi har sådan set allerede i dag
+nogle udvisningsregler, som går til kanten af, hvad de skal og kan i
+forhold til de internationale konventioner. Det vil sige, at vi udviser
+dem, som vi kan udvise, og sådan synes jeg også det skal være, for
+lige så velkomne mennesker er til at komme her og slå sig ned, bo
+her og blive en del af Danmark, lige så hårdt ser vi sådan set på det,
+hvis mennesker, som er kommet hertil, bare ønsker at være kriminelle eller ikke falder til. Hvis de begår kriminalitet, vil vi sådan set rigtig, rigtig gerne kunne sige farvel og tak til folk. Derfor er der ikke
+nogen tvivl om, at vores udvisningsregler er stramme, og at det også
+er den her regerings opfattelse, at de skal være stramme.
+Når Dansk Folkeparti så spørger til, om jeg vil nedsætte en arbejdsgruppe, vil jeg sige, at jeg egentlig ikke synes, at der er grund
+til at nedsætte en arbejdsgruppe, fordi det, vi gør, er jo, at vi hele tiden følger med på området. Vi arbejder hele tiden på, at vi kan få
+kriminelle asylansøgere til at rejse hjem, at vi kan få folk udvist.
+Hvem kan vi sige til, at nu stopper besøget; nu skal de ikke være her
+længere? Så vi behøver ikke nogen arbejdsgruppe for at være i arbejdstøjet. Vi arbejder hele tiden.
+Med hensyn til udvisninger udviser vi præcis dem, som vi kan
+udvise, uden at det er i strid med Danmarks internationale forpligtelser. Vores udvisningsregler er, kan jeg sådan ganske kort sige, bygget op efter en trappestigemodel. Den går populært sagt ud på, at jo
+længere tid en udlænding har været i Danmark, jo længere frihedsstraf skal den pågældende idømmes for at blive udvist.
+Det betyder med andre ord, som jeg også redegjorde for her i
+Folketingssalen, i forbindelse med at vi for nylig behandlede et beslutningsforslag fra Dansk Folkeparti, nemlig B 33, at udvisningsreglerne i udlændingeloven grundlæggende er så stramme, som de
+kan være inden for rammerne af Danmarks internationale forpligtelser. Så at lave en arbejdsgruppe giver ikke rigtig mening. Vi har de
+regler, som jeg synes vi skal have. Vi arbejder i øvrigt i det hele taget altid og hele tiden med at forbedre de muligheder, der kunne være, så det har vi ikke behov for at have nogen arbejdsgruppe til at gøre.
+Derudover vil jeg sige, at en yderligere stramning af reglerne,
+hvis man skulle ønske sig det, ville betyde, at Danmark ikke længere
+levede op til vores internationale forpligtelser.";Karen Hækkerup
+5901;Time;"Formanden:
+Hr. Martin Henriksen.";Kl. 13:04
+5945;Time;;Kl. 13:04
+5968;name_party;":
+Det er jo lidt tungt at arbejde med. Sagen er jo den, at vi fra Dansk
+Folkepartis side har fremsat et forslag i Folketingssalen til, hvordan
+man kan stramme udvisningsreglerne. Det forslag ønsker ministeren
+ikke at støtte. Det redegjorde ministeren også for her.
+
+Så foreslår vi en lidt mildere model, hvor vi siger: Så lad os få
+eksempelvis nogle embedsmænd, men det kunne også være andre repræsentanter udpeget af de politiske partier, til at sidde i en periode
+og se på, hvordan man rent faktisk kunne gøre det nemmere for
+domstolene at udvise kriminelle udlændinge. Det afviser ministeren
+så også. Det må jeg sige at jeg stiller mig fuldstændig uforstående
+over for, hvis ministeren i øvrigt er enig med Dansk Folkeparti i, at
+man skal udvise en kriminel udlænding, hver gang der overhovedet
+er mulighed for det.
+Ministeren sagde: Vi udviser dem, vi kan udvise. Men det mener
+jeg sådan set ikke er korrekt, for vi ser jo en lang række tilfælde,
+hvor folk ikke bliver udvist. Det er f.eks., hvis de har begået voldtægt, hvis de har begået vold med døden til følge osv. Der mener jeg
+faktisk at det er fuldstændig inden for rammerne af de internationale
+konventioner at udvise mennesker, der har begået så grove forbrydelser.
+Så mener ministeren ikke, at man, hvis man f.eks. har begået
+voldtægt, kan blive udvist af Danmark? Jeg mener, at det skal være
+sådan.";Martin Henriksen
+7342;Time;"Formanden:
+Ministeren.";Kl. 13:05
+7376;Time;;Kl. 13:05
+7412;title_name;":
+Hr. Martin Henriksen har en opfattelse af, hvordan hr. Martin Henriksen mener de internationale konventioner og de forhold, vi har i
+forbindelse med dem, skal læses. Den er jeg så ikke enig i.
+Jeg vil gerne sige, at hele den her debat bygger på den fejlslutning, at da den tidligere regering tilbage i 2011 ændrede reglerne,
+som handlede om, at man skulle udvise, når der var sikkerhed for, at
+det ikke var i strid med de internationale forpligtelser, turnerede den
+tidligere borgerlige regering og Dansk Folkeparti rundt med armene
+over hovedet, som om man havde vundet et kæmpestort slag. Det
+havde man ikke, for man ændrede det ikke for en eneste, som man
+kunne udvise, eller som man burde udvise.
+Det, man gerne ville, var at lave symbollovgivning, hvor man gik
+ud og sagde: Nu gør vi det simpelt hen så skrapt, at alle, også der,
+hvor der er strid om vores konventioner, skal udvises. Men så havde
+man bare skrevet i bemærkningerne, at det, medmindre der altså var
+den der strid om konventionerne, var op til domstolene.
+Ergo ændrede man ingenting, og derfor er den ændring, som
+Dansk Folkeparti i dag står her og kræver, det samme, nemlig ingenting. Den giver ikke mening.";Karen Hækkerup
+8602;Time;"Formanden:
+Hr. Martin Henriksen.";Kl. 13:06
+8646;Time;;Kl. 13:06
+8669;name_party;":
+Det er jo her, hvor politik altid bliver lidt specielt. Da vi strammede
+reglerne – eller lad os sige, da vi ændrede reglerne – i 2010, stemte
+Socialdemokraterne for at ændre reglerne, men det gjorde man jo så
+åbenbart med den begrundelse, at det ingenting betød. Så Socialdemokraterne stemte for ingenting, hvis vi skal følge ministerens egen
+argumentation. Det havde så fungeret et stykke tid, og så kom der et
+regeringsskifte, og så ændrede man reglerne tilbage igen med den argumentation, at det ingenting betød.
+Hvorfor i alverden ændrer man så reglerne, hvis man har den opfattelse, at det ikke betyder noget, at man ændrer reglerne? Det giver
+jo ikke meget mening. Og hvorfor skrev den tidligere justitsminister,
+hr. Morten Bødskov, i øvrigt til Europa-Kommissionen, til kommissæren for retsområdet, Viviane Reding, at når man ændrede reglerne,
+
+Onsdag den 19. marts 2014 (S 1151)
+
+var det med det formål at give en bedre beskyttelse imod udvisning?
+Det var jo en substansændring.
+Men altså, jeg forstår bare ikke, at hvis vi er enige om – og det
+kan vi jo have lange diskussioner om – at man skal udvise kriminelle
+udlændinge, hver gang man har den mindste mulighed for det, hvorfor vi så ikke kan finde fælles fodslag om at nedsætte en arbejdsgruppe, hvor der kan sidde nogle kloge mennesker og komme med
+nogle input til politikerne om, hvordan vi kan gøre det endnu nemmere for domstolene at udvise. Det forstår jeg simpelt hen ikke.";Martin Henriksen
+10124;Time;"Formanden:
+Ministeren.";Kl. 13:07
+10158;Time;;Kl. 13:07
+10194;title_name;":
+Det er så nemt for domstolene at udvise, som det skal være. De arbejder og har en lovgivning, som de skal leve op til – en lovgivning,
+som handler om, at man skal følge den trappestigemodel, som vi har
+valgt, og at man skal udvise, hvis det kan lade sig gøre. For vi er ret
+skrappe, i forhold til at vi ikke vil have, at mennesker, som har været
+her i kort tid, begår kriminalitet. Vi har nogle rigtig skrappe udvisningsregler, og det synes jeg også vi skal have.
+Men det, som hr. Martin Henriksen spørger til igen og igen, er jo
+den ændring, der blev lavet tilbage under den tidligere regering. Den
+ændring var ikke udtryk for en stramning af udvisningsreglerne. Så
+spørger hr. Martin Henriksen om, hvorfor Socialdemokraterne så
+selv stemte for. Nu var jeg tilfældigvis selv ordfører dengang, og jeg
+kan huske min tale, og jeg vil i øvrigt anbefale hr. Martin Henriksen
+at finde den frem. Det, jeg sagde i min tale, var: Det her er symbollovgivning; det giver ingen mening, det ændrer ingenting. Men hvis
+det er så vigtigt, stemmer vi da selvfølgelig for, men vi tror ikke, det
+ændrer noget som helst. Det viste sig så, at vi fik ret.
+Det ændrer bare ikke ved, at det var symbollovgivning, og det
+betød, at der ikke var overensstemmelse mellem lovteksten og bemærkningerne, og det er det, som den her regering har rettet op på.
+Men det har aldrig betydet noget, og det gjorde det heller ikke dengang.";Karen Hækkerup
+11607;Time;"3
+
+Det, vi har fjernet, er det meget, meget mærkelige mellemspil,
+der hed, at man skulle udvise, medmindre der var sikkerhed for, at
+det var i strid med konventionerne, men hvis der var tvivl, var det op
+til domstolene at vurdere. Det vil sige, at man skulle leve op til sine
+internationale forpligtelser. Der ligger præcis det samme i det, som
+der gør i det, vi har i lovgivningen i dag. Ergo er der ingen substantiel forandring.
+Jeg bliver bare nødt til at fastholde, at det godt kan være, at man
+fra VK's side har fået det til at se ud, som om Dansk Folkeparti i sin
+tid fik en enorm sejr, men der var ikke nogen sejr, for der var ikke en
+eneste ændring, i forhold til hvem man kunne udvise dengang og
+hvem vi kan udvise i dag. Vi udviser dem, vi kan, og det synes jeg
+også vi skal. Jeg synes, vi skal have stramme regler, men vi skal have regler, hvor lovteksten og bemærkningerne er i overensstemmelse.";Kl. 13:08
+12526;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til justitsministeren, som hermed er frigjort til andet arbejde.
+Det næste spørgsmål er til ministeren for børn, ligestilling, integration og sociale forhold af fru Karina Adsbøl.";Kl. 13:09
+12756;Time;"Spm. nr. S 1151
+2) Til ministeren for børn, ligestilling, integration og sociale forhold
+af:
+Karina Adsbøl (DF)):
+Finder ministeren, at kommunerne lever op til fokuspunkterne i Barnets Reform, og hvilke initiativer vil ministeren tage for at sikre sig,
+at børnesamtaler bliver afholdt?
+Formanden:
+Værsgo.";Kl. 13:10
+13072;Time;;Kl. 13:10
+13092;name_party;":
+Tak. Finder ministeren, at kommunerne lever op til fokuspunkterne i
+Barnets Reform, og hvilke initiativer vil ministeren tage for at sikre
+sig, at børnesamtaler bliver afholdt?";Karina Adsbøl
+13280;Time;"Formanden:
+Hr. Martin Henriksen, sidste omgang.";Kl. 13:10
+13339;Time;;Kl. 13:08
+13362;name_party;":
+Da regeringen så rullede den ændring – som jeg mener er en stramning, men fair nok, lad os bare kalde det for en ændring – tilbage,
+hvorfor skrev tidligere justitsminister Morten Bødskov så til EuropaKommissionen, at formålet med at rulle ændringen tilbage var at give en bedre beskyttelse imod udvisning? Hvorfor skrev han det, hvis
+det ikke passede?";Martin Henriksen
+13725;Time;"Formanden:
+Ministeren.";Kl. 13:08
+13759;Time;;Kl. 13:08
+13795;title_name;":
+Der var ikke tale om nogen substansændring. Det, som jeg har gennemgået her, handler om, at der med hensyn til de mennesker, som
+kunne udvises efter de gamle regler og de regler, som VKO og dermed også jeg selv vedtog – for jeg stemte selv for som ordfører, som
+jeg lige har afsløret – ikke er nogen ændring i forhold til de regler, vi
+har i dag.
+
+Formanden:
+Ministeren.";Karen Hækkerup
+14177;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Tak for spørgsmålet. Det er på ingen måde acceptabelt, hvis der er
+kommuner, der ikke afholder børnesamtaler, når de skal. Det skal
+der ikke herske nogen tvivl om. Netop børns og unges rettigheder og
+inddragelse i deres egen sag er helt centralt i kommunernes sagsbehandling vedrørende udsatte børn og unge. Derfor fremgår det også
+klart af serviceloven, at der skal afholdes en børnesamtale.
+Når undersøgelser fra Ankestyrelsen viser, at kommunerne ikke
+lever tilstrækkeligt op til reglerne, må vi selvfølgelig klart sige, at
+det på ingen måde er godt nok. Derfor har jeg også en klar forventning om, at kommunerne løbende arbejder med at efterleve reglerne
+på de her områder, som vi har styrket med f.eks. Barnets Reform, og
+det gælder især i forhold til at inddrage børn og unge i deres egen
+sag ved at holde de obligatoriske samtaler med børnene.
+Vi er naturligvis meget opmærksomme på udfordringerne på området, og vi har i satspuljenkredsen også gjort en stor indsats for at
+understøtte kommunerne i at forbedre indsatsen. Vi har bl.a. nedsat
+en taskforce, som skal hjælpe kommunerne med at få bedre styr på
+
+4
+
+Onsdag den 19. marts 2014 (S 1151)
+
+sagsbehandlingen, og så har vi også fået lavet et it-system, DUBU,
+som sikrer systematik i sagsbehandlingen, bl.a. så sagsbehandleren
+automatisk huskes på at gennemføre børnesamtalen.
+Derudover er vi også ved at se på, om de 30 mio. kr., som vi årligt bruger på at støtte efteruddannelsen af socialrådgivere, i højere
+grad skal målrettes til at efteruddanne sagsbehandlere i, hvornår og
+hvordan børn og unge inddrages i deres egen sag.";Kl. 13:10
+15860;Time;"Formanden:
+Fru Karina Adsbøl.";Kl. 13:12
+15901;Time;;Kl. 13:12
+15921;name_party;":
+Ja, men der skal jo handling til, vil jeg sige til ministeren. Og ministeren har nu i et interview her til Altinget sagt, at selv om ikke alle
+kommuner lever op til de nye regler, mener ministeren ikke, at der er
+brug for en fastere hånd over for kommunerne.
+Det kan man godt undre sig over, for ministeren har jo været ude
+at sige, at vi skal lytte til børnene. Og så viser det her jo bare, at ministeren ikke tager det særlig alvorligt, når ministeren ikke vil have,
+at der skal være en fastere hånd over for kommunerne. For hvad vil
+ministeren gøre, når reglerne om de her børnesamtaler ikke bliver
+overholdt? Ministeren siger, han vil følge området, og vi har ganske
+rigtigt også i fællesskab lavet en række gode initiativer her fra Folketingets side, men hvad nytter det, hvis det ikke bliver forvaltet sådan i praksis og der ikke er nogen, der lytter til børnene?
+Det viser sig jo, at der er massive, store fejl i de her sager. Der er
+jo en artikel fra BNB, der siger: Fejl i op mod 80 pct. af de sociale
+børnesager. Det skal der altså ske noget ved, og det nytter ikke noget
+at sige, at man vil følge det. Der skal handling til.
+
+Så lad mig spørge ministeren: Hvor mange af de 98 kommuner
+har haft besøg af taskforcen?";Karina Adsbøl
+17158;Time;"Formanden:
+Ministeren.";Kl. 13:14
+17192;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Fru Karina Adsbøl havde en meget interessant betragtning, eller hun
+sagde i hvert fald noget, som jeg synes er rigtig interessant. Hun sagde: Jeg føler ikke, at der sker noget. Se, der er jo rigtig, rigtig stor
+forskel på at føle, hvad der sker, og så på, hvad der i virkeligheden
+sker. Jeg tror, at det er helt vildt vigtigt, når vi taler om så alvorlige
+sager, at vi skelner følelser fra, hvad der egentlig sker. Der er rigtig
+mange kommuner, som gerne vil have besøg af taskforcen. Jeg skal
+lige sige, at jeg ikke kan det præcise tal, det skal jeg nok komme
+med, men det er for mig helt klart et udtryk for, at man gerne vil ses
+efter i sømmene, at man gerne vil gøre sit arbejde bedre. Jeg synes,
+at brugen af det it-system, som jeg nævnte, DUBU, viser, at systematisk sagsbehandling er en rigtig, rigtig god ting, som man også
+har taget imod i en del kommuner. Her bliver man automatisk mindet om at se på, om man har taget de samtaler, eller hvad det nu kan
+være, som vi snakker om.
+Så der sker rigtig meget, og jeg oplever helt klart, at rigtig, rigtig
+mange kommuner tager det alvorligt og også gerne vil udvikle sig på
+det her område. Det synes jeg brugen af efteruddannelsen et eller andet sted også er et udtryk for. Og vi kan jo hele tiden blive ved med
+at gøre det bedre og bedre.";Kl. 13:14
+18578;Time;;Kl. 13:16
+18589;Time;"Formanden:
+Fru Karina Adsbøl i sidste omgang.
+
+Formanden:
+Ministeren.";Kl. 13:13
+18671;Time;;Kl. 13:16
+18681;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Nu kom der ikke lige et direkte spørgsmål, men jeg prøver at tage
+afsæt i det, som fru Karina Adsbøl har været inde på. Jeg er fuldstændig enig i, at der er alt for mange fejl. Det var også noget af det,
+som jeg nævnte i min indledende tale. Men det betyder jo ikke, at vi
+bare lader stå til. Det betyder netop, som fru Karina Adsbøl meget
+rigtigt også pointerer, at vi har lavet nogle gode ting sammen.
+Det er sådan, om man kan lide det eller ej – og jeg bryder mig
+egentlig ikke om det, og det tror jeg egentlig heller ikke at fru Karina
+Adsbøl selv gør – at socialt arbejde tager tid. Det tager tid at få implementeret de her ting. Vi har sat en masse ting i værk, og det er jo
+det, jeg mener med, at vi er nødsaget til at følge det. Men det betyder
+jo ikke på nogen som helst måde, at vi ikke skal tage det alvorligt,
+for det skal vi, og det gør regeringen så sandelig også.";Kl. 13:13
+19662;name_party;":
+Selvfølgelig handler det også om følelser, når vi snakker om børn.
+Det er meget logisk. Men det handler jo også om, at de fagfolk, vi
+snakker med, hvad enten det er socialrådgivere eller advokater, der
+kører de her børns sager, siger, at kommunerne ikke har forstået Barnets Reform. Den er ikke implementeret ude i kommunerne, og børnene bliver ikke hørt. Lad os tage et eksempel, nemlig to børn, som
+er anbragt i en familiepleje. De kommer ind til børn- og ungeudvalget i kommunen, og så bliver de måske spurgt: Vil I gerne hjem til
+mor og far på besøg? Så svarer de: Ja, det vil vi meget gerne, og vi
+vil også gerne ringe til dem. Og så siger udvalget måske noget andet,
+og i sidste ende hører man ikke børnene, og børnene kommer ikke
+hjem på weekend, og børnene får ikke lov til at ringe og sige godnat
+til mor og far.
+Altså, hvordan vil ministeren sikre sig, at de her anbragte børn
+bliver hørt i de her sager? Hvordan vil ministeren sikre sig det?";Karina Adsbøl
+20627;Time;;Kl. 13:14
+20638;Time;"Formanden:
+Fru Karina Adsbøl.
+
+Formanden:
+Ministeren.";Kl. 13:17
+20703;Time;;Kl. 13:14
+20723;name_party;":
+Det føler jeg ikke regeringen gør, for vi har jo taskforcen, ikke? Og
+jeg ved, at den tidligere minister har sendt taskforcen til Esbjerg,
+men vil ministeren gøre noget for at sende taskforcen ud, så man kan
+give gode råd og vejledning til kommunerne? Det vil ministeren jo
+ikke gøre.";Karina Adsbøl
+21020;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Jamen det vil man jo netop ved at få implementeret alle de tiltag,
+som jeg listede op i min indledning. Jeg har i øvrigt selv siddet i et
+børn- og ungeudvalg, og lad mig sige det helt klart: Selvfølgelig
+handler det her om barnets tarv. Selvfølgelig handler det om, at der
+ikke må ske fejl. Men jeg har i al stilfærdighed også bare lyst til at
+
+Onsdag den 19. marts 2014 (S 1152)
+
+sige, at nogle af de fejl, som der sker, ikke nødvendigvis har noget at
+gøre med afgørelsen. Det skal vi også huske. For der sker rigtig, rigtig mange fejl, men ikke nødvendigvis alle har noget med afgørelsen
+at gøre. Det betyder ikke, at vi bare kan sætte os ned og ikke gøre
+noget. Det betyder ikke, at vi ikke vil have efteruddannelse. Det betyder ikke, at vi ikke vil overvåge området. Det vil vi, og vi vil gøre
+det meget, meget tæt, fordi det jo netop er, rigtig, rigtig alvorligt –
+det er vi jo enige om – og fordi det handler om mennesker, ikke
+mindst de små børn.";Kl. 13:17
+22067;Time;"Formanden:
+Spørgsmålet er sluttet.
+Men det næste spørgsmål til ministeren for børn, ligestilling, integration og sociale forhold er også af fru Karina Adsbøl.";Kl. 13:17
+22237;Time;"Spm. nr. S 1152
+3) Til ministeren for børn, ligestilling, integration og sociale forhold
+af:
+Karina Adsbøl (DF)):
+Hvordan vil ministeren sikre inddragelse af netværket i forbindelse
+med § 50-undersøgelser (børnefaglige undersøgelser)?
+Formanden:
+Værsgo.";Kl. 13:18
+22502;Time;;Kl. 13:18
+22522;name_party;":
+Tak for det, formand. Hvordan vil ministeren sikre inddragelse af
+netværket i forbindelse med § 50-undersøgelser (børnefaglige undersøgelser)?";Karina Adsbøl
+22676;Time;"Formanden:
+Ministeren.";Kl. 13:18
+22710;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Tak for spørgsmålet, som læner sig lidt op ad det foregående spørgsmål. Lad mig sige, som jeg også gjorde før, at det på ingen måde er
+acceptabelt, når kommuner ikke inddrager barnets familie og netværk i undersøgelserne. Det er utrolig vigtigt, at både familie og netværk inddrages, når en kommune gennemfører en børnefaglig undersøgelse. Det skal der ikke herske nogen som helst tvivl om. Det er
+selvfølgelig også, som fru Karina Adsbøl er meget, meget bevidst
+om, ligesom jeg også er, med til at sikre, at kommunen bliver opmærksom på de ressourcer, der netop kan være i det omkringliggende netværk. Derfor står det også tydeligt i serviceloven, at kommunen, når den gennemfører undersøgelsen, skal afdække ressourcer og
+problemer hos barnet, familien og netværket.
+Ankestyrelsens undersøgelse af kommunernes inddragelse af familie og netværk fra december sidste år viste, at kommunerne generelt er opmærksomme på systematisk at afdække ressourcerne og
+inddrage familie og netværk i netop børnesagerne. Men der er selvfølgelig altid en anden side også, for undersøgelsen viste nemlig også, at der er plads til forbedringer, og at det ikke altid lykkes i praksis. Derfor er det selvfølgelig også meget vigtigt, at kommunerne
+styrker deres fokus på at anvende forskellige metoder til at inddrage
+netværket i sagsbehandlingen.
+Fra centralt hold understøtter vi selvfølgelig også kommunerne i
+det her arbejde, bl.a. – og det tror jeg er rigtig vigtigt at huske – er
+Socialstyrelsen sat til at udbrede kendskabet i kommunerne til netop
+
+5
+
+forskellige inddragende metoder som f.eks. familierådslagning, som
+jeg ved at ordføreren kender rigtig godt, netværksmøder m.v.";Kl. 13:18
+24468;Time;"Formanden:
+Fru Karina Adsbøl.";Kl. 13:20
+24509;Time;;Kl. 13:20
+24529;name_party;":
+Se, det er jo ret interessant, at ministeren siger det, for Dansk Folkeparti har jo netop haft et beslutningsforslag i salen om inddragelse af
+familie og netværk og om at bruge de metoder, vi ved virker, også
+hvis vi sammenligner os med Sverige. I Sverige har man haft rigtig
+god effekt af familierådslagning.
+Det var jo så sådan, at det mente ministerens parti ikke at man
+skulle. Vi skulle ikke lovgive om, at man skulle anvende de her metoder, selv om vi ved, at de virker. Vi behøver ikke at lægge os fast
+på én metode. Vi kan sige familierådslagning og netværksmøder og
+de metoder, der virker. Men det vil ministeren jo ikke være med til,
+og derfor er det så spørgsmålet, hvordan man sikrer det her i praksis.
+De her fejl og mangler er der jo gang på gang, altså hver gang Ankestyrelsen laver undersøgelser. Hver gang Ankestyrelsen laver en undersøgelse, viser det sig stadig væk, at der er fejl og mangler, og stadig væk viser det sig også, at man ikke bruger de ressourcer i netværket, der er.
+Jeg kender til et eksempel med en plejefamilie, der i stedet for at
+bruge netværksressourcerne har en aflastningsfamilie ved siden af,
+selv om der står bedstemødre, tanter, onkler og mostre, som gerne
+vil give en hjælpende hånd og gerne vil have samvær med barnet.
+Men så bliver de nægtet det.
+På samme måde er det jo også i anbringelsessager, hvor man,
+selv om forældre, bedsteforældre eller noget af familien gerne vil se
+barnet, simpelt hen mindsker samværet. Der er bare ting, jeg ikke
+forstår her. Nu må jeg jo ikke sige føle, men jeg kan simpelt hen ikke
+forstå, at der ikke er mere fokus på det her område, og at ministeren
+ikke siger til kommunerne, at de simpelt hen skal oppe sig nu. Altså,
+der skal styr på det her. Men ministeren siger bare: Vi følger det, vi
+følger området, og jeg er opmærksom på det.
+Jeg vil godt have, at der kommer noget handling fra ministerens
+side. Han må gerne indskærpe over for kommunerne, at de simpelt
+hen skal følge lovgivningen og implementere Barnets Reform. De
+skal også afholde børnesamtaler, og de skal være opmærksomme på
+alle de her punkter, så de simpelt hen sikrer, at der er kvalitet i det
+her, og at børnene også bliver hørt.";Karina Adsbøl
+26721;Time;"Formanden:
+Ministeren.";Kl. 13:22
+26755;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Nu må fru Karina Adsbøl gerne sige »føle«, jeg føler også meget
+selv. Jeg vil bare understrege, at det der med at føle, at tingene er på
+en bestemt måde i forhold til fakta, kan føre en til to vidt forskellige
+steder. Det er fuldstændig korrekt, at Dansk Folkeparti fremsatte det
+forslag. Så vidt jeg husker – ordføreren kan jo nikke eller ryste på
+hovedet – var det ikke kun Det Radikale Venstre, der var imod det.
+Det var vist det samlede Folketing – er det ikke sandt? Jo, det er
+nemlig sandt.
+Det er jo ganske interessant, hvorfor Dansk Folkeparti stod mutters alene lige præcis med den sag. Jeg tror, at det handlede om, at
+det der med at sige, at der er en bestemt metode, som man skal bruge, kan være problematisk. Det her handler om rigtig, rigtig mange
+forskellige familier, om forskellige børn, om forskellige familiefor-
+
+6
+
+Onsdag den 19. marts 2014 (FM )
+
+hold, og det skal man også altid have in mente. Men jeg anerkender
+ikke præmissen om, at vi ikke tager det alvorligt, at der ikke sker noget. Jeg anerkender til gengæld præmissen om, at det er dybt alvorligt, og at der skal ske noget.
+Det der med at tage det alvorligt – nu kan jeg se, at formanden
+rejser sig, jeg skal gøre det kort – ses i alle de tiltag, jeg netop har
+nævnt, bl.a. efteruddannelse, hvor sagsbehandlerne også lærer, hvordan det er, de skal tackle de her ting. Og vi skal bl.a. have et fremragende it-system, som minder os og især sagsbehandlerne om, hvordan man skal lave systematisk sagsbehandling.";Kl. 13:22
+28336;Time;"Formanden:
+Fru Karina Adsbøl.";Kl. 13:23
+28377;Time;;Kl. 13:23
+28397;name_party;":
+Det er jo interessant, at så godt et forslag på så vigtigt et område ikke kunne få opbakning herinde i Folketingssalen, når vi netop ved, at
+der skal gøres nogle indsatser på området. Vi indvilgede i at udvide
+det i forhold til at anvende de metoder, der virkede: Det kunne være
+netværksmøder og familierådslagning og andre ting, der virkede, og
+som der er evidens for virker – også når man kigger på Sverige. Derfor synes jeg ikke, man skal lægge sig fast på én metode. Vi lavede
+et ændringsforslag, så man kunne bruge alle de metoder, som vi ved
+der er evidens for virker. Og nu vil ministeren gerne have rigtig meget evidens på det her område, det har jeg jo læst på Altinget ministeren vil have, men så er det da underligt, at den evidens og den viden, vi har, ikke bliver anvendt i praksis, hvilket vi kunne gøre – det
+synes jeg er mærkeligt. Det handler om børn og familier, og det er jo
+vigtigt, og vi ved stadig væk, at der sker så mange fejl.
+Nu ved jeg ikke, om ministeren har læst den bog, som Socialpædagogerne har udgivet, der hedder »Svigtet, ingen vil se«, som to
+plejemødre har skrevet. Jeg synes, ministeren skal læse den, for det
+er meget interessant i forhold til hele plejeområdet, herunder plejefamilier. Så jeg vil opfordre ministeren til at læse den, for den er meget interessant, og den viser cases fra det virkelige liv.";Karina Adsbøl
+29754;Time;"Formanden:
+Ministeren.";Kl. 13:25
+29788;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Nu behøver jeg ikke at læse en bog for at blive mindet om det virkelige liv. Jeg vil lige minde spørgeren om, at jeg selv har arbejdet
+med at tvangsfjerne børn i det virkelige liv. Jeg har en uddannelse
+inden for det her, jeg har siddet i børn og unge-udvalget og siddet
+med tvangsfjernede børn. Jeg vil selvfølgelig tage imod en bog, det
+er der ingen tvivl om, hvis jeg får den i gave af fru Karina Adsbøl,
+ingen tvivl om det, og så vil jeg selvfølgelig også se, om jeg kan få
+tid til at læse den. Men det er ikke det, det handler om, det, det handler om, er, at vi har en udfordring. Jeg er fuldstændig enig med fru
+Karina Adsbøl i, at vi har den udfordring, men det, jeg bare også siger i al stilfærdighed, er, at vi jo også har sat en masse ting i værk,
+og heldigvis hørte jeg også spørgeren sige for et par spørgsmål siden, at vi har gjort det i fællesskab. Og det har vi jo netop gjort i fællesskab, fordi vi mener, der er en udfordring. Vi har netop gjort det i
+fællesskab, fordi vi mener, at nogle af de løsninger, som vi har fundet i fællesskab, er de rette løsninger. Som jeg også sagde for, jeg
+tror, det var 7 minutter siden, tager socialt arbejde tid, det tager tid at
+implementere de ting her. Det er dødhamrende ulykkeligt med alle
+de fejl, der er i sagerne, men vi gør, hvad vi kan for netop at nedbrin-
+
+ge antallet af alle de fejl, og det gør vi med de fremragende tiltag,
+som vi har gjort i fællesskab.";Kl. 13:25
+31302;Time;"Formanden:
+Sidste omgang, fru Karina Adsbøl.";Kl. 13:26
+31358;Time;;Kl. 13:26
+31378;name_party;":
+Nu er det jo sådan, at spørgeren her også selv har været ude at arbejde med udsatte børn og unge, men ministeren negligerede det lidt,
+for man kan jo godt blive klogere af at læse nogle cases fra det virkelige liv, også i forhold til hvordan plejefamilierne oplever området
+her i forhold til samarbejdet med kommunerne. Så jeg synes, at ministeren negligerede det lidt. Jeg er næsten helt sikker på, at den er
+sendt til ministeren, ellers skulle jeg tage meget fejl, så jeg synes, at
+ministeren i hvert fald skulle undersøge, om ikke den er modtaget fra
+Socialpædagogerne, som har udgivet den.";Karina Adsbøl
+31983;Time;"Formanden:
+Ministeren.";Kl. 13:27
+32017;Time;"Ministeren for børn, ligestilling, integration og sociale forhold
+(Manu Sareen):
+Jeg undersøger gerne, om jeg har modtaget bogen eller ej. Da det her
+er det sidste svar, vil jeg gentage endnu en gang: Vi er jo meget enige i præmissen, der er en masse udfordringer, og de udfordringer
+skal løses. Jeg synes også bare, at nogle af de ting, jeg har nævnt tidligere, efteruddannelse, vores it-system, vores taskforce og så fremdeles, netop er løsninger, som adresserer de problemer, som vi begge
+er enige om, nemlig at der sker for mange fejl. Det er dybt ulykkeligt, når de her fejl sker, og det skal løses, og vi bestræber os netop
+på at løse de udfordringer, som vi står over for.
+Jeg kan da heldigvis også se, at vi er enige i langt, langt det meste, og jeg glæder mig også over – den håndsrækning vil jeg da også
+give – at jeg ved, at fru Karina Adsbøl er meget, meget interesseret i
+det her område og er meget optaget af det her område, og det er jeg
+også selv, og derfor håber jeg da også, at vi kan finde endnu flere
+løsninger i fremtiden, for det er der helt klart brug for. Jeg vil meget
+gerne sætte mig ned og drikke en kop kaffe med ordføreren og se,
+hvad der er af andre muligheder.";Kl. 13:27
+33220;Time;"Formanden:
+Spørgsmålet er sluttet, og tak til ministeren for børn, ligestilling, integration og sociale forhold.
+Dermed er også spørgetiden i dag afsluttet.";Kl. 13:28
+33389;Time;"Meddelelser fra formanden
+Formanden:
+Jeg beklager over for de forholdsvis mange tilhørere, at der ikke er
+mere at foretage i dette møde.
+Folketingets næste møde afholdes tirsdag, den 25. marts 2014, kl.
+13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside, og jeg skal i øvrigt henvise til ugeplanen, der ligeledes fremgår af Folketingets hjemmeside.
+
+Onsdag den 19. marts 2014 (FM )
+
+Mødet er hævet. (Kl. 13:29).
+
+7";Kl. 13:28

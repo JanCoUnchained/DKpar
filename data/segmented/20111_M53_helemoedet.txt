@@ -1,0 +1,1596 @@
+split;reason;text;value
+0;;"Onsdag den 29. februar 2012 (D)
+
+53. møde";
+79;Time;"Dagsorden
+1) Spørgsmål til statsministeren til umiddelbar besvarelse (spørgetime).
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til skatteministeren af:";kl. 13.00
+279;name_party;":
+Mener ministeren, at det vil fremme antallet af danskere, som tegner
+forsikringer, når regeringen nu sætter stempelafgifterne på forsikringer markant op, så alle danske forsikringstagere fremover skal betale
+markant mere for en indbo-, ulykkes-, skades-, rejseforsikring m.m.?
+(Spm. nr. S 2360).
+
+1
+
+6) Til miljøministeren af:";Ellen Trane Nørby
+626;name_party;":
+Frygter ministeren ikke, at regeringens plan om installering af rottespærrer i kloakkerne ved offentlige institutioner blot vil flytte flere
+rotter andre steder hen i kloaknettet og dermed i realiteten bare flytte
+problemet et andet sted hen i stedet for at løse det?
+(Spm. nr. S 2352).
+7) Til miljøministeren af:";Jørn Dohrmann
+960;name_party;":
+Hvornår kommer regeringen med de milliarder til renovering af kloaknettet, som både SF og Socialdemokraterne lovede i valgkampen?
+(Spm. nr. S 2353).";Jørn Dohrmann
+1121;Time;"Formanden :
+Mødet er åbnet.
+I dag er der følgende anmeldelser:
+Skatteministeren (Thor Möger Pedersen):
+
+2) Til skatteministeren af:";Kl. 13:00
+1276;name_party;":
+Er ministeren slet ikke bekymret for konsekvenserne, når undersøgelser i dag viser, at særlig unge og personer med lave indkomster
+allerede i dag afholder sig fra at tegne forsikringer på grund af udgiften, når regeringen nu planlægger at forøge stempelafgifterne på forsikringer markant, og er regeringen fuldstændig ligeglad med de store konsekvenser, det kan have for mennesker, hvis de ikke er ordentligt forsikret?
+(Spm. nr. S 2362).
+3) Til beskæftigelsesministeren af:";Ellen Trane Nørby
+1771;name_party;":
+Er ministeren tilfreds med de nuværende regler for fleksjobordningen, der giver mennesker med nedsat erhvervsevne mulighed for at
+være på arbejdsmarkedet på lige fod med deres kolleger?
+(Spm. nr. S 2363).
+4) Til børne- og undervisningsministeren af:";Finn Sørensen
+2040;name_party;":
+Hvad vil ministeren gøre for at undgå, at der udvikler sig A- og Bskoler blandt de danske gymnasier?
+(Spm. nr. S 2357).
+5) Til social- og integrationsministeren af:";Marie Krarup
+2223;name_party;":
+Hvad er ministerens holdning til, at en kommune har frataget en ældre medborger hjemmehjælpen, efter at vedkommende har fået en
+robotstøvsuger i julegave?
+(Spm. nr. S 2356).
+
+Lovforslag nr. L 95 (Forslag til lov om ændring af aktieavancebeskatningsloven, ligningsloven, personskatteloven og forskellige andre love. (Enklere beskatning af udlodninger fra investeringsforeninger og udvidet adgang til udnyttelse af tab ved fraflytterbeskatning
+m.v.)).
+Klima-, energi- og bygningsministeren (Martin Lidegaard):
+Lovforslag nr. L 96 (Forslag til lov om ændring af lov om anvendelse af Christianiaområdet. (Ændring af revisionsbestemmelse)).
+Ministeren for forskning, innovation og videregående uddannelser
+(Morten Østergaard):
+Lovforslag nr. L 97 (Forslag til lov om ændring af lov om adgangsregulering ved videregående uddannelser. (Obligatorisk digital kommunikation ved ansøgning om optagelse på videregående uddannelser og adgang til delegation af kompetence)).
+Kulturministeren (Uffe Elbæk):
+Lovforslag nr. L 98 (Forslag til lov om ændring af teaterloven. (Udmøntning af aftale om en række ændringer på teaterområdet af 21.
+juni 2011 m.v.)) og
+Lovforslag nr. L 99 (Forslag til lov om ændring af lov om indhentelse af børneattest i forbindelse med ansættelse af personale m.v. og
+folkeoplysningsloven. (Udvidelse af børneattestordningen)).
+
+2
+
+Onsdag den 29. februar 2012 (US )
+
+Erhvervs- og vækstministeren (Ole Sohn):
+Lovforslag nr. L 100 (Forslag til lov om ændring af lov om detailsalg fra butikker m.v. (Dispensationsmulighed ved ganske særlige
+lejligheder)).
+Social- og integrationsministeren (Karen Hækkerup):
+Lovforslag nr. L 101 (Forslag til lov om ændring af integrationsloven og repatrieringsloven. (Afskaffelse af kommunal vejledningspligt og afskaffelse af resultattilskud i forbindelse med repatriering)).
+
+Lars Barfoed (KF)
+Doris Jakobsen (SIU)
+Gitte Lillelund Bech (V)
+Søren Espersen (DF)
+Joachim B. Olsen (LA)
+Jan E. Jørgensen (V)
+Mads Rørvig (V)
+Martin Geertsen (V)
+Lykke Friis (V)
+Torsten Schack Pedersen (V)
+Det bliver antagelig de syv første vi når.
+Jeg giver ordet til statsministeren for en indledende redegørelse.";Thyra Frank
+4372;Time;;Kl. 13:02
+4428;title_name;":
+Lovforslag nr. L 102 (Forslag til lov om ændring af lov om folkeskolen og lov om specialundervisning for voksne. (Forenkling af
+rammeaftaler m.v. for de regionale undervisningstilbud)) og
+Lovforslag nr. L 103 (Forslag til lov om ændring af lov om folkeskolen, lov om friskoler og private grundskoler m.v. og lov om folkehøjskoler, efterskoler, husholdningsskoler og håndarbejdsskoler
+(frie kostskoler). (Inklusion af elever med særlige behov i den almindelige undervisning og tilpasning af klagereglerne til en mere inkluderende folkeskole m.v.)).
+Titlerne på de anmeldte sager vil fremgå af www.folketingstidende.dk (jf. ovenfor).
+Justitsministeren (Morten Bødskov) har meddelt mig, at han ønsker i
+henhold til forretningsordenens § 19, stk. 4, at give Folketinget en
+skriftlig
+Redegørelse om forvaltningens anvendelse af tvangsindgreb og oplysningspligter uden for strafferetsplejen.
+(Redegørelse nr. R 7).
+Eksemplarer vil blive omdelt, og redegørelsen vil fremgå af
+www.folketingstidende.dk.
+Ministeren for ligestilling og kirke (Manu Sareen) har meddelt mig,
+at han ønsker i henhold til forretningsordenens § 19, stk. 4, at give
+Folketinget en skriftlig
+Redegørelse om perspektiv- og handlingsplan for 2012.
+(Redegørelse nr. R 6).
+Eksemplarer vil blive omdelt, og redegørelsen vil fremgå af
+www.folketingstidende.dk.
+Redegørelsen vil i øvrigt komme til forhandling her i Folketinget
+tirsdag den 27. marts 2012.
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål til statsministeren til umiddelbar besvarelse (spørgetime).";Christine Antorini
+5964;Time;"Formanden :
+Til statsministeren er anmeldt følgende spørgere:
+Claus Hjort Frederiksen (V)
+Pia Kjærsgaard (DF)
+Ole Birk Olesen (LA)";Kl. 13:01
+6138;title_name;":
+Tak for det. Jeg vil gerne indlede spørgetimen med et par ord om det
+udspil, som regeringen fremlagde i går, nemlig det udspil, der hedder »En del af fællesskabet – reform af førtidspension og fleksjob«.
+Den reform, vi har fremlagt nu, er den første af en række reformer, som vi gerne vil gennemføre. Andre vigtige overskrifter for reformer er kontanthjælp, skat og trepartsforhandlinger. Vi skal have
+styr på vores økonomi, og vi skal have råd til at udvikle vores velfærd, og derfor vil regeringen gennemføre reformer.
+Velfærdssamfundet står over for store udfordringer, og det eneste, der er sikkert, er, at vi ikke kan stå stille. Uden reformer kommer
+vi til at udhule vores trygge velfærd, og uden reformer spilder vi vores chance for at tage os af dem, som har brug for hjælp fra samfundet. Det gælder ikke mindst de mennesker, som af forskellige årsager enten er i fleksjob eller på førtidspension.
+I dag er det sådan, at hver fjerde af dem, der tilkendes en førtidspension, er under 40 år, og de fleste får førtidspension på grund af en
+psykisk lidelse. Det sker, selv om læger ofte fremhæver, at det ikke
+er muligt at afgøre, om et ungt menneske med nedsat arbejdsevne på
+et tidspunkt kunne komme i arbejde, og selv om vi ved, at flere og
+flere lidelser med den rette indsats kan bedres så meget, at det på et
+tidspunkt bliver muligt at fungere i et job. Det er godt, at det er sådan. Det er også derfor, at regeringen nu lægger op til, at unge under
+40 år kun kan tildeles en førtidspension, hvis det er helt åbenlyst, at
+den unge aldrig vil få tilknytning til arbejdsmarkedet. I stedet vil vi
+indføre et særligt ressourceforløb for unge under 40 år, der har stærke begrænsninger i arbejdsevnen. Der skal laves en individuel plan
+for hver enkelt, og der skal selvfølgelig også afsættes ressourcer til
+at kunne gøre netop det. Den enkelte skal have en chance for at komme tilbage på arbejdsmarkedet og være en del af arbejdsfællesskabet. Det er jeg slet ikke i tvivl om er godt for den enkelte, og det er
+også godt for samfundets økonomi.
+Når det handler om fleksjobordningen, som vi også diskuterer,
+må vi konstatere, at som tingene er i dag, er der mange penge, som
+ikke bliver brugt godt nok. Der er fleksjobansatte på deltid, der tjener 0,5 mio. kr. om året og får et løntilskud på 0,25 mio. kr. om året.
+Det holder ikke. Regeringen vil derfor målrette fleksjobordningen,
+så den i langt højere grad gavner dem, der har mest brug for den, også dem, der bare kan arbejde nogle få timer om ugen, for vi er overbevist om, at også nogle få timer kan sætte gang i en positiv spiral
+for den enkelte, og vi vil sikre, at fleksjobansatte får noget ud af det,
+hvis de arbejder mere.
+Indsatsen på områderne for førtidspension og fleksjob er vigtig.
+Det er den for hver enkelt dansker, som er i de her ordninger, men
+det er den også for samfundets økonomi. Nu har vi fra regeringens
+side fremlagt et ambitiøst udspil. Beskæftigelsesministeren og socialministeren vil i den kommende tid indbyde til forhandlinger, og
+jeg vil stærkt opfordre forligspartierne til at gå konstruktivt ind i de
+drøftelser. Sammen kan vi skabe en langtidsholdbar løsning.
+Til sidst skal jeg nævne, at jeg i dag tager til Bruxelles for at mødes med mine kolleger torsdag og fredag til europæisk rådsmøde.
+
+Onsdag den 29. februar 2012 (US 95)
+
+For en gangs skyld er der ikke tale om et krisemøde eller et brandslukningsmøde, som det har været tilfældet ved tidligere møder, men
+et helt ordinært møde med en planlagt dagsorden. Det, vi bl.a. skal
+tage hul på, er den første del af det såkaldte europæiske semester,
+som skal gennemføres under det danske formandsskab. Det europæiske semester er en proces, hvor vi starter med en bred drøftelse af
+medlemslandenes bestræbelser på at konsolidere deres økonomi, deres vækst, deres konkurrenceevne og deres beskæftigelse, og derefter
+kommer vi så over foråret frem til mere landespecifikke anbefalinger.
+Det er også på det her topmøde, at jeg på Danmarks vegne vil underskrive finanspagten, som vi blev enige om i januar, og jeg skriver
+under med et bredt folketingsflertal bag mig og selvfølgelig i fuld respekt for euroforbeholdet. Formålet med det her er at sikre en stærk
+troværdighed om dansk økonomi, og jeg er helt overbevist om, at vi
+vil få en stærkere troværdighed om dansk økonomi, hvis vi er en del
+af de dele af finanspagten, som vi nu kan være en del af i respekt for
+vores euroforbehold.";Helle Thorning-Schmidt
+10573;Time;"3
+
+hjælpe andre, når der var noget, der stod på spil? Det, jeg mener, er,
+at de beslutninger, som navnlig eurolandene har taget i de sidste måneder, om at opbygge en effektiv lånemekanisme til et land, som har
+været på randen af et kollaps, viser, at særlig eurolandene er i stand
+til og villige til at træffe meget vidtgående beslutninger.
+Jeg har stor respekt for det lederskab, som blandt andre kansler
+Merkel har taget i den her sammenhæng. Og jeg synes jo, at det, der
+er så bemærkelsesværdigt, er, at når der virkelig var en krise, der
+skulle løses, lykkedes det rent faktisk landene at træde sammen og
+forsøge at gøre deres til at løse den udfordring. Det har krævet enorme omkostninger i mange lande, særlig i eurolandene, at komme
+igennem den her diskussion, men det viste sig jo, at landene var solidariske med hinanden. Det er det, jeg mener, når jeg siger, at der er
+truffet store beslutninger.
+Det andet, jeg mener, er, at de beslutninger, vi nu har taget om
+finanspagten – nu er Danmark jo ikke et euroland, hvilket spørgeren
+også siger – nemlig at binde os i en finanspagt og forpligte os over
+for hinanden, som man gør i finanspagten, er ret store beslutninger,
+som kan måle sig med de største i EU's levetid.";Kl. 13:06
+11810;Time;"Formanden :
+Tak til statsministeren.
+Det første spørgsmål til statsministeren er fra hr. Claus Hjort Frederiksen, værsgo.
+
+Formanden :
+Hr. Claus Hjort Frederiksen.";Kl. 13:10
+11985;Time;;Kl. 13:10
+11996;Time;Spm. nr. US 95;Kl. 13:06
+12040;name_party;":
+Tak til statsministeren for redegørelsen, og tak for ordene om, at der
+ikke skal være krisemøde igen i EU. Mit spørgsmål falder lidt i forlængelse af det, for i sidste uge var statsministeren i Washington, og
+i den forbindelse gav statsministeren et interview, som står i Washington Post den 24. februar. Der siger statsministeren: I de sidste 2
+måneder har vi taget flere langtrækkende beslutninger end måske i
+de sidste 50 år.
+Det er en noget overraskende udmelding fra statsministeren, ikke
+mindst i lyset af, at vi ikke er euromedlem og derfor ikke har været
+med til at træffe andre beslutninger end skærpede regler for overtrædelse af stabilitets- og vækstpagten og regulering af finansmarkederne. Så jeg er nysgerrig efter at høre lidt om, hvordan statsministeren
+prioriterer og opfatter historiske begivenheder. Jeg er nysgerrig efter
+at høre, hvad det er for nogle beslutninger, som statsministeren efter
+egen opfattelse har været med til at træffe de sidste 2 måneder, beslutninger, som er så store og langtrækkende, måske mere end i de
+sidste 50 år. Tænker statsministeren på dannelsen af EU, tænker
+statsministeren på Danmarks indtræden i EU i 1973, etableringen af
+det indre marked, Murens fald i 1989 og den deraf følgende udvidelse i 2010?
+Jeg synes på en eller anden måde, det er i almenhedens interesse
+at høre statsministerens opfattelse af egne bedrifter i de sidste 2 måneder set i sammenhæng med de mange historiske beslutninger, der
+er truffet de seneste 50 år.";Claus Hjort Frederiksen
+13534;Time;"Formanden :
+Statsministeren.";Kl. 13:08
+13574;Time;;Kl. 13:08
+13616;title_name;":
+Tak for spørgsmålet. Når jeg mener, at vi i EU – og jeg henviser sådan set ikke til Danmark – har taget store beslutninger, drejer det sig
+om, at vi for første gang har stået over for en krise, hvor spørgsmålet
+var, om vi var tilstrækkelig solidariske med hinanden. Var vi bare
+med i EU for at hytte vores eget skind, eller var vi der også for at";Helle Thorning-Schmidt
+13993;name_party;":
+Det er måske dér, man kan sige at jeg er meget uenig med statsministeren, for ved at udtale, at de beslutninger, statsministeren har været
+med til at træffe de sidste 2 måneder, skulle være så historiske, er
+der jo en devaluering af almindelig sprogbrug. For det, statsministeren har været med til, har jo sådan set været at træffe nogle beslutninger om at genoprette tilliden til EU-landene i lyset af gældskrisen
+i de sydeuropæiske lande. Det tåler vel næppe sammenligning med
+de andre store beslutninger om dannelsen af EU, etableringen af
+euroen og det indre marked osv. Man kan vel derfor sige, at det,
+statsministeren har været med til, sådan set har været at sikre, at landene fremover overholder de forpligtelser, de allerede har indgået,
+og det er vel en naturlig følge af stabilitets- og vækstpagten.
+Så jeg vil bare igen spørge statsministeren, om det ikke giver anledning til refleksion, at man nævner det som den måske største politiske beslutning i de sidste 50 år. Vi andre, som sådan sidder og kigger lidt på Europas historie, kan godt komme i tanke om andre begivenheder, som måske har en større og mere langtrækkende betydning.";Claus Hjort Frederiksen
+15150;Time;"Formanden :
+Statsministeren.";Kl. 13:12
+15190;Time;;Kl. 13:12
+15232;title_name;":
+For det første vil jeg godt understrege, at jeg ikke på noget tidspunkt
+har sagt, at det her skyldes mine bedrifter eller Danmarks bedrifter.
+Jeg har sagt, at EU har truffet beslutninger, som i størrelse og konsekvens kan måle sig med nogle af de største i vores historie, og det vil
+jeg gerne fastholde, for EU stod over for den udfordring, at man
+kunne se, at et land havde det meget, meget vanskeligt. Der kunne
+man have valgt at give op, gøre ingenting og acceptere, at det land
+kom ud i yderligere vanskeligheder med de følger, som det ville have for euroen og for os alle sammen. Der er det min pointe, at de
+europæiske lande har påtaget sig et enormt ansvar, og det er primært
+eurolandene, der har påtaget sig et enormt ansvar, for det er jo dem,
+der betaler til den her lånemekanisme, og det viser en solidaritet,
+som sådan set viser noget nyt om EU, som kan måle sig med nogle
+af de sværeste og største beslutninger i Europas historie.
+
+4
+
+Onsdag den 29. februar 2012 (US 96)
+
+Det er rigtigt, at der har været andre tidspunkter i Europas historie, hvor landene har taget ansvar for hinanden, og som jeg har fuld
+respekt for, men det her er også et sådant tidspunkt. Der har været en
+tendens til at kigge på Europa, også udefra, og negligere det, europæerne har gjort i de sidste 2 måneder, og nærmest sige, at der ingenting er gjort fra europæisk side. Der er det min pointe, at der er
+taget enormt store beslutninger i Europa, som viser, at vi også er i
+stand til at være solidariske med hinanden.";Helle Thorning-Schmidt
+16752;Time;"Formanden :
+Hr. Claus Hjort Frederiksen for det sidste spørgsmål.";Kl. 13:13
+16829;Time;;Kl. 13:13
+16858;name_party;":
+Det, der forvirrer lidt, er, at statsministeren i interviewet siger »vi«.
+Så er det jo, som om det er statsministeren, der har været med til at
+stille garantier til Grækenland.
+Men jeg kan jo så bare konstatere, at der er forskel på, hvad vi
+opfatter som de største politiske, historiske, langtrækkende beslutninger de sidste 50 år, og så hvad statsministeren opfatter som sådan.
+For man kan jo sige, at som statsministeren opstiller det, kunne vi
+bare have besluttet, at vi ikke ville løse problemerne. Det ville svare
+til, at vi her i Folketingssalen sagde: Nå, vi har en stor gæld, men det
+bekymrer vi os ikke om.
+Det er jo ikke den måde, man arbejder på i demokratier, og derfor
+vil jeg så bare sige, at jeg synes, at der på en eller anden måde er en
+proportionsforvrængning i statsministerens fremstilling af sagerne i
+Washington Post.";Claus Hjort Frederiksen
+17710;Time;"Formanden :
+Statsministeren.";Kl. 13:14
+17750;Time;;Kl. 13:14
+17792;title_name;":
+Spørgeren bliver forvirret, når jeg har brugt udtrykket vi, men det er
+jo netop, fordi det er Europa, der har taget de her beslutninger. Nej,
+det er ikke mig eller Danmark, der har taget de her beslutninger, det
+er primært eurolandene, som har taget disse beslutninger.
+Jeg var i USA og blev også interviewet, tror jeg, som fungerende
+formand for EU, og jeg vil fastholde, at vi i Europa igennem de sidste 2 måneder har truffet ganske vidtrækkende beslutninger. Man
+kunne fra Tysklands side have valgt at sige: Det, der sker i Grækenland, kommer os ikke ved. Vi er ikke parate til at stille en mekanisme til rådighed, så vi kan garantere noget af den gæld, som man har i
+Grækenland. Det kunne man have valgt at gøre; det gjorde man ikke.
+Derfor mener jeg sådan set stadig, at de beslutninger, der er truffet over de sidste 2 måneder – primært af eurolandene, men jo også
+af os selv, fordi vi bakker op om finanspagten og også vil være en
+del af den – understreger, at vi er parate til, også i meget vanskelige
+krisetider, at være solidariske med hinanden. Det er der mange der
+har sat spørgsmålstegn ved: Vil europæerne løfte sig selv, vil de
+hjælpe hinanden? Svaret er: Ja. Og det er en stor beslutning, og jeg
+tror også, at befolkningerne i mange af de lande, der er blevet bedt
+om at hjælpe til, synes, at det her er store beslutninger.";Helle Thorning-Schmidt
+19143;Time;"Formanden :
+Spørgsmålet er sluttet.
+Det næste spørgsmål til statsministeren er fra fru Pia Kjærsgaard,
+værsgo.";Kl. 13:15
+19265;Time;Spm. nr. US 96;Kl. 13:16
+19302;name_party;":
+Jeg kan ikke lade være med at sidde og fundere lidt, og jeg må så
+forstå det sådan, at når Danmarks statsminister siger »vi«, mener hun
+Europa. Så ved vi det. Jeg er ikke så overrasket, men nu kom det så
+frem her i Folketingets spørgetime – det synes jeg er interessant.
+Det, jeg godt vil spørge statsministeren om, er igen-igen de her
+mange valgløfter, der er blevet brudt. Jeg skal ikke gå ind i alle de
+enkelte, men der er et par stykker, jeg lige vil berøre: Det er betalingsringen, og det er boligpakken. Her har statsministeren gentagne
+gange sagt, at hvis der var to løfter, der ville blive holdt, så var det
+dem. Det blev de så ikke nogen af dem. Det var ikke, fordi man havde taget fejl, nej, det var, fordi regeringen og statsministeren var modige og lyttede til befolkningen, og jeg synes jo, det er en meget god
+idé at lytte til befolkningen. Det synes jeg at vi som politikere er forpligtet til.
+Det, jeg godt vil høre statsministeren om, for det kan undre mig
+lidt, er: Hvorfor lytter man ikke til befolkningen i forhold til en folkeafstemning om finanspagten? Meningsmålinger viser jo også, at
+der er en meget, meget stor interesse for det.
+I Irland har premierministeren sagt: Jeg tror, det er i Irlands nationale interesse, at denne traktat bliver godkendt.
+Det vil han gerne have, ligesom andre landes statsledere vil. Men
+det, som man gør i Irland – og det blev så kendt i går – er, at man
+lægger det ud til en folkeafstemning, og det synes jeg er en meget,
+meget god ting. Man erkender faktisk også, at der er noget suverænitetsafgivelse, og det er derfor, man tager skridtet. Man vil ikke vove
+noget som helst, man spørger befolkningen til råds. Det synes jeg
+bare at jeg endnu en gang vil opfordre til – uanset hvad – også bliver
+gjort i Danmark: at vi følger Irlands eksempel. Vi kunne ikke følge
+Storbritanniens eksempel i sin tid og sige fra i god tid, men vi kan
+gøre det nu, ved at vi lægger det ud til folkeafstemning. Jeg synes,
+det ville være sund fornuft at få en offentlig bred debat om det her,
+og at vi skal følge Irlands eksempel.";Pia Kjærsgaard
+21379;Time;"Formanden :
+Statsministeren.";Kl. 13:18
+21419;Time;;Kl. 13:18
+21461;title_name;":
+Først vil jeg, når fru Pia Kjærsgaard mener, at hun kan konkludere,
+at jeg, hver gang jeg siger »vi«, så mener »vi i Europa«, lige sige, at
+jeg også nogle gange vil sige »vi derhjemme« og mene mig og familien, og jeg vil sige »vi i Danmark« og mene os, og jeg vil sige »vi«,
+når der er tale om regeringen, og jeg vil også af og til sige »vi i
+Europa«. Så dette »vi« kan dække over mange forskellige ting, og
+det tror jeg bare det er vigtigt at sige i forbindelse med vores videre
+samtale. Det var det ene.
+Det andet er, at jeg i forhold til det her med folkeafstemninger vil
+sige, at jeg tror, det er rigtig vigtigt, at vi holder fast i det, der er det
+vigtigste dokument, som vi i virkeligheden kan holde fast i her i Folketinget, nemlig vores grundlov. Grundloven har jo sådan set rimelig
+præcist foreskrevet, hvordan vi skal forholde os i de situationer, hvor
+vi ikke afgiver suverænitet, og hvis det er sådan, at vi i forhold til
+grundloven afgiver suverænitet, så skal der afholdes en folkeafstemning. Hvis det er sådan, at vi efter det, der står i grundloven, ikke afgiver suverænitet, så er det et ansvar, som de folkevalgte, altså os,
+der repræsenterer folket i Folketinget, må tage. Og i den her situation er det meget, meget klart, at det er os her i Folketinget, der må
+påtage os det ansvar for at træffe den beslutning. Jeg mener ikke, at
+man bare skal sende alt ud til folkeafstemning. Jeg tror på det repræsentative demokrati, og derfor tror jeg mest af alt på, at vi i de her
+sager skal følge grundloven. Vi har haft en nøje juridisk gennemgang af den her sag, og det er meget, meget tydeligt, at vi i Folketinget, når der ikke er tale om, at der afgives suverænitet, så må leve op
+
+Onsdag den 29. februar 2012 (US 97)
+
+5
+
+til vores forpligtelse, og det er at påtage os ansvaret her i Folketingssalen.";Helle Thorning-Schmidt
+23291;Time;;Kl. 13:22
+23302;Time;;Kl. 13:19
+23323;name_party;":
+Jamen jeg blander ikke tingene sammen overhovedet, for uanset
+hvad, så vil det få store konsekvenser for Danmark. Man gør det jo
+ikke bare – selvfølgelig får det konsekvenser, og det er bl.a., at vi
+skal have en budgetlov, som skal godkendes af EU-Domstolen, ikke
+af folkevalgte. Det er da en stor ting. Altså, i Danmark tror vi på folkestyret, på demokratiet, på os, der sidder herinde, altså på de folkevalgte. Og så kan man selvfølgelig sige: Jamen vi folkevalgte lægger
+det bare ned til EU-Domstolen – det har vi folkevalgte besluttet.
+Men det, jeg mangler et svar på, er i forhold til de store konsekvenser, det vil få for vores økonomiske politik, at vi skal indordne os
+under EU-Domstolen, for det er det, der sker, og så synes jeg, at det
+vil være rimeligt at lytte til befolkningen. Så jeg vil bare spørge, og
+det var det spørgsmål, jeg indledte med: Når nu statsministeren er så
+modig at skrotte valgløfterne, fordi man lytter til befolkningen, hvorfor lytter man så ikke til befolkningen her? Der er jo meningsmålinger, der viser – man tager ikke stilling til selve spørgsmålet, det kan
+man gøre ved en folkeafstemning – at man gerne vil have den folkeafstemning om vores tilslutning til finanspagten.
+
+Formanden :
+Fru Pia Kjærsgaard.";Pia Kjærsgaard
+24580;Time;;Kl. 13:19
+24601;name_party;":
+Jo, men så vil jeg lige replicere i forhold til det første, der blev sagt.
+Jeg kunne forstå, at det, når man sagde »vi«, en gang imellem kunne
+være Europa, man mente, og at det en gang imellem kunne være regeringen. Jeg vil bare advare statsministeren om, at man ikke på et
+tidspunkt bliver så ophøjet, at hun siger »vi« om sig selv. Det er der
+jo nogen der gør, og det vil jeg opfordre til at statsministeren i hvert
+fald ikke begynder på at gøre; det ville være dybt pinligt. Jeg ved ikke, om den dag er på vej, men det kunne jo tænkes.
+Men lad mig til det med grundloven og det med, at Irland nu sender det ud til folkeafstemning, sige, at de i Irland jo i hvert fald er i
+tvivl, de mener faktisk, at der er tale om suverænitetsafgivelse. Og
+suverænitetsafgivelse er jo suverænitetsafgivelse, sådan er det. Men
+uanset at vi nu retter os efter juristerne i Justitsministeriet og siger, at
+der ikke er tale om nogen suverænitetsafgivelse, og uanset at statsministeren taler om grundloven, så er det jo sådan, at det i forhold til
+nogle af de store beslutninger, der har været, før er sket, at man alligevel har lagt forhold, der vedrørte EU, ud til folkeafstemning. Det
+skete eksempelvis i 1986. Jeg synes, det var en fornuftig beslutning,
+man der traf, jeg husker det meget tydeligt. Det var noget, der kom
+helt bag på Socialdemokratiet, men det var ikke desto mindre det,
+man gjorde.
+Når det er sådan, at der her er tale om en beslutning, der skal tages, som er så stor og bred, og det er noget, der interesserer folk, og
+når statsministeren i andre forhold har sagt, at man lytter til befolkningen, så er der bare noget, jeg vil spørge om, sådan som jeg også
+gjorde i min indledning: Hvorfor lytter man ikke her?";Pia Kjærsgaard
+26329;Time;"Formanden :
+Statsministeren.";Kl. 13:21
+26369;Time;;Kl. 13:21
+26411;title_name;":
+Jeg takker naturligvis for det gode råd og vil også sende det direkte
+tilbage til spørgeren og sige, at det måske også var noget, der kunne
+ske for fru Pia Kjærsgaard.
+I forhold til det her med suverænitetsafgivelsen vil jeg sige, at der
+jo er klare regler for det, og vi har også en fast tradition for, hvad vi
+gør i Danmark. Altså, det er kun sket en enkelt gang, at man har haft
+en vejledende folkeafstemning om noget; ellers har vi i de her
+spørgsmål fulgt grundloven fuldstændig. Jeg tror, man skal vare sig
+meget for at sammenligne os med Irland. Irland har jo – af naturlige
+grunde – en anden grundlov/forfatning end Danmark; de har deres
+egen forfatning. Så er det jo også sådan, at Irland er et euroland, og
+det vil sige, at Irland automatisk forpligter sig til flere ting, end Danmark i givet fald forpligter sig til, og der er derfor meget stor forskel
+på de situationer. Så inden man blander tingene for meget sammen,
+vil jeg blot minde om, at der her er tale om to meget forskellige situationer, nemlig at det punkt 1 er to forskellige lande og to forskellige forfatninger, og at det punkt 2 er sådan, at Danmark ikke er et
+euroland, mens Irland er det.";Helle Thorning-Schmidt
+27589;Time;"Formanden :
+Fru Pia Kjærsgaard.";Kl. 13:22
+27633;Time;"Formanden :
+Statsministeren.";Kl. 13:23
+27673;Time;;Kl. 13:23
+27715;title_name;":
+Jeg synes, det er helt forkert at sige, at man skal indordne sig. Jeg
+synes, at det, der er vigtigt for Danmark, er: Hvordan skaber vi størst
+mulig tryghed om dansk økonomi? For det er det, der skaber størst
+mulig tryghed for danskerne og den velfærd, vi gerne vil have. Der
+vurderer jeg – og det har regeringen gjort helt fra start – at vi har
+brug for en budgetlov. Det, der har været kendetegnende for de sidste 10 år, er, at man sådan set ikke rigtig har haft styr på økonomien.
+Man har brugt flere penge, end man har planlagt, nærmest hvert eneste år. Så det er et stort problem. Derfor skal vi have en budgetlov.
+Det skrev vi ind i vores regeringsgrundlag at vi gerne ville have.
+Nu er der så kommet en finanspagt, hvor man også taler om en
+budgetlov. Og hvad er så mere naturligt, end at vi siger: Vi tror, at
+det vil være godt, hvis den disciplin, som nu skal gælde for de andre
+europæiske lande, også gælder for Danmark? For så kan man udefra
+se, at Danmark er et land, hvor vi har styr på tingene; vi har en budgetlov; vi kan ikke bruge flere penge, end vi tjener. Og det vil bidrage til, at man får respekt og troværdighed omkring Danmarks økonomi – til gavn for danskerne, til gavn for dansk velfærd.
+Så det her handler ikke om, hvad der er godt for Europa eller noget som helst andet, det handler udelukkende om, hvordan vi får
+skabt de bedste rammer for dansk økonomi og størst tryghed for
+danskerne.";Helle Thorning-Schmidt
+29141;Time;"Formanden :
+Spørgsmålet er sluttet.
+Det næste spørgsmål til statsministeren er stillet af hr. Ole Birk
+Olesen fra Liberal Alliance. Værsgo.";Kl. 13:24
+29292;Time;Spm. nr. US 97;Kl. 13:24
+29329;name_party;":
+De økonomiske vismænd, som jo hører under regeringens økonomiministerium, udgav i går deres rapport »Økonomi og Miljø 2012«.
+Den indeholder en meget kraftig kritik af regeringens påstande om,
+at der kan skabes økonomisk vækst og arbejdspladser i Danmark,
+
+6
+
+Onsdag den 29. februar 2012 (US 98)
+
+hvis der hældes en masse skattekroner i udvikling af grøn teknologi
+og i det hele taget i den grønne branche. Vismændene skriver:
+»De seneste år har der været en tendens til øremærkning af forskningsmidlerne, som særligt tilgodeser energiforskning og markedsmodning af energiteknologier. Denne tendens fortsætter i regeringsgrundlaget fra oktober 2011 og i regeringens energiudspil »Vores
+energi«. Analyser peger imidlertid på, at energiforskning ikke har et
+højere samfundsøkonomisk afkast end anden forskning, snarere
+tværtimod. Der er ingen miljøpolitisk grund til, at miljøteknologiske
+løsninger skal være udviklet i Danmark, ligesom det ikke er givet, at
+Danmark på sigt vil have komparative fordele i at producere grønne
+teknologier. Selvom det skulle være tilfældet, begrunder det ikke
+særskilt forsknings- og erhvervsstøtte på området, da private aktører
+selv må formodes at kunne se fordelene, hvis de er der.«
+Jeg vil gerne høre statsministeren, om det giver anledning til, at
+regeringen vil revidere sin politik, om regeringen vil trække det tilbage, altså, at den kan skabe vækst og arbejdspladser i Danmark ved
+at målrette offentlige midler til bestemte erhvervsbrancher.";Ole Birk Olesen
+30823;Time;;Kl. 13:28
+30865;title_name;":
+Det er lidt forkert at konkludere, at vi ikke lægger vægt på vismændenes vurderinger, for det gør vi bestemt. Det er et utrolig nyttigt bidrag til debatten, hvad vores samtale jo egentlig også understreger,
+og det er også vigtigt at regne ud, om det, man investerer på et forskningsområde, har en effekt i det lange løb. Det er da en utrolig vigtig
+diskussion. Men jeg har ikke noget behov for at konkludere, at vi nu
+ikke skal investere i energiforskning. Jeg synes da stadig, det må være vigtigt, at vi investerer i at forske i det grønne, og jeg er helt overbevist om, at det, når Danmark trods alt stadig har en førerposition
+på det her område, netop er, fordi vi over årene har forsket på de her
+områder.";Helle Thorning-Schmidt
+31586;Time;"Formanden :
+Hr. Ole Birk Olesen for det sidste spørgsmål.";Kl. 13:29
+31655;Time;;Kl. 13:29
+31666;Time;;Kl. 13:26
+31708;title_name;":
+Jeg synes, det er vigtigt at investere bredt i forskning på mange forskellige felter, og jeg er egentlig heller ikke i tvivl om, at vi også
+skal investere i grøn energi og nye teknologiske løsninger på hele
+det grønne område. Som jeg forstår den her diskussion, er der også
+nye områder, som kommer op. Det drejer sig om genanvendelse af
+produkter, og der er rensning af vand, som er vigtig. Så jeg er helt
+overbevist om, at de her grønne forskningsområder også er noget,
+som Danmark kan få gavn af på længere sigt. Man skal selvfølgelig
+altid have en balance i de her forhold, men jeg er slet ikke i tvivl om,
+at hvis Danmark skal beholde den førerposition, som vi trods alt stadig har på det her område, og også gerne vil gøre det til en god forretning at udvikle grønne teknologier, så bliver vi også nødt til at ofre nogle midler på at forske i netop det område.";Helle Thorning-Schmidt
+32597;name_party;":
+Når jeg synes, at den her debat er meget interessant, er det, fordi jeg
+og mit parti, Liberal Alliance, synes, at vi kan se, at dansk økonomi
+er i alvorlige problemer. Vi har fremlagt en række konkrete reformforslag, som man kunne vedtage her i Folketinget, hvis der var
+flertal for det, som regeringen kunne vedtage, hvis regeringen ønskede det, og det er forslag, som ifølge den økonomiske ekspertise i landet ville føre til konkrete vækstresultater.
+Når vi fremlægger de forslag, hører vi, at regeringen ikke vil være med til dem. Regeringen har i stedet en anden plan. Regeringen
+vil satse på grøn teknologi for at skabe vækst i fremtidens Danmark.
+Vi må bare konstatere, at de økonomiske vismænd er uenige her. De
+mener ikke, at regeringen på den måde kan redde dansk økonomi
+ved at kaste offentlige penge efter bestemte brancher i erhvervslivet.
+Derfor er det jo relevant.
+Jeg synes ikke, at jeg har fået svar på hidtil, om statsministeren
+vil tage det her til efterretning og genoverveje sin strategi, eller om
+statsministeren agter at fortsætte fuldstændig uændret.";Ole Birk Olesen
+33683;Time;;Kl. 13:27
+33694;Time;"Formanden :
+Statsministeren.";Kl. 13:30
+33734;Time;"Formanden :
+Statsministeren.
+
+Formanden :
+Hr. Ole Birk Olesen.";Kl. 13:26
+33808;Time;;Kl. 13:27
+33819;Time;;Kl. 13:30
+33841;name_party;":
+Det svar tolker jeg derhen, at regeringen er ret ligeglad med, hvad de
+økonomiske vismænd siger – skråstreg – er dybt uenig med de økonomiske vismænd, som ellers hører under Økonomiministeriet i regeringen. Og jeg vil da gerne spørge, om statsministeren har en begrundelse for, at de økonomiske vismænd her tager fejl. De er jo,
+hvad vi i Danmark opfatter som nogle af de førende personer ud i at
+rådgive offentligheden og regeringen om økonomisk politik. Er der
+en grund til, at statsministeren mener at vide sig klogere end de økonomiske vismænd og således mener, at hun og resten af regeringen
+kan skabe mere vækst og flere arbejdspladser ved at føre en økonomisk politik, der tilgodeser bestemte brancher, selv om de økonomiske vismænd siger, at det kan man ikke?";Ole Birk Olesen
+34652;title_name;":
+Som jeg også sagde før, synes jeg, at det er et væsentligt bidrag til
+debatten. Som jeg også sagde før, har vi jo et bredt forskningsfelt i
+Danmark. Det er jo ikke sådan, at vi har valgt én ting, vi forsker i, og
+så er vi ligeglade med alle andre ting. Jeg mener, at vækst opstår i et
+fornuftigt krydsfelt mellem forskning i et bredt felt af emner – og
+også på nogle særlige områder, som man vælger at man er mere interesseret i end andre – og selvfølgelig også gode rammebetingelser
+for vores erhvervsliv. Så jeg mener stadig, at vi skal fortsætte med at
+forske bredt i Danmark, men selvfølgelig også i energi og grønne
+løsninger. Jeg er helt overbevist om, som jeg også sagde før, at når
+Danmark har en førerposition på det her område og også tjener penge på at sælge produkter til resten af verden, ville det være forkert at
+opgive den forskning, vi har på hele det her felt.";Helle Thorning-Schmidt
+35543;Time;;Kl. 13:28
+35554;Time;"Formanden :
+Statsministeren.
+
+Formanden :
+Spørgsmålet er sluttet.
+Det næste spørgsmål til statsministeren er af hr. Lars Barfoed fra
+Det Konservative Folkeparti. Værsgo.";Kl. 13:31
+35735;Time;"Onsdag den 29. februar 2012 (US 98)
+
+7";Kl. 13:31
+35787;Time;Spm. nr. US 98;Kl. 13:34
+35821;name_party;":
+Jeg har taget regeringsgrundlaget med. Jeg går ud fra, at statsministeren er bekendt med det. Det læser vi jo alle sammen tit i, fordi vi
+jo hele tiden er spændte på, om regeringsgrundlaget bliver fulgt, eller om regeringen har fundet på nye veje at gå, og det har man jo tilsyneladende på en række områder. Det, jeg er optaget af, er førtidspensionsreformen, som statsministeren jo også indledte med at omtale. Den er vi i Det Konservative Folkeparti stærkt optaget af. Vi er
+stærkt optaget af, at unge mennesker, som bliver tilkendt førtidspension på grund af en psykisk sygdom – det sker ofte af andre grunde –
+får et udviklingsforløb, så de igen kommer til at klare sig selv. I det
+hele taget er vi optaget af, at flere borgere og familier klarer sig selv
+uden offentlige overførselsindkomster.
+Det forstår jeg at vi, i hvert fald når det gælder førtidspensionen,
+langt hen ad vejen er enige om. Det udspil, regeringen er kommet
+med, minder jo også meget om det, som vi lagde op til i VK-regeringen. Derfor er vi også interesserede i at indgå i drøftelser med regeringen om en reform af førtidspensionen, men vi er jo ikke interesseret i – for man ville spare penge ved en sådan førtidspensionsreform
+– at være med til at skaffe penge til veje, som regeringen så bruger
+til at øge de offentlige udgifter andre steder med i samarbejde med
+Enhedslisten.
+Derfor er vi optaget af, hvad pengene skal bruges til. Jeg har hørt
+statsministeren i pressen refereret for at sige: Pengene skal bruges til
+at lukke hullet i statskassen. Men så har jeg alligevel tænkt: Gad
+vidst, om der står noget om det i regeringsgrundlaget, og det gør der
+på side 10. Der står nemlig, at provenuet fra reformerne af, og så
+nævnes der en række områder, men derunder nævnes fleksjob og
+førtidspension – og så citerer jeg:
+»skal anvendes til at skabe et råderum, der kan finansiere forbedringer af velfærd, social indsats og et løft i uddannelserne og forskningsindsatsen.«
+Altså, i regeringens eget regeringsgrundlag står, at pengene skal
+disponeres til at øge udgifterne i den offentlige sektor andre steder.
+Statsministeren er refereret i pressen for at sige, at de skal bruges til
+at lukke hullet i statskassen. Begge dele kan ikke være rigtigt, og nu
+spørger jeg statsministeren: Hvad er rigtigt, det, statsministeren er
+refereret for, eller det, der står i regeringsgrundlaget?";Lars Barfoed
+38191;Time;"Formanden :
+Statsministeren.";Kl. 13:33
+38231;Time;;Kl. 13:33
+38273;title_name;":
+Jeg tror egentlig, det ville være nemmere for hr. Lars Barfoed at forstå det, hvis han tænker på, hvordan man selv tænkte det, da man sad
+i regering. Det er jo trods alt ikke så lang tid siden; og vores tankegang adskiller sig egentlig ikke markant fra det. For det, VK-regeringen ville, var jo sådan set også at gå i gang med en førtidspensionsreform, som kunne lukke et hul, i den forstand at man dels ville lukke et hul, men jo også – det indgik der jo også i VK-regeringens plan
+– skaffe råderum i den offentlige sektor. Det var ikke kun at lukke et
+hul, det var også at skaffe råderum. Og det var jo i det regnestykke,
+at VK-regeringens førtidspensionsreform indgik, altså lukke hul og
+skaffe råderum. Så det var sådan set to sider af samme sag. Det at
+lukke hul er også at skaffe råderum, det var det under den tidligere
+regering, og det er det også for den nye regering. Det siger sig selv,
+at hvis man har minusvækst i den offentlige sektor eller nulvækst, så
+er hullet ikke så stort, men det arbejdede den tidligere regering jo
+heller ikke med. Jeg tror, man havde en vækst i den offentlige sektor
+berammet til 0,7 pct., og det var jo en del af det at lukke hullet og en
+del af argumentet for, at man skulle have en førtidspensionsreform.
+
+Formanden :
+Hr. Lars Barfoed.";Helle Thorning-Schmidt
+39563;Time;;Kl. 13:35
+39582;name_party;":
+Det, der står i regeringsgrundlaget, er, at pengene skal bruges til at
+øge de offentlige udgifter andre steder. Det er det, der står her. Det,
+statsministeren har sagt, er, at pengene skal bruges til at lukke hullet
+i statskassen. Lukke hullet i statskassen vil altså sige, at man ikke
+bruger pengene til noget andet.
+I Det Konservative Folkeparti er vi jo stærkt bekymret over den
+størrelse, den offentlige sektor efterhånden har taget. Vi har i 2012
+det største udgiftstryk, vi nogen sinde har haft i danmarkshistorien,
+og der er brug for, at vi sænker de offentlige udgifter, så vi på sigt
+også kan sænke skattetrykket. Det er der markant brug for for at sikre velstanden for danskerne på længere sigt. Derfor er det jo interessant, om statsministeren har den plan, at de penge, der findes ved en
+førtidspensionsreform, bortset fra de penge, som vi selvfølgelig er
+enige om at der skal bruges til at styrke de her udviklingsforløb eller
+ressourceforløb, som regeringen nu kalder det, så vi gør noget for de
+unge mennesker, skal disponeres til anden side, eller om de skal bruges til at holde de offentlige udgifter nede. På sigt vil det her jo også
+betyde, at der er færre mennesker, der er på førtidspension, og dermed vil vi også på lang sigt spare penge. Skal de så bruges til at holde de offentlige udgifter nede, eller vil regeringen straks sige: Hov,
+så kan vi bruge pengene til noget andet, så vi fastholder det offentlige udgiftstryk?";Lars Barfoed
+41039;Time;"Formanden :
+Statsministeren.";Kl. 13:36
+41079;Time;;Kl. 13:36
+41121;title_name;":
+Jeg tror, at det vil lette hr. Lars Barfoeds forståelse, hvis han virkelig
+tænker på samme måde, som man gjorde i regeringen, og måske kan
+man sende budskabet videre til hr. Lars Løkke Rasmussen, som måske også kunne få hjælp af den måde at tænke på, for der ville man
+jo også bruge førtidspensionsreformen til at lukke hullet og skabe råderum i dansk økonomi. Det var lige præcis det, man ville. Det vil vi
+sådan set også: lukke hullet og skabe råderum. Det at skabe råderum
+er jo også en del af det at lukke hullet i dansk økonomi, så jeg tror, at
+man skal lave en meget konsekvent parallel mellem det, som V og K
+ville med førtidspensionen, altså lukke hullet og skabe råderum, og
+det, som den nye regering vil med førtidspensionsdiskussionen,
+nemlig lukke hullet og skabe råderum.";Helle Thorning-Schmidt
+41917;Time;"Formanden :
+Hr. Lars Barfoed for det sidste spørgsmål.";Kl. 13:37
+41983;Time;;Kl. 13:37
+42002;name_party;":
+Nu kan jeg høre, at statsministeren er meget optaget af at tale om,
+hvad VK-regeringen gjorde, og det er jo også interessant, for man
+gjorde jo mange gode gerninger i sin tid i VK-regeringen. Men lad
+mig så prøve at spørge på en anden måde: Er det statsministerens
+målsætning, at vi skal nedsætte de offentlige udgifter og nedbringe
+størrelsen af den offentlige sektor, sådan at det offentlige udgiftstryk
+i Danmark bliver lavere og vi dermed også på sigt får banet vejen for
+et lavere skattetryk, eller er det statsministerens målsætning, at den
+offentlige sektor skal bibeholde sin relative størrelse af den samlede
+økonomi i det her samfund?
+
+8
+
+Onsdag den 29. februar 2012 (US 99)";Lars Barfoed
+42700;Time;"Formanden :
+Statsministeren.";Kl. 13:37
+42740;Time;;Kl. 13:37
+42782;title_name;":
+Når jeg taler om de ting, som der skete i VK, er det for at minde om,
+at den måde, vi tænker på, sådan set ikke er væsentlig forskellig fra
+den måde, VK-regeringen tænkte på, fordi der ville man jo også gennemføre, jeg tror, det var en SU-reform og en førtidspensions- og
+fleksjobreform for at lukke hullet og skabe råderum i dansk økonomi. Det er lige præcis det, vi også gerne vil. Når jeg siger det på den
+måde, er det også for at gøre klart, at det er en lille smule søgt, når
+man søger forskelle her. Vi vil gerne lukke hullet og skabe råderum i
+dansk økonomi. Vi ønsker, der skal være en vis vækst i den offentlige sektor år for år, præcis som den tidligere regering ønskede. Men
+uanset hvilke præcise tal vi når frem til, ønsker vi også som den tidligere regering, at der skal være en vis vækst i den offentlige sektor.
+Det er i hvert fald nyt for mig, hvis De Konservative nu mener, at
+den offentlige sektor overhovedet ikke må vokse, fordi tidligere har
+man jo ment, at den gerne år for år måtte vokse en lille smule.";Helle Thorning-Schmidt
+43820;Time;"Formanden :
+Spørgsmålet er sluttet.
+Det næste spørgsmål til statsministeren er stillet af fru Doris Jakobsen fra Siumut, værsgo.";Kl. 13:38
+43960;Time;;Kl. 13:39
+43986;name_party;":
+Tak. Jeg er sådan set også interesseret i statsministerens besøg hos
+den amerikanske præsident, for det er jo sådan, at vi i Folketingets
+Skatteudvalg har behandlet et lovforslag, som bl.a. vil indebære, at
+man skal lægge moms på magasiner, der er trykt uden for EU. Det
+vil så indebære et gebyr på 160 kr., som skal lægges oveni.
+Sent mandag aften, altså efter at statsministeren havde været på
+besøg i USA, fik vi en melding om, at regeringen ikke ønskede at
+opretholde det her forslag. Jeg ved jo også, at der er en række kongresmedlemmer, der har skrevet til præsident Obama og påpeget, at
+det her kunne blive et stort problem, fordi det kunne koste amerikanske arbejdspladser. Så jeg vil meget kort høre statsministeren, om
+den her problematik blev bragt op over for statsministeren under besøget i USA.";Gitte Lillelund Bech
+44806;Time;"Formanden :
+Statsministeren.";Kl. 13:41
+44846;Time;;Kl. 13:41
+44888;title_name;":
+Med hensyn til det her forslag om at ligestille europæiske magasiner
+med amerikanske magasiner er det jo rigtigt, at der i gennemgangen
+af lovforslaget har vist sig nogle utilsigtede konsekvenser, i form af
+at der ville blive et meget højt gebyr for magasiner fra tredjelande.
+Det er en problemstilling, som har optaget os herhjemme, og som siden hen også har optaget amerikanerne på et meget højt niveau. Og
+det betyder også, at præsidenten rejste spørgsmålet over for mig i
+marginen af mødet og nævnte den her sag.";Helle Thorning-Schmidt
+45416;Time;Spm. nr. US 99;Kl. 13:41
+45453;name_party;":
+Der er godt nok mange, der gerne vil høre nærmere om statsministerens møde med præsident Barack Obama. Derfor vil jeg gerne spørge statsministeren, om hun kan oplyse noget fra sine drøftelser med
+præsident Barack Obama angående den fremtidige brug af Thulebasen, herunder om Thulebasen kan bruges i det fremtidige beredskab
+omkring Grønland, og om USA vil deltage i søopmåling ved Grønland.";Doris Jakobsen
+45855;Time;"Formanden :
+Fru Gitte Lillelund Bech.";Kl. 13:39
+45904;Time;;Kl. 13:41
+45930;name_party;":
+Skal jeg forstå statsministerens svar sådan, at det her faktisk er en
+sag, som har optaget regeringen meget? Er det sådan, at både statsministeren og resten af regeringen, som jo er et kollektiv, har været
+meget optaget af den her gebyrsag? Er det sådan, jeg skal forstå svaret fra statsministeren?";Gitte Lillelund Bech
+46240;Time;"Formanden :
+Statsministeren.";Kl. 13:42
+46280;Time;"Formanden :
+Statsministeren.";Kl. 13:39
+46320;Time;;Kl. 13:42
+46362;title_name;":
+Jeg takker for spørgsmålet og for interessen for hele det her felt.
+Ordføreren har også sendt et brev til mig, og jeg vil meget gerne svare på det. Der kan også komme yderligere samtaler om det, hvis det
+er nødvendigt. Jeg havde lejlighed til kort at drøfte det her spørgsmål
+med præsident Barack Obama, og jeg nævnte også vores ønske om
+at kunne bruge Thulebasen til civile formål. Han var interesseret i
+det her spørgsmål, og det er noget, vi taler videre om.";Helle Thorning-Schmidt
+46835;Time;"Formanden :
+Tak.
+Det næste spørgsmål til statsministeren er stillet af fru Gitte Lillelund Bech fra Venstre. Værsgo.";Kl. 13:40
+46963;Time;;Kl. 13:40
+47005;title_name;":
+Der er mange sager, der optager regeringen; der er mange sager, der
+optager mig, og de optager mig alle sammen meget. Det her er én
+sag, hvor der har været nogle utilsigtede konsekvenser, som vi så har
+valgt at reagere på ved at udskyde lovforslaget, indtil vi kunne finde
+en løsning med hensyn til de utilsigtede konsekvenser. Og det gælder jo ikke kun amerikanerne, det gælder i det hele taget, at magasiner fra tredjelande ville blive ramt af de her utilsigtede konsekvenser, og det har vi så valgt at tage konsekvensen af og har udskudt
+lovforslaget.";Helle Thorning-Schmidt
+47571;Time;"Formanden :
+Fru Gitte Lillelund Bech.";Kl. 13:42
+47620;Time;Spm. nr. US 100;Kl. 13:42
+47662;name_party;":
+Så tror jeg sådan set, at jeg vil opfordre statsministeren til at tage en
+snak med sin skatteminister, for det er sådan, at regeringen jo er et
+
+Onsdag den 29. februar 2012 (US 101)
+
+kollegium, og skatteministeren har ikke været optaget af det her gebyr. Vi kan fremvise flere svar fra skatteministeren om det her
+spørgsmål, hvor han siger, at gebyret ikke vedrører lovforslaget og i
+øvrigt ikke er skatteministerens ansvar.
+Men jeg går ud fra, at statsministeren vil give mig ret i, at regeringen er et kollegium, og det vil sige, at hvis der fremsættes et lovforslag, er det, uanset om det bliver fremsat af én minister, sådan set
+et ansvar for hele regeringen. Det er også et ansvar for den pågældende minister, som har fremsat lovforslaget, at det kan have utilsigtede konsekvenser for andre ministres områder.
+Det er i hvert fald ikke det samme svar, vi har fået fra skatteministeren, og jeg vil jo selvfølgelig, afhængig af hvad statsministeren
+svarer på mit spørgsmål her, prøve at høre skatteministeren, hvordan
+han ser på kollegiedelen, for statsministerens svar stemmer ikke
+overens med den måde, Skatteudvalget er blevet behandlet på, eller
+med de svar, skatteministeren har givet os, og som jo er blevet givet
+under ministeransvar.
+Så jeg skal bare høre, om statsministeren ikke er enig i, at regeringen er et kollegium, og at skatteministeren ikke kan henvise gebyrdelen til, at det ikke er hans ansvar, fordi det ligger under en anden ressortminister.
+
+9
+
+oppe, og så er det i øvrigt ligegyldigt, om det har været i Jylland eller på Sjælland, det har stadig væk været betalingsringen, der var det
+første. Den er nu væk, herligt, væk med den, men så står der altså nu
+tilbage finanspagten. Der synes jeg på en eller anden måde at jeg vil
+bede statsministeren forholde sig til, om det er fair, at en sag, som i
+den grad optager den danske befolkning, og som engagerer danske
+vælgere, bare er en sag, man skøjter hen over ved en hurtig beslutning. Vi ved jo alle sammen, hvordan de tre behandlinger her i Folketinget går. Der kommer debat her, ja, men en folkelig debat har
+der ikke været.
+Er det fair over for den danske befolkning?";Gitte Lillelund Bech
+49819;Time;"Formanden :
+Statsministeren.";Kl. 13:46
+49859;Time;"Formanden :
+Spørgsmålet er sluttet.
+Det næste spørgsmål til statsministeren er fra hr. Søren Espersen,
+Dansk Folkeparti, værsgo.";Kl. 13:46
+50031;title_name;":
+Tak for lykønskningen med, at jeg skal til et hyggeligt møde. Det håber jeg da også det bliver, men selvfølgelig altid med vigtige beslutninger.
+Jeg har ikke henvist til den her begivenhed som en af de vigtigste
+i vores historie. Jeg har henvist til de beslutninger, som er truffet
+over de sidste 2 måneder, og som vi i Europa har truffet over de sidste måneder, som nogle af de vigtigste i vores historie, fordi vi har
+vist, at vi er i stand til, når et land har en krise, at opføre os solidarisk over for hinanden. Det synes jeg er vigtigt, og jeg synes, det siger noget om, hvad EU er for noget.
+I forhold til om den måde, vi diskuterer finanspagten på, er fair,
+skal jeg bare henvise til vores alle sammens grundlov, for i grundloven er det beskrevet, hvad vi skal gøre i den her slags tilfælde. Hvis
+der afgives suverænitet, er der en procedure for det, og hvis der ikke
+gør, er der en procedure for det. Og proceduren er, at vi her i Folketinget, os, der er valgt til at repræsentere borgerne, må påtage os et
+ansvar. Skal vi gøre det under livlig debat med hinanden, hvor vi får
+alting på bordet? Selvfølgelig skal vi det, vi har netop haft en debat i
+Europaudvalget og i Det Udenrigspolitiske Nævn her til morgen, og
+vi fortsætter debatten i dag og i nogle måneder frem, når vi skal diskutere det her yderligere. Vi skal have masser af debat, men det er
+vores ansvar at træffe den beslutning, og det er også foreskrevet i
+grundloven.";Helle Thorning-Schmidt
+51485;Time;;Kl. 13:44
+51496;Time;;Kl. 13:47
+51507;Time;"Formanden :
+Statsministeren.";Kl. 13:43
+51547;Time;;Kl. 13:44
+51589;title_name;":
+Jeg vil svare, som jeg gjorde før: Vi har behandlet sagen. Der er sådan set en god rimelighed i, at man vil sidestille europæiske magasiner med tredjelandes magasiner. Der har så under behandlingen af
+lovforslaget vist sig at være nogle utilsigtede konsekvenser, og det
+problem vil vi gerne have lov til at løse, og der er også nogle internationale aftaler, som gør, at det er vanskeligt. Det er vi jo nødt til at
+tage højde for, og det er det, vi gør nu.";Helle Thorning-Schmidt
+52056;Time;Spm. nr. US 101;Kl. 13:44
+52093;name_party;":
+Tak, og tak til statsministeren.
+Statsministeren sagde, at det møde, hun skal til nede i Europa her
+i weekenden, ikke er et krisemøde. Det er jo dejligt, og det er vist
+første gang i lang tid, at det ikke har været det. Jeg mener, det er
+10-12 krisemøder, man har haft, så jeg vil ønske statsministeren en
+rigtig god tur, det kan blive helt hyggeligt dernede for en gangs
+skyld.
+Statsministeren sagde også til hr. Claus Hjort Frederiksen, at den
+her begivenhed bl.a. var en af de allerstørste begivenheder i 50 år.
+Netop derfor synes jeg, det er så væsentligt, at den danske befolkning bliver hørt. Altså, hvis det virkelig er en begivenhed på det niveau, synes jeg, det er væsentligt, at den danske befolkning bliver
+spurgt. For det, man skal tage stilling til, og det, man har taget stilling til, er jo en dramatisk begivenhed, en dramatisk beslutning, der
+binder danske generationer fremover.
+Jeg ved fra de møder, jeg har været til rundtomkring i landet i
+den seneste tid, at der har været to ting, som almindelige borgere ville spørge om og ville tale om på de møder. Det har været betalingsringen, og det har været finanspagten. Det er de to ting, der har været
+
+Formanden :
+Hr. Søren Espersen.";Søren Espersen
+53305;Time;;Kl. 13:48
+53326;name_party;":
+Jamen det har jeg forståelse for. Jeg synes selvfølgelig også, at vi har
+et ansvar for at træffe beslutninger, det er slet ikke det, jeg vil forsøge at løbe fra. Det er bare, fordi det netop er så stor en sag, som det
+er.
+Når vi nu er ved grundloven, er der jo den procedure i grundloven, at hvis der er noget, der bliver besluttet, som er en afgivelse af
+selvstændighed, så er det noget, befolkningen skal spørges om, og
+det er så det andet ben i det her. Nu har vi lige ved det spørgsmål,
+som fru Pia Kjærsgaard rejste, fået at vide, at irerne stemmer og skal
+stemme. Det har de besluttet sig til, fordi deres jurister, altså den irske regerings jurister, har skønnet, at det her nok havde at gøre med
+afgivelse af suverænitet. Det er jo interessant, at irske jurister og
+danske jurister vurderer så væsensforskelligt, man må gå ud fra, at
+de også har forstand på tingene derovre. Hvordan vil statsministeren
+forklare det forhold?
+
+10
+
+Onsdag den 29. februar 2012 (US 102)";Søren Espersen
+54314;Time;"ger, så er selve spørgsmålet om suverænitetsafgivelse da også anderledes, alt efter om man er euroland og skal være med i hele pakken
+eller man er ikkeeuroland og selv kan vælge, hvad man gerne vil være med i.";Kl. 13:49
+54536;Time;;Kl. 13:49
+54547;Time;"Formanden :
+Statsministeren.";Kl. 13:52
+54618;title_name;":
+Jeg tror, man skal være rigtig varsom med at sammenligne pærer og
+bananer her, for Danmark er ikke et euroland, og det vil sige, at Danmark ikke er nødt til at undertegne den her finanspagt. Der er også
+elementer af finanspagten, som Danmark ikke er med i, fordi vi ikke
+er et euroland. Irland skal tilslutte sig hele pagten og alle elementer
+af den her pagt, så det er to meget forskellige ting, vi diskuterer. Det
+er den første del af det, og det kan være en af grundene til, at man
+kommer til to forskellige konklusioner.
+Den anden, som sikkert også er en væsentlig grund, er, at Irland
+er ét land med deres forfatning, og Danmark er et andet land med
+vores forfatning. Det er to forskellige lande, to forskellige forfatninger, og derfor tror jeg, man skal være meget varsom med at sammenligne de her to situationer. Nu står vi i det danske Folketing, vi har
+vores danske jurister, som skal vurdere afgivelse af suverænitet set
+ud fra en dansk vinkel, og det er jo den diskussion, vi skal have. Så
+lad os have den diskussion, men jeg tror ikke, det giver meget mening at inddrage Irland, eftersom det er noget helt andet, man bliver
+spurgt om i Irland. Der er Irland jo et euroland.
+
+Formanden :
+Spørgsmålet er sluttet.
+Vi kan faktisk nå et spørgsmål mere inden for timen, og den næste på listen er hr. Joachim B. Olsen fra Liberal Alliance.";Helle Thorning-Schmidt
+55974;Time;Spm. nr. US 102;Kl. 13:52
+56013;name_party;":
+Tusind tak. Jeg vil gerne fortsætte i min kollega hr. Ole Birk Olesens
+spor. Der står i regeringsgrundlaget, at vi skal skabe de bedste rammer for, at Danmark kan blive et grønt videns- og produktionssamfund. Danmark skal udnytte sin førerposition på det grønne område.
+Så vil jeg gerne bede statsministeren forklare, hvad der menes
+med det, og hvorfor det her er i regeringsgrundlaget?";Joachim B. Olsen
+56411;Time;"Formanden :
+Statsministeren.";Kl. 13:52
+56451;Time;;Kl. 13:52
+56462;Time;"Formanden :
+Hr. Søren Espersen.";Kl. 13:50
+56505;Time;;Kl. 13:50
+56526;name_party;":
+Jeg erkender, at der er forskel på forfatningerne, og jeg erkender også, at der er væsensforskel på forholdene i det hele taget de to lande
+imellem. Men det ændrer jo ikke ved, at selve det, om man afgiver
+suverænitet eller ej, i virkeligheden slet ikke har spor at gøre med,
+hvordan ens forfatninger er skruet sammen. For vi har altså en
+grundlovsbestemmelse her, der siger, at vi skal have en folkeafstemning, hvis der afgives suverænitet. Irerne har så besluttet, at de skal
+have en folkeafstemning, men det har ikke spor at gøre med, at irske
+jurister har vurderet, at det er en afgivelse af suverænitet, og at vore
+jurister har sagt, at det ikke er en afgivelse af suverænitet. Det har
+ikke noget med vores forskellige forhold at gøre, for det bør man
+egentlig kunne se på fuldstændig neutralt som jurist, hvad enten man
+sidder i Irland eller i Danmark, eller man sidder i England eller i
+Frankrig. Så kan man vurdere: Afgiver man her suverænitet som nationalstat – ja eller nej? Og det undrer mig, og det kan ikke forklares
+med, at der er forskellige former for forfatninger og forskellige forhold, for den neutrale vurdering af, om det er afgivelse af suverænitet eller ej, er en juridisk, strengt neutral vurdering.";Søren Espersen
+57761;Time;"Formanden :
+Statsministeren.";Kl. 13:51
+57801;Time;;Kl. 13:51
+57843;title_name;":
+For det første understreger jeg, at både hr. Søren Espersen og jeg
+selv diskuterer en lille smule i blinde, al den stund ingen af os formentlig har haft adgang til de dokumenter, som udgør den her rapport, som beslutningen er truffet ud fra. Men der er da en væsensforskel, for der er forskel på, om man er euroland og skal være med i
+det hele eller man ikke er euroland og vælger, hvilke dele man ønsker at være med i. Så der er da forskel på de situationer. Og selv om
+hr. Søren Espersen ikke vil acceptere, at der er forskel på forfatnin-";Helle Thorning-Schmidt
+58428;title_name;":
+Regeringen er helt overbevist om, at jo mere energieffektive vi kan
+blive, jo bedre vi kan blive til at genanvende materiale, jo bedre løsninger vi kan finde for vores vand, jo grønnere løsninger vi kan finde, jo mindre vi kan være afhængige af fossile brændstoffer, desto
+bedre vil Danmark klare sig. Ud over at vi får bedre mulighed for at
+leve op til de klimamålsætninger, som vi også har del i, vil det også
+være en god forretning for Danmark. Det er derfor, regeringen har
+den her målsætning og vil arbejde hen imod at nå den målsætning.";Helle Thorning-Schmidt
+58982;Time;"Formanden :
+Hr. Joachim B. Olsen.";Kl. 13:53
+59027;Time;;Kl. 13:53
+59050;name_party;":
+Men når regeringen siger, den er overbevist om det, hvad bygger
+man det så på? De økonomiske vismænd tror åbenbart ikke på det
+her, for de skriver det fuldstændig modsatte af, hvad regeringen siger:
+»Det er vanskeligt på forhånd at pege på, hvilke teknologier som
+vil føre til vækst og øget konkurrenceevne i fremtiden. Det synes ikke begrundet, at offentlige myndigheder skulle være bedst egnet til
+udvælge de teknologier, som har størst potentiale. Dette skyldes, at
+de virksomheder, som anvender teknologien eller lever af at udvikle
+den, må forventes at have mest viden om potentialet for de enkelte
+teknologier. De må dermed bedst kunne vurdere, hvilke teknologier
+der bør satses på.«
+Når de økonomiske vismænd, som jeg tror de fleste af os vil anerkende er den øverste sagkundskab, når det handler om økonomi og
+samfundsforhold, vurderer, at det er det stik modsatte, gør det så indtryk på statsministeren?";Joachim B. Olsen
+59974;Time;"Formanden :
+Statsministeren.
+
+Onsdag den 29. februar 2012 (S )";Kl. 13:54
+60050;Time;;Kl. 13:54
+60092;title_name;":
+Det gør da bestemt indtryk, når vismændene skriver deres rapport og
+også debatterer de her ting. Jeg synes også, at man, hver eneste gang
+man investerer i et forskningsområde, eller hvad det kan være, skal
+spørge om, hvorvidt det på lang sigt har et afkast. Det synes jeg er
+helt rimelige diskussioner.
+Men hvis jeg bare må give et eksempel på, at jeg sådan set mener, det kan betale sig at investere i et område, vil jeg sige, at det jo
+ikke er nogen tilfældighed, at Danmark er førende, når det handler
+om vind. Det er jo, fordi vi på et tidligt tidspunkt – altså helt tilbage i
+1990'erne – begyndte at investere i det her område, og det har så betydet, at vi har fået nogle virksomheder, som er førende også på globalt plan, når det handler om vind. Derfor mener jeg, at der da er en
+direkte forbindelse mellem det, at vi investerer i et område, og at det
+så også på et tidspunkt bliver et område, som vi kan leve af, og som
+skaber arbejdspladser.";Helle Thorning-Schmidt
+61054;Time;"Formanden :
+Hr. Joachim B. Olsen.";Kl. 13:55
+61099;Time;;Kl. 13:55
+61122;name_party;":
+Jeg giver statsministeren ret i, at vi jo har virksomheder, som er førende på det her område, men det er jo, fordi vi fokuserer på det, vi
+kan se. Vi fokuserer på, at vi har brugt nogle penge her og der er
+kommet nogle virksomheder. Men det indebærer jo også, at vi ikke
+fokuserer på det, som vi ikke kan se. Havde vi ikke brugt penge på
+de virksomheder, kunne de penge være blevet brugt på noget andet,
+som muligvis kunne have skabt en højere vækst. Det er jo ligesom
+det, de økonomiske vismænd er inde på: Det har regeringen og politikerne ikke nogen mulighed for at vurdere; det er virksomhederne
+bedst til.
+De økonomiske vismænd skriver videre:
+»De seneste år har der været en tendens til øremærkning af forskningsmidlerne, som særligt tilgodeser energiforskning og markedsmodning af energiteknologier. Denne tendens fortsætter i regeringsgrundlaget fra oktober 2011 og i regeringens energiudspil »Vores
+Energi«. Analyser peger imidlertid på, at energiforskning ikke har et
+højere samfundsøkonomisk afkast end anden forskning, snarere
+tværtimod. Der er ingen miljøpolitisk grund til, at miljøteknologiske
+løsninger skal være udviklet i Danmark, ligesom det ikke er givet, at
+Danmark på sigt vil have komparative fordele i at producere grønne
+teknologier. Selvom det skulle være tilfældet, begrunder det ikke
+særskilt forsknings- og erhvervsstøtte på området, da private aktører
+selv må formodes at kunne se fordelene, hvis de er der.«
+Det, de siger, er altså, at de går stik imod det, som regeringen har
+lagt frem. Det er rigtigt, at putter man nogle penge i noget, er det
+klart, at der sker noget, men havde man ikke gjort det, var der jo altså også sket noget, og det kan vi ikke se. De økonomiske vismænd
+siger altså, at det her ikke er til Danmarks fordel, og konsekvensen
+er jo så et tab af arbejdspladser.";Joachim B. Olsen
+62949;Time;"Formanden :
+Statsministeren.";Kl. 13:57
+62989;Time;;Kl. 13:57
+63031;title_name;":
+Jeg har stor respekt for vismændene, og vi har igennem mange år i
+Danmark forsøgt at forske bredt, men også satse på nogle områder.
+Og vind er et af dem; vi har satset på vind – både med hensyn til at
+der skulle være en efterspørgsel, nogle rammebetingelser og forsk-
+
+11
+
+ning på det her område. Jeg har svært ved at se, at der ikke skulle
+være nogen forbindelse til, at Danmark nu også har virksomheder,
+som er førende på det her felt.
+Jeg synes selvfølgelig, man skal have den her slags diskussioner
+– kan det betale sig at investere i et bestemt forskningsområde, og
+har vi afkast, der kan begrunde det? Jeg synes, det er en meget væsentlig diskussion. Men ud fra en diskussion at konkludere at vi aldrig nogen sinde mere skal forske i energi og grøn teknologi, synes
+jeg er et meget stort spring, og der er regeringen ikke. Vi er helt
+overbevist om, at det her er et felt, hvor vi skal blive endnu dygtigere i Danmark, ikke bare for at være dygtigere, men også for at kunne
+omsætte det til vækst og arbejdspladser.";Helle Thorning-Schmidt
+64062;Time;"Formanden :
+Spørgsmålet er afsluttet. Vi når ikke flere spørgsmål inden for den
+time, som statsministeren er her.
+Vi har ikke så mange underpunkter til næste punkt på dagsordenen, besvarelse af oversendte spørgsmål til ministrene, for jeg skal
+meddele, at Ellen Trane Nørby har taget spørgsmålene nr. 1 og 2 på
+dagsordenen tilbage, og endvidere har Finn Sørensen taget spørgsmål nr. 3 på dagsordenen tilbage.
+Vi venter lige 1 minut med at starte spørgetiden – og siger tak til
+statsministeren.
+:
+Mødet er udsat. (Kl. 13:59).
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 13:58
+64701;Time;"Formanden :
+Det første spørgsmål er til børne- og undervisningsministeren af fru
+Marie Krarup fra Dansk Folkeparti.";Kl. 14:00
+64828;Time;"Spm. nr. S 2360
+1) Til skatteministeren af:";Kl. 14:00
+64895;name_party;":
+Mener ministeren, at det vil fremme antallet af danskere, som tegner
+forsikringer, når regeringen nu sætter stempelafgifterne på forsikringer markant op, så alle danske forsikringstagere fremover skal betale
+markant mere for en indbo-, ulykkes-, skades-, rejseforsikring m.m.?
+:
+(Spørgsmålet er udgået, da det er taget tilbage af spørgeren).";Ellen Trane Nørby
+65248;Time;"Spm. nr. S 2362
+2) Til skatteministeren af:";Kl. 14:00
+65315;name_party;":
+Er ministeren slet ikke bekymret for konsekvenserne, når undersøgelser i dag viser, at særlig unge og personer med lave indkomster
+allerede i dag afholder sig fra at tegne forsikringer på grund af udgiften, når regeringen nu planlægger at forøge stempelafgifterne på forsikringer markant, og er regeringen fuldstændig ligeglad med de store konsekvenser, det kan have for mennesker, hvis de ikke er ordentligt forsikret?
+:
+(Spørgsmålet er udgået, da det er taget tilbage af spørgeren).
+
+12
+
+Onsdag den 29. februar 2012 (S 2363)";Ellen Trane Nørby
+65855;Time;"Spm. nr. S 2363
+3) Til beskæftigelsesministeren af:";Kl. 14:00
+65927;name_party;":
+Er ministeren tilfreds med de nuværende regler for fleksjobordningen, der giver mennesker med nedsat erhvervsevne mulighed for at
+være på arbejdsmarkedet på lige fod med deres kolleger?
+
+gøre dem bedre rustet til at udbyde måske lidt flere linjer, på trods af
+at de er små uddannelsessteder.
+Så det er nogle af de overvejelser, vi gør os med hensyn til reform af taxametrene, altså et socialt og geografisk betinget taxameter.";Finn Sørensen
+66365;Time;"Formanden :
+Fru Marie Krarup.
+
+:
+(Spørgsmålet er udgået, da det er taget tilbage af spørgeren).";Kl. 14:02
+66473;Time;;Kl. 14:02
+66483;Time;"Spm. nr. S 2357
+4) Til børne- og undervisningsministeren af:";Kl. 14:00
+66563;name_party;":
+Hvad vil ministeren gøre for at undgå, at der udvikler sig A- og Bskoler blandt de danske gymnasier?
+Formanden :
+Værsgo.";Marie Krarup
+66695;Time;;Kl. 14:00
+66714;name_party;":
+Spørgsmålet lyder:
+Hvad vil ministeren gøre for at undgå, at der udvikler sig A- og
+B-skoler blandt de danske gymnasier?";Marie Krarup
+66846;Time;"Formanden :
+Børne- og undervisningsministeren.";Kl. 14:00
+66904;Time;;Kl. 14:00
+66960;title_name;":
+Tak for spørgsmålet. Jeg har været lidt i tvivl om, hvad spørgeren
+mener med A- og B-skoler, for det kan være på så mange forskellige
+områder. Så derfor starter jeg med at give et svar på et spørgsmål,
+jeg selv har været optaget af, nemlig hvordan man kan give alle unge
+lige muligheder for at få en god gymnasieuddannelse, og hvis det ikke rammer det, som spørgeren tænker i forhold til A- og B-gymnasier, så håber jeg, at jeg kan svare senere.
+Men en af de ting, som jeg selv har været optaget af, er, at gymnasier jo af gode grunde ligger mange forskellige steder i Danmark,
+og der er nogle gymnasier, som ligger i lokalområder, hvor de elever, der starter der, er rigtig dygtige fra den folkeskole, de kommer
+fra – det er jo derfor, at de bliver optaget på gymnasiet, som de søger
+– men de har ikke de samme muligheder for at få støtte hjemmefra
+som andre elever, hvis f.eks. deres forældre ikke har nogen uddannelse. De starter på et gymnasium, som har nogle fag på et fagligt
+niveau og nogle undervisningsmetoder, som gør, at de har vanskeligt
+ved at få hjælp hjemmefra. Der er vi i regeringen optaget af at udvikle et nyt taxameter, et såkaldt socialt taxameter, som gør, at de gymnasier, hvor eleverne ikke har helt samme mulighed for at få støtte
+hjemmefra, får bedre muligheder for støtte på gymnasiet. Det er der
+nogle af vestegnsgymnasierne, der gør rigtig flot, og med et ekstra
+socialt taxameter får de mulighed for at give noget ekstra vejledning,
+noget ekstra understøttelse, sådan at deres elever også gennemfører
+deres gymnasieuddannelse uafhængigt af deres forældres baggrund.
+Så det er en af de ting, vi er optaget af.
+Når vi kigger på taxametrene, vil vi også se på en anden ting,
+nemlig at der også er geografiske forskelle på gymnasierne; og der
+er nogle gymnasier, der ligger i områder i Danmark, hvor der kan
+være ganske langt imellem ungdomsuddannelserne og gymnasierne,
+og der kan det være nyttigt at kigge på, om et geografisk tilskud kan";Christine Antorini
+68947;name_party;":
+Tak for svaret. Jeg er meget glad for at høre, at ministeren vil forsøge at udjævne nogle forskelle i forbindelse med det her sociale taxameter. Jeg ser meget frem til at se, hvordan det bliver skruet sammen, for jeg synes, at det lyder som en rigtig tankegang.
+Det, jeg mener med A- og B-skoler, er jo, at der i 2005 blev vedtaget en styrings- og finansieringsmodel, med hvilken der blev indført fri konkurrence i gymnasiesektoren. Altså, der tænker jeg på
+selveje og taxameterfinansiering. Fri konkurrence har det jo med at
+skabe tabere og vindere, A- og B-skoler, og det er sådan set det, jeg
+tænker på. Det er det, der er ideen med fri konkurrence, og det er også det, som jeg mener er ved at ske på gymnasierne i Danmark, altså,
+at der udvikles nogle vinderskoler og så nogle, der ikke er helt så gode.
+Der er simpelt hen nogle skoler, som bliver store og stærke og rige, og som har råd til at stille meget høje krav til eleverne. De har
+nemlig råd til at miste dem, hvis eleverne ikke lever op til kravene.
+Og så er der skoler, som ikke kan fastholde elever og må gøre alt for
+at beholde dem, de har. Det kan jo desværre ske ved, at man stiller
+lidt lavere krav til eleverne og lader dem gå på skolen, selv om de
+måske burde smides ud.
+Det kan især være svært for udkantsskolerne at få tilstrækkelig
+mange gode elever. Eleverne tiltrækkes jo meget ofte af de store byskoler med mange studieretninger, og dermed opnår vi desværre en
+differentiering mellem skolerne, og vi risikerer, at den nationale studentereksamen forsvinder. Det er simpelt hen ikke en ensartet standard, vi får over hele landet. Det er vi i risikozonen for at få. Det kan
+ende med, at det betyder mere, hvilken skole man kommer fra, end
+hvilken studieretning man har.
+Det synes vi i Dansk Folkeparti ikke at Danmark kan være tjent
+med. En studentereksamen skal være en studentereksamen, ligegyldigt om man kommer fra Tønder eller fra København. Man skal kunne få den i alle dele af landet. Derfor hilser jeg meget velkommen, at
+ministeren taler om at se på noget med udkantstaxameter og noget
+med socialt taxameter. Hvordan man så vil skrue det sammen, bliver
+spændende at se.
+Men er der ikke andre mekanismer i det eksisterende system,
+som man har tænkt sig at se på?";Marie Krarup
+71203;Time;"Formanden :
+Ministeren.";Kl. 14:04
+71238;Time;;Kl. 14:04
+71294;title_name;":
+En af de fine ting, som vi har i vores uddannelsessystem, det gælder
+lige fra folkeskolen til ungdomsuddannelserne og de videregående
+uddannelser, er, at når der gennemføres eksamener, er der ekstern
+censur. Det er jo for at sikre, at man ikke bare kan lade nogle slippe
+igennem nåleøjet, fordi det kan være bekvemt med tanke på taxameterordningen eller andet, som jo ikke har noget at gøre med, om man
+leverer en god præstation eller ej.
+Derfor er jeg optaget af, at man har den der balance, at der på forskellige leder og kanter kommer nogle forskellige steder fra, for det
+
+Onsdag den 29. februar 2012 (S 2356)
+
+har nemlig flere formål. Det ene er selvfølgelig at sikre sig, at man
+lever op til den generelle standard, der skal være, så en karakter,
+uanset om den er givet i Tønder eller København, som spørgeren
+sagde, er det samme værd. Det er jo det, som den eksterne censur er
+med til at sikre, også fordi censorerne via deres censorformænd giver nogle tilbagerapporteringer til Børne- og Undervisningsministeriet, hvis man har en mistanke om, at der ikke leves op til de nationale standarder. Så der har vi faktisk et system, som kan opfange, om
+det er det samme faglige niveau, der er.
+En anden ting, som jeg er optaget af, når vi kigger på taxameterordningen, er det, vi kalder et færdiggørelsestaxameter. Det kan desværre godt motivere til, at man siger, at der er nogle, som skal slippe igennem, fordi så får man godtgørelse efter færdiggørelsestaxameteret. Det var måske rigtig tænkt oprindeligt, det virker bare modsat hensigten, og så kunne vi i stedet lægge det ind som en del af uddannelsestaksten. Det er ikke noget, vi har besluttet, men det er noget, jeg selv er optaget af at vi kan kigge på.";Christine Antorini
+73020;Time;"Formanden :
+Fru Marie Krarup.
+
+13
+
+nemlig skeptiske, som jeg kan høre spørgeren også er, når man lægger nogle ekstra profiler ind, som kan være med til at give en socialt
+adskillelse eller opdeling mellem A- og B-skoler, som det fremgår af
+spørgsmålet. Vi siger, at det skal være efter objektive kriterier, så når
+ansøgeren søger, så søger man efter studieretning, man tager hensyn
+til transport, man skal søge tre forskellige steder, så man altså søger
+bredere efter stederne.
+Skal man have en profil, skal man altså ansøge om at få lavet en
+profil, for vi ønsker ikke den opdeling i A- og B-skoler, som vi kan
+se enkelte steder.";Kl. 14:06
+73662;Time;"Formanden :
+Fru Marie Krarup for det sidste spørgsmål.";Kl. 14:08
+73728;Time;;Kl. 14:08
+73747;name_party;":
+Jeg ser meget frem til at se den bekendtgørelse. Det lyder rigtig fornuftigt, at man vil prøve at begrænse de her konkurrenceparametre,
+så det vil jeg glæde mig til.";Marie Krarup
+73924;Time;;Kl. 14:09
+73935;Time;;Kl. 14:06
+73954;name_party;":
+Tak for den opfølgning. Må jeg godt gå i gang? Tak. Jeg er helt enig
+i, at ekstern censur selvfølgelig er enorm vigtig, for at man kan fastholde fagligheden, og jeg synes også, det er en utrolig god idé at
+fjerne færdiggørelsestaxameteret, som jo netop kunne friste til at lade elever slippe igennem, som måske ikke burde slippes igennem.
+Men jeg mener, at de frie markedeskræfter, som er blevet sluppet løs
+i gymnasieskolerne, burde især en socialdemokratisk undervisningsminister nok være mere interesseret i at prøve at stoppe, for jeg har
+ikke indtryk af, at Socialdemokratiet normalt er helt vild med de frie
+markedsmekanismer.
+Jeg mener, at der er nogle mekanismer, man kunne styrke. Man
+kunne styrke fordelingsudvalgene; man kunne bede dem om at tage
+regionale hensyn; man kunne begrænse de enkelte skolers mulighed
+for at erklære sig som særlige profilskoler og dermed tiltrække særlige vinderelever, så de andre elever kommer til nogle andre skoler,
+der udvikler sig til B-skoler; og nationalt kunne man begrænse antallet af studieretninger, så man ikke har den konkurrenceparameter.
+For jeg mener, at det er utrolig vigtigt, at vi har et alment gymnasium, der altså har en fælles standard over hele landet, og også at vi
+har gymnasier i udkanterne, så man kan få en studentereksamen, ligegyldigt hvor i landet man bor, og altså blive til gavn og glæde for
+sig selv og Danmark.";Marie Krarup
+75352;Time;"Formanden :
+Børne- og undervisningsministeren.
+
+Formanden :
+Ministeren.";Kl. 14:07
+75435;Time;;Kl. 14:09
+75491;title_name;":
+Det vil jeg kvittere for.";Christine Antorini
+75528;Time;"Formanden :
+Tak. Spørgsmålet er sluttet.
+Det næste spørgsmål er stillet til social- og integrationsministeren
+af fru Thyra Frank fra Liberal Alliance.";Kl. 14:09
+75690;Time;"Spm. nr. S 2356
+5) Til social- og integrationsministeren af:";Kl. 14:09
+75769;name_party;":
+Hvad er ministerens holdning til, at en kommune har frataget en ældre medborger hjemmehjælpen, efter at vedkommende har fået en
+robotstøvsuger i julegave?
+Formanden :
+Værsgo.";Thyra Frank
+75955;Time;;Kl. 14:09
+75973;name_party;":
+Tak. Hvad er ministerens holdning til, at en kommune har frataget
+en ældre medborger hjemmehjælpen, efter at vedkommende har fået
+en robotstøvsuger i julegave?";Thyra Frank
+76145;Time;;Kl. 14:07
+76201;title_name;":
+Jeg synes, at det er nogle meget relevante betragtninger, som spørgeren har med hensyn til bagsiden af medaljen ved selveje, for vi er bekymrede for, hvis der kommer en rå konkurrence mellem gymnasierne, hvor vi ret beset skal have nogle gode, regionale ungdomsuddannelsestilbud til de unge.
+I forlængelse af det vil jeg sige, at der ganske, ganske snart bliver
+sendt en bekendtgørelse i høring. Det er optagelsesbekendtgørelsen.
+Den udløber bl.a. af, at regeringen sammen med Enhedslisten har
+vedtaget et loft på 28 elever i klasserne, og vi synes også, det var naturligt lige at kigge på optagelsesbekendtgørelsen.
+Det, som ligger i den, er, at der vil være nogle anderledes kriterier for optagelse af elever. Det skal være objektive kriterier. Vi er";Christine Antorini
+76966;Time;"Formanden :
+Ministeren.";Kl. 14:09
+77001;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Min holdning er naturligvis, at man som borger skal have den hjælp,
+man har brug for, og det, uanset hvad man har fået i julegave, og det
+vil jeg gerne slå fast med det samme.
+Det er sådan, at en robotstøvsuger kan nogle ting, den kan støvsuge gulvet, men den kan ikke hoppe op i sofaen og tage puderne,
+den kan ikke ordne de andre ting, og når en ældre bliver visiteret til
+praktisk hjælp, er det jo tit, fordi der er mange forskellige ting, der
+skal tages hånd om, og i den forbindelse forekommer det også en
+
+14
+
+Onsdag den 29. februar 2012 (S 2356)
+
+smule mystisk, at en robotstøvsuger i sig selv kan være udgangspunktet for, at man ikke længere vurderes at have behov for hjælp.
+En robotstøvsuger kan selvfølgelig nogle ting, men den kan ikke
+alt, og i det omfang man som borger har behov for anden hjælp, skal
+man naturligvis også have mulighed for det, og det, uanset hvad man
+har fået i julegave.";Kl. 14:09
+77970;Time;"Formanden :
+Fru Thyra Frank.";Kl. 14:10
+78010;Time;;Kl. 14:10
+78028;name_party;":
+Tak. Det vil sige, at jeg kan konkludere, at ministeren er enig i, at
+den personaletid, der eventuelt kan spares, ved at man kan få nogle
+teknologiske hjælpemidler ind i et hjem, ikke skal bruges til besparelser i kommunen, men kan bruges til, at borgeren kan få lavet nogle andre ting end lige netop det at få støvsuget.
+
+der kan gøres, når man har velfærdsteknologiske løsninger til eksempelvis at tage noget af det fysiske arbejde, der ellers gav folk, der før
+påtog sig det slid, ondt i ryggen og tog tid. Når der bruges mindre tid
+på nogle opgaver, fordi man har en strygerobot, et vaske-tørre-toilet
+eller en robotstøvsuger, så er der mere tid til andre opgaver, og tid er
+også en mangelvare og vil blive det endnu mere i fremtiden.
+Som vi hørte under en lang forespørgselsdebat for ganske nylig,
+viser den demografiske udvikling i Danmark, at vi kommer til at stå
+over for en ekstrem vækst i antallet af ældre, ældre, som har behov
+for hjælp, og i den forbindelse synes jeg vi skal bruge velfærdsteknologien og betragte den som et gode. Der vil ikke være nok med
+hænder til omsorg og nærvær, men vi kommer til at skulle bruge det
+antal, vi har, og så kan vi lade robotterne tage sliddet.";Thyra Frank
+79234;Time;"Formanden :
+Fru Thyra Frank for det sidste spørgsmål.";Kl. 14:13
+79299;Time;;Kl. 14:13
+79310;Time;"Formanden :
+Social- og integrationsministeren.";Kl. 14:10
+79368;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Det er sådan, at når man bliver visiteret til noget hjælp, bliver man
+ikke visiteret til et bestemt antal minutter eller et bestemt tidsrum,
+man bliver visiteret til nogle opgaver, man ikke selv kan klare, og
+som man derfor får hjælp til. Og hvis man er visiteret til støvsugning
+og har købt sig en robotstøvsuger, kan det jo godt være, at kommunen vil sige, at der ikke længere findes et behov for, at kommunen
+kommer og støvsuger, når man selv har en robotstøvsuger stående.
+Men der kan stadig væk være mulighed for, at man skal have hjælp
+til andre ting, som robotstøvsugeren ikke kan klare, og derfor er det
+altid en konkret og individuel vurdering.
+Når det så er sagt, vil jeg gerne sige: Lige nu kigger Ankestyrelsen på to konkrete sager, fordi der har været tvivl om, hvordan retsgrundlaget har været i kommunerne, når man har anvendt robotstøvsugere og sagt til de ældre, at de skal købe sig en robotstøvsuger.
+Ankestyrelsen kigger altså lige nu på disse to sager, og jeg afventer
+og ser frem til deres resultat, som jeg ved kommer meget snart, og
+når det kommer, vil vi også få det mere tydeliggjort, hvad retstilstanden er, når det drejer om robotstøvsugere.";Kl. 14:10
+80600;Time;"Formanden :
+Fru Thyra Frank.";Kl. 14:11
+80640;Time;;Kl. 14:11
+80658;name_party;":
+Tak. Kan vi være enige om, at man jo netop skal opprioritere samvær, nærvær, omsorg og de varme hænder i ældreplejen og undgå
+den ensomhed, som vi ved der dræber ikke kun livslysten, men simpelt hen også glæden ved livet?";Thyra Frank
+80891;Time;"Formanden :
+Ministeren.";Kl. 14:12
+80926;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Jo, altså, det kan vi godt være enige om, og jeg vil sige, at heldigvis
+hjælper teknologien også til på det område. Jeg vil sige det med de
+ord, som formanden for Ældre Sagen, Bjarne Hastrup, brugte, da
+Ældrekommissionen fremlagde sin rapport: Lad robotterne klare
+sliddet, mens vi andre hygger os og drikker kaffe. Og det er jo det,";Kl. 14:12
+81331;name_party;":
+Tak. Kunne man forestille sig, at vi kom dertil, hvor vi vidste, hvor
+vigtigt det er, at netop ensomheden ikke skal være noget, som gør, at
+mange mister deres livslyst, og kunne man måske forestille sig, at
+kommunen visiterede tid, så man kunne gøre det individuelt og lade
+den enkelte få lov til selv at bestemme, hvad der præcis var vigtigt
+for vedkommende? Nogle vil gerne have vandet og ordnet blomsterne, og for nogle er det ligegyldigt med rengøring; de vil nogle helt
+andre ting. Så man kunne jo forestille sig, at det ville være meget individuelt, hvis de fik lov til at sige: I dag vil jeg bare gerne have lov
+til at drikke en kop kaffe med dig.";Thyra Frank
+81997;Time;"Formanden :
+Ministeren.";Kl. 14:14
+82032;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Jeg kan godt forstå, at den ældre, som sidder derhjemme, og som
+måske synes, at det er sparsomt med kontakt til den omgivende verden, har lyst til at få besøg og gerne vil drikke kaffe. Der kan også
+være nogle praktiske ting, der skal ordnes. Men jeg vil gerne sige, at
+når vi står over for en vækst i antallet af ældre på 225.000 – for demografien tilsiger altså, at der kommer så mange flere ældre, samtidig med at der er meget færre, der går ind på arbejdsmarkedet – så
+tror jeg, det vil være at stikke folk blår i øjnene, hvis vi siger, at vi
+nu begynder at have råd til og hænder til at give tid alene, ikke visiteret til et bestemt behov, men bare tid, man selv kan råde over. Det
+tror jeg ikke økonomien er til, og jeg tror heller ikke, det hænger
+sammen med Liberal Alliances tanker om, at der skal skæres med
+ualmindelig mange milliarder ned i velfærden. Jeg tror ikke, enderne
+kan mødes.
+Jeg er meget indstillet på at gå ad den vej, hvor vi skal sørge for,
+at der er mere livskvalitet i livet, også i de sidste år, og jeg tror, vi
+kan gøre ekstremt meget mere, hvis vi kigger på frivilligeområdet.
+Der er så mange mennesker, der gerne vil være frivillige, og som har
+et stort og brændende ønske om at være noget for andre mennesker.
+Jeg tror, at vi både i plejeboliger og i øvrigt kan gøre en stor forskel
+og give livskvalitet til mennesker, hvis vi åbner op og lader flere være frivillige.";Kl. 14:14
+83496;Time;"Formanden :
+Spørgsmålet er sluttet. Tak til social- og integrationsministeren.
+Det næste spørgsmål er til miljøministeren fra hr. Jørn Dohrmann
+fra Dansk Folkeparti.
+
+Onsdag den 29. februar 2012 (S 2352)
+
+15";Kl. 14:15
+83717;Time;"f.eks. fødevarevirksomheder og andre steder, hvor det måtte være relevant.
+
+Spm. nr. S 2352
+6) Til miljøministeren af:";Kl. 14:15
+83856;name_party;":
+Frygter ministeren ikke, at regeringens plan om installering af rottespærrer i kloakkerne ved offentlige institutioner blot vil flytte flere
+rotter andre steder hen i kloaknettet og dermed i realiteten bare flytte
+problemet et andet sted hen i stedet for at løse det?";Jørn Dohrmann
+84136;Time;"Formanden :
+Hr. Jørn Dohrmann.";Kl. 14:18
+84178;Time;;Kl. 14:15
+84198;name_party;":
+Tak for det. Jeg vil spørge ministeren: Frygter ministeren ikke, at regeringens plan om installering af rottespærrer i kloakkerne ved offentlige institutioner blot vil flytte flere rotter andre steder hen i kloaknettet og dermed i realiteten bare flytte problemet et andet sted
+hen i stedet for at løse det?";Jørn Dohrmann
+84517;Time;"Formanden :
+Miljøministeren.";Kl. 14:15
+84557;Time;"Miljøministeren (Ida Auken):
+Det korte svar er: Nej, det frygter jeg ikke. For det første kan jeg ikke se, hvad der er at frygte, hvis vi med rottespærrerne alene flytter
+problemet. Jeg vil altså hellere have problemer med rotter i kloaknettet end i vores børns børnehaver, på plejehjemmene, på vuggestuerne eller på hospitalerne. Jeg forstår det sådan, at hr. Jørn Dohrmann ikke er enig i, at vi skal gøre en ekstra indsats for at beskytte
+disse udsatte brugere, og til det må jeg bare sige, at rotterne altså er
+alvorlige smittebærere, og at det er helt afgørende, at vi gør alt, hvad
+vi kan, for at holde dem væk fra vores børn, fra de ældre og fra de
+syge.
+For det andet forholder det sig altså ikke sådan, at vi med rottespærrer blot flytter problemet et andet sted hen. Rottebestanden er jo
+ikke konstant, så når vi afskærer dem fra områder, begrænser vi sådan set deres muligheder for at finde føde og for at formere sig, og
+vi får altså færre rotter ud af det. Det er min klare opfattelse, at det er
+den bedste måde at begrænse rotternes udbredelse på, altså netop
+ved at vedligeholde og forny kloakker og stikledninger, men også
+ved at sikre de allermest udsatte borgere og holde rotterne væk fra
+nogle områder.
+Problemet er altså, at selv nye og intakte kloakrør af og til ikke
+kan modstå rotteangreb. Desuden må vi nok erkende, at alle kloakker og stikledninger ikke er i den stand, som man kunne ønske. Der
+vil altid trænge rotter ud af kloaksystemerne, hvis vi ikke gør noget
+andet end bare at renovere.
+Så på den baggrund har jeg foreslået, at der i den kommende bekendtgørelse om bekæmpelse af rotter bliver indsat en bestemmelse,
+der pålægger kommunerne at opsætte rottespærrer. Jeg har valgt, at
+kravet i første omgang skal gælde for stikledninger, der fører ind til
+skoler, til plejehjem, daginstitutioner og hospitaler, hvor vi har de
+mest udsatte brugere. Herudover har jeg valgt, at kravet skal gælde i
+forbindelse med byggemodning af arealer.
+Det er min forventning, at rottespærrerne også med stor fordel
+kan blive benyttet andre steder. Det vil således give god mening,
+hvis f.eks. fødevarevirksomheder også etablerer rottespærrer i deres
+stikledninger, og det står jo virksomhederne frit for. Jeg regner med,
+at vi med erfaringerne med rottespærrer i de kommunale institutioner vil kunne udbrede anvendelsen af rottespærrer yderligere til
+
+Formanden :
+Hr. Jørn Dohrmann.";Kl. 14:15
+86964;Time;;Kl. 14:18
+86984;name_party;":
+Jeg kan forstå på ministeren, at hun så har misforstået spørgsmålet
+på den måde, at det her jo ikke kun gælder, som Dansk Folkeparti
+ser det, om at sætte en spærre op, så rotterne ikke kan komme igennem. Dermed løser vi ikke problemet.
+Jeg tror, at ministeren er fuldstændig enig i, at det, det gælder
+om, er at udrydde rotterne; det er at se, om vi kan sætte en fælde op
+som den her Wise Trap, som er lanceret, og som jo egentlig ganske
+effektivt slår rotterne ihjel. Men det er jo ikke en spærre som sådan;
+det er en fælde. Ved at sætte en spærre op får vi ikke løst det grundlæggende problem med, at der f.eks. er huller i rørene. På den måde
+kan rotterne blive ved med at være i området, selv om der er sat en
+klap op, så de ikke kan komme igennem, for de kan finde smutvejene.
+Så der vil jeg bare spørge: Hvornår vil ministeren så løse de andre medfølgende problemer, der er omkring det at have rotter i et system? For Dansk Folkeparti vil gerne være med til at løse problemet,
+men vi kan bare ikke se, at en spærre her på den fysiske måde er det,
+der løser det grundlæggende problem, hvis det stadig væk er sådan,
+som ministeren jo er inde på, at der er føde i området og der bliver
+ved med at være ynglende par i området, fordi de ikke kan komme
+forbi et område, hvor der er en rottespærre. Hvis de derimod var blevet udryddet med den her fælde, havde man været mere inde ved
+kernen i problemet.
+Så jeg vil bare spørge ministeren: Hvordan har man tænkt sig ligesom at komme lidt videre i tankegangen om, at man også skal have renoveret kloaksystemet ude i kommunerne, i stedet for at man
+kun delvis er med til at presse på, for at systemet kommer op i et,
+hvad skal man sige, tykkere luftlag, hvor man også gør noget ved
+problemet?";Jørn Dohrmann
+88734;Time;"Formanden :
+Miljøministeren.";Kl. 14:20
+88774;Time;"Miljøministeren (Ida Auken):
+Jeg er rigtig glad for, at Dansk Folkeparti gerne vil være med til at
+finde midlerne til at sikre, at kommunerne og vandforsyningerne
+derude får renoveret kloakkerne, for det er en af de allermest effektive måder at gøre det på. Det er blevet forsømt i rigtig mange år, og
+vi ved, at der er et stort efterslæb. Så det er vigtigt, at vi herinde fra
+Folketingets side i samlet flok sikrer, at der er mulighed derude for
+at kunne finansiere også den her renovering af kloakkerne. Det er
+klart, at det er den største og vigtigste opgave.
+Dernæst har vi så lavet en rottebekæmpelsesbekendtgørelse, hvor
+vi ligesom siger, at nu skal vi starte der, hvor vi ved de allermest sårbare grupper er. Vi ved, at det er de ældre, det er de syge, det er børnene. Det er de områder, hvor de er, vi allerførst skal have spærret af
+– der må rotterne ikke komme ind. Jeg ved ikke, om ordføreren så
+nogle af de billeder, der var fra en børnehave, hvor der var spor af
+små rottefødder ude i køkkenet og børnene ikke længere kunne få
+varm mad. Jeg må sige, at når vi ser det, er vi jo alle sammen overbeviste om, at det er enormt vigtigt at få spærret de områder af, så
+rotterne slet ikke kan komme derind. Det er jo det første skridt.
+Det næste skridt er, at nogle kommuner frivilligt kan vælge at
+sætte rottespærrer op flere steder, og at virksomheder, f.eks. fødeva-
+
+16
+
+Onsdag den 29. februar 2012 (S 2353)
+
+revirksomheder, kan vælge at gøre det samme, for så begrænser man
+simpelt hen det område, hvor rotterne kan være, og det er jo også
+med til, at man får færre rotter.";Kl. 14:20
+90371;Time;"Formanden :
+Hr. Jørn Dohrmann.";Kl. 14:21
+90413;Time;;Kl. 14:21
+90433;name_party;":
+Jamen jeg synes bare ikke, at ministeren svarer på det spørgsmål, jeg
+egentlig stiller, nemlig om man ikke skal slå rotterne ihjel i stedet for
+at lukke dem inde på et bestemt område. Vi har ikke bekæmpet dem,
+vi har bare lukket dem inde, fordi vi har sat en rottespærre op. Vi har
+heller ikke lavet step 2 om egentlig at renovere kloaksystemet. Det
+er fuldstændig rigtigt, at i forhold til de der daginstitutioner, som,
+kan man sige, bliver ramt af rotter, skal man gøre noget; der skal
+man handle; der gælder det om at eliminere problemet, altså rotten,
+at få den dræbt, hvis man kan sige det sådan.
+Derfor vil jeg bare gerne have ministerens klare svar på, om det
+er korrekt, at en rottespærre løser problemet her. Det tror jeg egentlig ministeren vil give mig ret i ikke løser problemet. Vi skal lave
+flere ting, vi skal tage flere initiativer, og det er der, jeg mener at
+Dansk Folkeparti kan hjælpe ministeren lidt med at finde den her renoveringsplan, som jeg synes vi skal sætte i gang, og give nogle muligheder til kommunerne, så de også på en eller anden måde kan finansiere det her. Der synes jeg bare, at vi mangler nogle klare svar
+fra ministeren om, at det her med en rottespærre ikke er det, der løser hele problemet";Jørn Dohrmann
+91676;Time;"Formanden :
+Ministeren.";Kl. 14:22
+91711;Time;"Miljøministeren (Ida Auken):
+Jeg bliver altid glad, når Dansk Folkeparti gerne vil hjælpe ministeren, og også i det her tilfælde er jeg glad for, at vi sammen kan sikre,
+at der er finansiering derude til at få renoveret kloakkerne. For det er
+ikke step 2, det er step 1 – det er simpelt hen det vigtigste at få renoveret kloakkerne.
+Step 2 er for mig at se, at man simpelt hen kan spærre nogle områder af, så man slet ikke får rotteproblemer i de områder eller begrænser det meget ved netop at lave de her spærrer, så rotterne slet
+ikke kommer ind. Det er faktisk den allerbilligste måde gøre det på,
+og det handler jo også om at bruge pengene intelligent og få mest
+muligt ud af dem. Det er jo en af de ting, vi har gjort ved at målrette
+det til de syge, til børnene, til ældre; vi sikrer, at dem passer vi på i
+første omgang.
+Dermed er jo ikke sagt, at der aldrig mere kommer til at være en
+rotte i de danske kloaksystemer, og at vi er færdige med at løse alle
+problemer. Jeg ser da rigtig meget frem til samarbejdet med Dansk
+Folkeparti, når vi skal videre endnu fremadrettet; men en lille anerkendelse for, at der faktisk er sket et meget stort fremskridt på det
+her område med den nye bekendtgørelse, efter at der i mange år ikke
+er sket noget, ville selvfølgelig også være på sin plads.";Kl. 14:22
+93015;Time;"Formanden :
+Hr. Jørn Dohrmann.
+
+grundlæggende tror jeg også at ministeren må give mig ret i, at vi
+trænger til ligesom at få løst det problem, der ligger bag rottespærren. En ting er, at der står i en bekendtgørelse, at nu skal der sættes
+en rottespærre op i et område, men hvis det er sådan, at kommunen
+så ikke føler, at de skal løse det andet problem med, at hele kloaksystemet er gennemhullet af rotter, så tror jeg bare, at der nok skal være en snu rotte, der finder uden om spærren og så ind i de huller, der
+stadig væk eksisterer.
+Der vil jeg bare spørge ministeren: Hvordan har man tænkt sig at
+løse det her lille problem med kloaksystemet, der ikke fungerer, når
+man kun har taget initiativ til at sætte en rottespærre op, som ikke
+løser det bagvedliggende problem?";Kl. 14:23
+93801;Time;"Formanden :
+Ministeren.";Kl. 14:24
+93836;Time;"Miljøministeren (Ida Auken):
+Det får vi jo bl.a. mulighed for at diskutere ved det næste spørgsmål,
+som ligger fint i forlængelse af det her, nemlig hvordan får vi renoveret vores kloakker? Hvordan får vi sikret, at der bliver passet ordentligt på de værdier, der ligger under jorden? Vi ved, at noget af
+det, der er allervigtigst for at eliminere rotter, er at få renoveret vores
+kloaksystem, og det er altså, at vi som Folketing og som forligskreds
+kan være med til at sikre, at kommunerne har finansiering nok til at
+løse de her problemer. Så det glæder jeg mig rigtig meget til at diskutere.
+Spørgsmålet, som jeg blev stillet i dag, var, om jeg frygtede, at
+det, at vi afspærrede nogle områder, ikke bare ville betyde, at alle
+rotterne ligesom løb over i den anden ende af systemet. Det var jo
+det, jeg så svarede helt klart på, nemlig at vi synes, det er meget vigtigt at beskytte de gamle, de syge, børnene. Det er derfor, vi har prioriteret det her først. Og når man spærrer de områder af, så er der
+simpelt hen færre levesteder for rotterne, der er mindre føde, og derfor kommer der færre rotter. Det betyder ikke, at der så bare myldrer
+rotter over i de andre dele af systemerne. Man får faktisk færre rotter
+ud af at spærre nogle områder af og fjerne deres levesteder.";Kl. 14:24
+95126;Time;"Formanden :
+Spørgsmålet er sluttet.
+Det næste spørgsmål til miljøministeren er også fra hr. Jørn
+Dohrmann.";Kl. 14:25
+95244;Time;"Spm. nr. S 2353
+7) Til miljøministeren af:";Kl. 14:25
+95307;name_party;":
+Hvornår kommer regeringen med de milliarder til renovering af kloaknettet, som både SF og Socialdemokraterne lovede i valgkampen?
+Formanden :
+Hr. Jørn Dohrmann, værsgo.";Jørn Dohrmann
+95487;Time;;Kl. 14:25
+95507;name_party;":
+Hvornår kommer regeringen med de milliarder til renovering af kloaknettet, som både SF og Socialdemokraterne lovede i valgkampen?";Jørn Dohrmann
+95648;Time;;Kl. 14:25
+95659;Time;;Kl. 14:23
+95679;name_party;":
+Jamen vi anerkender gerne i Dansk Folkeparti, at vi nu har fået, hvad
+skal man sige, diskuteret problemet lidt her, men med hensyn til det
+
+Formanden :
+Miljøministeren.
+
+Onsdag den 29. februar 2012 (S 2353)";Jørn Dohrmann
+95899;Time;"Miljøministeren (Ida Auken):
+Nu har vi jo fået slået helt fast, at Dansk Folkeparti gerne vil hjælpe
+ministeren med at få renoveret kloakkerne. Derfor er jeg også utrolig
+glad for spørgsmålet i dag, for det er sådan, at vi lige præcis arbejder
+på at ændre reglerne, så det nu bliver muligt at finansiere renovering
+af kloakkerne.
+Det er bl.a. prisloftbekendtgørelsen, der skal ændres, og nu kan vi
+jo få Dansk Folkepartis tilslutning til, at vi kan det. Med den ændring fjerner vi det likviditetsproblem, som nogle vandselskaber ellers risikerede at løbe ind i om nogle år, fordi der ikke er fuld overensstemmelse mellem lånets løbetid og afskrivningerne i forhold til
+prisloftet. Når vi gør det, får alle vandselskaber mulighed for at investere i den helt nødvendige renovering og udbygning af kloaknettet.
+Jeg er helt sikker på, at den her ændring vil blive hilst velkommen af
+vandselskaberne, der, så vidt jeg er orienteret, i nogle tilfælde har
+været tilbageholdende med at investere på grund af usikkerhed om
+netop den fremtidige likviditet.
+Derudover planlægger jeg at fremsætte et lovforslag om miljøog servicemål her i foråret. Lovforslaget om miljø- og servicemål og
+den bekendtgørelse, som udarbejdes som opfølgning på lovforslaget,
+vil skabe mere klarhed om de finansieringsmæssige rammer for omkostningerne til miljø- og servicemål, f.eks. udbygning af kloakker,
+og vil dermed medvirke til at fjerne den usikkerhed, som vandselskaberne har oplevet de første år, hvor vi har haft det her prisloft.
+Regeringens initiativer vil medføre, at vandselskaberne kan hente
+de nødvendige midler til kloakforbedringer via taksterne. Dermed
+får vi bedre løsninger på klimaudfordringerne, vi får sat gang i investeringerne, og vi skaber ny vækst og flere arbejdspladser. Når vi har
+gennemført de nævnte initiativer, vil jeg vurdere, om der er behov
+for yderligere tiltag, og i den forbindelse vurdere, om der er behov
+for en alternativ finansieringsmodel.";Kl. 14:25
+97864;Time;"Formanden :
+Hr. Jørn Dohrmann.";Kl. 14:27
+97906;Time;;Kl. 14:27
+97926;name_party;":
+Jeg kan forstå på ministeren, at man ligesom ikke lige har læst
+spørgsmålet, der egentlig blev stillet her, fordi jeg spurgte om, hvor
+de milliarder, der blev lovet i valgkampen, blev af. Vi vil gerne være
+med til at kigge på, hvordan vi kan finde nogle kroner til det her projekt, der ligger, med at få renoveret systemet, men vi har altså en situation, hvor S og SF har været ude at love i valgkampen, at der
+skulle flere milliarder til for at få renoveret kloaknettet. Jeg kan så
+ligesom høre på ministeren, at det, man lovede i valgkampen, er man
+løbet fra, og nu vil man gerne finde nye måder at finde penge på, og
+det vil man gerne forhandle om. Men er det ikke lidt mærkeligt, at
+f.eks. handels- og investeringsministeren før, det var i juli måned i
+en P1-debat, lovede et par milliarder til netop kloaknettet, som man
+ville afsætte på finansloven. Der vil jeg bare spørge miljøministeren,
+om hun er enig med sin partifælle i, at det vil man så finde på finansloven, sætte ind i finansloven, sådan at man kan renovere nogle af de
+her kloakker.";Jørn Dohrmann
+98988;Time;"Formanden :
+Ministeren.";Kl. 14:28
+99023;Time;"Miljøministeren (Ida Auken):
+Der er jo kun os til at betale. Der er jo kun borgerne i Danmark til at
+betale den her regning, og om de betaler den over skattebilletten og
+
+17
+
+over finansloven, eller om de betaler den over taksterne, hvor det
+bliver målrettet og kan gøres lokalt, tror jeg sådan set spiller en mindre rolle. Det vigtige er, at vi nu får givet de midler til kommunerne
+og til vandsselskaberne til at få lavet de her investeringer, til, at de
+kan få renoveret vores kloakker, så vi ikke oplever de enorme skader, der var efter nogle af de regnskyl, vi har oplevet, så vi ikke oplever en rotteplage som den, vi talte om lige før, og så vi ikke oplever nogle meget store omkostninger for folk, hvis biler bliver oversvømmet, hvis sommerhuse bliver oversvømmet, hvis kældre bliver
+smadret, og som ikke kan komme på arbejde. Det er det vigtige,
+nemlig at vi får fundet de penge. Det er sådan set det, vi gør lige nu,
+når vi begynder at sidde og kigge på prisloftsbekendtgørelse og miljø- og servicemål. Selv om det lyder meget teknisk, er det det, der
+skal til, for at dem, der sidder med opgaven, nemlig vandselskaberne
+og kommunerne, kan løfte den.";Kl. 14:28
+100195;Time;"Formanden :
+Hr. Jørgen Dohrmann.";Kl. 14:29
+100239;Time;;Kl. 14:29
+100259;name_party;":
+Jamen jeg tror, mange private borgere sidder derude og siger: Jamen
+vi har jo betalt vores kloaknet en gang. Nogle af de folk, der sidder
+og styrer pengene – det kan være i kommunerne eller i andre selskaber – har måske brugt nogle af de penge, som borgerne føler de i
+mange år har givet i bidrag, på at etablere nye områder i stedet for at
+holde det gamle kloaknet ved lige.
+Her er det jo Dansk Folkepartis frygt, at man nu igen sender en
+ny regning til nogle af de borgere, som egentlig har betalt en gang.
+Derfor vil vi gerne spørge ministeren om noget. Før valget sagde
+man, at man ville komme med milliarder til renovering af kloaknettet, og efter valget kan vi nu høre, at det gør man ikke, men der kommer måske nye skatter og afgifter og nye gebyrer, eller hvad det nu
+er, regeringen finder på for at finde pengene til at betale for renoveringen af kloaknettet.
+Derfor har Dansk Folkeparti jo den bekymring, at ministeren ligesom ikke kommer med de her initiativer, så vi allesammen kan se,
+hvad der skal ske på det område.";Jørn Dohrmann
+101301;Time;"Formanden :
+Ministeren.";Kl. 14:31
+101336;Time;"Miljøministeren (Ida Auken):
+Jamen som sagt er der jo kun borgerne i Danmark til at betale for
+renoveringen af kloaknettet. Jeg tror også, at rigtig mange godt ved,
+at vi i mange, mange år ikke har gjort det, vi skulle, og at vi har et
+efterslæb. Sidste sommer og forrige sommer, da det regnede voldsomt, kunne man rigtig mange steder se, at vi måske nogle gange
+glemmer det, der ligger under jorden, og at det kommer til at betyde
+enormt meget for os, hvis vi ikke passer ordentligt på det. Derfor så
+vi nogle af de oversvømmelser rundtomkring. Det vil altså sige, at
+det er ekstremt vigtigt, at vi får renoveret vores kloakker, men også
+at vi tænker i intelligente løsninger. Det kan være, det rent faktisk er
+billigere at håndtere vandet på overfladen ved f.eks. at lave en sø et
+sted eller bruge vandet til at vande med i sin have eller forskellige
+andre ting i stedet for at sende det i kloakkerne til rensning, hvilket
+måske er dyrere.
+Lige nu arbejder vi på to forskellige ting, dels at sikre, at der er
+finansieringsmuligheder for dem, der sidder med opgaven derude –
+det vil sige vandselskaberne og kommunerne – dels at finde billigere
+og mere intelligente løsninger til at håndtere vandet på overfladen.
+
+18
+
+Onsdag den 29. februar 2012 (FM )";Kl. 14:31
+102602;Time;"Jeg tror egentlig ikke, Dansk Folkepartis ordfører kan være så uenig
+med mig i, at begge dele er nødvendigt.";Kl. 14:34
+102722;Time;"Meddelelser fra formanden
+Formanden :
+Hr. Jørgen Dohrmann for det sidste spørgsmål.";Kl. 14:32
+102817;Time;;Kl. 14:32
+102837;name_party;":
+Jamen vi er heller ikke uenige i, at der skal gøres noget på det område. Vi har også sagt, at vi gerne vil være med til at diskutere, hvordan vi kan skrue det sammen.
+Men det, der bare bekymrer os lidt, er, at den ene dag står man og
+lover flere milliarder kroner, og den næste dag løber man fra de løfter, man gav i valgkampen. Derfor vil vi jo gerne have mulighed for
+at spørge ministeren, om det er sådan, at de borgere, som ikke er en
+del af kloaksystemet, og som måske har deres eget nedsivningsanlæg, eller hvad ved jeg, kommer til at betale for de andre borgere,
+som skal ind i kloaksystemet. Jeg tror, at mange folk, som ikke er en
+del af det her system, tænker på, hvordan situationen ser ud for dem,
+og om der kommer en kæmpe regning. Dansk Folkepartis bekymring
+handler om, hvordan vi sikrer os, at vi får samlet alle de her skadelige stoffer – kvælstof og den slags, som vi leder ud i naturen – op. Vi
+vil gerne spørge ministeren, om man har en samlet plan for, hvordan
+det bliver finansieret.";Jørn Dohrmann
+103854;Time;"Formanden :
+Ministeren.";Kl. 14:33
+103889;Time;"Miljøministeren (Ida Auken):
+Nu er det jo ikke gratis at komme på kloaknettet. Hvis man ikke har
+været det før, skal man betale et tilslutningsbidrag, for det er ikke sådan, at man bare kan komme ind i en klub, hvor nogle andre har betalt regningen. Man får lov til også selv at betale. Det vil sige – og
+det har hele tiden været min pointe – at uanset om vi finder pengene
+på finansloven, eller om vi finder dem ved hjælp af nogle takstforhøjelser der, hvor vi bliver nødt til at løse problemerne lokalt, så er der
+kun os til at betale regningen.
+Hvis vi ikke vil betale regningen f.eks. i form af vandtakster, så
+kommer vi til at betale dem i form af højere forsikringspræmier. Jeg
+tror, der er rigtig mange, der har oplevet, at deres forsikringer er steget voldsomt. Hvis man bor i et område, der tit vil blive oversvømmet, kan man måske slet ikke få forsikret sit hus. Vi kommer til at
+betale regningen i form af oversvømmede kældre og oversvømmede
+veje, tabt arbejdsfortjeneste og al den smerte, der følger med, når ens
+ting bliver ødelagt, som vi så det sidste sommer.
+Så der er kun dig og mig til at betale, og hvis vi ikke vil betale på
+den måde, hvor man kan gøre det billigst, mest intelligent og lokalt,
+så kommer vi til at betale en meget højere regning i form af stigende
+forsikringspræmier, ødelagte ting og tabt arbejdsfortjeneste. Jeg synes, at vi i fællesskab skal gøre det på den billige, langsigtede og intelligente måde.";Kl. 14:33
+105341;Time;"Formanden :
+Spørgsmålet er sluttet, og jeg siger tak til miljøministeren.
+Hermed er spørgetiden i dag afsluttet usædvanligt tidligt.
+
+Formanden :
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, torsdag den 1. marts
+2012, kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+:
+Mødet er hævet. (Kl. 14:35).";Kl. 14:34

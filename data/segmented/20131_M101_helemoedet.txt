@@ -1,0 +1,33 @@
+split;reason;text;value
+0;;"Mandag den 25. august 2014 (D)
+
+Mødet er hævet. (Kl. 17:00).
+
+101. møde";
+108;Time;"Dagsorden
+1) Meddelelser fra formanden.
+(Fremsættelse af forslag).";kl. 17.00
+186;Time;Meddelelser fra formanden;Kl. 17:00
+246;title_name;":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden.
+(Fremsættelse af forslag).";Karen J. Klint
+367;Time;;Kl. 17:00
+401;title_name;":
+Det er i dag mandag den 25. august 2014, og i dag er der følgende
+meddelelse:
+Udenrigsministeren (Martin Lidegaard):
+Beslutningsforslag nr. B 122 (Forslag til folketingsbeslutning om
+dansk militært bidrag til støtte for indsatsen i Irak).
+Titlen på den fremsatte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Karen J. Klint
+734;Time;;Kl. 17:00
+768;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes onsdag den 27. august 2014, kl.
+09.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+
+1";Karen J. Klint

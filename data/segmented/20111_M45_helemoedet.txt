@@ -1,0 +1,1577 @@
+split;reason;text;value
+0;;"Tirsdag den 7. februar 2012 (D)
+
+45. møde";
+79;Time;"Dagsorden
+1) Spørgsmål om fremme af forespørgsel nr. F 21:
+Forespørgsel til social- og integrationsministeren om personer med
+handicap.
+Af Stine Brix (EL) m.fl.
+(Anmeldelse 02.02.2012).
+2) 2. behandling af lovforslag nr. L 38:
+Forslag til lov om tilskud til Færøernes hjemmestyre for 2012.
+Af finansministeren (Bjarne Corydon).
+(Fremsættelse 23.11.2011. 1. behandling 29.11.2011. Betænkning
+01.02.2012).
+3) 2. behandling af lovforslag nr. L 40:
+Forslag til lov om ændring af retsplejeloven. (Fordeling af opgaver
+mellem politikredsene og statsadvokaturerne m.v.).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 23.11.2011. 1. behandling 01.12.2011. Betænkning
+02.02.2012).
+4) 2. behandling af lovforslag nr. L 54:
+Forslag til lov om ændring af straffeloven. (Gennemførelse af revideret bilag til Europarådets konvention om forebyggelse af terrorisme).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 14.12.2011. 1. behandling 20.12.2011. Betænkning
+02.02.2012).
+5) 2. behandling af lovforslag nr. L 17:
+Forslag til lov om ændring af lov om valg til menighedsråd. (Udvidelse af antallet af kandidater, ændring af frist for indlevering af en
+særlig stedfortræderliste og klagefrist for valgklage til ministeren).
+Af ministeren for ligestilling og kirke (Manu Sareen).
+(Fremsættelse 16.11.2011. 1. behandling 22.11.2011. Betænkning
+01.02.2012).
+6) 2. behandling af lovforslag nr. L 43:
+Forslag til lov om ændring af lov om euforiserende stoffer. (Gruppevise forbud mod euforiserende stoffer).
+Af ministeren for sundhed og forebyggelse (Astrid Krag).
+(Fremsættelse 30.11.2011. 1. behandling 08.12.2011. Betænkning
+31.01.2012).
+7) 2. behandling af lovforslag nr. L 51:
+Forslag til lov om ændring af sundhedsloven. (Tilskud til tandbehandling til personer med medfødte sjældne sygdomme).
+
+1
+
+Af ministeren for sundhed og forebyggelse (Astrid Krag).
+(Fremsættelse 14.12.2011. 1. behandling 10.01.2012. Betænkning
+31.01.2012).
+8) 2. behandling af lovforslag nr. L 52:
+Forslag til lov om kvalitets- og sikkerhedskrav ved håndtering af
+menneskelige organer til transplantation.
+Af ministeren for sundhed og forebyggelse (Astrid Krag).
+(Fremsættelse 14.12.2011. 1. behandling 10.01.2012. Betænkning
+31.01.2012).
+9) 1. behandling af lovforslag nr. L 72:
+Forslag til lov om ændring af lov om social service. (Forhøjelse af
+ydelsesloftet for tabt arbejdsfortjeneste).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 25.01.2012).
+10) 1. behandling af lovforslag nr. L 73:
+Forslag til lov om ændring af lov om social service. (Ledsagelse til
+børn og unge mellem 12 og 15 år med nedsat funktionsevne).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 25.01.2012).
+11) 1. behandling af lovforslag nr. L 74:
+Forslag til lov om ændring af lov om friskoler og private grundskoler m.v., lov om folkehøjskoler, efterskoler, husholdningsskoler og
+håndarbejdsskoler (frie kostskoler), lov om private gymnasieskoler,
+studenterkurser og kurser til højere forberedelseseksamen (hf-kurser), lov om institutioner for almengymnasiale uddannelser og almen
+voksenuddannelse m.v. og lov om institutioner for erhvervsrettet uddannelse. (Forenkling af proceduren for godkendelse af vedtægtsændringer m.v.).
+Af børne- og undervisningsministeren (Christine Antorini).
+(Fremsættelse 25.01.2012).
+12) 1. behandling af lovforslag nr. L 75:
+Forslag til lov om ændring af lov om Arbejdsgivernes Elevrefusion.
+(Revision af årsregnskab).
+Af børne- og undervisningsministeren (Christine Antorini).
+(Fremsættelse 25.01.2012).
+13) 1. behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om valg til Folketinget. (Bedre udnyttelse af Folketingets medlemsboliger, præciseringer vedrørende
+medlemsbolig- og boliggodtgørelsesordningerne, mere fleksible regler for kørselsgodtgørelse til Folketingets medlemmer m.v.).
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 08.12.2011).
+14) 1. behandling af beslutningsforslag nr. B 35:
+Forslag til folketingsbeslutning om ændring af folketingsbeslutning
+om statsrevisorernes valg og virksomhed.
+
+2
+
+Tirsdag den 7. februar 2012 (FM )
+
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 31.01.2012).";kl. 13.00
+4404;Time;;Kl. 13:00
+4441;title_name;":
+Mødet er åbnet.
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål om fremme af forespørgsel nr. F 21:
+Forespørgsel til social- og integrationsministeren om personer
+med handicap.
+Af Stine Brix (EL) m.fl.
+(Anmeldelse 02.02.2012).";Bertel Haarder
+4681;Time;;Kl. 13:01
+4718;title_name;":
+Hvis ingen gør indsigelse mod fremme af denne forespørgsel, betragter jeg Tingets samtykke som givet.
+Det er givet.
+
+har regeringen de seneste 10 år ydet samme beløb i tilskud, selv om
+udgifterne naturligvis er steget. Selvfølgelig går det ud over velfærden på Færøerne.
+Sådan bør det ikke være, når der er tale om et fælles område.
+Man fristes til at spørge, hvorfor vi har fællesanliggender, hvis vi ikke har en rimelig fordeling af udgifterne. Nu ved jeg godt, at det var
+et republikansk landsstyre, der bad om at få tilskuddet reduceret og
+fastfrosset. Den fejl bør vi dog ikke få til at ramme et nyt landsstyre
+med en ny politik. Her er vi ude i at rokke ved selve det objektive
+grundlag for tilskuddet og fastsættelsen af dets størrelse. Efter min
+mening bør vi ikke bevæge os i den retning.
+Der findes et fælles dansk-færøsk arbejde, en betænkning fra
+1997, hvor regeringens økonomiske forpligtelser nævnes. Betænkningen nævner, at det generelle bloktilskud er knyttet til udgifter til
+fællesanliggender. I betænkningen nævnes også årsagen til, at tilskuddet kan forhøjes. Som jeg læser betænkningen, er 10 års naturlig
+udvikling inden for sundhedsvæsenet en god årsag til at forhøje tilskuddets størrelse. I den nuværende situation må man desværre konstatere, at regeringen ikke tager hensyn til, at der er sket ændringer i
+udgifterne til fællesanliggender. Regeringen ser efter min mening
+bort fra princippet om, at det generelle bloktilskud er knyttet til alle
+udgifterne til fællesanliggender.
+Spørgsmålet om tilskuddet til Færøernes hjemmestyre genoptages til efteråret. Dermed er der mulighed for at genoptage traditionen
+med respektfulde og reelle forhandlinger mellem regeringen og
+landsstyret på Færøerne.";Bertel Haarder
+6451;Time;"Det næste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 38:
+Forslag til lov om tilskud til Færøernes hjemmestyre for 2012.
+Af finansministeren (Bjarne Corydon).
+(Fremsættelse 23.11.2011. 1. behandling 29.11.2011. Betænkning
+01.02.2012).";Kl. 13:06
+6715;Time;Forhandling;Kl. 13:01
+6765;title_name;":
+Tak til ordføreren for Sambandspartiet. Hr. Finn Sørensen har bedt
+om ordet. Er det en kort bemærkning eller som ordfører? Så er der et
+spørgsmål, hvis hr. Edmund Joensen lige vil blive stående. Værsgo.";Bertel Haarder
+6979;Time;;Kl. 13:06
+6999;name_party;":
+Tak. Jeg skal bare spørge ordføreren, om ordføreren kan bekræfte, at
+det har været efter ønske fra den færøske regering, at bloktilskuddet
+har været fastfrosset gennem ca. 9 år, og at det har været begrundet i
+et ønske om en uafhængighedskurs fra Færøernes side, hvor man
+selv opfattede en fastfrysning som en, kan man sige, nænsom afvikling af de økonomiske bånd mellem Danmark og Færøerne. Det var
+det, der var begrundelse.";Finn Sørensen
+7463;title_name;":
+Ønsker nogen at udtale sig? Det gør hr. Edmund Joensen.";Bertel Haarder
+7531;Time;;Kl. 13:07
+7541;Time;"Edmund Joensen (SP):
+Lovforslag nr. L 38 bygger på en aftale mellem regeringen og landsstyret om bloktilskuddet til Færøernes hjemmestyre. Sambandspartiet stemmer derfor naturligvis for forslaget. Lad mig først kvittere
+for, at pristalsreguleringen er gennemført. Det er godt, at vi nu er
+kommet videre og har brudt med fastfrysningen af tilskuddet. Fastfrysningen udhuler jo værdien, og det er meningsløst. Samtidig sidder man med en fornemmelse af, at landsstyret ikke har fået mulighed for reelle forhandlinger med regeringen om tilskuddets generelle
+størrelse. Som jeg opfatter det, er der fra regeringens side manglende
+vilje til at imødekomme landsstyrets rimelige ønsker om en ajourføring af tilskuddets størrelse. Sådan plejer vi ikke at opleve rigsfællesskabets ånd og gode tradition. Vi plejer at kunne se hinanden i øjnene, opnå enighed og indgå kompromiser.
+Siden bloktilskuddets indførelse i 1987 har Færøerne overtaget
+en lang række sagsområder, men der er nogle såkaldte fællesanliggender tilbage, og her plejer vi at dele udgifterne rimeligt. Det undrer
+mig, at regeringen nu vil noget andet. Blandt fællesanliggenderne er
+sundhedsvæsenet en vigtig grundsøjle under velfærdssamfundet. Her";Kl. 13:02
+8784;title_name;":
+Ordføreren.";Bertel Haarder
+8807;Time;"Edmund Joensen (SP):
+Tak. Jeg kan bekræfte, at det var et flertal i det færøske landsstyre,
+som i sin tid besluttede at fastfryse bloktilskuddet. Jeg nævnte også i
+min tale, at det var det republikanske flertal i Lagtinget, som havde
+besluttet det, og det har selvfølgelig været et led i en selvstyre- eller
+løsrivelsespolitik.";Kl. 13:07
+9146;Time;;Kl. 13:08
+9183;title_name;":
+Hr. Finn Sørensen.";Bertel Haarder
+9213;Time;;Kl. 13:08
+9233;name_party;":
+Så vil jeg bare spørge, om den udmelding, som ordføreren kommer
+med nu, og som også står i betænkningen, er et udtryk for, at Færøerne har, om man så må sige, opgivet den uafhængighedskurs?
+
+Tirsdag den 7. februar 2012 (L 38)";Finn Sørensen
+9472;Time;;Kl. 13:08
+9509;title_name;":
+Ordføreren.";Bertel Haarder
+9532;Time;"Edmund Joensen (SP):
+Jeg kan bare sige, at sammensætningen af partierne er stort set den
+samme på Færøerne. Der er skiftende regeringer, og det har været
+sådan siden hjemmestyrets indførelse, at der har været nogle landsstyrer, som har overtaget sagsområdet. Og det sidste, som jeg nævnte, var, at det republikansk sindede landsstyre, som er sammensat af
+flere partier, havde et ønske om løsrivelse, som ikke blev til noget.
+Men hvis jeg skal sige min egen mening, er det således, at vi har stabiliseret de politiske forhold bedre nu, så for øjeblikket er situationen stabil på Færøerne.";Kl. 13:08
+10131;Time;;Kl. 13:09
+10168;title_name;":
+Tak til ordføreren for Sambandspartiet. Så er det hr. Finn Sørensen
+som ordfører for Enhedslisten. Værsgo.";Bertel Haarder
+10286;Time;(Ordfører);Kl. 13:09
+10317;name_party;":
+Tak. Som det fremgår af betænkningen, støtter Enhedslisten det her
+lovforslag, og så var der jo egentlig ikke nogen grund til at sige noget, men jeg må ærligt tilstå, at med de bemærkninger, som kommer
+fra Sambandspartiet, synes jeg gerne, jeg lige vil begrunde, på hvilket grundlag Enhedslisten støtter det her forslag. Forslaget går jo ud
+på – hvis jeg skal sige det lidt populært – en dyrtidsregulering af tilskuddet til Færøerne, og det synes vi er en rimelig ting. Selv om Færøerne i mange år har haft en anden kurs på det her område, synes vi
+ikke, man kan argumentere imod, at der kommer en dyrtidsregulering af tilskuddet.
+Men når jeg gerne vil kommentere det, er det på grund af de
+kradse bemærkninger, der er kommet, og som ganske vist er en kritik af regeringen, der åbenbart ikke har vist forhandlingsvilje osv.,
+men som jo så også rammer os som medforslagsstillere, kan man sige. Og der vil jeg bare sige, at når vi ikke synes, der er nogen grund
+til overhovedet at gå videre i forhold til et tilskud eller på nogen måde imødekomme de, synes vi, ret drastiske krav, som Færøerne kom
+med indledningsvis, så er det jo, fordi vi også skeler til, hvad pengene i givet fald skal bruges til. Og jeg siger ikke det her for at blande
+mig i færøsk indenrigspolitik på nogen måde, det er jo Færøernes afgørelse, hvordan man forvalter sin skattepolitik, men det er svært at
+opfatte ansøgningen om en drastisk forhøjelse af tilskuddet som andet end noget, der er forårsaget af beslutninger i den færøske regering om, at man skal give voldsomme skattelettelser til de rigeste
+igennem en ny skattereform. Det er en reform, som sådan populært
+kaldes flad skat, og som, sådan som jeg er oplyst – men det kan jo så
+blive afkræftet – betyder, at de bedst stillede i Færøerne opnår skattelettelser på mellem 5.000 og 7.000 kr. om måneden. Det fremgår i
+øvrigt også af nogle bilag, vi har fået tilsendt. Så jeg vil da sige, at vi
+under alle omstændigheder dér havde en god begrundelse for ikke at
+gå videre, end regeringen gør nu. Det var bare lige for at få den bemærkning med. Tak for ordet.";Finn Sørensen
+12415;Time;;Kl. 13:11
+12452;title_name;":
+Tak til ordføreren for Enhedslisten. Så er det hr. Sjúrður Skaale, der
+taler for Javnaðarflokkurin – jeg håber, at jeg udtaler det rigtigt.
+
+3";Bertel Haarder
+12607;Time;(Ordfører);Kl. 13:12
+12639;name_party;":
+Det er svært at udtale, det forstår jeg godt. (Munterhed). Men selvfølgelig diskuterer man ikke med formanden.
+Som det er formanden bekendt, har den her sag jo været behandlet før under førstebehandlingen, og den har også været behandlet
+under finanslovforhandlingerne. Nu er der så anden behandling af
+selve lovforslaget med en lille ændring, nemlig at beløbet bliver forhøjet fra 615 mio. kr. til 624 mio. kr. Jeg skal lige sige kort om det
+her, at mit parti er imod den forhøjelse, der foreligger. Man sagde
+før valget, at man støttede den linje, som der havde været før, med at
+blokstøtten blev fastfrosset nominelt på 615 mio. kr. Det er der mange grunde til, men én grund er, at når der er et tillidsgode fra Danmark til Færøerne, som går op og ned, bliver det jo en vare, som kan
+sælges på Færøerne. Der opstår et fokus, som jeg synes er forkert,
+med, at der er nogle, der kan sige: Stem på os, så får I danske penge,
+stem på dem, så mister I de danske penge. Det giver et forkert fokus
+i politikken og i økonomien. I stedet for at fokusere på, hvad man
+selv kan klare, fokuserer man på, hvordan man kan få mest ud af
+Danmark, og det synes jeg er skadeligt.
+Jeg synes, at det er bedre, at man i fællesskab mellem Danmark
+og Færøerne fokuserer på de udviklingsmuligheder, der er, altså
+hvordan Færøerne kan få større rettigheder, hvordan Færøerne kan
+arbejde sig frem imod at have en økonomi, som er selvstændig, og
+som kan stå på sine egne ben. Målet – synes jeg – må være, at man
+når frem til en situation, hvor der ikke er nogen direkte overførsler.
+Der er selvfølgelig dem, der siger, at der ikke er noget problem i det
+her, fordi samlet set er Færøerne ikke nogen udgift for Danmark,
+samlet set er Færøerne langt mere værd end 624 mio. kr. for Danmark. Vi importerer alle vores varer gennem Danmark, og vi eksporterer vores varer ud gennem Danmark, og Færøerne gør selvfølgelig
+det danske kongerige større, mere farverigt og mere komplekst. Det
+giver også Danmark en given politisk betydning, som det ikke ville
+have haft ellers osv. osv. Det er selvfølgelig fuldstændig korrekt. Det
+er bare et forkert fokus. Jo mere der fokuseres på, hvem der tjener på
+hvem, og jo mere der fokuseres på de her overførsler, på pengeforbindelsen mellem Danmark og Færøerne, jo svagere bliver essensen
+i rigsfællesskabet, synes jeg.
+Når der fokuseres så meget på de her overførsler, hvad vil der så
+ske, hvis man f.eks. finder olie ved Færøerne? Der skal jo bores igen
+senere i år. Er der så ikke noget at være fælles om? Den tanke kan
+man næsten få, når man hører nogle kræfter tale om, at det kun
+drejer sig om det her, de her overførsler. Der fokuseres så meget på
+det, at andet glider i baggrunden. Jeg synes, at målet må være, at Færøerne bliver så selvstændige som muligt både politisk, økonomisk
+og administrativt, og at man samarbejder med Danmark på det
+grundlag. Det synes jeg giver langt det sundeste fællesskab.
+Nu er der så med den her ændring åbnet for, at der igen kommer
+meget fokus på overførslerne. Nu er der kommet 8,6 mio. kr. oveni.
+Det er et meget lille beløb, et mikroskopisk beløb på den danske finanslov, også et meget lille beløb på den færøske finanslov, men
+princippet er der, og man har bebudet nu fra færøsk side, at man vil
+forsøge igen i år at få forhøjet bloktilskuddet drastisk. Det vil sige, at
+nu har vi igen det der fokus: Stem på dem, som ønsker flere penge
+fra Danmark, og stem på de andre, så mister I pengene. Det synes
+jeg er et uheldigt fokus for et politisk system.
+Selv om jeg synes, at det er en uheldig udvikling, en uheldig drejning, vi nu tager i fællesskabet mellem Danmark og Færøerne, vil
+jeg alligevel støtte forslaget. Mit parti sagde også før folketingsvalget, at vi ikke vil stemme imod en aftale, som det færøske landsstyre
+indgår. Det har jeg ikke mandat til. Jeg respekterer det færøske flertal. Man kan jo i teorien, i princippet forestille sig, at hvis der ikke
+var enighed om det her i Folketinget, kunne jeg med min stemme an-
+
+4
+
+Tirsdag den 7. februar 2012 (L 40)
+
+nullere en aftale, som det færøske landsstyre havde indgået. Selv om
+det er en teoretisk mulighed, mener jeg ikke, at det er noget, som jeg
+har politisk mandat til at gøre. Jeg vil selvfølgelig ikke underminere
+det mandat, som det færøske parlamentariske system har, og derfor
+vil jeg på det grundlag støtte det her forslag. Tak for det.";Sjúrður Skaale
+17013;Time;;Kl. 13:17
+17050;title_name;":
+Tak til Sjúrður Skaale. Ønsker flere at udtale sig?
+Det er ikke tilfældet, og vi går til afstemning.
+
+Det næste punkt på dagsordenen er:
+4) 2. behandling af lovforslag nr. L 54:
+Forslag til lov om ændring af straffeloven. (Gennemførelse af revideret bilag til Europarådets konvention om forebyggelse af
+terrorisme).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 14.12.2011. 1. behandling 20.12.2011. Betænkning
+02.02.2012).";Bertel Haarder
+17492;Time;;Kl. 13:17
+17503;Time;"Forhandling
+Afstemning";Kl. 13:17
+17563;title_name;":
+Ønskes der afstemning om ændringsforslag nr. 1 og 2, tiltrådt af udvalget?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+3) 2. behandling af lovforslag nr. L 40:
+Forslag til lov om ændring af retsplejeloven. (Fordeling af opgaver mellem politikredsene og statsadvokaturerne m.v.).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 23.11.2011. 1. behandling 01.12.2011. Betænkning
+02.02.2012).";Bertel Haarder
+18177;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+5) 2. behandling af lovforslag nr. L 17:
+Forslag til lov om ændring af lov om valg til menighedsråd. (Udvidelse af antallet af kandidater, ændring af frist for indlevering
+af en særlig stedfortræderliste og klagefrist for valgklage til ministeren).
+Af ministeren for ligestilling og kirke (Manu Sareen).
+(Fremsættelse 16.11.2011. 1. behandling 22.11.2011. Betænkning
+01.02.2012).";Bertel Haarder
+18896;Time;;Kl. 13:17
+18907;Time;"Forhandling
+
+Forhandling";Kl. 13:18
+18970;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.";Bertel Haarder
+19125;title_name;":
+Ønsker nogen at udtale sig? Det gør fru Karen Klint som ordfører for
+Socialdemokraterne, værsgo.
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+(Ordfører)";Bertel Haarder
+19429;name_party;":
+Tak. Det er nu ikke alene som ordfører for Socialdemokraterne, men
+faktisk også som formand for Kirkeudvalget, at jeg har brug for at
+tage ordet og sige tak til alle partierne for en tilgang til lovforslaget,
+der har været meget konstruktiv, nemlig L 17, som er forslag til lov
+om ændring af lov om valg til menighedsråd. I den forbindelse fik vi
+os også en snak om antallet af sogne, antallet af menighedsråd og
+antallet af kirker, og her opstod der det ønske, når vi nu var i et år,
+hvor der skal være valg til menighedsrådene, om at se på, om vi ikke
+også skulle vise de menighedsråd, der gerne vil slå sig sammen til ét
+sogn, men hvor der inden for samme sogn er to kirker, den venlighed, at de så også får adgang til at kunne bevare det, at der f.eks. er
+to kirkeværger, når der nu er to kirker. Det tror vi kunne være en
+hjælp i forhold til demokratiet og i forhold til den modernisering, der
+foregår i sognene.
+Så er vi rigtig glade for, at det samarbejde, vi har haft i udvalget,
+også har udmøntet sig i, at kirkeministeren har stillet et ændringsforslag, og til det er der fuld opbakning fra det samlede Kirkeudvalg.";Karen J. Klint
+20567;Time;Tirsdag den 7. februar 2012 (L 43);Kl. 13:18
+20615;Time;;Kl. 13:19
+20652;title_name;":
+Tak til formanden for Kirkeudvalget.
+Ønsker flere at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.
+
+5
+
+Da det ikke er tilfældet, er forhandlingen afsluttet, og vi går til afstemning.";Bertel Haarder
+20890;Time;"Afstemning
+
+Afstemning";Kl. 13:21
+20951;title_name;":
+Ønskes der afstemning om ændringsforslag nr. 1, tiltrådt af udvalget?
+Det er vedtaget.";Bertel Haarder
+21076;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1 og 2, tiltrådt af et flertal (udvalget med undtagelse af EL)?
+De er vedtaget.
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Bertel Haarder
+21382;Time;"Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+6) 2. behandling af lovforslag nr. L 43:
+Forslag til lov om ændring af lov om euforiserende stoffer.
+(Gruppevise forbud mod euforiserende stoffer).
+Af ministeren for sundhed og forebyggelse (Astrid Krag).
+(Fremsættelse 30.11.2011. 1. behandling 08.12.2011. Betænkning
+31.01.2012).";Kl. 13:20
+21882;Time;"Det næste punkt på dagsordenen er:
+8) 2. behandling af lovforslag nr. L 52:
+Forslag til lov om kvalitets- og sikkerhedskrav ved håndtering af
+menneskelige organer til transplantation.
+Af ministeren for sundhed og forebyggelse (Astrid Krag).
+(Fremsættelse 14.12.2011. 1. behandling 10.01.2012. Betænkning
+31.01.2012).";Kl. 13:20
+22210;Time;Forhandling;Kl. 13:21
+22259;title_name;":
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen slut.
+
+Forhandling
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Bertel Haarder
+22559;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+7) 2. behandling af lovforslag nr. L 51:
+Forslag til lov om ændring af sundhedsloven. (Tilskud til tandbehandling til personer med medfødte sjældne sygdomme).
+Af ministeren for sundhed og forebyggelse (Astrid Krag).
+(Fremsættelse 14.12.2011. 1. behandling 10.01.2012. Betænkning
+31.01.2012).";Bertel Haarder
+23187;Time;"Det næste punkt på dagsordenen er:
+9) 1. behandling af lovforslag nr. L 72:
+Forslag til lov om ændring af lov om social service. (Forhøjelse
+af ydelsesloftet for tabt arbejdsfortjeneste).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 25.01.2012).";Kl. 13:20
+23468;Time;Forhandling;Kl. 13:21
+23517;title_name;":
+Forhandlingen er åbnet. Jeg giver ordet til hr. Hans Andersen som
+ordfører for Venstre.";Bertel Haarder
+23616;Time;Forhandling;Kl. 13:22
+23665;title_name;":
+Ønsker nogen at udtale sig?
+
+(Ordfører)";Bertel Haarder
+23724;name_party;":
+I Venstre mener vi, at familier, der har børn med handicap eller langvarig alvorlig sygdom, skal kunne have mulighed for, at en af foræl-
+
+6
+
+Tirsdag den 7. februar 2012 (L 72)
+
+drene kan vælge at forlade arbejdsmarkedet og i stedet passe barnet i
+deres eget hjem. Derfor er det vigtigt, at familien sikres en rimelig
+økonomisk kompensation for tabt arbejdsfortjeneste. Vi ved, at familielivet med børn, der har en fysisk eller psykisk funktionsnedsættelse, kan være udfordrende, og at både søskende, forældre og barnet
+selv kan opleve, at det daglige liv bliver besværligt.
+L 72 er et lovforslag om at forhøje ydelsesloftet for tabt arbejdsfortjeneste, og lovforslaget er en del af satspuljeaftalen for 2012
+mellem regeringen, Det Konservative Folkeparti, Liberal Alliance,
+Dansk Folkeparti og Venstre. Med forslaget ønskes en ændring af
+loven om social service, § 42, stk. 3, så ydelsesloftet ændres fra de
+nuværende 19.613 kr. til 27.500 kr. pr. måned.
+Formålet med lovforslaget er at sikre familier, der har børn med
+nedsat funktionsevne eller kroniske og langvarige lidelser, bedre
+økonomiske vilkår. Med lovforslaget gives der således mulighed for,
+at forældre kan passe deres barn eller børn i eget hjem, samtidig med
+at de får en rimelig kompensation for tabt arbejdsfortjeneste. Forslaget indebærer ingen ændringer i forhold til, hvilke betingelser der
+skal være opfyldt, for at forældre kan godkendes til tabt arbejdsfortjeneste. Desuden er det en betingelse for at være omfattet af loven,
+at det er nødvendigt, at barnet passes i hjemmet, og at det er mest
+hensigtsmæssigt, at det er moderen eller faderen, der passer barnet.
+I 2010 var der 18.615 borgere, der i løbet af året modtog hjælp til
+dækning af tabt arbejdsfortjeneste. Hvis ydelsesloftet for tabt arbejdsfortjeneste forhøjes til 27.500 kr. om måneden, skønnes det, at
+6.800 af de i alt 18.615 modtagere af tabt arbejdsfortjeneste berøres
+af ydelsesloftet.
+Afsluttende vil jeg blot opsummere, at Venstre er tilfredse med at
+kunne give tabt arbejdsfortjeneste til de berørte familier på et fornuftigt økonomisk niveau, og derfor støtter vi lovforslaget. Og så skal
+jeg på vegne af Det Konservative Folkeparti, som ikke kan være til
+stede her i salen i dag, meddele, at de også støtter dette lovforslag.";Hans Andersen
+26009;Time;;Kl. 13:24
+26046;title_name;":
+Tak til ordføreren. Så er det fru Maja Panduro som ordfører for Socialdemokraterne.";Bertel Haarder
+26141;Time;(Ordfører);Kl. 13:25
+26170;name_party;":
+Det at have et barn, som har et alvorligt handicap, eller som lider af
+en meget alvorlig sygdom, tror jeg kun vi, der ikke selv har prøvet
+det, kan forsøge at forstå, forsøge at sætte os ind, altså hvor alvorligt
+det må være, og hvor forandrende det også må være for et liv, hvis et
+barn i familien pludselig bliver syg. Vi var så mange, der kæmpede
+så hårdt og tilbragte 18 timer i salen i alt, dengang den tidligere regering sammen med Dansk Folkeparti vedtog deres genopretningspakke, som de kaldte den. Det var meget frustrerende, for det at lave et
+loft på 20.000 kr. i kompensation for tabt arbejdsfortjeneste var en
+del af den genopretningspakke. Derfor er jeg så glad for, at det er
+lykkedes ved satspuljeforhandlingerne at blive enige – endda bredt i
+Folketinget – om, at vi nu hæver det her loft til 27.500 kr. Det er et
+markant løft. Man kan selvfølgelig altid diskutere, om loftet skulle
+være højere, men det her kommer til at gøre en meget stor forskel i
+nogle meget udsatte familiers liv. Derfor er det en god dag at være
+socialdemokratisk socialordfører på og kunne stå heroppe og konstatere det. Teknikken har den tidligere ordfører redegjort meget nøje
+for, så det vil jeg ikke gå yderligere ind i, men vil bare med et smil
+på læben sige, at Socialdemokraterne selvfølgelig kan støtte det her
+lovforslag.";Maja Panduro
+27504;Time;;Kl. 13:27
+27541;title_name;":
+Tak til ordføreren. Så er det ordføreren for Dansk Folkeparti, fru Karin Nødgaard.";Bertel Haarder
+27635;Time;(Ordfører);Kl. 13:27
+27667;name_party;":
+Der er ikke tvivl om, at familier, som oplever den sorg, det er at have et alvorligt sygt barn, er meget hårdt ramt. Det gælder hele familien, hvis hverdag er påvirket af det, uanset om det er sygdom af kortere eller længere varighed. De følelsesmæssige omkostninger kan
+være meget store, og når der så er en økonomisk omkostning og bekymring, kan livet blive svært, og fokus kan flyttes fra det primære,
+som må dreje sig om den nære og basale pleje af ens barn.
+I tidens løb har der været drøftelser om finansiering af tabt arbejdsfortjeneste for disse forældre, og det er vigtigt her at slå fast, at
+drøftelserne ikke har drejet sig om for eller imod, at der skal findes
+en økonomisk kompensation. Det har der været enighed om. Drøftelserne har primært drejet sig om, hvor disse midler skal findes. Når
+Dansk Folkeparti under hele forhandlingsforløbet har været meget
+optaget af, at midlerne ikke tages fra satspuljen, skyldes det, at denne puljes formål er at forbedre vilkårene for modtagere af overførselsindkomster og svage grupper. Den oprindelige hensigt med satspuljen var også, at midlerne skulle gå til eksperimenter og udviklingsprojekter på det sociale område. Tabt arbejdsfortjeneste kan
+næppe omfattes af dette. Tabt arbejdsfortjeneste er af blivende karakter, og derfor er det Dansk Folkepartis opfattelse, at midlerne dertil skal findes på finansloven. Man må heller ikke glemme, at denne
+kompensation beløber sig til næsten ½ mia. kr. over de kommende 4
+år, hvilket må siges at være en meget stor del af den samlede satspulje. Derfor er det også ærgerligt, at regeringen ikke fandt midlerne på
+den samlede finanslov, så de ikke længere skulle tages fra den pulje,
+som kun finansieres af penge fra pensioner og andre overførselsindkomster.
+Det er også på sin plads at nævne, at en stor del af de familier,
+som kan få del i puljen for tabt arbejdsfortjeneste, ikke er omfattet af
+den gruppe, som betaler til satspuljen, så det forstærker jo også vores
+ønske om, at midlerne skulle have været fundet på den samlede finanslov. Dette var ikke muligt, og derfor accepterede vi i Dansk Folkeparti, at det finansieres over satspuljen. Men det er absolut ikke
+noget, vi er tilhængere af, og vi beklager, at det ikke var muligt at få
+finansministeren med til at finde midlerne på den generelle finanslov. Men vi ønsker heller ikke at tage disse ramte familier som gidsler, og derfor bakker vi selvfølgelig op om lovforslaget.
+Så er der selvfølgelig spørgsmålet om beløbsstørrelsen. Den har
+jo været diskuteret meget, og vi har også tidligere hørt den nævnt af
+de andre ordførere. Dansk Folkeparti har ikke noget imod, at vi hæver loftet, som det sker med det her lovforslag. Men for os er det altid vigtigt, at finansieringen begrundes, og at midlerne findes – og
+helst findes der, hvor man mener det er mest oplagt at finde dem. Og
+det er som sagt på den samlede finanslov.
+Afslutningsvis vil jeg gerne slå fast, at Dansk Folkeparti som ansvarligt parti vælger at være en del af satspuljekredsen, da vi finder,
+at der er mange svage og udsatte i vores samfund, der skal tilgodeses. Men de steder, hvor der er flertal for at afskaffe satspuljen og i
+stedet hjælpe de mennesker, der har behov for hjælp, via den samlede finanslov, ville det klart være at foretrække. Og så ville det også
+være sådan, at vi alle via vores skat ville bidrage i en størrelsesorden, som kunne blive fastsat ud fra vores indkomsts størrelse. Desværre er der ikke flertal for det i det nuværende Folketing, men måske kan der ske ændringer fremover, når man når til en erkendelse
+af, at der bliver færre midler tilbage til de formål, satspuljen oprinde-
+
+Tirsdag den 7. februar 2012 (L 72)
+
+lig var tiltænkt, nemlig eksperimenter og udviklingsprojekter på det
+sociale område.";Karin Nødgaard
+31438;Time;;Kl. 13:30
+31475;title_name;":
+Der er en kort bemærkning, så ordføreren bedes lige blive stående.
+Fru Stine Brix fra Enhedslisten.";Bertel Haarder
+31586;Time;;Kl. 13:31
+31603;name_party;":
+Jeg vil blot spørge ordføreren, om det ikke er korrekt, at det er
+Dansk Folkeparti, der har været med til at bringe de her familier i
+den her meget ulykkelige situation, da Dansk Folkeparti var med til
+at indføre loftet i første omgang i forbindelse med genopretningspakken.";Stine Brix
+31889;Time;;Kl. 13:31
+31926;title_name;":
+Ordføreren.";Bertel Haarder
+31949;Time;;Kl. 13:31
+31970;name_party;":
+Jeg forstår slet ikke spørgsmålet. At bringe disse familier i den her
+situation, blev der sagt, men vi som politikere er altså ikke i en position, hvor vi kan afgøre, om familier bliver ramt af en ulykkelig sygdom, eller hvad det er, der foregår. Jeg tror godt, jeg ved, hvad ordføreren mener; det er i forhold til beløbsstørrelsen.
+Det, der skete, var, at Dansk Folkeparti tog ansvar. Vi var med til
+at lave en genopretning af dansk økonomi, og ud fra det måtte man
+så se, hvilke penge der var til rådighed, og der gik man så ind og
+kiggede på, hvad der kunne være en rimelig kompensation. Det var
+simpelt hen det, vi gjorde.";Karin Nødgaard
+32608;Time;;Kl. 13:31
+32645;title_name;":
+Spørgeren.";Bertel Haarder
+32667;Time;;Kl. 13:31
+32684;name_party;":
+Jamen det er jo i den grad at bringe nogle familier i en ulykkelig situation. Ordføreren har jo fuldstændig ret i, at det ikke er Dansk Folkepartis skyld, at deres børn er blevet ramt af en alvorlig sygdom eller af et handicap, men når man så oveni påfører familierne en meget
+vanskelig økonomi, bliver situationen jo ekstra ulykkelig.
+Nu står vi så i en situation, hvor vi må rette op på skaden, og som
+ordføreren også selv fremfører, bliver vi nødt til at kigge på satspuljen for at kunne gøre det. Men hvis Dansk Folkeparti slet ikke havde
+været med i første omgang til at indføre et loft med genopretningspakken, jamen så havde vi jo ikke skullet stå her og diskutere, om
+det er satspuljen, der skal finansiere sådan en kompensation for tabt
+arbejdsfortjeneste.";Stine Brix
+33461;Time;;Kl. 13:32
+33498;title_name;":
+Ordføreren.";Bertel Haarder
+33521;Time;;Kl. 13:32
+33542;name_party;":
+Fru Stine Brix siger, at vi må rette op på skaden. Så vidt jeg ved, er
+Enhedslisten ikke en del af satspuljekredsen, så derfor kan jeg ikke
+forstå, hvorfor man bruger udtrykket vi.
+Dansk Folkeparti har hele vejen igennem taget ansvar. Vi vil have, at hver en krone, der bliver brugt i det her samfund, finansieres,
+og det er det, vi har taget ansvar for gennem hele det forløb, hvor vi
+har været støtteparti. Vi er en del af satspuljekredsen, og vi gør modsat Enhedslisten det, at vi også tager ansvar her. Og vi går ikke ind
+
+7
+
+nu og siger, at vi ikke vil bakke op om det her. Dansk Folkeparti har
+en overbevisning om, at det er vigtigt at være med til at kigge på,
+hvordan vi kan hjælpe de socialt udsatte i vores samfund, og så længe vi har satspuljen og der ikke er et flertal for at afskaffe den, så
+tager Dansk Folkeparti det ansvar.";Karin Nødgaard
+34394;Time;;Kl. 13:33
+34431;title_name;":
+Tak til ordføreren. Så giver jeg ordet til fru Marlene Borst Hansen
+som ordfører for Det Radikale Venstre.";Bertel Haarder
+34549;Time;"(Ordfører)
+Marlene Borst Hansen (RV):
+Som de tidligere ordførere også har sagt, er det her et af de lovforslag, som det ligefrem er en glæde at stå her på talerstolen og udtale
+sig om. Det er nemlig et smaddergodt forslag, som sikrer en markant
+forbedring af de økonomiske vilkår for forældre, der vælger eller bliver nødsaget til at passe og pleje deres syge eller funktionsnedsatte
+barn og derfor ikke kan være på arbejdsmarkedet.
+Alle de familier, som det her lovforslag vedrører, står i forvejen i
+en meget ulykkelig situation, for det er jo enhver forældres største
+angst, at ens barn er eller bliver sygt. I den situation vil man gøre alt
+for sit barn, uanset økonomien, og for mange forældre er det, at den
+ene af forældrene vælger at blive hos barnet og være hos barnet, i
+stedet for at barnet ligger på sygehuset eller på en institution.
+I den situation er det altså fællesskabets forpligtelse at hjælpe de
+pågældende familier, og det er der heldigvis stor og bred enighed om
+her i Folketinget. Derfor hæver vi med dette lovforslag ydelsesloftet
+– altså, det maksimale loft, der er for tabt arbejdsfortjeneste – med
+næsten 8.000 kr. om måneden. Det vil betyde, at mange familier ikke bliver nødt til at sælge hus eller bil eller lægge deres liv markant
+om på grund af økonomiske omstændigheder; der er så rigelig af andre omstændigheder, som gør, at man må lægge livet om. Derfor er
+det som sagt med stor glæde, at jeg står her i dag. Det Radikale Venstre støtter lovforslaget.";Kl. 13:33
+36047;Time;;Kl. 13:35
+36084;title_name;":
+Tak til ordføreren. Så går vi videre til den næste, som er fru Annette
+Vilhelmsen fra Socialistisk Folkeparti.";Bertel Haarder
+36206;Time;(Ordfører);Kl. 13:35
+36242;name_party;":
+Som de tidligere ordførere har givet udtryk for, er vi også i SF meget
+glade for, at vi i enighed kan bringe det her forslag frem. Det, der er
+rigtig betydningsfuldt for os, er, at vi nu giver forældre mulighed for,
+at kommer de i den meget ulykkelige situation, at deres barn får en
+funktionsnedsættelse eller en alvorlig sygdom, har man nu muligheden for, at man kan vælge, om man vil blive hjemme og passe sit
+barn, hvis man skønner, at det er det, der tjener barnet og familien
+bedst. Det, der sker, når et barn bliver ramt af alvorlig sygdom, er jo,
+at det sådan set ikke kun er barnet, der bliver ramt, det er jo hele familien, og det vil sige, at en mor og far jo ikke bare én dag skal overveje, hvem der skal blive hjemme og passe barnet. Det er simpelt
+hen en livssituation, både for forældre og for andre søskende, og den
+er vi sådan set også ansvarlig for at give rammer til at kunne tage
+hånd om.
+Med den tidligere regering er vi jo altså også nødt til at sige, at
+der valgte man med genopretningspakken at forringe forholdene for
+den her gruppe af forældre, og det betød jo desværre, at forældre ikke var helt så frit stillet i forhold til, om de kunne blive hjemme og
+passe barnet, fordi deres månedlige ydelse simpelt hen blev så lav, at
+de ikke kunne holde til det økonomisk.
+
+8
+
+Tirsdag den 7. februar 2012 (L 72)
+
+Den her kritik er der jo sådan set også – det kan vi også høre nu –
+bred enighed om at man vil rette op på. Der er også forskellige forslag til, hvordan man egentlig kunne have gjort det, men her hvor vi
+står i dag, er det positivt, at vi i fællesskab også kan sige, at vi har
+lyttet til kritikken af nedskæringerne, sådan som den er udtrykt fra
+handicaporganisationerne, og i SF er vi særlig glade for, at vi kan
+komme kritikken i møde efter at have lyttet til handicaporganisationerne og andre interesseorganisationer, og at vi nu hæver loftet for
+kompensationen til 27.500 kr. om måneden. Mange flere familier vil
+blive sikret økonomisk, og vi ved godt, at i en svær situation er det
+selvfølgelig ikke økonomien, der står højest på dagsordenen, men
+den kan være med til at lægge en vigtig ramme for, at både barn og
+forældre og familie kan komme sig.
+Vi ved også, at der ikke er tale om fuld genopretning, og det er jo
+også det, der gør, at vi i fællesskab nu kan sige til hinanden, at vi
+forsøger at lægge en ansvarlig økonomisk politik på det her område,
+og det her var så langt, vi kunne nå, og derfor tilslutter vi os lovforslaget.";Annette Vilhelmsen
+38725;Time;"tingets side har et ansvar for, at de forældre og deres børn, som i forvejen slås med så store problemer og så meget andet i form af alvorlig og livstruende sygdom eller handicap, ikke også skal slås med de
+offentlige myndigheder. Det skal ikke være de alvorligt syge børn
+eller de børn, der har et handicap, som skal betale prisen for, at Danmark har et økonomisk problem.
+Husk på, at en af de væsentligste årsager til, at vi mangler penge i
+statskassen, er, at den foregående regering gav meget store skattelettelser især til de danskere, som i forvejen har mest. Derfor mener
+jeg, at det, der burde være løsningen på de her problemer, er, at man
+annullerer de skattelettelser, som blev givet til de højeste indkomster, så vi som samfund f.eks. har råd til, at de familier, som bliver
+ramt af de her ulykkelige omstændigheder, ikke også skal slås med
+en alvorlig økonomisk situation. Det er jo netop det, som er essensen
+i et solidarisk velfærdssamfund. Tak for ordet.";Kl. 13:38
+39707;Time;;Kl. 13:41
+39744;title_name;":
+Der er en kort bemærkning fra fru Karin Nødgaard.";Bertel Haarder
+39805;Time;;Kl. 13:41
+39842;title_name;":
+Tak til ordføreren. Så giver jeg ordet til fru Stine Brix som ordfører
+for Enhedslisten.";Bertel Haarder
+39942;Time;(Ordfører);Kl. 13:38
+39970;name_party;":
+Da den tidligere regering med Dansk Folkeparti satte et loft over tabt
+arbejdsfortjeneste til de forældre, hvis børn er ramt af et handicap eller en alvorlig sygdom, advarede vi sammen med en lang række af
+organisationer – jeg nævner bare et par enkelte af dem Landsforeningen LEV, der repræsenterer udviklingshæmmede, Danske Handicaporganisationer, Dansk Socialrådgiverforening, Kræftens Bekæmpelse, Dansk Epilepsiforening osv. osv. – mod, at det forslag ville
+have katastrofale konsekvenser for forældrene og deres børn. Det er
+forældre, som i forvejen har et meget vanskeligt liv, som kæmper
+med børn med alvorlig sygdom, og i forbindelse med genopretningspakken blev de så oven i købet også ramt af en meget, meget vanskelig økonomisk situation, som for manges vedkommende betød, at
+de blev nødt til at flytte, måske også blev nødt til at overveje, om de
+overhovedet kunne passe deres barn derhjemme.
+Derfor er vi selvfølgelig positive over for, at partierne i satspuljekredsen har besluttet at rette en smule op på den alvorlige forringelse, som man indførte dengang. Men vi mener ikke, at det er nok. Vi
+vil meget gerne gå videre. Der er stadig 6.800 familier, som modtager tabt arbejdsfortjeneste, som vil blive ramt af det nye loft, og som
+dermed stadig får et alvorligt tab i deres indtægt, hvis de vælger at
+passe deres kræftsyge barn eller svært handicappede barn derhjemme. Så Enhedslisten vil fortsat arbejde for, at loftet skal være markant højere eller fjernes helt.
+Dernæst vil jeg også gerne kommentere på finansieringen af forslaget. Det bliver finansieret via satspuljen, som flere har været inde
+på, og i Enhedslisten mener vi ikke, at det er rimeligt, at førtidspensionister, folkepensionister, kontanthjælpsmodtagere og andre grupper, som hører til den gruppe i Danmark, der har absolut lavest indtægt, skal betale for f.eks. handicappede børns livsvilkår. Som ordføreren for Dansk Folkeparti også var inde på, kan det være meget problematisk på den måde at lægge et permanent tiltag ind i en satspulje, som jo skal forhandles år til år, så vi vil arbejde for, at det her
+projekt bliver finansieret via finansloven.
+Så vil jeg bare kommentere på hele forløbet. Man må sige, at det
+ikke er let at være barn med alvorlig sygdom eller handicap eller være forældre til barnet for den sags skyld. Reglerne er blevet ændret
+frem og tilbage, og det skaber selvfølgelig utrolig stor usikkerhed for
+familierne. Jeg synes, at det er vigtigt at understrege, at vi fra Folke-";Stine Brix
+42478;name_party;":
+Tak. Jeg kunne egentlig godt tænke mig meget kort at spørge ordføreren for Enhedslisten om noget. Man kommer med en masse gode
+kommentarer om, hvordan og hvorledes virkeligheden egentlig burde se ud set med Enhedslistens briller, så jeg vil gerne spørge: Hvorfor er Enhedslisten så ikke en del af satspuljekredsen? Hvorfor vælger man ikke at være med og tage ansvar og gøre ligesom Dansk
+Folkeparti, der siger: Vi er ikke de store tilhængere af selve puljen
+som sådan eller af, hvordan den er finansieret osv., men vi vil gerne
+være med til at tage et ansvar og gå ind i forhandlinger med de øvrige partier og sidde og prøve at fordele nogle midler til udsatte grupper? Jeg forstår simpelt hen ikke, at man som medlem af Enhedslisten kan stå her og komme med alle de tanker, men når man skal
+tage ansvar, vil man bare alligevel ikke være med.";Karin Nødgaard
+43332;Time;;Kl. 13:42
+43369;title_name;":
+Ordføreren.";Bertel Haarder
+43392;Time;;Kl. 13:42
+43409;name_party;":
+Jamen jeg mener bestemt, det er at tage ansvar at sige, at det ikke
+kan nytte noget at fortsætte den kurs, hvor vi bruger af de penge,
+som burde tilhøre førtidspensionister, kontanthjælpsmodtagere og
+folkepensionister. Det kan ikke nytte noget, at vi tilrettelægger en
+socialpolitik på baggrund af de mennesker, der har de laveste indkomster, og faktisk lægger en ekstraskat på dem. Der mener jeg, at
+det vil være meget problematisk, hvis vi gik ind og var med til at
+fordele de penge. Hvert år, når der er finanslovforhandlinger, arbejder vi for, at de tiltag, der i dag bliver finansieret via satspuljen, skal
+finansieres via finansloven.";Stine Brix
+44061;Time;;Kl. 13:43
+44098;title_name;":
+Karin Nødgaard.";Bertel Haarder
+44125;Time;;Kl. 13:43
+44146;name_party;":
+Nu er det jo sådan, at Dansk Folkeparti i adskillige år også agerede
+støtteparti og virkelig fik mange ting igennem. Kan Enhedslisten
+som støtteparti for den nye regering så ikke også få igennem, at man
+vil have afskaffet satspuljen? Det synes jeg da ville være oplagt.
+Ordføreren siger selv i sin tale, at Enhedslisten arbejder for, at det
+bliver finansieret over finansloven. Hvordan arbejder Enhedslisten
+
+Tirsdag den 7. februar 2012 (L 73)
+
+for det, for det er altså ikke noget, jeg lige har registreret? Jeg kunne
+egentlig godt tænke mig også at spørge ordføreren, hvad et rimeligt
+beløb så er. Man må da sige, at det beløb, der nu er fundet frem til,
+faktisk er et rimelig pænt beløb, men Enhedslisten er åbenbart stadig
+ikke tilfreds. Og som slutbemærkning vil jeg gerne lige sige: Husk,
+at alle penge jo skal findes et sted. Det skal finansieres, og det
+glemmer man måske lidt i Enhedslisten.";Karin Nødgaard
+45059;Time;;Kl. 13:44
+45096;title_name;":
+Ordføreren.";Bertel Haarder
+45119;Time;;Kl. 13:44
+45136;name_party;":
+Det sidste er jeg bestemt ikke enig med fru Karin Nødgård i. I den
+sidste del af mit indlæg kom jeg jo også ind på de meget store skattelettelser, som bl.a. Dansk Folkeparti har været med til at give til folk
+med de højeste indkomster her i landet. Hvis vi annullerer skattelettelserne for bare de 10 pct. rigeste danskere, vil det give 7,3 mia. kr.
+hvert eneste år, og de penge kunne vi bruge på velfærd. Sådan ville
+jeg langt hellere prioritere, men Dansk Folkeparti har åbenbart valgt
+noget andet.
+I forhold til hvordan vi arbejder for at afskaffe satspuljen, vil jeg
+sige, at det gør vi sådan set ofte. Jeg tror også, at det bliver en væsentlig del af diskussionen om den kommende skattereform, som vi
+skal diskutere i Folketinget. Det kunne være et bud på, hvordan man
+kan løfte de laveste overførselsindkomster ved f.eks. ikke at skulle –
+hvad skal man sige – aflevere en ekstra skat til satspuljen hvert eneste år.";Stine Brix
+46069;Time;;Kl. 13:44
+46106;title_name;":
+Tak til ordføreren. Så er det den sidste ordfører, og det er fru Thyra
+Frank fra Liberal Alliance.";Bertel Haarder
+46216;Time;(Ordfører);Kl. 13:44
+46245;name_party;":
+Tak for ordet. Liberal Alliance kan fuldt ud tilslutte sig forslaget om
+at forhøje ydelsesloftet for tabt arbejdsfortjeneste. 7.000 kr. hver måned før skat er den konkrete forbedring for familier, hvor mor eller
+far bliver hjemme fra arbejde for at passe et sygt eller handicappet
+barn, og dermed ikke kan tjene en fuld løn. I 2010 var der 18.500
+forældre, der passede deres børn hjemme. Det gjorde de, fordi børnene var så syge eller handicappede, at pasning i hjemmet var nødvendig. Med dette lovforslag sikrer vi, at disse i forvejen hårdt ramte
+familier får en godtgørelse på 27.500 kr. om måneden. Liberal Alliance er med i satspuljeforliget, og vi støtter dermed lovforslaget.
+
+le mulige sårbare, udsatte grupper. Derfor er satspuljen en pulje, som
+vi hvert år fordeler i bred enighed, og som vi forhandler ganske
+grundigt, fordi der ligger rigtig mange gode ting i selve satspuljeaftalen.
+Jeg vil gerne sige tak for kommentarerne, der har været i dag til
+det her forslag, om forhøjelsen af ydelsesloftet for tabt arbejdsfortjeneste. Jeg tror, at næsten alle ordførere har været inde på, hvor ganske forfærdelig en situation det er for forældre at have et sygt barn,
+og at den situation jo selvfølgelig kun forværres, hvis man også skal
+slås med spekulationer om, hvordan økonomien skal hænge sammen. Med det her forslag løfter vi det loft, som tidligere var blevet
+lagt ind, så det nu kommer til at modsvare en mere almindelig indtægt. Vi har valgt at lægge loftet på 27.500 kr., og det er jo resultatet
+af de politiske drøftelser, der har været. Det er et loft, som betyder,
+at ganske mange forældre vil opleve en indtægtsfremgang. Der vil
+stadig væk være nogle, for hvem loftet vil være der, og som vil blive
+berørt af det, men det vil være en markant forbedring.
+Jeg vil sige tak for debatten og i øvrigt sige, at med hensyn til
+selve debatten om fattigdom har vi jo afskaffet fattigdomsydelserne,
+vi har hævet kontanthjælpsloftet, og vi har en kontanthjælpsreform
+på vej. Debatten om, hvordan vi bekæmper fattigdom, og hvordan vi
+får mennesker gjort arbejdsmarkedsparate, får dem i gang med at
+være i stand til at forsørge sig selv, synes jeg også er en vigtig debat
+at tage, men selve debatten om tabt arbejdsfortjeneste er en sejr i
+dag, som vi kan glæde os over i fællesskab. Nu gør vi noget godt for
+de forældre, som har syge børn, og noget godt for de børn, der lider
+derude. Tak.";Thyra Frank
+48653;Time;;Kl. 13:48
+48690;title_name;":
+Tak til social- og integrationsministeren.
+Da der ikke er flere, som har bedt om ordet, er forhandlingen
+sluttet.
+Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen
+gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+10) 1. behandling af lovforslag nr. L 73:
+Forslag til lov om ændring af lov om social service. (Ledsagelse
+til børn og unge mellem 12 og 15 år med nedsat funktionsevne).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 25.01.2012).";Bertel Haarder
+49239;Time;;Kl. 13:45
+49276;title_name;":
+Tak til ordføreren. Så giver jeg ordet til social- og integrationsministeren.";Bertel Haarder
+49365;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Jeg vil gerne sige tak for de mange venlige ord om forslaget og også
+tak for debatten. Debatten er – som altid, når vi taler om satspuljen –
+også lidt en debat om satspuljens finansiering og selve ordningen,
+som den nu engang er, hvor man jo tilbageholder en del af pris- og
+lønfremskrivningen på overførselsindkomster. Ikke desto mindre har
+vi puljen, og puljen bruger vi i satspuljekredsen til at dele penge ud
+til en masse gode initiativer, som vi mener vil stille socialt udsatte
+borgere bedre og give bedre muligheder for handicappede, for børn
+med funktionsnedsættelser, for prostituerede og for hjemløse; for al-
+
+9";Kl. 13:46
+50052;Time;Forhandling;Kl. 13:48
+50101;title_name;":
+Forhandlingen er åbnet. Jeg giver først ordet til fru Karen Ellemann
+som ordfører for Venstre.";Bertel Haarder
+50207;Time;(Ordfører);Kl. 13:49
+50238;name_party;":
+Det lovforslag, som vi nu skal behandle, har til hensigt at udvide ledsageordningen, så den også kommer til at gælde for børn mellem 12
+og 15 år med nedsat funktionsevne. Hensigten med at gøre det er
+selvfølgelig også at gøre den her gruppe af børn og unge mere selvstændige og mere uafhængige af hjælp fra deres forældre. Forslaget
+
+10
+
+Tirsdag den 7. februar 2012 (L 73)
+
+vil jo konkret betyde, at den nuværende lov, som tilbyder ledsageordning til de unge mellem 16 og 18 år, der har nedsat funktionsevne, så bliver udvidet, sådan at tilbuddet altså også kommer til at gælde allerede for de 12-15-årige.
+Hele den her ledsageordning og udvidelsen af den blev indført på
+forsøgsbasis tilbage i 2009 og frem til 2011, hvor man kørte forsøget
+i ti kommuner. Det har man så efterfølgende evalueret, og jeg vil
+næsten sige, at det siger sig selv, at evalueringen viser, at det var en
+af den type initiativer, som virkelig blev godt modtaget, og der var
+generel tilfredshed både hos de pågældende, som selv modtog ledsagelsen, og selvfølgelig også både hos forældre og generelt i kommunerne. Man må så konstatere, at gruppen, som bliver omfattet af lovforslaget, ikke på nuværende tidspunkt rigtig har tilstrækkelige muligheder for at leve et ungdomsliv, som kan sammenlignes med andre børn og unges uden funktionsnedsættelse. Hvis det er sådan, at
+man ønsker at deltage i forskellige selvvalgte aktiviteter uden for
+hjemmet, er man altså nødsaget til nu, som det er i hvert fald, at bede
+forældrene om hjælp. Der mener vi i Venstre også – og vi bakker op
+om det, man er blevet enige om i satspuljeforhandlingerne – at det er
+nødvendigt, at man får afhjulpet den her afhængighed, og at man
+herigennem altså får skabt mere frihed og mere selvbestemmelse i de
+unges liv. Ganske enkelt siger vi, at vi ikke ligesom må lade funktionsnedsættelsen begrænse de unge mennesker unødigt. Der er også
+blevet skrevet en rapport fra SFI, som viser, at funktionsnedsættelser
+hos børn – det er selvfølgelig også indlysende – jo i høj grad belaster
+barnets sociale relationer til eksempelvis jævnaldrende kammerater,
+og det her forslag, det her initiativ, vil helt klart hjælpe på den situation.
+Helt generelt kan jeg konstatere og tilslutte mig – vi finder det
+glædeligt i Venstre – at der fokuseres på børn og unge med funktionsnedsættelse og også på deres familier. Jeg skal samtidig sige, at
+Det Konservative Folkeparti også støtter lovforslaget.";Karen Ellemann
+52681;Time;;Kl. 13:51
+52718;title_name;":
+Tak til ordføreren. Den næste ordfører er fru Maja Panduro for Socialdemokraterne.";Bertel Haarder
+52812;Time;(Ordfører);Kl. 13:51
+52841;name_party;":
+Jeg kan måske starte med at prikke hul på spændingen og afsløre, at
+Socialdemokraterne også støtter det her lovforslag. Det har vi glædet
+os til at gøre, bl.a. også fordi vi faktisk som opposition fremsatte
+lovforslaget om det her tilbage i 2007. Så vi er jo glade for, at man
+nu har kunnet nå til enighed om det i Folketinget, for vi synes, at det
+er vigtigt, at vi sikrer, at også børn og unge, som har en funktionsnedsættelse, fysisk eller psykisk, kan have et ungdomsliv, og at de
+ikke skal opleve at være afhængige af at skulle have mor eller far
+med og bede dem om at følge med, hvis man gerne ville ud og være
+sammen med sine kammerater til forskellige fritidsaktiviteter. Derfor
+er det så godt, at vi nu får udvidet den ordning, vi jo allerede har for
+de 16-18-årige unge, til også at gælde unge mennesker ned til 12 år.
+Det tror jeg vil gøre en rigtig stor forskel for den her gruppe, for at
+de kan blive mere selvstændige og mere uafhængige af at få hjælp
+fra deres forældre.
+Det er ret væsentligt at sige, tror jeg, at det er klart, at det her også vil aflaste forældrene, men det handler om at sikre, at også unge
+og børn med funktionsnedsættelser har ret til et ungdomsliv. Det forbedrer vi nu med forslaget her, og derfor er det med glæde, at Socialdemokraterne kan støtte det.";Maja Panduro
+54145;Time;;Kl. 13:53
+54182;title_name;":
+Tak til ordføreren. Den næste ordfører er fru Karin Nødgaard for
+Dansk Folkeparti.";Bertel Haarder
+54276;Time;(Ordfører);Kl. 13:53
+54308;name_party;":
+Uanset hvem man er, har man behov for at leve en tilværelse, hvor
+der sker adspredelse og forandring, og nogle har det mere end andre,
+men det må aldrig blive ens funktionsevne, der sætter de største begrænsninger.
+Der er selvfølgelig ikke tvivl om, at mennesker, der af den ene
+eller den anden årsag lever med betydelig eller varig nedsat fysisk
+eller psykisk funktionsevne, kan have andre og flere begrænsninger
+end dem, der ikke har det; alt andet ville vel være mærkeligt. Men
+det er vigtigt, at der fra samfundets side gøres en indsats for at hjælpe disse mennesker til at få en tilværelse, der er så lig andre unge
+menneskers som overhovedet muligt.
+Dette er selvfølgelig også tilfældet med det her lovforslag. Når
+man når teenagealderen, sker der store forandringer både i ens liv og
+i de interesser, man har, og det er ikke altid, man har lyst til, at ens
+forældre skal være en del af disse ting, uanset om man er nært knyttet til dem eller ej. Derfor finder Dansk Folkeparti det positivt, at der
+er en ledsageordning i lov om social service. Det skylder man især
+de unge, men faktisk også deres forældre, for uanset hvad, kan der
+være mange sidegevinster i det daglige liv sammen med familien,
+når alle kan komme hjem og have oplevet noget og derefter fortælle
+den øvrige familie om det.
+Når aldersgrænsen i dette forslag foreslås sænket, så ordningen
+også kommer til at omfatte de 12-15-årige, kan der være mange årsager til det. For mig hænger det sammen med, at vi i dag har en ungdomskultur, som tydeligt viser, at de unge på mange områder udvikler sig hurtigere og agerer mere som unge, på godt og ondt selvfølgelig, end unge i den aldersgruppe gjorde for årtier tilbage. Derfor er
+det positivt, at man, inden man ændrede loven fuldstændig, med
+satspuljeaftalen for 2008 blev enige om at lave et forsøg med at sætte aldersgrænsen ned i ti kommuner landet over.
+Dette forsøg har så vist sig at være en succes, og det kunne man
+se i forbindelse med den evaluering, der blev lavet i sommeren 2011.
+Og det, som jeg lægger vægt på, er, at det har haft en positiv virkning på de unges fritidsliv og har været med til at muliggøre, at de
+kunne deltage i selvvalgte aktiviteter. På den måde føler man sig
+som en del af fællesskabet, hvilket jo netop for personer med funktionsnedsættelse er meget afgørende for en høj livskvalitet.
+Når vi i dag behandler forslaget, er det egentlig ikke for at ændre
+på en masse betingelser, fordi de faktisk allerede på nuværende tidspunkt er tilfredsstillende, men for at ændre på den gruppe, der kan
+komme i betragtning. Og da Dansk Folkeparti jo er en del af satspuljekredsen, bakker vi op om forslaget og håber selvfølgelig, at det her
+forslag med sin vedtagelse vil være medvirkende til, at mange børn
+og unge får nogle gode oplevelser i samvær med andre jævnaldrende, og at det selvfølgelig kan bidrage positivt til den samlede families liv.";Karin Nødgaard
+57207;Time;;Kl. 13:56
+57244;title_name;":
+Tak til ordføreren. Den næste taler er fru Liv Holm Andersen som
+ordfører for Det Radikale Venstre.
+
+Tirsdag den 7. februar 2012 (L 73)
+
+11";Bertel Haarder
+57397;Time;"deres mere selvstændige ungdomsliv ud fra deres egne behov. Vi tilslutter os.
+
+(Ordfører)";Kl. 13:56
+57511;name_party;":
+Radikale Venstre kan naturligvis også bakke fuldt op om det her lovforslag.
+Med en udvidelse af ledsageordningen, som gør, at unge og børn
+med nedsat funktions... Undskyld! Nu kom jeg til at kludre lidt i det,
+det må I undskylde ...evne kan have et aktivt liv uden for hjemmet,
+uden at deres forældre skal holde øje med dem og følge med i alt,
+hvad der sker i deres liv, sender man et signal, der er rigtig vigtigt
+for os Radikale, og det er nemlig det, at selv børn og unge har ret til
+personlig frihed og har ret til et liv, hvor de selvstændigt kan bestemme og kan leve uden at deres... Nej. Undskyld! Det går altså
+helt galt i dag. Sorry! Ja, det må I sgu undskylde, alle jer, der sidder
+derude og følger med på Folketingets tv-kanal. Og undskyld! Jeg
+sagde »sgu« fra talerstolen. Det er bare ikke min dag i dag.
+Jeg tror egentlig, at jeg bare vil afslutte den her ordførertale og så
+sige, at Det Radikale Venstre er rigtig glad for, at vi med det her lovforslag sætter en tyk streg under, at vi anser det for rigtig vigtigt, at
+børn og unge har ret til personlig frihed, og at man så forsøger at udvide den gruppe af børn og unge, som skal have retten til det så meget som muligt.
+Tak for ordet, det, der nu var.";Liv Holm Andersen
+58741;Time;;Kl. 14:00
+58752;Time;;Kl. 13:58
+58789;title_name;":
+Tak til ordføreren. Meningen var klar nok, selv om ordvalget kunne
+diskuteres.
+Så giver jeg ordet til fru Annette Vilhelmsen, der er ordfører for
+Socialistisk Folkeparti.";Bertel Haarder
+58971;Time;(Ordfører);Kl. 13:58
+59007;name_party;":
+I SF er vi rigtig glade for det her lovforslag. Med forslaget bliver det
+nu muligt, at også de 12-15-årige, der har funktionsnedsættelse, kan
+få ledsager med, når de ønsker at deltage i aktiviteter uden for hjemmet. Det er en ordning, vi kender, og indtil nu er den blevet godt
+modtaget af de 16-18-årige, og nu får de yngre så også muligheden.
+Vi synes, det er meget positivt, at også den yngre gruppe, der på
+grund af deres funktionsnedsættelse ikke kan færdes alene, nu får
+mulighed for at deltage i selvvalgte aktiviteter uden for hjemmet
+uden altid at skulle bede far eller mor om hjælp.
+Vi skal gøre, hvad vi kan, for at tilstræbe, at unge får mulighed
+for at leve et ungdomsliv på lige fod med andre børn og unge. Selv
+om de f.eks. er blinde eller sidder i kørestol, skal de have mulighed
+for at deltage i sociale og kulturelle aktiviteter som f.eks. at gå i biografen, til koncert eller overvære en fodboldkamp uden at skulle have forældre med.
+For mig at se er forslaget en del af vores samlede arbejde for at
+sikre større inklusion i samfundet af børn og unge med nedsat funktionsevne. Vi skal hjælpe de unge til at blive mere selvstændige, uafhængige af hjælp. Det vil også være noget, der kan komme til at
+gavne dem videre i deres voksenliv.
+Det er også vigtigt, at den her gruppe af børn og unge får en reel
+oplevelse af, at de kan blive en del af det samfund, der omgiver dem,
+og også kan tage del i de demokratiske muligheder, som de vil møde
+flere af, når de bliver ældre.
+Jeg er glad for, at der i forslaget lægges vægt på, at det er vigtigt,
+at det er noget, de unge selv skal være med til at oplyse om, og at der
+skal gøres opmærksom på de her muligheder, når de nu har fået dem.
+Så det er et forslag, vi bakker fuldt op om. Vi er glade for, at der er
+bred enighed om det, og at familierne nu kan vælge, om det her er
+noget, som forældre skal deltage i, eller om børnene skal påbegynde";Annette Vilhelmsen
+60950;title_name;":
+Tak. Så giver jeg ordet til fru Stine Brix som ordfører for Enhedslisten.";Bertel Haarder
+61035;Time;(Ordfører);Kl. 14:01
+61063;name_party;":
+Jeg kan så sige på vegne af Enhedslisten, at vi kan gøre den brede
+enighed endnu bredere. En af Enhedslistens mærkesager er børns ret
+til et godt børneliv. Det betyder, at der skal flere voksne i daginstitutionerne, så det ikke er ren opbevaring, men det betyder også, at
+børn med et handicap skal have mulighed for at deltage i aktiviteter
+uden for hjemmets fire vægge på linje med deres jævnaldrende.
+Når man er 12 år gammel, er det helt almindeligt at tage til børnefødselsdag eller hjem til en kammerat efter skole uden ens forældre. Når man er 15 år, er det almindeligt at tage i biografen eller i
+byen med kammeraterne, uden at forældrenes øjne hviler i nakken.
+Det skal børn og unge med handicap naturligvis også have mulighed
+for. Det kræver, at aldersgrænsen på 16 år for at få en ledsageordning revurderes. Derfor er vi meget positivt stemt over for forslaget
+om at give børn på ned til 12 år med en funktionsnedsættelse mulighed for at få en ledsageordning. Vi så sådan set også gerne, at Folketinget tog en diskussion om børn under 12 år, men det skal ikke ligge
+det aktuelle lovforslag til last.
+Jeg vil samtidig også gerne fremhæve pointerne i høringssvaret
+fra Danske Handicaporganisationer og Dansk Socialrådgiverforening om, at forslaget også bør gælde for børn med sindslidelser. De
+har også et behov for at møde venner og jævnaldrende uden for deres eget hjem og uden for skoletid, og det bør være muligt at uddanne ledsagere, som kan varetage de særlige behov, som gælder disse
+børn. Det kunne jeg rigtig godt tænke mig at Folketinget eller Socialudvalget tog en diskussion om i fremtiden.
+Endelig bliver jeg nødt til at kommentere, at man endnu en gang
+vælger at finansiere et sådant forslag, som i øvrigt er ganske udmærket, via satspuljen. Satspuljen betales jo af førtidspensionister, folkepensionister, kontanthjælpsmodtagere og nogle af de grupper, som i
+forvejen har allermindst i vores samfund. Det er bestemt ikke rimeligt, at det er dem, der skal finansiere vores socialpolitik. Derfor vil
+vi fra Enhedslistens side arbejde for, at ledsageordningen bliver finansieret via finansloven.
+Jeg synes ærlig talt, det er en lille smule pinligt, at en lang række
+partier, ingen nævnt, ingen glemt, stiller sig op før valget og siger, at
+de vil afskaffe satspuljen, men der sker ikke noget som helst. De
+samme partier melder sig alligevel klar år efter år til at bruge af satsmidlerne. Men de kan jo få en chance for at stemme for, når vi givetvis på et tidspunkt igen fremsætter vores udmærkede forslag om at
+afskaffe satspuljen.
+Men for at opsummere: Vi støtter forslaget om at udvide ledsageordningen. Det er godt for barnets tarv, men det er også godt for
+Danmark som sådan. Jeg tror på, at vi alle sammen bliver klogere af
+at omgås mange forskellige mennesker i skolen, på arbejdet og i bybilledet. Derfor skal vi selvfølgelig skabe plads til den forskellighed.
+Tak for ordet.";Stine Brix
+63977;Time;;Kl. 14:03
+64014;title_name;":
+Tak. Den sidste ordfører er fru Thyra Frank fra Liberal Alliance.
+
+12
+
+Tirsdag den 7. februar 2012 (L 74)";Bertel Haarder
+64133;Time;(Ordfører);Kl. 14:04
+64162;name_party;":
+Liberal Alliance kan fuldt ud tilslutte sig forslaget om ledsagelse til
+børn og unge mellem 12 og 15 år med nedsat funktionsevne. Undersøgelser viser, at den nuværende ledsageordning i praksis opfylder
+de formål, der er opstillet i lovgivningen. Brugere, myndigheder,
+ledsagere og pårørende deler helt overvejende den opfattelse, at ordningen forbedrer brugernes livskvalitet, at den styrker brugernes frihed og uafhængighed, og at den styrker deres selvstændighed. Ved
+denne udvidelse af den eksisterende ordning sikrer vi, at også børn
+og unge mellem 12 og 15 år får mulighed for et aktivt socialt liv i
+det omgivende samfund.
+Liberal Alliance er med i satspuljeforliget og støtter dermed lovforslaget.";Thyra Frank
+64878;Time;;Kl. 14:04
+64915;title_name;":
+Tak. Så er det social- og integrationsministeren.";Bertel Haarder
+64976;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Og det er en glad social- og integrationsminister, og jeg vil gerne
+starte med at sige tak for de kommentarer, der er faldet i forbindelse
+med lovforslaget. Jeg tror, vi alle sammen er enige om, at vi skal
+sørge for, at de børn og unge, som vi har i vores samfund, og som
+har en funktionsnedsættelse, føler, at de er en del af vores fællesskab, og at vi åbner op, sådan at de kan føle, at der også er plads til
+dem. Det viser vi meget tydeligt med det her forslag, og der er faldet
+mange smukke og kloge ord, som jeg synes, jeg bare vil bakke op
+om. Et ungdomsliv handler om at kunne bestemme selv, og det gælder selvfølgelig også, når man har en funktionsnedsættelse. Så jeg
+vil sige tak til ordførerne.
+Så skal jeg bare knytte en kommentar til Enhedslistens ordfører,
+som spurgte til, hvorfor det ikke også er børn med sindslidelser, der
+kan få adgang til den her ledsageordning. Der har vurderingen været
+den, at hvis man har en sindslidelse, må der stilles nogle særlige krav
+til indsigt og træning, som ligger ud over de kvalifikationer, der ligger i ledsageordningen. Og derfor er det sådan, at har man brug for
+ledsagelse, er det i stedet servicelovens § 52 og nogle af de foranstaltninger, der ligger deri, man skal anvende, såfremt der er tale om
+børn og unge med sindslidelser. Tak.";Kl. 14:05
+66332;Time;;Kl. 14:06
+66369;title_name;":
+Tak til social- og integrationsministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Socialudvalget. Hvis ingen
+gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+11) 1. behandling af lovforslag nr. L 74:
+Forslag til lov om ændring af lov om friskoler og private grundskoler m.v., lov om folkehøjskoler, efterskoler, husholdningsskoler og håndarbejdsskoler (frie kostskoler), lov om private gymnasieskoler, studenterkurser og kurser til højere forberedelseseksamen (hf-kurser), lov om institutioner for almengymnasiale
+
+uddannelser og almen voksenuddannelse m.v. og lov om institutioner for erhvervsrettet uddannelse. (Forenkling af proceduren
+for godkendelse af vedtægtsændringer m.v.).
+Af børne- og undervisningsministeren (Christine Antorini).
+(Fremsættelse 25.01.2012).";Bertel Haarder
+67276;Time;Forhandling;Kl. 14:06
+67325;title_name;":
+Forhandlingen er åbnet, og jeg giver ordet til fru Anni Matthiesen
+som ordfører for Venstre.";Bertel Haarder
+67429;Time;(Ordfører);Kl. 14:07
+67461;name_party;":
+Tak for det. Lovforslag nr. L 74 vil lette de administrative byrder for
+de selvejende uddannelsesinstitutioner, og det er selvfølgelig en udvikling, som Venstre bakker op om. Lovforslaget sikrer, at institutionernes bestyrelser i højere grad selv kan træffe bestemmelser om
+vedtægtsændringer, uden at de skal have det ind over ministeren til
+godkendelse. Venstre ser dette lovforslag som et skridt i den rigtige
+retning, nemlig et skridt, der går i retning af en større decentralisering af magten: Der er færre beslutninger, der skal tages på Christiansborg, hvilket ikke kun vil være en fordel for uddannelsesinstitutionerne, men jo også vil være en fordel for ministeriet. Lovforslaget
+vil lette de administrative arbejdsgange og vil bidrage til en besparelse, der forventes at blive på omkring 0,9 mio. kr. årligt fra 2013
+og årene frem.
+Der er med L 74 tale om en ønskværdig forenkling af en ellers
+omfattende proces, og Venstre kan derfor også bakke op om dette
+lovforslag. Tak.";Anni Matthiesen
+68456;Time;;Kl. 14:08
+68493;title_name;":
+Tak. Så giver jeg ordet til hr. Troels Ravn, der er ordfører for Socialdemokraterne.";Bertel Haarder
+68589;Time;(Ordfører);Kl. 14:08
+68617;name_party;":
+Tak. Baggrunden for lovforslaget er ønsket om at lette de administrative byrder for de selvejende uddannelsesinstitutioner ved at ændre kravet om, at Ministeriet for Børn og Undervisning skal godkende alle vedtægtsændringer i forbindelse med de selvejende uddannelsesinstitutioner. Institutionernes bestyrelser skal med lovforslaget
+hermed selv kunne træffe bestemmelser om vedtægtsændringer, altså
+uden at de skal have ministeriets godkendelse til det, bortset fra i de
+tilfælde, hvor der, hvad angår de ændringer, der foretages i institutionernes virke, er tale om helt grundlægende ændringer. Forslaget vil
+altså både indebære administrative lettelser i ministeriet og uddelegering af kompetencer til en lang række uddannelsesinstitutioner.
+Forslaget har været sendt i høring, og svarene herfra har givet anledning til en enkelt ændring og et par præciseringer. Det præciseres
+bl.a., at der efter forslaget intet til hinder er for, at det af en skoles
+vedtægt fremgår, at nettoformuen ved skolens nedlæggelse anvendes
+til skoleformål på en skole med samme grundholdning som den ophørende skole. Men ellers er der fra høringsparternes side almindelig
+tilslutning til lovforslaget.
+En optimering af sagsgangene, regelforenklinger og elimineringen af unødigt bureaukrati i den offentlige forvaltning er et mål, som
+det er vigtigt at have for øje, og det er et mål, regeringen har. Når
+dette så kan foregå, samtidig med at der uddelegeres kompetencer til
+de lokale skolebestyrelser, er det positivt, og der er derfor her tale
+
+Tirsdag den 7. februar 2012 (L 74)
+
+om et lovforslag, der er godt. Forslaget medfører oven i hatten tillige
+besparelser, som i 2012 forventes at udgøre knap 0,5 mio. kr. og i
+2013 og i årene frem forventes at udgøre knap 1 mio. kr.
+Socialdemokraterne kan støtte lovforslaget.";Troels Ravn
+70431;Time;13;Kl. 14:10
+70446;Time;;Kl. 14:12
+70483;title_name;":
+Tak. Så skulle det være fru Rosa Lund, men jeg ser, at Enhedslistens
+ordfører er en anden. Værsgo.";Bertel Haarder
+70593;Time;;Kl. 14:12
+70630;title_name;":
+Tak. Den næste ordfører er hr. Alex Ahrendtsen for Dansk Folkeparti.";Bertel Haarder
+70710;Time;(Ordfører);Kl. 14:10
+70743;name_party;":
+Lovforslaget er en lovteknisk ændring og vil medføre mindre e-mailnusseri, og derfor kan Dansk Folkeparti tilslutte sig forslaget. Tak
+for det.";Alex Ahrendtsen
+70898;Time;;Kl. 14:10
+70935;title_name;":
+Tak. Den næste er hr. Jeppe Mikkelsen som ordfører for Det Radikale Venstre.";Bertel Haarder
+71023;Time;(Ordfører);Kl. 14:10
+71056;name_party;":
+Dette lovforslag er forholdsvis langt, men det har ikke brug for en
+lang ordførertale. Der er tale om afbureaukratisering, om at slippe
+for papirnusseri, og selv om det tydeligvis kræver en del papirnusseri i forbindelse med lovgivningen, håber jeg, at vi hurtigt kan finde
+bred politisk enighed om dette lovforslag.
+Lovforslaget går i sin enkelhed ud på at forenkle den procedure,
+der er i dag, når frie skoleformer og selvejende institutioner ændrer
+deres vedtægter. Fremover vil det kun være helt grundlæggende ændringer, som skal godkendes i enten Børne- og Undervisningsministeriet eller Kulturministeriet. Det kan jeg varmt støtte.
+Afbureaukratisering er et princip, vi hylder meget i Radikale
+Venstre. Det skyldes to ting. For det første frigiver det ressourcer både i skolerne og ministerierne, og på den måde kan de bruge deres
+tid på andre og vigtigere ting. For det andet er det at vise tillid – tillid til, at bestyrelsen og generalforsamlingen på den enkelte skole
+godt selv kan administrere størstedelen af deres vedtægtsændringer.
+Jeg håber, at vi i fællesskab fremadrettet kan finde endnu flere tiltag
+som dette, så skolerne i højere grad kan fokusere på at undervise
+frem for alt muligt andet.
+For at opsummere er der altså radikal opbakning til dette forslag.
+Tak.";Jeppe Mikkelsen
+72350;Time;;Kl. 14:11
+72387;title_name;":
+Tak. Så giver jeg ordet til fru Lisbeth Bech Poulsen som ordfører for
+Socialistisk Folkeparti.";Bertel Haarder
+72493;Time;(Ordfører);Kl. 14:12
+72531;name_party;":
+Som mine kolleger har sagt før, er der jo her tale om et afbureaukratiseringsforslag, som giver rigtig, rigtig god mening, og som falder
+godt i tråd med den tradition, som vi med den nye regering prøver at
+etablere, nemlig at vise tillid og samtidig afbureaukratisere der, hvor
+det giver mening.
+Så i tråd med at gøre tingene så enkelt som muligt vil jeg ikke
+læse resten af min tale op, men bare sige, at SF støtter det her glimrende forslag.
+
+(Ordfører)";Lisbeth Bech Poulsen
+73003;name_party;":
+Vi tilslutter os L 74, for som en række af de øvrige ordførere forstår
+vi det også som en forenkling af proceduren for godkendelse af vedtægtsændringer. Så der er ikke så meget nyt, Enhedslisten kan bidrage med, ud over at vi ligesom de andre partier går ind for bureaukratiske forenklinger, så man kan bruge kræfterne i skolerne til at udvikle undervisningen, og så Undervisningsministeriet kan tage sig af
+det, de også har som hovedopgave, nemlig at skabe bedre rammer
+for undervisningen ude i skolerne.
+Vi vil så ikke undlade at bemærke, at vi meget gerne vil gå meget
+længere med afbureaukratiseringer. Forslagene er kommet frem op
+til flere gange, men jeg vil da gerne hviske ministeren i øret, at hvis
+en afskaffelse af de nationale test og de centraliserede elevplaner
+kommer på banen, vil det også ske med Enhedslistens tilslutning.
+Tak.";Lars Dohn
+73860;Time;;Kl. 14:13
+73897;title_name;":
+Tak til hr. Lars Dohn som ordfører for Enhedslisten. Så er det fru
+Thyra Frank som ordfører for Liberal Alliance.";Bertel Haarder
+74022;Time;(Ordfører);Kl. 14:14
+74051;name_party;":
+Jeg skal på vegne af Liberal Alliances uddannelsesordfører, fru Merete Riisager, holde følgende tale:
+Liberal Alliance hilser ønsket om at lette de administrative byrder for de selvejende uddannelsesinstitutioner ved at ændre kravet
+om, at ministeriet skal godkende alle vedtægtsændringer for de selvejende uddannelsesinstitutioner, velkommen. Tiltag, der kan forenkle og forbedre processer, har altid vores interesse, og særlig hensynet
+til de selvejende institutioner og deres muligheder for at kunne bidrage med værdier til samfundet og agere frit ligger os på sinde.
+Vi bemærker, at de hørte repræsentanter for skolerne generelt er
+positive over for forslaget om regelforenkling. Dog bemærker vi, at
+Foreningen af Frie Fagskoler er bekymrede for, at forslaget indebærer en ministeriel adgang til at regulere forholdet mellem bestyrelse
+og generalforsamling, og vi ønsker dette belyst yderligere gennem
+udvalgsbehandlingen.
+Samtidig hæfter vi os ved, at Dansk Friskoleforening bemærker,
+at dialogen mellem skoler og ministerium skal ske i en dialogbaseret
+atmosfære, og at det ikke altid er tilfældet i dag. I Dansk Friskoleforening deler man en erfaring, der viser, at ministeriet ofte agerer mere
+som en juridisk myndighed end som et serviceorgan over for de frie
+skoler. For Liberal Alliance er det afgørende, at forbedringer af processer ikke kun handler om lovens bogstav, men også om, hvordan
+loven forvaltes.
+Vi vil derfor nøje følge ministeriets dialog med de frie skoler og
+forlange, at ministerielle tilsyn gennemføres gennem dialog og gennem et højt informationsniveau i erkendelse af, at der ofte kan være
+tale om menneskelige fejl og ikke vrangvillighed, hvis friskolens
+vedtægter ikke lever op til ministeriets krav. Tillid, åbenhed og et
+højt informationsniveau kan bidrage til at skabe et bedre samarbejde
+mellem ministerium og skoler og samtidig forhindre ressourcespild
+gennem frugtesløs korrespondance.
+
+14
+
+Tirsdag den 7. februar 2012 (L 75)";Thyra Frank
+76029;Time;;Kl. 14:16
+76066;title_name;":
+Tak. Så er det fru Mai Henriksen som ordfører for Det Konservative
+Folkeparti.";Bertel Haarder
+76156;Time;"(Ordfører)
+Mai Henriksen (KF):
+Nu er det jo regelforenkling, vi behandler, så jeg skal gøre det enkelt
+ved at sige, at De Konservative ser positivt på sådan en regelforenkling som den, vi har til behandling her, som samtidig oven i købet
+genererer en lille besparelse. Vi er glade for at kunne gøre livet lettere for de selvejende uddannelsesinstitutioner, for vi er nemlig rigtig
+glade for den form. Vi tror på, at selveje giver et større lokalt medansvar og også et stort personligt ansvar. Derfor kan vi bakke op om
+det her lovforslag.";Kl. 14:16
+76706;Time;;Kl. 14:17
+76743;title_name;":
+Så er det børne- og undervisningsministeren.";Bertel Haarder
+76799;Time;;Kl. 14:17
+76855;title_name;":
+Jeg vil godt sige tak til samtlige partiers ordførere, som jo så smukt
+og på forskellig vis har sat ord på, hvad dette lovforslag handler om.
+De ord, som er blevet brugt flittigt, er: regelforenkling, afbureaukratisering, decentralisering, mindre e-mail-nusseri og mindre papirnusseri – og så giver det oven i købet en lille besparelse.
+Det er rigtig fint, for det er jo det, der er essensen af lovforslaget,
+og jeg er rigtig glad for, at der er bred opbakning til, at vi gennemfører det. Der var nogle spørgsmål fra Liberal Alliance, som jeg håber
+at vi kan svare tilfredsstillende på i udvalgsarbejdet.
+Jeg har bare et par enkelte ting at sige til at supplere, med hensyn
+til hvad der vil ske i forbindelse med det her lovforslag: Det ændrer
+ikke på, at bestyrelsen ligesom hidtil er den øverste ansvarlige for institutionens virksomhed og i den forbindelse også er ansvarlig for, at
+vedtægten er i overensstemmelse med lovgivningen. Jeg vil også gerne tilføje, at ministeriet fremover vil føre stikprøvevis tilsyn med, at
+institutionernes vedtægter er i overensstemmelse med lovgivningen.
+Endelig berører lovforslaget også kulturministerens område, fordi
+folkehøjskolerne også er omfattet af det.
+Med de ord vil jeg igen takke for den meget brede og positive
+modtagelse af lovforslaget.
+
+Det næste punkt på dagsordenen er:
+12) 1. behandling af lovforslag nr. L 75:
+Forslag til lov om ændring af lov om Arbejdsgivernes Elevrefusion. (Revision af årsregnskab).
+Af børne- og undervisningsministeren (Christine Antorini).
+(Fremsættelse 25.01.2012).";Christine Antorini
+78414;Time;Forhandling;Kl. 14:18
+78463;title_name;":
+Forhandlingen er åbnet. Jeg giver ordet til hr. Peter Juel Jensen fra
+Venstre.";Bertel Haarder
+78553;Time;(Ordfører);Kl. 14:18
+78587;name_party;":
+Arbejdsgivernes Elevrefusion, kaldet AER, er en selvejende institution, der har til formål at administrere refusions- og tilskudsordninger, der skal medvirke til at skaffe det fornødne antal praktikpladser
+for uddannelsessøgende.
+AER opkræver et arbejdsgiverbidrag pr. fuldtidsbeskæftiget fra
+alle arbejdsgivere, der er omfattet af lov om arbejdsmarkedets tillægspension. Forslaget, vi behandler i dag, går ud på at ændre kravene til revision af årsregnskabet for AER, således at kravet til antallet
+af revisorer, der skal forestå revisionen af årsregnskabet, reduceres
+fra mindst to revisorer til mindst en statsautoriseret revisor. Lovforslaget ændrer således ikke ved, at der ved revisionen af AER skal
+medvirke mindst en statsautoriseret revisor. Forslaget betyder imidlertid, at der ikke længere behøver at deltage mere end en revisor i
+revisionen af årsregnskabet, hvis den pågældende har en statsautorisation.
+Efter lovforslaget vil det fortsat være bestyrelsen i AER, der udnævner revisor. Det foreslås imidlertid, at udnævnelsen af revisor ikke længere skal ske for et bestemt tidsrum på 3 år. Det vil således
+være op til bestyrelsen frit at udnævne en revisor for en kortere eller
+længere periode end 3 år. Bestyrelsen kan til enhver tid trække udnævnelsen tilbage. Det er et forslag, som giver noget mere fleksibilitet for AER, og derfor kan Venstre godt bifalde lovforslaget.";Peter Juel Jensen
+79986;Time;;Kl. 14:20
+80023;title_name;":
+Tak. Så er det hr. Rasmus Horn Langhoff fra Socialdemokraterne.";Bertel Haarder
+80099;Time;;Kl. 14:18
+80136;title_name;":
+Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Børne- og Undervisningsudvalget. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.";Bertel Haarder
+80393;Time;(Ordfører);Kl. 14:20
+80430;name_party;":
+Lovforslag L 75 vil ændre reglerne for revision af årsregnskabet for
+Arbejdsgivernes Elevrefusion, således at antallet af revisorer reduceres, og det i fremtiden vil være muligt for bestyrelsen for AER at udnævne revisor for længere eller kortere tid end 3 år. Med lovforslaget kan AER dermed få gavn af den stordriftsfordel, som opstår ved
+en samlet administrationsaftale for revision med ATP. Derfor bakker
+Socialdemokratiet op om L 75.";Rasmus Horn Langhoff
+80880;Time;;Kl. 14:21
+80917;title_name;":
+Tak. Så er det hr. Alex Ahrendtsen fra Dansk Folkeparti.";Bertel Haarder
+80985;Time;(Velfærdsministeren (fg.));Kl. 14:21
+81034;name_party;":
+Endnu en lovteknisk ændring, ATP administrerer jo Arbejdsgivernes
+Elevrefusion, og derfor er det bare en tilpasning, der sker, og den
+kan Dansk Folkeparti støtte fuldt ud.
+
+Tirsdag den 7. februar 2012 (L 75)";Alex Ahrendtsen
+81255;Time;;Kl. 14:21
+81292;title_name;":
+Tak. Så er det hr. Jeppe Mikkelsen fra Radikale Venstre.";Bertel Haarder
+81360;Time;(Ordfører);Kl. 14:21
+81393;name_party;":
+Mange tak. Jeg står her på vegne af fru Lotte Rod, som er vores ordfører på området, så jeg er blevet bedt om at læse følgende op:
+Formålet med lovforslaget er at forenkle reglerne for revision af
+årsregnskabet for Arbejdsgivernes Elevrefusion. Fremover skal årsregnskabet for AER revideres af mindst en statsautoriseret revisor,
+og udnævnelsen af revisor skal ikke længere ske for et bestemt tidsrum på 3 år. Radikale Venstre støtter denne forenkling.";Jeppe Mikkelsen
+81857;Time;;Kl. 14:22
+81894;title_name;":
+Tak. Så er det fru Lisbeth Bech Poulsen fra Socialistisk Folkeparti.";Bertel Haarder
+81974;Time;(Ordfører);Kl. 14:22
+82012;name_party;":
+Nu kan man jo snart tale om, at det er en afbureaukratiserings- og
+tillidsregering, vi har fået. Trods de lidt tekniske lovforslag, vi behandler her i dag, bliver man jo i helt godt humør af at stå heroppe
+og diskutere dem, synes jeg.
+Men SF støtter naturligvis det her forslag om at gøre det mere op
+til AER, hvordan de vil organisere sig i forhold til antallet af revisorer og den længde, de skal være tilknyttet. Vi støtter naturligvis også
+op om, at det kan give besparelser i forhold til at drage nytte af de
+aftaler, som ATP har. Så SF støtter forslaget.";Lisbeth Bech Poulsen
+82584;Time;;Kl. 14:23
+82621;title_name;":
+Tak. Så er det fru Rosa Lund fra Enhedslisten.";Bertel Haarder
+82679;Time;(Ordfører);Kl. 14:23
+82706;name_party;":
+Jeg vil ikke bruge tid på at forklare, hvad det her lovforslag går ud
+på, for det synes jeg sådan set vi har fået forklaret meget godt.
+Jeg vil blot sige, at vi i Enhedslisten bakker op om, at det nu i
+højere grad bliver op til AER's bestyrelse at fastsætte rammerne for
+revisionen, både i forhold til udskiftning af revisor og i forhold til
+antallet af revisorer. Det kan vi sådan set godt bakke op om, og derfor støtter vi lovforslaget.
+Jeg vil bare knytte en lille kommentar til det, nemlig at det, der er
+interessant at diskutere vedrørende Arbejdsgivernes Elevrefusion, jo
+ikke er, hvordan deres årsregnskab bliver revideret, men om det reelt
+er med til at skaffe flere praktikpladser. Jeg håber, at vi en dag meget snart får mulighed for eller lejlighed til at diskutere her i salen,
+hvordan arbejdsgiverne kan være med til at løfte deres del af ansvaret for at skaffe de praktikpladser, der mangler.
+Kort sagt: Vi kan bakke op om forslaget.";Rosa Lund
+83665;Time;;Kl. 14:24
+83702;title_name;":
+Tak. Så er det fru Thyra Frank fra Liberal Alliance.";Bertel Haarder
+83766;Time;(Ordfører);Kl. 14:24
+83795;name_party;":
+Jeg skal på vegne af LA's uddannelsesordfører, fru Merete Riisager,
+holde følgende tale:
+
+15
+
+Formålet med lovforslag nr. L 75 er at ændre reglerne for revision af årsregnskabet for Arbejdsgivernes Elevrefusion, AER, således
+at bestyrelsen for AER stilles friere i forhold til kravet til antallet af
+revisorer og det tidsrum, for hvilket en revisor udnævnes.
+I Liberal Alliance stiller vi os positive over for lovforslaget. Samtidig opfordrer vi til, at vi i dette Ting tager fordomsfrie debatter om
+de bredere perspektiver omkring en optimal udnyttelse af Arbejdsgivernes Elevrefusion og mulighederne for at skabe gode og fleksible
+praktikordninger uden brug af tvang. Praktikpladser oprettet ved
+tvang betyder et ringere udbytte af uddannelsen, øget offentligt forbrug og virksomheder, der tvinges til at bruge ressourcer på andet
+end deres kerneopgaver, i en tid hvor de er presset af dårlige rammevilkår og en krise i Europa. Der er brug for, at vi tænker kreativt, så
+vi kan sikre et højt uddannelsesniveau for vore unge, også i en krisetid, i stedet for at forfalde til politisk dovenskab og tvangsordninger.
+Tak.";Thyra Frank
+84926;Time;;Kl. 14:25
+84963;title_name;":
+Tak. Så er det fru Mai Henriksen for Det Konservative Folkeparti.";Bertel Haarder
+85040;Time;"(Ordfører)
+Mai Henriksen (KF):
+Der er blevet sagt mange gode ting heroppefra. Om det her er lakmusprøven på, at det er en tillids- og afbureaukratiseringsregering,
+vi har fået, er jeg nu ikke helt sikker på.
+Jeg vil blot sige, at De Konservative kan støtte det her lovforslag.";Kl. 14:26
+85328;Time;;Kl. 14:26
+85365;title_name;":
+Tak til ordførerne. Og så er det ministeren til sidst.";Bertel Haarder
+85431;Time;;Kl. 14:26
+85487;title_name;":
+Jeg vil også gerne takke for den brede tilslutning til dette lovforslag.
+Om ikke andet kan vi i hvert fald være enige om, at det er et, der er
+med til at afbureaukratisere, og så kan vi tage den store diskussion
+om den generelle afbureaukratisering en anden god gang. Men tak
+for opbakningen i hvert fald. Det er en lille, men nytte ændring, der
+kommer til at ske her.
+Derfor skal jeg blot lige komme med en enkelt kommentar, for
+både Enhedslistens ordfører og Liberal Alliances ordfører forholdt
+sig til det, som jo er det allervigtigste, når vi snakker om AER-ordningen, Arbejdsgivernes Elevrefusion, nemlig, at den er med til at
+motivere virksomheder til at skabe flere praktikpladser, ved at der er
+en gulerod til dem, der opretter praktikpladser finansieret via AERordningen, og at dem, der ikke gør det, betaler til AER-ordningen.
+Det er bare for at sige, at vi har en mangeårig fin tradition for, at arbejdsgiverne er rigtig gode til at gå ind og løfte i forhold til praktikpladsopgaven. Det er i hvert fald ikke noget ønske fra regeringen at
+bruge tvang.
+Men det er som sagt ikke lige det, lovforslaget går ud på, men
+mekanismen er jo det, der er det centrale, nemlig hvordan vi sikrer,
+at alle unge får en praktikplads enten ude i virksomhederne eller som
+alternativ en skolepraktik eller lignende, sådan at vi får nogle rigtig
+dygtige håndværkere også i fremtiden, selv om der er krise lige nu.
+Men tak for modtagelsen af forslaget.";Christine Antorini
+86941;Time;;Kl. 14:27
+86978;title_name;":
+Tak til børne- og undervisningsministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+
+16
+
+Tirsdag den 7. februar 2012 (L 49)
+
+Jeg foreslår, at lovforslaget henvises til Børne- og Undervisningsudvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+13) 1. behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om valg til Folketinget. (Bedre
+udnyttelse af Folketingets medlemsboliger, præciseringer vedrørende medlemsbolig- og boliggodtgørelsesordningerne, mere
+fleksible regler for kørselsgodtgørelse til Folketingets medlemmer m.v.).
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 08.12.2011).";Bertel Haarder
+87776;Time;Forhandling;Kl. 14:28
+87825;title_name;":
+Jeg giver ordet til den første ordfører, hr. Flemming Damgaard Larsen.";Bertel Haarder
+87907;Time;(Ordfører);Kl. 14:28
+87948;name_party;":
+Dette lovforslag har to hovedelementer i sig:
+For det første giver det mulighed for, at ikkeboligberettigede folketingsmedlemmer kan komme i betragtning til de medlemsboliger,
+som Folketinget råder over, når disse boliger ikke er udnyttet af
+dem, som de primært er sigtet på. Og det er netop for, hvis der er
+tomme boliger, at de så ikke skal stå tomme, men at folketingsmedlemmer, som ikke umiddelbart er berettiget, efter ansøgning kan udnytte boligerne.
+For det andet giver lovforslaget en bemyndigelse til Folketingets
+formand om at kunne dispensere, således at et folketingsmedlem kan
+få befordringsgodtgørelse for kørsel i egen bil, hvis det ikke er muligt eller er uhensigtsmæssigt at benytte offentlige transportmidler.
+Der er visse situationer, hvor det er tilfældet, og derfor denne smidiggørelse på området.
+Så er der derudover nogle enkelte andre mere tekniske ændringer,
+præciseringer m.v., også af noget, som i virkeligheden er gældende
+ret, og der er nogle bestemmelser, der bliver flyttet fra bekendtgørelsen over i loven. Det er det, som lovforslaget går ud på.
+I Venstre kan vi fuldt ud tilslutte os det pågældende lovforslag,
+og vi vil følge arbejdet nærmere under behandlingen i Udvalget for
+Forretningsordenen.";Flemming Damgaard Larsen
+89191;Time;"Formanden:
+Tak til Venstres ordfører. Så er det fru Karen J. Klint som socialdemokratisk ordfører.";Kl. 14:30
+89301;Time;(Ordfører);Kl. 14:30
+89332;name_party;":
+Det er ganske korrekt, som Venstres ordfører sagde, nemlig at noget
+af det lovforslag, vi har foran os her, i høj grad handler om at løfte
+ting fra en bekendtgørelse over i selve folketingsvalgloven. Det er jo
+meget godt, for så er vi i hvert fald da sikre på, at det står det rigtige
+sted, og også at det skal i Folketingssalen for at blive ændret, hvis
+der skal ændres på det igen.
+
+Vi synes blandt Socialdemokraterne, at det er yderst fornuftigt,
+hvis der står en af de nye boliger tomme, at den så også kan blive
+brugt af medlemmer, der ikke opfylder alle kriterier for at få tildelt
+en bolig, men på de præmisser, at hvis der kommer et medlem, der
+opfylder alle kriterierne, så skal man kunne forlade den bolig igen
+inden for en frist på 2 uger for at frigøre boligen til den, der er fuldt
+berettiget til den. Det er en ny ordning i forhold til den eksisterende
+ordning, og den hilser vi velkommen, for vi skal selvfølgelig ikke
+som stat eje nogle medlemsboliger, som så står tomme. Det må være
+meningen, at de skal være i brug.
+Så er der også en bemyndigelse til selve Forretningsudvalget herinde om at fastsætte regler for adgang til ydelser under orlov, hvis et
+medlem har flyttet bolig. Det synes vi også er meget fornuftigt, altså
+at tingene ikke skal blive for bureaukratiske igen, men at der er en
+bemyndigelse til Forretningsudvalget.
+Endelig er der så en bemyndigelse til formanden herinde, som
+kan beslutte om kørsel til visse politiske aktiviteter, og ikke kun om
+den kørsel, vi har mellem hjem og nærmeste offentlige transportmiddel. Hvis vi skal have hele Danmark i tale, er det jo rigtig vigtigt, at
+vi også på en rimelig tid kan nå rundt til alle hjørner af Danmark, og
+der er det jo ikke altid, at de offentlige transportmidler er tidsmæssigt konkurrencedygtige, og de er det heller ikke nødvendigvis økonomisk. Så det at give os adgang til at bruge den private bil en gang
+imellem er der faktisk også noget økonomi i.
+Så er der en lille kuriositet, som jeg synes – når vi nu har så god
+tid i dag, at vi allerede er på – vi også godt kan nævne, nemlig at vi
+så endelig får rettet op på, at der selvfølgelig er kvinder i Folketinget, og at ikke alting i folketingsvalgloven står i hankøn, men at det
+nu bliver gjort sådan, at vi får nogle kønsneutrale ord ind i folketingsvalgloven.
+Så med de bemærkninger kan den socialdemokratiske gruppe naturligvis støtte op om det, vi også har været enige om at være med til
+at fremsætte på Præsidiets vegne.";Karen J. Klint
+91810;Time;"Formanden:
+Tak til den socialdemokratiske ordfører. Jeg ser ikke Dansk Folkepartis ordfører, hr. Søren Espersen, men han er en af forslagsstillerne, så jeg går ud fra, at vi kender hans holdning. Fru Marianne Jelved som radikal ordfører.";Kl. 14:33
+92059;Time;(Ordfører);Kl. 14:33
+92092;name_party;":
+Jeg har også den store fornøjelse at være medforslagsstiller på forslaget, men jeg vil dog alligevel gerne lige understrege, at vi i Det
+Radikale Venstre finder, at det er en rigtig, rigtig god idé, at Folketinget nu administrerer en række boliger til medlemmerne. Det kender vi fra andre lande, også fra de nordiske lande, som har haft sådan
+en ordning igennem rigtig mange år. Nu får vi en tilsvarende ordning
+i Danmark, og det synes jeg og Det Radikale Venstre er et kolossalt
+stort fremskridt.
+Vi håber, at vi kan fortsætte den linje og få udbygget boligantallet, så det matcher det antal, vi ved der kommer fra resten af landet,
+altså uden for det sjællandske område. Vi synes også, at der er en
+pragmatisk, god mulighed for at gøre undtagelser for medlemmer,
+der bor på Sjælland i en vis afstand fra København, og at den fleksibilitet, der ligger her i forslaget, er kærkommen, for der kan være
+forhold, som vi slet ikke har overskuet eller har fået øje på endnu,
+når vi lovgiver. Men der er altså givet mulighed for fleksibilitet og
+handling i konkrete sager. Det er vi helt trygge ved.
+I øvrigt er der en række andre forbedringer og præciseringer omkring vilkårene for det at være folketingsmedlem, som vi synes er rimelige og på sin plads i et moderne samfund.
+
+Tirsdag den 7. februar 2012 (B 35)
+
+Med de ord støtter den radikale folketingsgruppe helt op om forslaget.";Marianne Jelved
+93482;Time;"Formanden:
+Tak til den radikale ordfører. SF's ordfører, hr. Holger K. Nielsen, er
+heller ikke til stede, men han er også medforslagsstiller, så jeg forudsætter, at vi også kender hans holdning. Enhedslistens ordfører er
+heller ikke til stede. Så er det fru Thyra Frank som ordfører for Liberal Alliance.";Kl. 14:34
+93798;Time;(Ordfører);Kl. 14:35
+93827;name_party;":
+Da vores gruppeformand i Liberal Alliance desværre ikke kan være
+til stede i dag, skal jeg hermed holde hans tale i forbindelse med behandlingen af L 49.
+Det er vigtigt, at vi i Folketinget har et fast øje på de ordninger,
+vi vedtager for os selv. Vi skal altid huske, at det i sidste ende er de
+danske skatteydere, der må samle regningen op for os. Det er også
+derfor, at vi i Liberal Alliance tidligere har stillet forslag om, at vores pensionsvilkår kommer til at være i bedre overensstemmelse med
+borgernes.
+Det lovforslag, vi behandler i dag, sikrer på en række områder en
+større fleksibilitet i udnyttelsen af Folketingets lejligheder samt i forhold til befordringsgodtgørelsesreglerne. Medlemsboligerne vil med
+regelændringerne i højere grad end i dag være udlejet, og ordningen
+vil derfor i højere grad bære økonomisk i sig selv, og det er fornuftigt.
+I Liberal Alliance ser vi gerne, at man går endnu videre ad det
+spor. Vi agter derfor også at sikre en drøftelse i udvalget om muligheden for at give Folketingets formand hjemmel til at dispensere i
+sager om støtte til boliger, som bl.a. jyske folketingsmedlemmer allerede ejede i København, før de blev valgt.
+Vi ser derfor frem til de videre diskussioner af forslaget i udvalget.";Thyra Frank
+95080;Time;"Formanden:
+Tak til ordføreren for Liberal Alliance. Jeg ser ikke nogen ordfører
+fra De Konservative. Der er ikke flere, der har bedt om ordet.
+Jeg vil som en af forslagsstillerne sige, at de faldne bemærkninger selvfølgelig vil blive taget ad notam i udvalgsarbejdet.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Udvalget for Forretningsordenen. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+17
+
+Det sidste punkt på dagsordenen er:
+14) 1. behandling af beslutningsforslag nr. B 35:
+Forslag til folketingsbeslutning om ændring af folketingsbeslutning om statsrevisorernes valg og virksomhed.
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 31.01.2012).";Kl. 14:36
+95923;Time;"Forhandling
+Formanden:
+Dette beslutningsforslag er som bekendt Folketingets ansvar, og jeg
+vil på Præsidiets vegne følge debatten med henblik på den videre behandling.
+Forhandlingen er åbnet. Hr. Bertel Haarder som Venstres ordfører.";Kl. 14:37
+96168;Time;(Ordfører);Kl. 14:37
+96199;name_party;":
+Jeg tror hverken det vil overraske formanden eller andre, at jeg kan
+støtte dette forslag, som jeg selv er medforslagsstiller på. Det forholder sig sådan, at et folketingsudvalg kan opfordre statsrevisorerne til
+at lade Rigsrevisionen skrive en beretning om et forhold af offentlig
+interesse, og så vil det for fremtiden være sådan, at når udvalget
+modtager Rigsrevisionens beretning, vil statsrevisorernes kommentarer så at sige være vedhæftede, så man derved får en samlet vurdering fra statsrevisorerne og Rigsrevisionen.
+Hvis man kan stille spørgsmål til det, er det, hvorfor det ikke allerede er sådan i dag. Men svaret er, at nu bliver det i hvert fald sådan, hvis Folketinget godkender forslaget.";Bertel Haarder
+96914;Time;"Formanden:
+Tak til Venstres ordfører. Fru Karen J. Klint som socialdemokratisk
+ordfører.";Kl. 14:38
+97014;Time;(Ordfører);Kl. 14:39
+97045;name_party;":
+Det er korrekt, som hr. Bertel Haarder sagde, at man kunne have undret sig over, hvorfor vi ikke har gjort det her noget før. Jeg vil netop
+sige, at når et udvalg anmoder om at få noget undersøgt, er det meget smart, når det skal igennem to instanser, at man får en samlet
+vurdering fra begge instanser, så man som udvalg kan forholde sig
+til den samlede beretning, så man kan se, om der er nye ting i det.
+Det er så den rationalisering, der kommer med forslaget her.
+Det er så lidt vigtigt at sige, at det jo ikke bliver en yderligere
+forsinkelse, at man nu udtaler sig samlet eller i forlængelse af hinanden, for det er jo ikke en fælles udtalelse, det er to selvstændige udtalelser, og det er nok også vigtigt at holde fast i her. Men det bliver
+stadig væk inden for den 2-ugers-frist, der ligger i det, så et udvalg
+vil stadig væk bliver serviceret efter det, de anmoder om. Så vi støtter beslutningsforslaget og vil selvfølgelig også stemme for.";Karen J. Klint
+98007;Time;"Formanden:
+Tak til den socialdemokratiske ordfører. Søren Espersen som Dansk
+Folkepartis ordfører.
+
+18
+
+Tirsdag den 7. februar 2012 (FM )";Kl. 14:39
+98158;Time;(Ordfører);Kl. 14:40
+98190;name_party;":
+Jeg kan bare kort sige, at jeg kan tilslutte mig det, som både Venstres og Socialdemokratiets ordførere har fremlagt, og Dansk Folkeparti kan støtte forslaget.";Søren Espersen
+98361;Time;"Formanden:
+Tak til ordføreren. Fru Marianne Jelved som radikal ordfører.";Kl. 14:40
+98445;Time;(Ordfører);Kl. 14:40
+98478;name_party;":
+Jeg kan tilslutte mig de tre foregående talere. Jeg synes også, at det
+er en glimrende anledning til at påpege over for udvalgene i Folketinget, at Rigsrevisionen og statsrevisorerne faktisk spiller en meget
+væsentlig rolle for vores demokrati og for troværdigheden i demokratiet. Udvalgene har muligheder, som jeg ikke altid tror de er helt
+klar over de har. Jeg nævner det for også at inddrage den del af det
+politiske arbejde, der gå ud på at kigge over skulderen for at se, om
+tingene foregår på den rigtige måde.
+I øvrigt bør vi måske også overveje, hvordan vi i fagudvalgene
+kan styrke opfølgningen på de betænkninger, beretninger, der kommer fra Rigsrevisionen og statsrevisorerne. Det arbejde, der ligger
+der, og alvoren bagved, fortjener, at vi har en solid og tillidsvækkende revision af alle vores aktiviteter. Det Radikale Venstre støtter det
+her.";Marianne Jelved
+99349;Time;"Formanden:
+Tak til den radikale ordfører. SF's ordfører er ikke til stede, men SF
+er en af forslagsstillerne. Enhedslisten har ikke nogen ordfører i salen. Fru Thyra Frank som ordfører for Liberal Alliance.";Kl. 14:41
+99567;Time;(Ordfører);Kl. 14:41
+99596;name_party;":
+Det forslag, vi behandler nu, er et af resultaterne af et større og grundigt arbejde med den danske statslige revisionsordning. Den foreslåede ændring betyder som bekendt, at når et folketingsudvalg fremover modtager beretninger fra rigsrevisor og statsrevisorernes bemærkninger hertil, bliver det som en samlet pakke. Derfor vil folketingsudvalget naturligvis have et bedre grundlag til at tage stilling i
+den sag, beretningen vedrører. Det er endvidere værd at bemærke, at
+det med ændringen vil være sådan, at folketingsudvalget i alle tilfælde vil have modtaget statsrevisorernes bemærkninger til beretningen
+inden den 2-ugers-frist, som udvalget har til at meddele statsrevisorerne, om det vil lade rigsrevisors beretning i sin helhed indgå eller
+optrykke som bilag til en udvalgsbetænkning eller beretning, inden
+de begynder at løbe. Dette medfører i sagens natur en større fleksibilitet for udvalgene, og Liberal Alliance støtter beslutningsforslaget.";Thyra Frank
+100565;Time;"Formanden:
+Tak til ordføreren. Hr. Brian Mikkelsen som konservativ ordfører.";Kl. 14:42
+100653;Time;(Ordfører);Kl. 14:43
+100686;name_party;":
+Statsrevisorerne udfører et vigtigt arbejde for Danmark, for parlamentet. Det er en sikkerhed, som er nødvendig også i vores system,
+så Det Konservative Folkeparti kan støtte det, efter det grundige arbejde der er lavet forud for beslutningsforslaget her. Det er et arbej-
+
+de, som sikrer mere effektivitet og mere struktur også i statsrevisorernes arbejde, så vi støtter forslaget.";Brian Mikkelsen
+101080;Time;"Formanden:
+Tak til ordføreren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at forslaget til folketingsbeslutning henvises til Udvalget for Forretningsordenen. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Kl. 14:43
+101368;Time;"Meddelelser fra formanden
+Formanden:
+I dag er der følgende anmeldelse:
+Bent Bøgsted (DF) m.fl.:
+Forespørgsel nr. F 22 (Hvad kan regeringen oplyse om kommunernes anvendelse af lægekonsulenter, hvad vil regeringen gøre for at
+sikre, at kommunerne efterlever og overholder Social- og Integrationsministeriets retningslinjer, og vil regeringen overveje i den sociale lovgivning at fastsætte retligt bindende regler for lægekonsulenternes funktion og opgaver?).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+Fra statsministeren har jeg modtaget meddelelse om, at ressortansvaret for statens ejerskab af Christiania-området overføres fra Finansministeriet til Klima-, Energi- og Bygningsministeriet.
+Meddelelsen vil fremgå af www. folketingstidende.dk (jf. nedenfor).
+[»Folketingets Formand
+Efter statsministerens indstilling er det ved kongelig resolution af 27.
+januar 2012 bestemt, at ressortansvaret for statens ejerskab af Christiania-området overføres fra Finansministeriet til Klima-, Energiog Bygningsministeriet.
+Jeg beder formanden underrette Folketinget herom.
+Sign. Helle Thorning-Schmidt
+/Mohammad Ahsan«].
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 8. februar
+2012, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 14:44).";Kl. 14:43

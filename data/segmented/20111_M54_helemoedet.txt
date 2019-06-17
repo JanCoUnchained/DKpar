@@ -1,0 +1,1019 @@
+split;reason;text;value
+0;;"Torsdag den 1. marts 2012 (D)
+
+54. møde";
+75;Time;"Dagsorden
+1) 3. behandling af lovforslag nr. L 38:
+Forslag til lov om tilskud til Færøernes hjemmestyre for 2012.
+Af finansministeren (Bjarne Corydon).
+(Fremsættelse 23.11.2011. 1. behandling 29.11.2011. Betænkning
+01.02.2012. 2. behandling 07.02.2012. Lovforslaget optrykt efter 2.
+behandling).
+
+1
+
+Af erhvervs- og vækstministeren (Ole Sohn).
+(Fremsættelse 18.01.2012. 1. behandling 26.01.2012. Betænkning
+23.02.2012).
+7) 1. behandling af lovforslag nr. L 93:
+Forslag til lov om ændring af fiskeriloven. (Rådgivende udvalg, fiskeri af laks i visse vandsystemer, EU-pointsystem for alvorlige
+overtrædelser, beslaglæggelse af fiskeredskaber m.v. og straffemyndighed for visse eksterritoriale overtrædelser).
+Af fødevareministeren (Mette Gjerskov).
+(Fremsættelse 23.02.2012).";kl. 10.00
+860;Time;"2) 3. behandling af lovforslag nr. L 73:
+Forslag til lov om ændring af lov om social service. (Ledsagelse til
+børn og unge mellem 12 og 15 år med nedsat funktionsevne).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 25.01.2012. 1. behandling 07.02.2012. Betænkning
+23.02.2012. 2. behandling 28.02.2012).
+
+Formanden:
+Mødet er åbnet.
+
+3) 2. (sidste) behandling af beslutningsforslag nr. B 35:
+Forslag til folketingsbeslutning om ændring af folketingsbeslutning
+om statsrevisorernes valg og virksomhed.
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 31.01.2012. 1. behandling 07.02.2012. Betænkning
+22.02.2012).
+
+Det første punkt på dagsordenen er:
+1) 3. behandling af lovforslag nr. L 38:
+Forslag til lov om tilskud til Færøernes hjemmestyre for 2012.
+Af finansministeren (Bjarne Corydon).
+(Fremsættelse 23.11.2011. 1. behandling 29.11.2011. Betænkning
+01.02.2012. 2. behandling 07.02.2012. Lovforslaget optrykt efter 2.
+behandling).";Kl. 10:00
+1906;Time;"4) 2. behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om valg til Folketinget. (Bedre udnyttelse af Folketingets medlemsboliger, præciseringer vedrørende
+medlemsbolig- og boliggodtgørelsesordningerne, mere fleksible regler for kørselsgodtgørelse til Folketingets medlemmer m.v.).
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 08.12.2011. 1. behandling 07.02.2012. Betænkning
+22.02.2012).
+5) 2. behandling af lovforslag nr. L 60:
+Forslag til lov om ændring af søloven og lov om sikkerhed til søs.
+(Tilpasninger som følge af Athenforordningen, gennemførelse af
+2002-Athenkonventionen og registrering af skibe med frist).
+Af erhvervs- og vækstministeren (Ole Sohn).
+(Fremsættelse 21.12.2011. 1. behandling 26.01.2012. Betænkning
+23.02.2012. Ændringsforslag nr. 3 af 28.02.2012 uden for betænkningen af erhvervs- og vækstministeren (Ole Sohn)).
+6) 2. behandling af lovforslag nr. L 68:
+Forslag til lov om ændring af lov om elektroniske kommunikationsnet og -tjenester. (Opgørelse af nettoomkostninger ved udbud af forsyningspligtydelser).
+
+Forhandling
+Formanden:
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig? Hr. Sjúrður Skaale som ordfører.";Kl. 10:00
+3177;Time;(Ordfører);Kl. 10:00
+3209;name_party;":
+Tak for ordet. Den her sag drejer sig ikke om store beløb – en forhøjelse af bloktilskuddet til Færøerne på 8,6 mio. kr. – men den drejer
+sig om et rimelig vigtigt princip, hvor man går fra, at bloktilskuddet
+har været fastfrosset nominelt, til at det nu bliver dyrtidsreguleret.
+Sagen har været diskuteret flere gange, både under første behandling
+og anden behandling og under finanslovdebatten, for selv om beløbet er lille, er princippet meget vigtigt. Jeg har jo haft den holdning,
+at jeg syntes, at fastfrysningen af støtten var en god idé. Det var en
+god, lempelig, forsigtig måde at udfase støtten fra Danmark til Færøerne på og at flytte Færøerne hen imod økonomisk uafhængighed
+af Danmark. Derfor er det, synes jeg, beklageligt, at man nu begyn-
+
+2
+
+Torsdag den 1. marts 2012 (L 73)
+
+der at dyrtidsregulere den igen og holde støtten på samme værdi,
+som den har været på før.
+Men det skal jeg ikke komme ind på nu. Jeg har taget ordet, fordi
+der er blevet rejst to ting i debatten, som jeg gerne vil have finansministeren til at bekræfte. Der har jo været ønske fra færøsk side om at
+forhøje bloktilskuddet med 200 mio. kr., og det er bygget på et argument om, at Danmark har ansvaret for visse områder på Færøerne.
+Det var sådan i gamle dage, i 1980'erne, at der var en refusionsordning gældende, hvor det færøske hjemmestyre af staten fik refunderet omkostningerne på visse sagsområder på Færøerne. Så kom bloktilskuddet – man talte sammen om, hvor stort refusionen var alt i alt,
+og det blev så til en pakke, som blev kaldt for bloktilskuddet. Så har
+man sagt, at bloktilskuddet stadig væk er øremærket til disse sagsområder, og det vil sige, at Danmark stadig væk har ansvaret for visse sager på Færøerne. Det er ligesom det, som argumentation har
+bygget på, når man har ønsket højere bloktilskud.
+Jeg vil gerne spørge finansministeren, om han kan bekræfte, at
+det ikke er sådan, men at det er således, at bloktilskuddet er et generelt tilskud, at det ikke er øremærket til visse sagsområder, men at
+det er det færøske hjemmestyre, der fuldstændig suverænt bestemmer, hvorledes pengene bliver brugt, og at Danmark altså ikke har
+det økonomiske ansvar for de sagsområder, som i gamle dage indgik
+i refusionsordningen.
+Et andet spørgsmål drejer sig om, at man i debatten på Færøerne
+om den her sag har beskyldt undertegnede for at være årsag til, at
+Færøerne ikke får de 200 mio. kr. ekstra, fordi jeg skal have presset
+regeringen til at gå imod landsstyrets ønsker. Jeg har sagt min mening – jeg synes ikke, det her er en god idé – men jeg har hele tiden
+sagt, at jeg støtter den linje, som flertallet på Færøerne har. Så jeg vil
+også gerne bede finansministeren om at bekræfte, at jeg ikke på nogen måde har presset regeringen til at gå imod landsstyrets ønsker.
+Jeg har sagt min mening, hvor jeg syntes det var på sin plads, men
+jeg har også sagt, at jeg støtter den aftale, som bliver indgået, og jeg
+har ikke på nogen måde lagt pres på finansministeren i den her sag.
+Tak for ordet.";Sjúrður Skaale
+6220;Time;"Afstemning
+Formanden:
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Vi slutter afstemningen.
+Lovforslaget er enstemmigt vedtaget med 111 stemmer og vil nu blive sendt til statsministeren.
+[For stemte 111 (V, S, DF, RV, SF, EL, LA, KF og SP), imod stemte
+0, hverken for eller imod stemte 0].
+
+Det næste punkt på dagsordenen er:
+2) 3. behandling af lovforslag nr. L 73:
+Forslag til lov om ændring af lov om social service. (Ledsagelse
+til børn og unge mellem 12 og 15 år med nedsat funktionsevne).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 25.01.2012. 1. behandling 07.02.2012. Betænkning
+23.02.2012. 2. behandling 28.02.2012).";Kl. 10:05
+6908;Time;"Forhandling
+Formanden:
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Det er ikke tilfældet, og så går vi til afstemning.";Kl. 10:06
+7059;Time;;Kl. 10:06
+7070;Time;"Formanden:
+Tak til hr. Sjúrður Skaale. Ville fru Pernille Skipper have ordet, eller
+var det en fejl? Det var en fejl. Ønsker finansministeren ordet? Værsgo.";Kl. 10:04
+7238;Time;;Kl. 10:04
+7273;title_name;":
+Mange tak. Jeg vil på foranledning af hr. Sjúrður Skaale gerne kort
+adressere de to spørgsmål, der er blevet rejst, og jeg tror, det kan gøres relativt præcist og relativt kortfattet.
+Først ligger det fuldstændig åbenlyst i lovgivningen, at der er tale
+om et bloktilskud og ikke længere en refusionsordning. Det betyder,
+at staten, Danmark, ikke længere har indflydelse på organiseringen
+af de pågældende sagsområder i Færøerne, at den danske stats medfinansiering af områderne er ophørt, og at der gives et generelt bloktilskud, som administreres af Færøernes hjemmestyre selv.
+Det andet spørgsmål kan besvares næsten endnu klarere og endnu
+kortere: Det er ikke sådan, at der fra hr. Sjúrður Skaales side har været lagt pres på regeringen i den her sag. Regeringen har formuleret
+sin holdning til spørgsmålet ud fra den opfattelse, der er gældende i
+regeringspartierne selv, og forhandlet, synes jeg, udmærket og respektfuldt med det færøske hjemmestyre på den baggrund.
+Så det er svarene på de to spørgsmål.";Bjarne Corydon
+8294;Time;"Formanden:
+Tak til finansministeren. Ønsker flere at udtale sig?
+Det er vist ikke tilfældet. Så kan vi gå til afstemning.
+
+Afstemning
+Formanden:
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes nu.
+Vi slutter afstemningen.
+Lovforslaget er enstemmigt vedtaget med 110 stemmer og vil nu blive sendt til statsministeren.
+[For stemte 110 (V, S, DF, RV, SF, EL, LA, KF og SP), imod stemte
+0, hverken for eller imod stemte 0].
+
+Torsdag den 1. marts 2012 (L 49)
+
+Det næste punkt på dagsordenen er:
+3) 2. (sidste) behandling af beslutningsforslag nr. B 35:
+Forslag til folketingsbeslutning om ændring af folketingsbeslutning om statsrevisorernes valg og virksomhed.
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 31.01.2012. 1. behandling 07.02.2012. Betænkning
+22.02.2012).
+
+3
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Kl. 10:05
+9351;Time;"Forhandling
+Formanden:
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Kl. 10:07
+9499;Time;"Det næste punkt på dagsordenen er:
+5) 2. behandling af lovforslag nr. L 60:
+Forslag til lov om ændring af søloven og lov om sikkerhed til søs.
+(Tilpasninger som følge af Athenforordningen, gennemførelse af
+2002-Athenkonventionen og registrering af skibe med frist).
+Af erhvervs- og vækstministeren (Ole Sohn).
+(Fremsættelse 21.12.2011. 1. behandling 26.01.2012. Betænkning
+23.02.2012. Ændringsforslag nr. 3 af 28.02.2012 uden for betænkningen af erhvervs- og vækstministeren (Ole Sohn)).";Kl. 10:07
+9998;Time;"Afstemning
+Forhandling
+Formanden:
+Der stemmes om beslutningsforslagets endelige vedtagelse.
+Vi slutter afstemningen.
+Forslaget til folketingsbeslutning er enstemmigt vedtaget med 110
+stemmer og vil nu blive sendt til statsrevisorerne.
+[For stemte 110 (V, S, DF, RV, SF, EL, LA og KF), imod stemte 0,
+hverken for eller imod stemte 0].
+
+Formanden:
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Kl. 10:08
+10461;Time;"Afstemning
+Formanden:
+Ønskes afstemning om ændringsforslag nr. 1 og 2, tiltrådt af udvalget?
+De er vedtaget.
+
+Det næste punkt på dagsordenen er:
+4) 2. behandling af lovforslag nr. L 49:
+Forslag til lov om ændring af lov om valg til Folketinget. (Bedre
+udnyttelse af Folketingets medlemsboliger, præciseringer vedrørende medlemsbolig- og boliggodtgørelsesordningerne, mere
+fleksible regler for kørselsgodtgørelse til Folketingets medlemmer m.v.).
+Af Mogens Lykketoft (S), Bertel Haarder (V), Søren Espersen (DF),
+Marianne Jelved (RV) og Holger K. Nielsen (SF).
+(Fremsættelse 08.12.2011. 1. behandling 07.02.2012. Betænkning
+22.02.2012).
+
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 3
+uden for betænkningen af erhvervs- og vækstministeren (Ole Sohn)
+som vedtaget.
+Det er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Kl. 10:09
+11444;Time;"Forhandling
+Formanden:
+Ønsker nogen at udtale sig
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Kl. 10:08
+11583;Time;"Afstemning
+Formanden:
+Ønskes afstemning om ændringsforslag nr. 1 af udvalget?
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+6) 2. behandling af lovforslag nr. L 68:
+Forslag til lov om ændring af lov om elektroniske kommunikationsnet og -tjenester. (Opgørelse af nettoomkostninger ved udbud
+af forsyningspligtydelser).
+Af erhvervs- og vækstministeren (Ole Sohn).
+(Fremsættelse 18.01.2012. 1. behandling 26.01.2012. Betænkning
+23.02.2012).";Kl. 10:08
+12039;Time;"Forhandling
+Formanden:
+Ønsker nogen at udtale sig?
+
+4
+
+Torsdag den 1. marts 2012 (L 93)
+
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Kl. 10:09
+12218;Time;"Afstemning
+Formanden:
+Ønskes afstemning om ændringsforslagene nr. 1 og 2, tiltrådt af et
+flertal, udvalget med undtagelse af Enhedslisten?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+7) 1. behandling af lovforslag nr. L 93:
+Forslag til lov om ændring af fiskeriloven. (Rådgivende udvalg,
+fiskeri af laks i visse vandsystemer, EU-pointsystem for alvorlige
+overtrædelser, beslaglæggelse af fiskeredskaber m.v. og straffemyndighed for visse eksterritoriale overtrædelser).
+Af fødevareministeren (Mette Gjerskov).
+(Fremsættelse 23.02.2012).";Kl. 10:10
+12947;Time;"Forhandling
+Formanden:
+Forhandlingen er åbnet. Hr. Esben Lunde Larsen som ordfører for
+Venstre.";Kl. 10:10
+13054;Time;(Ordfører);Kl. 10:10
+13089;name_party;":
+Vi har i dag L 93 til første behandling. Det er forslag til lov om ændring af fiskeriloven, der vedrører rådgivende udvalg, fiskeri af laks
+i visse vandsystemer, EU-pointsystem for alvorlige overtrædelser,
+beslaglæggelse af fiskeredskaber og straffemyndighed for visse eksterritoriale overtrædelser – en blandet landhandel kan man vist roligt
+tillade sig at sige.
+Som led i EU's forstærkede indsats mod ulovligt fiskeri både inden for og uden for EU er der vedtaget en række forordninger, som
+har til formål at ramme de former for adfærd, som forårsager de alvorligste skader på havmiljøet og på fiskebestandenes bæredygtighed, og som derfor samtidig forringer den socioøkonomiske situation for de fiskere, der faktisk overholder reglerne. Denne form for
+adfærd betegnes som IUU-fiskeri, dvs. ulovligt, urapporteret og ureguleret fiskeri, og er defineret i EU's IUU-forordninger. Til denne
+forordning og disse forordninger er der kædet en kontrolforordning,
+som regulerer EU's interne indsats mod ulovligt fiskeri gennem et
+pointsystem.
+L 93 fremsættes for at sikre fornødent og korrekt sammenkædning af EU-forordningerne med dansk ret og for at etablere de administrative og retssikkerhedsmæssige rammer for EU-pointsystemerne
+for alvorlige overtrædelser i relation til ejere af fiskefartøjer. I yderste konsekvens kan brud på dette pointsystem føre til, at retten til i
+erhvervsøjemed at føre fiskefartøj kan bortfalde ved forbud.
+L 93 indebærer endvidere, at der indføres dansk straffemyndighed for danske statsborgeres deltagelse i eller medvirken til IUU-fi-
+
+skeri, uanset hvor i verden det måtte foregå, altså det eksterritoriale
+princip. Derudover indeholder L 93 bestemmelser, der har baggrund
+i behovet for en national regulering og præcisering vedrørende sammensætning af rådgivende udvalg, forvaltning af laksekvoter og opfølgning på finansloven for 2012 vedrørende ændret betaling for fisketegn. L 93 indeholder en præcisering af den gældende praksis for
+tildeling af laksekvoter til vestvendte jyske åsystemer samt en række
+forslag til modernisering af bestemmelserne vedrørende rådgivende
+udvalg.
+Der er dele af lovforslaget, som Venstre ikke ser problemer i. Det
+gælder de justeringer af rådgivende udvalg, laksekvoter og opfølgning i forhold til fisketegn, der er lagt op til. Venstre anbefaler også
+det grundlæggende princip i lovforslaget om at bekæmpe ulovligt fiskeri uanset territorial afgrænsning.
+Imidlertid er der retspolitiske følger af lovforslaget, som Venstre
+har betænkeligheder ved, og som vi ønsker afklaret i den kommende
+lovproces. Det gælder eksempelvis det princip, at der foreslås indført
+dansk straffemyndighed for danske statsborgeres deltagelse i eller
+medvirken til IUU-fiskeri, uanset hvor i verden det måtte foregå. Det
+problematiske heri kan være, at eksempelvis danske og spanske fiskere idømmes forskellig straf for den samme forseelse, hvis ikke
+IUU-reglerne sanktioneres på samme måde i alle EU-lande. Vi har
+hidtil set talrige eksempler på forskellig håndhævelse af EU-lov, og
+Venstre ønsker sikkerhed for, at det også bliver gjort gældende, ifald
+L 93 vedtages i sin nuværende udformning. Det må den efterfølgende lovgivningsproces afklare.
+Venstre har også betænkeligheder i forhold til de retssikkerhedsmæssige anmærkninger til lovforslaget, som henholdsvis Danmarks
+Fiskeriforening og Advokatrådet har fremført. Det er vigtigt at få undersøgt, om indførelsen af kontrolforordningens bestemmelser udfordrer rækkevidden af det danske retlige forbehold, og om lovens
+foreslåede sanktioner er et ekstra sæt sanktioner besluttet af EU og
+blot lagt oven på de eksisterende danske straffelovsbestemmelser.
+Den mest vidtrækkende følge af lovforslaget er lovforslagets § 39
+a, stk. 2, der indebærer, at:
+»Afgørelser ... i medfør af stk. 1 om permanent inddragelse af fiskerilicensen kan af fiskerilicensens indehaver forlanges indbragt for
+domstolene. Anmodning herom skal fremsættes over for ministeren
+inden fire uger efter, at inddragelsen er meddelt indehaveren.«
+En sådan foreslået inddragelse er et voldsomt indgreb uanset periode, og Venstre finder generelt, at straffen, inddragelse af licens,
+alene bør anvendes i undtagelsestilfælde. Det er væsentligt i den forbindelse at få afklaret i det videre lovgivningsmæssige arbejde, hvorvidt så vidtrækkende foranstaltninger gælder for andre erhverv. Det
+hænger ikke mindst sammen med det proportionalitetsprincip, som
+gøres gældende med lovforslaget.
+Af lovforslaget fremgår det også, at Fødevareministeriet tillige
+finder det væsentligt at understrege, at de sanktioner har til hensigt at
+ramme de alvorligste overtrædelser af fiskeripolitikken. I Venstre er
+vi interesseret i at vide, hvorvidt det eksempelvis betyder, at fejl i
+udfyldelsen af logbog er blandt de alvorligste overtrædelser af fiskeripolitikken.
+Venstre er tilhængere af, at der som minimum bør være mulighed
+for administrativ rekurs, det vil sige, at der bliver mulighed for at
+klage til et forvaltningsorgan over en afgørelse, der er truffet af et
+andet forvaltningsorgan, med efterfølgende mulighed for domstolsprøvelse i alle sager om inddragelse af fiskerilicens. Ved en
+domstolsprøvelse anbefaler vi at sagerne får opsættende virkning.
+Der er altså flere forbehold, der skal afklares i det efterfølgende
+lovgivningsarbejde, før Venstre gør sin endelige stilling klar til lovforslaget.";Esben Lunde Larsen
+18457;Time;"Formanden:
+Der er en kort bemærkning fra fru Lene Espersen.
+
+Torsdag den 1. marts 2012 (L 93)";Kl. 10:15
+18564;Time;;Kl. 10:15
+18584;name_party;":
+Jeg vil gerne takke hr. Esben Lunde Larsen for hans ordførertale på
+vegne af Venstre, og jeg vil spørge hr. Esben Lunde Larsen, om
+Venstre, hvis det under udvalgsbehandlingen viser sig, at ministeren
+ikke er indstillet på at lytte til den kritik, der er kommet fra Advokatrådet, vil være indstillet på at støtte et ændringsforslag til lovforslaget, således de retssikkerhedsmæssige betænkeligheder, som Advokatrådet peger på, både for så vidt angår § 39 a og § 39 b, vil være
+noget, som Folketinget vil tage hånd om bliver varetaget.";Lene Espersen
+19129;Time;"Formanden:
+Ordføreren.";Kl. 10:16
+19163;Time;;Kl. 10:16
+19187;name_party;":
+Jeg kan over for den konservative ordfører bekræfte, at det er noget,
+som Venstre er interesseret i. Venstre er, når det gælder muligheden
+for klageadgangen til Fødevareministeriets Klagecenter i forhold til
+permanente inddragelser, som Advokatrådet netop har påpeget, også
+interesseret i, at dette spørgsmål bliver en del af det videre arbejde i
+forhold til det med at få en opsættende virkning.";Esben Lunde Larsen
+19595;Time;"Formanden:
+Fru Lene Espersen.";Kl. 10:16
+19636;Time;;Kl. 10:17
+19656;name_party;":
+Jeg vil gerne takke hr. Esben Lunde Larsen for bekræftelsen af dette,
+og så vil jeg spørge hr. Esben Lunde Larsen, om Venstre også er
+indstillet på at følge det ganske udmærkede forslag, der er kommet
+fra Danmarks Fiskeriforening, om at sikre eleverne på fiskeriskolen
+og skipperskolen bedre muligheder for at komme i praktik, ved at
+der laves en yderligere ændring af lovforslaget, således at fiskeriskolen i Thyborøn og Skagen Skipperskole ved direkte ejerskab af undervisningsfartøjer kan meddeles tilladelse til erhvervsmæssigt fiskeri. Mange af os, der har besøgt både fiskeriskolen i Thyborøn og
+skipperskolen i Skagen, ved jo, at der er problemer med hensyn til
+praktikpladser, og jeg vil gerne høre, om Venstre vil være med til at
+gøre noget ved det.";Lene Espersen
+20426;Time;"Formanden:
+Ordføreren.";Kl. 10:17
+20460;Time;;Kl. 10:17
+20484;name_party;":
+Venstre finder, at forslaget fra Danmarks Fiskeriforening er et særdeles relevant forslag, både i forhold til skipperskolen i Skagen og
+fiskeriskolen i Thyborøn, og Venstre er også indstillet på at imødekomme de dele af forslaget, som den konservative ordfører nævner
+her.";Esben Lunde Larsen
+20768;Time;"Formanden:
+Tak til Venstres ordfører. Hr. Bjarne Laustsen som socialdemokratisk ordfører.";Kl. 10:17
+20869;Time;(Ordfører);Kl. 10:18
+20901;name_party;":
+Tak, formand. Nu har Venstres ordfører gennemgået en lang række
+af de ting, som er i lovforslaget her, L 93, vedrørende fiskeriloven,
+
+5
+
+og det var for så vidt ganske udmærket, selv om Venstre har lidt betænkeligheder på nogle af områderne, men det må vi prøve at kigge
+på under udvalgsarbejdet. Det her lovforslag handler jo dybest set
+om, at der skal være adgang til fiskeri på nogle lige og fair vilkår, og
+det betyder også, at der er en vis form for solidaritet i det her, sådan
+at de, der gør det godt, de, der gør det ordentligt og har et bæredygtigt fiskeri, jo ikke skal straffes for, at der er nogle, der ikke kan finde ud af det. Tværtimod er vi nødt til her at have et regelsæt, der gør,
+at vi selvfølgelig får nogle muligheder for at kunne sanktionere og
+straffe dem, der ikke kan forstå, at fiskeriet skal være bæredygtigt.
+Og det her system er jo bygget op omkring kontrolforordningen, og
+så er det sådan, at man til syvende og sidst helt kan forbyde dem at
+fiske.
+Noget nyt i det her er jo også, at man ikke bare går efter fartøjsejeren, men også efter fartøjsføreren, og det siger sig selv, at det er
+ganske udmærket, for det er jo trods alt den enkelte fartøjsfører, der
+har ansvaret for skibet og dermed også kan afgøre, hvor man skal fiske henne, og hvordan man skal fiske. Hvis de overtræder reglerne,
+synes jeg, det er fornuftigt, at lovforslaget her også rammer dem.
+Der er også en lang række andre ting heri vedrørende laks, og i
+princippet er laks jo fredede, så derfor er det også fornuftigt at have
+nogle meget klare regler for, hvordan man udfører noget laksefiskeri
+i forbindelse med pleje og avlsarbejde og andet. At der står noget om
+det, er vi også tilfredse med.
+Så er der en del vedrørende finansloven for 2012, der handler
+om, at der er behov for, at fisketegnet – et system, vi har kendt gennem mange år – stiger en smule. Pengene går jo direkte til yngelpleje og bliver betalt af dem, der er ude at lystfiske, og så er der jo også
+fritidsfiskertegnet, som bliver på 300 kr. Der er jo helt klart også i
+forhold til de muligheder, der er, en stor rabat ved at købe et fisketegn til hele året for 185 kr. Så det er vi tilfredse med.
+Så indeholder lovforslaget som sagt også en mulighed for, at ministeren kan beslutte noget om de rådgivende udvalg, som man er
+nødt til at have i et system som vores, så man kan nedsætte en række
+rådgivende udvalg med dem, der skal leve efter reglerne, dem, der
+har mulighed for at øve indflydelse på erhvervene. Det ved jeg at fiskerne er meget interesserede i, for det er jo derigennem, man kan få
+indflydelse på det arbejde, der ligger her. Derfor er det også meget
+fint. Der er sket en række sammenlægninger osv., der gør, at der er
+behov for, at der kommer en justering på det her område.
+Jeg har sådan set ikke andet at sige til det, end at hvis der måtte
+være nogle ting at diskutere – hvad også spørgsmålene fra den konservative ordfører drejede sig om – med hensyn til f.eks. uddannelsespladser osv., er vi selvfølgelig parate til at kigge på det. For det er
+sådan, at det kun er godt, hvis det også kan blive bedre for fiskerierhvervet med hensyn det problem, de har haft igennem mange år med
+at tage lærlinge ind. Så det er vi helt tilfredse med. Derfor kan Socialdemokratiet støtte det forslag, som ministeren er kommet med
+her. Jeg skulle også hilse fra Socialistisk Folkeparti, SF, og sige, at
+de også støtter forslaget. Tak.";Bjarne Laustsen
+24319;Time;"Formanden:
+Der er korte bemærkninger fra to. Fru Lene Espersen.";Kl. 10:22
+24394;Time;;Kl. 10:22
+24414;name_party;":
+Jeg vil gerne takke hr. Bjarne Laustsen som socialdemokratisk ordfører, for jeg hørte i hvert fald den sidste del af talen som en åbning i
+forhold til at se på spørgsmålet om lærlingeuddannelsen og praktikpladser som noget, Socialdemokratiet vil være åben over for. Jeg synes ikke, at ministerens begrundelse for ikke at tage det med i lovforslaget er særlig god. Begrundelsen er, at det kan man bare gøre i
+næste lovforslag. Jeg ved, at der er problemer med hensyn til praktikpladser, og derfor synes jeg, at det er noget, vi skal se på sammen.
+
+6
+
+Torsdag den 1. marts 2012 (L 93)
+
+Det, jeg så vil spørge ind til, er de meget alvorlige betænkeligheder, som Advokatrådet har givet udtryk for med hensyn til spørgsmålet om både klageadgang og opsættende virkning i forhold til
+søgsmål. Jeg vil høre, om Socialdemokratiet vil være indstillet på
+under udvalgsbehandlingen at se på den her problemstilling, således
+at retssikkerheden også tilgodeses.";Lene Espersen
+25374;Time;"Formanden:
+Ordføreren.";Kl. 10:22
+25408;Time;;Kl. 10:22
+25429;name_party;":
+I forhold til lærlinge vil jeg sige, at vi jo synes, at det er godt – for
+der er også en statistik, der viser, at fiskerne faktisk er langt oppe i
+årene, hvis man ser på sammensætningen på dem, der fisker i dag –
+når man har været til Fiskeriforeningens generalforsamling og har
+hørt, at der har været et ønske om at få flere unge ind i erhvervet. Jeg
+kender ikke lige problemsættet i forhold til det lovforslag her og lærlingeindtag. Jeg siger bare, at vi er optaget af at finde løsninger for
+de unge, der gerne vil ind i fiskeriet og gøre en karriere der, og det
+skal vi selvfølgelig have kigget på. Så vi er åbne over for at kigge
+på, hvordan det lige passer sammen med det her, men vi er parat til
+at tage en diskussion om det.
+I forhold til Advokatrådet og opsættende virkning og den slags
+ting vil jeg sige, at vi jo igennem de senere år – jeg tænker også her
+på det område med fødevarelovgivningen, hvor vi har været nødt til
+at komme efter virksomheder, der ikke har kunnet finde ud af det –
+har strammet lovgivningen voldsomt i forhold til at kunne fratage
+dem retten til at have med virksomheder at gøre, hvis man ikke kan
+finde ud af det. Derfor er vi selvfølgelig også parat til at kigge på det
+her, og hvis Advokatrådet har nogle betænkeligheder, er jeg helt sikker på, at det også er en del, vi kan kigge på under udvalgsarbejdet.";Bjarne Laustsen
+26785;Time;;Kl. 10:24
+26796;Time;;Kl. 10:25
+26820;name_party;":
+Bl.a. udtrykker Advokatrådet jo nogle betænkeligheder i forhold til
+den vilkårlighed, der kan komme ind. Der tænker jeg ikke udelukkende på strafudmålingen. Jeg tænker også på den vurdering, der
+måtte forefindes af den pågældende forseelse. Der er jo lagt adskillige forskellige point ind, afhængigt af om en forseelse er så og så
+grov. Det vil jo bero på en vurdering, og vi kan allerede i dag se forskellige former for vilkårlighed, når vi ser på kontroller inden for det
+fødevaremæssige system. Derfor er det naturligvis en væsentlig del
+at sikre, at den enkelte fisker i så alvorligt et spørgsmål ikke bliver
+udsat for en vilkårlighed.";Esben Lunde Larsen
+27471;Time;"Formanden:
+Ordføreren.";Kl. 10:25
+27505;Time;;Kl. 10:25
+27526;name_party;":
+Jeg kender ikke til noget retssystem, hvor der ikke foretages et skøn.
+Det er selvfølgelig derfor, at det er vigtigt, at man både kan klage
+over den straf, man eventuelt får, og over den måde, tingene foregår
+på. Det vil der altid være. Jeg kender heller ikke nogen advokater,
+der ikke ville være i stand til at tjene penge på at rejse en kritik af et
+eller andet.
+Men jeg synes, at det er fint, at der under udvalgsarbejdet bliver
+stillet nogle spørgsmål om det her, og så tager vi dem. Vi er da selvfølgelig enige i, at hvis der er en overtrædelse, er det ligegyldigt,
+havde jeg nær sagt, hvem der har begået den. Der skal straffes ens.
+Det er også derfor, at man lægger op til, at forfølgelse og retskrav
+også skal gælde, hvis det er en dansker, der foretager sig nogle ting
+uden for landets grænser, så der bliver symmetri i det. Det synes jeg
+er fint, og så må vi kigge på, om der er nogle spidsfindigheder i det.";Bjarne Laustsen
+28456;Time;"Formanden:
+Hr. Esben Lunde Larsen.";Kl. 10:26
+28502;Time;;Kl. 10:24
+28526;name_party;":
+Tak til den socialdemokratiske ordfører. I forhold til det pointsystem
+og administrationen af det, som der lægges op til med lovforslaget,
+vil jeg spørge om, hvordan den socialdemokratiske ordfører forholder sig til den vilkårlighed, der kan komme i vurderingen af forseelser.";Esben Lunde Larsen
+28814;Time;"Formanden:
+Ordføreren.";Kl. 10:24
+28848;Time;;Kl. 10:24
+28869;name_party;":
+Nu skal vi jo selvfølgelig kigge på selve systemet, som det er bygget
+op. En af grundene til, at det er lavet, som det er, er jo, at når vi har
+en fælles fiskerilovgivning inden for EU, så skal der også være fælles regler, for at man kan sanktionere det. Og som jeg forstår det, er
+det jo bl.a. derfor, at EU-systemet i det hele taget er blevet skabt. Så
+jeg er ikke helt sikker på, at Venstres ordfører har ret i, at der er en
+vilkårlighed. Men det er også noget, som jeg synes vi skal kigge på.
+Hvis Venstres ordfører har nogle eksempler på, at der kan opstå vilkårlighed i forbindelse med udmåling og tildeling inden for pointsystemet, vil jeg selvfølgelig gerne høre om det.";Bjarne Laustsen
+29559;Time;"Formanden:
+Hr. Esben Lunde Larsen.
+
+Formanden:
+Tak til ordføreren. Hr. René Christensen som ordfører for Dansk
+Folkeparti.";Kl. 10:25
+29693;Time;(Ordfører);Kl. 10:27
+29727;name_party;":
+Her har vi så et forslag om fiskeri, og der må jeg sige, at intentionerne i forslaget kan vi jo sådan set godt være enige i, nemlig at vi skal
+fiske bæredygtigt, og dem, der ikke kan finde ud af det, skal vi også
+komme efter, og vi skal komme efter dem hårdt. Så intentionerne
+kan man egentlig godt være enig i, men når man så kommer ind i
+forslaget og får læst, hvordan man vil gøre det, begynder vi også at
+blive meget betænkelige i Dansk Folkeparti, bl.a. ved at man siger,
+at ligegyldigt hvor henne i verden en dansk statsborger bruger sit fiskefartøj, vil det altid være strafudmåling ud fra, at man sådan set
+havde foretaget ulovligheden i dansk farvand. Det er i hvert fald sådan, at vi læser det, der står, og det har vi en del spørgsmål til.
+En del af udvalget var jo på Kap Verde i sidste periode, hvor vi
+bl.a. talte med en dansk statsborger, der havde bosat sig på Kap Verde og fisket med sit skib der. Der er ingen tvivl om, at den måde,
+man fisker på i Kap Verde, på ingen måde er som den måde, man
+fisker på i Danmark, og skal sådan en mand nu til at fiske under danske regler, svarer det jo lidt til, at vi sagde til alle danske virksomheder, som har produktion ude i Kina, at når man producerer ude i Kina, skal man have arbejdsforhold, lønvilkår, som om virksomheden
+lå i Danmark. Det gør vi jo heller ikke. Man skal huske på, at sådan
+et fiskefartøj jo er den enkelte skippers virksomhed, som han så har
+
+Torsdag den 1. marts 2012 (L 93)
+
+fragtet hen et sted i verden og fisker under de regler, der så er det
+pågældende sted.
+Vi har i hvert fald et spørgsmål i udvalgsarbejdet til, hvordan det
+skal forstås, for der står jo, at hvis man medvirker til ulovligt fiskeri,
+uanset hvor i verden dette måtte foregå, betyder det – hvordan var
+det, der stod? – at det skal være, som at det var foregået på dansk
+territorium. Der ser vi det sådan, at man kigger på den enkelte båd,
+og at man skal straffes, som om det var foregået i Danmark.
+En anden ting, vi også har spørgsmål til, er det her pointsystem.
+Der bliver vi også meget nervøse. Nu skal man selvfølgelig passe på,
+hvad man siger fra Folketingets talerstol, men jeg er overbevist om,
+at hvis man bare inden for EU-landene kigger på en spansk kontrollant og man kigger på en dansk kontrollant og sætter dem ved siden
+af hinanden og stiller dem over for to ens overtrædelser, tror jeg ikke
+helt, vi får det samme udfald på, hvordan man takserer sådan en
+overtrædelse, i forhold til om det er en meget grov overtrædelse eller
+det er en lettere overtrædelse. Det kan vi jo også være lidt nervøse
+for.
+En tredje ting, der også ligger i det her, er, at man kan lægge fartøjer op, og det er vi sådan set enige i, og da den tidligere fødevareminister gjorde det, var det også med Dansk Folkepartis stemmer. Vi
+syntes, det var en god ordning. Hvis man ikke kan finde ud af det,
+må man lære det på den hårde måde. Men her lægger man jo faktisk
+op til, at der er nogle, der kan blive frataget retten for bestandig. Sådan læser vi det i hvert fald, når vi ser det. Vi vil selvfølgelig også
+stille spørgsmål til, om det skal være for bestandig, fordi det er noget
+af en hård straf at få, hvis man har lavet en overtrædelse, at man så
+bestandig ikke har mulighed for at træde tilbage i det erhverv, som
+man har arbejdet med.
+Så jeg vil sige, at intentionerne i forslaget støtter vi sådan set, altså at vi skal bakke op omkring bæredygtigt fiskeri. Vi skal bakke op
+om, at vi sanktionerer de fiskere, som ikke magter at fiske inden for
+lovgivningen, men der er også ting her, hvor vi frygter, at særligt
+danske fiskere vil blive udsat for en langt højere straf end øvrige fiskere fra EU og andre steder, som de konkurrerer med. Så vi har en
+del spørgsmål til det og kan derfor hverken sige ja eller nej til forslaget, som det ligger nu.";René Christensen
+33533;Time;"Formanden:
+Hr. Sjúrður Skaale har en kort bemærkning. Er det som ordfører?
+O.k. Så siger vi tak til Dansk Folkepartis ordfører. Undskyld, fru Lene Espersen nåede at trykke sig ind, mens jeg kiggede den anden vej.
+Så en kort bemærkning fra fru Lene Espersen.";Kl. 10:30
+33802;Time;;Kl. 10:31
+33822;name_party;":
+Jeg vil også gerne takke hr. René Christensen for ordførertalen og
+spørge hr. René Christensen, ligesom jeg stillede spørgsmålet til de
+tidligere ordførere, om Dansk Folkeparti vil være indstillet på at se
+på det forslag, der er kommet fra Danmarks Fiskeriforening, om at
+være med til at sikre flere praktikpladser på fiskeriskolen i Thyborøn
+og skipperskolen i Skagen og få det indskrevet i lovforslaget, så der
+bliver mulighed for, at skolerne kan have erhvervsmæssige fartøjer
+til at sikre praktikpladserne.";Lene Espersen
+34344;Time;"Formanden:
+Ordføreren.";Kl. 10:31
+34378;Time;;Kl. 10:31
+34401;name_party;":
+Det er et forslag, som jeg også godt har læst om i høringssvarene.
+Selvfølgelig bakker vi op omkring, at det her erhverv også har mulighed for at få nye, yngre fiskere. Også når vi kigger på aldersgrup-
+
+7
+
+pen blandt fiskere, må vi sige, at gennemsnitsalderen er stigende, og
+derfor er det utrolig vigtigt, at de unge, som vælger det her erhverv,
+også har mulighed for at færdiggøre deres uddannelse. Så vi er meget positive over for at kigge på det forslag, der er kommet fra Danmarks Fiskeriforening.";René Christensen
+34916;Time;"Formanden:
+Så siger jeg tak til Dansk Folkepartis ordfører. Så er det fru Camilla
+Hersom som radikal ordfører.";Kl. 10:32
+35038;Time;(Ordfører);Kl. 10:32
+35070;name_party;":
+For Det Radikale Venstre er det afgørende, at natur- og miljøhensyn
+vægtes højt i reguleringen af samfundet. Det betyder, at den brug,
+der gøres af de naturmæssige ressourcer, altid må ske på en bæredygtig måde og under hensyntagen til fremtiden. Denne tilgang har
+vi også, når det gælder fiskeri, og det er, hvad enten der er tale om
+fiskeri på kommercielt niveau eller fritidsfiskeri. Det primære formål
+med ændringerne i den nærværende lov er som bekendt at beskytte
+fiskeribestanden mod overfiskeri og etablere et system af sanktioner
+over for dem, der overtræder fiskeriloven. Sanktionssystemet, der
+foreslås, er opbygget som pointsystem, der efter gentagne grove
+overtrædelser vil kunne medføre, at fiskerilicensen bortfalder hos
+overtræderen.
+I Det Radikale Venstre mener vi, det er rimeligt, at f.eks. direkte
+fiskeri efter en truet bestand, som der er udstedt fiskeriforbud mod,
+vil kunne medføre pointtildeling og i sidste instans bortfald af licensen. Det sekundære formål med loven, nemlig præcisering vedrørende sammensætning af rådgivende udvalg, forvaltning af laksekvoter
+og ændrede priser på fisketegn, finder vi relevant at tage med i revision af loven, og det giver ikke umiddelbart anledning til kommentarer.
+Der er så allerede her ved første behandling rejst nogle spørgsmål
+bl.a. om nogle retssikkerhedsmæssige betragtninger om, hvorvidt en
+klage skal have opsættende virkning ved behandlingen, og i det
+spørgsmål vil vi i udgangspunktet læne os op ad ministerens bemærkninger og sige, at der jo er en dansk retspraksis, som handler
+om, at hvis det, man har, alene er et økonomisk tab, bør en klage ikke have opsættende virkning. Så det vil være vores udgangspunkt for
+diskussionen i udvalget.
+Derudover er der spørgsmålet om praktikpladser, som Det Konservative Folkeparti har rejst flere gange. Vi synes, det er yderst relevant at tage det med i udvalgsbehandlingen og se, om vi på nogen
+måde kan sikre, at det også kommer med i den her lov, ud fra en betragtning om at vi jo alle har en fælles interesse i, at der er de praktikpladser, der skal være, til de unge mennesker, som ønsker at ernære sig som fiskere. Så vi kan som udgangspunkt støtte lovforslaget i
+sin helhed, men ser frem til udvalgsbehandlingen og de ændringer,
+vi sammen kan finde der.";Camilla Hersom
+37358;Time;"Formanden:
+Fru Lene Espersen har en kort bemærkning.";Kl. 10:34
+37422;Time;;Kl. 10:34
+37442;name_party;":
+Jeg vil gerne stille den radikale ordfører fru Camilla Hersom et
+spørgsmål om de retssikkerhedsmæssige betænkeligheder, som Advokatrådet er kommet med. Jeg kan forstå, at Det Radikale Venstre i
+udgangspunktet har det synspunkt, at der ikke er noget i vejen med
+administrative beslutninger, så længe det alene har en økonomisk
+konsekvens. Men det, som Advokatrådet jo her påpeger, er sådan
+set, om man kan bringe et fartøj og en fisker i en situation, hvor ved-
+
+8
+
+Torsdag den 1. marts 2012 (L 93)
+
+kommende i flere år må afvente en retssag, og hvor det jo sådan set
+har betydning for fartøjsejeren og for en lang række mennesker, der
+arbejder på det fartøj, hvis man uretmæssigt administrativt er frakendt retten til at drive virksomhed.
+Derfor vil jeg gerne spørge Det Radikale Venstre, om Det Radikale Venstre under udvalgsbehandlingen vil være åben over for at gå
+grundigere ind i den problemstilling, som Advokatrådet rejser, og
+som jeg faktisk mener man ganske nemt kan løse fra ministeriets side ved at åbne op for en klageadgang til det klagecenter, der allerede
+i dag findes.";Lene Espersen
+38539;Time;"Formanden:
+Ordføreren.";Kl. 10:35
+38573;Time;;Kl. 10:35
+38594;name_party;":
+Retssikkerheden ligger jo selvfølgelig os på sinde, ligesom jeg går
+ud fra, at den ligger alle på sinde i den her sal. Derfor tager vi det
+selvfølgelig også alvorligt, når Advokatrådet kommer med den slags
+indvendinger. Men jeg vil også sige, at når jeg læser ministerens
+svar på netop det spørgsmål, virker det på mig, som om der er nogle
+hensyn her, i forhold til hvordan man gennemfører forordninger og
+nogle særlige krav, i forhold til at klager ikke må have opsættende
+virkning på, at pointsystemet kan fungere, og at der derudover faktisk er en dansk praksis for det her med de økonomiske interesser.
+Det er så klart, at hvis det viser sig, at det kan have meget voldsomme konsekvenser, og at folk skal være i uvished i årevis, så er
+det jo selvfølgelig noget, vi må tage meget alvorligt. Vi er absolut
+villige til at diskutere det grundigt i udvalget for at finde en løsning,
+som er tilfredsstillende for alle parter.";Camilla Hersom
+39530;Time;"Formanden:
+Fru Lene Espersen.";Kl. 10:36
+39571;Time;;Kl. 10:36
+39591;name_party;":
+Jamen jeg vil bare sige til fru Camilla Hersom, der også henviser til
+de høringssvar og til ministeriets besvarelse af høringssvarene, at
+Advokatrådet jo gør ganske meget ud af netop at understrege, at ministeren på begæring fra adressaten er forpligtet til at anlægge retssag, og at det retssikkerhedsmæssigt er velbegrundet, men Advokatrådet siger så derudover, at det altså ikke udelukker, at man godt
+kan tillægge klageadgang til Fødevareministeriets klagecenter, for så
+vidt angår de afgørelser, der handler om permanent inddragelse. Så
+der er altså hverken i EU's pointsystem eller andre steder noget i vejen for, at man tager de retssikkerhedsmæssige hensyn. Derfor håber
+jeg også, at Det Radikale Venstre vil være indstillet på at se på det
+under udvalgsbehandlingen.";Lene Espersen
+40378;Time;"Formanden:
+Ordføreren.";Kl. 10:37
+40412;Time;;Kl. 10:37
+40433;name_party;":
+Det er noget, vi tager meget alvorligt, og det vil vi absolut være parat til at diskutere.";Camilla Hersom
+40535;Time;"Formanden:
+Tak til den radikale ordfører. Så er det hr. Per Clausen som ordfører
+for Enhedslisten.";Kl. 10:37
+40646;Time;(Ordfører);Kl. 10:37
+40675;name_party;":
+Jeg skal starte med at sige, at vi i Enhedslisten jo gerne benytter enhver lejlighed til at sikre, at der vil blive oprettet flere praktikpladser,
+så de unge mennesker, som gerne vil have en uddannelse, kan få det.
+Hvis der også i forbindelse med behandlingen af det her lovforslag
+kan træffes nogle beslutninger, der får positiv betydning i forhold til
+det, medvirker vi meget gerne til den del.
+Det andet, jeg vil sige, er, at der er enkelte elementer i det her
+lovforslag, der ikke giver anledning til særlig mange bemærkninger.
+Det, der er om laksefiskeriet og fiskeritegnet osv., er Enhedslisten
+positiv over for. Vi mener sådan set, at begge forslag også kan have
+positive miljømæssige konsekvenser, og i hvert fald i forhold til det,
+der handler om laks, også være med til at sikre laksebestanden. Så
+det er vi sådan set helt med på.
+Vi synes også, at baggrunden for det, der er hovedemnet i lovforslaget, nemlig det her pointsystem og nye skærpede sanktioner, jo
+også er relevant nok. Vi ved jo udmærket godt, at der foregår en
+massiv overfiskning globalt set nu. En stor del af den massive overfiskning er faktisk lovlig, og det skyldes bl.a., at EU's regler ganske
+vist er meget bureaukratiske og meget generende for fiskerne, men
+til gengæld utilstrækkelige, når det handler om at beskytte bestanden. Der har vi jo håb om, vil jeg sige, at de diskussioner og forhandlinger, der nu foregår om en ny fiskeripolitik i EU, kan lette lidt
+på det bureaukratiske tryk og øge effekten i forhold til at beskytte
+bestandene – det synes vi ville være rigtig, rigtig godt – ligesom vi
+også håber på, at vi fremover kan sikre, at EU ikke indgår aftaler
+med tredjeverdenslande, hvorved man i realiteternes verden gør
+overfiskeri lovligt og aftalemedholdeligt. Sådan er det desværre ikke
+endnu, så vi har et problem med de aftaler og de regler, der eksisterer.
+Men det skal jo ikke forhindre, at vi også kan se seriøst på, hvordan vi sikrer, at de regler, uanset at de er utilstrækkelige, trods alt
+alligevel lægger en begrænsning på noget af det fiskeri, som ødelægger bestandene og undergraver naturen og miljøet, og der er det selvfølgelig vigtigt at der findes et konsekvent sanktionssystem. Og det
+er faktisk en rigtig god idé, at et sådant sanktionssystem er et sanktionssystem, som er internationalt gældende, og at man forsøger at få
+de samme sanktioner og den samme kontrol. Det synes vi i udgangspunktet er rigtig, rigtig fornuftigt, også fordi vi jo ser rigtig mange
+eksempler på, at der fiskes på en måde, som er direkte ulovlig. Og
+jeg synes nu sådan set, at det ikke er nogen helt dårlig ting, at vi også siger, at overtrædelse af de internationale regler for fiskeri, der
+sker uden for Danmark, også kan straffes, hvis det er danske statsborgere, der er involveret i det. Det betragter jeg som godt.
+Vi synes faktisk også, det er fornuftigt og rigtigt, at man har mulighed for at fratage mennesker muligheden for at drive et erhverv,
+hvis det er helt åbenlyst, at de gentagne gange groft overtræder reglerne. Det er vi sådan set også helt indstillet på at diskutere også at
+indføre på områder, hvor det ikke gælder nu. Det har Enhedslisten
+flere gange foreslået, så vi er helt enige i det, der ligger i lovforslaget
+på det område.
+Når jeg alligevel har et par enkelte kritiske bemærkninger at gøre
+til det, er det sådan set lidt i forlængelse af den retssikkerhedsdiskussion, som andre også har rejst. For det at fratage et menneske muligheden for at udøve sit erhverv, er, hvad Enhedslisten tit har fået at
+vide, når vi har rejst det i forhold til andre erhverv, jo en alvorlig
+sag. Spørgsmålet er, om det er rimeligt, som Advokatrådet jo også
+påpeger, at man for det første ikke har nogen mulighed for administrativ klageadgang og mulighed for, at det kunne have en opsættende virkning, og at man så i stedet for, om man så må sige, har den
+mulighed at få det afprøvet ved domstolene. Det kan være godt nok,
+men det har så heller ingen opsættende virkning. Der synes vi jo nok
+
+Torsdag den 1. marts 2012 (L 93)
+
+at man må stille sig selv det spørgsmål, om man dermed har sikret
+retssikkerheden i tilstrækkeligt omfang. Jeg kan godt forstå, hvorfor
+man laver det her med, at det ikke har opsættende virkning. Det er
+selvfølgelig, fordi man mener, det vil være stødende for retsbevidstheden og alt muligt andet, hvis en fisker, som gentagne gange groft
+har overtrådt reglerne, og hvor man har forsøgt at forhindre vedkommende i et fiske videre, siger, at det skal køre som en sag i retssystemet, og så kan det køre i årevis der, mens denne fisker fortsætter
+med måske at overtræde reglerne. Det er klart, at det også vil virke
+krænkende på retsbevidstheden. Og i andre situationer ville nogle af
+dem, der nu taler om retsbevidsthed, måske være mere bekymret om
+den del af retsfølelsen.
+Men det ændrer ingenting med, mener jeg, at vi ikke kan løse det
+problem, at vi har for lange sagsbehandlingstider for retssager i retssystemet, ved at vi så at sige træffer nogle beslutninger administrativt, som har meget vidtgående konsekvenser, uden at folk i forbindelse med en retssag kan få mulighed for at få sikret, at det er med
+opsættende virkning. Vi vil gå ind i diskussionen om det her med
+den vinkel, at vi synes, at det er meget vigtigt at fokusere på retssikkerheden. Så der er to ting, vi vil stille spørgsmål om. Det er for det
+første: Jamen er det her bare sådan, som vi plejer at gøre? – altså at
+der ikke er noget nyt usædvanligt i det. Advokatsrådets skrivelse antyder nok, at der er noget nyt og usædvanligt i det.
+Det andet, vi vil stille spørgsmål om, er, hvordan man effektivt
+kan sikre, at det faktisk hverken får den konsekvens, at mennesker
+skal gå og være frataget retten til at udøve deres erhverv i årevis, inden de kan få det behandlet i retssystemet, eller den konsekvens, at
+der er nogle fiskere, der bliver ved med at overtræde reglerne, selv
+om man forsøger at fratage dem retten til at fiske. De bliver ved med
+at overtræde reglerne, fordi de venter på domstolene i årevis. Den
+udfordring skal vi selvfølgelig have løst, og jeg håber på, at vi kan
+klare det gennem udvalgsarbejdet.";Per Clausen
+46804;Time;"Formanden:
+Tak til Enhedslistens ordfører. Fru Mette Bock som ordfører for Liberal Alliance.";Kl. 10:42
+46908;Time;(Ordfører);Kl. 10:43
+46936;name_party;":
+Tak. L 93 er jo et lovforslag, der er fremsat for at sikre den fornødne
+og korrekte sammenhæng mellem EU-forordningerne og dansk ret,
+men det er for mig at se endnu et eksempel på et lovforslag, der rummer både positive og negative elementer, og derfor er det meget vanskeligt at skulle forholde sig samlet til det. Vi vil derfor i Liberal Alliance forholde os afventende til den behandling, der skal foregå i
+udvalget.
+Det, vi ikke har problemer med at forholde os positivt til, er den
+del af lovforslaget, som vedrører sammensætningen af de rådgivende
+udvalg, og vi har naturligvis heller ingen problemer med, at der er et
+ønske om at få bekæmpet ulovligt fiskeri.
+Der, hvor vi ønsker at udvalget skal behandle tingene nærmere,
+er i en række af de forhold, som også fremgår af de fremsendte høringssvar. Det er først og fremmest den kritik fra Advokatrådet, som
+også flere af de øvrige ordførere har nævnt, nemlig vedrørende klageadgangen og vedrørende opsættende virkning i forbindelse med
+søgsmålet. Her er vi inde i en retssikkerhedsmæssig problematik,
+som vi i Liberal Alliance mener er fuldstændig afgørende at få afklaret, da det at fratage mennesker retten til at udøve deres erhverv faktisk er en meget alvorlig ting. Så den del af det vil vi meget gerne
+have belyst.
+Dernæst vil vi også meget gerne have drøftet en af de bemærkninger, der er kommet fra Danmarks Sportsfiskerforbund, som vedrører den geografisk sammenhængende tredjedel af det samlede
+
+9
+
+vandsystem, hvor Danmarks Sportsfiskerforbund jo påpeger, at der
+kan være nogle definitionsmæssige problemer, som vi også meget
+gerne vil have drøftet i udvalget.
+Endelig indeholder lovforslaget også en præcisering af gældende
+praksis vedrørende tildelingen af laksekvoter til beskyttede genetisk
+unikke laksebestande i visse vestjyske åsystemer. Kvotetildelingen
+foreslås givet til sammenslutninger af fiskeriberettigede for at sikre
+en effektiv og enkel administration af kvotetildelingen, men som der
+også er klaget over i forbindelse med høringen, betyder det altså, at
+kvoterne ikke længere tilhører den enkelte lodsejer, men bliver givet
+kollektivt. Det vil vi også meget gerne have drøftet i udvalgsbehandlingen.
+Til slut vil jeg sige, og det er også i forlængelse af fru Lene
+Espersens kommentar, at vi i Liberal Alliance i den videre behandling meget gerne vil være med til at kigge både på lærlingeuddannelsen og på antallet af uddannelsespladser.
+Så Liberal Alliance forholder sig afventende og ser frem til behandlingen i udvalget.";Mette Bock
+49457;Time;"Formanden:
+Tak til Liberal Alliances ordfører. Så er det fru Lene Espersen som
+konservativ ordfører.";Kl. 10:45
+49569;Time;(Ordfører);Kl. 10:45
+49600;name_party;":
+Lovforslaget om ændring af fiskeriloven er en omgang alt godt fra
+havet, og så er der særligt nogle retssikkerhedsmæssige knuder i nettet, som vi skal have gjort noget ved.
+Det Konservative Folkeparti ser som faktisk alle andre ordførere
+ikke de store problemer med de dele af forslaget, der vedrører justering af rådgivende udvalg, laksekvoter og opfølgning i forbindelse
+med fisketegn osv. Jeg synes også, det er vigtigt at få understreget,
+at Det Konservative Folkeparti også støtter de to grundlæggende
+EU-forordninger, der ligger til grund for hovedindholdet i lovændringerne, nemlig den såkaldte IUU-forordning, der tilsiger, at der
+skal sættes ind over for ulovligt, urapporteret og ureguleret fiskeri,
+og den dertil hørende kontrolforordning, der regulerer retshåndhævelsen via et pointsystem. Naturligvis skal vi beskytte havets ressourcer, og vi skal, ikke mindst af hensyn til de mange lovlydige fiskere, sikre, at der sættes ind over for ulovligt fiskeri.
+Men når dette er sagt, har Det Konservative Folkeparti store retssikkerhedsmæssige betænkeligheder ved formuleringen af § 39 a.
+Advokatrådet og Danmarks Fiskeriforening har retteligt påpeget, at
+det grundlæggende forvaltningsretlige princip, herunder forbuddet
+mod at sætte skøn under regel og iagttagelse af proportionalitetsprincippet, tydeligere skal lægges til grund. Det vil vi under udvalgsbehandlingen arbejde for at få præciseret i lovforslaget.
+Det bærende princip i grundloven er magtens tredeling. Derfor er
+det også retssikkerhedsmæssigt særdeles betænkeligt, at man alene
+på et administrativt grundlag permanent kan inddrage en fiskerilicens og retten til at være fartøjsfører. Den udøvende magt skal ikke
+også være dømmende, og det vil den de facto være i de tilfælde,
+hvor der ikke er nogen administrativ klageadgang, og hvor muligheden for at føre et sagsanlæg ikke har opsættende virkning.
+Advokatrådet påpeger, at en anmodning om sagsanlæg bør have
+opsættende virkning, ligeledes at der bør være mulighed for en domstolsprøvelse, inden denne særdeles indgribende afgørelse gennemføres. Ligeledes påpeges det, at man bør tillægges klageadgang til
+Fødevareministeriets Klagecenter, for så vidt angår afgørelser om
+permanente inddragelser, og at dette bør have opsættende virkning.
+Det Konservative Folkeparti vil under udvalgsbehandlingen forfølge
+dette, og nu hvor der er så stor opbakning til det i Folketinget, håber
+vi selvfølgelig på en velvillighed fra ministerens side til, at vi sam-
+
+10
+
+Torsdag den 1. marts 2012 (L 93)
+
+men kan få rettet op på det. Hvis det ikke er tilfældet, vil vi fremsætte ændringsforslag qua de linjer, som Advokatrådet har foreslået.
+Det samme gælder § 39 b. Her er der også problemer, her bør der
+også være opsættende virkning ved domstolsprøvelse, hvis en fartøjsfører får forbud mod at føre fartøj i 4 måneder, og der børe være
+klageadgang til Fødevareministeriets Klagecenter.
+Vi deler de bekymringer, der også i dag er blevet rejst fra flere
+sider, for så vidt angår dansk strafmyndighed, herunder at danske fiskere så bliver straffet hårdere end alle andre EU-fiskere, og det vil
+vi selvfølgelig også få uddybet under udvalgsbehandlingen.
+Endelig synes vi altså, at det er meget lidt large af fiskeriets minister, at man ikke imødekommer det ønske om at skabe hjemmel til,
+at fiskeriskolen i Thyborøn og Skagen Skipperskole kan meddeles
+tilladelse til erhvervsmæssigt fiskeri, så praktikpladsproblemerne
+kan afhjælpes. Vi håber meget på, at vi også på dette punkt under
+udvalgsbehandlingen kan være imødekommende over for et – synes
+jeg – meget berettiget ønske, og jeg kan faktisk ikke se nogen saglig
+begrundelse for, at man bare venter, til næste gang der kommer et
+lovforslag i Folketinget. Så vi håber på, at også problemet med denne knast kan løses.
+Men alt i alt synes jeg selvfølgelig, at det er meget vigtigt, at Folketinget samlet set sender et signal om, at ulovligt fiskeri ikke må
+kunne betale sig, og at der skal sættes hårdt ind over for det. Og jeg
+mener faktisk, at det, hvis vi bl.a. imødekommer den kritik, der er
+kommet fra Advokatrådet, kan ende med at blive et rigtig godt lovforslag.";Lene Espersen
+53743;Time;"Der er derfor brug for en præcisering af denne bestemmelse. For
+det er nogle gange således, at der, når man som færing skal fiske eller på anden måde skal arbejde i f.eks. Canada eller Norge, så er et
+krav om, at man flytter sin bopæl fra Færøerne til Canada eller Norge. Hermed er man ikke længere en dansk statsborger, som er hjemmehørende på Færøerne, altså en færing, men så er man en dansk
+statsborger, som er hjemmehørende i f.eks. Canada eller Norge og
+bliver derfor omfattet af loven. Så det er lidt kompliceret.
+Derfor er det måske en god idé, at det bopælskriterium, som bliver omtalt i lovens § 130, bliver omformuleret, så det bliver et tilknytningskriterium, sådan at en person, som har boet på Færøerne i
+så og så mange år, altså ikke er omfattet af loven. Her påpeges det
+fra færøsk side at et af de kriterier, som man kunne tage udgangspunkt i skulle være opfyldt, kunne være, at en person var fuldt skattepligtig på Færøerne eller i Danmark.
+Det her er meget kryptisk. Men jeg håber at Tinget forstår, at der
+i det her er visse komplikationer, og jeg håber, at det er noget, man
+vil tage højde for under udvalgsbehandlingen, og at man med denne
+lov ikke utilsigtet kommer til at ramme de færinger, som aldrig har
+boet i Danmark, men som har bopæl på Færøerne, og hvis familie
+bor på Færøerne osv., og som på grund af deres arbejdsform bliver
+nødt til at flytte fra Færøerne til f.eks. Canada.
+Dette var bare et lille teknisk indspark til debatten. Tak for det.";Kl. 10:49
+55232;Time;"Formanden:
+Tak til hr. Sjúrður Skaale. Fødevareministeren.";Kl. 10:53
+55302;Time;"Formanden:
+Tak til den konservative ordfører. Hr. Sjúrður Skaale som ordfører
+for Javnaðarflokkurin.";Kl. 10:53
+55414;Time;(Ordfører);Kl. 10:49
+55446;name_party;":
+Tak for det. Jeg synes personligt også, at det her er et godt lovforslag, og at det er en god ordning, som man ønsker at iværksætte. Jeg
+skal ikke sige så meget om den generelt, men der er en lille færøsk
+krølle ved det, som jeg i stedet for skal dvæle lidt ved. Det er jo sådan, at det, når man har én stat og der i denne stat er tre forskellige
+jurisdiktioner, tre forskellige slags retlige subjekter, tre slags personer, som har rettigheder og pligter, så nogle gange skaber nogle
+praktiske problemer, og det er nogle problemer, som selvfølgelig bliver større, når den ene del af staten er inden for EU, mens de to andre dele af den er uden for EU. Det er noget, som man inden for
+dansk lovgivning mange gange har løst, ved at man har sagt, at en
+given lov ikke gjaldt for Færøerne eller for Grønland. I den gældende fiskerilov står der således, at loven ikke gælder for Færøerne og
+Grønland.
+Men nu bliver det så lidt mere kompliceret, for her gælder det
+danske statsborgere, som agerer i andre lande end i Danmark. Der
+står, at loven, selv om den ikke gælder for Færøerne og Grønland, så
+dog gælder for danske statsborgere, som ikke har bopæl i Grønland
+eller på Færøerne, men som begår en forbrydelse i Grønland eller på
+Færøerne. Det er sådan lidt kryptisk. Problemet er, at denne lov, når
+danske statsborgere, som der står, med bopæl på Færøerne eller i
+Grønland er undtaget fra denne bestemmelse, så ikke tilgodeser, at
+der også er færinger, der er bosat i andre lande end i Danmark eller
+på Færøerne. En færing, som ikke har nogen tilknytning til Danmark, men som f.eks. bor i Norge og fisker i Norge eller bor i Canada og fisker i Canada, bliver jo omfattet af det her. Selv om det, som
+han i givet fald måtte blive straffet for, ikke er ulovligt i Norge, ikke
+er ulovligt i Canada eller ikke er ulovligt på Færøerne, så kan han
+blive straffet efter denne lov.";Sjúrður Skaale
+57356;title_name;":
+Tak, formand. Jeg vil også gerne takke ordførerne. Jeg synes faktisk,
+det har været en rigtig god debat. Jeg synes, det har været en fornøjelse, at det, der har været fokus på, har været retssikkerheden, borgernes retssikkerhed, at vi er enige om, at vi skal have en bæredygtig
+forvaltning af fiskeriet, og at de bekymringer, der er givet udtryk for,
+alene handler om: Er vi nu sikre på, at vi gør det på den rigtige måde? Det synes jeg faktisk er vældig, vældig positivt, når vi diskuterer
+et lovforslag som det her. Jeg tror, der var en, der sagde: Det er sådan lidt alt godt fra havet. Det er sådan lidt en opsamlingslov med
+forskellige ændringer. Der er, som jeg hører det, bred tilslutning til
+f.eks. hele spørgsmålet om laksefiskeriet; der kan være nogle justeringer og nogle detaljer, der skal tales om, men at vi får en bæredygtig forvaltning af laksefiskeriet i åerne, synes jeg er vældig, vældig
+positivt.
+Store dele af lovforslaget bygger jo på allerede vedtagne EU-regler, og også derfor bliver det jo sådan lidt en opsamling. Jeg synes,
+det er vigtigt at understrege, at regelsættet understøtter et godt eksistensgrundlag for de fiskere, der overholder reglerne. Det synes jeg
+er det vigtigste og helt afgørende.
+Så er det også vigtigt at holde sig beskyttelsesværdige interesser
+for øje. Sanktionerne og pointsystemerne har jo alene fokus på bestemte alvorlige overtrædelser. Meget af det her bygger på IUU-forordningen, som jo handler om ulovligt fiskeri. Enhedslisten udtalte
+sig imod det tilbage i 2008, men alle partier har været for; det synes
+jeg jo sådan set også langt hen ad vejen at debatten i dag har afspejlet. Det er jo et spørgsmål om at koble EU-retten med national lovgivning.
+Så skal jeg lige finde mine noter. Der har været forskellige
+spørgsmål omkring retssikkerheden for danske fiskere. Jeg vil gerne
+understrege, at en permanent inddragelse af licensen er meget, meget
+alvorligt. Det er jeg fuldstændig enig med ordførerne i. Men jeg vil
+også gerne sige, at det, der skal til for at få en permanent inddragelse, er ufattelig alvorligt. Man kan få point for alvorlige overtrædelser, mellem 3 og 7 point for hver enkelt overtrædelse, men for at
+komme op på en permanent inddragelse skal man have 90 point i alt,
+
+Torsdag den 1. marts 2012 (L 93)
+
+det vil sige, at vi snakker om, at man 20-30 gange skal have overtrådt loven meget alvorligt, og man vil ikke kunne undgå undervejs
+at have fået nogle suspensioner, hvor man har fået frataget retten i
+måske 2 måneder eller 4 måneder eller 8 måneder eller 12 måneder.
+Det er altså noget, der er sket undervejs, og for hver eneste gang, det
+er sket, har man haft mulighed for at klage, og man har været igennem alle systemerne. Det vil sige, at den fisker, som står foran at få
+en permanent fratagelse, har været igennem det her system rigtig
+mange gange. Han har været ude og har fisket meget ulovligt, han er
+blevet suspenderet, han har været igennem klagesystemet, han er
+fortsat med at fiske, og han har gjort det ulovligt igen, han har været
+igennem klagesystemet igen og igen og igen. Det er altså dem, vi taler om; det er ikke noget med, at vi bare render rundt og tager folks
+erhverv fra dem fra den ene dag til den anden. Der skal have været
+tale om meget, meget alvorlige overtrædelser rigtig mange gange.
+Og jeg vil så i øvrigt sige, at pointene kun holder i 3 år. Så man skal
+altså faktisk gøre sig ret meget umage for at kunne nå op på det her.
+Det er bare for at sige, når vi diskuterer retssikkerheden, at det altså
+virkelig ikke er noget, der bare lige sker i første runde.
+Grunden til, at man siger, at sager om permanente inddragelser
+skal gå direkte til retssystemet, er jo sådan set bare for at spare en
+omgang. Det er sådan, vi også har gjort det tidligere i det andet system. Vi kan altid diskutere, om vi synes, det er godt nok, men det er
+sådan, man gør i forvejen på fiskeriområdet. På det tidspunkt har de
+her sager altså været igennem systemet, og det er jo en opsamling af
+en lang række forskellige sager, som til sidst medfører den permanente fratagelse. Men lad os endelig tale om det.";Mette Gjerskov
+61463;Time;"Der er nogle, der har spurgt om retsforbeholdet, og der vil jeg sige, at der er ingen som helst problemer i forhold til retsforbeholdet i
+det her.
+Til det, der handler om undervisning, lærlingeuddannelsen, som
+flere nævnte, også Enhedslisten og Konservative, vil jeg sige, at jeg
+sådan set er positiv over for det. Selvfølgelig skal unge mennesker
+kunne komme i praktik. Hele pointen her er bare, at vi ved, at lærlingeuddannelsen er under revision, og når ting bliver skrevet ind i en
+lov, er det mest praktisk, at det svarer til den virkelighed, der er, og
+at man ikke skal ændre loven hele tiden. Men lad os diskutere det
+under udvalgsbehandlingen og se, om vi ikke kan finde en løsning,
+for det er sådan set ikke, fordi der er nogen problemer i det set fra
+min side; jeg har ikke noget imod det i hvert fald.
+Hr. Sjúrður Skaale var bekymret i forhold til Færøerne og Grønland, men jeg tror faktisk, det problem er løst. Lad os lige vende det
+under udvalgsarbejdet, men jeg er faktisk ret overbevist om, at vi har
+løst det. Det er ganske svært. Vi står her og taler om en lov, som skal
+gælde for Danmark, men ikke for Færøerne og Grønland. Imidlertid
+er der en masse danskere, der fisker ved Færøerne og Grønland, og
+for farvandene omkring Færøerne og Grønland har vi nogle fiskeritilladelser, som vi har fra EU. Så vi har nogle forskellige forpligtelser. Hr. Sjúrður Skaale har fuldstændig ret i, at for hver dag, der går,
+bliver det mere og mere vanskeligt. Men det burde være løst, sådan
+at en færing, selv om han bor i Canada, ikke bliver omfattet af det
+her. Men vi kan lige tage en runde om det under udvalgsbehandlingen.
+Så vil jeg sige om diskussionen om retssikkerhed i tredjelande,
+som jeg har hørt flere være bekymrede over, at det, der er forskellen
+i den her slags sager, er, at vi skal beskytte nogle fiskebestande, som
+jo ikke nødvendigvis ligger inden for Danmarks grænser, altså nogle
+fiskebestandene, som vi forvalter i fællesskab i hele EU. Det vil sige,
+at vi har danske fiskere, som fisker alle mulige steder, bl.a. ved Færøerne og Grønland, og hvor EU har lavet en aftale om, hvad der kan
+fiskes. Derfor er det vigtigt, at man også har et EU-system, hvor vi
+kan gå ind i de farvande, hvor vores fiskere fisker, og sige: I skal
+overholde reglerne her. Det er jo nøjagtig det samme, vi har diskute-
+
+11
+
+ret – ja, måske ikke nøjagtig, men tilsvarende i hvert fald – når Danmark har indgået fiskeriaftaler med andre lande, f.eks. med Marokko. Når man indgår fiskeriaftaler med Marokko, har vi, dvs. alle partier i Folketinget, jo sådan set været enige om, at så skal den EU-fisker, der fisker ved Marokko, også overholde de regler, der gælder i
+EU. Det er jo sådan set det samme her. Når det drejer sig om fælles
+fiskebestande og det er nogle fisk, som er andre steder, altså uden for
+Danmark, er vi nødt til at kunne bruge de her fælles regler over for
+de fartøjer, der fisker derude.
+Jeg vil igen sige om det pointsystem, der er lavet, at jeg faktisk
+synes, det er lykkedes at få lavet et, der er ganske klart. F.eks. er en
+af de ting, man kan få det højeste antal point for, direkte fiskeri efter
+en bestand, hvor der er indført fiskeristop eller fiskeriforbud. Jeg
+mener ikke, det kan være så svært at forstå; jeg synes, det er meget,
+meget klart beskrevet. Så på den måde mener jeg faktisk, at der er
+gjort meget ud af at sikre, at den enkelte fisker kan gå ind og slå op
+og sige: Hvis jeg gør det her, får det den og den konsekvens. Det er
+jo det, retssikkerhed i bund og grund handler om: at man ved, hvad
+det får for konsekvens, hvis man overtræder en regel. Jeg synes, det
+er beskrevet meget tydeligt, men lad os tage drøftelsen under udvalgsbehandlingen.
+Jeg vil bare sige, at jeg samlet set sådan set er positiv over for
+mange af de bemærkninger, der er kommet. Jeg er glad for, at hele
+spørgsmålet om laksedelen og reguleringsudvalg og alle de der ting
+sådan set er noget, jeg kan høre stille og roligt falder på plads. Så
+skal vi have diskuteret de alleryderste konsekvenser i forhold til retssikkerheden i de straffebestemmelser, der er, og det gør vi under udvalgsarbejdet. Så det ser jeg rigtig meget frem til. Og tak for debatten.";Kl. 10:59
+65644;Time;"Formanden:
+Der er en kort bemærkning fra fru Lene Espersen.";Kl. 11:04
+65715;Time;;Kl. 11:04
+65735;name_party;":
+Jeg vil gerne takke fødevareministeren for den imødekommelse, som
+jeg hører ministeren give udtryk for, for så vidt angår nogle af de
+grundlæggende ting, vi har brugt dagens debat til at fokusere på – ikke mindst spørgsmålet omkring retssikkerhed. Derfor vil jeg heller
+ikke gå så meget i dybden med det nu, det må vi gøre under udvalgsbehandlingen.
+Med hensyn til ministerens kommentar til spørgsmålet omkring
+praktikpladser osv., vil jeg gerne sige, at grunden til, at Danmarks
+Fiskeriforening har stillet forslag om, at det medtages i det her lovforslag, er jo, at man i forvejen er i gang med en omlægning af fiskeriets lærlingeuddannelse. Og det, man jo tænker på, er, at i den første
+korte periode af uddannelsen vil man først og fremmest teste elevernes praktiske kunnen, altså praktisk fiskeri, og det er jo meget fornuftigt, at de starter med at komme ud på en båd for at finde ud af,
+om de synes, det er sjovt at være fisker. Problemet er bare, at så skal
+man altså også have mulighed for at komme ud på en båd. Sådan
+som jeg har forstået henvendelsen, er det faktisk en fælles henvendelse fra Danmarks Fiskeriforening og Fagligt Fælles Forbunds nedsatte lærlingeudvalg, der foreslår, at vi tager det med i det her lovforslag. Så det er blot for at begrunde over for ministeren, at jeg faktisk
+synes, det er meget fornuftigt, at vi får det på plads nu og ikke først,
+når det hele ligger færdigt, hvor man så først skal have det i Folketingssalen, for at det kan effektueres. Det varer jo ikke ret lang tid,
+før Folketinget har frist for fremsættelse af nye lovforslag, så derfor
+synes jeg og håber på, at ministeren vil være åben over for at tage
+den del med.
+
+12
+
+Torsdag den 1. marts 2012 (FM )";Lene Espersen
+67455;Time;"Formanden:
+Ministeren.";Kl. 11:05
+67489;Time;;Kl. 11:05
+67526;title_name;":
+Jeg er som sagt indstillet på at være fleksibel her. Vurderingen var,
+at det var mere praktisk, at man fandt frem til, hvad det er, der er behov for i lærlingeuddannelsen, og at man så efterfølgende gik ind og
+gav dem de muligheder i fiskeriloven, som der så måtte være brug
+for, når man har draget en konklusion. Viser det sig under udvalgsbehandlingen, at det er mere praktisk at gøre det i en anden rækkefølge, så lad os drøfte det. Altså, det er ikke noget kardinalpunkt for
+mig. For mig handler det også om heller ikke at spilde Folketingets
+tid med at lave ændringer, som efterfølgende bare skal ændres en
+gang til. Men lad os drøfte det, jeg er åben over for det.";Mette Gjerskov
+68208;Time;"Formanden:
+Tak til ministeren.
+Der er ikke flere, der har bedt om ordet, så forhandlingen er sluttet.
+Jeg foreslår, at lovforslaget henvises til Udvalget for Fødevarer,
+Landbrug og Fiskeri. Hvis ingen gør indsigelse, betragter jeg det
+som vedtaget.
+Det er vedtaget.";Kl. 11:06
+68486;Time;"Meddelelser fra formanden
+Formanden:
+Så er der ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, fredag den 2. marts
+2012, kl. 9.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 11:07).";Kl. 11:06

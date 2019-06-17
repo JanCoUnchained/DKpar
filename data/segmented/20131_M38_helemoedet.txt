@@ -1,0 +1,1907 @@
+split;reason;text;value
+0;;"Tirsdag den 14. januar 2014 (D)
+
+38. møde";
+79;Time;"Dagsorden
+1) Spørgetime med statsministeren.
+2) 1. behandling af lovforslag nr. L 90:
+Forslag til lov om ændring af lov om arbejdsmiljø og lov om indretning m.v. af visse produkter. (Obligatorisk digital kommunikation).
+Af beskæftigelsesministeren (Mette Frederiksen).
+(Fremsættelse 04.12.2013).
+3) 1. behandling af lovforslag nr. L 103:
+Forslag til lov om ændring af ligningsloven, momsloven og forskellige andre love. (Fremrykning af skatte- og afgiftslempelser og forhøjelse af beskæftigelsesfradrag m.v.).
+Af skatteministeren (Jonas Dahl).
+(Fremsættelse 20.12.2013).";kl. 13.00
+661;Time;"Formanden:
+Mødet er åbnet.
+
+Det første punkt på dagsordenen er:
+1) Spørgetime med statsministeren.";Kl. 13:00
+771;Time;"Formanden:
+Jeg giver ordet til statsministeren for den indledende redegørelse.
+Værsgo.";Kl. 13:00
+869;Time;;Kl. 13:00
+911;title_name;":
+Tak for det. Først og fremmest vil jeg ønske alle et rigtig godt nytår.
+Her ved indgangen til 2014 er der jo grund til at tro på fremgang.
+Krisen er ikke ovre, men stemningen er ved at vende. Det hænger
+selvfølgelig sammen med, at det går bedre i udlandet, men det går
+også bedre herhjemme.
+Jeg glæder mig over, at regeringens politik virker. Det er en politik, som alle partier i Folketinget har deres del af ansvaret for, og jeg
+håber selvfølgelig, at vi også i det nye år får et bredt samarbejde om
+tingene.
+
+1
+
+Aktuelt er der mange debatter, men der er én debat, som fylder en
+del, og den handler om velfærdsydelser til EU-borgere. Det er selvfølgelig en vigtig og relevant debat.
+Danmark drager – som regeringen ser det – enorme fordele af det
+indre marked. Danske virksomheder og lønmodtagere har over årene
+vist, at vi faktisk kan konkurrere. Vi kan skabe velstand til at finansiere vores velfærd, og arbejdskraftens fri bevægelighed er en vigtig
+del af det indre marked. Men jeg vil også gerne slå helt fast, at det
+ikke skal være sådan, at udlændinge skal komme til Danmark for at
+blive forsørget; udlændinge skal selvfølgelig komme til Danmark for
+at arbejde.
+Derfor vil regeringen også følge udviklingen meget tæt. Vi bliver
+jo nødt til at forholde os til fakta i den her sag, og som det ser ud nu,
+er der ikke noget stort, samlet problem. Men vi kan også se, at antallet af EU-borgere, der modtager dagpenge, er steget – også mere end
+det, der kan forklares umiddelbart af krisen, og derfor følger vi selvfølgelig det her område tæt. Det vil sige, at vi koncentrerer os om de
+problemer, der måtte opstå på konkrete områder, vi koncentrerer os
+om at løse de udfordringer konstruktivt og pragmatisk. Det er regeringens linje på det her område.
+Vi vil ikke bringe Danmark i en situation, hvor vi ikke overholder den lovgivning, vi har vedtaget med andre europæiske lande.
+Danmark er en retsstat. Derfor synes jeg også, at den her debat rejser
+mindst to helt centrale spørgsmål om det europapolitiske samarbejde: For det første, om Venstre stadig mener, at vi skal være en del af
+den fri bevægelighed. For det andet, om Venstre mener, at vi skal
+overholde de forpligtelser, vi indgår med EU, ligesom vi kræver det
+af andre EU-lande, eller om Venstre er mere til, at vi ser, om det går,
+og så venter, til vi får en reprimande eller en dom fra EU. Vi mangler fortsat svar.
+I det hele taget mangler vi svar på en stor del af Venstres politik.
+Det er, som om Venstre ligefrem dyrker uklarheden som en politisk
+kunstform på en række områder.
+Det er velkendt, at regeringen ikke tror på nulvækst. Vi vil gerne
+hvert år bruge nogle flere penge på uddannelse, på bedre sundhed,
+på mere tryghed generelt. Men kunne Venstre ikke forestille sig, at
+de på et tidspunkt konkretiserer deres planer om nulvækst? Eller skal
+befolkningen bare gætte sig til, hvor der skal skæres ned med Venstres nulvækst?
+Ja, hvad vil Venstre egentlig? Hvad vil de i forhold til EU? Hvad
+vil de i forhold til skattelettelser? Hvad vil de i forhold til nulvækst?
+Og ja, så sent som i morges kom der så et nyt punkt på listen af usikkerheder om Venstres politik, og det handler om huslejereguleringen. Skal huslejereguleringen afskaffes? Ønsker Venstre virkelig at
+skabe den utryghed for i tusindvis af de danskere, der bor i lejebolig? Vi ved det ikke. Svaret svæver i vinden.
+Jeg håber selvfølgelig på, at 2014 vil gøre os klogere på, hvad
+Venstre egentlig vil. Hvem ved: Måske er miraklernes tid ikke forbi
+i 2014?";Helle Thorning-Schmidt
+4413;Time;"Formanden:
+Tak til statsministeren for de indledende bemærkninger.
+
+2
+
+Tirsdag den 14. januar 2014 (US 36)
+
+Nu går vi så videre til spørgsmål fra partilederne, og det er jo sådan, at i første runde har spørger og statsminister hver 2 minutter, og
+derefter følger to runder med hver 1 minuts taletid for begge parter.
+Det er først hr. Lars Løkke Rasmussen som Venstres partileder.";Kl. 13:04
+4805;Time;Spm. nr. US 36;Kl. 13:05
+4846;name_party;":
+Tak for det. Jeg vil også godt starte med at ønske både statsministeren og resten af Folketinget et godt nytår.
+Vi er klar og i arbejdstøjet, og som jeg også markerede fra Folketingets talerstol under en af de sidste debatter her i Folketingssalen,
+ser vi gerne, at vi starter, hvor vi slap, nemlig med en stribe vækstinitiativer, hvor vi investerer et forhåbentlig stort provenu fra en ny beskæftigelsespolitik i målrettede skatte- og afgiftslettelser til vores
+private erhvervsliv, så vi både får skabt et mere dynamisk arbejdsmarked og flere arbejdspladser. Jeg vil gerne kvittere for, at statsministeren i sin nytårstale trods alt antydede, at der vil komme en stribe
+vækstinitiativer.
+Nu havde jeg jo egentlig forberedt mig på at stille nogle spørgsmål, fordi der hedder spørgsmål til statsministeren. Nu bliver jeg jo
+lidt fanget af, at det så er statsministeren, der stiller spørgsmål til
+mig. Så jeg skal afstå fra at stille spørgsmål om regeringens vækstinitiativer, og jeg får næppe heller noget svar, for jeg kan forstå, at det
+er skudt til den anden side af Produktivitetskommissionens rapport,
+så det er vel engang i marts eller april måned. Tager jeg fejl, vil jeg
+gerne belæres om det, for vi synes, at det haster. Det er muligt, at der
+er et stemningsskifte. Vismanden har jo sagt, at der ikke rigtig er
+evidens for det. Vi må jo håbe, at det er vismanden og ikke statsministeren, der tager fejl. Vi synes, der er brug for, at der gøres noget
+mere. Vi er klar, når regeringen er klar. Det er bare at kalde på os.
+Så slår statsministeren det her tema om velfærdsturisme an, og så
+vil jeg gerne kvittere for det og afstå fra, hvad jeg egentlig havde
+forberedt. Det kan jeg vende tilbage til senere. Der er ikke noget problem, siger statsministeren. Fra 2008 til 2012 er antallet af beskæftigede østeuropæere i Danmark steget med 141 pct., tror jeg efter min
+bedste hukommelse. I en tilsvarende periode er antallet af østeuropæere, der modtager dagpenge, steget med 858 pct., hvis jeg ellers
+husker tallet fra Beskæftigelsesministeriet rigtigt. Det er der da forskel på. Så der er da et problem.
+Jeg vil egentlig bare spørge: Hvornår agter statsministeren selv at
+stille sig i spidsen for de europapolitiske forhandlinger, så vi kan få
+adresseret det her? Vi har jo fortsat bl.a. det problem, at regeringen i
+strid med lovgivning vedtaget i det danske Folketing administrerer
+børnefamilieydelsen, altså børnechecken, på den måde, at man bare
+har lagt sig slapt ned for nogle synspunkter i Kommissionen uden at
+rejse sig op og stå på mål for lovgivning, der er vedtaget i det danske
+Folketing.";Lars Løkke Rasmussen
+7463;Time;"Formanden:
+Tak. Statsministeren.
+
+diskutere det specifikt? Vi har oversendt tal til Folketinget, som nu
+bliver drøftet af partierne. Det er da det rigtige sted at drøfte det.
+Hvis der er et specifikt problem, f.eks. i forhold til dagpengene, så
+lad os da tage drøftelsen om, hvad vi kan gøre ved det.
+Det er jo så også en invitation til Venstre, for hvis de har nogle
+gode ideer, tror jeg, at det vil være spændende for offentligheden at
+høre de gode ideer. Indtil nu har vi jo bare hørt kritik fra Venstre og
+egentlig ikke nogen som helst forslag til, hvad vi konkret skal gøre,
+hvis der er nogle udfordringer. Så det er altså regeringens holdning.
+Lad være med at puste problemet op; der er ikke noget økonomisk
+problem, som tingene er nu. Hvis der er nogle specifikke problemer,
+så lad os løse dem og lad os gerne løse dem i fællesskab. Men det
+kræver jo, at Venstre også kommer med nogle løsninger og ikke læner sig tilbage og siger, at de mere eller mindre går ind for fri bevægelighed, eller at vi, hvad jeg synes er langt, langt værre, ikke skal
+overholde den lovgivning, vi selv har været med til at vedtage i EU.";Kl. 13:07
+8596;Time;"Formanden:
+Hr. Lars Løkke Rasmussen.";Kl. 13:09
+8644;Time;;Kl. 13:09
+8670;name_party;":
+Jeg synes, vi skulle starte med at overholde den lovgivning, vi har
+vedtaget her i Folketingssalen. Det tror jeg også er respektfuldt i forhold til den danske grundlov. Og når statsministeren nu ønsker en
+specifik tilgang til tingene, så lad os da specifikt tale om børnechecken.
+Min egen regering lavede jo en opsparingsordning med afsæt i en
+juridisk rådgivning. Den er vedtaget her i Folketingssalen – den er
+vedtaget her i Folketingssalen. Den er gældende dansk lov. I øjeblikket administreres der ikke efter gældende dansk lov. Det er uhørt,
+det er skandaløst. Regeringen har ikke fremsat noget lovforslag. Regeringen har ikke sikret sig, at der er parlamentarisk flertal bag den
+linje, som regeringen i øjeblikket administrerer efter. Der udbetales
+børnecheck til folk, der ikke opfylder den danske lovs bestemmelser.
+Så lad os da snakke specifikt om det. Hvornår og på hvilken dag ønsker statsministeren, at hun og jeg skal tage en drøftelse om det her,
+eller hvor skal det ske?
+Vi har sådan set det synspunkt, at den frie bevægelighed er et gode for Danmark. Et lille, åbent land som Danmark har gavn af den.
+Men vi skal også værne om det unikke ved det danske velfærdssamfund, og det gør man altså ikke ved bare at forære en børnecheck til
+den første, den bedste, der krydser grænsen. Det gør man da ikke
+ved at lægge sig ned for den første, den bedste kontorfuldmægtig i
+Kommissionen, der giver udtryk for sit synspunkt. Det gør man da
+ved en gang imellem at tage kampen op.
+Lige nu og her har regeringen altså i strid med et flertal i Folketinget lagt sig ned for Kommissionens fortolkning. (Formanden: Ja
+tak.) Man har ikke engang villet afvente en åbningsskrivelse, man
+har ikke drøftet med partierne, om der måske her var en sag, hvor
+man skulle gå hele vejen til EU-Domstolen for at se, om vi ikke kunne have en pointe. Det synes jeg er slapt.";Lars Løkke Rasmussen
+10541;Time;;Kl. 13:07
+10583;title_name;":
+Jeg skal gøre opmærksom på, at jeg ikke stillede spørgsmål til Venstre. Jeg udtrykte min undren, og der er jo rigeligt at udtrykke undren over, så det er jeg egentlig glad for at jeg gjorde.
+Men med hensyn til den specifikke diskussion om det her med
+velfærdsydelser sagde jeg jo netop, at lige præcis når det handler om
+dagpenge, er der tal, som ikke udelukkende kan forklares med
+krisen. Det vil vi selvfølgelig kigge nøjere på. Derfor undrer det mig
+meget, at hr. Lars Løkke Rasmussen mener, at de her spørgsmål skal
+tages som generelle debatter. Hvorfor ikke gå direkte til sagen og";Helle Thorning-Schmidt
+11182;Time;"Formanden:
+Statsministeren.";Kl. 13:11
+11221;Time;;Kl. 13:11
+11263;title_name;":
+Som hr. Lars Løkke Rasmussen nu hidser sig passioneret op over, så
+er det jo grundlæggende en holdning om, at går den, så går den. Det
+er fint, at selv om vi ved, at vi ikke administrerer i overensstemmelse
+med reglerne, så skal vi bare fortsætte alligevel og vente på, at vi bliver opdaget, vente på, at vi får en åbningsskrivelse, vente på, at vi
+
+Tirsdag den 14. januar 2014 (US 37)
+
+eventuelt får en dom. Det kan godt være, at det er den måde, man
+tænker på i Venstre, men det er ikke den måde, som Danmark bør
+ledes på.
+Selvfølgelig skal vi rette ind i forhold til en forordning. Det her
+handler om en forordning, det vil sige, at den her sag faktisk har direkte retsvirkning for den enkelte borger. Selvfølgelig skal vi rette
+ind, når ikke en tilfældig embedsmand ovre i et eller andet ministerium, men dygtige jurister siger, at den her sag har vi ikke nogen
+chance for at vinde. Skulle vi så sige til borgerne, at det kan godt
+være, I har et retskrav her, men det er vi bare ligeglade med? Er det
+Venstres måde at opfylde de forpligtelser på, som man selv er enige
+i at vi skal opfylde over for EU? Det kan godt være, at Venstre tænker, at går den, så går den, men sådan tænker regeringen ikke.";Helle Thorning-Schmidt
+12478;Time;"Formanden:
+Hr. Lars Løkke Rasmussen.";Kl. 13:12
+12526;Time;;Kl. 13:12
+12552;name_party;":
+Det er lidt uklart, hvad statsministeren egentlig tænker om dansk folkestyre. Altså, hvis der er nogen, der arbejder efter devisen »går den,
+så går den« , så er det da statsministeren, som fuldstændig uden inddragelse af Folketinget administrerer i strid med en lovgivning, der
+er vedtaget af det danske Folketing. Den ville aldrig gå med mig
+som statsminister. Jeg ville initiere drøftelser, der sikrede, at der ville være et flertal bag regeringens politik. Jeg ville, hvis jeg syntes, at
+den lov, der var vedtaget i Folketinget, ikke kunne opretholdes i sin
+nuværende form, fremsætte et nyt lovforslag.
+Regeringen har ingenting gjort. Regeringen har sendt en pressemeddelelse ud fra Skatteministeriet engang i sommer om, at gældende dansk lov administrerer vi ikke efter – uden at have fremsat et
+lovforslag, uden at have indledt forhandlinger, uden at komme med
+forslag til, hvad man alternativt kunne gøre for på en eller anden måde at stå vagt om det, der var en vilje til i den danske Folketingssal,
+da lovforslaget blev vedtaget i sin tid, nemlig at børnecheck får man
+altså ikke bare, første dag man træder ind på en jordbærmark. Det er
+jo sådan set det, det handler om. Men altså, statsministeren synes så
+åbenbart bare, at den går.
+Jeg synes ikke, det er en klædelig måde at forvalte danske folkestyretraditioner på. Det må jeg sige helt åbent.";Lars Løkke Rasmussen
+13919;Time;3;Kl. 13:13
+13933;Time;"Formanden:
+Så går vi til den anden stribe spørgsmål fra hr. Lars Løkke Rasmussen som Venstres partileder. Værsgo.";Kl. 13:14
+14058;Time;Spm. nr. US 37;Kl. 13:14
+14099;name_party;":
+Danmark er et retssamfund, der hviler på en folkestyretradition. Hvis
+en regering synes, at man ikke skal administrere efter dansk lov, så
+bør en regering altså initiere, at der kommer en ny lovgivning. Vi er
+nu over halvvejs i folketingsåret, og der er ikke fremsat noget lovforslag. Statsministeren har ikke en skygge af parlamentarisk opbakning til den linje, der er lagt i den her sag. Altså, jeg kan jo kun aflæse det i den offentlige debat, for mig bekendt har der ikke været nogen egentlige forhandlingsmøder. Men hvis jeg hører det rigtigt, er
+det jo sådan, at der ikke er nogen partier, der ser på den her sag fuldstændig på samme måde, som regeringen gør. Jeg synes, at det er et
+problem, men det synes statsministeren så ikke. Man skal bare regere landet i direkte samklang med nogle embedsmænd i Kommissionen uden inddragelse af et flertal i Folketinget. Det synes jeg ikke
+danskerne er tjent med.
+Men må jeg ikke spørge om noget helt andet? For nu har vi taget
+hul på et nyt år, og man begynder jo, som statsministeren var inde
+på, så småt at kunne se effekterne af den politik, der bliver ført. Det
+gælder bl.a. den økonomiske politik, som jo hviler på de reformer,
+som vi fik vedtaget før valget, som man gik til valg på at rulle tilbage, og som man nu har taget til sig – og godt for det, for ellers ville
+Danmark jo ikke være, hvor Danmark er nu.
+Men det er jo også på andre områder, man begynder at kunne se
+effekten. Lad os f.eks. se på udlændingeområdet. Der regner regeringen med at der næste år vil være 7.500 familiesammenføringer mod
+små 3.000 i 2011. Jeg snakker her om asylansøgere. Der er altså en
+stigning i antallet af familiesammenføringer. Man har fjernet starthjælpen. Man har skabt andre vilkår vedrørende vores asylcentre, og
+vi begynder at kunne se den samlede effekt. Den løber foreløbig op i
+en regning på 1 mia. kr., der kunne have været brugt på noget andet.
+Og så vil jeg egentlig bare spørge, om det stopper her, altså med milliarden, eller om regeringen budgetterer med, at der skal være yderligere udgifter på det her område?";Lars Løkke Rasmussen
+16179;Time;"Formanden:
+Statsministeren.";Kl. 13:16
+16218;Time;"Formanden:
+Statsministeren.";Kl. 13:13
+16257;Time;;Kl. 13:16
+16299;title_name;":
+Hr. Løkke Rasmussen afslører jo faktisk en temmelig stor uvidenhed
+om det her område. Der er stadig et optjeningsprincip. Vi vælger bare også at medtage den optjening fra andre lande, som EU-borgere
+kommer med. Man ved også godt, at der er en forordning, der gælder her, og det betyder faktisk, at den enkelte borger umiddelbart
+kan støtte ret på det. Skulle vi så imod den rådgivning, vi får fra jurister, sige: Jamen det er vi bare ligeglade med, det kan godt være, at
+borgerne har et retskrav her, men det er vi bare ligeglade med? Det
+mener jeg ikke at en regering kan. Og det er meget muligt, at Venstre synes, at det er den måde, man skal regere landet på, men det
+mener regeringen ikke.
+Danmark er et retssamfund. Når Danmark vedtager love sammen
+med andre lande – også love, som har direkte retsvirkning for den
+enkelte borger – skal vi selvfølgelig sikre, at de får den retsvirkning,
+der er tiltænkt. Det er meget enkelt, vil jeg sige til hr. Lars Løkke
+Rasmussen. Jeg forstår egentlig ikke, at det ikke er det for hr. Lars
+Løkke Rasmussen, som så gerne vil være statsminister i Danmark.";Helle Thorning-Schmidt
+17439;title_name;":
+Det var mange spørgsmål fra hr. Lars Løkke Rasmussen, men vi er
+nødt til at tage diskussionen om den her børnefamilieydelse, for det,
+hr. Lars Løkke Rasmussen dybest set siger, er, at selv om juristerne i
+Danmark siger, at den her sag kan vi ikke vinde, selv om vi er helt
+enige i Kommissionens fortolkning af det her spørgsmål, så skal vi
+fortsætte med at administrere i strid med EU-lovgivningen. Det er
+det, som hr. Lars Løkke Rasmussen siger, og det undrer mig virkelig
+meget, at hr. Lars Løkke Rasmussen, som jo ellers roser sig af at være del af et parti, der går ind for den fri bevægelighed, og roser sig
+af, at Danmark er et retssamfund, med åbne øjne vil administrere på
+en måde, som man ved ikke er i overensstemmelse med lovgivningen.
+Hvis der havde været en chance for, at vi kunne vinde den her
+sag, så havde vi selvfølgelig taget den, men hvis man vurderer, at
+der ikke er nogen chance, så vil det være en dårlig håndtering af den
+danske sag at sætte sig tilbage og vente på en åbningsskrivelse eller
+
+4
+
+Tirsdag den 14. januar 2014 (US 37)
+
+en dom for den sags skyld. Det vil være en dårlig håndtering. Jeg må
+bare minde hr. Lars Løkke Rasmussen om, at det ikke kan være nyt
+for hr. Lars Løkke Rasmussen, at man forsøger at rette lovgivningen
+ind, så den passer med den lovgivning, vi selv har skrevet under på.
+Det gjorde man jo også i forbindelse med Metockdommen. Så det
+kan umuligt komme bag på hr. Lars Løkke Rasmussen, at det forholder sig sådan.
+Det kan ikke komme bag på hr. Lars Løkke Rasmussen, for det
+her er et spørgsmål, vi har diskuteret længe. Vi indkalder partierne
+til en diskussion af det her spørgsmål, sådan at vi får bragt lovgivningen i overensstemmelse med den måde, vi administrerer på. Men
+man kan ikke som ansvarlig regering vide, at borgerne har nogle
+krav, og så ikke leve op til dem. Så begynder det at være i uoverensstemmelse med lovgivningen, og det kan man ikke som regering.";Helle Thorning-Schmidt
+19376;Time;"Formanden:
+Hr. Lars Løkke Rasmussen.";Kl. 13:18
+19424;Time;;Kl. 13:18
+19450;name_party;":
+Det er jo nogle interessante vurderinger, regeringen har, men det er
+jo nogle, regeringen monopoliserer med sig selv. Altså, kan statsministeren ikke bekræfte, at der ikke er fremsat noget lovforslag? Kan
+statsministeren ikke bekræfte, at der ikke har været ført detaljerede
+forhandlinger omkring indholdet af et sådant lovforslag?
+Det er altså næsten ikke værd at bruge ord på, for jeg synes jo,
+det skriger til himlen, at vi har en regering, der slog sig op på god
+regeringsførelse, da man kom ned fra det sorte tårn, og så har vi en
+situation her, hvor vi mere end halvdelen inde i folketingsåret ikke
+har set et lovforslag fra regeringens side om det her forhold, hvor regeringen – i strid med den lovgivning, der er vedtaget i Danmark –
+ikke har sikret sig, at der er parlamentarisk dækning for den måde,
+man forvalter tingene på.
+Det tror jeg desværre ikke, jeg bliver meget klogere på her i dag,
+så jeg gentager bare mit spørgsmål fra før. For før statsministeren
+blev statsminister, sagde statsministeren jo, og nu citerer jeg: Jeg
+kunne ikke drømme om at gå over mod en lempeligere udlændingepolitik. Og nu står vi altså her i starten af 2014 med en ekstraregning
+på udlændingepolitikken i 2013 på 1 mia. kr. Så er det da værd at
+spørge, om det ikke er et udtryk for, at statsministeren måske ikke –
+i hvert fald ikke på det her lille politikområde – helt har levet op til
+det, der blev lovet, nemlig ikke at lempe. Eller man kan i hvert fald
+spørge, om det så stopper med milliarden. Altså, regner regeringen
+med, der skal bruges yderligere her?
+Når jeg spørger, er det selvfølgelig også, fordi statsministeren
+bliver ved med at spørge mig om det der udgiftsstop – som jo altså
+svarer til, at hver gang jeg vil bruge 100 kr., vil statsministeren bruge 100 kr. og 60 øre – og at dansk politik skal handle om de sidste
+60 øre. Og her er der så 1 mia. kr. Jeg synes da, den milliard kunne
+have været brugt bedre på andre ting.";Lars Løkke Rasmussen
+21395;Time;"Formanden:
+Statsministeren.";Kl. 13:20
+21434;Time;;Kl. 13:20
+21476;title_name;":
+Altså, jeg er nødt til at vende tilbage til det andet. Jeg skal også nok
+forsøge at gå ind i diskussionen om familiesammenføringer, men jeg
+er bare nødt til at sige, at selvfølgelig vil jeg indkalde til forhandlinger med Folketingets partier, og selvfølgelig vil vi lægge forslag til
+lovgivning frem i Folketingssalen. Det har jeg sagt ved tidligere lejligheder, også her i salen. Så det tror jeg egentlig godt at hr. Lars
+Løkke Rasmussen er klar over.
+
+Men det, der undrer mig i den her sag, er, at man i Venstre, som
+jo gerne vil sidde i Statsministeriet igen, ikke accepterer, at når der
+er tale om en forordning, som borgerne rent faktisk kan støtte ret på
+direkte, bliver man nødt til at give borgerne de rettigheder. Vi kan
+ikke nægte borgerne rettigheder, når jurister herhjemme – det handler ikke om jurister nede i Kommissionen – også Justitsministeriet så
+klart siger, at her er sagen nogenlunde klar: at man ikke kan forbeholde optjeningskravet kun til danske borgere, det er også noget, der
+skal gælde for EU-borgere.
+Jeg synes, det er underligt, at vi har en person, som så gerne vil
+være statsminister, men som samtidig også siger, at han er ligeglad
+med de aftaler om love og regler, vi har med andre lande. Det er faktisk stort og principielt, hvis det er hr. Lars Løkke Rasmussens holdning. Hr. Lars Løkke Rasmussen må jo have været med så længe i
+den her diskussion, at han ved, at en forordning er og bliver en forordning, og at den altså er gældende ret fra den dag, den bliver vedtaget, og at den er noget, borgerne kan støtte ret på. Det kan man ikke bare sidde overhørig.
+I forhold til det med familiesammenføringer skal jeg bare minde
+om, at vi også før valget sagde det, som jeg tror alle partier, der sidder i regering nu, sagde, nemlig at vi ville afskaffe det pointsystem,
+der var indført. Vi vil egentlig gerne have både en robust og retfærdig udlændingepolitik. Det er derfor, der stadig stilles temmelig
+skrappe krav om selvforsørgelse og krav i det hele taget til de mennesker, der kommer hertil som familiesammenførte. Selvfølgelig betyder det noget, at man har den slags krav. Det er også derfor, vi
+stort set har ført politikken tilbage til der, hvor den var omkring
+2010, og der var der vel trods alt ikke nogen, der beskyldte Danmark
+for at have en slap udlændingepolitik.
+Vi sagde før valget, at vi ville ændre pointsystemet, og det har vi
+naturligvis gjort.";Helle Thorning-Schmidt
+23884;Time;"Formanden:
+Hr. Lars Løkke Rasmussen, sidste bemærkning.";Kl. 13:22
+23951;Time;;Kl. 13:22
+23977;name_party;":
+Nu synes statsministeren, det er underligt, at der er en person, der
+gerne vil være statsminister – altså, jeg synes, det er underligt, at der
+er en person, der er statsminister, og som her i januar 2014 endnu
+ikke har lagt et lovforslag frem. Hvis det er så fuldstændig lysende
+klart, som statsministeren siger det er, så der bare er at sige jawohl,
+for det er der en medarbejder i Kommissionen der siger, så skulle det
+lovforslag da bare have ligget hernede til Folketingets åbning. Det er
+ikke fremsat endnu.
+Regeringen er en mindretalsregering. Regeringen administrerer
+op imod en lov, der er vedtaget i det danske Folketing uden at have
+sikret sig, at der er flertal for den måde, regeringen ser verden på.
+Jeg tror selv, at jeg ville have gjort det, når der kom sådan en
+skrivelse, der kunne sætte spørgsmålstegn ved, om dansk lovgivning
+skulle justeres, at jeg øjeblikkelig ville sørge for, at der var et flertal
+i Folketinget, der så på det på samme måde som mig. Jeg tror da, at
+jeg ville udforske, om der så var andre måder, hvorpå vi kunne sikre,
+at det, der var ånden i det, det, der var sigtet med lovgivningen, nemlig at man ikke fik en børnecheck, straks man krydsede en jordbærmark, kunne opretholdes. Men regeringen har ingenting gjort. Regeringen sidder og monopoliserer alle de her vurderinger. Regeringen
+holder ingen møder, fremsætter ikke nogen lovforslag. Det er da
+slapt, slapt, slapt. Og det er så den samme regering, der stiller sig op
+nu og siger: Vi følger det her problem med velfærdsturisme.
+Statsministeren sagde til mig sidste forår: Vi laver en europapolitisk aftale inden sommerferien. Dengang troede jeg, at det var sidste
+års sommerferie, men nu er det hele løbet tørt; der er ingen drøftelser. Hvorfor tager vi ikke det her på os sammen og får lavet en poli-
+
+Tirsdag den 14. januar 2014 (US 38)
+
+tisk aftale, der sikrer, at vi kan værne om de danske velfærdsydelser?
+Hvorfor gør vi egentlig ikke det? Jeg forstår det ikke.
+Så må jeg forstå, at på udlændingeområdet blafrer det i vinden,
+om checken bliver større. Altså, den der milliard, der nu er brugt mere i 2014 end tidligere, er en nødvendig meromkostning ved den politik, man fører. Og det tal kan så vokse yderligere. Vi står nu i en
+situation, hvor vi har flere asylansøgere (Formanden: Ja tak!) end vi
+har haft de sidste 10 år, og det er der altså ingen planer om at sætte
+nogen form for stop for. Og derfor kan man jo bare konstatere, at
+hvor vi er nogle, der egentlig hellere ville bruge pengene på skatteog afgiftslettelser, på dansk velfærd, så vil regeringen altså hellere
+bruge dem på en slappere udlændingepolitik.";Lars Løkke Rasmussen
+26608;Time;"Formanden:
+Statsministeren for en afslutning her.";Kl. 13:25
+26669;Time;;Kl. 13:25
+26711;title_name;":
+Altså, hr. Lars Løkke Rasmussen fifler jo løs – han fifler løs med
+sproget, for han bliver ved med at sige, at der sidder en eller anden
+embedsmand nede i Kommissionen, som har bestemt det her. Det er
+jo decideret forkert. Det her handler om, at danske jurister, inklusive
+jurister i Justitsministeriet, har vurderet, at vi ikke kan vinde den her
+sag. Hvis vi mente, at vi kunne vinde en sådan sag, havde vi selvfølgelig kastet os ud i det, men det mener vi ikke at vi kan. Og derfor
+bliver vi nødt til at gøre det, som vi skal. Det er en forordning, som
+betyder, at borgerne har et retskrav. Vi bliver nødt til at give dem det
+retskrav.
+Vi roder os ikke ud i retssager, som vi ikke kan vinde. Vi administrerer ikke imod bedre vidende. Vi har ikke den holdning, at går
+den, så går den. Næh, vi er et retssamfund, og det skal Danmark blive ved med at være.
+Der vil blive indkaldt til diskussioner om det her lovforslag. Vi
+vil gerne fremsætte et lovforslag, så der vil i den nærmeste fremtid
+blive indkaldt til diskussioner om det. Og jeg håber så til gengæld, at
+Venstre vil komme og være konstruktive og i hvert fald sige ja til to
+ting ved den indgangsdør – for det første, at vi skal leve op til de love, vi selv har været med til at aftale, og for det andet, at vi går ind
+for den fri bevægelighed. Der troede jeg at vi havde Venstre, men
+Venstres svar svæver i vinden. Man vælger et synspunkt, alt efter
+hvilken dag vi står her på.
+Så jeg vil sige: Kom tilbage Venstre, kom tilbage og vær et ansvarligt parti og tag ansvar også for europapolitikken på det her område.";Helle Thorning-Schmidt
+28295;Time;"Formanden:
+Tak til hr. Lars Løkke Rasmussen.
+Så er det hr. Kristian Thulesen Dahl som Dansk Folkepartis leder.";Kl. 13:26
+28417;Time;Spm. nr. US 38;Kl. 13:26
+28461;name_party;":
+Tak, formand, og godt nytår til statsminister, regering, Folketing.
+Det er jo første gang, selv om det er et stykke inde i året, vi ser hinanden, så derfor er det selvfølgelig på sin plads at ønske godt nytår.
+Tak i øvrigt for, at statsministeren kommer med nogle EU-betragtninger her i sin indledning. Der var nogle, der undrede sig over,
+at EU ikke længere var så vigtigt, at det også hørte hjemme i en nytårstale. Det kan man jo mene forskelligt om, men at EU er et vigtigt
+diskussionspunkt, mener vi i hvert fald i Dansk Folkeparti.
+
+5
+
+Det er det også, fordi vi jo har den her velfærdsturisme, som
+statsministeren så også er inde på. Det, som så er lidt vanskeligt for
+os at finde ud af, er jo, hvad regeringen egentlig mener om velfærdsturisme, altså, om det helt grundlæggende er et problem, eller det
+grundlæggende ikke er et problem. Jeg bliver forvirret, når statsministeren også i sin indledning nævnte behovet for, at der er klarhed –
+det var så adresseret til Venstre, men jeg synes jo også, at det adresserer sig til statsministeren selv at bringe klarhed.
+Når vi bliver tvivl om, om velfærdsturisme bliver betragtet som
+et problem af regeringen, er det jo bl.a., fordi jeg så sent som i søndags havde anledning til at have en større duel, givtig duel, med landets vicestatsminister, den radikale leder, økonomi- og indenrigsministeren. Hun mente, at vores bekymringer i forhold til velfærdsturismen baserede sig på spøgelseshistorier, og derfor, når nu statsministeren selv tager det her frem i indledningen, hvad jeg synes er helt
+på sin plads, vil jeg gerne høre statsministeren, om hun er enig med
+økonomi- og indenrigsministeren i, at vi baserer vores bekymringer i
+forhold til velfærdsturisme på spøgelseshistorier, som det blev sagt i
+søndags, eller om statsministeren er enig med Dansk Folkeparti i, at
+det er et principielt stort problem med velfærdsturisme, og at det skal
+adresseres, og at man også skal gøre noget aktivt for at modgå velfærdsturisme og den stigning i velfærdsturisme, som vi har set de seneste år.";Kristian Thulesen Dahl
+30513;Time;"Formanden:
+Statsministeren.";Kl. 13:28
+30552;Time;;Kl. 13:28
+30594;title_name;":
+Regeringens holdning er fuldstændig klar på det her område. Det er,
+at udlændinge selvfølgelig ikke skal komme til Danmark med henblik på at få ydelser. De skal komme til Danmark for at arbejde. Det
+er meget, meget enkelt. Hvis vi ser, at der er nogle områder, hvor der
+kan være udfordringer, løser vi dem. Det er også det, jeg siger. Der
+er et antal, som er på dagpenge nu, som ikke helt kan forklares af
+krisen, og der kommer vi til at gå konkret ind i det område.
+Men det her er jo en balanceret tankegang, for hr. Kristian Thulesen Dahl har jo heller ikke ret til i, at man kan se tegn på, at der
+kommer en masse mennesker til Danmark, ikke for at arbejde, men
+for at udnytte de sociale systemer. Der synes jeg egentlig at det påhviler hr. Kristian Thulesen Dahl at vise, at det her er et reelt problem, for hvis vi kigger fuldstændig nøgternt på tallene, og det skal
+man jo gøre, så er det svært at påpege, at der er et reelt problem her.
+Så inden hr. Kristian Thulesen Dahl roder sig ud i nærmest at kalde
+alle EU-borgere, der kommer til Danmark for at arbejde, for velfærdsturister, synes jeg da, at det påhviler hr. Kristian Thulesen Dahl
+at fortælle, hvor det økonomiske problem er og egentlig også konkret, hvad man vil gøre ved det.
+Regeringens holdning er klar. Der er ikke noget økonomisk problem, men hvis vi kan se, at der er borgere, der kommer til Danmark
+for at udnytte det danske system og ikke for at arbejde, vil vi gøre
+noget ved det, og hvis vi ser, at der er konkrete områder, der muligvis bliver udfordret, vil vi også konkret og pragmatisk gøre noget
+ved det. Det er meget enkelt.";Helle Thorning-Schmidt
+32212;Time;"Formanden:
+Hr. Kristian Thulesen Dahl.";Kl. 13:30
+32262;Time;;Kl. 13:30
+32291;name_party;":
+Nu har regeringen jo været regering i lidt længere tid, end jeg bryder
+mig om, men det har den jo. Sådan er demokratiets spilleregler. Så
+statsministeren har nu været statsminister siden efteråret 2011.
+
+6
+
+Tirsdag den 14. januar 2014 (US 39)
+
+Statsministeren siger så her i Folketingssalen i dag, som jeg måtte forstå indledningen, at der er et problem i forhold til udviklingen, i
+forhold til hvem der modtager dagpenge. Det er jo en stigning, der
+har været over et stykke tid. Der har jo været en udvikling de sidste
+3 år, som er ret massiv på det her område. Man kan så have forskellige holdninger til, om det er et økonomisk problem i forhold til kongeriget, eller om vi kan klare det. Men det er åbenbart et problem,
+også set fra statsministerens side, for ellers ville man jo nok ikke
+adressere det her i indledningen.
+Når man nu har været statsminister siden efteråret 2011 – det har
+altså været et accelererende problem, for man tager det op her i dag
+– synes jeg, det er på sin plads at spørge statsministeren om, hvad
+man indtil nu har foretaget sig.";Kristian Thulesen Dahl
+33365;Time;"Formanden:
+Statsministeren.";Kl. 13:31
+33404;Time;;Kl. 13:31
+33446;title_name;":
+Altså, jeg kan jo stadig undre mig over, hvad der egentlig er Dansk
+Folkepartis holdning i den her sag. Jeg skal nok svare på spørgsmålene, vil jeg sige til hr. Kristian Thulesen Dahl, men jeg har lov til at
+undre mig over, hvad der egentlig er Dansk Folkepartis holdning.
+For er det sådan i Dansk Folkepartis optik, at alle EU-borgere, der
+kommer til Danmark, kommer her som såkaldte velfærdsturister? Er
+det sådan, det hænger sammen? Eller er der også bare helt almindelige polakker og andre, som kommer til Danmark for at bidrage, gøre
+et stykke arbejde, og som egentlig også konkret bidrager til det danske samfund?
+Min holdning er, at det ikke nytter noget at kalde alle velfærdsturister, hvis: punkt 1, vi ikke kan se, at der rent faktisk er et problem
+økonomisk, og punkt 2, fordi man på den måde skærer alle mennesker over en kam. Det nytter ikke noget.
+Derfor skal vi punkt for punkt håndtere sagerne, som de opstår.
+Det har vi f.eks. sammen med hr. Kristian Thulesen Dahl gjort på
+SU-området. Der ved hr. Kristian Thulesen Dahl jo godt, at det er
+noget, vi har drøftet, og at det er noget, vi også skal drøfte fremadrettet. Der har vi håndteret det her og fundet en løsning. Nu vil vi
+kigge på dagpengene og se, om der er en udfordring på det område,
+og så også håndtere det i den rækkefølge, problemerne opstår.
+Det, der er vigtigt her, er, at hr. Kristian Thulesen Dahl har en interesse, tror jeg, i at sige, at alle mennesker er velfærdsturister. Vi vil
+gerne se på fakta, og ingen fakta kan bekræfte det. Men hvis der opstår et konkret problem, som der muligvis er på dagpengeområdet, så
+håndterer vi det og løser det.";Helle Thorning-Schmidt
+35090;Time;"Formanden:
+Hr. Kristian Thulesen Dahl i sidste runde.";Kl. 13:32
+35155;Time;;Kl. 13:32
+35184;name_party;":
+Jeg må bare sige, at man godt nok bliver forvirret på et højere plan –
+altså, magen til ordleg – når der bliver sagt, at det der skal skabe
+klarhed. Jeg tror, de fleste, der har hørt den her debat, har meget
+svært ved at finde ud af, om statsministeren synes, vi har et problem
+med velfærdsturisme, eller at vi ikke har. Det er skiftende meldinger
+fra regeringspartierne fra den ene dag til den næste. Nogle mener, at
+vi har et problem, nogle mener, at vi ikke har et problem. Nogle siger, at det er spøgelseshistorier, vi er ude med, når vi taler om en bekymring i forhold til velfærdsturisme. Andre mener, at nu må vi også gøre noget konkret ved det.
+Når jeg så spørger, hvad man har gjort, henviser man til en aftale
+om SU, vi skulle have lavet i fællesskab, hvor vi forpligter regerin-
+
+gen til at tage det her op i EU-sammenhæng for at få lavet om på
+tingenes tilstand. For det, vi måtte erkende, da vi forhandlede SU,
+var, at vi fik en merregning. Hvert evig eneste år var regeringens
+egen vurdering på det tidspunkt på mellem brutto 400 og 500 mio.
+kr. ekstra i SU-udgifter.
+Men hvad er der konkret sket fra regeringens side? Det eneste
+konkrete, vi har set indtil nu, er det, som også hr. Lars Løkke Rasmussen var inde på, nemlig at man i sommer fjernede optjeningsprincippet i praksis, som det var forstået i den danske lovgivning, på
+baggrund af en henvendelse fra Europa-Kommissionen. Det får vi så
+et åbent samråd om i Folketingets Finansudvalg i morgen kl. 11.30 –
+reklame – et samråd, hvor vi kan diskutere med justitsministeren og
+skatteministeren, på hvilket lovgrundlag man har foretaget den ændring. For i Dansk Folkeparti har vi meget svært ved at se, at man
+har lovgrundlag for at foretage den administrative ændring i strid
+med danske lovregler. Vi mener derfor, det er i strid med den danske
+grundlovs måde at fordele magten på, og det får vi selvfølgelig lejlighed til at diskutere i morgen på det samråd.
+Men jeg må bare afslutningsvis sige, at det er meget svært at finde ud af, om regeringen mener, at velfærdsturisme er et problem, eller mener, at det ikke er et problem. Vi hører skiftende meldinger
+hver evig eneste dag, og det er heller ikke til at blive klogere på det,
+når man hører statsministeren her i dag.";Kristian Thulesen Dahl
+37437;Time;"Formanden:
+Statsministeren.";Kl. 13:34
+37476;Time;;Kl. 13:34
+37518;title_name;":
+Jamen det er da meget enkelt: Regeringen mener ikke, at der er et
+stort og generelt problem med velfærdsturisme. Regeringen mener
+ikke, at enhver borger fra Østeuropa eller andre steder fra, der kommer til Danmark for at arbejde, er en velfærdsturist. Så det besvarer
+jo ganske enkelt spørgsmålet. Og det, som jeg så kan undre mig
+over, er, hvad Dansk Folkeparti egentlig mener. Mener man, at alle
+polakker eller andre, der kommer til Danmark, pr. definition er velfærdsturister? Det mener regeringen ikke, vi mener ikke, der er et
+stort og generelt problem med velfærdsturisme.
+Men vi vil også godt sige helt klart, at vi forventer, at EU-borgere, der kommer til Danmark, kommer for at arbejde og bidrage, og vi
+forventer selvfølgelig ikke, at de kommer for at udnytte de danske
+velfærdssystemer. Det er meget enkelt. Og i det omfang vi enten ser
+tegn på, at der er svig eller misbrug, eller vi kan se, at der er nogle
+ydelser, der bliver benyttet meget, også mere, end der kan forklares
+af krisen, så vil vi kigge nærmere på det spørgsmål. Det er jo egentlig et balanceret, enkelt svar, og det, der blæser i vinden her, også
+efter i dag, er: Hvad mener Dansk Folkeparti egentlig? Er alle borgere, der kommer til Danmark for at arbejde, dybest set velfærdsturister?
+Det er ikke et spørgsmål til hr. Kristian Thulesen Dahl. Det ville
+være rart at få svar på det, men jeg vil have lov til at undre mig over,
+at Dansk Folkeparti aldrig giver nogen svar på det spørgsmål.";Helle Thorning-Schmidt
+38998;Time;"Formanden:
+Tak til hr. Kristian Thulesen Dahl.
+Så er det fru Johanne Schmidt-Nielsen som Enhedslistens partileder.";Kl. 13:36
+39124;Time;"Spm. nr. US 39
+
+Tirsdag den 14. januar 2014 (US 39)";Kl. 13:36
+39208;name_party;":
+Altså, jeg må sige, at det undrer mig, at regeringen ikke kan se, at
+EU lægger et pres på det danske velfærdssystem. Og jeg må også sige, at jeg deler hr. Lars Løkke Rasmussens undren over statsministerens håndtering og regeringens håndtering af sagen om børnechecken, altså at man har lagt sig fladt ned for EU. Jeg ved da godt, at hr.
+Lars Løkke Rasmussen ganske givet havde gjort præcis det samme,
+hvis han var statsminister – ikke for at diskutere det. Men det er for
+mig uforståeligt, at regeringen ikke kan indrette reglerne således, at
+hvis man kommer til Danmark, arbejder og betaler skat, skal man
+selvfølgelig have adgang til de samme velfærdsydelser som andre,
+der arbejder og betaler skat. Men man skal ikke kunne sende en børnecheck ud af landet. Man skal naturligvis have en børnecheck, hvis
+man har børn her i Danmark, fordi den tager udgangspunkt i de leveomkostninger, vi har i Danmark.
+Men det, jeg vil spørge statsministeren til, handler om kontanthjælpsreformen. Nytårsmorgen trådte den i kraft, og det betyder, at
+når vi rammes af arbejdsløshed og kommer på kontanthjælp, skal vi
+fremover sendes ud i såkaldte nyttejob efter kort tids arbejdsløshed.
+Kommunerne er jo nu i gang med at finde de opgaver, som nyttejobberne skal løse, og blandt de ideer, vi har hørt om, er f.eks. oprydning på strande og i parker, opsamling af hundelorte, trafikoptælling
+og havearbejde. Regeringen har afvist al kritik af den her nyttejobordning og sagt, at kritikken er udtryk for jobsnobberi.
+Men kritikken har intet med jobsnobberi at gøre, for det handler
+ikke om, at der er nogle af os, der er for fine til at gøre rent eller for
+fine til at lave havearbejde. Det handler ikke om karakteren af arbejdet. Det handler om, at opgaverne skal udføres for en betaling, som
+ligger langt under mindstelønnen, uden de rettigheder, som vi normalt har, når vi arbejder, ret til at optjene dagpenge, optjene feriepenge, forhandle en overenskomst, vælge en tillidsrepræsentant osv.
+Det handler om, at der bliver skabt et B-arbejdsmarked, hvor arbejdsløse tvinges til at arbejde på ringere vilkår, for lavere løn og
+med færre rettigheder end deres kollegaer. De job burde ikke kaldes
+nyttejob, de burde kaldes udnyttejob.
+Statsministeren taler meget om ret og pligt, men jeg kan ikke få
+øje på de rettigheder, de mennesker, som skal være i de her såkaldte
+nyttejob, har. Så jeg vil gerne spørge statsministeren: Hvorfor mener
+statsministeren, det er rimeligt, at hvis vi rammes af arbejdsløshed,
+skal vi arbejde for en betaling langt under mindstelønnen og uden de
+rettigheder, som vi normalt har, når vi går på arbejde?";Johanne Schmidt-Nielsen
+41833;Time;"Formanden:
+Statsministeren.";Kl. 13:38
+41872;Time;;Kl. 13:38
+41914;title_name;":
+Jeg har simpelt hen så svært ved at forstå, at det skulle være et problem, at et menneske, der er på kontanthjælp, bliver bedt om at gøre
+et stykke arbejde, som er til gavn for samfundet. Det er ikke et stykke arbejde, som ellers ville være blevet gjort, det er et ekstra stykke
+arbejde. Jeg tror, der er tusindvis af mennesker, som kan se sig omkring i det danske samfund og sige: Det ville være rart, hvis det blev
+gjort, og rart, hvis det blev gjort. Og det er jo det, nyttejobbene består af. Så jeg undrer mig virkelig over, at Enhedslisten ikke er enig
+i, at når man beder et menneske, der er på kontanthjælp, om at bidrage for den kontanthjælp, så er det dybest set af respekt for det enkelte menneske. Det betyder, at man også bidrager, og at man har både
+nogle rettigheder og nogle pligter i den forbindelse. Så jeg kan simpelt hen ikke forstå, at man bliver så ophidset over de her nyttejob.
+Jeg tror, det er godt for samfundet, men jeg tror, at det i lige så
+høj grad, måske i højere grad, er godt for den enkelte, der møder op
+og skal have kontanthjælp, at man også tager dem og deres arbejdsevne alvorligt. Nu skal man aldrig generalisere ud fra anekdoter eller
+
+7
+
+ting, man selv har oplevet, men jeg har da mødt unge mennesker,
+som også kom et sted hen og bidrog med noget og gjorde et stykke
+arbejde, der var vigtigt, og havde bygget ting, som de viste mig. At
+se på dem og mærke, at de var stolte af det, de havde gjort, bekræfter
+mig i, at så tosset er det altså heller ikke, at man siger til mennesker,
+der er på kontanthjælp: Du kan også noget, du kan også bidrage med
+noget, som er vigtigt for samfundet. Og det er jo det, nyttejobbene
+handler om.";Helle Thorning-Schmidt
+43593;Time;"Formanden:
+Fru Johanne Schmidt-Nielsen.";Kl. 13:40
+43644;Time;;Kl. 13:40
+43674;name_party;":
+Rengøring i f.eks. daginstitutioner, rengøring af gader og stræder,
+vedligeholdelse af parker er, vil jeg sige til statsministeren, ordinært
+arbejde. Hvis ikke statsministeren ved, at det er arbejde, der udføres
+af mennesker, som får løn for det, og som har det som et job, så er
+der for alvor tale om jobsnobberi.
+Inden valget lavede Socialdemokraterne og SF et udspil om de
+her nyttejob, som, så vidt jeg husker, blev lanceret i statsministerens
+1. maj-tale. I det udspil blev det slået fast, at de arbejdsløse selvfølgelig ikke skulle arbejde til under mindstelønnen; de skulle have deres kontanthjælp, og den skulle der så arbejdes for, men man skulle
+maks. arbejde det antal timer, der svarede til mindstelønnen. Hvornår skiftede statsministeren og Socialdemokraterne holdning til det
+spørgsmål? Altså, hvorfor synes statsministeren i dag, at det er rimeligt, at i tusindvis af danskere kommer til at gå rundt og udføre arbejde, som vi alle sammen får nytte af, arbejde, som andre mennesker
+har som ordinært arbejde, men til en timeløn, som jo ikke er i nærheden af mindstelønnen? Hvornår skiftede statsministeren holdning?
+Og hvorfor er det okay, at der er mennesker, der skal gøre rent i vores parker, i daginstitutionerne osv., uden at de får den samme løn
+som deres kollegaer, uden at de får de samme rettigheder som deres
+kollegaer?";Johanne Schmidt-Nielsen
+45028;Time;"Formanden:
+Statsministeren.";Kl. 13:41
+45067;Time;;Kl. 13:41
+45109;title_name;":
+Jeg tror godt, vi kan blive enige om, at de her job er helt almindelige
+job, som lægger sig oven i det, man ellers gør. Det er jo ikke nogle
+job, som ville være blevet udført, hvis man ikke havde de her nyttejob. Og det er det, der er det vigtige ved dem: Man modtager sin
+kontanthjælp, og så bidrager man også med en konkret opgave til
+samfundet. Hvad er det, fru Johanne Schmidt-Nielsen og Enhedslisten kan have imod, at man siger til mennesker, som er på kontanthjælp: Vil du ikke være med til at løfte den her opgave? Jeg forstår
+ikke den måde at se mennesker på. Jeg tror ærlig talt, at det for de
+mennesker, som også får en mulighed for at vise, hvad de kan, bidrage til et fællesskab, være en del af det, at man løser en opgave, er
+langt bedre end at sidde derhjemme og ikke være en del af et fællesskab. Det er derfor – det er noget, vi har ment i lang tid – at det er
+bedre at være til nytte for samfundet og udføre en konkret opgave
+end ikke at være det. Det er bedre for samfundet, og det er bedre for
+den enkelte.";Helle Thorning-Schmidt
+46146;Time;"Formanden:
+Fru Johanne Schmidt-Nielsen.
+
+8
+
+Tirsdag den 14. januar 2014 (US 40)";Kl. 13:42
+46239;Time;;Kl. 13:42
+46269;name_party;":
+Jeg ville synes, det ville være så godt, hvis regeringen sørgede for at
+skabe arbejdspladser, gerne med rengøring, gerne med havearbejde,
+til de mange mennesker, der går ledige. Men jeg synes godt nok, det
+er noget jobsnobberi, at man, hvis man bliver sat til at gøre rent på
+gader og stræder, sørge for, at vores parker bliver holdt, så ikke skal
+have den samme løn som de kollegaer, der har det som et ordinært
+job. Altså, det arbejde er åbenbart ikke fint nok; nogle kommer, vil
+jeg sige til statsministeren, til at arbejde for 35 kr. i timen før skat –
+35 kr. i timen før skat for at gøre rent, for at passe vores parker. Jeg
+synes, at det at passe parker, det at gøre rent er rigtigt arbejde, og
+derfor synes jeg også, at man skal have en rigtig løn for det, og jeg
+synes, at man, når man udfører det arbejde, skal have rettigheder –
+det andet er lønpresseri.
+Det her med, at betalingen for et nyttejob kommer til at være på
+omkring 35 kr. i timen for unge kontanthjælpsmodtagere – det er før
+skat – synes jeg jo bl.a. er interessant, fordi hr. Claus Hjort Frederiksen for ikke så længe siden kom med et forslag om et lavtlønsarbejdsmarked med en timeløn på 40 kr., et forslag, som Socialdemokraterne afviste og kaldte social dumping.
+Hvad er forskellen? vil jeg spørge statsministeren.
+
+ved nu tre gange at konfrontere statsministeren. Først nu er der tilsyneladende blevet indkaldt til nogle forhandlinger engang i januar.
+Grundlæggende må jeg bare stå på den her side og konstatere –
+og jeg kan bekræfte, at vi i den her sag står på samme side som Enhedslisten, Venstre, Konservative og Dansk Folkeparti – at man
+fuldstændig har ignoreret et flertal i Folketinget, siden man blev
+gjort opmærksom på problemstillingen. Man har intet foretaget sig,
+og det er jo det, der er det grundlæggende problem. Hvis det viser
+sig, at vi skal administrere på den her måde, så skal vi administrere
+på den her måde, men problemet er, at man ikke har rådført sig med
+Folketinget, og det har vi trods alt fået frem gennem de her spørgsmål. Det synes jeg sådan set er en gevinst for folkestyret.
+Jeg vil gerne spørge ind til et svar, som kom fra Finansministeriet
+lidt skjult den 24. december. Vil statsministeren redegøre for, hvordan hun ser på, at finansministeren peger på, at hvis man gennemførte nulvækst i den offentlige sektor, ville der netto komme 14.000
+flere i beskæftigelse i Danmark? Beskæftigelsen ville blive forøget
+med 14.000, hvis vi gennemførte nulvækst. Når man tager højde for
+mindre vækst i den offentlige sektor og lægger den samlede øgede
+vækst i den private sektor til, giver det netto 14.000 ekstra arbejdspladser. Hvorfor vil regeringen ikke være med til at skabe de 14.000
+nye arbejdspladser?";Johanne Schmidt-Nielsen
+48992;Time;;Kl. 13:47
+49003;Time;"Formanden:
+Statsministeren.
+
+Formanden:
+Statsministeren.";Kl. 13:44
+49072;Time;;Kl. 13:47
+49082;Time;;Kl. 13:44
+49124;title_name;":
+Det er mennesker, der er på kontanthjælp, og som får mulighed for
+at løse nogle konkrete opgaver, som får mulighed for at være et sted
+hver dag, hvor man indgår i teams sammen med andre, indgår i et
+fællesskab, hvor man løser konkrete opgaver. Vi kan ikke bare oprette nye stillinger til de her mennesker – det er jo dybest set det, fru
+Johanne Schmidt-Nielsen taler om – men det handler om: Hvis man
+er på kontanthjælp og man får en ydelse af samfundet, er det så så
+urimeligt, at man også løser en konkret opgave for samfundet? Jeg
+synes ikke, det er så urimeligt et bytte, og jeg tror dybest set, at det
+er bedre for samfundet, men hvad der er endnu vigtigere, er – synes
+jeg – det, at vi tager hvert enkelt menneske alvorligt, fordi vi siger:
+Du kan også være med til at løse en konkret opgave.
+Så kan jeg forstå på fru Johanne Schmidt-Nielsen, at hun synes,
+vi bare skal oprette en hel masse nye stillinger. Men sådan kan økonomien jo ikke hænge sammen, og derfor er det enkle spørgsmål,
+som man skal svare på: Er det egentlig ikke meget rimeligt, at mennesker, der får kontanthjælp, også til gavn for dem selv, bliver en del
+af samfundet og løser en opgave, der er til nytte for samfundet?";Helle Thorning-Schmidt
+50331;Time;"Formanden:
+Tak til fru Johanne Schmidt-Nielsen for den her omgang.
+Så er det hr. Anders Samuelsen som Liberal Alliances leder.
+Værsgo.";Kl. 13:45
+50477;Time;Spm. nr. US 40;Kl. 13:45
+50515;name_party;":
+Jeg skal nok lade være med at ønske godt nytår og alt det. Det er der
+så mange andre der har gjort. Først og fremmest synes jeg, at der
+måske er grund til at kvittere for, at vi vel har fået det første virkelig
+seriøse eksempel på, at den her spørgesession faktisk virker. Der
+kommer noget ud af den. Vi har jo fået hele den her sag om børnechecken og den måde, regeringen har administreret på, frem i lyset";Anders Samuelsen
+50966;title_name;":
+Om den første sag skal jeg lige sige, at det simpelt hen ikke er rigtigt, at det først er debatten her i Folketinget, der har gjort, at der er
+blevet klarhed over det her med børnefamilieydelsen, for det er Folketinget blevet gjort opmærksom på fuldstændig klart. Jeg tror, det
+er helt tilbage i oktober, at Folketinget er blevet gjort opmærksom på
+den måde at administrere på. Jeg tror ikke, det kommer bag på nogen, at vi agter at indkalde Folketingets partier. Jeg tror, at dem, der
+siger det, taler imod bedre vidende, for selvfølgelig vil vi indkalde
+Folketingets partier til at diskutere den her lovgivning. Så er det
+sagt.
+Med hensyn til det her med nulvækst, og hvordan offentlig nulvækst kan øge beskæftigelsen, vil jeg sige, at det jo er rigtigt, at der
+har været stillet nogle spørgsmål til Finansministeriet, og der er blevet regnet på det. Men det ændrer ikke ved regeringens politik. Det
+ændrer ikke ved regeringens politik, at der jo er andre ting end velstand, der betyder noget. Velstand er meget vigtigt, private arbejdspladser er meget vigtigt, men det er også vigtigt for regeringen, at vi
+har et godt velfærdssamfund, et velfærdssamfund, der udvikler sig i
+takt med det, borgerne forventer, både når det handler om vores uddannelse, vores børnepasning, vores sundhed og den måde, vi behandler de ældre på. Det er også vigtigt for regeringen. Det er også
+vigtigt for regeringen, at der er en vis omfordeling i vores samfund
+og et vist mål af lighed.
+Jeg har fuld respekt for, at Liberal Alliances politik er nulvækst
+eller sågar minusvækst, formentlig. Jeg ville bare have endnu mere
+respekt for det, hvis man ville fortælle, hvem det helt præcis er, der
+skal fyres i den offentlige sektor, hvilken service vi skal have mindre
+af i den offentlige sektor, for det er jo også et spørgsmål, der egentlig bør besvares i den sammenhæng.";Helle Thorning-Schmidt
+52829;Time;"Formanden:
+Hr. Anders Samuelsen.
+
+Tirsdag den 14. januar 2014 (US 41)";Kl. 13:48
+52912;Time;9;Kl. 13:48
+52938;name_party;":
+Det er ikke svært at svare på, hvem vi gerne vil af med i den offentlige sektor. Det er en hel del af de administrative led i den offentlige
+sektor. Alle tal peger på, at det ikke er, fordi vi siden slutningen af
+1970'erne har fået flere social- og sundhedsassistenter, læger, lærere,
+pædagoger. Deres antal er sådan set ikke steget, men omfanget af
+den offentlige administration er blevet forøget ganske eksplosivt. Vi
+tør godt sige i Liberal Alliance, at den synes vi godt lige kunne blive
+lidt mindre. Det tror jeg ikke ville gøre noget. Måske skulle det oven
+i købet bygges op om, at staten ruller sig lidt tilbage, med hensyn til
+hvilke petitesser i borgernes opførsel den blander sig.
+Jeg synes, det er vanskeligt at forstå, hvordan man kan sige nej
+til, at vores rigdom skal øges med 17 mia. kr. Der står også i det svar
+her, at vi ville blive 17 mia. kr. rigere, hvis man gennemførte nulvækst. Vi ville få 14.000 flere i beskæftigelse, hvis vi gennemførte
+nulvækst. Er det ikke også velfærd at komme i arbejde?
+
+Men det vil man ikke i Socialdemokratiet og i regeringen, fordi
+man holder fast i et tal – tænk på et tal – i stedet for at tale om mennesker, og hvad indholdet er af den service, vi skal levere. 14.000
+ekstra i beskæftigelse, lavere skat på arbejde – det er da også til gavn
+for den ganske almindelige dansker, at vi letter skatten på arbejde;
+og det er da i høj grad til gavn for den almindelige dansker, at vi sørger for, at vi bliver 17 mia. kr. rigere. Men statsministeren tør ikke
+engang at tænke på, hvordan den offentlige sektor så ud under hendes forgængers ledelse, under Poul Nyrup Rasmussens ledelse. Vi
+taler ikke engang om at formindske den offentlige sektor ned til den
+størrelse, den havde under Poul Nyrup Rasmussen, hr. Mogens Lykketoft, fru Marianne Jelveds regimente. Ikke engang det taler vi om.
+Men det tør statsministeren ikke, fordi det er så vigtigt at holde fast i
+et tal.
+Glemte statsministeren i øvrigt ikke at fortælle om alle de mennesker i den offentlige sektor, som hun reelt set fyrede, da hun kom til
+magten? Det er jo statsministeren, der fyrer. Vi taler om naturlig afgang.";Anders Samuelsen
+55080;Time;;Kl. 13:49
+55091;Time;"Formanden:
+Statsministeren.
+
+Formanden:
+Statsministeren.";Kl. 13:52
+55159;Time;;Kl. 13:49
+55170;Time;;Kl. 13:52
+55212;title_name;":
+Jo, det er bestemt velfærd at komme i arbejde. Men vi har jo valgt, at
+vi vil have en udvikling i Danmark, som er i balance. Vi har valgt, at
+der skal være styr på de offentlige finanser. Det betyder også, at vi
+har gennemført nogle reformer. Det er meget vigtigt, for lige præcis
+det fundament – styr på tingene – er grundlaget for, at vi også i de
+kommende år kan budgettere med, at vi bruger lidt flere penge, ikke
+mange, men lidt flere penge på vores offentlige sektor.
+Hvad betyder det? Det betyder, at den efterspørgsel, der vil være
+efter sundhedsydelser, efter ydelser til de ældre, efter uddannelsesydelser kan vi rent faktisk leve op til. Hr. Anders Samuelsen skylder
+jo egentlig stadig et svar, for han har lidt løse tanker om, at der skal
+fyres lidt administrativt personale. Hvem er det, der skal fyres?
+Hvordan går budgetterne op, når man skal have minusvækst i den offentlige sektor? Jeg synes, synspunktet er fair nok, jeg er bare meget
+uenig. Og Liberal Alliance skylder ligesom Venstre og så mange andre partier at fortælle konkret, hvem der skal holde for, når man skal
+have minusvækst i den offentlige sektor. Finansministeriets tal viser
+jo også, at det betyder, at der bliver færre offentligt ansatte, og det
+må jo reelt betyde, at der er nogle opgaver, man ikke kan løse i den
+offentlige sektor. Hvilke opgaver er det, hvilke ansatte skal ikke være der længere?";Helle Thorning-Schmidt
+56640;title_name;":
+Jeg skal bare minde om, at bare fra nulvækst til den vækst, vi foreslår, er der, hvis man omregner det – det er selvfølgelig svært, der
+skal tages mange forbehold – 33.000 mennesker. Kan hr. Anders
+Samuelsen fortælle mig, hvem de er? Kan han fortælle mig, hvem de
+33.000 er? Det er jo fair nok at gå ind for nulvækst eller minusvækst,
+eller hvad man nu går ind for, men man skylder da den danske befolkning at fortælle, hvem det er, der ikke skal være der mere. Det er
+et meget enkelt spørgsmål, og hvis hr. Anders Samuelsen er så glad
+for det svar, man har fået fra Finansministeriet, så bør man jo også
+lige tage de 33.000 med og sætte handling bag det og fortælle, hvem
+det helt præcis er, der ikke skal være der mere. Det er fint nok, at hr.
+Anders Samuelsen vil have en mindre offentlig sektor, men det har
+selvfølgelig nogle konsekvenser for den service, borgerne kan få.
+Hvad er det for nogle konsekvenser, hvad er det, borgerne skal have
+mindre af, når det handler om service? Det skylder Liberal Alliance
+at svare på.";Helle Thorning-Schmidt
+57678;Time;"Formanden:
+Tak til hr. Anders Samuelsen.
+Hr. Lars Barfoed som konservativ partileder. Værsgo.";Kl. 13:53
+57783;Time;;Kl. 13:54
+57794;Time;"Spm. nr. US 41
+
+Formanden:
+Hr. Anders Samuelsen.";Kl. 13:51
+57854;Time;;Kl. 13:51
+57877;name_party;":
+Jeg vil gerne gentage, at vi i Liberal Alliance ikke på nogen måde er
+bange for at pege på, at den administrative del i den offentlige sektor
+skal være mindre. Det burde da være noget, vi kunne være enige om.
+Hvis vi viser større tillid til de folk, som arbejder på gulvet i den
+offentlige sektor, som arbejder med kerneydelserne, så bliver der
+plads til, at man kan gøre den administrative del mindre. Vi har masser af tal, og statsministeren kender tallene for, hvordan f.eks. socialrådgivere, som arbejder med familier med handicappede børn, bruger alt for meget af deres tid på administrativt arbejde. Det kunne
+godt mindskes, så man samtidig kunne få færre til at arbejde med administration og reelt set øge antallet af timer, hvor der arbejdes med
+kerneydelser.";Anders Samuelsen
+58665;name_party;":
+Jeg vil også gerne starte med at ønske statsministeren og alle andre i
+salen godt nytår. Og så vil jeg sige, at jeg synes, det er modigt, grænsende til dumdristigt, af statsministeren selv at tage fat på hele
+spørgsmålet om velfærdsturisme i sin indledning her i dag. For vi
+har jo nu fået konstateret, at regeringen er dybt splittet i den sag.
+Økonomi- og indenrigsministeren mener overhovedet ikke, at der er
+noget problem med velfærdsturisme, og har afvist, at det er noget, vi
+skal beskæftige os med som et problem, mens europaministeren mener, at det sandelig er en sag, som vi skal følge meget nøje, fordi der
+kan være et problem. Og så har vi jo fået konstateret – i hvert fald i
+dag – at der er et flertal i det her Folketing, der mener, at regeringen
+administrerer reglerne om børnechecken – de værnsregler, der er
+lovgivning om her i Folketinget – i strid med et flertal i Folketinget.
+
+10
+
+Tirsdag den 14. januar 2014 (US 41)
+
+Det har vi kunnet konstatere her i dag, og jeg mener, det er en meget
+alvorlig sag. Det skal jeg så vende tilbage til.
+Men jeg vil godt sige om velfærdsturisme, at Det Konservative
+Folkeparti ønsker fri bevægelighed i Europa. Det har vi gavn af, og
+vi har gavn af, at der kommer borgere fra andre europæiske lande
+hertil og bidrager til det danske samfunds udvikling. Derfor skal vi
+også værne om den fri bevægelighed, og vi værner altså bedst om
+den fri bevægelighed ved at sikre, at vi gennemfører de forandringer,
+der er nødvendige for at undgå urimeligheder og utilsigtede effekter
+af fri bevægelighed.
+Derfor synes jeg, at regeringen nu burde genstarte vores forhandlinger om en europapolitisk aftale, så vi får indskrevet vores bekymring for velfærdsturisme og forpligter os til at gennemføre værnsregler, hvis det udvikler sig uhensigtsmæssigt og urimeligt. Jeg synes
+også, at vi skal indskrive i den aftale, at regeringen går med på det
+hold bestående af Storbritannien, Tyskland, Holland og Østrig, der
+netop vil forpligte Kommissionen til, at vi nu indretter EU-reglerne
+så fleksibelt, at vi kan have sådan nogle værnsregler. Vil regeringen
+være med på det?";Lars Barfoed
+60783;Time;"Formanden:
+Statsministeren.";Kl. 13:56
+60822;Time;;Kl. 13:56
+60833;Time;;Kl. 13:58
+60852;name_party;":
+Nu startede jeg egentlig med at spørge statsministeren om det politiske omkring en europapolitisk aftale og til det, at vi i fællesskab
+skulle lave nogle værnsregler og også bidrage aktivt til, at der i EUreglerne bliver mulighed for sådan nogle værnsregler. For hvis vi
+mener, at EU-Domstolen på nogle områder går for vidt i sin fortolkning, kan vi jo bare lave reglerne om i EU. Det er jo det, vi politikere
+skal gøre. Og det var det, jeg egentlig gerne ville have en diskussion
+med statsministeren om.
+Så går jeg tilbage til det, som statsministeren af en eller anden
+besynderlig grund meget gerne vil diskutere, nemlig det med regeringens forvaltning af reglerne om børnecheck. Det er jo ikke noget
+problem at anerkende, at forordningerne forpligter og giver rettigheder direkte til borgere og virksomheder og andre. Men det, der er
+problemet her, er, at der ikke er nogen retsafgørelse, der fastslår, at
+den danske lovgivning om børnecheck og værnsregler i den forbindelse er i strid med forordningen. Det eneste grundlag for det er, at
+der er nogle, der har den mening. Der er nogle i Kommissionen, der
+har den mening, og der er nogle danske embedsmænd, der har den
+mening. Men der er ikke nogen retsafgørelse, der fastslår, at de danske regler i lovgivningen er i strid med forordningen. Det er det, der
+først og fremmest er problemet.";Lars Barfoed
+62206;Time;;Kl. 13:59
+62248;title_name;":
+Først og fremmest er der det her spørgsmål om den måde, hvorpå vi
+administrerer reglerne om børnefamilieydelsen. Det undrer mig virkelig, at hr. Lars Barfoed er med på den der galej. Jeg troede et øjeblik, at det kun var Venstre, men det er så også Det Konservative
+Folkeparti. Jeg er nødt til at sige det meget klart. Altså, Danmark er
+med til at vedtage EU-lovgivning. Når Danmark er med til at vedtage en forordning, har den faktisk direkte retsvirkning i Danmark. Det
+vil sige, at den enkelte borger kan støtte retskrav på en forordnings
+tekst. Det betyder selvfølgelig også, at vi i Danmark skal administrere i overensstemmelse med den forordning. Hr. Lars Barfoed ved jo
+godt, at det er sådan, det forholder sig. Han har været med til at diskutere EU i tilstrækkelig mange år til, at han ved, at det er sådan, det
+forholder sig.
+Anbefaler hr. Lars Barfoed mig virkelig, at jeg skal administrere
+reglerne i strid med det, som vi kan se er lovteksten, og som danske
+jurister siger er lovteksten? Skal vi hellere sige til borgere, der kan
+støtte retskrav på den her forordning, at det kan være lige meget? Er
+det virkelig det, hr. Lars Barfoed anbefaler mig?
+Jeg synes ikke, det klæder Det Konservative Folkeparti, for man
+har jo altid i Det Konservative Folkeparti ment i hvert fald to ting:
+Vi skal have den fri bevægelighed, vi er en del af det indre marked,
+og det er godt, og vi skal selvfølgelig være en retsstat. Det vil sige,
+at den lovgivning, vi har aftalt med andre lande, skal vi selvfølgelig
+overholde.
+Det betyder ikke, at vi ikke vil søge at få et flertal for den måde,
+vi administrerer reglerne på, og det vil vi gøre fremadrettet. Men det
+er bare, så vi holder fast i, at der er tale om en forordning, som rent
+faktisk giver den enkelte borger noget at støtte direkte retskrav på.
+Det er derfor, at den her lovgivning er lidt anderledes end f.eks. direktiver, som skal omsættes til dansk lov. Jeg synes egentlig, det ville klæde hr. Lars Barfoed, hvis man anerkendte det. For det er jo nok
+det, der gør forskellen på, om man er et japarti eller et nejparti, altså
+at man også, når det bliver lidt svært, går ind i de diskussioner og er
+med til at anerkende sagernes tilstand.";Helle Thorning-Schmidt
+64455;Time;"Formanden:
+Hr. Lars Barfoed.
+
+Formanden:
+Statsministeren.";Kl. 13:58
+64524;Time;;Kl. 13:59
+64566;title_name;":
+Jeg har to ting. For det første vil det være udtryk for et brud i EUpolitikken, hvis man altid skal sidde og vente på, at man får en dom
+imod sig. Det har tidligere regeringer heller ikke gjort. Det gjorde
+man bl.a. ikke i forbindelse med Metockdommen. Så det vil være en
+nyskabelse, at vi sætter os ned og siger, at vi først ændrer tingene,
+når vi bliver opdaget, og når vi får en dom imod os – det er først da,
+vi ændrer tingene. Sådan har det ikke været tidligere. Sådan var det i
+hvert fald ikke med Metockdommen. Jeg synes, det lige er vigtigt at
+få med, at det ville være en nyskabelse.
+For det andet – og det er vigtigt her – får hr. Lars Barfoed det til
+at lyde, som om Holland og Tyskland og Storbritannien alle sammen
+er optaget af at få ændret EU-reglerne på det her område. Jeg har ikke hørt Tyskland sige det. Den tyske europaminister var, så vidt jeg
+forstår, heroppe så sent som i går og sagde det stik modsatte. Så det
+er bare, så man ikke taler mod bedre vidende, i forhold til hvad andre lande mener i den her sag. Og jeg hører i hvert fald hverken
+Tyskland eller Holland for den sags skyld gå ind og sige, at de gerne
+vil have ændret den fri bevægelighed.";Helle Thorning-Schmidt
+65752;Time;"Formanden:
+Hr. Lars Barfoed i sidste runde.";Kl. 14:01
+65807;Time;;Kl. 14:01
+65826;name_party;":
+Det er sådan, at statsministeren og regeringen i over et halvt år har
+kendt den holdning hos Kommissionen, at vores lovgivning skulle
+være i strid med forordningen. Det, en regering normalt ville gøre,
+ville så være at indkalde partierne og sige til partierne: Vi har fået
+den henvendelse, og nogle mener, at forordningen og lovgivningen i
+Danmark ikke er forenelige – hvad gør vi ved det?
+Så kunne vi vælge at sige, at vi laver lovgivningen om straks, for
+vi er alle sammen enige om, at den lov da er i strid med forordningen. Jeg skal bare gøre opmærksom på, at den lov gennemførte vi jo,
+
+Tirsdag den 14. januar 2014 (US 42)
+
+vel vidende at der var sådan en forordning, fordi det var embedsværkets vurdering, at det kunne vi godt gøre. Og så skal der altså meget
+til, at det samme Folketing lige pludselig mener, at nu kan vi ikke
+gøre det.
+Hvis ikke vi havde kunnet overbevise hinanden om, at lovgivningen var i strid med forordningen, så burde vi jo have sagt til Kommissionen, at det var vi ikke enige med Kommissionen i. Så kunne
+Kommissionen have lavet en åbningsskrivelse. Så kunne vi have taget en diskussion med Kommissionen, og så kunne vi ende med at
+sige til Kommissionen: Vi er stadig væk ikke enige med jer, så I må
+gå til EU-Domstolen, og så må EU-Domstolen afgøre, om der er den
+forskel. Og så skulle vi selvfølgelig rette ind, fordi vi er en retsstat.";Lars Barfoed
+67209;Time;"Formanden:
+Statsministeren.";Kl. 14:02
+67248;Time;;Kl. 14:02
+67290;title_name;":
+Jeg skal bare gentage, at det vil være et nybrud, hvis man bare sidder
+og venter på, at man får en åbningsskrivelse, eller venter på, at man
+får en dom. Der har tidligere været eksempler, hvor man rettede ind,
+når hverken Kommissionens embedsmænd eller – og det er måske
+endnu vigtigere – vores egne embedsmænd herhjemme, bl.a. i Justitsministeriet, sagde, at vi ikke havde mulighed for at vinde en sådan sag. Hvis vi mente, der var en chance for det, ville vi selvfølgelig gå hele vejen, men det mener vi ikke der er.
+Selvfølgelig skal vi etablere lovgivning på det her område, og det
+er også derfor, at partierne bliver indkaldt. Vi har også fortalt Folketinget det her helt tilbage i oktober, så vidt jeg husker, og selvfølgelig skal vi det.
+Men det, jeg undrer mig over i den her sag, er, at Det Konservative Folkeparti nu er med på den galej, altså at vi bare skal sidde og
+vente på, at vi får åbningsskrivelser, skal sidde råd fra egne embedsmænd overhørigt, og at vi ikke skal rette ind, før vi får henholdsvis
+en åbningsskrivelse eller en dom. Det undrer mig meget, at Det Konservative Folkeparti nu har den holdning.";Helle Thorning-Schmidt
+68427;Time;"Formanden:
+Tak til hr. Lars Barfoed.
+Så har vi en anden runde til fru Johanne Schmidt-Nielsen som
+Enhedslistens partileder.";Kl. 14:03
+68562;Time;Spm. nr. US 42;Kl. 14:03
+68607;name_party;":
+Jeg håber ikke, der var nogen fra baglandet, der hørte det der. (Munterhed).
+Statsministeren svarede jo aldrig på mit spørgsmål om, hvornår
+statsministeren skiftede holdning til, om de her såkaldte nyttejob
+skulle være på overenskomstmæssige vilkår, eller om de ikke skulle.
+Altså, skal det være på mindsteløn eller ej? Jeg må sige, at jeg synes,
+det svæver i vinden et eller andet sted, hvorfor det er okay, at rengøring og havearbejde bliver udført af mennesker, der går ledige, til 35
+kr. i timen, mens hr. Claus Hjort Frederiksens forslag om et lavtlønsarbejdsmarked med lønninger på 40 kr. i timen blev kaldt social
+dumping. Jeg synes, det er meget svært at se forskellen, og jeg har
+ikke fået svar på, hvornår statsministeren og Socialdemokraterne
+skiftede holdning til, om de her såkaldte nyttejob skulle udføres på
+mindsteløn eller ej.
+Men mit næste spørgsmål handler faktisk også om konsekvenserne af kontanthjælpsreformen. Reformen betyder jo, at en stor gruppe
+unge arbejdsløse vil blive frataget halvdelen af deres kontanthjælp
+
+11
+
+og fremover skal leve for ned til 5.700 kr. om måneden før skat. Reformen deler jo de unge op i to grupper: dem, som er klar til uddannelse, og dem, som ikke er, fordi de har sociale problemer, psykiske
+lidelser osv. Den sidste gruppe får lov til at beholde den samme indtægt som før reformen.
+Nu viser det sig så, at der er fuldstændig forskellige vurderinger
+fra kommune til kommune. I nogle af kommunerne, f.eks. Viborg og
+Esbjerg, er det kun 40 pct. af de unge kontanthjælpsmodtagere, der
+er vurderet uddannelsesparate, og som dermed ryger ned på den lave
+ydelse, mens det er 70 pct. i Randers og Vejle. Og der var altså engang en historie om en ung mand, der var indlagt på psykiatrisk afdeling og alligevel blev vurderet parat til uddannelse og derfor skulle
+ned på halv ydelse.
+Jeg kunne godt tænke mig at spørge statsministeren, om statsministeren tror, at der er en saglig forklaring på den store forskel, der er
+kommunerne imellem. Altså, har de unge arbejdsløse i Randers og
+Vejle markant færre sociale problemer end de unge i Viborg og Esbjerg? Eller kunne man måske forestille sig, at der var gået noget
+kassetænkning i det her rundtomkring i kommunerne? For man sparer jo faktisk ret mange penge her og nu ved at sende flest mulige
+unge ned på den her meget lave ydelse, også selv om de faktisk ikke
+er parat til at uddanne sig, fordi de f.eks. har alvorlige psykiske lidelser.";Johanne Schmidt-Nielsen
+71055;Time;"Formanden:
+Statsministeren.";Kl. 14:06
+71094;Time;;Kl. 14:06
+71136;title_name;":
+Hele vores kontanthjælpsreform bygger jo på, at de unge, der kan,
+skal, og at dem, som ikke kan endnu, skal have noget mere hjælp.
+Det er da et godt princip, at det er på den måde, indgangen til det her
+er. Nu opfinder Enhedslisten en specifik ting, man er uenig i, men
+man er uenig i hele princippet om, at unge, der egentlig godt kan
+tage en uddannelse, skal ned på en uddannelsesydelse, som svarer til
+SU, og at de skal have et lille puf, så de kommer i gang med en uddannelse.
+Det er på den måde, jeg synes vi skal sikre, at vi får gjort op med
+det, at der i dag er 50.000 unge på kontanthjælp, og at godt 9 ud af
+10 af dem ikke har nogen uddannelse. Det skal de have, og derfor
+indfører vi nu det her med, at de får en uddannelsesydelse, som svarer til SU, og at vi finder ud af, om de unge er parate til at komme i
+gang med en sådan uddannelse. Samtidig skal vi selvfølgelig også
+sikre, at unge, som ikke kan, som har forskellige problemer – det
+kan være misbrugsproblemer, psykiske problemer, eller hvad de nu
+kan have af problemer – og som ikke kan tage en uddannelse, ikke
+står over for nogle krav, som de ikke kan leve op til. Jeg har fuld tillid til, at kommunerne kan lave den her skelnen, for de har også en
+interesse i, at det går så godt som muligt for de unge, og at de rent
+faktisk kan gennemføre de uddannelser, de bliver sat i gang med.";Helle Thorning-Schmidt
+72503;Time;"Formanden:
+Fru Johanne Schmidt-Nielsen.";Kl. 14:07
+72554;Time;;Kl. 14:07
+72584;name_party;":
+Den her sammenligning med SU'en lyder så tilforladelig, men jeg
+tror godt, at statsministeren ved, at hvis man er på SU, får man adgang til et billigere kollegieværelse; hvis man er på SU, får man adgang til billigere kollektiv transport, og man har adgang til studielån
+osv. Man er altså i en grundlæggende anderledes økonomisk situation, end hvis man er et ungt menneske på en kontanthjælpsydelse på
+5.700 kr. før skat. Og som flere borgmestre har spurgt regeringen,
+
+12
+
+Tirsdag den 14. januar 2014 (FM )
+
+får jeg jo lyst til at spørge: Hvor er det, statsministeren forestiller sig
+at de her unge mennesker skal bo? For hvis først de mister deres bolig og kommer ud i hjemløshed, kommer de for alvor væk fra arbejdsmarkedet og væk fra uddannelsessystemet, for hjemløsheden
+medfører nogle helt andre sociale problemer.
+Men det var et, synes jeg, meget simpelt spørgsmål, jeg stillede
+statsministeren. Jeg vil prøve at stille det igen: Hvad tror statsministeren er forklaringen på, at man i Viborg og Esbjerg Kommuner
+vurderer, at der er 40 pct. af de unge på kontanthjælp under 30 år,
+som er parat til uddannelse, hvorimod det i Randers og Vejle er 70
+pct.? Hvorfor er der den store forskel?";Johanne Schmidt-Nielsen
+73790;Time;"Formanden:
+Statsministeren.";Kl. 14:08
+73829;Time;;Kl. 14:08
+73871;title_name;":
+Jeg kender jo lige så lidt som fru Johanne Schmidt-Nielsen de her
+sager, men at der er de her forskelle, er et spørgsmål, som også beskæftigelsesministeren tidligere har sagt hun vil følge op på. Men
+det her dækker jo over, at Enhedslisten slet ikke er enig i, at vi skal
+have en ydelse for de unge, som skal i gang med en uddannelse, at vi
+skal kigge på den enkelte unge og spørge: Hvad kan du egentlig? For
+hvis de unge kan tage en uddannelse, skal de over på en uddannelsesydelse, og det er faktisk ikke meningen, at de skal være der så
+lang tid. Det kan jo være, at de kommer over på en ordinær uddannelse og ender med at få SU som alle andre.
+Det, der er meningen med det her, er, at de unge får et skub, sådan at de ikke kommer på kontanthjælp og ikke forbliver på kontanthjælp, men tværtimod får mulighed for at få en uddannelse, sådan at
+de kan klare sig selv. Og det ville egentlig klæde Enhedslisten at gå
+helhjertet ind i det og sige, at de slet ikke synes, at det er rimeligt, at
+vi på den måde mere målrettet hjælper de unge med at få en uddannelse, sådan at vi også har bedre mulighed for at kigge på de unge,
+som ikke kan, og give dem den specifikke hjælp, de har brug for.
+
+magen til den her i næste uge eller i ugen efter? Hvad skal de gøre,
+mens de venter på, at beskæftigelsesministeren har set nærmere på
+de her bemærkelsesværdige forskelle?";Helle Thorning-Schmidt
+75244;Time;"Formanden:
+Statsministeren til afslutning.";Kl. 14:11
+75298;Time;;Kl. 14:11
+75340;title_name;":
+Jeg synes, det er godt, at beskæftigelsesministeren har sagt, at hun
+vil kigge nærmere på det.
+Med hensyn til det her med boligforholdene: Der er selvfølgelig i
+øjeblikket en udfordring i at finde egnede boliger til de unge. Der er
+rekordmange, der uddanner sig, og der er stor efterspørgsel efter de
+billige boliger, som vores unge kan bo i. Det er jo netop derfor, at
+regeringen med finansloven for 2014 har understøttet, at der lokalt
+kan skabes bedre boligforhold for de unge. Vi har afsat 40 mio. kr.
+til at sikre bedre boligforhold til de unge studerende, og det vil jo også afhjælpe de unge, som er på kontanthjælp eller på den her uddannelsesydelse. Så på den måde er vi jo i gang. Ligesom vi også har
+øget indsatsen over for unge, som er i risiko for hjemløshed. Vi skal
+tage det ekstremt alvorligt, hvis der er unge, der ikke har noget sted
+at bo. Og det er netop derfor, at vi har prioriteret den indsats i finansloven for 2014.";Helle Thorning-Schmidt
+76291;Time;"Formanden:
+Tak til statsministeren.
+Så er spørgetimen slut. Og der var i dag en overskridelse på 20
+pct. af den afmålte tid. Det må vi jo se om vi kan reparere på i fremtiden. Men tak til alle deltagerne.";Kl. 14:12
+76508;Time;;Kl. 14:12
+76519;Time;"Meddelelser fra formanden
+
+Formanden:
+Fru Johanne Schmidt-Nielsen, sidste runde.";Kl. 14:09
+76611;Time;;Kl. 14:09
+76641;name_party;":
+Det er unge med f.eks. alvorlige psykiske lidelser, som ryger ned på
+en halv kontanthjælp med det resultat, at kommunerne selv siger:
+Kære regering, vi ved ikke, hvor de skal bo, for vi har ikke boliger
+med den slags lave huslejer, og de ender på gaden.
+Jeg tror ikke, at unge mennesker betragter det som en hjælp. Men
+jeg har godt noteret mig, at beskæftigelsesministeren har reageret på
+de her tal og de meget store forskelle, der er kommunerne imellem,
+ved at sige, at man skal se nærmere på det. Men hvad skal de unge
+mennesker, som altså er røget ned på en halv ydelse, og som ikke
+kan betale deres husleje, gøre, indtil regeringen har fået set nærmere
+på det her?
+Det er en markant forskel. Det må selv statsministeren kunne
+medgive. 40 pct. i én kommune er klar til uddannelse, mens det er 70
+pct. i en anden. Og jeg kan fortælle, at det er sådan i Randers Kommune, at før årsskiftet var det kun omkring 20 pct. af de unge i den
+her gruppe, der blev vurderet til at være parate til job og uddannelse,
+men nu, efter kontanthjælpsreformen er trådt i kraft, er der altså 70
+pct. af de her unge, man vurderer til at være parate til job eller uddannelse.
+Kunne man ikke forestille sig, at det havde noget at gøre med, at
+kommunen sparer ret mange penge på den her halve ydelse? Og
+hvordan vil statsministeren sikre, at vi ikke får en historie præcis
+
+Formanden:
+Vi går videre. Der er i dag følgende anmeldelser:";Johanne Schmidt-Nielsen
+78091;title_name;":
+Lovforslag nr. L 106 (Forslag til lov om ændring af udlændingeloven. (Ret til fortsat ophold ved ægtefælles død)).
+Martin Henriksen (DF) m.fl.:
+Beslutningsforslag nr. B 35 (Forslag til folketingsbeslutning om
+brug af elektronisk fodlænke på kriminelle asylansøgere og udlændinge på tålt ophold) og
+Beslutningsforslag nr. B 36 (Forslag til folketingsbeslutning om varigheden af tidsbegrænsede opholdstilladelser).
+Titlerne på de anmeldte sager vil fremgå af www.folketingstidende.dk (jf. ovenfor).
+Til Folketingets dagsorden i dag har jeg fra udenrigsministeren fået
+meddelelse om, at han ønsker i henhold til forretningsordenens § 19,
+stk. 4, at give Folketinget en skriftlig sikkerhedspolitisk redegørelse
+for 2013.
+(Redegørelse nr. R 7).
+
+Tirsdag den 14. januar 2014 (L 90)
+
+Eksemplarer vil blive omdelt, og redegørelsen vil fremgå af
+www.folketingstidende.dk.
+Redegørelsen vil komme til forhandling tirsdag den 21. januar 2014.
+
+Det næste punkt på dagsordenen er:
+2) 1. behandling af lovforslag nr. L 90:
+Forslag til lov om ændring af lov om arbejdsmiljø og lov om indretning m.v. af visse produkter. (Obligatorisk digital kommunikation).
+Af beskæftigelsesministeren (Mette Frederiksen).
+(Fremsættelse 04.12.2013).";Karen Hækkerup
+79321;Time;"Forhandling
+Formanden:
+Forhandlingen er åbnet. Hr. Peter Juel Jensen som Venstres ordfører.";Kl. 14:13
+79424;Time;(Ordfører);Kl. 14:13
+79458;name_party;":
+Tak, formand. Formålet med lovforslaget er at indføre hjemmel til at
+stille krav om, at skriftlig kommunikation mellem Arbejdstilsynet og
+virksomheder samt andre, der har pligter efter loven, fremover skal
+foregå digitalt. Det vil betyde besparelser i Arbejdstilsynet, efterhånden som fuld digitalisering effektueres, og for virksomhederne vil
+det betyde, at digitaliseringen bidrager til at lette de administrative
+byrder for dem. Men det forudsætter, at der etableres en digital løsning, der genbruger data, og som effektiviserer sagsbehandlingen og
+på samme tid er brugervenlig, og det vil vi fra Venstres side holde
+fokus på under arbejdet.
+Venstre blev tidligt hørt i udarbejdelsen af lovforslaget, og vi
+havde tre vigtige input. Ministeren har indarbejdet alle tre bemærkninger i lovforslaget, og Venstre kan derfor bakke op om forslaget.
+Tak.";Peter Juel Jensen
+80319;Time;"Formanden:
+Tak til ordføreren. Hr. Lennart Damsbo-Andersen.";Kl. 14:15
+80390;Time;(Ordfører);Kl. 14:15
+80430;name_party;":
+Al kommunikation mellem borgere, virksomheder og myndigheder
+skal foregå digitalt inden udgangen af 2015. Det er en målsætning
+hos Socialdemokraterne og regeringen for hele den offentlige sektor.
+Danske skattekroner skal bruges fornuftigt, og det er vigtigt, at vi alle sammen oplever en offentlig sektor, der er sammenhængende og
+samarbejder digitalt. Det giver god mening set med socialdemokratiske øjne.
+Vi er allerede nået et rigtig godt stykke. De seneste år har vi her i
+Tinget gennemført en række lovændringer, der har fremmet digitaliseringen i Danmark. Med dette forslag stiller vi krav om, at også Arbejdstilsynets kommunikation fremover skal foregå digitalt. Det skal
+være obligatorisk for virksomheder og borgere at kommunikere digitalt om arbejdsmiljø med bl.a. Arbejdstilsynet.
+Det meste af kommunikationen mellem virksomheder og Arbejdstilsynet foregår digitalt allerede i dag. F.eks. har det siden 2003
+været helt normal praksis at kommunikere via e-mail med alle offentlige virksomheder, og det har siden 2010 været obligatorisk for
+
+13
+
+arbejdsgivere at anmelde arbejdsulykker. Dette lovforslag er derfor
+et naturligt skridt videre i den proces.
+Men det er vigtigt at sikre, at vi ikke lader uerfarne it-brugere i
+stikken, og derfor vil der for de enkelte løsninger være en overgangsperiode, før de gøres obligatoriske, hvor virksomheder og borgere har mulighed for at vænne sig til de nye løsninger.
+Dette lovforslag handler altså om, at vi tilpasser os nye tider på
+en god måde. Det fører oven i købet til mindre besparelser i Arbejdstilsynet og administrative og økonomiske lettelser i erhvervslivet, og
+derfor kan Socialdemokraterne støtte lovforslaget.";Lennart Damsbo-Andersen
+82117;Time;"Formanden:
+Hr. Bent Bøgsted som Dansk Folkepartis ordfører.";Kl. 14:16
+82188;Time;(Ordfører);Kl. 14:16
+82218;name_party;":
+Tak, hr. formand. Det her forslag er jo et enkelt forslag som sådan,
+når man ser på det. Det er simpelt hen et spørgsmål om, at man skal
+kunne kommunikere digitalt mellem myndigheder og arbejdsgivere.
+På trods af at det er et enkelt forslag, er der alligevel nogle problemer i det, for vi har jo den situation, at man som arbejdsgiver faktisk
+kan komme ud for et problem – og jeg håber, at ministeren lige hører
+efter her, men det gør ministeren ikke – når man som arbejdsgiver
+skal indberette noget til f.eks. Virk.dk og så får at vide, at der kan
+være systemfejl. Og ringer arbejdsgiveren så til kommunen og siger,
+at der er problemer, får de at vide, at det er o.k., når man har trykket
+på knappen. Så er det o.k. Men alligevel bliver det ikke registreret.
+Et andet problem, man som arbejdsgiver kan blive udsat for – og
+jeg skal nok sende den her henvendelse over til ministeren, så ministeren har noget på skrift om det problem, der er – er, at en arbejdsgiver, der skal ind og anmelde noget via det digitale system, jo kan
+blive udsat for en lang ventetid, at man ikke lige kan komme igennem, at der er nogle problemer. En arbejdsgiver har altså ikke råd til
+at sidde og vente 3-4 timer på at komme igennem. Det håber jeg er
+noget, som ministeren vil se til at vi får en fornuftig løsning på, for
+det er jo ikke noget, hvor man sådan bare lige kan give los og sige,
+at nu skal alt være digitalt, hvis vi så siger, at arbejdsgiverne bare
+skal sidde og vente, indtil de kan komme igennem, eller at de må have en ansat, der skal sidde og vente ved tasterne, til vedkommende
+kan komme igennem. Det skal gerne være noget, der fungerer her og
+nu.
+Det skal også være sådan, at når arbejdsgiverne ikke har kunnet
+komme igennem, på grund af at der er sket nogle fejl, tager man
+hensyn til det og afviser ikke bare arbejdsgiverne og siger: Det her er
+ikke vores problem; det er nok ude hos dig selv, der er et problem.
+Der må man tage det alvorligt og se på de problemstillinger, der er.
+Det er i hvert fald noget af det, som vi i Dansk Folkeparti lægger
+vægt på. Det skal fungere, inden vi giver los for en rent digital løsning. Det tror jeg egentlig også at ministeren er indstillet på, og jeg
+kan se, at ministeren nikker, så det håber jeg.
+Men jeg vil sende nogle papirer over til ministeren om en generel
+problemstilling, der har været med Virk.dk. Det er jo noget af det,
+som skal fungere i forbindelse med en digital løsning. Og så vil jeg
+bede ministeren om at komme med et reelt svar på, hvordan man løser de problemer, så arbejdsgiveren fremover ikke kommer i den situation, at vedkommende mister en refusion til en af sine ansatte, på
+grund af at det digitale system svigter. Hvis arbejdsgiverne gang på
+gang kommer ud for det, mister de jo lysten til at være selvstændige.
+Det er jo ikke meningen. Det skal jo gerne være noget, der kan være
+med til at lette administrationen for arbejdsgiverne. Det er i hvert
+fald det, jeg har forstået at det går ud på, og så kan det ikke hjælpe,
+at det hele ender med, at det bliver en byrde for arbejdsgiverne, så de
+løber skrigende væk.
+
+14
+
+Tirsdag den 14. januar 2014 (L 90)
+
+Med de her kommentarer vil jeg sige, at jeg synes, det er et udmærket forslag, men der er altså lidt, vi skal have set på, inden vi giver los for det digitale. Det kan godt være, vi måske skulle se på, om
+der i den forbindelse skal være en overgangsordning, så man stadig
+væk kan indsende det på papiret, hvis noget svigter – eller hvordan
+man nu kan finde en løsning. Det håber jeg at ministeren måske har
+et forslag til allerede.
+
+ler derfor, at folk positivt skal tilkendegive, at de ønsker korrespondancen elektronisk. På den baggrund er jeg modstander af en obligatorisk digital kommunikation, og jeg håber på, at ministeren i stedet
+for vil gøre det frivilligt.
+Derfor vil jeg stemme imod dette lovforslag.";Bent Bøgsted
+86068;Time;"Formanden:
+Tak til ordføreren. Hr. Joachim B. Olsen som Liberal Alliances ordfører.
+
+Formanden:
+Tak til ordføreren. Hr. Nadeem Farooq som radikal ordfører.";Kl. 14:20
+86236;Time;;Kl. 14:23
+86247;Time;;Kl. 14:23
+86257;Time;(Ordfører);Kl. 14:20
+86288;name_party;":
+Tak, formand. Og tak til hr. Bent Bøgsted for valgtalen.
+Fra radikal side bakker vi op om lovforslaget, som understøtter
+og bærer ved til den digitale omstilling. Vi ser mange gode takter i
+forslaget, og ud fra en helhedsbetragtning kan vi kun bakke op om
+det. Ja, det var, hvad jeg ville sige. Tak.";Nadeem Farooq
+86599;Time;"Formanden:
+Tak til ordføreren. Hr. Eigil Andersen som SF's ordfører.";Kl. 14:21
+86679;Time;(Ordfører);Kl. 14:21
+86711;name_party;":
+Jeg kan sige i al korthed, at SF støtter lovforslaget. Og det er min
+forståelse af sagen, at de hensyn, som Dansk Folkeparti ønsker at
+man skal tage, også vil blive taget.";Eigil Andersen
+86894;Time;"Formanden:
+Tak til ordføreren. Hr. Jørgen Arbo-Bæhr som Enhedslistens ordfører.";Kl. 14:21
+86985;Time;(Ordfører);Kl. 14:21
+87019;name_party;":
+Det er jo et forslag, som er en del af regeringsgrundlaget for digital
+kommunikation mellem myndigheder, borgere og virksomheder. I
+dette forslag tager regeringen fat i Arbejdstilsynet og dets kommunikation med virksomheder og borgere. Det lyder i princippet som et
+godt forslag. Vi har hørt om det papirløse samfund som et godt og
+miljørigtigt princip, men desværre ved vi jo godt, at det er et indholdsløst princip. Det er et princip for de højtuddannede, mens mange, ikke mindst de ældre, bliver ladt i stikken. Det handler om folk,
+som ikke er på hjemmebane i den digitale tidsalder.
+Forslaget handler jo om obligatorisk digital kommunikation. Hvis
+man nærlæser bemærkningerne til lovforslaget, kan man stille nogle
+spørgsmål. Arbejdstilsynet har jo undersøgt, om virksomheder godt
+vil have digital kommunikation, og jeg citerer fra bemærkningerne:
+»Der er stor interesse for denne frivillige ordning. Således har
+Arbejdstilsynet i første halvår 2013 kunnet sende 70 % af sine udgående breve til de virksomheder, som Arbejdstilsynet fører tilsyn
+med, som email på baggrund af den frivillige ordning.«
+Det viser jo, at mange virksomheder godt kan og vil have digital
+kommunikation, mens andre godt vil have det pr. snailmail. Det
+handler om fleksibilitet fra myndighedernes side. Og jeg tror, at vi
+skal være meget fleksible, når vi snakker om bekæmpelse af bureaukrati. Jeg er hundrede procent enig med Advokatrådet, når de påpeger, at staten forudsætter, at alle borgere er i stand til at kommunikere elektronisk med det offentlige, selv om alt tyder på, at en stor del
+af borgerne, herunder ældre, derved bliver ladt i stikken. De anbefa-
+
+(Ordfører)";Jørgen Arbo-Bæhr
+88699;name_party;":
+Liberal Alliance kan som udgangspunkt godt støtte det her forslag,
+men vi deler de bekymringer, som også hr. Bent Bøgsted rejste. Jeg
+har fået henvendelser fra mange arbejdsgivere, som bestemt ikke synes, at de digitale løsninger, som eksisterer i dag, er tilfredsstillende.
+Selvfølgelig er der en vis indkøringsfase, og der er noget tilpasning.
+Det er der altid, når man ændrer på ting, men jeg synes, at det er vigtigt, at den tilpasning finder sted på en måde, sådan at det ikke betyder yderligere byrder for erhvervslivet, som helst skal koncentrere
+sig om at skabe vækst og arbejdspladser.
+Faktisk så vi også helst, at den her ordning var frivillig, da vi er
+af den overbevisning, at tiden vil gøre, at langt de fleste hen ad vejen
+vil foretrække digitale løsninger, men der er en del, som er aktive i
+erhvervslivet i dag, og for hvem det nok vil være unødvendigt at
+skulle tilegne sig ny viden i forhold til at kunne bruge de her digitale
+løsninger. Der vil deres tid nok være bedre brugt på at fortsætte, som
+det er i dag.
+Men når det er sagt, kan vi overordnet set støtte lovforslaget, hvis
+det er sådan, at vi i udvalgsarbejdet bliver forsikret om, at den fleksibilitet, der også er lagt ind i det her lovforslag, er tilstrækkelig og
+imødekommer de ønsker, som findes i erhvervslivet. Tak.";Joachim B. Olsen
+90009;Time;"Formanden:
+Tak til ordføreren. Beskæftigelsesministeren.";Kl. 14:25
+90077;Time;;Kl. 14:25
+90123;title_name;":
+Tak for diskussionen af det her relativt lille lovforslag. For nu at svare på nogle af de spørgsmål, der er blevet rejst i debatten, vil jeg sige, at det jo gerne skal være sådan, at det er til fordel for virksomhederne, at mere og mere af kommunikationen foregår digitalt, også
+med Arbejdstilsynet, for det er klart, at hvis man kan klare tingene
+pr. mail eller på anden vis med elektroniske skemaer og andet, i stedet for at man skal ringe og lave en aftale eller skal sende det pr.
+brev, er det jo – og det kender vi jo fra vores egen hverdag – ofte
+meget, meget nemmere. Så hele ideen med det her er jo altså at sikre, at stadig mere kommunikation med myndighederne kommer til at
+foregå elektronisk og digitalt, og det skal gerne gavne de virksomheder, vi taler om i dag.
+Derfor vil jeg også gerne sige, at det selvfølgelig først bliver obligatorisk for virksomhederne på det tidspunkt, hvor de tekniske løsninger er på plads. Det er også vigtigt for mig at sige, at der skal være dialog med virksomhederne, så vi er sikre på, at det er de rigtige
+redskaber, der tages i brug. Vi skal også være sikre på, at de teknologiske løsninger er driftsikre, inden det bliver obligatorisk. Derfor vil
+der også være overgangsordninger, sådan at det i en periode bliver
+frivilligt for virksomhederne, om man ønsker at gøre det digitalt –
+altså når man skal kommunikere – eller ej, og det skal selvfølgelig
+være brugervenligt, fordi det her også laves af hensyn til netop virksomhederne.
+
+Tirsdag den 14. januar 2014 (L 103)
+
+Sidst, men ikke mindst, er det vigtigt for mig at slå fast, at man
+selvfølgelig altid kan kontakte Arbejdstilsynet, hvis man oplever, at
+der er problemer med arbejdsmiljøet, eller ønsker at anmelde alvorlige arbejdsmiljøproblemer, og det kan man gøre på alle de tænkelige
+metoder, man måtte kunne finde på for at kommunikere, herunder
+altså at henvende sig og ringe, som man selvfølgelig også kan i dag.
+Så rejser hr. Bent Bøgsted nogle konkrete spørgsmål, som også
+går lidt ud over lovforslaget. Dem vil jeg meget, meget gerne besvare efterfølgende, for det er klart, at vi selvfølgelig skal indrette systemerne så brugervenligt som overhovedet muligt, så man ikke sidder
+som virksomhedsejer eller ledig og har behov for at kunne kommunikere med myndighederne og tror, at man har gjort alt det rigtige,
+og så har man ikke, og så kan det være, at der falder en eller anden
+form for sanktion. Så det vil vi meget gerne følge op på. Det er klart,
+at brugervenlighed her er rigtig, rigtig afgørende.
+Men tak for behandlingen. Vi skal nok besvare de konkrete
+spørgsmål, og det er vigtigt, at det her først bliver obligatorisk, når
+løsningerne er godt testet igennem og vi er sikre på, at de virker,
+som de skal, for virksomhederne.";Mette Frederiksen
+92880;Time;;Kl. 14:28
+92918;title_name;":
+Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingerne
+sluttet.
+Jeg foreslår at lovforslaget henvises til Beskæftigelsesudvalget. Hvis
+ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+3) 1. behandling af lovforslag nr. L 103:
+Forslag til lov om ændring af ligningsloven, momsloven og forskellige andre love. (Fremrykning af skatte- og afgiftslempelser
+og forhøjelse af beskæftigelsesfradrag m.v.).
+Af skatteministeren (Jonas Dahl).
+(Fremsættelse 20.12.2013).";John Dyrby Paulsen
+93478;Time;Forhandling;Kl. 14:28
+93528;title_name;":
+Forhandlingen er åbnet. Den første ordfører på podiet er hr. Torsten
+Schack Pedersen, Venstre. Værsgo.";John Dyrby Paulsen
+93642;Time;(Ordfører);Kl. 14:28
+93682;name_party;":
+Først og fremmest må jeg sige, at det er glædeligt at tage hul på det
+parlamentariske arbejde i 2014, når vi starter med behandlingen af
+det her lovforslag, som jo er en udmøntning af finanslovsaftalen
+mellem regeringen og Venstre og Konservative, nemlig det lovforslag, der fremrykker skatte- og afgiftslettelserne i vækstaftalen, og
+det betyder, at vi med det her lovforslag sænker skatter og afgifter
+med 2,2 mia. kr. i år. Altså: Danskerne får lov til at beholde nogle
+flere af deres egne penge, og virksomhederne skal betale noget mindre i skat. Det er ganske fornuftigt, for det er der brug for i Danmark.
+Det var en fornuftig afslutning på 2013, da vi i ellevte time indgik en fornuftig finanslovsaftale med regeringen og dermed holdt
+
+15
+
+Enhedslisten uden for indflydelse. Med utallige møder mellem regeringen og dets parlamentariske grundlag og med overskridelse af regeringens egne tidsfrister må jeg da indrømme at det var lidt af en
+neglebider; blot få måneder tilbage lå det jo ikke ligefrem i kortene,
+at denne dag skulle komme, for det er ikke mange måneder siden, at
+vi havde en tilsvarende diskussion her i Folketingssalen, nemlig ved
+førstebehandlingen af et beslutningsforslag fra Venstre netop om at
+fremrykke skattelettelserne fra vækstaftalen, og dengang, må man sige, blev forslaget hældt af brættet af regeringspartiernes ordførere.
+Fra SF lød det, at ikke alene ville det være virkningsløst, det ville
+også ændre balancen mellem det at have både fornuftige rammer for
+virksomhederne og en stærk offentlig velfærd, som er så afgørende –
+ja, sådan lød det. Så kan man jo i dag glæde sig endnu mere over, at
+samme ordførers parti, SF, stemmer for det forslag, som vi aftalte i
+finanslovsaftalen. Samme budskab var det i øvrigt fra Socialdemokratiet, der syntes, at det var et underligt forslag, da vi fra Venstres
+side kom med et beslutningsforslag om at fremrykke disse lettelser,
+når der samtidig førtes forhandlinger i Finansministeriet, og at vi i
+Venstre jo bare kunne tage forslaget med over, som det lød.
+Men når man ser, hvad der skete, med det amatøragtige forløb
+med 33 møder med regeringens eget parlamentariske grundlag og en
+aftale, der gik i vasken, så er jeg da glad for, at Venstre også i Folketingssalen fik gjort opmærksom på, hvor afgørende det er, at vi styrker rammevilkårene for vores virksomheder, så vi også i fremtiden
+har et samfund, der hænger sammen: at der er virksomheder, der kan
+skabe arbejdspladser, vækst og beskæftigelse. Det er jo forudsætningen for at have et velfærdssamfund i Danmark. Og da det nærmest
+først var fem minutter i tolv, at vi blev inviteret til de afgørende forhandlinger, ja, så var det da naturligt, at vi også tog diskussionen her
+i Folketingssalen.
+Jeg gentager gerne, at fra Venstres side handler det om at levere
+resultater og tage den udfordring, som Danmark står over for, alvorligt. For det er jo særlig nu, hvor virksomhederne er tynget af krisens
+åg, at vi skal til at handle, og der er det da positivt, at regeringen har
+givet den indrømmelse i finanslovsforhandlingerne, selv om man
+vist rolig kan sige, at det krævede en del overtalelse, og at de første
+meldinger ikke var imødekommende. Det kan jo undre, at den her
+dagsorden ikke var på regeringens radar, for man ville ikke være
+med til at fremrykke skatte- og afgiftslettelserne i vækstpakken eller
+i skatteaftalen – særlig henset til at allerede i efteråret vidste regeringen, at vækstskønnet for dansk økonomi var sænket siden vækstaftalens indgåelse. De økonomiske vismænd anbefalede, at de lempelser, der var aftalt, skulle rykkes frem, og alligevel afviste regeringen
+det. Men nu er det så heldigvis lykkedes.
+Men som det er blevet sagt mange gange før om regeringens sæsonbestemte prioriteringer, er det bedre sent end aldrig. Og hvis vi
+kigger på historien, ser vi, at det allerede var i 2012 i forbindelse
+med skatteaftalen, at vi fra Venstres side foreslog en erhvervsskattepakke. Det mente regeringen ikke der var brug for dengang, men regeringen blev klogere, og da regeringen indså, at vi fra Venstres side
+havde ret, blev det til en vækstaftale, og nu har vi så også fået fremrykket lempelserne, så de kan træde i kraft her og nu til gavn for
+danskerne og til gavn for virksomhederne.
+Der er ingen tvivl om, at hvis vi skal sørge for, at vores virksomheder har mulighed for at øge beskæftigelsen, så er vi altså nødt til at
+kigge på de vilkår, vi byder dem, og dem får vi så forhåbentlig forbedret med det her forslag. Der skal ikke være nogen tvivl om, at
+ambitionsniveauet fra Venstres side er højere, og vi håber selvfølgelig også, at regeringen oven på julepausen har opjusteret sit ambitionsniveau for dansk økonomi, for danske virksomheder, for danskerne med hensyn til ikke alene at sikre danske arbejdspladser, men også at sikre, at det kan betale sig at arbejde.
+Det her forslag indeholder også en forhøjelse af beskæftigelsesfradraget, og det er et skridt i den rigtige retning, men det er jo altså
+
+16
+
+Tirsdag den 14. januar 2014 (L 103)
+
+noget, der tages med i en sammenhæng, hvor det for nylig er kommet frem, at der stadig væk er 17.700 danskere, som har mindre til
+rådighed ved at arbejde end ved at være på offentlig forsørgelse. Vi
+håber, at nytårspausen også har fået regeringen til at få øjnene op for
+den dagsorden, så vi kan sørge for, at det i langt højere grad bedre
+kan betale sig at arbejde end at være på passiv forsørgelse.
+Men grundlæggende er det forslag, vi behandler, som sagt en udmøntning af finanslovsaftalen om at fremrykke skatte- og afgiftslettelser, så danskerne og virksomhederne kan beholde 2,2 mia. kr. mere i 2014, end de kunne uden forslaget. Det støtter vi selvfølgelig fra
+Venstres side, og jeg har på vegne af Det Konservative Folkeparti
+lovet at meddele, at de også støtter forslaget.";Torsten Schack Pedersen
+99484;Time;;Kl. 14:34
+99522;title_name;":
+Tak. Der er en enkelt kollega, der har bedt om adgang til korte bemærkninger, og det er fru Lisbeth Bech Poulsen fra SF. Værsgo.";John Dyrby Paulsen
+99662;Time;;Kl. 14:34
+99689;name_party;":
+Det er jo en god dag i dag. Vi har lige landet en stor togfondsaftale,
+desværre ikke med ordførerens parti, men ellers, og det er jo rigtig
+dejligt. Så kan jeg også forstå, at Venstres skatteordfører er rigtig
+glad for det lovforslag, som vi behandler i dag, om at fremrykke
+nogle skatte- og afgiftslettelser som en del af finansloven. Nu er ordføreren selvfølgelig ikke finansordfører, men skatteordfører, men
+derfor er jeg alligevel meget interesseret i at høre, om ordføreren synes, at den betaling, Venstre nu skulle have for at indgå en finanslovsaftale i den ellevte time, har sådan et passende niveau.
+Når ordføreren er rigtig glad for den her aftale, er det så, fordi det
+sådan i Venstres øjne er et passende niveau for at indgå en finanslovsaftale? Jeg er bare interesseret i, hvis vi skal lave store aftaler senere hen, om det er det niveau, det skal være på.";Lisbeth Bech Poulsen
+100570;Time;;Kl. 14:35
+100608;title_name;":
+Ordføreren.";John Dyrby Paulsen
+100631;Time;;Kl. 14:35
+100660;name_party;":
+Jeg kan fuldt ud bekræfte, at jeg er glad for forslaget. Det er 2,2 mia.
+kr., danskerne og danske virksomheder skal betale mindre i skat i
+2014, end hvis Venstre og Konservative ikke havde lavet en finanslovsaftale med regeringen. Så man kan rolig sige, at det da er en solid indrømmelse.
+Om jeg ønskede, at den havde været større? Ja, det kan jeg rolig
+sige. Jeg sagde også i min ordførertale, at vores ambitionsniveau er
+højere, fordi vi mener, at der er brug for yderligere lempelser i forhold til det, der er så afgørende, nemlig at vi får gang i væksten i
+Danmark, at det er attraktivt at drive virksomhed og investere i danske arbejdspladser, og at det bedre kan betale sig at arbejde. Så jo,
+vores ambitionsniveau fra Venstres side er højere, det skal der ikke
+være nogen tvivl om.";Torsten Schack Pedersen
+101460;Time;;Kl. 14:35
+101498;title_name;":
+Næste ordfører i talerrækken er hr. Thomas Jensen fra Socialdemokraterne. Værsgo.";John Dyrby Paulsen
+101591;Time;(Ordfører);Kl. 14:35
+101621;name_party;":
+Tak. Når man hører Venstres ordfører, får det mig til at ville minde
+Venstres ordfører og resten af Venstre om, at man skal vurderes på
+de ting, man gør, når man har magten. Og i forhold til at holde styr
+
+på dansk økonomi må jeg nok sige, at fortiden skræmmer, når det
+kommer til partiet Venstre.
+Dengang krisen var sat ind, hævede Venstre og Konservative
+med støtte fra Dansk Folkeparti og andre skatter og afgifter for
+dansk erhvervsliv for 22 mia. kr. hvert evige eneste år. Det var midt i
+en stor international økonomisk krise og med det resultat, at 130.000
+privatansatte danskere blev sendt hjem med en fyreseddel. Det er de
+resultater, som Venstre har præsteret, og som jeg bare lige synes vi
+skal huske på sådan en dag som i dag, hvor vi vedtager noget i fællesskab, og hvor vi med regeringens stemmer sørger for at puste et
+opsving i gang i Danmark.
+For det lovforslag, vi behandler her i dag, udspringer jo af finanslovsaftalen for 2014 med Venstre og Konservative, og de tre finanslove under den her regering er jo blevet til med den økonomiske krise som sådan et baggrundstæppe. Heldigvis kan vi nu fornemme, at
+der er et stemningsskifte på vej i dansk økonomi. Nu skal man selvfølgelig passe på med at oversælge det budskab og afblæse krisen,
+for det var jo sådan, at hr. Lars Løkke Rasmussen allerede helt tilbage i 2011 afblæste krisen og satte to streger under facit og sagde, at
+nu havde han løst problemet. Men vi står stadig væk i en økonomisk
+krise, selv om vi kan øjne en fremgang derude. Og det er den spirende fremgang, som det her lovforslag også skal være med til at understøtte.
+For når verden opleves usikker, skal vi holde styr på økonomien.
+Vi skal styrke vores fælles velfærd, og vi skal sikre, at folk får uddannelse nok, og vi skal også give gode rammer til virksomhederne,
+så de har gunstige rammebetingelser, sådan at de kan skabe helt nye
+arbejdspladser. Det er på den baggrund, at vi med finansloven for
+2014 har besluttet at fremrykke en del af de lettelser af skatter og afgifter, som vi allerede besluttede med skattereformen i 2012 og
+vækstplanen i 2013.
+Når vi vælger at fremrykke de her planlagte lettelser af skatter og
+afgifter, er det både for at understøtte danske virksomheder i det
+gryende opsving og samtidig for at sikre, at lønmodtagere med lave
+og almindelige lønninger får mere ud af at gå på arbejde. Helt konkret bruger vi omkring to tredjedele af de lettelser, der er heri, målrettet på mennesker, som hver dag knokler på et arbejde til en almindelig eller en lav løn. Det drejer sig om de lettelser, som vi fremrykker
+fra skattereformen fra 2012, hvor vi forhøjer beskæftigelsesfradraget. Det gavner mennesker med helt almindelige lønninger som
+f.eks. håndværkere, industriarbejdere og SOSU-assistenter og frisører.
+Som noget nyt giver vi enlige mødre og enlige fædre et ekstra beskæftigelsesfradrag oveni, som får fuld virkning fra 2014. Det betyder, at en enlig mor eller en enlig far vil få tredoblet sit beskæftigelsesfradrag, hvilket giver en større gevinst ved at være i arbejde, så
+færre bliver låst fast i arbejdsløshed.
+Den sidste tredjedel, vi bruger på skatte- og afgiftslettelser i det
+her lovforslag, er målrettet de danske virksomheder. Fra vækstplanen fra 2013 fremrykker vi en række afgiftslettelser, så de allerede
+gælder fra 2014. For at sikre de især små og mellemstore virksomheder bedre likviditet, fremrykker vi forhøjelsen af skattekreditten for
+forsknings- og udviklingsaktiviteter i virksomhederne, og vi fremrykker de længere momskreditter for små virksomheder.
+For at fjerne bl.a. administrative byrder og dermed sikre lavere
+produktionsomkostninger i danske virksomheder, fremrykker vi nedsættelsen af energiafgifterne på alle brændsler til proces, og de bliver
+nedsat til EU's minimumsafgiftssatser. Derudover afskaffer vi den
+vægtbaserede emballageafgift. Og endelig, for at skabe sikre forhold
+for selvstændige erhvervsdrivende, indfører vi et fradrag for selvstændiges syge- og arbejdsskadeforsikring, og det fremrykkes også
+til at træde i kraft her i 2012.
+Vi fremrykker altså som sagt allerede besluttede afgifts- og skattelettelser for at understøtte det stemningsskifte, som er på vej i
+
+Tirsdag den 14. januar 2014 (L 103)
+
+dansk økonomi. Vi gør det med et håb om, at det vil være med til at
+give et skub til en fornyet optimisme i virksomhederne, så vi får
+skabt de fornødne arbejdspladser, som lønmodtagere uden arbejde
+har så stor brug for.
+Men regeringens arbejde for at skabe bedre produktivitet og dermed bedre konkurrenceevne og dermed nye arbejdspladser stopper
+ikke med det her lovforslag. Når Produktivitetskommissionen har afsluttet sit arbejde her ud på senvinteren, er det jo oplagt, at vi også
+ser på de gode forslag, der kom fra fagfolkene, sådan at vi også kan
+bruge dem til at skabe vækst og arbejdspladser i Danmark.
+Socialdemokraterne støtter naturligvis dette lovforslag.
+
+17
+
+gifter på nær sagt alt. Hvad er det, der gør, at Socialdemokratiet i
+dag siger, at det nok ikke var nogen god idé, men at man i stedet for
+skal lempe afgifterne, når de gik til valg på at hæve dem? Jeg synes
+da, at det er helt legitimt at bede om svar på det.
+Venstres politik er ganske klar. Vi ønsker at sænke skatter og afgifter. Socialdemokratiet gik til valg på at øge beskatningen af dansk
+erhvervsliv, og nu står man og bryster sig af at gøre det modsatte.
+Kan ordføreren forstå, at der – for at sige det mildt – er en lille smule
+manglende sammenhæng mellem det, ordføreren siger nu, og det,
+ordføreren gik til valg på?";Thomas Jensen
+107153;Time;;Kl. 14:42
+107164;Time;;Kl. 14:40
+107202;title_name;":
+Tak. Der er en enkelt kollega, der har bedt om adgang til korte bemærkninger, og det er hr. Torsten Schack Pedersen fra Venstre.
+Værsgo.";John Dyrby Paulsen
+107350;Time;;Kl. 14:40
+107379;name_party;":
+Nu gør den socialdemokratiske ordfører meget ud af en historiefortælling, men jeg synes bare, at det ville være mere klædeligt, hvis vi
+kunne få den fulde sandhed om historien.
+Kan ordføreren ikke bekræfte, at da statsministeren var partiformand, blev Venstre beskyldt for, at vi ikke kunne møde vennerne,
+uden at vi gav dem skattelettelser? Vi gav ufinansierede skattelettelser og alt muligt andet, blev vi beskyldt for. Nu skal vi så høre på, at
+vi hævede skatter og afgifter. Altså, kunne man ikke i Socialdemokratiet bare for en gangs skyld vælge, om man vil beskylde den tidligere regering for at have givet ufinansierede skattelettelser eller for
+at have brandbeskattet dansk erhvervsliv? Det er det første spørgsmål.
+Det andet er, at jeg gerne vil høre, om det, Socialdemokraterne
+gik til valg på, var lempelser i beskatningen af erhvervslivet, eller
+om det var en højere beskatning af dansk erhvervsliv?
+Det er de to spørgsmål, som jeg med den historieudlægning, som
+den socialdemokratiske ordfører kommer med, gerne vil have svar
+på.";Torsten Schack Pedersen
+108433;Time;;Kl. 14:41
+108471;title_name;":
+Ordføreren.";John Dyrby Paulsen
+108494;Time;;Kl. 14:42
+108513;name_party;":
+På det tidspunkt, hvor hr. Lars Løkke Rasmussen sagde, at krisen var
+overstået, og at han havde løst problemerne, og at der kunne sættes
+to streger under facit, overtog den nye regering regeringsmagten i
+Danmark. Det er en koalitionsregering, og vi må tage bestik af de
+økonomiske udfordringer, der er i Danmark. Og jeg er stolt over og
+glad for at være socialdemokratisk skatteordfører i en tid, hvor vi går
+ind og ser på, hvad det er for nogle udfordringer, de har ude i virksomhederne, og hvad det er for nogle udfordringer, danske lønmodtagere har.
+Der har vi jo set på, hvordan vi kan lette skatten for almindelige
+lønmodtagere, for folk med lav- og mellemindkomster, og det er det,
+vi har gjort. Og vi har sikret, at vi går ind og imødekommer de dele
+af dansk erhvervsliv, som er særlig konkurrenceudsat på grund af de
+tossede beslutninger, den tidligere regering har truffet, ved at lave
+nogle skatte- og afgiftslettelser, sådan at de bedre kan konkurrere og
+skabe arbejdspladser. Det er jeg glad for at den nye regering gør.";Thomas Jensen
+109557;Time;;Kl. 14:43
+109595;title_name;":
+Tak til ordføreren. Der er ikke flere, der har bedt om adgang til korte
+bemærkninger. Næste ordfører i talerrækken er hr. Hans Kristian
+Skibby fra Dansk Folkeparti. Værsgo.";John Dyrby Paulsen
+109779;Time;;Kl. 14:43
+109817;title_name;":
+Ordføreren.";John Dyrby Paulsen
+109840;Time;;Kl. 14:41
+109859;name_party;":
+Da Venstre sad i regering og havde ansvaret i Statsministeriet, kunne
+man jo sagtens gå ind og hæve nogle skatter for erhvervslivet og
+samtidig give ufinansierede skattelettelser, fordi man gav lettelserne,
+der var endnu større, til nogle andre grupper i samfundet. Det er jo et
+faktum.
+Nu har jeg jo mulighed for her til ordførerens anden replik at
+spørge: Hvis Venstre havde regeringsansvaret i dag, ville man så have prioriteret på samme måde ved på samme vis at hæve skatter og
+afgifter for dansk erhvervsliv – ja eller nej?";Thomas Jensen
+110399;Time;;Kl. 14:41
+110437;title_name;":
+Hr. Torsten Schack Pedersen, den anden korte bemærkning.";John Dyrby Paulsen
+110505;Time;;Kl. 14:42
+110534;name_party;":
+Jeg fik så ikke noget svar på mit andet spørgsmål, men det kan jeg jo
+så selv svare på, for jeg har her Socialdemokratiet og SF's valgoplæg, »Fair Forandring«. Der var jo i stribevis af ekstra skatter til
+dansk erhvervsliv. Det var en højere selskabsskat; det var højere af-
+
+(Ordfører)";Torsten Schack Pedersen
+110848;name_party;":
+Blandt de seere, der skulle følge med i den her debat, er der måske
+nogle, der vil undre sig over, at vi faktisk her har en finanslov, som
+både Venstre og Socialdemokraterne er enige om. Alligevel bruger
+begge partiers ordførere al tiden på at småskændes her i Folketingssalen. Jeg kan selvfølgelig undre mig lidt over, hvorfor man ikke
+bruger tiden på at fortælle om de fornuftige elementer, der ligger i
+den finanslov, som de to partier selv er en del af. I stedet for bruger
+man tid på at sende små, spydige historier efter hinanden.
+Jeg synes egentlig, at hvis vi kigger på den her del af finansloven,
+er det jo et lovforslag, som indeholder rigtig mange gode og positive
+ting til gavn for Danmark, både for vores produktivitet, for vores
+konkurrenceevne og for vores jobskabelse og jobfastholdelse. Det er
+beskæftigelsesfradragene, som det også er blevet sagt af Socialdemokraternes ordfører, som jo bliver forbedret, således at det bedre
+kan betale sig at arbejde. Det gælder for de enlige forsørgere, som
+får en ekstra markant stigning i fradraget, og så er der de almindelige
+beskæftigelsesfradragsordninger, som også kommer i spil. Det er
+produktionsomkostninger, der kommer ned i forbindelse med den
+emballageafgift, som også er en del af det her lovforslag. Der er forhøjelser af skattekreditten for forsknings- og udviklingsaktiviteter i
+virksomheder, således at det bedre kan betale sig at investere i vækst
+og innovation og udvikling af danske produkter.
+
+18
+
+Tirsdag den 14. januar 2014 (L 103)
+
+Så er der med hensyn til de små virksomheder også det, at vi kan
+se, at man åbner op for, at også virksomheder med op til 5 mio. kr. i
+årsomsætning kan se frem til, at de kan slippe med en halvårlig
+momsafregning, som jo så er med til at styrke virksomhedernes kredit og likviditet. Det er også noget, som vi i Dansk Folkeparti synes
+absolut er positivt. Så er der energiafgifter, som også får et hak nedad. Det mindsker virksomhedernes produktionsrelaterede omkostninger, og det synes vi også i Dansk Folkeparti er ganske fornuftigt.
+Så alt andet lige synes vi, at det her lovforslag indeholder mange
+positive elementer, og det er selvfølgelig også nogle ting, som Dansk
+Folkeparti gerne vil støtte. Vi vil gerne i samme forbindelse erindre
+om, at vi jo tidligere har diskuteret effekterne af de initiativer, der
+kommer, og hvor der jo også var en skatteaftale, som sikrede, at selskabsskatten frem til 2016 skal falde fra nu 25 pct. til 22 pct. Der
+mente vi i Dansk Folkeparti, at det jo var bedre frem for at give store
+skattelettelser til LEGO og Novo Nordisk og de andre at bruge de
+her mange milliarder – jeg tror, vi kommer op på ca. 5 mia. kr., i
+hvert fald er det 1,2 mia. kr. alene i 2014, der gives i ekstraordinære
+skattelettelser – på at frigøre virksomhederne fra unødigt bureaukrati
+og for store udgifter til skatter og afgifter osv. for derigennem at understøtte konkurrenceevnen hos alle virksomheder, også de virksomheder, som i dag kører med røde tal og har vanskeligt ved at generere et overskud.
+De mange virksomheder ville have haft større glæde af, at vi havde brugt de her mange milliarder på at fritage dem for nogle administrative udgifter og nogle afgifter og så i stedet havde brugt dem på
+at højne deres konkurrenceevne. Men det ville flertallet her i Folketinget ikke. Man ville hellere give en almindelig sænkelse af selskabsskatten, og det var jo så det, vi måtte acceptere. Men jeg synes bare, at det skulle nævnes også her i dag, at det her lovforslag indeholder mange af de ting, som man kunne have fundet mange flere af,
+hvis der bare var flere midler til rådighed. Det er der så ikke, fordi
+man har prioriteret anderledes.
+Men som sagt: Dansk Folkeparti kan støtte det lovforslag, der her
+er fremsat.";Hans Kristian Skibby
+114609;Time;;Kl. 14:47
+114647;title_name;":
+Tak. Der er en enkelt kollega, der har bedt om adgang til korte bemærkninger, og det er hr. Frank Aaen fra Enhedslisten. Værsgo.";John Dyrby Paulsen
+114787;Time;;Kl. 14:47
+114804;name_party;":
+Det er bare, fordi jeg synes, det er lidt forunderligt at høre Dansk
+Folkeparti, der normalt siger, at vi skal have mere velfærd, man skal
+gøre mere for de ældre, man skal sørge for, at dem, der har brug for
+hjælp, får hjælp. Her er der altså 2 mia. kr., som kunne have været
+brugt til at øge velfærden i det her land, men som bliver spildt på
+skattelettelser, herunder ved at man ikke skal have så stor en afgift
+på emballage – altså, det betyder så i virkeligheden mere emballage.
+Er det Dansk Folkepartis holdning: mere emballage og mindre velfærd?";Frank Aaen
+115367;Time;;Kl. 14:48
+115405;title_name;":
+Ordføreren.";John Dyrby Paulsen
+115428;Time;;Kl. 14:48
+115455;name_party;":
+Ordførerens kommentar minder mig faktisk om en debat, jeg var
+med i i forbindelse med sidste folketingsvalg, på et gymnasium i
+Horsens, hvor der var en repræsentant for Enhedslisten, som sagde,
+at vi skulle have mindre vækst i Danmark, fordi vækst var lig med
+øget forurening. Og der er måske noget om snakken, kan man sige,
+men jeg synes jo bare, at hr. Frank Aaen også må acceptere, at vil
+
+man understøtte en god, velfungerende offentlig sektor med gode
+velfærdsydelser og sociale ydelser og et godt sundhedsnet, som dækker alle, gratis uddannelse osv., så koster det altså penge.
+I Danmark er det altså sådan, at vi har rigtig mange ansatte i private jobs i private virksomheder, og det skal vi udbygge og understøtte frem for at afvikle og kritisere. Og der er der altså en stor forskel på hr. Frank Aaens parti og Dansk Folkeparti, for vi synes faktisk, at vi skal understøtte alle de private jobs, som der er i Danmark.
+Vi skal ikke bare sige: Pyt med det; pyt med, at vi mister konkurrenceevne; pyt med, at vi mister private jobs; vi kan jo alle sammen bare blive offentligt ansatte. Det er jo det, hr. Frank Aaen ønsker. Men
+det ønsker vi ikke i Dansk Folkeparti. Vi er faktisk glade for, at der
+kommer den her slags tiltag.";Hans Kristian Skibby
+116700;Time;;Kl. 14:49
+116738;title_name;":
+Hr. Frank Aaen, anden korte bemærkning.";John Dyrby Paulsen
+116789;Time;;Kl. 14:49
+116806;name_party;":
+Nu kan man jo bruge sin tid på polemik, men jeg spurgte helt enkelt,
+om der er overensstemmelse mellem Dansk Folkepartis ofte udtrykte
+ønske om mere velfærd, særlig velfærd for de ældre, og den prioritering, som der jo ligger i finanslovsaftalen og det lovforslag, vi behandler i dag, nemlig at man hellere giver skattelettelser til erhvervslivet, at man fjerner en afgift på emballage i stedet for at bruge pengene på mere velfærd. Det var sådan set bare det helt enkle: Dansk
+Folkepartis politik er, at det er bedre med skattelettelser til erhvervslivet, end det er med velfærd.";Frank Aaen
+117398;Time;;Kl. 14:49
+117436;title_name;":
+Ordføreren.";John Dyrby Paulsen
+117459;Time;;Kl. 14:49
+117486;name_party;":
+Jeg synes faktisk også, at jeg svarede på det: Velfærd koster penge,
+vil jeg sige til hr. Frank Aaen. Jeg ved ikke, om det er nyt og fremmed for ordføreren, for så vil jeg i hvert fald gerne orientere hr.
+Frank Aaen om, at det koster penge at drive et velfærdssamfund.
+Nogle skal betale gildet, nogle skal sørge for, at der er en finansiering til stede.
+Det gør man bl.a. ved at understøtte vores private jobs i Danmark, således at vi kan få eksportindtægter, så vi kan få penge over
+grænsen så at sige ved at eksportere mere og derved få færre på
+overførselsindkomster. Folk bliver produktive, og folk bliver glade
+for at have arbejde. Folk er glade for at have et job. Vi behøver ikke
+alle sammen at være offentligt ansatte, og derfor er det her med til at
+understøtte, at vi også fremadrettet selvfølgelig har råd til at have en
+velfærd i Danmark, som naturligvis koster penge.";Hans Kristian Skibby
+118378;Time;;Kl. 14:50
+118416;title_name;":
+Tak til ordføreren. Der er ikke flere, der har bedt om adgang til korte
+bemærkninger.
+Før vi går videre til næste ordfører, kan det måske være på sin
+plads lige at minde om, at 2 korte bemærkninger nu ifølge reglerne
+betyder, at der er 1 minut til den første korte bemærkning og 1 minut
+til svaret, og at der er ½ minut til den anden korte bemærkning og ½
+minut til svaret til denne korte bemærkning.
+Næste ordfører i talerrækken er hr. Nadeem Farooq fra Radikale
+Venstre. Værsgo.
+
+Tirsdag den 14. januar 2014 (L 103)
+
+19";John Dyrby Paulsen
+118951;Time;;Kl. 14:51
+118962;Time;(Ordfører);Kl. 14:54
+118993;name_party;":
+Tak for det. Sidste år vedtog et flertal i Folketinget en ambitiøs
+vækstplan med fornuftige og fremsynede skattelettelser til virksomhederne for at stimulere investeringer og nyansættelser. Det var der
+brug for, fordi vi ønskede at få gang i vækst og beskæftigelse. Året
+forinden vedtog et flertal i Folketinget tilsvarende fornuftige skattelettelser i forbindelse med skattereformen, og det var skattelettelser
+til lønmodtagerne. Det var ligeledes tiltrængte skattelettelser, både
+fordi det skal kunne betale sig at arbejde og vi ønsker, at flere er i
+arbejde frem for at være på ydelser, og fordi en af de store udfordringer på arbejdsmarkedet er, at der arbejdes forholdsvis få timer om
+ugen, og derfor ønsker vi, at den gennemsnitlige lønmodtager lægger
+flere timer på jobbet.
+De skattelettelser fremrykkes nu, og det er vi i Radikale Venstre
+rigtig glade for. Vi ved, at lavere skat virker. Lavere skat fører til
+mere velstand, og mere velstand er forudsætningen for højere velfærd. Opgaven er at prioritere de skattelettelser, der har størst effekt,
+og hvor også sociale hensyn bliver tilgodeset.
+Det er en bekostelig affære at drive virksomhed i Danmark; det
+skal vi have ændret, fordi velfærden langt hen ad vejen også kommer
+fra virksomhederne og deres produktion. Med disse skatte- og afgiftslettelser viser vi for alvor vejen, så samlet set synes jeg, det er
+fornuftige skattelettelser.
+Skattereformens forhøjelse af beskæftigelsesfradraget fremrykkes
+i perioden 2014-2017, og det ekstra beskæftigelsesfradrag for enlige
+forsørgere bliver fremrykket, så det får fuld effekt fra 2014. Det mener jeg også er skattelettelser, der virker, samtidig med at vi også har
+sociale hensyn indover. Det er en god kombination.
+I forbindelse med vækstplanen har vi øget skattekreditten for
+forsknings- og udviklingsaktiviteter i virksomhederne fra skatteværdien af underskuddet på 5 mio. kr. til skatteværdien af et underskud
+på 25 mio. kr. Dette initiativ bliver også fremrykket. Det er faktisk
+noget af det bedste, vi kan gøre for at stimulere vækstmulighederne i
+små og mellemstore virksomheder. I disse små og mellemstore virksomheder ligger et fantastisk uudnyttet vækstpotentiale, og det
+vækstpotentiale skal vi have realiseret, fordi det gavner både dansk
+erhvervsliv og vores velfærd.
+Jeg kunne blive ved med at forklare baggrunden for alle de her
+skattelettelser, som vi fremrykker, så de får større effekt her og nu,
+men det vil jeg undlade, for jeg synes, de er blevet motiveret af de
+tidligere talere. Samlet set kan Radikale Venstre støtte forslaget.";Nadeem Farooq
+121575;name_party;":
+Det er der flere årsager til. Forskellige statistikker indikerer fornuftigt, synes jeg. Det har vi så ikke fremrykket nu, men jeg synes generelt også, at det er fornuftigt at se på de grænser, som betyder noget.";Nadeem Farooq
+121799;Time;;Kl. 14:54
+121837;title_name;":
+Tak. Der er en enkelt kollega, der har bedt om adgang til korte bemærkninger, og det er hr. Frank Aaen fra Enhedslisten. Værsgo.";John Dyrby Paulsen
+121977;Time;;Kl. 14:54
+121994;name_party;":
+Det var bare angående et af de udsagn, der kom i ordførerens tale,
+nemlig at det er vigtigt, at dem, der er i arbejde, skal arbejde noget
+mere. Altså, hvorfor er det en god ting? Vi har efter EU's statistik ca.
+200.000 arbejdsløse i det her land. Vi har måske 700.000 mennesker
+i den arbejdsdygtige alder, der ikke er i arbejde. Hvorfor skal dem,
+der er i arbejde, så arbejde mere? Skulle vi ikke sørge for, at nogle af
+de arbejdsløse kom i arbejde?";Frank Aaen
+122455;Time;;Kl. 14:54
+122493;title_name;":
+Ordføreren.";John Dyrby Paulsen
+122517;Time;;Kl. 14:54
+122555;title_name;":
+Hr. Frank Aaen, anden korte bemærkning.";John Dyrby Paulsen
+122606;Time;;Kl. 14:54
+122623;name_party;":
+Jeg prøver lige en gang mere. Hvorfor skal dem, der er i arbejde, arbejde mere, når vi har flere hundredtusinder, som gerne vil have et
+arbejde, men som er arbejdsløse? Var det ikke bedre at få dem, der
+gerne vil have arbejde, i arbejde, i stedet for at dem, der er i arbejde,
+arbejder mere?";Frank Aaen
+122926;Time;;Kl. 14:55
+122964;title_name;":
+Ordføreren.";John Dyrby Paulsen
+122987;Time;;Kl. 14:55
+123007;name_party;":
+Jo, men der synes jeg at spørgerens præmis er fejlagtig, for der findes ikke en fast mængde arbejde i Danmark, som man kan fordele.
+Det er ikke et nulsumsspil, det her med arbejde er en dynamisk størrelse. Det, at en del af dem, som arbejder, arbejder mere, løfter produktionen og velstanden, kan faktisk give muligheder for dem, som
+ikke er i arbejde. Så tingene hænger meget sammen på den måde.";Nadeem Farooq
+123415;Time;;Kl. 14:56
+123453;title_name;":
+Tak til ordføreren. Der er ikke flere, der har bedt om adgang til korte
+bemærkninger, så vi går videre i ordførerrækken, og den næste på
+podiet er fru Lisbeth Bech Poulsen.";John Dyrby Paulsen
+123637;Time;(Ordfører);Kl. 14:56
+123675;name_party;":
+Når vi i dag står med en del af implementeringen af finanslovsaftalen for 2014, nemlig fremrykningen af skatte- og afgiftslettelser, så
+kommer enlige forsørgere allerede fra i år af til at få det løft i beskæftigelsesfradraget, der lå i skatteaftalen tilbage i 2012. Og sammen med nogle afgiftslettelser, som nogle virksomheder, specielt
+små og mellemstore virksomheder, vil få stor gavn af, er det de to
+vigtige elementer i det lovforslag, vi står med nu.
+Hvad angår »Vækstplan DK«, giver det mening, at vi baner vejen
+for vækst og beskæftigelse, så vi står stærkt, når vinden for alvor
+vender. Det betyder noget for omkostningerne for virksomhederne,
+og det betyder noget i en tid, hvor private investeringer er faldet og
+de udenlandske investeringer er stagneret, og hvor virksomhederne
+opbygger opsparing.
+Med hensyn til det øgede beskæftigelsesfradrag for især enlige
+forsørgere, de mange, som hver dag kæmper for at få det hele til at
+løbe rundt, er det noget, som denne regering for længst er gået fra at
+snakke om til rent faktisk at gøre noget ved. De kommer til at få et
+større beskæftigelsesfradrag. De lønmodtagere, som er enlige forsørgere, får et stort og tiltrængt løft, før det ellers var planlagt.
+Det er et fint lovforslag, og SF kan naturligvis stemme for det.
+
+20
+
+Tirsdag den 14. januar 2014 (L 103)";Lisbeth Bech Poulsen
+125009;Time;;Kl. 15:00
+125047;title_name;":
+Tak til ordføreren. Der er ikke nogen, der har bedt om adgang til
+korte bemærkninger, så vi går videre i talerrækken, og den næste
+ordfører er hr. Frank Aaen fra Enhedslisten. Værsgo.";John Dyrby Paulsen
+125242;Time;(Ordfører);Kl. 15:00
+125270;name_party;":
+Det her er jo et lovforslag, der er en udløber af finanslovsaftalen
+mellem regeringen og Venstre og i sidste omgang også Konservative. Vi vil ikke genoptage debatten, vi har haft om finansloven, men
+bare sige endnu en gang, at vi i Enhedslisten er meget kede af, at
+man fra regeringens side valgte at lave en aftale med Venstre i stedet
+for at lave den med Enhedslisten. Vi er til gengæld glade for en stor
+del af de ting, der undervejs var blevet aftalt Enhedslisten og regeringen imellem, nemlig eksempelvis et løft af omsorgen for ældre
+for 1 mia. kr. Det er blevet bevaret, og nogle af de andre ting, vi havde aftalt, er også blevet bevaret, og det er vi selvfølgelig glade for.
+Men noget af det nye, der er kommet til, er en fremrykning af
+forskellige skattelettelser til erhvervslivet, herunder skattelettelser,
+som gør, at virksomhederne kan bruge mere emballage, end de formentlig ellers ville have gjort, fordi man lemper en afgift der og
+fremrykker en lempelse af afgifterne på emballage, altså er mere emballage og mindre velfærd en del af den finanslovsaftale, der til vores ærgrelse blev lavet mellem regeringen og Venstre.
+Vi har diskuteret indholdet af det her lovforslag flere gange, dels
+i forbindelse med finanslovsforhandlingerne, dels i forbindelse med
+vækstplanen, som jo har det ufortjente navn vækstplanen, for alle
+ved, at den kun giver vækst i profitter for virksomhederne, men ikke
+giver noget ekstra beskæftigelse. Og det er så også her et spørgsmål
+om fremrykning af dele af skatteaftalen, som jo desværre også blev
+lavet mellem regeringen og Venstre. Selv om der var mulighed for
+også der at lave den med Enhedslisten, valgte regeringen også der
+Venstre. Det er en skatteaftale, som jeg ved bare betyder mere ulighed i samfundet: mere til de rigeste og mindre til dem, der har
+mindst. Det er vi selvfølgelig også kede af.
+Så har man valgt at gøre det, som jeg også prøvede at diskutere
+med Dansk Folkepartis ordfører, og som er det generelle, at man altså med det her forslag fremrykker forskellige skattelettelser for 2
+mia. kr., som ellers kunne have været brugt til mere velfærd og til
+mere grøn beskæftigelse, hvilket vi havde foretrukket. Det er så bare
+det, vi har til debat i dag, men som sagt er det, vi har behandlet i dag,
+jo bare summen af nogle diskussioner, vi har haft tidligere, og da vi
+jo tidligere klart har sagt, at vi var imod de ting, er vi selvfølgelig
+også imod den fremrykning, der ligger her.";Frank Aaen
+127728;Time;;Kl. 15:03
+127766;title_name;":
+Tak til ordføreren. Der er ikke nogen, der har bedt om adgang til
+korte bemærkninger, så vi går videre i talerrækken. Den næste ordfører på podiet er hr. Ole Birk Olesen fra Liberal Alliance. Værsgo.";John Dyrby Paulsen
+127977;Time;(Ordfører);Kl. 15:03
+128010;name_party;":
+Tak. Vi behandler et lovforslag med flere positive tiltag på skatteområdet. Jeg vil nævne fire af dem: Der er et forhøjet beskæftigelsesfradrag; der er afskaffelse af den vægtbaserede emballageafgift;
+der er nedsættelse af energiafgifter på brændsler til procesformål; og
+der er fradrag for selvstændiges syge- og arbejdsskadeforsikring. Det
+er alt sammen rigtig godt.
+Men det er også et led i den finanslovsaftale, som er indgået mellem regeringen og Venstre og Konservative. Den finanslovsaftale
+
+var vi ikke med i, og det var ikke, fordi vi ikke synes om det her – vi
+synes meget om det her, og vi agter at stemme for det her lovforslag
+– men det var, fordi andre elementer i finanslovsaftalen ikke faldt i
+vores smag.
+Vi synes ikke om en finanslov, der øger det offentlige forbrug
+med 1½ pct. Vi synes, at det offentlige forbrug i stedet skal være
+mindre. Vi synes ikke om en finanslov, der viderefører de fejlagtige
+ejendomsvurderinger fra 2011, så konkrete boligejere kommer til at
+betale mere i ejendomsskatter, end loven egentlig tilsiger. Så derfor
+var vi ikke en del af den finanslovsaftale; men det ændrer ikke på, at
+vi støtter det her lovforslag, som nu behandles i salen.
+Lovforslaget tager fat på den overordnede problemstilling, som
+vi i Liberal Alliance vel er de fremmeste bannerførere for, nemlig at
+der skal skattelettelser til i det her samfund, hvis lønmodtagere og
+virksomheder skal være konkurrencedygtige i den internationale
+konkurrence. Det er meget lidt, der gøres. Der ligger i 2014 en lettelse af skatten på 1,1 mia. kr. ud af offentlige finanser på over 1.000
+mia. kr. Det ændrer ikke meget ved, at Danmark er det land i verden
+med det højeste skattetryk – det gør kun rekorden en brøkdel mindre.
+Vi ligger stadig væk oppe som det land med verdens højeste skattetryk.
+Men små ting har også ret, og derfor kan vi støtte det her lovforslag helhjertet.";Ole Birk Olesen
+129902;Time;;Kl. 15:05
+129940;title_name;":
+Tak til ordføreren. Der er ingen, der har bedt om adgang til korte bemærkninger, og derfor er vi nu nået til skatteministeren. Værsgo.";John Dyrby Paulsen
+130086;Time;;Kl. 15:05
+130117;title_name;":
+Tak for det, formand. Jeg vil gerne takke for den brede tilslutning til
+forslaget. Forslaget indeholder den del af finanslovsaftalen, som
+fremrykker skatte- og afgiftslempelser, der skal understøtte beskæftigelse og vækst.
+Skattereformens forhøjelse af beskæftigelsesfradraget fremrykkes
+fra 2017 til 2014 – eller i perioden, for så bliver det fuldt indfaset.
+Det ekstra beskæftigelsesfradrag for enlige forsørgere fremrykkes, så
+det får fuld virkning allerede her fra 2014. Desuden fremrykkes initiativer fra aftaler om »Vækstplan DK«, som skal reducere omkostningerne og forbedre likviditeten og øge konkurrenceevnen for virksomhederne, fra 2015 til 2014. Det gælder afskaffelsen af den vægtbaserede emballageafgift, og ved aftale om »Vækstplan DK« forhøjedes skattekreditten for forsknings- og udviklingsaktiviteter i virksomhederne fra skatteværdien af underskuddet på 5 mia. kr. til 25
+mio. kr. Dette initiativ fremrykkes fra 2015 til 2014.
+Der sker ligeledes en fremrykning af overgangen til afregning af
+moms halvårligt i stedet for kvartalsvis for små virksomheder, der
+har en omsætning på 1-5 mio. kr. Endvidere fremrykkes nedsættelsen af energiafgifterne på brændsel til proces til den højeste af EU's
+minimumsafgifter. Endelig og sluttelig fremrykkes indførelsen af
+fradraget for selvstændiges syge- og arbejdsskadeforsikring.
+Jeg vil gerne takke for debatten, som der har været i dag, selv om
+den godt nok har været relativt kort. Jeg glæder mig til den konstruktive udvalgsbehandling, og så glæder jeg mig også over, at det her jo
+er det sidste skridt i forhold til den finanslovsaftale, som for mig at
+se rummer en række forbedringer.
+Hr. Ole Birk Olesen var så venlig også at fortælle om nogle af
+den række af brede og positive ting, der i øvrigt ligger i det, selv om
+jeg godt kunne forstå på den politiske del af det, at det ikke var der,
+hr. Ole Birk Olesen og Liberal Alliance var enige med regeringen.
+Det har jeg så fuld forståelse for. Men jeg takker for opbakningen til
+lovforslaget.
+
+Tirsdag den 14. januar 2014 (FM )";Jonas Dahl
+132172;Time;;Kl. 15:07
+132210;title_name;":
+Tak. Og tak til ministeren.
+Der er ikke nogen, der har bedt om adgang til korte bemærkninger, og da der i det hele taget ikke er flere, der har bedt om ordet, er
+forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Skatteudvalget. Hvis ingen
+gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.";John Dyrby Paulsen
+132544;Time;Meddelelser fra formanden;Kl. 15:07
+132608;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 15. januar
+2014, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 15:08).
+
+21";John Dyrby Paulsen

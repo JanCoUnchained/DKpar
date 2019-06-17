@@ -1,0 +1,20 @@
+split;reason;text;value
+0;;"Tirsdag den 30. oktober 2012 (D)
+
+11. møde";
+81;Time;Dagsorden;kl. 13.00
+102;Time;Meddelelser fra formanden;Kl. 13:00
+164;title_name;":
+Mødet er åbnet.
+I dag er der følgende anmeldelse:";Anne Baastrup
+260;title_name;":
+Lovforslag nr. L 46 (Forslag til lov om akutjob og jobpræmie til arbejdsgivere).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes på torsdag, den 1. november 2012,
+kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 13:00).
+
+1";Mette Frederiksen

@@ -1,0 +1,72 @@
+split;reason;text;value
+0;;"Mandag den 21. november 2011 (D)
+
+1
+
+forhøjelse af arbejdsgiverbidrag, videreførelse af praktikpladsfremmende foranstaltninger og adgang til skolepraktik m.v.)).
+
+14. møde";
+206;title_name;:;Bjarne Corydon
+247;Time;"Lovforslag nr. L 26 (Forslag til lov om ændring af lov om tjenestemandspension og lov om pension til statens tjenestemænd m.v. i
+Grønland. (Ophævelse af aldersgrænser for optjening af pensionsalder og krav om mindste pensionsalder for ret til opsat pension, fastsættelse af pension for visse tjenestemænd og førtidspensionsfradrag
+for visse tjenestemænd)).
+
+Dagsorden
+Meddelser fra formanden";kl. 13.00
+651;Time;"Meddelelser fra formanden
+Formanden:
+Mødet er åbnet.
+I dag er der følgende meddelelser:";Kl. 13:00
+785;title_name;":
+Lovforslag nr. L 19 (Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v. og flere andre love. (Forhøjelse af efterlønsalder, forkortelse af efterlønsperiode og tilbagebetaling af efterlønsbidrag m.v.)),
+Lovforslag nr. L 20 (Forslag til lov om ændring af lov om delpension. (Forhøjelse af delpensionsalder og forkortelse af delpensionsperiode m.v.)),
+Lovforslag nr. L 21 (Forslag til lov om ændring af lov om fleksydelse. (Forhøjelse af fleksydelsesalder, forkortelse af fleksydelsesperiode og tilbagebetaling af fleksydelsesbidrag m.v.)) og
+Lovforslag nr. L 36 (Forslag til lov om ændring af lov om aktiv socialpolitik, integrationsloven, lov om en aktiv beskæftigelsesindsats,
+lov om individuel boligstøtte og forskellige andre love. (Ophævelse
+af starthjælpen, loft over kontanthjælpen, 500-kroners-nedsættelse,
+225-timers-regel, introduktionsydelse m.v.)).
+Social- og integrationsministeren (Karen Hækkerup):
+Lovforslag nr. L 22 (Forslag til lov om ændring af lov om social
+pension. (Forhøjelse af folkepensionsalder, indførelse af seniorførtidspension m.v.)).";Mette Frederiksen
+1920;title_name;":
+Lovforslag nr. L 25 (Forslag til lov om ændring af lov om Arbejdsgivernes Elevrefusion og lov om erhvervsuddannelser. (Midlertidig
+
+Ministeren for by, bolig og landdistrikter (Carsten Hansen):
+Lovforslag nr. L 27 (Forslag til lov om ændring af lov om almene
+boliger m.v. (Fremrykning af Landsbyggefondens investeringsramme til renovering)).
+Skatteministeren (Thor Möger Pedersen):
+Lovforslag nr. L 28 (Forslag til lov om ændring af lov om pensionsafkastbeskatningsloven og pensionsbeskatningsloven. (Afskaffelse
+af fradrag for formueforvaltningsomkostninger, nedsættelse af loftet
+for indbetalinger til ratepension og ophørende alderspension m.v.)),
+Lovforslag nr. L 29 (Forslag til lov om ændring af ligningsloven.
+(Skattekreditter for forsknings- og udviklingsaktiviteter)),
+Lovforslag nr. L 30 (Forslag til lov om ændring af aktieavancebeskatningsloven, selskabsskatteloven og forskellige andre love. (Nedsættelse af grænsen for finansielle aktiver i forbindelse med succession ved overdragelse af aktier og justering af rentefradragsbegrænsningsreglerne)),
+Lovforslag nr. L 31 (Forslag til lov om ændring af ligningsloven og
+forskellige andre love. (Afskaffelse af multimediebeskatningen, ophævelse af skattebegunstigelsen for medarbejderaktieordninger, ophævelse af skattefritagelse for arbejdsgiverbetalte sundhedsforsikringer m.v., lønsumsafgiftspligt for aflønning i aktier og købe- og tegningsretter til aktier m.v., justering af boligjobordningen, ophævelse
+af loftet over børne- og ungeydelsen og tillæg til grøn check m.v.)),
+Lovforslag nr. L 32 (Forslag til lov om ændring af lov om afgift af
+kvælstofoxider, lov om energiafgift af mineralolieprodukter m.v. og
+lov om afgift af naturgas og bygas. (Højere afgift på luftforurening
+fra NOx m.v.)),
+Lovforslag nr. L 33 (Forslag til lov om ændring af chokoladeafgiftsloven, tobaksafgiftsloven, øl- og vinafgiftsloven og forskellige andre
+love. (Afgiftsforhøjelser på chokolade, sukkervarer, is, sodavand, tobak, øl og vin)) og
+Lovforslag nr. L 34 (Forslag til lov om ændring af brændstofforbrugsafgiftsloven, lov om forskellige forbrugsafgifter, lov om afgift
+
+2
+
+Mandag den 21. november 2011 (FM )
+
+af ledningsført vand og lov om vægtafgift af motorkøretøjer m.v.
+(Regulering af de løbende bilafgifter og andre afgifter m.v.)).";Christine Antorini
+4273;title_name;":
+Lovforslag nr. L 35 (Forslag til lov om ophævelse af lov om tilskud
+til vikarordninger inden for jordbruget).
+Ministeren for sundhed og forebyggelse (Astrid Krag):
+Lovforslag nr. L 37 (Forslag til lov om ændring af sundhedsloven.
+(Ophævelse af regler om egenbetaling for behandling med kunstig
+befrugtning, refertilisation og sterilisation i det offentlige sundhedsvæsen og tolkebistand m.v.)).
+Titlerne på de fremsatte sager vil fremgå af www.folketingstidende.dk (jf. ovenfor).
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, tirsdag den 22. november 2011, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 13:01).";Mette Gjerskov

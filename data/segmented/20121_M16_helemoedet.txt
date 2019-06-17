@@ -1,0 +1,2391 @@
+split;reason;text;value
+0;;"Onsdag den 7. november 2012 (D)
+
+16. møde";
+79;Time;"Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til erhvervs- og vækstministeren af:";kl. 13.00
+281;name_party;":
+Hvordan mener ministeren, at regeringsprogrammet skal »udfordres«, sådan som ministeren udtalte under formandsvalgkampen i
+SF?
+(Spm. nr. S 271).
+2) Til erhvervs- og vækstministeren af:";Jacob Jensen
+484;name_party;":
+Mener ministeren, at det vil gavne danske virksomheders muligheder for at rekruttere medarbejdere og dermed virksomhedernes konkurrenceevne, hvis der bliver indført en konjunkturafhængig dagpengeperiode?
+(Spm. nr. S 323).
+3) Til erhvervs- og vækstministeren af:";Jacob Jensen
+773;name_party;":
+Vil ministeren kommentere, hvorvidt ministeren anser det som rimeligt, at regeringens parlamentariske grundlag, Enhedslisten, gentagne
+gange ikke deltager i lovbehandlingen af lovforslag på ministerens
+område?
+(Spm. nr. S 370).
+4) Til erhvervs- og vækstministeren af:";Hans Kristian Skibby
+1068;name_party;":
+Vil ministeren gøre tiltag til at sikre, at Enhedslisten fremadrettet begynder at deltage i lovbehandling af lovforslag på erhvervsområdet?
+(Spm. nr. S 372).
+
+1
+
+Hvad er ministerens holdning til vold og overfald mod politifolk, og
+er der brug for nye initiativer på området?
+(Spm. nr. S 371).
+7) Til justitsministeren af:";Hans Kristian Skibby
+1410;name_party;":
+Hvad er ministerens holdning til politiansattes ytringsfrihed, og er
+ministeren enig med spørgeren i, at man som offentligt ansat kan
+ytre sig frit i et demokratisk samfund?
+(Spm. nr. S 373).
+8) Til transportministeren af:";Peter Skaarup
+1654;name_party;":
+Hvad er ministerens holdning til, at den planlagte jernbanetunnel
+gennem Hvidovre, som anlægges som en del af den nye jernbane
+mellem København og Ringsted, forventes at blive en hel del kortere
+end oprindeligt planlagt?
+(Spm. nr. S 332).
+9) Til transportministeren af:";Mikkel Dencker
+1948;name_party;":
+Når det i svar på spørgsmål nr. S 1098 bl.a. hedder, at forringelser på
+ét punkt typisk er en forudsætning for forbedring på et andet, er ministeren så enig i, at dette ikke er en naturlov, og at det modsatte også kan forekomme og burde være det typiske, især i en moderne, offensiv trafikplanlægning, hvor investeringer i og billiggørelse af kollektiv trafik kan lette trængsel og nedsætte forbruget af bilkørsel til
+gavn for miljø og klima?
+(Spm. nr. S 333).
+10) Til beskæftigelsesministeren af:";Henning Hyllested
+2472;name_party;":
+Hvad mener ministeren om den beskrivelse, som erhvervsmanden
+Karsten Sabransky giver i Ringsted Dagblad den 29. oktober af de
+vanskeligheder han oplever ved at skaffe arbejdskraft fra det lokale
+jobcenter?
+(Spm. nr. S 368).
+11) Til beskæftigelsesministeren af:";Louise Schack Elholm
+2759;name_party;":
+Hvad mener ministeren, at et jobcenter skal gøre over for arbejdsløse, der enten ikke vil søge arbejde eller blot arbejder i få dage på en
+arbejdsplads for så at sige op igen?
+(Spm. nr. S 369).
+
+5) Til justitsministeren af:";Louise Schack Elholm
+3007;name_party;":
+Hvordan forholder ministeren sig til, at man kan idømmes flere betingede udvisninger uden at blive udvist, og at der således afsiges
+betingede domme uden reel konsekvens?
+(Spm. nr. S 355, skr. begr.).
+
+Meddelelser fra formanden
+
+6) Til justitsministeren af:";Merete Dea Larsen
+3285;name_party;":
+
+Formanden:
+Mødet er åbnet.";Peter Skaarup
+3325;Time;"2
+
+Onsdag den 7. november 2012 (US 26)
+
+I dag er der følgende anmeldelser:";Kl. 13:00
+3447;title_name;":
+Lovforslag nr. L 55 (Forslag til lov om ændring af lov om arbejdsmiljø i Grønland. (Begrænsning af arbejdsgiverens kriminalretlige
+ansvar og skærpelse af det kriminalretlige ansvar, indførelse af koordinatoruddannelse m.v.)).
+
+regeringen ville holde fokus på Ukraine og tage andre initiativer end
+at boykotte.
+Derfor er mit spørgsmål, om vi kan forvente et dansk initiativ op
+til det møde mellem EU's udenrigsministre, som skal afholdes den
+19. november. Tak.";Mette Frederiksen
+3918;Time;"Formanden:
+Udenrigsministeren.";Kl. 13:02
+3986;title_name;:;Morten Bødskov
+3998;Time;"Lovforslag nr. L 56 (Forslag til lov om ændring af retsplejelov for
+Grønland. (Ændring af retskredsene i Grønland m.v.)).
+Mette Hjermind Dencker (DF) m.fl.:
+Forespørgsel nr. F 9 (Vil ministeren redegøre for regeringens politik
+for landets såkaldte yderområder og øer, og vil regeringen oplyse,
+hvilke initiativer der skal sikre vækst i de dele af Danmark, der i dag
+har faldende eller stagnerede befolkningstal?).
+Titlerne på de anmeldte sager vil i øvrigt fremgå nærmere af
+www.folketingstidende.dk (jf. ovenfor).
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).";Kl. 13:02
+4629;Time;"Formanden:
+Til at besvare spørgsmål i spørgetimen i dag har statsministeren udpeget udenrigsministeren og kulturministeren.
+Til udenrigsministeren er anmeldt følgende spørgere:
+Lykke Friis (V)
+Søren Espersen (DF)
+Kim Andersen (V)
+Til kulturministeren er anmeldt følgende spørgere:
+Alex Ahrendtsen (DF)
+Lars Barfoed (KF)
+Martin Henriksen (DF)
+Kim Andersen (V)
+Er der flere, der ønsker at melde sig som spørgere?
+Det er der ikke.
+I første runde har både spørger og minister 2 minutters taletid, og
+herefter følger to runder, hvor spørger og minister hver gang har 1
+minuts taletid.
+Jeg giver ordet til fru Lykke Friis for spørgsmål til udenrigsministeren. Værsgo.";Kl. 13:00
+5302;Time;"Spm. nr. US 26
+Lykke Friis (V):
+Tak hr. formand. Der har jo været et valg i USA, som de fleste af os
+har fulgt med i her i løbet af natten, og der har jo også været valgfester rundt om i landet. Det har jo alt sammen været fornøjeligt, men
+der var jo et parlamentsvalg i Ukraine den 28. oktober, og det var jo
+mildest talt ikke fornøjeligt og festligt. Bl.a., fordi store dele af landets opposition jo sidder uretmæssigt fængslet, og så er det jo svært
+at tale om frie demokratiske valg.
+Nu er Ukraine jo et land, som vi diskuterede en hel del op til en
+vis fodboldslutrunde i sommer. Det har jeg ikke tænkt mig at rippe
+op i, for sket er sket. Men dengang var det jo en del af argumentet, at
+
+Udenrigsministeren (Villy Søvndal):
+Tak for spørgsmålet. Det er jo rigtigt, at det er en fornøjelig dag på
+den måde, at vi alle sammen, tror jeg, er glade for udfaldet af det
+amerikanske valg. Tillykke med det. Jeg tror, at udfaldet også er en
+kæmpe fordel for Danmark.
+Jeg er så også enig i, at det ikke var specielt fornøjeligt at kigge
+på det ukrainske valg. Det er i sig selv absurd at afholde et valg i en
+situation, hvor ledende oppositionspolitikere er fængslet og derfor
+ikke kan deltage i valget. Det tror jeg er vigtigt at understrege, for
+der var også problemer med valgets afholdelse, men det er ikke det
+mest alvorlige. Det mest alvorlige er, at man nægtede oppositionspolitikere at deltage i et valg, og jeg vil godt udtrykke skuffelse over, at
+Ukraine ikke levede op til de standarder, som vi har set ved tidligere
+valg. Man kan sige, at Ukraine rutsjer den forkerte vej. Det bekræftede valget i oktober også.
+Der var det positive ved det, at der var en høj vælgerdeltagelse –
+det viser befolkningens lyst, om man så må sige, til demokrati – og
+at selve valghandlingen forløb i god ro og orden. Men det samlede
+billede er ikke opmuntrende. Ukraine bevæger sig i øjeblikket den
+forkerte vej.
+Det er så efter min mening afgørende at agere på en måde, der
+sikrer, at Ukraine ikke driver længere østpå, men at kontakten til
+Ukraine bevares.
+Det betyder ikke, at vi skal give op i den nuværende situation. Vi
+skal diskutere Ukraine på rådsmødet den 19. november. Det, der er
+afgørende at vurdere, er for det første summen af både demokrati og
+menneskerettighedssituationen, der som nævnt ikke er tilfredsstillende, for det andet fremskridt med hensyn til retsstatsprincippet, og endelig for det tredje en videreførelse af Ukraines reformdagsorden.
+Det middel, som vi fra EU's side har at presse med, er, at vi har
+en færdigforhandlet associeringsaftale, som ligger klar til underskrift. Forudsætningen for, at vi skriver under på den, er, at der sker
+fremskridt på demokratiområdet i Ukraine. Det ved de meget godt,
+det står meget tydeligt for dem, men det kommer altså op på udenrigsministermødet den 19. november.";Kl. 13:01
+8133;Time;"Formanden:
+Fru Lykke Friis.";Kl. 13:04
+8172;Time;"Lykke Friis (V):
+Jeg vil godt sige, at jeg glad for den vægtning, som udenrigsministeren kommer med her, altså at det jo er langt vigtigere, at oppositionen – for nu at sige det meget direkte – er blevet smidt i fængsel, end
+at der har været snyd i forbindelse med valget. For det kan jo ikke
+være frit og demokratisk, når oppositionen er spærret inde. Det var
+sådan set også det budskab, som jeg selv havde mulighed for at
+overbringe til Julia Timosjenko, da jeg var valgobservatør i Ukraine.
+Men det rejser jo stadigvæk spørgsmål. Jeg så, at udenrigsministeren udtalte, at vi har behov for at tænke os grundigt om, som der
+stod i den pressemeddelelse, der blev sendt ud umiddelbart efter
+valget. Det er jo altid klogt at tænke sig godt om, men kan ministe-
+
+Onsdag den 7. november 2012 (US 27)
+
+ren ikke løfte lidt mere af sløret for, hvad det så er, vi tænker over,
+og hvad det er for nogle initiativer, der evt. kommer fra dansk side?
+Jeg forstår næsten ministeren sådan, at man fra dansk side vil sige, at associerings- og frihandelsaftalen skal lægges ned i skuffen. Er
+det korrekt forstået, og kunne man forestille sig, at der også var andre initiativer, som Danmark selv vil bringe med ind til bordet i forbindelse med det møde, der skal være den 19. november?
+Der er også de homoseksuelles situation, hvor der jo altså er en
+lovgivning på vej gennem det ukrainske parlament. Det kunne også
+være en sag, som ministeren ville rejse.";Kl. 13:04
+9624;Time;"Formanden:
+Ministeren.";Kl. 13:05
+9658;Time;"Udenrigsministeren (Villy Søvndal):
+Tak. Jamen vi har en meget klar holdning. Jeg har protesteret mod
+den lovgivning vedrørende de homoseksuelle, som er på vej i Ukraine. Det er klart, at det er en dansk position at slås for mindretallenes
+rettigheder – inklusive de seksuelle mindretals rettigheder – i Ukraine og hvor i verden, det ellers måtte være som i f.eks. Uganda. Det
+gør vi med fuld styrke.
+Jeg tror også, det er vigtigt at bevare kontakter til forskellige dele
+af det ukrainske samfund, altså til oppositionskredse og folkelige bevægelser, og blive ved med at støtte dem, så Ukraine ikke lades alene tilbage med en fornemmelse af, at vi vender dem ryggen.
+Jeg tror, det er helt afgørende at fortsætte kontakterne til Ukraine,
+og det gælder ikke bare kontakterne til oppositionen derovre, men
+selvfølgelig også til styret. Dialogen og presset over for dem skal
+fortsætte, og det er klart, at hvis der ikke sker fremskridt på områder
+som demokrati, menneskerettigheder og retsstat, så underskriver vi i
+sagens natur ikke en associeringsaftale. For det, der er stærkt ved EU
+– og det tror jeg også vi er fuldstændig enige om – er, at vi har noget, som er attraktivt, og derfor har vi også noget at presse med, om
+jeg så må sige, over for Ukraine.
+Jeg er hundrede procent sikker på, at det også bliver resultatet af
+udenrigsministermødet. Det er svært for nogen at tolke valget som et
+demokratisk fremskridt, og da vi har bundet argumentationen op på,
+at vi ikke vil underskrive associeringsaftalen, medmindre der sker
+demokratiske fremskridt, så har jeg svært ved at se den modsatte vej.";Kl. 13:05
+11265;Time;"Formanden:
+Fru Lykke Friis for et sidste spørgsmål.";Kl. 13:07
+11328;Time;"Lykke Friis (V):
+Det er jeg meget enig i, og jeg takker også for det klare tilsagn, at
+det vil Danmark så gå til bordet med. Men jeg vil stadig væk sige, at
+man jo godt kunne komme med andre ideer. Vi har jo noget, som
+magthaverne meget gerne vil have, for de vil gerne have indrejsetilladelse til Vesten – mange af magthaverne har nemlig deres børn på
+universitetet, og mange har gemt deres penge diverse steder, på Cypern og i andre lande. Og vi ved jo, at man fra senatets side har arbejdet med en idé om en resolution, hvorefter man decideret skal gå
+ind og pinpointe det, så man altså specifikt rammer dem, der bl.a.
+har ansvaret for, at Julia Timosjenko sidder i fængsel, ved at nægte
+dem indrejsetilladelse.
+Så jeg vil spørge, om ministeren ikke kan løfte sløret lidt mere
+for, om vi, når vi tænker os grundigt om, kunne tænke på en sådan
+måde, at vi går til bordet med andet end kun det, som der jo sådan
+set har ligget på bordet hele tiden, nemlig at associerings- og frihandelsaftalen skal ned i skuffen?
+
+3";Kl. 13:07
+12358;Time;"Formanden:
+Ministeren.";Kl. 13:08
+12392;Time;"Udenrigsministeren (Villy Søvndal):
+Jeg tror, vi skal gå mange forskellige veje for at påvirke det ukrainske samfund. Jeg synes, hvis man kigger på det lidt overordnet, at
+den store risiko er, i en periode, hvor Ruslands Putin er i gang med
+at lave den store euroasiatiske konstruktion, at Ukraine driver i den
+retning – det skal vi undgå. Det tror jeg forudsætter, at vi både skubber og presser på en gang.
+Vi har som sagt associeringsaftalen som ét meget virksomt middel. Vi har diskussionen med dem om politiske mindretal. Vi fortsætter kritikken af, at politiske ledere er fængslet efter noget, der for
+os ser ud som fuldstændig politisk motiverede retssager. Vi skal fortsætte – og det tror jeg er meget vigtigt – kontakten til oppositionen.
+Jeg tror, at jeg foreløbig vil lade det blive der, for jeg tror, at det
+er der, vi for alvor vil være i stand til at påvirke det ukrainske samfund. Så må vi kigge på, om vi vil gå endnu videre.";Kl. 13:08
+13344;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til udenrigsministeren er af hr. Søren Espersen.";Kl. 13:09
+13459;Time;Spm. nr. US 27;Kl. 13:09
+13495;name_party;":
+Tak. Jeg vil egentlig starte med en personlig lykønskning til udenrigsministeren på grund af valget af Obama. Jeg forstår på de udtalelser, ministeren er kommet med i løbet af morgenen, at Obama sådan nærmest er en slags amerikansk SF'er. Jeg håber da i hvert fald,
+at det så lykkes at få gennemført SF's politik i Amerika, når det ikke
+er lykkedes for udenrigsministeren her i Danmark.
+Nej, det er slet ikke det, vi skal snakke om. Det er Syrien, jeg gerne vil høre om. For et par uger siden havde udenrigsministeren og
+jeg en samtale her om støtte til Syrien, hvor jeg gik ind i forhold til
+statsministerens åbningstale, hvor hun sagde, at vi støttede Syrien.
+Der ville jeg vide, hvad det så var, vi støttede Syrien med. Dengang
+sagde udenrigsministeren, at der ikke var tale om, at det var penge,
+at det var våben, eller at det var noget andet. Så kommer der lige
+pludselig her den 31. oktober et svar fra udenrigsministeren til hr.
+Christian Juhl på et spørgsmål stillet igennem Udenrigsudvalget, og
+pludselig kommer der et tal på. Nu giver vi pludselig 1,9 mio. kr. til
+den syriske opposition.
+Det, jeg vil spørge om, er: Hvor kom de penge fra? Hvad er det
+for nogle penge, der pludselig er dukket op i løbet af en uge eller
+halvanden set i forhold til vores samtale hernede i salen? Hvem er
+pengene gået til og til hvad? Og er pengene blevet sendt af sted?
+Hvordan er de kommet derhen, og hvem har modtaget dem? Er de
+indsat på en bankbog i Syrien bank, eller hvordan fungerer sådan noget? Hvor er de penge blevet af, og hvor stammer de fra?";Søren Espersen
+15054;Time;"Formanden:
+Udenrigsministeren.";Kl. 13:11
+15096;Time;"Udenrigsministeren (Villy Søvndal):
+Først og fremmest tak for den personlige lykønskning i forhold til
+amerikanske valg. Det glæder vel os alle sammen, inklusive hr. Søren Espersen, at en mand, der er mindre konfrontatorisk end hans
+
+4
+
+Onsdag den 7. november 2012 (US 28)
+
+forgænger i forhold til international politik, skal varetage verdens supermagts interesser i en periode, hvor verden er i store forandringer.
+Så det tror jeg at vi kan glæde os over i fællesskab.
+Så til Syrien. Vi har jo aldrig nogen sinde lagt skjul på, at vi støtter en syrisk opposition. Det gør vi for at sikre, at der er et alternativ
+til Assadstyret og den brutale fremfærd, det styre har over for sin befolkning. Forudsætningen for at få et nyt styre er, at vi er med til at
+hjælpe og støtte en syrisk opposition. Det har vi i øvrigt aldrig lagt
+skjul på at vi gjorde. Vi støtter i form af konferencer. Bl.a. har vi
+haft en på Københavns Universitet for at bede den syriske opposition
+om at blive mere klar på at være inddragende i forhold til alle dele af
+det syriske samfund – de forskellige etniske, religiøse og politiske
+grupperinger, der er i det syriske samfund. Projektet finansieres, som
+der også bliver spurgt til, gennem Det Arabiske Initiativ. Det er jo
+netop sat i verden for at finansiere og støtte demokratier og skabe
+dialog med de arabiske lande. Så det rammer efter vores opfattelse
+lige præcis plet i forhold til det, vi gerne vil.
+Så vil jeg for en sikkerheds skyld også godt understrege, at det er
+klart, at vi ikke går ind og støtter med våben. Vores opfattelse er, at
+der kun er én løsning på den syriske konflikt. Det er en politisk løsning, og det betyder, at parterne på et eller andet tidspunkt i den her
+konflikt skal sætte sig sammen og finde et politisk svar på den krise,
+der er.";Kl. 13:11
+16900;Time;"Formanden:
+Hr. Søren Espersen.";Kl. 13:13
+16942;Time;;Kl. 13:13
+16963;name_party;":
+Men altså, der er jo sket noget nyt, i forhold til dengang vi to stod og
+talte om det her i Folketingssalen. Jeg vil sige, at i ugen op til den
+31. oktober må der altså være blevet overført et beløb på 1,9 mio. kr.
+Der står, at Danmark i 2012 – det er ministerens eget svar til hr.
+Christian Juhl, spørgsmål nr. 3 – har brugt 1,9 mio. kr. på projekter,
+der relaterer sig til den syriske opposition. Det er i hvert fald nyt, og
+det kan undre, at udenrigsministeren ikke sagde det til mig, dengang
+jeg specifikt spurgte: Er der penge i det her? Det afviste udenrigsministeren dengang. Det er til det første spørgsmål. Hvad er det for
+nogle penge, hvor dukker de pludselig op, og hvem går det til?
+Der står også i svaret: ""Den danske støtte er udelukkende rettet
+mod den fredelige opposition"". Hvad er det for en opposition, der
+pludselig er fredelig i Syrien? Jeg troede, at der var en borgerkrig i
+gang. Hvad er det for en gruppe, der modtager de her penge? Hvad
+er det for grupper, der er fredelige?";Søren Espersen
+17974;Time;"Formanden:
+Udenrigsministeren.";Kl. 13:14
+18016;Time;"Udenrigsministeren (Villy Søvndal):
+Jeg synes, at hr. Søren Espersen er i gang med at konstruere en historie, som ikke er nogen historie. Vi har aldrig lagt skjul på, at vi
+fra dansk side har støttet. Jeg husker oven i købet diskussionen, vi
+havde sidst, hvor det var meget vigtigt for hr. Søren Espersen at fastlægge forskellen på at hjælpe og på at støtte – det var vist dengang,
+vi stod hernede sidst. Det betyder, at vi aldrig har lagt skjul på, at vi
+støtter og hjælper den syriske opposition, fordi det som sagt er forudsætningen for at lave et alternativ til det styre, der slår så mange
+mennesker ihjel. Vi har heller aldrig lagt skjul på, at vi lagde lokaler
+til der, hvor vi kunne, for at få de mennesker til at samles i håbet om,
+at netop de, som vil en politisk løsning og ikke en militær løsning på
+den her konflikt, er dem, der står stærkt.
+
+Dem, der har været den stærkeste repræsentant for den syriske
+opposition, har været SNC, Syrian National Council. Det er dem, der
+har samlet bredt. Det har været en repræsentant for den syriske opposition. Dermed har vi også understreget, at vi ikke lægger os fast
+på, at der er én og kun én, der repræsenterer den syriske opposition.
+De har i øvrigt møde i Doha den 8. november, altså i morgen, hvor
+de endnu en gang vil forsøge at gøre det endnu bredere. Det tror vi
+er rigtig vigtigt, fordi hvis alle de forskellige grupperinger i Syrien
+skal tro på en fremtid efter Assad, er det vigtigt, at netop den syriske
+opposition favner bredt, og det er det, vi hjælper dem på vej med.";Kl. 13:14
+19564;Time;"Formanden:
+Hr. Søren Espersen.";Kl. 13:15
+19606;Time;;Kl. 13:16
+19627;name_party;":
+Jeg synes stadig væk ikke, at jeg får svar på, hvad det er for nogle
+penge, vi pludselig taler om her. Det, jeg gerne vil bede udenrigsministeren om konkret at gøre, er her at bekræfte, at der ikke er tale om
+overførsel af kontanter, altså af rede penge overhovedet. Der er ikke
+nogen danske midler, der er overført til en eller anden syrisk konto
+eller afleveret kontant – det vil jeg gerne have en bekræftelse på.
+Det andet, jeg vil bede udenrigsministeren om, er at udarbejde en
+note om, hvad det er for projekter. Der står i svaret til hr. Christian
+Juhl, at Danmark bl.a. har ydet finansiering til projekter, der skal
+forbedre den syriske oppositions transitionsplanlægning. De projekter vil jeg meget gerne have en oversigt over. Hvad er det for en type
+projekter? Er det sådan, at der er danske folk på stedet, der arbejder
+med projekter, eller er det penge, der er overført? Og i benægtende
+fald, hvad er det præcis for nogle projekter? Det vil jeg bede udenrigsministeren om at aflevere en note om.";Søren Espersen
+20646;Time;"Formanden:
+Udenrigsministeren.";Kl. 13:17
+20688;Time;"Udenrigsministeren (Villy Søvndal):
+Det er klart, at de ting, vi laver, er ting, vi gerne vil stå ved. Vi har
+som sagt aldrig lagt skjul på, at vi støtter og hjælper – det er grunden
+til, at vi havde den lange diskussion sidst – en syrisk opposition. Så
+det er der ikke noget som helst nyt i. Der er heller ikke noget som
+helst nyt i, at man også støtter og hjælper økonomisk for muliggøre,
+at de ting, man gerne vil, kan lade sig gøre. Det gælder bl.a. mødet
+på Københavns Universitet, hvor hensigten var at samle en bred
+kreds af dem, der deltager i den syriske opposition, med henblik på
+at sikre at de bliver endnu mere inddragende, end de har været før;
+med henblik på at sikre at de kan overbevise den syriske befolkning
+om, at den syriske opposition er en opposition, der forsøger at favne
+hele det syriske samfund.
+Jeg tror, vi deler den fælles opfattelse af, at der er en risiko for, at
+medmindre vi får en politisk udgang på det her, kan det, der allerede
+er slemt i dag, i endnu højere grad udvikle sig til en egentlig konflikt, hvor de forskellige etniske grupper kommer til at stå meget
+hårdt op imod hinanden. Så vi vil gerne belyse yderligere, hvad det
+er, vi har støttet med i Syrien.";Kl. 13:17
+21900;Time;"Formanden:
+Spørgsmålet er sluttet.
+Så er det hr. Kim Andersen for det sidste spørgsmål til udenrigsministeren i dag.";Kl. 13:18
+22028;Time;"Onsdag den 7. november 2012 (US 28)
+
+Spm. nr. US 28";Kl. 13:18
+22099;name_party;":
+Tak for det. Der har jo lige været Nordisk Råds session i Helsingfors. Ministeren var der, jeg var der, og mange andre gode mennesker var der. I den forbindelse kom spørgsmålet om den tiltagende
+protektionisme fra norsk side jo op i forskellige fora. Det er jo sådan,
+at her er en lang række produkter fra EU, bl.a. fra Danmark, på osteområdet og kødområdet i den norske finanslov for 2013 forudsat at
+skulle stige med eksorbitant høje procentsatser, helt op mod 300-400
+pct.
+Samtidig indførte man over night her i sommer en told på 72 pct.
+på danske blomster af hortensiatypen, og det gør jo altså, at man
+uden selv at dyrke et marked op på rent protektionistisk vis prøver at
+overtage det til sine egne producenter. Hvad mener udenrigsministeren om sådan en situation? Hvad gør regeringen og ministeren ved
+det? For jeg går ud fra at ministeren er enig i, at det ikke er acceptabelt. Der er nogle handelspolitiske interesser, der skal varetages. Der
+er også nogle interesser i forhold til nordisk samarbejde.
+Hvordan kan man have et tillidsfuldt og fremadrettet nordisk
+samarbejde, hvis landene på den måde agerer selvisk og egoistisk og
+søger at løse sine økonomiske problemer ved at vende sig indad mod
+sig selv? Jeg synes, det er overordentlig problematisk. Det er det i
+forhold til nordiske samarbejde, som jo bygger på nogle meget
+smukke, ideelle og solidariske principper, men det er det bestemt også set fra et handelspolitisk synspunkt og i forhold til et EU-synspunkt. I den forbindelse har jeg også et spørgsmål til ministeren om,
+hvilke initiativer ministeren og regeringen vil tage i forhold til EU
+for at sanktionere den norske ageren, herunder hvilke konsekvenser
+det vil kunne medføre fra EU's side af handelspolitisk karakter.";Kim Andersen
+23855;Time;"Formanden:
+Udenrigsministeren.";Kl. 13:20
+23897;Time;"Udenrigsministeren (Villy Søvndal):
+Tak for spørgsmålet. Jeg husker vores samtale meget tydeligt fra
+Finland, hvor jeg var fungerende forsvarsminister. Og da hr. Kim
+Andersen spurgte mig som fungerende forsvarsminister, var jeg
+selvfølgelig nødt til at svare, at jeg antog, at det her ikke nåede et
+punkt, hvor der blev forsvarsmæssige uoverensstemmelser mellem
+Norge og Danmark. Jeg er stadig helt overbevist om, at man vil være
+i stand til at løse det her inden for det regelsæt, der gælder.
+Det er jo rigtigt, at Danmark er tilhænger af frihandel. Det betyder, at når der bliver lavet indskrænkninger, som vi ser her, så tager
+vi det i sagens natur op. I det her tilfælde er det handelsministeren,
+der håndterer sagen. Jeg synes også, som hr. Kim Andersen gjorde
+rede for i sit spørgsmål, at det nordiske samarbejde jo er i en voldsomt god gænge i øjeblikket. Det tror jeg at alle anerkender. Det er
+præget af, at vi samhandler med hinanden, at vi understøtter hinanden, at vi har videregående aftaler på en række områder mere end
+med en række andre lande, vi har samkvem med. Derfor er det selvfølgelig helt afgørende, at man også håndterer den her type af uoverensstemmelser på en måde, der gør, at der ikke opstår protektionisme. Det har vi al mulig dansk interesse i.";Kl. 13:20
+25183;Time;"Formanden:
+Hr. Kim Andersen.";Kl. 13:21
+25223;Time;;Kl. 13:21
+25241;name_party;":
+Jeg er meget glad for, at udenrigsministeren erklærer sig – sådan må
+jeg forstå det – enig i det principielle i mit spørgsmål, nemlig at vi jo
+
+5
+
+arbejder imod protektionisme og for maksimal frihandel; det er vel
+også det, der ligger i EØS-traktatens artikel 19. Jeg vil godt vide lidt
+mere eksakt, hvad regeringen agter at foretage sig i den konkrete situation, både i forhold til Norge bilateralt og i forhold til samarbejdet
+inden for Nordisk Råd. Det er dog også et udenrigsanliggende, som
+jo hører under ministerens ressort. Jeg vil endvidere godt høre, hvad
+man vil i forhold til EU.
+Da jeg rejste spørgsmålet over for udenrigsministeren sidst i Helsingfors i forbindelse med Nordisk Råds session, og ministeren var
+der i skikkelse af fungerende forsvarsminister, var det jo med den
+baggrund, at det her jo netop fra norsk side er begrundet i nogle hensyn fra krigens tid, hvor man ville være selvforsynende, fordi man i
+det vidtstrakte land ville kunne forsyne sin befolkning ude i de små
+dele af samfundet, og at man i det hele taget, hvor man havde vanskelige forsyningsvilkår, ville kunne brødføde befolkningen. Men
+det er jo noget, der er 60-80 år gammelt, og det var i den sammenhæng, jeg relaterede det til ministeren i hans daværende position.
+Det mener jeg stadig væk i og for sig er relevant, fordi den norske
+politik på det her område bygger på en fortidig opfattelse af nogle
+realiteter, som på ingen måde er gældende i dag i forhold til samhandel og distribution.";Kim Andersen
+26736;Time;"Formanden:
+Udenrigsministeren.";Kl. 13:23
+26778;Time;"Udenrigsministeren (Villy Søvndal):
+Jeg er helt enig i, at vi har en meget stor dansk interesse i frihandel.
+Vi er et lille land, der lever af at handle med vores omverden, og det
+betyder, at når vi støder på handelshindringer, der bliver stillet op, så
+skal vi tage fat på dem. Jeg tror også, at hr. Kim Andersen er opmærksom på, at det skete bilateralt allerede i Helsingfors, hvor handelsminister fru Pia Olsen Dyhr allerede der tog fat på sin norske
+kollega og fortalte ham også i, så vidt jeg har forstået, meget klar
+tekst, at vi selvfølgelig har ønsker om, at de her forhold bliver bragt
+ud af verden, så vi igen kan samhandle hortensiaer, fødevarer osv.
+Alle har en interesse og en fordel i, at vi ikke har protektionisme i
+Europa.";Kl. 13:23
+27529;Time;"Formanden:
+Hr. Kim Andersen for det sidste spørgsmål.";Kl. 13:23
+27594;Time;;Kl. 13:23
+27612;name_party;":
+Jeg tror, det er meget vigtigt, at regeringen og udenrigsministeren ikke undervurderer den problemstilling, vi her står over for. De seneste
+forlydender er, at det nu også gælder produkter fra Carlsberg, altså
+øl og andre produkter fra Carlsberg-bryggerierne, som ved import til
+Norge vil blive pålagt nogle toldsatser, der er meget, meget høje. Det
+er en situation, som regeringen må tage meget alvorligt. Jeg savner
+der at få et konkret svar fra udenrigsministeren på, hvad man vil gøre i forhold til EU, herunder med hensyn til EØS-traktaten, hvad
+man vil gøre i forhold til Nordisk Råd, og hvad man vil gøre bilateralt i forhold til Norge.
+Det her er jo også noget, som for udenrigsministeren, som jo også har de nordiske anliggender og Nordisk Råd under sin ressort, må
+være en hæmsko i forhold til et udenrigspolitisk samarbejde, hvor
+man gerne skulle have en stærk nordisk alliance, som bygger på tillid og på solidaritet, på åbne økonomier og på frihandel. Det her er
+jo i den grad et anslag mod denne tankegang, og her beder jeg altså
+om, at regeringen er en smule mere offensiv, at den orienterer sig i
+sagen, og at den agerer med hensyn til at varetage danske handelspolitiske interesser og frihandelspolitik.
+
+6
+
+Onsdag den 7. november 2012 (US 29)";Kim Andersen
+28886;Time;;Kl. 13:28
+28897;Time;"Formanden:
+Udenrigsministeren.
+
+Formanden:
+Hr. Alex Ahrendtsen.";Kl. 13:24
+28972;Time;;Kl. 13:24
+28983;Time;"Udenrigsministeren (Villy Søvndal):
+Jamen det er en situation, som regeringen tager alvorligt, for ellers
+ville vi ikke have taget det op på det bilaterale møde i Helsingfors,
+sådan som vi gjorde. Det gjorde vi jo i sagens natur kun, fordi vi synes, at Norge skal lade være med at lave den type protektionisme,
+som vi ser her. Vi har fra dansk side al mulig interesse i, at der er et
+åbent Europa, og at der er en åben verden, hvor vi frit kan handle. Vi
+er modstandere af toldsatser, vi er modstandere af, at man i et forsøg
+på at signalere, at man skal være sig selv nok, sætter bomme op ved
+grænserne, som den tidligere regering gjorde. Den slags skal man lade være med at gøre. Det er helt afgørende for en økonomi, en lille
+økonomi som den danske, at man er åben i forhold til sin omverden.
+Det er også derfor, at vi, uanset om vi møder det i form af grænsebomme eller vi møder det i form af handelshindringer, så gør, hvad
+vi kan, for at få den slags fjernet.";Kl. 13:28
+29972;name_party;":
+Jeg er virkelig glad for, at ministeren både i går og i dag så klart og
+utvetydigt har sagt, at de bliver nødt til at finde tilbage til forhandlingsbordet. Nu har både ministeren og jeg jo været til en høring i
+dag – i øvrigt en meget spændende høring – hvor jeg også opfordrede parterne til at finde sammen igen.
+Jeg tænker på, om ministeren måske ikke kunne være sådan en
+slags brobygger, altså simpelt hen indkalde parterne til et møde. Det
+er ikke sådan, at ministeren skal blande sig i forhandlingerne, men
+han kan få parterne til at sætte sig sammen, og han kan klart og tydeligt sige, at man fra regeringens side anser, at det er vigtigt, at de finder en løsning, som ikke ødelægger markedet for forlagene, men
+hjælper borgerne til at kunne låne elektroniske bøger.
+Kunne ministeren finde på at indkalde til sådan et møde og får
+parterne til at mødes? Det ville vi da i hvert fald være glade for fra
+Dansk Folkepartis side.";Alex Ahrendtsen
+30915;Time;;Kl. 13:25
+30926;Time;"Formanden:
+Spørgsmålet er sluttet, og vi siger tak til udenrigsministeren.
+De følgende spørgsmål er stillet til kulturministeren, og den første spørger er hr. Alex Ahrendtsen, værsgo.
+
+Formanden:
+Ministeren.";Kl. 13:29
+31145;Time;;Kl. 13:29
+31156;Time;Spm. nr. US 29;Kl. 13:26
+31193;name_party;":
+Tak for det, og goddag til ministeren i salen.
+Mit spørgsmål skal i første omgang handle om eReolen, om e-bøgerne og om bibliotekerne. Vi ved jo, at forhandlingerne mellem
+bibliotekerne og forlagene vedrørende udlån af elektroniske bøger er
+brudt sammen. Det er jo noget, der i Dansk Folkepartis øjne kedeligt, og det er ærgerligt. Det er vigtigt, at vi i Danmark også har mulighed for at låne e-bøger. Problemet har jo været, at denne model,
+selv om den faktisk har været god for bibliotekerne, har været virkelig skidt for forlagene. Forlagene har jo simpelt hen oplevet, at de
+har mistet indtægter, fordi folk i stedet for at købe e-bogen har lånt
+den på biblioteket.
+Så mit indledende spørgsmål skal være, om ministeren vil gå ind
+og se på det, altså ikke gå ind i forhandlingerne, men i hvert fald gå
+ind i sagen, og opfordre parterne til at finde tilbage til forhandlingsbordet. Det skal være mit indledende spørgsmål.";Alex Ahrendtsen
+32129;Time;"Formanden:
+Kulturministeren.
+
+Kulturministeren (Uffe Elbæk):
+Jeg har ikke nogen konkrete overvejelser om at indkalde til et egentligt møde, men jeg tror, at alle lytter til, hvad der bliver sagt i denne
+debat, og også gjorde det til konferencen i går.
+Altså, det, man skal huske på, er, at eReolen blev sat i værk som
+et forsøg, der kørte over et år, og det var faktisk forlagene selv, der
+var med til at sætte forsøget i værk. Der var nogle positive ting ved
+det, bl.a. at rigtig mange danskere faktisk har brugt den; den negative ting var, at det måske underminerede den forretningsmodel, som
+forlagene også skal leve af i fremtiden.
+Derfor tror jeg, at det, vi kommer til se fremadrettet, er, at man
+laver et tidsafgrænset forsøg og gør sig erfaringer med det. Man
+gjorde sig erfaringer med den første forsøgsordning, og jeg håber, at
+man i den periode, der kommer, gør sig nye erfaringer. Forlagene er
+allerede kommet med deres tilbud, som betyder, at de enkelte biblioteker faktisk kan indgå direkte aftaler med forlagene og dermed også
+få bøger ud på eReolen. Forskellen er som sagt bare, at det så er det
+enkelte bibliotek, der træffer beslutningen, hvor det i den første forsøgsperiode var en central ordning.
+Men som sagt håber jeg, at parterne vil mødes og genoptage diskussionen, og ellers tror jeg, at den kommer igen i forbindelse med
+Danskernes Digitale Bibliotek.";Kl. 13:27
+33519;Time;;Kl. 13:30
+33530;Time;"Kulturministeren (Uffe Elbæk):
+Det er rigtigt, at forhandlingerne er brudt sammen mellem på den
+ene side forlagene og på den anden side bibliotekerne og dermed
+kommunerne, og det er jeg lige så ked af, som spørgeren er. Så sent
+som i går stod jeg foran alle bibliotekslederne på en konference i
+Nyborg, hvor jeg meget mindeligt opfordrede til, at parterne fandt
+hinanden igen, for eReolen er et vigtigt element i vores biblioteksvæsen, og den bliver kun vigtigere, og det er vigtigt for danskerne, at
+de har mulighed for at låne digitale bøger, også gode digitale bøger.
+Så jeg har sendt et klart signal, og jeg håber, at parterne finder hinanden.
+
+Formanden:
+Hr. Alex Ahrendtsen for sidste spørgsmål.";Kl. 13:27
+34243;Time;;Kl. 13:30
+34265;name_party;":
+Vi har jo faktisk haft en forsøgsperiode på et års tid; vi ved, hvordan
+det fungerer, vi kender konsekvenserne, både de dårlige og de gode,
+fordele og ulemper. Så jeg ser egentlig ikke nogen grund til, at vi laver yderligere forsøg. Det, der er afgørende nu, er, at vi finder en
+model, som forlagene kan leve med. De har selv spillet ud med licensmodellen, men bibliotekerne har ikke været villige til at gå med
+til det. De har måske også fået blod på tanden, forstået på den måde,
+at de er gået ind på et område, hvor de egentlig ikke bør være.
+
+Onsdag den 7. november 2012 (US 30)
+
+Mit spørgsmål skal være: Er det ikke forlagenes opgave at sende
+bøger på markedet og bibliotekernes opgave at støtte litteraturen på
+den ene eller den anden måde? Og sker der ikke det, at bibliotekerne
+faktisk går ind og konkurrerer – og det er jo en offentlig virksomhed;
+bibliotekerne er jo støttet af det offentlige – med forlagene på en
+uhensigtsmæssig måde, som betyder, at de faktisk går ind og ødelægger et blomstrende digitalt e-bogs-marked? Det er jo knap så
+godt – mener ministeren ikke også det?";Alex Ahrendtsen
+35368;Time;"7
+
+sigt i og deltage i og følge med i den offentlige debat. Så hvis vi ikke
+har en livskraftig dagspresse, giver det problemer for demokrati og
+dannelse i vores samfund. Er ministeren så ikke enig i, at dagbladene
+er stærkt pressede? Og er det derfor egentlig ikke uklogt at pålægge
+netop dagbladene en ekstra lønsumsafgift på 40 mio. kr. – ikke
+mindst i lyset af, at de jo bl.a. også bliver ramt af den reklameafgift,
+altså afgiften på reklametryksager, som regeringen også har besluttet, og hvor man hos dagbladene forventer, at det også vil koste dem
+40 mio. kr. årligt som følge af tabte distributionsindtægter? Det vil
+jeg gerne spørge ministeren om.
+
+Formanden:
+Ministeren.";Kl. 13:31
+36060;Time;;Kl. 13:35
+36070;Time;"Kulturministeren (Uffe Elbæk):
+Jamen altså, som hr. Alex Ahrendtsen også påpegede, var en af de
+negative konsekvenser i den første forsøgsperiode som sagt, at forlagene oplevede det, som at bibliotekerne, på den måde de udlånte de
+digitale bøger på, var med til at underminere deres forretningsplan
+fremadrettet.
+Omvendt har jeg også haft møder med Forlæggerforeningen, og
+de siger jo, at vi er inde i en periode, hvor vi bliver nødt til at afsøge
+nye modeller. Der er ikke nogen, der har den færdige model her og
+nu, og derfor anbefaler Forlæggerforeningen også, at man faktisk
+fastlægger de her tidsmæssigt afgrænsede perioder, hvor man går ind
+og siger: Nu prøver vi så den her model – hvordan virker den?
+Der har altid været et godt samarbejde mellem bibliotekerne, forlagene og forfatterne, og de indgår i en naturlig fødekæde og understøtter hinanden, og det skal de også gøre fremadrettet.";Kl. 13:31
+36978;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til kulturministeren er af hr. Lars Barfoed,
+værsgo.";Kl. 13:32
+37097;Time;Spm. nr. US 30;Kl. 13:32
+37131;name_party;":
+Vi står jo for at skulle indlede forhandlingerne om mediestøtten, og
+det kan jo blive ganske spændende, i det omfang vi kommer i realitetsforhandlinger om det. Derfor synes jeg, det var relevant at bruge
+lejligheden, når ministeren er i salen i dag, til at drøfte dagbladenes
+situation, bl.a. i lyset af at regeringen nu vil pålægge dagbladene en
+lønsumsafgift på 40 mio. kr.
+Der er vi jo i den situation, at ministeren har sagt, at det må vi
+ikke tale om ovre i Kulturministeriet. I går forlød det så i pressen, at
+ministeren mente, at de, der skulle have adgangsbillet til at drøfte
+mediestøtte, skulle acceptere lønsumsafgiften på 40 mio. kr. Jeg forstår – og det kan ministeren jo så bekræfte nu – at det ikke er sådan,
+at vi skal acceptere det, men vi må bare ikke tale om det ovre hos
+ministeren. Det er sådan et forbudt ord, det vil ministeren ikke snakke om. Og hvis vi bare lover, vi ikke taler om det derovre, må vi
+godt blive og snakke mediestøtte. Det må vi jo så lige finde ud af om
+vi kan blive enige om. Men kan ministeren bekræfte, at det er sådan,
+det forholder sig: Vi må ikke tale om det, men vi skal ikke acceptere
+det? Det vil jeg gerne høre som det første.
+Hvis det er sådan, vil jeg nu alligevel tale om det, for jeg går ud
+fra, at vi godt må tale om det i Folketingssalen. Og så vil jeg gerne
+spørge ministeren, om ministeren ikke er enig i, at danske dagblade
+er i en stærkt presset situation, at dagbladenes liv og levned jo hænger tæt sammen med demokrati og dannelse i vores samfund, og at
+det er vigtigt, at vi har vitale dagblade, en skreven presse, der kan
+være en vigtig del af nyhedsformidlingen, og hvor man kan få ind-
+
+Formanden:
+Kulturministeren.";Lars Barfoed
+38826;Time;"Kulturministeren (Uffe Elbæk):
+Altså, der var en lang række spørgsmål her, og jeg skal prøve at besvare dem sådan i rækkefølge.
+Det er fuldstændig rigtigt, som jeg både har sagt til hr. Lars Barfoed og de øvrige ordførere på området på vores første forhandlingsmøde i går, at den måde, man skal udlægge de citater, der har været i
+medierne, på, er, at diskussionen om lønsumsafgiften og debatten
+om den og forhandlingerne om den foregår i et andet regi. Den foregår enten i Skatteministeriet eller i Finansministeriet. I Kulturministeriet diskuterer vi og forhandler om den direkte mediestøtte. Det er
+bare det, jeg har kridtet op. Jeg har sagt, at det ikke er til diskussion:
+Vi diskuterer ikke lønsum, når vi snakker mediestøtteordning ovre i
+Kulturministeriet. Det skal man diskutere med mine gode kollegaer i
+henholdsvis Skatteministeriet og Finansministeriet.
+Så spurgte hr. Lars Barfoed, om jeg ikke var enig i, at dagbladene
+for øjeblikket er pressede. Jo, dagbladene er massivt pressede. De
+står i en situation, hvor de skal finde ud af at udvikle deres forretningsmodel, i forhold til at man går over på digitale platforme. Det
+er en kæmpe, kæmpe udfordring for de enkelte bladhuse, og det skal
+man slet, slet ikke undervurdere omfanget af og problemet i.
+Det betyder så i afledt betydning selvfølgelig også, at når vi har
+brug for et både mangfoldigt og stærkt mediebillede i Danmark i forhold til at sikre en kritisk journalistik og en stærk demokratisk debat,
+er det grunden til, at vi jo nu forhandler – og jeg håber sandelig også,
+at De Konservative er med i den fremadrettede forhandlingsproces –
+om, hvordan vi moderniserer mediestøtten i Danmark og dermed også sikrer, at det, mediestøtten går til, er indhold i stedet for distribution. Det er fremtiden.";Kl. 13:35
+40609;Time;"Formanden:
+Hr. Lars Barfoed.";Kl. 13:37
+40649;Time;;Kl. 13:37
+40668;name_party;":
+Så langt, så godt. Når vi overhovedet drøfter omlægning af mediestøtten, er det jo netop, fordi – som ministeren også er inde på – dagbladene især i dag fungerer på andre platforme end før, så man kan
+ikke basere mediestøtten på de kriterier, der hidtil har været gældende, altså så at sige på antallet af trykte eksemplarer af avisen. Man
+må se på nogle andre kriterier, for aviserne fungerer også på nettet
+og i andre sammenhænge i dag. Derfor er det så de redaktionelle
+omkostninger, som det udvalg, der har været nedsat – det såkaldte
+Dyremoseudvalg, fordi Henning Dyremose var formand for udvalget
+– er nået frem til. Det er så det, der er udgangspunktet for vores diskussion.
+Men forudsætningen for det udvalgsarbejde har jo været en
+uændret økonomisk ramme for dagbladene. Det er derfor, jeg spørger, om ministeren ikke finder, at det er uheldigt, at vi i startfasen op
+
+8
+
+Onsdag den 7. november 2012 (US 31)
+
+til de her forhandlinger dels ser en forringelse af dagbladenes økonomi som følge af en afgift på reklametryksager, som går ud over deres
+distributionsindtægter, dels nu ser en lønsumsafgift på 40 mio. kr.
+Det er jo en klar forringelse af hele den sektors økonomi.
+Jeg synes, det er angribeligt, at regeringen rammer netop den sektor i en situation, hvor vi skal lave en omlægning af mediestøtten,
+der egentlig i udvalgets arbejde har været under forudsætning af en
+uændret økonomisk ramme. Man forringer bare økonomien på en
+anden måde. Kunne regeringen ikke overveje klogskaben i det en
+gang til?";Lars Barfoed
+42197;Time;"Formanden:
+Kulturministeren.";Kl. 13:39
+42237;Time;"Kulturministeren (Uffe Elbæk):
+Det, jeg har gjort inden for mit eget område, er selvfølgelig også at
+adressere den her problemstilling, som hr. Lars Barfoed nu rejser
+her. Hr. Lars Barfoed kender jo også godt det udspil, som regeringen
+har lagt frem – det udspil, som jeg har lagt frem i de forhandlinger,
+vi startede i går. I det udspil påpeger jeg også, at vi vil afvikle distributionsstøtten til de ideelle blade. Den besparelse modsvarer faktisk
+stigningen i lønsumsafgiften. Så den direkte støtte til dagbladene er
+faktisk den samme fremadrettet, som den var før.";Kl. 13:39
+42817;Time;"Formanden:
+Hr. Lars Barfoed.";Kl. 13:39
+42858;Time;"Formanden:
+Spørgsmålet er sluttet.
+Hr. Martin Henriksen for det næste spørgsmål til kulturministeren. Værsgo.";Kl. 13:41
+42979;Time;Spm. nr. US 31;Kl. 13:41
+43017;name_party;":
+Tak for det. Grunden til, at jeg gerne vil stille kulturministeren et
+spørgsmål, er, at man i dag kan læse i Frederiksborg Amts Avis – og
+det har også bredt sig til andre medier – at en bestyrelse i en boligforening i Kokkedal, i boligområdet Egedalsvænge, har besluttet sig
+for at afskaffe julen.
+At afskaffe julen er jo en lidt speciel beslutning, specielt i et land
+som Danmark, men ikke desto mindre er det det, der er tilfældet. Der
+er tale om, at efter at man i det pågældende boligområde havde holdt
+en ramadanfest, som boligforeningen havde besluttet at bruge omkring 60.000-70.000 kr. på, besluttede flertallet i bestyrelsen så –
+flertallet består af personer med muslimsk baggrund – at man ikke
+ønskede at bruge omkring 5.000-7.000 kr. på et julearrangement,
+som der er tradition for at man holder år efter år.
+Det synes jeg jo er forkasteligt. Det er uanstændigt, at man kommer til et land – det er, uanset om vi taler om første, anden eller tredje generation – og så simpelt hen vedtager at afskaffe det lands traditioner i et bestemt boligområde. Jeg kunne godt tænke mig at høre,
+hvad kulturministeren siger til den sag.";Martin Henriksen
+44164;Time;;Kl. 13:39
+44183;name_party;":
+Det mener jeg ikke er rigtigt. Lønsumsafgiften på de 40 mio. kr. påvirker dagbladene. Man kan lave omfordelinger, men så går det ud
+over nogle andre medier inden for det felt, som mediestøtterapporten
+drejer sig om. Så samlet set er der for de medier, som får mediestøtte, tale om en forringelse på 40 mio. kr. Det kan man jo ikke komme
+udenom. Så flytter man det rundt, så det ikke er dagbladene, men
+nogle andre, der bliver ramt. Men der er nogle, der bliver ramt af det
+her, som i dag er medier, som får mediestøtte. Men samtidig har man
+jo indført en reklametryksagsafgift, som også rammer dagbladene
+med 40 mio. kr. i øgede distributionsomkostninger, i hvert fald ifølge deres egne opgørelser. Så der er tale om en forringelse af økonomien, uanset hvordan man end vender og drejer det, netop som vi
+skal til at starte forhandlingerne. Og det synes jeg er uheldigt.";Lars Barfoed
+45064;Time;;Kl. 13:40
+45075;Time;"Formanden:
+Kulturministeren.";Kl. 13:42
+45115;Time;"Kulturministeren (Uffe Elbæk):
+Der er meget, kulturministeren skal forholde sig til, men lige nøjagtig det her spørgsmål har jeg på ingen måde lyst til at gå ind i. Det er
+forstået på den måde, at jeg har respekt for en forening og foreningsdanmark.
+Hvis jeg nu har forstået spørgeren rigtigt, er der en lokalforening,
+der beslutter, hvad de vil bruge deres budget til, og det skal kulturministeren i sandhed ikke blande sig i, uagtet om man kan være enig
+eller uenig i deres disponeringer sådan på personligt plan. Men jeg
+har stor respekt for vores lokale foreningskultur, og det vil jeg som
+sagt også have efterfølgende.";Kl. 13:42
+45750;Time;"Formanden:
+Kulturministeren.";Kl. 13:43
+45790;Time;"Formanden:
+Hr. Martin Henriksen.";Kl. 13:40
+45834;Time;"Kulturministeren (Uffe Elbæk):
+Man kan jo tydeligt høre, at der vil være masser at tale om, når vi
+skal i gang med at forhandle. Men jeg vil bare endnu en gang understrege, at når vi afvikler de ideelle blade, bliver der frigjort 40 mio.
+kr. Dem, som ikke er inde i diskussionen, tænker måske, at de ideelle blade også er en del af mediebilledet. Nej, det er de ikke. Det, vi
+skal give, er demokratistøtte. Vi skal støtte kritisk journalistik. Ideelle blade varierer fra resultattavler fra fodboldturneringer over Ældre
+Sagen til Golfbladet. Jeg håber, at hr. Lars Barfoed er enig med mig
+i, at når vi går ind og støtter og mener, at det er demokratistøtte, så
+handler det om at støtte kritisk journalistik med bredt samfundsmæssigt sigte og ikke resultattavler for en given fodboldturnering.";Kl. 13:43
+46651;name_party;":
+Jeg har også stor respekt for det lokale demokrati. Jeg har også stor
+respekt for dansk kultur og for danske traditioner, og det håber jeg
+også gør sig gældende for ministerens vedkommende. Jeg synes, det
+er tyndt, at ministeren siger, at man på det personlige plan kan mene
+et eller andet om det her. Jeg kunne godt tænke mig at vide, hvad
+kulturministeren mener om det her.
+I Dansk Folkeparti mener vi, det er fuldt fuldstændig forkasteligt,
+at man simpelt hen vedtager at afskaffe et julearrangement i et boligområde, fordi det nu forholder sig sådan, at der er nogle personer
+med muslimsk baggrund, der har fået flertal i en boligbestyrelse. Det
+kan man ganske enkelt ikke være bekendt. Der bor da også i det pågældende boligområde mennesker med mange andre kulturelle baggrunde, herunder danskere.
+
+Onsdag den 7. november 2012 (US 32)
+
+Så jeg synes, det er rimeligt, at landets kulturminister, som jo
+trods alt må have en mening om, hvordan den kulturelle udvikling i
+landet er, kommer med sin mening.
+
+demokrati, holde fanen højt og så argumentere for, at det var en forkert beslutning. Det kan være, at den her sag er med til at vitalisere
+det lokale demokrati derude; det kan man jo håbe.";Martin Henriksen
+47861;Time;"Formanden:
+Ministeren.";Kl. 13:44
+47895;Time;"Kulturministeren (Uffe Elbæk):
+Jamen altså, der foregår jo på mange niveauer i det danske samfund
+demokratiske processer, hvor et flertal beslutter noget, som mindretallet er uenig i. Så har man jo chancen for at komme med et modforslag og gå ind i den demokratiske debat og dermed også den demokratiske proces og så få ændret den beslutning.
+Kulturministeren skal da ikke forholde sig til, hvad en lokalforening i et givet lokalområde, altså en boligforening, vælger at bruge
+deres penge til. Altså, det kan slet ikke være en opgave, der kan
+komme hen til mit skrivebord, og som jeg skal forholde mig til.
+Det lyder nærmest, som om den her lokalforening har besluttet
+sig for at afskaffe julen, og alt andet lige vil jeg sige, at det tror jeg
+ikke at de kommer igennem med.";Kl. 13:44
+48681;Time;"Formanden:
+Hr. Martin Henriksen.";Kl. 13:44
+48725;Time;;Kl. 13:45
+48748;name_party;":
+Forslaget er vedtaget, så man er kommet igennem med, at de arrangementer, der er tilknyttet til den højtid, ikke bliver gennemført, som
+der er tradition for i det pågældende område. Sagen er den, at vi
+selvfølgelig har lokalt demokrati, men der er også kommunalt demokrati, og der er også nationalt demokrati. Folketinget og ministeren
+har mulighed for at påvirke tingene.
+Nu kan jeg forstå, at ministeren ikke har nogen holdning til det,
+altså at ministeren mener, at det her er sådan en lille sag, som det er
+under ministerens værdighed at forholde sig til. Og det synes jeg ærlig talt er for slapt. Vi taler faktisk om et land med mange, mange
+traditioner, herunder en tradition for, at man selvfølgelig fejrer julen
+som noget fuldstændig indlysende. Så er der en boligforening, hvor
+et flertal med muslimsk baggrund har vedtaget, at det gider man bare
+ikke mere. Og så siger landets kulturminister: Det er sådan set under
+min værdighed at forholde mig til. Det er meget tyndt, men forventeligt.";Martin Henriksen
+49758;Time;"Formanden:
+Ministeren.";Kl. 13:45
+49792;Time;"Kulturministeren (Uffe Elbæk):
+Jeg ved ikke, om det var en konstatering eller et spørgsmål. Jeg vil
+bare sige, at traditioner jo hele tiden er til debat og til forhandling.
+Det er de i det her lokale, og det er de på alle niveauer i det danske
+samfund, og heldigvis, for det vil sige, at traditioner udvikler sig.
+Når jeg siger, at jeg ikke skal gå ind i det, er det, fordi det er en
+lokal beslutning, som jeg ikke på den måde skal have en aktie i. Jeg
+kender jo ikke den konkrete sag ud over det, jeg får præsenteret nu
+her. Der er tale om en boligforening, der på et demokratisk, fuldstændig legitimt niveau beslutter, hvad de vil bruge deres penge til,
+og så er der nogle aktiviteter, de ønsker fremmet, og nogle aktiviteter, de ikke ønsker fremmet.
+Der må man vel bare sige, at hvis der er nogen i det lokale område, der er utilfredse med den beslutning, skal de gå ind i det lokale
+
+9";Kl. 13:45
+50694;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det sidste spørgsmål til kulturministeren er af hr. Kim Andersen.
+Værsgo.";Kl. 13:47
+50814;Time;Spm. nr. US 32;Kl. 13:47
+50847;name_party;":
+Tak for det, formand. Jeg er glad for, at kulturministeren kommer
+her i Folketingets spørgetime i dag, for det giver os anledning til at
+kunne fortsætte vores drøftelse om fregatten »Jylland«. Det er jo sådan, at fregatten er i vanskeligheder – eller i hvert fald kan forudses
+at ville komme i betydelige vanskeligheder. Som kulturministeren
+ved, har VK-regeringen i samarbejde med Dansk Folkeparti fra 2009
+og frem til og med 2012 givet fregatten »Jylland« en bevilling til
+vedligeholdelse på årligt 4 mio. kr., i alt 16 mio. kr. Den hjælp ophører nu her ved udgangen af 2012. Derved kommer fregatten sandsynligvis i nogle store vedligeholdelsesmæssige problemer.
+Én ting er jo i forbindelse med fregatten »Jylland« i Ebeltoft,
+hvad der har med museums-, visualiserings- og formidlingsdelen at
+gøre, en anden ting er, hvad der har at gøre med vedligehold af fregatten »Jylland«, som er et gammelt træskib. Og en tredje ting er,
+hvad der har med selve bygningsmassen derovre at gøre, herunder
+drift af kiosk og den nu forpagtede restaurant. Det er ligesom tre forskellige dele.
+Fregatten »Jylland« har jo haft en meget omtumlet skæbne og
+fremstår vel i dag mere vedligeholdt end nogen sinde tidligere. Men
+det forudsætter altså også, at man er over arbejdet hele tiden, og at
+man bruger nogle ressourcer på det. Det er verdens største træskib;
+det er en stor, åben træbalje, som forfalder meget hurtigt, hvis ikke
+man vedligeholder den, om ikke dagligt så i hvert fald måned for
+måned. Og er man først kommet i en situation, hvor det her forfald
+har varet i 2-3 år, skal man nærmest begynde forfra.
+Jeg vil gerne spørge ministeren, hvad han vil gøre for at afhjælpe
+den situation, og om ikke ministeren er enig i, at der er tale om en
+kulturarv af national karakter, og om ikke ministeren er enig i, at national kulturarv skal man passe på, uanset hvordan den er organiseret, og uanset om det er et statsanerkendt museum, eller om det er en
+selvejende institution, eller hvad det i øvrigt måtte være. Tak.";Kim Andersen
+52864;Time;"Formanden:
+Kulturministeren.";Kl. 13:49
+52904;Time;"Kulturministeren (Uffe Elbæk):
+Det er jo en kendt sag – også for kulturministeren og ikke mindst for
+spørgeren, som jo selv har siddet i bestyrelsen for fregatten »Jylland«. Desværre er der, som hr. Kim Andersen også påpegede, en
+bevilling, som løber ud nu her, og det er jo på alle måder ulykkeligt
+for fregatten »Jylland«. Jeg har stor forståelse for den frustration og
+de problemer, det giver, at bevillingen løber ud, for de mennesker,
+der som sagt dagligt arbejder med fregatten, og givetvis også for bestyrelsen.
+Jeg er i den situation, som landet også står i, nemlig at der er nogle meget, meget stramme økonomiske rammer – også for mit område. Det, jeg har gjort, er, at jeg har omprioriteret penge fra Statens
+Museum for Kunst til fregatten »Jylland«, så man får en fast bevilling på 300.000 kr. fremadrettet. Det slår overhovedet ikke til i for-
+
+10
+
+Onsdag den 7. november 2012 (US 32)
+
+hold til det behov, som fregatten jo givetvis har, men det er det, som
+jeg har prioriteret, og det vil sige, at jeg har taget penge fra en anden
+institution og givet dem til fregatten »Jylland«.
+Det, der så bare er vigtigt for mig i den her sammenhæng at understrege, er – ikke fordi det skal blive polemisk, men jeg vil alligevel understrege det – at da Venstre fremlagde deres finanslovforslag,
+var der heller ikke nye penge til fregatten »Jylland«. Så det vil sige,
+at den tidligere regering har givet midlertidige bevillinger til fregatten »Jylland«, og disse midlertidige bevillinger udløber nu. Jeg er
+gået ind og har fundet et mindre beløb fra en anden institution og
+flyttet det over til fregatten »Jylland«. Det løser ikke den udfordring,
+fregatten »Jylland« står over for, men jeg vil også sige, at det er en
+kendt problemstilling, også for bestyrelsen. Det er ikke, fordi kasketterne skal blandes sammen, men hr. Kim Andersen har faktisk to kasketter på i den her sag: både som bestyrelsesmedlem og som medlem af Folketinget.
+Min nysgerrighed går på, hvad bestyrelsens strategi er fremadrettet. Det får vi nok ikke svar på her, og det kan jeg få i en anden sammenhæng, men den nysgerrighed har jeg.";Kl. 13:49
+55024;Time;"Formanden:
+Hr. Kim Andersen.";Kl. 13:51
+55064;Time;;Kl. 13:51
+55082;name_party;":
+Bestyrelsens strategi er ikke så kompliceret, den er at prøve at leve
+op til ansvaret ved at holde institutionen gående, herunder holde fregatten i en rimelig vedligeholdelsesmæssig tilstand.
+Nu bryster ministeren sig af, at han har fundet penge – 300.000
+kr. – og jeg anerkender, at det beløb står på finansloven, men der er
+unægtelig forskel på 4 mio. kr. til vedligehold årligt og så 300.000
+kr.
+Jeg vil gerne høre, om ikke ministeren vil bekræfte, at der her er
+tale om national kulturarv. Og så vil jeg også gerne høre, om ikke
+ministeren vil forholde sig til, at samfundet, staten, har et ansvar i
+forhold til den nationale kulturarv, vi har i det her land. For så meget
+national kulturarv har vi jo faktisk heller ikke. Jeg vil i den forbindelse høre, om ministeren også vil være så storsindet at anerkende,
+at organisationsformen for det, der måtte være national kulturarv,
+burde være af mindre betydning i forhold til dette at fastholde og
+vedligeholde den nationale kulturarv.
+Det er tre principielle spørgsmål, som jeg meget gerne vil have at
+kulturministeren forholder sig til. Tak.";Kim Andersen
+56188;Time;"Formanden:
+Kulturministeren.";Kl. 13:52
+56228;Time;"Kulturministeren (Uffe Elbæk):
+Jamen der er ingen tvivl om, at fregatten »Jylland« har en helt særlig
+rolle, også i forhold til vores nationale historie, og på den måde også
+skriver sig ind i en kulturarvssammenhæng. Men det ændrer ikke
+ved, at der er tale om en selvejende institution, som bevidst har valgt
+at være en selvejende institution. Det er også en institution, som selv
+har prioriteret sine ressourcer og dermed også valgt, hvilket niveau
+deres aktiviteter skal være på. Og for en ansvarlig bestyrelse skal der
+altid være en balance mellem indtægter og udgifter – også i de tider,
+hvor det er lidt bøvlet og besværligt, og hvor man ikke har de penge,
+man gerne ville have. Men så skal man sætte tæring efter næring.
+Som hr. Kim Andersen også så rigtigt påpegede, har fregatten
+»Jylland« jo haft en meget omtumlet tilværelse som institution, og
+det er vigtigt for mig at understrege, at der ikke er tale om, at fregat-
+
+ten »Jylland« er et museum med alle de ting, det rummer, det er en
+selvejende institution.";Kl. 13:52
+57260;Time;"Formanden:
+Hr. Kim Andersen for den sidste replik.";Kl. 13:54
+57322;Time;;Kl. 13:54
+57340;name_party;":
+Det er klart, at man skal sætte tæring efter næring. Og det er jo faktisk det, der i den her sammenhæng bliver problemet. For når bestyrelsen for den selvejende institution Fregatten »Jylland« skal gøre
+det, vil det komme til at gå ud over fregatten »Jylland«, og dermed
+vil det komme til at gå ud over en særegen national kulturarv.
+Det er her, jeg i den grad synes at samfundet, her repræsenteret
+ved kulturministeren, kommer ind i billedet. For hvad gør vi så?
+For bestyrelsen er det for så vidt ingen kunst at skære budgettet
+til. Det vil komme til at gøre ondt, og det vil være smerteligt, men
+det kan man gøre. Men det løser jo ikke problemet med et stykke af
+vores nationale kulturarv, som vil gå i forfald fra dag et, accelererende ganske betragteligt, forfaldet vil være nærmest uopretteligt, når
+der er gået en 4-5 år.
+Det er den problemstilling, jeg synes statens kulturrepræsentant
+nr. 1, nemlig kulturministeren, skulle forholde sig til. Han skulle
+prøve at være behjælpelig med at løse det i samfundets interesse, for
+historien, men søreme også for fremtiden, så vi har et stykke levende, kulturhistorisk materiale, vi kan overlade til eftertiden.";Kim Andersen
+58513;Time;"Formanden:
+Kulturministeren.";Kl. 13:55
+58553;Time;"Kulturministeren (Uffe Elbæk):
+Da jeg blev bekendt med fregatten »Jyllands« økonomiske udfordringer og problemer, snakkede jeg som sagt også med bestyrelsen.
+Jeg har også spurgt ind til, om der overhovedet kan være andre måder at organisere fregatten »Jyllands« arbejde på.
+Kan man forestille sig et samarbejde med relevante parter, det
+kan så være museer eller andre former for organisationer, så man på
+en eller anden måde på den ene side sænker aktivitetsniveauet i en
+kortere periode, håber jeg, sådan at man er klar til, når økonomien
+bliver bedre, at finde en mere stabil og bæredygtig platform for fregatten »Jylland«?
+Det håber jeg faktisk for fregatten »Jylland«. For det er et smukt
+skib, det er et vigtigt skib, og det er et historisk skib. Men det kan
+godt være, at der er en periode nu, hvor man fremadrettet må sænke
+aktivitetsniveauet ganske alvorligt. Og så håber jeg på, at man kommer ud af den økonomiske situation, man er i nu, og finder en mere
+bæredygtig platform.";Kl. 13:55
+59550;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til kulturministeren.
+Jeg skal her udsætte mødet i 3 minutter og genoptage mødet kl.
+14.00 med det næste punkt på dagsordenen, som er besvarelse af
+oversendte spørgsmål til ministrene.
+Mødet er udsat. (Kl. 13:56).
+
+Onsdag den 7. november 2012 (S 271)
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 13:56
+59955;Time;"Formanden:
+Mødet er genoptaget.
+Det første spørgsmål er til erhvervs- og vækstministeren fra Jacob Jensen.";Kl. 14:00
+60073;Time;"Spm. nr. S 271
+1) Til erhvervs- og vækstministeren af:";Kl. 14:00
+60146;name_party;":
+Hvordan mener ministeren, at regeringsprogrammet skal »udfordres«, sådan som ministeren udtalte under formandsvalgkampen i
+SF?
+Formanden:
+Hr. Jacob Jensen, værsgo.";Jacob Jensen
+60321;Time;;Kl. 14:00
+60339;name_party;":
+Tak. Som proceduren foreskriver, starter jeg med at læse spørgsmålet op:
+Hvordan mener ministeren, at regeringsprogrammet skal »udfordres«, sådan som ministeren udtalte under formandsvalgkampen i
+SF?";Jacob Jensen
+60550;Time;"Formanden:
+Ministeren. Virker mikrofonen ikke? Jeg tror, at det er, fordi det er
+transportministeren, der er tændt for. Jeg ved ikke, hvem der hører
+budskabet her. Nu er der kommet en. Nu er det den forkerte igen.
+Det er meget kedeligt. Det er den ved siden af, der skal tændes. Nu
+er den der.
+
+På det sociale område arbejder vi med en definition af fattigdom.
+Vi tager initiativ til en lang række forbedringer her. Vi har afskaffet
+fattigdomsydelserne. Vi har arbejdet med at forhindre overgreb på
+børn, sikre et bedre tilsyn på opholdssteder, og på sundhedsområdet
+med diagnosegaranti og også en udredningsgaranti for psykisk sygdom.
+Sådan kunne jeg blive ved, og derfor er jeg glad for at have lejlighed til her at kunne komme med nogle af de gode ting, der er. Jeg
+glæder mig over at være med til at føre regeringsgrundlagets mange
+gode planer ud i livet.";Kl. 14:00
+61421;Time;"Formanden:
+Hr. Jacob Jensen.";Kl. 14:03
+61461;Time;;Kl. 14:03
+61479;name_party;":
+Tak for svaret. Jeg er da enig i, at der er ting i det regeringsprogram,
+som er lagt frem, som vi også kan være med til at arbejde med. Derfor indgår vi også en stribe aftaler på forskellige områder. Men mit
+spørgsmål gik sådan set ikke så meget på, hvad der står i regeringsprogrammet, for det går jeg ligesom ud fra er det, man arbejder ud
+fra. Men når der nu kommer en udtalelse om, at SF's formand og nuværende erhvervs- og vækstminister ønsker at udfordre regeringsprogrammet – og jeg har også forstået, at man fra SF's side stadig
+bakker op om regeringsprogrammet – så må der vel ligge det i det, at
+der er noget i regeringsprogrammet, ministeren ønsker at lave om.
+Og der er min interesse egentlig, hvor vi så skal stille os.
+Jeg er enig med ministeren i, at der er mange ting i regeringsprogrammet, der kan udfordres og også gerne laves om. Det ville jeg
+også gerne, hvis jeg havde mulighed for det. Men det er sådan set
+ministeren, der har sagt, at hun gerne vil udfordre regeringsprogrammet, så mit spørgsmål går i retning af, hvad det så er for nogle områder, ministeren ser skal udfordres og eventuelt ændres.";Jacob Jensen
+62612;Time;;Kl. 14:04
+62623;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Så prøver jeg igen.
+Tusind tak for spørgsmålet. Det giver mig også god anledning til
+at fortælle om, at jeg faktisk synes, at vi har et rigtig godt og visionært regeringsgrundlag, og vi har allerede i regeringen lavet en masse god politik, og vi har selvfølgelig taget udgangspunkt i regeringsgrundlaget.
+Vi skal fortsætte arbejdet med at leve op til regeringens ambitiøse
+plan på uddannelsesområdet. Jeg nævner lige de områder, hvor jeg
+synes der er sket rigtig mange gode, spændende ting. Vi har haft fat i
+uddannelsesområdet i forhold til studerende på de videregående uddannelser. Vi satser på erhvervsuddannelsesområdet med en reel uddannelsesgaranti. Vi går i gang med en stor reform af folkeskolen,
+som sikrer lige muligheder for alle. Vi vil meget gerne skaffe varige
+job, og det, vi arbejder på, er i 2013 at skaffe 21.000 nye job.
+På mit eget område som erhvervsminister arbejder vi med en ny
+erhvervspolitik, som skaber bedre rammevilkår for virksomheder, og
+så forsøger vi at udbygge nye vækstmarkeder, bl.a. inden for Det Blå
+Danmark, hele miljø- og energiområdet, de kreative erhverv, velfærdsteknologien osv. Jeg glæder mig til at føre vores erhvervspolitik ud i livet, bl.a. på basis af de forslag, som jeg har fra vores vækstteam.
+Så er der hele det grønne område, klimaplan for Danmark, energiaftale, ny ressourcestrategi, og vi arbejder med naturplan på grundlag af det arbejde, som Natur- og Landbrugskommissionen også er i
+fuld gang med. Vi skal have omlagt bilafgifterne, og der er rigtig
+mange initiativer.
+
+11
+
+Formanden:
+Ministeren.";Kl. 14:01
+64243;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Så er jeg selvfølgelig glad for at få lejlighed til at svare på det også.
+Det, som vi rigtig gerne vil, er jo også at sende nogle signaler med
+vores regeringsprogram. Det er ikke sådan et eviggyldigt fundamentalistisk manifest; det er ikke det, vi har udarbejdet. Jeg skal ikke
+kunne sige, om man under tidligere regeringer har arbejdet sådan
+manifestagtigt. Det skal jeg lade andre svare på.
+Men sagen er jo, at der hele tiden dukker nye udfordringer op.
+Der vil hele tiden ske det, at der bliver tænkt nye tanker; der er løsninger, der ikke længere nødvendigvis er de bedste løsninger; der er
+problematikker, der dukker op, og som vi ikke nødvendigvis kunne
+have været opmærksomme på ville være der, og det, der jo er vores
+opgave som regering, er hele tiden at være meget opmærksom på,
+hvad det er, vi skal løse og være med til at sætte fokus på som regeringsbærende.
+Man kan jo sammenligne regeringsgrundlaget med en aftale, som
+er en aftale mellem tre parter, og det er vores aftaler, som vi skal videreudvikle, hvis alle parter er enige om det. Det er det, der giver
+mulighed for, at vi kan identificere nye udfordringer, og det er det,
+jeg mener med at udfordre regeringsgrundlaget.";Kl. 14:04
+65495;Time;"Formanden:
+Hr. Jacob Jensen.
+
+12
+
+Onsdag den 7. november 2012 (S 323)";Kl. 14:05
+65578;Time;;Kl. 14:05
+65596;name_party;":
+Men nu hørte jeg, at ministeren ikke mener, det er et manifest, og det
+kan der selvfølgelig være mange gode grunde til at det ikke skal være. Jeg har også forståelse for, at hvis der kommer nye udfordringer,
+skal man selvfølgelig også som regering være parat til at håndtere de
+nye udfordringer. Man kan jo ikke vide alt, heller ikke, hvad der
+måtte ske ude i fremtiden. Så det har jeg forståelse for.
+Men når ministeren så samtidig siger, at man ikke skal holde det
+op som et værn mod forandringer og selvstændige tanker og nye ideer, er der så nogle ting i regeringsprogrammet, når regeringsprogrammet skal udfordres – for det må jo være det bestående regeringsprogram, der så skal udfordres – som ministeren mener netop er
+en hindring for de nye tanker og de nye ideer? Sådan må man jo forstå den udtalelse, som ministeren selv er kommet med. For hvordan
+skal det ellers fortolkes, når ministeren mener, at det bestående regeringsprogram skal udfordres? Jeg er med på, at sker der nye ting,
+kommer der nye udfordringer, så skal man også finde nye løsninger
+på det. Men jeg må også antage, at det regeringsprogram, der ligger
+nu, er det svar, som regeringen har på de udfordringer, som vi kan
+se, og som skal håndteres i den kommende tid. Så hvor er det præcis,
+det skal udfordres, hvis det står til ministeren?";Jacob Jensen
+66921;Time;"Formanden:
+Ministeren.";Kl. 14:06
+66955;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Det er fantastisk spændende både at have et godt regeringsgrundlag
+og at have muligheden for at tage det op og kigge på det, folde det
+mere ud. Og to helt centrale steder, som vi arbejder på i regeringen,
+og som jeg selvfølgelig også nu er glad for at jeg kan være med på,
+er hele miljø- og energiområdet og den grønne omstilling, som vi jo
+hver dag bliver klogere på og får mulighed for at tage nye initiativer
+til. Det er den ene del af det. Den anden del er en dagsorden omkring
+lighed og hele vores måde at agere på i forhold til det offentlige, til
+vores velfærd. Det er nogle af de områder, som jeg er sikker på at vi
+vil kunne udvikle mere og folde mere ud. Samfundet står med en
+masse udfordringer. Det er det, vi tager fat på som regering. Det er
+også det, vi er med til at udfolde, og som vi så fremlægger her, forhåbentlig med den bredest mulige tilslutning, der kan komme til det.
+Så specifikt omkring det grønne, omkring det offentlige, det sociale og lighedsspørgsmålet – det er der, jeg meget gerne vil være med
+til at sætte en dagsorden.";Kl. 14:06
+68071;Time;"det, fordi der sker nogle nye ting i vores dagligdag, som gør, at det
+regeringsprogram, vi har i dag, ikke er godt nok. Jeg kan vel ikke
+forstå det på ret mange andre måder end på den måde, at ministeren
+ikke er tilfreds med det regeringsprogram, der ligger, og at det ikke i
+tilstrækkelig grad giver løsningerne på de udfordringer, som ministeren ser der er bl.a. på miljøområdet og på velfærdsområdet. Hvordan
+skal jeg ellers forstå, at ministeren ønsker at udfordre et eksisterende
+regeringsgrundlag?";Kl. 14:07
+68586;Time;"Formanden:
+Ministeren.";Kl. 14:08
+68620;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Det skal forstås sådan, at jeg ligesom resten af regeringen tager hele
+vores opgave med at være i regering meget alvorligt. Derfor følger
+vi hele tiden den udvikling, der er i samfundet, og derfor tager vi
+hele tiden løsninger op, som kan være svar på de problematikker, der
+er. Jeg blev spurgt om, hvor det konkret skulle være, at vi kunne tage
+fat, og det er f.eks. omkring hele den grønne dagsorden, miljødagsordenen, og så er det også omkring lighedsdagsordenen. Det er der,
+vi vil arbejde.
+Jeg tror aldrig, at man som politiker vil opleve, at man vågner en
+morgen og siger: Jeg er helt tilfreds, nu venter vi bare på, at tiden
+går, mens vi er i regering. Så min ambition er ligesom resten af regeringens, at vi hver dag står op og tænker, at der er rigtig store opgaver, vi skal tage fat på. Og det er det, vi gør. Vi har et rigtig godt
+regeringsgrundlag, og det er det, vi hele tiden arbejder for at opfylde,
+så det også svarer på de udfordringer, der er i samfundet.";Kl. 14:08
+69656;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til erhvervs- og vækstministeren er også af
+hr. Jacob Jensen.";Kl. 14:09
+69784;Time;"Spm. nr. S 323
+2) Til erhvervs- og vækstministeren af:";Kl. 14:09
+69857;name_party;":
+Mener ministeren, at det vil gavne danske virksomheders muligheder for at rekruttere medarbejdere og dermed virksomhedernes konkurrenceevne, hvis der bliver indført en konjunkturafhængig dagpengeperiode?
+Formanden:
+Værsgo.";Jacob Jensen
+70091;Time;"Formanden:
+Sidste replik fra hr. Jacob Jensen.";Kl. 14:09
+70149;Time;;Kl. 14:07
+70167;name_party;":
+At ministeren gerne vil sætte en dagsorden, er der også forståelse
+for, og jeg forstår, at det så skal være på miljøområdet som et af områderne og på velfærdsområdet, som er sådan et relativt bredt område, kan man sige. Kan jeg så forstå det som værende et udtryk for, at
+ministeren ikke mener, at det nuværende regeringsprogram faktisk
+giver de løsninger på de udfordringer, som vi kender? For hvis det er
+tilfældet, ville det da være dejligt at høre lidt om, hvad ministeren så
+mener der skal laves om i regeringsprogrammet. For det er sådan,
+jeg hører ministeren.
+Jeg kan næsten ikke tolke det på anden måde, end at ministeren
+siger, at regeringsprogrammet skal udfordres, skal foldes mere ud,
+men det skal udfordres bl.a. på miljøområdet, bl.a. på velfærdsområ-";Jacob Jensen
+70952;name_party;":
+Tak for det.
+Mener ministeren, at det vil gavne danske virksomheders muligheder for at rekruttere medarbejdere og dermed virksomhedernes
+konkurrenceevne, hvis der bliver indført en konjunkturafhængig
+dagpengeperiode?";Jacob Jensen
+71180;Time;"Formanden:
+Ministeren.";Kl. 14:10
+71214;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Tak for ordet igen. Det er jo rart at kunne mødes her og få diskuteret
+nogle af de væsentlige sager. Jeg er meget optaget af, at de ledige
+beholder tilknytningen til arbejdsmarkedet. Jeg er også optaget af,
+
+Onsdag den 7. november 2012 (S 323)
+
+specielt i den nuværende ledighedssituation, at det kan ske. Det er,
+hvad regeringen har lagt vægt på med akutpakken og med akutjobaftalen. Så er jeg også meget optaget af virksomhedernes konkurrenceevne og af, at virksomhederne har den nødvendige arbejdskraft til
+rådighed. Det er jo det, som de her initiativer har lagt op til.
+Det, der er med akutpakken, er, at de ledige hurtigere kommer til
+samtaler. De ledige har ret til ekstraordinær hjælp og støtte, hvilket
+hjælper de ledige til at finde job. Akutpakken og aftalen om akutjob
+er også til gavn for virksomhederne, og Arbejdsmarkedskommissionen og senest Det Økonomiske Råds formandskab har netop anbefalet, at det specielt er vigtigt at hjælpe de ledige under en lavkonjunktur. Det er det, vores satsning har gjort, nemlig simpelt hen med akutpakken og aftalen om akutjob at tage hånd om den akutte situation,
+som vi står i, og så er det også med til at hjælpe virksomhederne.";Kl. 14:10
+72458;Time;"Formanden:
+Hr. Jacob Jensen.";Kl. 14:11
+72498;Time;;Kl. 14:11
+72516;name_party;":
+Jeg synes ikke rigtig, at jeg fik et svar på det konkrete spørgsmål,
+nemlig hvordan ministeren forholder sig til det, som hun selv har
+kaldt et interessant forslag, i forbindelse med at bl.a. vismændene
+fremførte det, altså at man skulle lave en dagpengeperiode, som er
+afhængig af de konjunkturer, som vi har. Det har ministeren vist også ved tidligere lejligheder været ude at ytre ønske om eller i hvert
+fald haft positive holdninger til. Det er sådan set det, mit spørgsmål
+går på. Akutpakken kan være en ting. Man kan så have nogle holdninger til, om den virker. Men hvad angår at lave en konjunkturafhængig dagpengeperiode, er det dog trods alt et konkret forslag, som
+bl.a. vismændene har fremført, og som også ministeren selv i den
+forbindelse har sagt var interessant. Hvori er det, at det er interessant
+at lave en konjunkturafhængig dagpengeperiode, kan jeg så spørge
+ministeren?";Jacob Jensen
+73418;Time;"Formanden:
+Ministeren.";Kl. 14:12
+73452;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Vi tager udgangspunkt i den situation, vi har lige nu, og der er det
+helt nødvendigt at samle kræfterne om at få finansloven og de forskellige tiltag, vi har gennemført, på plads, så vi kan hjælpe dem,
+som risikerer at falde ud af dagpengesystemet. De skal hjælpes, og
+det skal falde på plads.
+Regeringens position, hvad angår dagpengereglerne, fremgår jo
+også af regeringsgrundlaget. Men hvis der på et tidspunkt kommer
+en bred debat om emnet, synes jeg, at vi skal hilse den velkommen.
+Vismændene kom jo ikke med en fiks og færdig løsning. Og så er
+det interessant, at vismændene anbefaler en konjunkturafhængig
+dagpengeperiode, ligesom Arbejdsmarkedskommissionen tidligere
+har gjort. De har argumenter, som jeg synes det er værd at lytte til,
+og i debatten kunne vi jo bl.a. drøfte, hvornår man har en højkonjunktur, hvornår man har en lavkonjunktur, og hvor kort og lang
+dagpengeperioden skal være i de to tilfælde. Og det, der er, er, at
+djævelen sidder lige præcis i detaljen.";Kl. 14:12
+74497;Time;"Formanden:
+Hr. Jacob Jensen.
+
+13";Kl. 14:13
+74542;Time;;Kl. 14:13
+74560;name_party;":
+Det svar er jeg glad for at høre, altså at ministeren – og respekt for
+det – står på mål for den holdning, som hun har givet udtryk for,
+nemlig at det kunne være interessant at indføre en konjunkturafhængig dagpengeperiode. Sådan hørte jeg i hvert fald ministerens svar,
+ellers må hun jo korrekse mig i sin anden runde her om et øjeblik.
+Og Arbejdsmarkedskommissionen og vismændene har her i sidste
+omgang været på banen med de her forslag, som så også har været
+støttet af ministeren, som har kaldt dem interessante.
+Men skal jeg så forstå det på den måde, at det er tanker, regeringen sådan set arbejder med, altså at man vil indføre en konjunkturbestemt dagpengeperiode, ikke nødvendigvis i dag eller i morgen, men
+på et tidspunkt, hvor man finder det opportunt? For hvordan skal jeg
+ellers tolke det, når ministeren siger, at det kunne være interessant,
+og at der også er nogle ideer omkring det netop at hjælpe, når man er
+i lavkonjunktur, og måske gøre mindre, når man er i højkonjunktur.
+Så skal jeg forstå det sådan, at regeringen faktisk tænker i de retninger, at en konjunkturafhængig dagpengeperiode kunne være en mulig fremtidig løsning?";Jacob Jensen
+75721;Time;"Formanden:
+Ministeren.";Kl. 14:14
+75755;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Først og fremmest er vi som regering lige nu optaget af, at vi tager
+hånd om problemet, og det er, at der simpelt hen er ledige, som risikerer at falde ud af dagpengesystemet her fra den 1. januar. Der er jo
+også nogle, der falder ud allerede nu. Derfor har vi lagt rigtig mange
+kræfter i vores akutpakke og i akutjobaftalen, som reelt går ind og
+hjælper de ledige og også virksomhederne. Så regeringens position
+på dagpengeområdet fremgår som sagt igen af regeringsgrundlaget.
+Lige nu er det nødvendigt at samle kræfterne om finansloven og få
+den på plads, altså de initiativer, der ligger der. Det er initiativer, vi
+vil have gennemført for at hjælpe dem, der risikerer at falde ud af
+dagpengesystemet, og det skal helt på plads. Og jeg har sagt, at jeg
+synes, det er interessant, og at det er et vigtigt indspark, som er kommet i forhold til konjunkturbestemte dagpenge, men det er ikke noget, vi har med, hverken i de forhandlinger, der ligger nu, eller inden
+for den nærmeste tidshorisont. Jeg synes, det er interessante at tage
+det med på sigt i en videre debat.";Kl. 14:14
+76886;Time;"Formanden:
+Hr. Jacob Jensen for den sidste replik.";Kl. 14:15
+76948;Time;;Kl. 14:15
+76966;name_party;":
+Jeg vil gerne kvittere for ministerens klare besvarelser her i Folketingssalen. Det skal man altid rose hinanden for. For der lå jo i det,
+at det var interessant, ergo var det noget, som ministeren synes kunne være en mulighed på et tidspunkt. Hun siger så, at det ikke nødvendigvis er noget, der kommer lige her i den kommende tid, men at
+det er noget, der skal med i den videre debat. Så jeg kvitterer for, at
+hun har stået på mål for det, hun tidligere har sagt.
+Men det er dog ikke så interessant og vigtigt et forslag, at det er
+noget, som regeringen vil arbejde for her i den kommende tid. Sådan
+må jeg forstå svaret.";Jacob Jensen
+77601;Time;"Formanden:
+Ministeren.
+
+14
+
+Onsdag den 7. november 2012 (S 370)";Kl. 14:16
+77678;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Det er helt rigtig forstået. Jeg må også kvittere for, at et svar bliver
+forstået rigtigt. Det, der er rigtig vigtigt, er ikke at skabe usikkerhed
+om det regeringsgrundlag, der er, og ikke at skabe usikkerhed om de
+initiativer, der er taget. Det vigtige er at få akutpakken til at fungere
+til gavn for dem, der falder ud af dagpengesystemet, og få akutjobaftalen til at blive implementeret og fungere godt. Og så mener jeg
+faktisk, at det er vigtigt, at vi som politikere på sigt hele tiden er lydhøre over for de argumenter, der kommer.
+Regeringsgrundlaget er jo det, der holder i den her regeringsperiode. Jeg håber, den bliver rigtig lang. Og så bliver der jo regeringsperioder efter den her periode, og så er det, at man må diskutere nye
+initiativer. Men det her er inden for regeringsgrundlaget, og det står
+jeg også på mål for.";Kl. 14:16
+78574;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til erhvervs- og vækstministeren er fra hr.
+Hans Kristian Skibby.";Kl. 14:16
+78706;Time;"Spm. nr. S 370
+3) Til erhvervs- og vækstministeren af:";Kl. 14:17
+78788;name_party;":
+Vil ministeren kommentere, hvorvidt ministeren anser det som rimeligt, at regeringens parlamentariske grundlag, Enhedslisten, gentagne
+gange ikke deltager i lovbehandlingen af lovforslag på ministerens
+område?
+Formanden:
+Værsgo.";Hans Kristian Skibby
+79028;Time;;Kl. 14:17
+79055;name_party;":
+Tak, hr. formand.
+Vil ministeren kommentere, hvorvidt ministeren anser det som rimeligt, at regeringens parlamentariske grundlag, Enhedslisten, gentagne gange ikke deltager i lovbehandlingen af lovforslag på ministerens område?";Hans Kristian Skibby
+79294;Time;"Formanden:
+Ministeren.";Kl. 14:17
+79328;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Tak for ordet. Jeg vil lige her benytte lejligheden til at sige, at jeg
+har et meget fint samarbejde med Enhedslisten, og jeg er ikke i tvivl
+om, at de har et meget vågent øje på regeringens arbejde. Hvad angår Enhedslistens deltagelse i lovbehandling her i Folketingssalen, er
+jeg faktisk helt overbevist om, at Enhedslisten godt selv kan administrere det. Hvis hr. Hans Kristian Skibby er uenig i det, vil jeg anbefale, at hr. Hans Kristian Skibby rejser dette over for Enhedslisten
+eller over for Folketingets formand eller Præsidiet.";Kl. 14:17
+79928;Time;"Formanden:
+Hr. Hans Kristian Skibby";Kl. 14:18
+79975;Time;;Kl. 14:18
+80002;name_party;":
+Jo, men vi kan såmænd også gøre det til en større diskussion om, om
+vi skal involvere andre parter i det her, men jeg synes, det har en
+
+grundlæggende betydning for en nyudnævnt erhvervsminister, at
+man også her i Folketingssalen har den åbne dialog her, hvor der er
+kamera på, her hvor meningerne brydes. Og der er det jo altså erhvervsministeren, som har ansvaret for, at de lovforslag, som ligger
+på ministerens område, også bliver behandlet og debatteret på en
+god og forsvarlig måde. Det bliver de egentlig også – af dem, der er
+her!
+Men der er et grundlæggende problem, og jeg kan tage et eksempel: Den 25. oktober havde vi tre af ministerens lovforslag til behandling, L 26, L 27 og L 28, nogle meget vigtige og rimelig omfangsrige lovforslag, men ingen af de tre lovforslag fik vi nogen som
+helst kommentarer fra Enhedslisten til. Det giver jo alle andre nogle
+store bekymringer. Jeg er erhvervsordfører, det er det område, jeg
+kender meget til, men det kræver da som minimum, at man ved,
+hvad de andre partier tror og tænker, og der er det altså sådan, at partierne har parlamentet her til at fremsætte deres bekymringer, deres
+glæder og frustrationer, ligesom vi andre gør. Jeg kan simpelt hen
+ikke forstå, at man ikke også fra ministerens side har gjort sig nogle
+overvejelser om, om ikke man synes, det er – for at sige det ligeud –
+rigtig træls, at man har et regeringsbærende parti, som demonstrativt
+bliver væk fra behandlingen af de lovforslag, som den nyudnævnte
+minister jo har ansvaret for.";Hans Kristian Skibby
+81523;Time;"Formanden:
+Ministeren.";Kl. 14:19
+81557;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Jeg vil da takke for hr. Hans Kristian Skibbys bekymring for, om
+Enhedslistens argumenter og synspunkter bliver hørt. Jeg er ikke i
+tvivl om, at jeg har hørt dem, og at jeg godt ved, hvor de står i de her
+vigtige sager. Som sagt mener jeg altså, at vi trygt kan overlade Enhedslistens arbejde og tilrettelæggelse af dette til dem selv, for det
+tror jeg de gør ganske udmærket. Hvis jeg er i tvivl, spørger jeg, og
+skulle hr. Hans Kristian Skibby være utilfreds med det, vil jeg anbefale, at hr. Hans Kristian Skibby selv henvender sig direkte til Enhedslisten.";Kl. 14:19
+82180;Time;"Formanden:
+Hr. Hans Kristian Skibby.";Kl. 14:20
+82228;Time;;Kl. 14:20
+82255;name_party;":
+Nu må erhvervs- og vækstministeren jo endelig ikke misforstå mig.
+Jeg kan udmærket undvære Enhedslisten her i Folketinget. For min
+skyld kunne de sådan set blive helt væk. Det tror jeg ikke at der er
+ret mange der er i tvivl om. Dansk Folkeparti har ikke meget tilfælles med Enhedslisten – i hvert fald ikke med deres erhvervspolitik.
+Det skulle jeg hilse og sige.
+Men jeg kan give et andet eksempel. Den 1. november lovbehandlede vi L 41 og L 40 – det er også erhvervs- og vækstministerens område – og der var heller ikke nogen repræsentant for Enhedslisten her i Folketingssalen. Så kan ministeren selvfølgelig godt sige,
+at hun ikke er så bekymret, for hun spørger dem bare, hvis der er noget, men en ting er jo at spørge om noget på et lukket ministerkontor, noget andet er jo tage diskussionen og dialogen her, hvor vi faktisk burde tage de her diskussioner. Det er altså her, der er åbenhed
+om tingene, og det er også her, at tingene bliver ført til protokols.
+Derfor synes jeg, at ministeren skulle reflektere lidt mere over det
+her med, om man bare skal acceptere, at partier demonstrativt bliver
+væk fra meget vigtige forhandlinger her i Folketingssalen.
+
+Onsdag den 7. november 2012 (S 372)";Hans Kristian Skibby
+83469;Time;;Kl. 14:22
+83480;Time;"Formanden:
+Ministeren.";Kl. 14:21
+83514;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Nu er det med fare for, at jeg gentager mig selv. Jeg synes, at Enhedslisten tilrettelægger det arbejde, de står for, på den måde, som
+de synes at det skal være. Hvis hr. Hans Kristian Skibby har indvendinger mod det, vil jeg anbefale, at det bliver rejst over for Folketingets formand eller Præsidiet. Jeg har ikke grundlag for at gøre det.
+Jeg reflekterer det, jeg skal, og det, jeg har behov for. Og så kan man
+jo sige, at så er der så meget mere tid og plads til hr. Hans Kristian
+Skibby, når vi mødes her. Så jeg må bede om, at spørgsmålet bliver
+rejst dér, hvor det er relevant. Jeg har ikke yderligere kommentarer
+til det.";Kl. 14:21
+84206;Time;"15
+
+Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Igen tak for ordet. Hvad angår Enhedslistens deltagelse i lovbehandlingen her i Folketingssalen, føler jeg mig overbevist om, at Enhedslisten fint selv administrerer det.
+Så bliver der spurgt om, hvad jeg vil gøre for at sikre deltagelse i
+lovarbejdet. Til det kan jeg svare, at jeg sammen med resten af regeringen vil fortsætte med vores ambitiøse arbejde for at skabe vækst
+og arbejdspladser i Danmark. Det er der meget behov for, efter at der
+i 10 år har været faldende konkurrenceevne – vi kan jo så en anden
+gang diskutere, hvorfor det mon har været sådan. Jeg er overbevist
+om, at det ambitiøse arbejde, vi laver på området, er noget, der vil
+tiltrække sig opmærksomhed, og jeg håber også på opbakning fra
+store dele af Folketingssalen.";Kl. 14:21
+85015;Time;"Formanden:
+Hr. Hans Kristian Skibby.
+
+Formanden:
+Hr. Hans Kristian Skibby for det sidste spørgsmål.";Kl. 14:23
+85127;Time;;Kl. 14:23
+85137;Time;;Kl. 14:21
+85164;name_party;":
+Jeg synes jo faktisk, at det er her i Folketingssalen, at det er meget
+relevant. Og det er meget relevant for en erhvervs- og vækstminister
+at tage en åben dialog med alle Folketings partier. Derfor kan jeg
+kun undre mig såre over, at ministeren synes, at det er helt i orden.
+Sådan tolker jeg det. Det er op til Enhedslisten selv. Det er det, ministeren siger. Pyt med, at de ikke deltager i lovbehandlingen af L 26,
+L 27, L 28, og pyt med L 40 og L 41. Det synes vi ikke er en rimelig
+måde at håndtere tingene på.";Hans Kristian Skibby
+85691;Time;"Formanden:
+Jeg forstod, at ministeren ikke havde yderligere kommentarer.";Kl. 14:22
+85775;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Jeg har ikke yderligere kommentarer.";Kl. 14:22
+85874;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål er også af hr. Hans Kristian Skibby til erhvervs- og vækstministeren.";Kl. 14:22
+86010;Time;"Spm. nr. S 372
+4) Til erhvervs- og vækstministeren af:";Kl. 14:22
+86092;name_party;":
+Vil ministeren gøre tiltag til at sikre, at Enhedslisten fremadrettet begynder at deltage i lovbehandling af lovforslag på erhvervsområdet?";Hans Kristian Skibby
+86260;name_party;":
+Jo, men opbakning kan ministeren jo altså få til mange ting her i Folketingssalen, men det kræver da, og det er også derfor, jeg stiller de
+her spørgsmål, at partierne er til stede. Det kan godt være, at ministeren har et godt samarbejde med Enhedslisten, og at der foregår
+nogle ting, når man forhandler i en flertalsgruppe, men vi, som er en
+del af mindretallet, har bare svært ved at vide, hvor vi har de partier
+henne, når de ikke engang gider at ulejlige sig med at have en ordfører på nogle meget betydningsfulde lovforslag.
+Jeg nævnte tidligere, at da L 26, L 27 og L 28, alle tre forslag inden for erhvervsministerens område, blev behandlet her i Folketinget
+den 25. oktober, var der ingen kommentarer fra Enhedslisten. Den 1.
+november havde vi L 40 og L 41 til behandling her i Folketinget, og
+der var ingen tilbagemeldinger fra Enhedslisten. Derfor er det, at jeg
+så netop har spurgt, om ikke ministeren kan se, at det er dybt problematisk, at et regeringsbærende parti, altså et parti, som støtter regeringen, bliver fuldstændig væk fra lovbehandlingen.
+Nu spørger jeg så ministeren, om man vil gøre nogle tiltag til at
+sikre partiets deltagelse. Jeg kan selvfølgelig håbe på, at man på de
+lukkede dialogmøder, som ministeren har, trods alt vil sige til dem,
+at man altså gerne ser, at de deltager i lovarbejdet her i Folketinget.
+Der er vel en grund til, at partierne fører valgkamp om at vinde mandater i Folketinget, og det er vel for at få taleret og høringsret her i
+Folketinget, men man kvitterer så bare fra Enhedslistens side med at
+blive væk.
+Det er det, jeg synes der er dybt frustrerende, og jeg håber selvfølgelig også, at ministeren vil, måske ikke ligefrem indrømme, men
+i hvert fald tage det til sig som en logisk problemstilling, at man har
+gjort sig så afhængig af et parti, som ikke engang gider at debattere i
+Folketinget.";Hans Kristian Skibby
+88124;Time;"Formanden:
+Ministeren.
+
+Formanden:
+Værsgo.";Kl. 14:25
+88178;Time;;Kl. 14:22
+88189;Time;;Kl. 14:25
+88216;name_party;":
+Tak, hr. formand. Vil ministeren gøre tiltag til at sikre, at Enhedslisten fremadrettet begynder at deltage i lovbehandlingen af lovforslag
+på erhvervsområdet?
+
+Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Jamen det er ikke sådan, at jeg tænker, at det er noget, jeg skal tage
+til mig. Som sagt mener jeg faktisk, at vi bør overlade Enhedslistens
+arbejde til Enhedslisten selv, og skulle hr. Hans Kristian Skibby være uenig i dette, vil jeg bede spørgeren om at henvende sig direkte til
+Enhedslisten.";Hans Kristian Skibby
+88735;Time;"Formanden:
+Ministeren.
+
+16
+
+Onsdag den 7. november 2012 (S 355)
+
+Det, jeg er optaget af, og som jeg dybest set mener vi bør være
+mest optaget af her i salen, er at få skabt interesse om en meget ambitiøs plan om at få skabt vækst og varige arbejdspladser.
+Der bliver spurgt til, hvad jeg vil gøre, og mit svar er, at det, jeg
+vil gøre, er at fortsætte med at gøre det, jeg har gjort, nemlig at fremsætte nogle rigtig gode og vækstskabende lovforslag, og på den måde gøre det ekstra interessant at deltage i folketingsarbejdet her.";Kl. 14:22
+89278;Time;"Formanden:
+Hr. Hans Kristian Skibby.";Kl. 14:26
+89326;Time;;Kl. 14:26
+89353;name_party;":
+Nu har jeg jo haft sæde her i Folketinget siden februar 2005 og har
+altså været med i nogle år, og jeg har oplevet Enhedslisten, mens de
+havde 4 og 6 mandater. De har altså haft meget få medlemmer af
+Folketinget, nu har de 12. Dengang de havde fru Line Barfod som
+ordfører, vil jeg altså have lov til at sige, missede de aldrig chancen
+for at gå ned i Folketingssalen og meddele partiets politik. Jeg tror
+faktisk ikke, jeg rigtig kan huske, at de har været fraværende, dengang de havde betydelig færre mandater. Nu har de fået næsten tre
+gange så mange mandater og begynder så at blive væk.
+Altså der, hvor jeg kommer fra, hedder det jo at pjække, når man
+bliver væk fra sit arbejde, og jeg synes egentlig, det her tangerer
+pjæk. Nu vil ministeren så ikke decideret gøre nogen tiltag for at
+synliggøre over for Enhedslisten, at det er urimeligt, at de ikke deltager i lovarbejdet, men så vil jeg bare gerne have ministeren til for
+god ordens skyld at bekræfte, at ministeren åbenbart mener, at det er
+helt legitimt at blive væk fra Folketingets arbejde.";Hans Kristian Skibby
+90419;Time;"Formanden:
+Ministeren.";Kl. 14:27
+90453;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Nu lyder det simpelt hen som en gentagelse. Jeg mener fortsat, at det
+er Enhedslisten, der tilrettelægger Enhedslistens arbejde, og det vil
+jeg sådan set ikke stå her og udtale mig om.
+Det, der er vigtigt, og det, jeg så kan bruge lejligheden til nu, er
+jo at gøre opmærksom på det store arbejde, der gøres fra regeringens
+side med hensyn til at få sikret vækst og beskæftigelse her i Danmark. Jeg tror faktisk, det er det, der ligger danskerne allermest på
+sinde, og det, som de er allermest optaget af at høre om fra salen, er
+nemlig, hvordan vi handler for at få skabt arbejdspladser.
+Så det arbejde håber jeg at der vil være opbakning til fra en bred
+kreds i Folketinget.";Kl. 14:27
+91191;Time;"Formanden:
+Der er mulighed for en replik fra hr. Hans Kristian Skibbys side,
+men jeg kan ikke tilbageholde en bemærkning om, at det også er
+muligt at afstå.";Kl. 14:27
+91359;Time;;Kl. 14:27
+91386;name_party;":
+Ja, men så kan jeg berolige formanden med, at jeg bestemt ikke har
+tænkt mig at være tilbageholdende med mine udfordringer og mit
+ordvalg. Jeg vil til gengæld stille et spørgsmål, som ministeren kan
+svare ret præcist på, nemlig med enten ja eller nej. Jeg vil sådan set
+bare gerne spørge ministeren, om ministeren mener, at det er god
+skik, at et parti bliver væk fra førstebehandlingen her i Folketinget af
+fem erhvervslovforslag. Ja eller nej?";Hans Kristian Skibby
+91844;Time;"Formanden:
+Ministeren.";Kl. 14:28
+91878;Time;"Erhvervs- og vækstministeren (Annette Vilhelmsen):
+Nu er det heldigvis ministeren og dermed mig, som selv bestemmer,
+hvordan jeg svarer på præcist stillede spørgsmål, og jeg vil sige, at
+jeg vil overlade til Enhedslisten at planlægge deres arbejde, som de
+finder det bedst, og at jeg bruger min tid som minister på det her område til at få skabt varige arbejdspladser og gode vækstvilkår for
+danske virksomheder. Det svarede jeg ja til, og det er det, vi arbejder
+på hver dag.";Kl. 14:28
+92366;Time;"Formanden:
+Tak til erhvervs- og vækstministeren. Spørgsmålet er sluttet.
+Det næste spørgsmål er stillet til justitsministeren af fru Merete
+Dea Larsen.";Kl. 14:28
+92529;Time;"Spm. nr. S 355
+5) Til justitsministeren af:";Kl. 14:28
+92597;name_party;":
+Hvordan forholder ministeren sig til, at man kan idømmes flere betingede udvisninger uden at blive udvist, og at der således afsiges
+betingede domme uden reel konsekvens?
+
+Skriftlig begrundelse
+Spørgsmålet stilles bl.a. på baggrund af artiklen »Betinget udvist for
+anden gang« i Dagbladet Roskilde torsdag den 25. oktober 2012,
+hvoraf det fremgår, at en voldsdømt indvandrer slap for ubetinget
+udvisning, selv om han allerede var betinget udvist.
+Formanden:
+Værsgo.";Merete Dea Larsen
+93074;Time;;Kl. 14:29
+93098;name_party;":
+Hvordan forholder ministeren sig til, at man kan idømmes flere betingede udvisninger uden at blive udvist, og at der således afsiges
+betingede domme uden reel konsekvens?";Merete Dea Larsen
+93280;Time;"Formanden:
+Ministeren.";Kl. 14:29
+93314;Time;;Kl. 14:29
+93350;title_name;":
+Tak for det, formand. Jeg kan som justitsminister ikke kommentere
+den konkrete sag, som der henvises til i begrundelsen for spørgsmålet, nærmere. Men jeg vil gerne starte med at slå fast, at det er regeringens linje, at udvisningsreglerne skal være stramme, og at kriminelle udlændinge som udgangspunkt skal udvises. Udvisningsreglerne er derfor også udformet sådan, at udlændinge, som begår kriminalitet, der giver mulighed for udvisning, skal udvises, medmindre det
+vil være i strid med Danmarks internationale forpligtelser. Domstolene foretager en afvejning af kriminalitetens grovhed over for udlændingens forhold for at vurdere, om udvisning vil være i strid med
+Danmarks internationale forpligtelser. I den forbindelse vurderer
+domstolene særligt udlændingens tilknytning til Danmark.
+Når den afvejning, som domstolene foretager, fører til, at der ikke kan ske udvisning af udlændingen, fordi det vil være i strid med
+
+Onsdag den 7. november 2012 (S 371)
+
+Danmarks internationale forpligtelser, skal den pågældende udvises
+betinget med en prøvetid på 2 år. En betinget udvisning er et tydeligt
+signal om, at begået kriminalitet i sig selv giver anledning til udvisning.
+Samtidig er en betinget udvisning en klar advarsel til den kriminelle om, hvad konsekvenserne af næste skridt på den kriminelle løbebane vil være. Det er sådan, at hvis en udlænding, der er betinget
+udvist, begår ny kriminalitet inden for prøvetiden, ja, så skal det vurderes, om udvisningen fortsat vil være i strid med Danmarks internationale forpligtelser, eller om sagen har ændret sig, så den betingede
+udvisning nu kan udløses.
+Hvis den nye kriminalitet f.eks. er så grov, at afvejningen fører
+til, at udvisning ikke længere vil stride mod de internationale forpligtelser, så skal der ske udvisning, men der skal også ske udvisning, hvis den nye kriminalitet sammenholdt med den tidligere begåede kriminalitet efter en samlet afvejning fører til, at udvisningen
+ikke vil stride mod de internationale forpligtelser.
+Så populært sagt kan vægtskålen altså tippe, så de begåede kriminelle forhold samlet set nu vejer tungere end de forhold, der tidligere
+har betydet, at udvisningen i en sag ikke kunne ske inden for rammerne af Danmarks internationale forpligtelser.
+
+17
+
+riets side; det blev vedtaget her i Folketingssalen. Det var jo netop
+nogle stramninger, der dengang blev lavet med henblik på alle de her
+gråzonesager. Man strammede op og sagde, at såfremt der er en gråzonesag, så skal domstolene udfordre de forskellige forpligtelser, vi
+har.
+Den lempelse, man så har lavet, har fjernet den her sætning igen,
+dvs. domstolene ikke længere er forpligtet til at udfordre de forskellige forpligtelser. Mener justitsministeren, at denne lempelse ikke
+har nogen indflydelse på de domme, der i dag bliver afsagt?";Morten Bødskov
+96156;Time;;Kl. 14:33
+96188;title_name;":
+Justitsministeren.";Bent Bøgsted
+96218;Time;;Kl. 14:33
+96254;title_name;":
+Der er ikke ændret på den stramme linje i udvisningssagerne. Den er
+fortsat den samme, og det betyder, at personer, der kunne udvises før
+ændringerne, også vil blive udvist i dag. Det er sådan set meget enkelt, og derfor er det meget klart. Altså personer, der kunne udvises
+før ændringen, vil også kunne udvises i dag. Sådan er det.";Morten Bødskov
+96599;Time;;Kl. 14:34
+96610;Time;;Kl. 14:31
+96642;title_name;":
+Fru Merete Dea Larsen.";Bent Bøgsted
+96698;title_name;":
+Fru Merete Dea Larsen.";Bent Bøgsted
+96733;Time;;Kl. 14:34
+96744;Time;;Kl. 14:31
+96768;name_party;":
+Det var en lang omgang. Så er spørgsmålet, om jeg kan huske alle
+detaljerne her. I bund og grund: Hvad er justitsministerens holdning
+til en betinget udvisning? Jeg tror, den helt almindelige dansker har
+den samme opfattelse som undertegnede, nemlig at det, når man får
+en betinget dom, er for at give et signal om, at hvis den dømte inden
+for en periode igen begår kriminalitet, så kender man allerede konsekvensen deraf. Det er nu engang sådan, jeg mener det må forholde
+sig, nemlig at man derved kender konsekvensen, og det vil så også
+sige, at bliver man dømt igen, vil jeg mene, at så burde det jo blive
+lavet om til en ubetinget dom og dermed en udvisning. Men justitsministeren kunne måske oplyse, hvor mange betingede domme der
+skal til, før det automatisk bør medføre en ubetinget dom.";Merete Dea Larsen
+97574;Time;;Kl. 14:32
+97606;title_name;":
+Justitsministeren.";Bent Bøgsted
+97636;Time;;Kl. 14:32
+97672;title_name;":
+Reglerne er, som jeg her har oplyst. Der er regler om betinget udvisning, og der er redegjort for, hvordan det forholder sig med dem. Det
+er domstolene, der træffer den afvejning, og sådan håber jeg også at
+Dansk Folkeparti trods alt er enig i at det skal være, og den afvejning
+kan jo så f.eks. føre til, at der ikke kan ske udvisning af en udlænding, fordi det er i strid med Danmarks internationale forpligtelser.
+Fører den til, at det ikke er i strid med det, ja, så skal man udvises.
+Det er det, der er regelgrundlaget for udvisning af kriminelle udlændinge i Danmark.";Morten Bødskov
+98257;Time;;Kl. 14:33
+98289;title_name;":
+For Merete Dea Larsen.";Bent Bøgsted
+98323;Time;;Kl. 14:33
+98347;name_party;":
+I juni 2011 blev der vedtaget en række stramninger, som man allerede her i juni i år så har lavet om og lempet på igen fra Justitsministe-";Merete Dea Larsen
+98511;name_party;":
+Men er det ikke korrekt forstået, at der er fjernet en sætning, ifølge
+hvilken domstolene før juli måned i år var forpligtet til at udfordre
+de forpligtelser, vi har? Er det ikke korrekt, at man har fjernet den
+sætning?";Merete Dea Larsen
+98742;Time;;Kl. 14:34
+98774;title_name;":
+Justitsministeren.";Bent Bøgsted
+98804;Time;;Kl. 14:34
+98840;title_name;":
+Det, regeringen har gjort, er, at man har skabt klarhed, således at det
+er understreget, at det er domstolene, der træffer afgørelsen om,
+hvorvidt en person skal udvises eller ej, og det, der er understreget i
+bemærkningerne til lovforslaget, er meget, meget klart, nemlig at
+personer, der kunne udvises før ændringen, også vil kunne udvises
+efter ændringen. Det er sådan set meget klart, og det behøver man
+ikke at skabe polemik om. Man kan starte med at læse, hvad der står
+i lovforslaget, så vil man kunne se, at det står der.";Morten Bødskov
+99381;Time;;Kl. 14:34
+99413;title_name;":
+Tak til fru Merete Dea Larsen. Det var slut på spørgsmål 5.
+Det næste spørgsmål er stillet til justitsministeren, og det er stillet
+af hr. Peter Skaarup, Dansk Folkeparti.";Bent Bøgsted
+99596;Time;"Spm. nr. S 371
+6) Til justitsministeren af:";Kl. 14:35
+99660;name_party;":
+Hvad er ministerens holdning til vold og overfald mod politifolk, og
+er der brug for nye initiativer på området?";Peter Skaarup
+99805;title_name;":
+Værsgo.
+
+18
+
+Onsdag den 7. november 2012 (S 371)";Bent Bøgsted
+99867;Time;;Kl. 14:35
+99887;name_party;":
+Tak for det. Spørgsmålet lyder sådan her:
+Hvad er ministerens holdning til vold mod og overfald på politifolk, og er der er brug for nye initiativer på området?";Peter Skaarup
+100059;Time;;Kl. 14:35
+100091;title_name;":
+Justitsministeren.";Bent Bøgsted
+100121;Time;;Kl. 14:35
+100157;title_name;":
+Tak for det, formand. Der kan ikke være nogen tvivl om, at vold og
+overfald, men også trusler mod politifolk, er meget alvorlige forbrydelser, som bør straffes både hårdt og kontant.
+Det er naturligvis også derfor, den relevante bestemmelse i straffeloven, altså den, der hedder straffelovens § 119, indeholder en særlig forhøjet strafferamme, som giver mulighed for at straffe sådanne
+forbrydelser med op til 8 års fængsel.
+Straffen for overtrædelse af § 119 er som bekendt blevet skærpet
+en række gange over de senere år. I 2004 blev strafferammen i § 119
+hævet fra 6 til 8 års fængsel. Det blev samtidig fremhævet i forarbejder til loven, at det forudsættes, at straffene gennemgående skulle
+forhøjes med en tredjedel i forhold til det, der hidtil var udmålt af
+domstolene.
+Siden er der i 2009 gennemført to skærpelser af bestemmelsen i §
+119, stk. 3, som bl.a. vedrører personer, der modsætter sig anholdelse eller lægger hindringer i vejen for politiets og andre myndigheders arbejde.
+Så kan jeg i øvrigt henvise til, at der også i forbindelse med politiuddannelsen er stor fokus på, hvordan man i øvrigt undgår vold og
+overfald i tjenesten. I politikredsene er man desuden meget opmærksomme på gennem den generelle tilrettelæggelse af arbejdet i videst
+muligt omfang at undgå vold og trusler mod de ansatte.
+Det er altså således min opfattelse, at der allerede i dag er stor fokus på sager om vold og overfald mod politiet, og at den type overtrædelser generelt bliver taget meget alvorligt.";Morten Bødskov
+101666;Time;"Esbjerg Politiforening sendte så i foråret 2012 Retsudvalget en liste over forskellige episoder, som efter deres opfattelse straffes meget, meget blidt af vores retssystem, hvis de overhovedet bliver straffet. Det er altså lige fra 7 dages fængsel og op til en enkelt dom på 2
+år, der også indeholdt vold ifølge § 245. Men der er mange domme
+på 20, 30 eller 60 dages fængsel for trusler mod politifolk.
+På den baggrund vil jeg godt spørge justitsministeren: Er det rimeligt, at straffen for trusler og vold mod polititjenestemænd udløser
+så små straffe? Hvad er ministerens holdning til det? Mener ministeren ikke, at der er brug for at stramme op, så vi kommer de her politifolk til undsætning? Det er politifolk, der virkelig er i knibe, fordi
+de ikke kan udføre deres arbejde på grund af de trusler, de udsættes
+for.";Kl. 14:36
+102497;Time;;Kl. 14:39
+102529;title_name;":
+Justitsministeren.";Bent Bøgsted
+102559;Time;;Kl. 14:39
+102595;title_name;":
+Der er to ting at sige til det. For det første skal der ikke være nogen
+tvivl om, at vold og overfald – men jo også bare trusler – mod politifolk, som vi hører om her, er meget alvorligt. Det skal forfølges og
+straffes hårdt og kontant. Jeg har ingen mulighed for at kommentere
+de konkrete eksempler, som hr. Peter Skaarup står her og nævner.
+Det er min holdning til, hvordan det skal foregå.
+For det andet vil jeg sige, at det er klart, at der i visse byer har
+været problemer – kan man roligt sige – med rockere og bandemedlemmers færden i gadebilledet, og den omtalte by er et eksempel.
+Det er jo også derfor, at vi – i øvrigt sammen med Dansk Folkeparti
+– har lavet en ny taskforce i Vestdanmark, som jo bl.a. har til formål
+at sikre, at der bliver sat stærkere ind over for rockere og bandemedlemmers hærgen og kriminelle handlinger i hele Vestdanmark. Det
+indbefatter også Esbjerg, og jeg ved, at politiet er meget fokuseret på
+den indsats, så det skal selvfølgelig også ses i den sammenhæng.";Morten Bødskov
+103605;Time;;Kl. 14:40
+103637;title_name;":
+Hr. Peter Skaarup.";Bent Bøgsted
+103667;Time;;Kl. 14:40
+103699;title_name;":
+Hr. Peter Skaarup.";Bent Bøgsted
+103729;Time;;Kl. 14:36
+103749;name_party;":
+Spørgsmålet er jo stillet på baggrund af en række episoder, hvor politifolk på deres arbejde er blevet antastet – også korporligt – af borgere, der på forskellige måder har været utilfredse med politifolks
+indgriben i forskellige sager.
+Vi har et konkret eksempel fra nogle episoder i Esbjerg, hvor polititjenestemænd er blevet truet af rockere. Rockerkrigen i Esbjerg
+har i nogen tid været et problem, og i et af de her tilfælde, som er
+blevet forelagt os i Retsudvalget, blev en rocker fremstillet i et
+grundlovsforhør, men løsladt af dommeren, da den forventede straf
+for et af de her overfald ikke ville overstige 60 dage.
+I et andet tilfælde blev rockeren sigtet for trusler om vold mod
+polititjenestemænd jævnfør straffelovens § 119, men blev end ikke
+forsøgt fremstillet i et grundlovsforhør, da han stod til samme straf
+eller mindre.
+Efter de her trusler blev polititjenestemanden udstyret med en
+alarmtelefon, som blev anbragt på et hotel, hvor vedkommende opholdt sig med familien weekenden over, og i en periode havde han
+ikke patruljetjeneste af hensyn til sin egen sikkerhed i den pågældende periode.";Peter Skaarup
+104884;name_party;":
+Jeg synes jo, at vi som politikere er nødt til at yde meget stor opbakning til de politifolk, der mange gange arbejder på meget lidt misundelsesværdige vilkår, når de kommer i kontakt med de her meget negative personer, der sådan set bare er med i bandemiljøet for at tjene
+penge og er villige til at gøre hvad som helst for at tjene penge.
+Når man så står ansigt til ansigt med de her meget ubehagelige
+typer, som tilmed retter trusler mod en selv og familien, så er det jo
+meget nedslående at være på en arbejdsplads, hvor der ikke bliver
+grebet ind over for det.
+Når vi så tilmed har en forhøjet straf for overfald eller trusler
+mod tjenestemænd i funktion, så rystes der nogle steder hos politistyrken på hovedet over de her forhold, og det burde man egentlig
+også gøre i det danske samfund.
+Derfor kunne jeg godt tænke mig at høre, om ministeren kunne
+svare på, om det ikke ville være fornuftigt, at vi netop kiggede på de
+domme, som bl.a. Esbjerg Politiforening har fremsendt til Retsudvalget, og at ministeren kom med et udspil, så vi kommer de politifolk til undsætning i stedet for ikke at gøre noget.";Peter Skaarup
+106006;Time;;Kl. 14:41
+106038;title_name;":
+Justitsministeren.
+
+Onsdag den 7. november 2012 (S 373)";Bent Bøgsted
+106107;Time;;Kl. 14:41
+106143;title_name;":
+Altså, hver dag gør politiet en kæmpe indsats over for rocker- og
+bandemiljøet, og der skal ikke herske nogen som helst tvivl om, at
+hvis der er nogle af dem, som bliver udsat for vold, overfald og trusler, så er det selvfølgelig sager, der skal tages alvorligt. Det ser jeg
+som en naturlig forlængelse af den forstærkede indsats, som regeringen fra dag et har sat i værk over for det uvæsen, som rockergrupperinger rent faktisk er.";Morten Bødskov
+106587;Time;"19
+
+Hvad er ministerens holdning til politiansattes ytringsfrihed, og er
+ministeren enig med spørgeren i, at man som offentligt ansat kan
+ytre sig frit i et demokratisk samfund?";Kl. 14:41
+106797;title_name;":
+Værsgo.";Bent Bøgsted
+106816;Time;;Kl. 14:43
+106836;name_party;":
+Spørgsmålet lyder sådan her: Hvad er ministerens holdning til politiansattes ytringsfrihed, og er ministeren enig med spørgeren i, at man
+som offentligt ansat kan ytre sig frit i et demokratisk samfund?";Peter Skaarup
+107072;title_name;":
+Hr. Peter Skaarup.";Bent Bøgsted
+107103;Time;;Kl. 14:44
+107113;Time;;Kl. 14:41
+107133;name_party;":
+Det lyder meget fint, at ministeren siger, at vi selvfølgelig skal tage
+trusler og vold alvorligt, og at vi skal gøre, hvad vi kan for at imødegå bandeproblematikken, uanset hvor det er henne. Men det hjælper
+selvfølgelig ikke så meget, hvis ministeren ikke vil følge det op med
+konkrete initiativer.
+Jeg nævnte lige før, og jeg kan nævne det igen, at nogle af de
+domme, vi bliver præsenteret for i forbindelse med trusler, altså
+handler om 7 dages fængsel, at det handler om meget korte straffe
+for alvorlige trusler mod politiet. Det er sågar trusler af en karakter,
+så man må udstyre politifolk med alarmtelefoner for at undgå den situation, at de bliver truet, og at deres familier bliver truet. Kan ministeren ikke godt se, at det ikke er holdbart, at vi bare siger, at der gøres et stort stykke arbejde, når realiteten er, at de straffe, der gives, er
+nogle, der ikke er nogen, der har respekt for? For der er ikke ret
+mange rockere, der har respekt for en straf på 7 dages fængsel, hvis
+det er det eneste, de risikerer for alvorlige trusler mod en politibetjent.";Peter Skaarup
+108214;Time;;Kl. 14:42
+108246;title_name;":
+Justitsministeren.";Bent Bøgsted
+108298;title_name;":
+Justitsministeren.";Bent Bøgsted
+108328;Time;;Kl. 14:44
+108364;title_name;":
+Tak for spørgsmålet. Det er jo et spørgsmål, der er stillet i en meget
+generel form, og jeg vil derfor også tillade mig at svare i samme generelle form. Jeg vil starte med at slå fast, at offentligt ansatte har en
+vidtgående adgang til at ytre sig. Og det er vigtigt, at offentligt ansatte benytter sig af ytringsfriheden, så offentligt ansatte kan bidrage
+til den offentlige debat. Det gælder naturligvis også for ansatte i politiet.
+Den vidtgående ytringsfrihed, offentligt ansatte har, er dog begrænset på enkelte punkter. Offentligt ansatte må eksempelvis ikke
+fremsætte æreskrænkende udtalelser eller videregive åbenlyst urigtige oplysninger om arbejdspladsen, ligesom de ikke må videregive
+tavshedsbelagte oplysninger. Tavshedsbelagte oplysninger kan eksempelvis være oplysninger om enkeltpersoners private forhold eller
+om politimæssige efterforskninger.
+De nærmere principper for det, jeg har stået og sagt her om offentligt ansattes ytringsfrihed, er bl.a. beskrevet i den pjece, der hedder »God adfærd i det offentlige«, som den daværende personalestyrelse, KL og Danske Regioner sammen udgav i 2007.";Morten Bødskov
+109486;Time;;Kl. 14:45
+109497;Time;;Kl. 14:42
+109533;title_name;":
+Tak for det, formand. Som jeg nu har sagt et par gange, er det desværre ikke muligt for mig at kommentere de konkrete sager, som
+hr. Peter Skaarup har bragt med her i dag og står og læser op af.
+Jeg kan sige, at vold og trusler mod og overfald af tjenestemænd
+og særligt, som vi diskuterer her, mod polititjenestemænd er meget
+alvorligt, og det skal der selvfølgelig tages hånd om. Jeg tager hver
+eneste dag hatten af for det store arbejde, som dansk politi gør og jo
+særlig dem, der er i forreste række i kampen mod den organiserede
+kriminalitet, herunder også rockerbandekriminaliteten. De fortjener
+et klap på skulderen, og derfor fortjener de selvfølgelig også, at de
+her sager bliver taget meget alvorligt. Det ligger helt fint i forlængelse af den indsats, som regeringen fra dag et har sat i værk, som handler om, at vi skal det her rockeruvæsen til livs.";Morten Bødskov
+110407;Time;;Kl. 14:43
+110439;title_name;":
+Det var slut på spørgsmål 6.
+Spørgsmål 7 er ligeledes stillet til justitsministeren af hr. Peter
+Skaarup, Dansk Folkeparti.";Bent Bøgsted
+110574;Time;"Spm. nr. S 373
+7) Til justitsministeren af:";Kl. 14:43
+110638;name_party;:;Peter Skaarup
+110671;title_name;":
+Hr. Peter Skaarup.";Bent Bøgsted
+110701;Time;;Kl. 14:45
+110721;name_party;":
+Spørgsmålet er jo ikke stillet uden grund. Det er jo stillet, fordi jeg –
+og jeg tror også andre politikere, jeg er i hvert fald bekendt med, at
+der er andre politikere, der har fået samme henvendelse – får at vide
+af polititjenestemænd, at de føler sig truet på deres ytringsfrihed i det
+daglige i den her tid. Det er jo for mig at se meget uheldigt, fordi
+man som offentligt ansat, som ministeren også er inde på, har en udbredt grad af ytringsfrihed.
+Det er klart, at man jo ikke inden for de regler, der nu er i en
+virksomhed og selvfølgelig også inden for politiet, kan ytre sig på
+hele politiets vegne i konkrete sager, hvis ikke der er belæg for det,
+og hvis man ikke er den, der skal gøre det, men man kan ytre sig på
+egne vegne. F.eks. det, der hedder Facebook, er jo et sted, hvor stort
+set alle kan ytre sig hele tiden, og det kan polititjenestemænd også
+gøre. Facebook er jo sådan et medie, hvor man kan komme med små
+og store hverdagsoplevelser, og politifolk kan selvfølgelig også have
+et behov for at skrive ting på Facebook, de har oplevet, uden på den
+måde at udtale sig på hele politiets vegne.
+Jeg er altså som sagt blevet kontaktet af polititjenestemænd, der
+har været til såkaldte bekymringssamtaler med ledelsen rundtomkring – det er ikke bare et sted i landet, det er flere steder i landet –
+fordi de har ytret sig offentligt på Facebook. Der er jo ikke noget
+
+20
+
+Onsdag den 7. november 2012 (S 373)
+
+galt i, at en politimand skriver noget på Facebook, og for mig at se er
+det uheldigt, hvis man så får at vide, at hvis man gør det en anden
+gang, bliver man i øvrigt fyret eller forflyttet eller truet i det hele taget på ens levebrød.
+Så jeg kunne godt tænke mig at høre justitsministeren, om ministeren vil være med til at udforme nogle retningslinjer, som gør, at
+polititjenestemændene er beskyttet i forbindelse med de ytringer, de
+måtte komme med på egne vegne i det offentlige rum, og jeg understreger på egne vegne. Jeg synes, at det er vigtigt, at vi giver den
+ytringsfrihed, som lovgivningen faktisk giver mulighed for, også til
+politifolk.";Peter Skaarup
+112807;Time;;Kl. 14:47
+112839;title_name;":
+Justitsministeren.";Bent Bøgsted
+112869;Time;;Kl. 14:47
+112905;title_name;":
+Jeg vil sige et par ting til det, som jeg forstod som et spørgsmål.
+Punkt 1: Jeg kender ikke til de konkrete sager, som hr. Peter Skaarup
+bringer med her igen, så dem har jeg ikke nogen mulighed for at svare på. Punkt 2: Retningslinjer for offentligt ansattes ytringsfrihed.
+Som jeg sagde, ligger der et ganske udmærket værk, nemlig »God
+adfærd i det offentlige«, som den daværende personalestyrelse,
+Kommunernes Landsforening og Danske Regioner udgav i 2007, og
+så er der inden for de rammer ganske gode muligheder for at finde
+ud af, hvordan man skal gebærde sig, når det handler om ytringsfrihed, når man er offentligt ansat.";Morten Bødskov
+113545;Time;;Kl. 14:48
+113577;title_name;":
+Hr. Peter Skaarup.";Bent Bøgsted
+113607;Time;;Kl. 14:48
+113627;name_party;":
+Jamen det er jo, som ministeren siger, fuldstændig rigtigt, at der findes nogle sætninger, som handler om ytringsfrihed, som er meget
+gode, men der hjælper det selvfølgelig ikke ret meget, hvis det er, at
+de ikke bliver overholdt, ligesom det, når det gælder grundloven,
+heller ikke hjælper ret meget, hvis det er, at politikerne, selv om
+grundloven tager hånd om nogle ting og den har nogle gode sætninger, ikke overholder den. Og der vil jeg da spørge justitsministeren,
+om justitsministeren ikke er enig i, at det selvfølgelig skal være sådan, at man kun kan tage det seriøst, i forhold til hvad det er for nogle retningslinjer og nogle regler, der er, hvis det er, at de bliver overholdt, og at det, hvis det er, at de ikke bliver overholdt, så må være
+sådan, at der er nogen, der beskytter de pågældende mod de brud,
+der er i forbindelse med denne manglende overholdelse.
+Der er det så jeg vil spørge justitsministeren om noget. Når det
+nu er sådan, at vi ved – og hvis ministeren ikke er blevet gjort bekendt med det direkte, skal jeg sørge for, at det sker via Folketingets
+Retsudvalg – at der er politifolk, der på grund af de meget omfattende effektiviseringer, der i øjeblikket sker, og der kan nogle af dem jo
+være fornuftige nok, i ytringsfrihedens navn tillader sig at kritisere
+de pågældende ting, f.eks. i form af en bisætning på en facebookprofil, og de får at vide, at de vil miste deres job, eller at de vil blive
+forflyttet, kan ministeren så ikke synes, at der er behov for, at ministeren her som folkevalgt går ind og sikrer, at disse mennesker kan
+ytre sig frit, i stedet for at man sådan set går ind og sætter det blå
+stempel i forhold til, at de nogle steder fra ledelsens side er meget
+hårdhændede, og at der trues med bål og brand over for de ansatte
+inden for politiet?";Peter Skaarup
+115436;Time;;Kl. 14:49
+115468;title_name;":
+Justitsministeren.";Bent Bøgsted
+115498;Time;;Kl. 14:49
+115534;title_name;":
+Jeg kender som sagt ikke noget til de konkrete eksempler, som hr.
+Peter Skaarup står og fremfører her. Jeg er ikke helt sikker på, at jeg
+helt forstod, hvor det var hr. Peter Skaarup ville hen. Hvis det er sådan, at det er hr. Peter Skaarups grundlæggende synspunkt, at regler
+er noget, der er til for at blive overholdt, så må jeg sige, at jeg er helt
+enig. Og derfor synes jeg sådan set også, at jeg, hvad angår rammerne for de offentligt ansattes ytringsfrihed, må sige, at det er meget
+klart med hensyn til, hvordan det er. De nærmere principper for det
+er som sagt beskrevet i denne pjece, »God adfærd i det offentlige«,
+som jeg har nævnt et par gange. Og den synes jeg da man skulle prøve at finde og kigge i, hvis man er i tvivl. Jeg har ikke selv kigget på
+den, men jeg kan forestille mig, at det er et ganske udmærket værktøj, hvis det er, at man har et spørgsmål.";Morten Bødskov
+116419;Time;;Kl. 14:50
+116451;title_name;":
+Hr. Peter Skaarup.";Bent Bøgsted
+116481;Time;;Kl. 14:50
+116501;name_party;":
+Jamen jeg synes jo, at det, som jeg nævnte før, er glimrende, at justitsministeren her henviser til nogle pjecer, til nogle regler og til
+nogle svar i Folketinget osv. osv., men hvis det forholder sig sådan,
+at det, der er i de pjecer og i de regler, altså med hensyn til beskyttelsen af de ansatte, ikke er noget, der rent faktisk er til stede i det daglige, så er der jo et problem. Og når ministeren siger, at det er noget,
+som han ikke har kendskab til, så vil jeg sådan set bare sige til ministeren, at han jo kan se i det blad, der hedder Dansk Politi, altså politifolkenes blad, og der kunne læse, at der er mange eksempler på, at
+den er gal. Politiforbundets formand siger, at det særligt er i forhold
+til en hårdt presset mellemledergruppe, at der er behov for at råbe
+vagt i gevær.
+Så der er et problem her, og det er så noget, der bliver illustreret
+med politiansatte, der har plaster og lynlås for munden. Jeg ved ikke,
+om ministeren læser politifolkenes blad, men hvis han ikke gør, vil
+jeg sige, at det måske var en god idé, at han startede med at gøre det.
+Jeg vil igen spørge: Vil ministeren rykke ud med en ambulancevirksomhed i forhold til de personer, der bliver truet på deres levebrød, fordi de tillader sig, fordi de formaster sig til det, at ytre sig og
+komme med deres private mening?";Peter Skaarup
+117821;Time;;Kl. 14:51
+117853;title_name;":
+Justitsministeren.";Bent Bøgsted
+117883;Time;;Kl. 14:51
+117919;title_name;":
+Jeg synes, at de regler, der er i forhold til de offentligt ansattes
+ytringsfrihed, er nogle regler, der er ganske fornuftige. Og har man
+behov for at finde ud af, hvilke principper det er, de bygger på, ja, så
+kan man prøve at kigge i den her pjece, nemlig den, der hedder
+»God adfærd i det offentlige«, og så er man helt bestemt kommet et
+godt stykke af vejen. Er det så sådan, at man i den konkrete ansættelsessituation har behov for yderligere viden, ja, så vil jeg tro – uden
+at jeg skal kunne sige, at jeg ved det – at der dér er tale om, at der
+som en del af den naturlige ledelse også er nogle ledelsesdispositioner, som gælder i et samarbejde med medarbejderne, og som handler
+
+Onsdag den 7. november 2012 (S 332)
+
+om, hvordan man har det på sin arbejdsplads. Sådan er det på alle
+arbejdspladser, og det vil jeg selvfølgelig også tro gælder her.
+Men det er klart, at der på enkelte punkter er nogle begrænsninger, særlig når det gælder de offentligt ansattes ytringsfrihed. Man
+må altså eksempelvis ikke fremsætte nogen æreskrænkende udtalelser eller videregive oplysninger om arbejdspladsen, der er åbenlyst
+urigtige, ligesom man som sagt heller ikke må videregive tavshedsbelagte oplysninger.
+Men derudover skal der være vide rammer for de offentligt ansattes ytringsfrihed, for vi har selvfølgelig også behov for, at de offentligt ansatte kan være med til at præge den offentlige debat om dette
+og hint.";Morten Bødskov
+119347;Time;;Kl. 14:52
+119379;title_name;":
+Det var slut på spørgsmål nr. 7, tak til justitsministeren, og tak til hr.
+Peter Skaarup.
+Det næste spørgsmål er stillet til transportministeren af hr. Mikkel Dencker, Dansk Folkeparti.";Bent Bøgsted
+119576;Time;"Spm. nr. S 332
+8) Til transportministeren af:";Kl. 14:53
+119643;name_party;":
+Hvad er ministerens holdning til, at den planlagte jernbanetunnel
+gennem Hvidovre, som anlægges som en del af den nye jernbane
+mellem København og Ringsted, forventes at blive en hel del kortere
+end oprindeligt planlagt?";Mikkel Dencker
+119896;title_name;":
+Værsgo.
+
+21";Bent Bøgsted
+119920;Time;;Kl. 14:54
+119952;title_name;":
+Hr. Mikkel Dencker.";Bent Bøgsted
+119983;Time;;Kl. 14:54
+120004;name_party;":
+Det er jo rene ord for pengene, må man sige, for ministeren siger det
+direkte, som det er. Det var også det, som var min mistanke eller
+frygt i den her sag, altså at den her tunnel er begyndt at krympe, så
+man kan spare nogle penge på det her. I Dansk Folkeparti ligger det
+os stærkt på sinde, at vi får de her tunneller, både på strækningen
+gennem Valby, men også igennem Hvidovre, netop fordi det er de
+allermest tæt befolkede områder, som den nye jernbanelinje passerer
+igennem. Derfor er det selvfølgelig vigtigt for os, at vi har fået indkapslet den støj, som de her tog vil udsende, mest muligt af hensyn
+til de borgere, som allerede bor der og kommer til at bo langs med
+det sted, hvor linjeføringen kommer, og altså bliver naboer til en
+jernbanelinje. For at give så lidt støj som overhovedet muligt har det
+været vigtigt for Dansk Folkeparti, at vi har kunnet indkapsle det
+mest muligt ved at få tunnel på så lang en del af strækningen som
+muligt, og så synes vi ikke, det er rimeligt, at man begynder at fifle
+med tunnellængden her, altså at den lige pludselig er krøbet 40 meter
+i detailprojekteringen for at spare nogle penge. Det kan da godt være, man siger, at det holder sig inden for Miljøstyrelsens grænseværdier for støj, men mon ikke 40 m kortere tunnel giver mere støj for
+dem, som kommer til at bo der, og som kommer til at opleve det?
+Så synes ministeren ikke, at man svigter de beboere, som er blevet stillet tunneller i udsigt, ved at man begynder at skære i tunnellængderne for at spare nogle penge?";Mikkel Dencker
+121540;Time;;Kl. 14:56
+121551;Time;;Kl. 14:53
+121572;name_party;":
+Tak. Hvad er ministerens holdning til, at den planlagte jernbanetunnel gennem Hvidovre, som anlægges som en del af den nye jernbane
+mellem København og Ringsted, forventes at blive en hel del kortere
+end oprindelig planlagt?";Mikkel Dencker
+121808;Time;;Kl. 14:53
+121840;title_name;":
+Transportministeren.";Bent Bøgsted
+121872;Time;"Transportministeren (Henrik Dam Kristensen):
+Banedanmark har siden 2010 detailprojekteret den nye bane København-Ringsted. I den forbindelse er linjeføringen som en helt normal
+arbejdsgang blevet optimeret på en lang række punkter. Før detailprojekteringen blev gennemført, var vurderingen, at tunnellen ville
+være knap 600 m lang, men ved detailprojekteringen er tunnellen
+projekteret til at være 560 m lang. Banedanmark har konsekvent vurderet støjudbredelsen ved denne længde af tunnellen, og den foreløbige vurdering viser, at banestøjen vil holde sig inden for Miljøstyrelsens vejledende grænseværdier. Der er endvidere kommet en større afstand mellem tunnellen i Valby under Kulbanevej og tunnellen i
+Hvidovre under Vigerslev Allé, og den større afstand mellem tunnellerne har i sig selv en positiv jernbanemæssig sikkerhedsbetydning,
+og derfor behøver man ikke så mange ekstra sikkerhedstiltag i tunnellen, og det er så med til at spare penge.
+Min holdning til den ændrede udformning af jernbanetunnellen
+under Vigerslev Allé er, at Banedanmark synes at have fundet en
+fornuftig løsning i forbindelse med detailprojekteringen og tunnellen.";Kl. 14:53
+123052;title_name;":
+Transportministeren.";Bent Bøgsted
+123084;Time;"Transportministeren (Henrik Dam Kristensen):
+Jeg anerkender fuldt ud, at det at være medlem af Folketinget også
+handler om lokalpolitik, og det må jeg sige vi ser for fuld udblæsning her. At få det til at se ud, som om jeg og regeringen ikke bekymrer os om borgere i Hvidovre eller noget som helst andet sted, er
+helt urimeligt.
+Det må nu engang være sådan, at når man planlægger noget, så
+har man en fase, hvor man laver nogle forundersøgelser, og her har
+man så sagt, at man regnede med, at tunnellen skulle være 600 m. Så
+går Banedanmark i gang med at lave en ordentlig gennemgang af det
+her, og der ender tunnellen så med at blive 560 m. At det skulle være
+et forsøg på at genere borgere i Hvidovre mest muligt, som der nærmest bliver givet udtryk for, er ikke rigtigt. Det er en kombination
+af, at det var det fornuftige at gøre, også i forhold til jernbanesikkerheden, det lever op til de krav, der er i forhold til Miljøstyrelsen, og
+derfor synes jeg sådan set, at spørgeren og alle andre skulle være
+glade ved, at vi nu har fået lavet et projekt her, som er det bedst mulige i forhold til det, vi kan; vi får et nyt jernbaneprojekt, som er til
+gavn for alle parter, så jeg er sådan set godt tilfreds, og det tror jeg vi
+skulle være alle sammen.";Kl. 14:56
+124348;Time;;Kl. 14:57
+124380;title_name;":
+Hr. Mikkel Dencker.";Bent Bøgsted
+124411;Time;;Kl. 14:57
+124432;name_party;":
+Jeg må lige korrigere ministeren og sige, at jeg ikke tror, at regeringen har nogen bevidst prioritering af, at man vil genere nogle be-
+
+22
+
+Onsdag den 7. november 2012 (S 333)
+
+stemte borgere – bestemt ikke. Men vi kan bare konstatere, at der er
+et projekt, der bliver forringet for at spare nogle penge. Der er faktisk tale om et politisk forlig mellem mange af Folketingets partier
+om, at der skal være en tunnel på den her strækning. Så synes jeg
+ikke, det er rimeligt, at man begynder at forkorte tunnellens længde
+for at spare nogle penge. Jeg tror næppe, at man ville være gået den
+anden vej og have sagt: Jamen vi gør da bare tunnelen længere endnu; det koster godt nok nogle ekstra penge, men det er vi ligeglade
+med, vi gør den bare længere. Sådan går det jo aldrig i sådan nogle
+projekter. Men når det går den modsatte vej, bliver det åbenbart tolereret.
+Nu vil jeg så høre: Kan ministeren garantere, at tunnellen ikke
+bliver kortere end det, som allerede nu er på bordet? Nu taler vi om
+ca. 560 m, som ministeren har svaret mig tidligere, men kan man så
+garantere, at den ikke bliver kortere end det?";Mikkel Dencker
+125558;Time;"har. Den gør os meget klogere på en hel masse ting, men det er jo
+lige præcis i detailprojekteringen, at det på alle måder skal gå op i en
+højere enhed, og derfor er der med sådanne nogle store projekter altid en afvigelse her.
+Det er 40 m, vi taler om, og jeg lover hr. Mikkel Dencker, at det
+her ikke skyldes ondskab over for borgerne i Hvidovre, eller at der
+kan spares mange, mange millioner kroner. Det var, fordi det var den
+mest fornuftige måde at gøre det på, og det er det, Banedanmark synes jeg klart har dokumenteret. Men er der tekniske spørgsmål, svarer jeg selvfølgelig meget gerne på dem.";Kl. 14:58
+126173;Time;;Kl. 15:01
+126205;title_name;":
+Tak til hr. Mikkel Dencker. Det var slut på spørgsmål nr. 8.
+Det næste spørgsmål er stillet til transportministeren, og det er
+stillet af hr. Henning Hyllested fra Enhedslisten.";Bent Bøgsted
+126394;Time;;Kl. 15:01
+126426;title_name;":
+Transportministeren.";Bent Bøgsted
+126458;Time;"Transportministeren (Henrik Dam Kristensen):
+Jeg synes, det er lidt vanskeligt. Man har en forundersøgelse, og der
+regner man så med, at en tunnel vil være 600 m lang, og så viser det
+sig, når man kommer i gang med detailprojekteringen, at den bliver
+560 m. Altså, det er 40 m på en strækning på 600 m. Hvilke tekniske
+årsager der er til det, kan jeg ikke svare på her i dag, men det kan
+spørgeren selvfølgelig få oplyst ved at stille skriftlige spørgsmål om
+det. Men jeg er nu ret sikker på, at det ikke er et forsøg på at spare
+penge og så genere borgere. Når vi er nået frem til en løsning, som
+siger 560 m i stedet for præcis 600 m, så er det, fordi det, da Banedanmark detailprojekterede det her, var den fornuftige løsning set ud
+fra alle synspunkter.";Kl. 14:58
+127227;Time;;Kl. 14:59
+127259;title_name;":
+Hr. Mikkel Dencker.";Bent Bøgsted
+127290;Time;;Kl. 14:59
+127311;name_party;":
+Jeg skal ikke stå her og stille alt for tekniske spørgsmål, dem er jeg
+helt indforstået med at ministeren selvfølgelig ikke kan besvare på
+stående fod. Det må vi klare skriftligt. Men jeg synes da alligevel, at
+jeg må undre mig over, at man vælger at lave tunnellen kortere. Det
+kan der godt være nogle tekniske grunde til, men når det nu er blevet
+oplyst, at det var 600 m, og at det også var tegnet ind på de oprindelige tegninger, at den fik en længde på 600 m, så synes jeg, at det er
+underligt, at man begynder at forkorte den i stedet for bare at sige:
+Vi tager de 600 m, og så må vi klare det inden for den budgetramme,
+der er. For det er et så enormt projekt med et så enormt budget, at de
+her meter tunnel kunne der nok godt være fundet penge til, hvis man
+havde villet det.";Mikkel Dencker
+128106;Time;;Kl. 15:00
+128138;title_name;":
+Transportministeren.";Bent Bøgsted
+128170;Time;"Transportministeren (Henrik Dam Kristensen):
+Jeg må sige til hr. Mikkel Dencker, at hvis hr. Mikkel Dencker spørger sin transportordfører, hr. Kim Christiansen, om det er usædvanligt, at man har en forundersøgelse, og at der fra forundersøgelsen til
+detailprojekteringen er ting, der ændrer sig, så tror jeg, at hr. Kim
+Christiansen vil kunne give mig ret i, at det nærmest er helt naturligt,
+at det er sådan. For en forundersøgelse har jo den karakter, den nu
+
+Spm. nr. S 333
+9) Til transportministeren af:";Kl. 15:00
+128702;name_party;":
+Når det i svar på spørgsmål nr. S 1098 bl.a. hedder, at forringelser på
+ét punkt typisk er en forudsætning for forbedring på et andet, er ministeren så enig i, at dette ikke er en naturlov, og at det modsatte også kan forekomme og burde være det typiske, især i en moderne, offensiv trafikplanlægning, hvor investeringer i og billiggørelse af kollektiv trafik kan lette trængsel og nedsætte forbruget af bilkørsel til
+gavn for miljø og klima?";Henning Hyllested
+129177;title_name;":
+Værsgo.";Bent Bøgsted
+129196;Time;;Kl. 15:01
+129220;name_party;":
+Tak for det. Jeg læser op:
+Når det i svar på spørgsmål nr. S 1098 bl.a. hedder, at forringelser på ét punkt typisk er en forudsætning for forbedring på et andet,
+er ministeren så enig i, at dette ikke er en naturlov, og at det modsatte også kan forekomme og burde være det typiske, især i en moderne, offensiv trafikplanlægning, hvor investeringer i og billiggørelse
+af kollektiv trafik kan lette trængsel og nedsætte forbruget af bilkørsel til gavn for miljø og klima?";Henning Hyllested
+129701;Time;;Kl. 15:02
+129733;title_name;":
+Transportministeren.";Bent Bøgsted
+129765;Time;"Transportministeren (Henrik Dam Kristensen):
+Jeg må sige, at da jeg læste hr. Henning Hyllesteds spørgsmål, kunne
+jeg ikke undgå at trække lidt på smilebåndet. Det er sådan, at nok
+prøver jeg at følge med, men jeg var ikke lige præcis klar over, hvad
+spørgsmål S 1098 handlede om, men på den måde, spørgsmålet var
+formuleret, kunne jeg næsten gætte, at det havde noget med Fyn at
+gøre. Derfor må jeg sige til hr. Henning Hyllested, at den korte sætning, der er her, er taget en anelse ud af sammenhængen, men jeg
+kunne sådan set godt ønske mig, at det var sådan, at det altid gik op i
+en højere enhed.
+Det, som det her handler om, er selvfølgelig, at med hensyn til
+betjeningssteder, frekvenser, rejsetid kan man ikke altid få det, som
+man gerne vil. Det er sådan, at man ikke kan have et tog, som både
+skal være lokaltog og lyntog på samme tid – man kan ikke både
+stoppe ved samtlige stationer og så lynhurtigt bringe folk imellem
+landsdelene. Det er jo det, moderne trafikplanlægning handler om,
+
+Onsdag den 7. november 2012 (S 333)
+
+nemlig at sikre, at der er sammenhæng i den kollektive trafik, og at
+den er til gavn for passagererne.
+Så jeg vil sige, at de målsætninger, som hr. Henning Hyllested
+nævner i den sidste del af sit spørgsmål her, er jeg sådan set enig i,
+og derfor kan man ikke tage den del af svaret på spørgsmål S 1098
+og generalisere til hele trafikområdet, men man kan i forhold til
+spørgsmål S 1098.
+
+23
+
+med den situation, vi kan se, kan forbedre mulighederne for passagererne med understregning af »for passagererne«.
+Vi ser så, hvad der kommer ud af det, og så må vi politisk tage
+stilling, når vi har fået det. Men ved ikke at gøre noget synes jeg sådan set jeg har ladt passagererne – ikke kun på Fyn, men også i
+landsdelstrafikken – i stikken, og det ønsker jeg selvfølgelig ikke.";Kl. 15:02
+131587;Time;;Kl. 15:06
+131598;Time;;Kl. 15:03
+131630;title_name;":
+Hr. Henning Hyllested.";Bent Bøgsted
+131686;title_name;":
+Hr. Henning Hyllested.";Bent Bøgsted
+131721;Time;;Kl. 15:06
+131731;Time;;Kl. 15:03
+131755;name_party;":
+Det glæder mig selvfølgelig, at transportministeren er enig med mig
+i de sådan mere generelle målsætninger, og det var faktisk også dem,
+som jeg gerne ville sætte lidt under debat, for jeg synes, at det var en
+lidt spøjs melding, selvfølgelig på et konkret spørgsmål, som tager
+udgangspunkt i situationen på Fyn. Den situation er egentlig meget
+god til at illustrere princippet om, at forbedringer et sted måske fører
+til forringelser et andet sted, for den situation, vi har på Vestfyn nu,
+er jo – det tror jeg der er enighed om – at togtrafikken er ved at sande til derovre. Der er en voldsom belastning af sporene, og så er der
+jo ligesom pludselig lukket op for, at man måske går hen og lukker
+stationer.
+Men man kunne jo også alternativt investere i togtrafikken derovre, hvilket vil sige, at man jo kunne investere i et overhalingsspor, et
+tredje spor, et fjerde spor, hvad ved jeg, langs motorvejen, så man
+gør vejen kortere og hurtigere på den måde. Man kunne lave nye stationer i den vestlige del af Odense, ved Åløkke og Bolbro, og hvad
+ved jeg. Man kunne få halvtimesdrift ud af det ved at investere på
+den måde i jernbanen og dermed også opnå reduktion af rejsetiden.
+Det betyder jo, at der i virkeligheden bliver flere tog, kortere rejsetider, og man må så gå ud fra, at man også vil tiltrække flere rejsende. Det er jo en offensiv måde at gribe tingene an på, og det er
+ligesom den diskussion, jeg gerne vil henlede ministerens opmærksomhed på, i stedet for ligesom at acceptere princippet om, at vi forbedrer her og så forringer vi der.";Henning Hyllested
+133318;Time;;Kl. 15:05
+133342;name_party;":
+Nej, men selvfølgelig skal der gøres noget. Jeg er glad for, at ministeren er opmærksom på, at der skal gøres noget. Når jeg rejser den
+her diskussion, er det jo netop, fordi jeg bliver lidt bange for den lidt
+spøjse formulering om, at forbedringer et sted kan føre til forringelser et andet sted. For så tror jeg selvfølgelig, at det er det, der kommer til at gøre sig gældende på Vestfyn. Det er jeg selvfølgelig lidt
+nervøs for, for det er en glidebane; det er en forkert tangent at køre
+ud ad. Jeg hører også, at ministeren trods alt bekræfter, at det bestemt ikke er et generelt princip. Jeg er bare bange for, at det kommer til at gælde på Vestfyn, når man siger: Jamen der er ikke plads
+til et tredje spor, eller det er inden for en overskuelig fremtid osv.
+osv.
+Det er jo det, man må gøre op med sig selv om man vil. Er det
+det, man vil? Er det det, der definitivt løser problemet? Ja, det er det.
+Hvis man vil den kollektive trafik, og hvis man vil støtte jernbanetrafikken, så er det det, der løser problemerne. Så er det ikke at lade
+stå til, om jeg så må sige – det beskylder jeg heller ikke ministeren
+for at gøre – så er det ikke at lade være med at foretage nogle investeringer i jernbanen og i stedet for sige: Så lukker vi nogle stationer,
+og så lader vi busserne klare det arbejde. Det er jo det, som jeg fornemmer at der er lagt op til, og så bekræfter det ministerens udtalelse om, at forbedringer et sted fører til forringelser et andet sted.";Henning Hyllested
+134817;Time;;Kl. 15:07
+134849;title_name;":
+Transportministeren.";Bent Bøgsted
+134881;Time;;Kl. 15:07
+134913;title_name;":
+Transportministeren.";Bent Bøgsted
+134945;Time;"Transportministeren (Henrik Dam Kristensen):
+Jeg mener heller ikke, at jeg med svar på ét spørgsmål har accepteret
+princippet om, at hvis man forbedrer et sted, så forringer man altid et
+andet sted. Det tror jeg sådan set der kan gives masser af eksempler
+på, nemlig at sådan har jeg ikke udtalt mig, og sådan arbejder jeg ikke, og sådan bør det selvfølgelig ikke være.
+Men jeg synes bare også, vil jeg sige til hr. Henning Hyllested, at
+man er nødt til at være lidt ærlig, også over for passagererne på Fyn.
+Jeg så da gerne, at vi fik investeret meget mere i den kollektive trafik
+i de kommende år – det har hr. Henning Hyllested og hans parti og
+regeringen jo også lagt grunden til med forskellige aftaler, vi har lavet undervejs, men jeg tror også, at hr. Henning Hyllested er enig
+med mig i, at vi ikke har det tredje spor over Fyn inden for det næste
+halve eller 2 år. Så god er verden nok ikke.
+Når man så som minister kan se, at nu har vi altså et problem,
+som i realiteten betyder, at både dem, der pendler, og også landsdelstrafikken er ved at ryge ud i problemer, så synes jeg sådan set, at
+det måske er helt åben og fair at sige, om vi ikke skal prøve at se, om
+vi kan løse det her problem. Og så i øvrigt invitere dem, der er omkring det her, altså Fynbus, Region Syddanmark og DSB, til i begyndelsen af det nye år, tror jeg, at komme med forslag til, hvordan vi
+
+Transportministeren (Henrik Dam Kristensen):
+Jeg har sådan set ikke tænkt mig at lade stå til. Jeg vil det allerbedste
+for den kollektive trafik, og jeg kan så også bare håbe på, at de partier, som regeringen i de kommende år skal indgå finanslov med, er
+enige i det, og at de vil være med til at sætte en dagsorden her, så vi
+kan have en fælles agenda i forhold til det.
+Jeg synes ikke, at man kan bruge et citat i et svar. Og man kan så
+diskutere, om det er kækt eller ej. Os, der er herinde, bliver meget
+ofte beskyldt for at være lidt kedelige, og så prøver man på at være
+lidt kæk, og så havner man også i gyngen, ikke?
+Det, der bare er min pointe, er, at vi kan se, at der er et problem,
+og at hvis vi ikke får gjort noget ved det, lader vi passagererne i stikken, både dem, der pendler på Fyn, og dem i landsdelstrafikken. Det
+var sådan set det, jeg forsøgte at tage hånd om, og så undskylder jeg
+selvfølgelig, hvis det var en anelse kækt undervejs, men det var faktisk i et forsøg på at løse problemet.";Kl. 15:05
+137343;Time;;Kl. 15:08
+137375;title_name;":
+Hr. Henning Hyllested.
+
+24
+
+Onsdag den 7. november 2012 (S 368)";Bent Bøgsted
+137452;Time;;Kl. 15:08
+137463;Time;;Kl. 15:11
+137487;name_party;":
+Ministeren skal bestemt ikke undskylde – og slet ikke over for mig –
+en vis kækhed i debatten. Det tror jeg, så vidt jeg kunne høre, at ministeren er enig i at vi i høj grad savner i det her hus. Så det synes
+jeg er rigtig godt, og det er slet ikke det.
+Nej, det er selve princippet, der kan ligge til grund for det. Jeg er
+blevet bekræftet om, at det ikke er et generelt princip, som transportministeren fører politik efter. Det glæder mig, og jeg påpeger bare, at
+der altså er en fare for, at princippet om ikke andet kan blive realiseret i forbindelse med Vestfyn. Jeg kunne nævne et andet eksempel.
+Det er jo motorvejen Holstebro-Herning, hvor man jo også kan vende det rundt og spørge: Hvorfor investerer vi ikke i jernbanetrafik
+deroppe? Hvorfor kigger vi ikke på hyppigheden af togafgangene?
+Det er, ligesom om at når man rejser den diskussion, siges der:
+Nej, det er selvfølgelig motorveje, og det er i bil. Jeg er blevet opmærksom på, at der i hele området omkring Holstebro og Skive, og
+hvad det ellers hedder deroppe, jo er en voldsom lastbiltrafik med
+gods til og fra deroppe, ikke? Det var jo en glimrende lejlighed til
+også at få taget hul på hele diskussionen om, om vi ikke kan flytte
+noget af alt det gods med jernbane. Men det vil kræve en udbygning
+af jernbanen mellem Herning og Holstebro og sådan set videre til
+Aarhus Havn på et eller andet tidspunkt.
+Det er sådan nogle af de visioner, jeg er lidt bange for går tabt,
+når man ligesom begynder at blive meget realpolitisk, når man begynder at hævde et princip om, at forbedringer et sted kan føre til
+forringelser et andet sted. Men kækheden skal være der, vil jeg sige
+til ministeren.";Henning Hyllested
+139172;name_party;":
+Det spørgsmål, jeg har stillet, er: Hvad mener ministeren om den beskrivelse, som erhvervsmanden Karsten Sabransky giver i Ringsted
+Dagblad den 29. oktober af de vanskeligheder, han oplever ved at
+skaffe arbejdskraft fra det lokale jobcenter?";Louise Schack Elholm
+139427;Time;;Kl. 15:10
+139459;title_name;":
+Transportministeren.";Bent Bøgsted
+139491;Time;;Kl. 15:10
+139502;Time;;Kl. 15:11
+139534;title_name;":
+Beskæftigelsesministeren.";Bent Bøgsted
+139571;Time;;Kl. 15:11
+139617;title_name;":
+Jeg kender af gode grunde ikke detaljerne i den konkrete sag. Derfor
+vil jeg heller ikke gå længere ind i den. Men jeg har noteret mig, at
+den ansvarlige borgmester har tilkendegivet – sådan er det i hvert
+fald refereret i dagspressen – at der måske er noget om, at de forhold
+gør sig gældende. Derfor går jeg selvfølgelig ud fra, hvis det skulle
+passe, at borgmesteren og jobcenteret får rettet op på de problemer,
+der måtte være.
+Så vil jeg gerne holde fast i, at det er mit klare indtryk og min
+klare fornemmelse, at langt de fleste mennesker, der er ramt af arbejdsløshed, gerne vil i arbejde, og at de gør meget for at komme i
+arbejde, og at rigtig mange mennesker oplever arbejdsløsheden som
+en meget, meget svær udfordring. Jeg synes, det er på det fundament, vi skal diskutere vores arbejdsløse og beskæftigelsespolitikken.
+Det ændrer dog ikke ved, at jeg også tror, at der er nogle, der
+snyder. Jeg tror, at der er nogen, der ikke står til rådighed. Det kan vi
+også se ud af tallene. Der synes jeg at vores kollektive svar selvfølgelig skal være ret og pligt: Hvis man ønsker at modtage en ydelse,
+fordi man ikke kan forsørge sig selv, skal man selvfølgelig stå til rådighed for arbejdsmarkedet.";Mette Frederiksen
+140833;Time;"Transportministeren (Henrik Dam Kristensen):
+Men det er jo et faktum, at sådan kan det være, og det var så det, der
+var eksemplet på det her. Så vil jeg sige, at jeg kvitterer for, at hr.
+Henning Hyllested nu er beroliget. Det glæder mig altid, når hr.
+Henning Hyllested er det.
+Så vil jeg sige, at visionen tror jeg sådan set at vi deler – måske
+med den moderation, at jeg synes, at vi i Danmark har nogle unikke
+muligheder for at forbedre situationen, netop fordi vi formår at lade
+den individuelle trafik gå hånd i hånd med den kollektive trafik. Og
+det er den målsætning, som jeg synes jeg vi skal forfølge i de kommende år.";Kl. 15:12
+141473;Time;;Kl. 15:10
+141505;title_name;":
+Det var slut på spørgsmål 9. Tak til transportministeren og hr. Henning Hyllested.
+Spørgsmål 10 er stillet til beskæftigelsesministeren, og det er stillet af fru Louise Schack Elholm, Venstre.";Bent Bøgsted
+141709;Time;"Spm. nr. S 368
+10) Til beskæftigelsesministeren af:";Kl. 15:10
+141787;name_party;":
+Hvad mener ministeren om den beskrivelse, som erhvervsmanden
+Karsten Sabransky giver i Ringsted Dagblad den 29. oktober af de
+vanskeligheder han oplever ved at skaffe arbejdskraft fra det lokale
+jobcenter?";Louise Schack Elholm
+142025;title_name;":
+Værsgo.";Bent Bøgsted
+142066;title_name;":
+Fru Louise Schack Elholm.";Bent Bøgsted
+142103;Time;;Kl. 15:12
+142129;name_party;":
+Det var et interessant svar. Jeg er glad for, at ministeren mener, at
+jobcenteret skal rette op på det, hvis der er problemer på det her område. Nu kommer ministeren selv ind på ret og pligt. Hvad har det så
+konkret af konsekvenser i de her sager? For jeg antager, at ministeren er inde i den her sag og har læst artiklerne, når jeg nu har nævnt
+datoen, og ved, hvor de er fra. Hvad har det af konkrete konsekvenser i de her sager, at man ikke kan skaffe arbejdskraft til et sted, der
+har brug for arbejdskraft?";Louise Schack Elholm
+142652;Time;;Kl. 15:12
+142684;title_name;":
+Beskæftigelsesministeren.";Bent Bøgsted
+142721;Time;;Kl. 15:13
+142767;title_name;":
+Jeg kan jo ikke vurdere de konkrete sanktioner ud fra det, der står i
+en avis. Det er jo ikke altid, at aviser giver et dækkende billede. Derfor kender jeg ikke de konkrete forhold.
+Det, jeg kan sige, er af helt generel karakter: Hvis man ikke står
+til rådighed, når man er dagpengemodtager, kan man miste sin ydelse. Og der skal i alle a-kasser være en løbende rådighedsvurdering af
+vores arbejdsløse. Det er vigtigt, både for at vi sikrer, at de penge,
+der udbetales, udbetales på et korrekt grundlag, og det er også vigtigt
+for at stedfæste de værdier, der skal ligge til grund for beskæftigelsespolitikken, nemlig ret og pligt. Hvis der er brodne kar imellem,
+
+Onsdag den 7. november 2012 (S 369)
+
+har alle en interesse i at få det afdækket, også af hensyn til de mange
+arbejdsløse, der lever op til både deres rettigheder og pligter.";Mette Frederiksen
+143618;Time;;Kl. 15:13
+143650;title_name;":
+Fru Louise Schack Elholm.";Bent Bøgsted
+143687;Time;;Kl. 15:13
+143713;name_party;":
+Jeg tror, jeg går videre til næste spørgsmål i stedet for.
+
+25
+
+det, men som efter 2-3 dage ikke dukker op mere? Det virker jo lidt
+beskæmmende, at de kan sige til arbejdsgiveren: Nej, jeg synes ikke
+rigtig, at jeg har tid, for jeg har travlt med at passe mine heste. Jeg
+har også hørt andre tilfælde, hvor det er: Jeg vil hellere spille computerspil.
+Det er jo lidt beskæmmende, at man foretrækker det frem for at
+arbejde. Hvordan mener ministeren så, at jobcentret skal afdække de
+situationer?";Louise Schack Elholm
+144220;Time;;Kl. 15:15
+144231;Time;;Kl. 15:13
+144263;title_name;":
+Det er selvfølgelig helt op til fru Louise Schack Elholm selv, om hun
+vil benytte alle sine spørgemuligheder.
+Det vil sige, at vi går til det sidste spørgsmål på dagsordenen, og
+det er stillet til beskæftigelsesministeren af fru Louise Schack Elholm fra Venstre.";Bent Bøgsted
+144537;Time;"Spm. nr. S 369
+11) Til beskæftigelsesministeren af:";Kl. 15:14
+144615;name_party;":
+Hvad mener ministeren, at et jobcenter skal gøre over for arbejdsløse, der enten ikke vil søge arbejde eller blot arbejder i få dage på en
+arbejdsplads for så at sige op igen?";Louise Schack Elholm
+144824;title_name;":
+Beskæftigelsesministeren.";Bent Bøgsted
+144861;Time;;Kl. 15:15
+144907;title_name;":
+Hvis der er tale om en person, der er i arbejde et par dage, og så melder sig selv ledig, fordi den pågældende ikke gider at passe arbejdet,
+så er man det, der hedder selvforskyldt ledig, og så skal man have en
+karantæne fra sin ydelse. Det tilsiger reglerne allerede i dag, og de
+regler er jo lavet, netop for at man ikke bare kan flekse ind og ud af
+arbejdsmarkedet. Der kan selvfølgelig være gode grunde til, at man
+skifter job eller for den sags skyld indgiver en opsigelse på sin arbejdsplads, men hvis det er det, vi kalder selvforskyldt ledighed, altså at man selv er skyld i, at man bliver ledig, eksempelvis fordi man
+opsiger et job efter få dage, så skal man have karantæne og dermed
+ikke modtage ydelse.";Mette Frederiksen
+145633;Time;;Kl. 15:16
+145665;title_name;":
+Værsgo.";Bent Bøgsted
+145684;Time;;Kl. 15:14
+145710;name_party;":
+Hvad mener ministeren, at et jobcenter skal gøre over for arbejdsløse, der enten ikke vil søge arbejde eller blot arbejder i få dage på en
+arbejdsplads for så igen at sige op?";Louise Schack Elholm
+145897;Time;;Kl. 15:14
+145929;title_name;":
+Beskæftigelsesministeren.";Bent Bøgsted
+145966;Time;;Kl. 15:14
+146012;title_name;":
+Hvis der er tale om en arbejdsløs, der ikke vil søge arbejde, og at
+vedkommende er kontanthjælpsmodtager, så skal kommunen selv
+via jobcentret lave en rådighedsvurdering af vedkommende. Og hvis
+det er en kontanthjælpsmodtager, der er arbejdsmarkedsparat, som
+siger: Jeg ønsker ikke at arbejde, så skal vedkommende jo ikke modtage kontanthjælp, og så er der et ret finmasket sanktionssystem,
+som i øvrigt bruges flittigt ude i landets kommuner allerede i dag,
+som man selvfølgelig skal tage i brug, for det er ikke i orden, det er
+forkert, hvis man som kontanthjælpsmodtager ikke ønsker at arbejde. Hvis vedkommende er dagpengemodtager, ligger rådighedsvurderingen hos a-kassen, og så skal jobcentret reagere i mine øjne med
+det samme og tage kontakt til a-kassen og bede om, at a-kassen laver
+en konkret rådighedsvurdering af den enkelte.";Mette Frederiksen
+146862;Time;;Kl. 15:15
+146894;title_name;":
+Fru Louise Schack Elholm.";Bent Bøgsted
+146931;Time;;Kl. 15:15
+146957;name_party;":
+Ministeren siger, at man skal lave en vurdering af den enkelte, ud fra
+hvad den enkelte svarer, men bør jobcentret ikke også se på, om det
+er nogen, der har tænkt sig at fastholde et arbejde, om det er nogen,
+der tager imod et arbejde, fordi de føler sig nødsaget til at tage imod";Louise Schack Elholm
+147271;title_name;":
+Fru Louise Schack Elholm.";Bent Bøgsted
+147308;Time;;Kl. 15:16
+147334;name_party;":
+Det ville være dejligt enkelt, hvis de bare selv meldte sig ledige, men
+det, der typisk sker i de her situationer, er, at de blot ikke møder op
+på arbejde. De har simpelt hen bare fravær fra deres arbejde. Når arbejdsgiveren så tager fat i dem og siger: Hvorfor møder du ikke op?,
+så er svaret: Jamen jeg vil hellere tage mig af mine heste, jeg vil hellere spille computerspil. Så bliver de jo selvfølgelig fyret, og så er de
+jo stadig væk berettiget til at få dagpenge eller kontanthjælp. Så
+hvordan skal virksomhed og jobcenter agere, for at man får afdækket, at det er, fordi de simpelt hen ikke gider møde op på arbejde?";Louise Schack Elholm
+147970;Time;;Kl. 15:17
+148002;title_name;":
+Beskæftigelsesministeren.";Bent Bøgsted
+148039;Time;;Kl. 15:17
+148085;title_name;":
+Det er helt afgørende for mig at få slået fast, at man selvfølgelig skal
+passe sit arbejde, hvis man overhovedet kan det, ligesom man skal
+stå til rådighed for arbejdsmarkedet, når man modtager en offentlig
+ydelse. Hvis der er eksempler på borgere, der bevidst snyder – og det
+vil jeg mene at det er – ved at omgå reglerne ved at søge arbejde og
+så lade sig fyre og så søge arbejde og lade sig fyre, bør man følge op
+på det enkelte konkrete eksempel i det lokale jobcenter, fordi så er
+der jo altså et mønster, som man bør kunne aflæse og reagere på
+baggrund af. Det siger sig selv. Hele forudsætningen for, at vi kan
+have et stærkt socialt sikkerhedsnet i Danmark, er, at så mange af os
+som overhovedet muligt overholder spillereglerne. For hver gang vi
+snyder og ikke overholder reglerne, snyder vi i virkeligheden hinanden, og det er ligegyldigt, om vi får udført sort arbejde eller man ikke står til rådighed for sine dagpenge eller sin kontanthjælp. Det er
+naboerne, ens familie, alle andre i det her samfund, man snyder, og
+derfor er det vigtigt at sætte ind over for det.
+
+26
+
+Onsdag den 7. november 2012 (FM )";Mette Frederiksen
+149216;Time;;Kl. 15:18
+149248;title_name;":
+Fru Louise Schack Elholm.";Bent Bøgsted
+149285;Time;;Kl. 15:18
+149311;name_party;":
+Jeg mener også, det er utrolig vigtigt, at man ikke snyder, men jeg
+mener, at der er et hul her. Jeg mener, at der er et hul her, fordi man
+kan snyde sig til at blive fyret og så modtage overførsler igen. Og så
+er det i realiteten det samme, som at man ikke gider at arbejde, for
+det er jo egentlig det, der ligger til grund for det.
+Hvordan vil ministeren råde virksomheden og jobcenteret til at
+agere i de her situationer? Skal virksomheden melde tilbage til jobcenteret, at vedkommende ikke var interesseret i at møde op på arbejde? Og skal jobcenteret så ændre sin rådighedsvurdering? Hvad
+mener ministeren at man skal gøre i det her tilfælde?";Louise Schack Elholm
+149970;Time;;Kl. 15:18
+150002;title_name;":
+Beskæftigelsesministeren.";Bent Bøgsted
+150039;Time;;Kl. 15:18
+150085;title_name;":
+Hvis der er tale om borgere, der systematisk snyder og forbryder sig
+mod reglerne, synes jeg, det er helt oplagt med en meget, meget tæt
+opfølgning, både i vedkommendes a-kasse, hvis det er en dagpengemodtager, og i kommunen.
+Men jeg vil gerne have lov til at tilføje, at i hele den her debat
+skal man passe på med at få det til at lyde, som om – og det siger jeg
+ikke at spørgeren gør, vil jeg gerne understrege – vi lever i et samfund, hvor alle mennesker, der er arbejdsløse, snyder med ydelser og
+regler, for sådan forholder det sig heldigvis ikke. Det er min klare
+fornemmelse, at langt hovedparten af de mennesker i Danmark, der
+er ramt af arbejdsløshed, er pligtopfyldende mennesker, der rigtig
+gerne vil i arbejde, og som overholder de regler, der er. Men der er
+en gruppe, som har svært ved at forstå, anerkende, respektere spillet
+inden for de spilleregler, der nu engang er, og der er det vigtigt, at
+både a-kasser og jobcentre er oppe på tæerne og får det stoppet. Og
+det er en opgave, som vi selvfølgelig alle sammen skal tage på os.";Mette Frederiksen
+151143;Time;;Kl. 15:19
+151175;title_name;":
+Tak til beskæftigelsesministeren og tak til fru Louise Schack Elholm.
+Der er ikke flere spørgsmål, og hermed er spørgetiden afsluttet.";Bent Bøgsted
+151322;Time;Meddelelser fra formanden;Kl. 15:20
+151380;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, torsdag den 8. november 2012, kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 15:20).";Bent Bøgsted

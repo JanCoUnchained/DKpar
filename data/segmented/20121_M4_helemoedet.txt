@@ -1,0 +1,1570 @@
+split;reason;text;value
+0;;"Tirsdag den 9. oktober 2012 (D)
+
+1
+
+Kisser Franciska Lehnerts hverv som midlertidigt medlem af Folketinget er herefter ophørt fra nævnte dato at regne.
+
+4. møde
+
+I dag er der følgende anmeldelser:";
+235;Time;"Karsten Lauritzen (V), Peter Skaarup (DF), Simon Emil Ammitzbøll
+(LA) og Tom Behnke (KF) ønsker at fremsætte:
+
+Dagsorden
+1) Spørgsmål om fremme af forespørgsel nr. F 2:
+Forespørgsel til ministeren for by, bolig og landdistrikter om boliger
+til unge, elever og studerende.
+Af Rosa Lund (EL) og Lars Dohn (EL) .
+(Anmeldelse 04.10.2012).
+2) 1. behandling af lovforslag nr. L 12:
+Forslag til lov om ændring af retsplejeloven, straffeloven og lov om
+elektroniske kommunikationsnet og -tjenester. (Revision af reglerne
+om forkyndelse m.v.).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 03.10.2012).
+3) 1. behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af færdselsloven. (Forsøgsordning vedrørende kommuners håndhævelse af bestemmelser om cykelparkering).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 03.10.2012).
+4) 1. behandling af lovforslag nr. L 16:
+Forslag til lov om ændring af forskellige lovbestemmelser om obligatorisk digital kommunikation m.v. (Obligatorisk digital kommunikation og tilpasninger som følge af ressortoverførsel m.v.).
+Af erhvervs- og vækstministeren (Ole Sohn).
+(Fremsættelse 03.10.2012).
+5) 1. behandling af lovforslag nr. L 7:
+Forslag til lov om CO2-kvoter.
+Af klima-, energi- og bygningsministeren (Martin Lidegaard).
+(Fremsættelse 03.10.2012).";kl. 13.00
+1547;Time;Meddelelser fra formanden;Kl. 13:00
+1610;title_name;":
+Mødet er åbnet.
+Fra medlem af Folketinget Villum Christensen, som har haft orlov,
+har jeg modtaget meddelelse om, at han fra og med i dag atter kan
+give møde i Tinget.
+
+Beslutningsforslag nr. B 9 om afsoning i hjemlandet m.v. (Forslag til
+folketingsbeslutning om indgåelse af aftaler om foranstaltninger til
+sikring af effektiv udmøntning af afsoning i hjemlandet, efterforskning og kriminalitetsforebyggelse).
+Birgitte Josefsen (V), Mai Henriksen (KF) m.fl. ønsker at fremsætte:
+Beslutningsforslag nr. B 10 om nedrivningspulje (Forslag til folketingsbeslutning om en pulje til nedrivning og renovering i landdistriktskommunerne).
+Kim Christiansen (DF) m.fl. ønsker at fremsætte:
+Beslutningsforslag nr. B 11 om cabotagekørsel (Forslag til folketingsbeslutning om fortolkning af regler for cabotagekørsel).
+Titler på de anmeldte sager vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+Medlemmer af Folketinget Karin Gaardsted (V) og Bertel Haarder
+(V) meddelt mig, at de ønsker at tage følgende forespørgsel til udenrigsministeren tilbage:
+Forespørgsel nr. F 1 (Hvad kan udenrigsministeren oplyse om regeringens holdning til de 13 forslag i Thorvald Stoltenbergs rapport fra
+2009 til de nordiske udenrigsministre, »Nordisk Samarbeid om
+Utenriks- og Sikkerhetspolitikk«, og hvad er status for implementering af rapportens forslag?)
+Forespørgslen er hermed bortfaldet og erstattet af en redegørelse.
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål om fremme af forespørgsel nr. F 2:
+Forespørgsel til ministeren for by, bolig og landdistrikter om boliger til unge, elever og studerende.
+Af Rosa Lund (EL) og Lars Dohn (EL) .
+(Anmeldelse 04.10.2012).";Bertel Haarder
+3273;Time;;Kl. 13:02
+3310;title_name;":
+Hvis ingen gør indsigelse mod at fremme denne forespørgsel, betragter jeg Tingets samtykket som givet.
+
+2
+
+Tirsdag den 9. oktober 2012 (L 12)
+
+Det er givet.
+
+Det næste punkt på dagsordenen er:
+2) 1. behandling af lovforslag nr. L 12:
+Forslag til lov om ændring af retsplejeloven, straffeloven og lov
+om elektroniske kommunikationsnet og -tjenester. (Revision af
+reglerne om forkyndelse m.v.).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 03.10.2012).";Bertel Haarder
+3781;Time;Forhandling;Kl. 13:02
+3830;title_name;":
+Forhandlingen er åbnet, og jeg giver først ordet til Venstres ordfører,
+hr. Karsten Lauritzen.";Bertel Haarder
+3936;Time;(Ordfører);Kl. 13:02
+3970;name_party;":
+Tak for det. Med lovforslag nr. L 12 ønskes bestemmelsen om forkyndelse ændret, og forkyndelse er en meddelelse til en tiltalt eller et
+stævne om, at vedkommende skal møde i retten. Forkyndelse vil i
+fremtiden kunne ske telefonisk eller digitalt uden krav om aktiv
+medvirken fra modtagerside af. Endelig kan forkyndelse fremover
+ske for ledelsen eller personalet på den institution eller det hospital,
+hvor den pågældende befinder sig.
+Det er i hvert fald for Venstre ret klart, at der er behov for at modernisere reglerne om forkyndelse. De gældende regler er fra 1972
+og tager naturligvis ikke højde for de teknologiske muligheder, vi
+har i dag. Det er bare, må vi sande, både bekosteligt og besværligt at
+sende en stævningsmand ud til modtageren, og stævningsmanden
+oplever også ganske ofte at måtte gå forgæves igen og igen. Det resulterer i, at mange aldrig dukker op i retten, hvilket bliver til en ekstraregning til skatteborgerne i form af løn til dommere, forsvarsadvokater, retsbetjente osv.
+Ved domstolene oplever man også, at processen ved forkyndelse
+ofte gør sagsbehandlingen langsommelig og besværlig, fordi det som
+sagt kræves, at modtageren aktivt skal bekræfte modtagelsen. Det
+problem kan man i mange tilfælde løse ved en forenkling af den digitale forkyndelse, som der også lægges op til lovforslaget.
+Det er på den baggrund kun rimeligt, at man moderniserer lovgivningen, der jo som sagt har nogle år på bagen, og der findes sådan set også eksempler på, at domstolene selv forsøger sig med alternative metoder til at få folk til at møde op. Det synes jeg godt at
+jeg vil rose her fra Folketingets talerstol. F.eks. har fogedretten i
+Hjørring, som jeg selv har besøgt, siden februar sendt såkaldte huske-sms'er ud til de folk, der skal møde op i retten, og de har oplevet,
+at dem, de har fået fat på, i meget høj grad enten møder op eller i
+hvert fald melder afbud, så man kan nå at aflyse retsmødet, uden at
+der er så store omkostninger for samfundet og for retten.
+Det er jo et eksempel til efterfølgelse og et bevis på, at man ikke
+nødvendigvis behøver at vente i årevis på et stort udvalgsarbejde for
+at komme i gang med initiativer, der kan smidiggøre bureaukratiet.
+Det er sådan set fint, at man selv tager et initiativ, hvis det ligger inden for den lovgivningsmæssige ramme.
+Et af de problemer, som fogedretten i Hjørring oplevede, var dog,
+at de havde svært ved at finde de rigtige telefonnumre, og det samme
+problem kan jo sådan set også gøre sig gældende ved telefonforkyndelse, for hvordan sikre sig, at man ikke har ringet til den forkerte?
+
+Jeg tror, at alle kan forestille sig, at f.eks. en indkaldelse til fogedretten ikke er noget, man ønsker at dele med alle og enhver. Derfor må
+det selvfølgelig sikres, at det er den rigtige person, der forkyndes
+over for. Det er forholdsvis nemt, når man står ansigt til ansigt, men
+det bliver straks mere vanskeligt, når det sker over telefonen. Men vi
+synes nu, at der er fundet en fin balance i det lovforslag, der ligger.
+I Venstre lægger vi stor vægt på, at domstolenes tid og borgernes
+penge ikke bliver spildt på tiltalte og vidner, der ikke dukker op i retten, eller på, at tiltalte kan lege kispus med domstolssystemet ved at
+undgå, at det bliver forkyndt, at de skal møde op. Derfor hilser vi
+dette forslag til effektivisering af processen meget velkommen. Det
+er nødvendigt for hele retssystemet, at domstolene ikke spilder tiden
+på at finde frem til de personer, der skal møde i retten, når der nu er
+mulighed for at indkalde dem digitalt eller ved ganske enkelt at telefonere til dem.
+Venstre er som udgangspunkt – et meget stort udgangspunkt –
+positivt stemt for lovforslaget . Der er også et par enkelte ting, vi lige vil have afklaret, men jeg tør godt sige, at vi regner med at stemme for. Tak.";Karsten Lauritzen
+7768;Time;;Kl. 13:06
+7805;title_name;":
+Tak til Venstres ordfører. Og vi går straks videre til den socialdemokratiske ordfører, hr. Ole Hækkerup.";Bertel Haarder
+7922;Time;(Ordfører);Kl. 13:06
+7951;name_party;":
+Det var et meget stort udgangspunkt. Det synes jeg var en fantastisk
+formulering.
+Socialdemokraterne kan selvfølgelig også støtte det her lovforslag. Det er jo rigtigt, som det allerede er blevet beskrevet, at det
+med forslaget bliver muligt at lave en generel modernisering af det
+at kalde folk til møde ved domstolene. Der har været nævnt det her
+med telefonforkyndelse. Jeg skal nævne det med, at man også kommer til at sende påmindelser pr. sms og pr. e-mail til folk, og det
+med, at man kan forkynde over for ledelse eller personale på en institution, og at man kan forkynde på arbejdspladsen. Det er alt sammen noget, der betyder, at det bliver meget lettere at kalde folk til
+møde i retten.
+Det synes jeg i første række er vigtigt, fordi det handler om at
+undgå, at der er sager, som går i stå i vores retssystem, sager, der kan
+trække i langdrag. Når man laver et sådant lovforslag, sendes det jo i
+høring hos en masse berørte parter, og en af dem, som lovforslaget
+er sendt i høring hos, er Dannerhuset. De skriver lige præcis det her
+om en voldsramt kvinde på et krisecenter, som i den grad har brug
+for, at rettens arbejde kommer videre, simpelt hen fordi hun har brug
+for at kunne komme videre med sit liv, og hvis der er problemer med
+at få tag i ham, man skal have tag i her, for at få forkyndt, at nu finder der en domsforhandling sted, så vil det jo i virkeligheden for den
+voldsramte kvinde betyde, at den psykiske vold over for hende fortsætter, fordi det er hende, der er gidsel, i forbindelse med at det ikke
+har været muligt at få forkyndt. Det er i virkeligheden dér, hvor jeg
+synes at en af de store gevinster kommer til at ligge med det her forslag.
+Så er det rigtigt, som det også har været nævnt, at det her med
+mere effektivt at kunne indkalde folk til møde i retten selvfølgelig
+også betyder, at der er en masse mennesker i retssystemet, som kan
+begynde at lave noget andet, end de laver i dag. Altså, det hjælper
+simpelt hen med til, at vi får et mere effektivt retssystem, og det er jo
+i sig selv en gevinst.
+Så er der som det sidste, jeg skal nævne, selvfølgelig spørgsmålet
+om retssikkerhed. Altså, meningen er, at man trods alt som borger i
+et retssamfund skal kunne få forkyndt, at man skal møde i retten. Ellers går det hele jo fløjten. Der er der en lang række overvejelser i
+
+Tirsdag den 9. oktober 2012 (L 12)
+
+lovforslaget om det her med, at man skal sikre sig, at det, når man
+ringer til folk og siger, at nu skal de give møde, er den rigtige person, man har fået fat i, at vedkommende er i stand til at forstå, hvad
+der bliver sagt osv., og også at det ikke er sådan, at folk er fulde eller
+ikke taler dansk, eller hvad ved jeg, der kunne gøre, at de ikke forstår, hvad det handler om.
+Men alle de forhold synes jeg, når jeg læser lovforslaget igennem, der er taget højde for, og på den baggrund skal jeg selvfølgelig
+anbefale forslaget til folketingets vedtagelse.
+
+3
+
+ses-sms'er, hvor man vil sende en opfølgning til en borger om, at der
+f.eks. er retsmøde i morgen, eller at ens sag bliver behandlet på onsdag. Det synes vi er rigtig godt, og det er noget, som gør, at man ikke er nødt til at omberamme retsmøder.
+Samlet set synes vi, der er en god balance i lovforslaget, både i
+forhold til de nye muligheder og i forhold til at sikre, at der er en god
+retssikkerhed for de berørte borgere eller virksomheder. Så derfor
+kan vi i Dansk Folkeparti som udgangspunkt støtte lovforslaget.";Ole Hækkerup
+11392;Time;;Kl. 13:12
+11403;Time;;Kl. 13:09
+11440;title_name;":
+Tak til Socialdemokraternes ordfører. Og så går vi til Dansk Folkepartis ordfører, hr. Dennis Flydtkjær.";Bertel Haarder
+11583;title_name;":
+Tak til Dansk Folkepartis ordfører. Vi går straks til den radikale ordfører, hr. Jeppe Mikkelsen.";Bertel Haarder
+11692;Time;;Kl. 13:12
+11703;Time;(Ordfører);Kl. 13:09
+11737;name_party;":
+Det her lovforslag handler jo om at revidere retsplejelovens bestemmelse om forkyndelse, fordi der i dag bruges rigtig mange ressourcer, både i forhold til straffesager og i forhold til civile sager, og fordi man spilder rigtig mange ressourcer, ikke alene fordi det nogle
+gange kan være svært at få overbragt forkyndelsen, men også fordi
+det mange gange er nødvendigt at udsætte retsmøder. Det er en problemstilling, som vi er nødt til at tage hånd om, og derfor nedsatte
+den forrige justitsminister i 2009 en arbejdsgruppe, som skulle kigge
+på, hvordan man kunne gøre det mere effektivt, men samtidig sørge
+for, at retssikkerheden var i orden.
+Ud fra Dansk Folkepartis synspunkt er det rigtig godt, at man
+prøver på at få indført nogle mere tidssvarende metoder i forbindelse
+med forkyndelse, og vi synes også, det er vigtigt, at man prøver på at
+sikre, at de nye forkyndelsesformer ikke indebærer nogen retssikkerhedsmæssige betænkeligheder for en borger eller for et selskab.
+Vi synes, det er nogle rigtig gode overvejelser, man har gjort sig,
+ikke alene i den her arbejdsgruppe, men også i Retsplejerådet. Vi synes, der er en meget god balance, så man både får nogle nye metoder
+og samtidig bevarer en god retssikkerhed.
+Med hensyn til de enkelte ændringer, der bliver lavet, er der bl.a.
+den, der handler om forkyndelse på arbejdspladsen, som jeg vil sige
+at jeg personligt synes er en af de lidt mere grænseoverskridende nye
+metoder. Jeg synes, det kan have lidt alvorlige konsekvenser, at man
+kan henvende sig til en chef i en virksomhed, som så skal forkynde
+til en af sine få ansatte i virksomheden, at vedkommende skal møde i
+Vestre Landsret. Det kunne jeg godt forestille mig kunne sætte gang
+i en debat ved frokostbordet.
+Som udgangspunkt støtter vi forslaget, men vi synes, der er nogle
+principielle overvejelser, man bør have med, fordi det netop kan give
+nogle problemstillinger for den enkelte.
+Så er der forkyndelsen på hospitaler og institutioner osv., som
+kan ske via ledelsen eller en sagsbehandler. Det synes vi er et udmærket initiativ, netop fordi det ikke kompromitterer den enkelte
+borger, fordi det eksempelvis foregår via et brev, og ledelsen skal så
+efterfølgende sende et brev tilbage til retten eller politiet, eller hvem
+det nu er, om, at nu er forkyndelsen sket.
+Så er der telefonforkyndelsen, som vi også som udgangspunkt synes er godt. Men der kan være nogle udfordringer, hvilket hr. Karsten Lauritzen fra Venstre også nævnte, med, hvordan man nu sikrer,
+at det er den rigtige person, man får fat i. Der er også nogle udfordringer i forhold til hemmeligt nummer og andre problemstillinger.
+Som udgangspunkt er vi positive over for det, men det kan være, at
+vi i udvalgsarbejdet kan spørge ind til og måske få præciseret nogle
+småting i forhold til det.
+Så er der den digitale forkyndelse, hvor man vil sende besked om
+forkyndelsen i e-Boks eller på Virk.dk eller andre offentlige sider,
+og det synes vi også er udmærket – også den del omkring påmindel-
+
+(Ordfører)";Dennis Flydtkjær
+14760;name_party;":
+Tak for det, formand. Jeg vil sige til alle, at det er rart at være tilbage
+på talerstolen, man har jo næsten savnet at stå her. Det bliver ikke
+den længste tale fra mig i dag, eftersom de store træk i lovforslaget
+allerede er gennemgået af de foregående ordførere, og tak for det.
+Men jeg vil dog nævne, at vi synes, det er nogle fornuftige ændringer, man lægger op, så jeg vil bare sige, at justitsministeren kan
+være rolig, vi kommer ikke til at stille 996 spørgsmål om dette emne.
+Vi Radikale mener, at der med de nye regler er fundet en god balance mellem på den ene side brug af effektiv, moderne teknologi til
+forkyndelse og på den anden side sikring af retssikkerheden.
+Derudover er det en glimrende idé, at myndighederne fremadrettet får mulighed for at sende notifikationer om kommende retsmøder
+som sms og e-mail til personer, som skal møde op. Forslaget er godt
+og er blevet udarbejdet af en arbejdsgruppe i ministeriet, og efterfølgende er det blevet gennemgået af Retsplejerådet. Vi ser meget positivt på, at vi med dette forslag kan reducere udgifterne med 15-20
+mio. kr. årligt. Det er jo dejligt i en tid, hvor riget fattes penge. Alt i
+alt er der også radikal opbakning til dette forslag.";Jeppe Mikkelsen
+15978;Time;;Kl. 13:13
+16015;title_name;":
+Tak til den radikale ordfører. Så kort kan det gøres. Så giver jeg ordet til Socialistisk Folkepartis ordfører, fru Karina Lorentzen Dehnhardt.";Bertel Haarder
+16170;Time;"(Ordfører)
+Karina Lorentzen Dehnhardt (SF):
+Jeg ved ikke, om det er, fordi der er rigtig meget publikum på i dag,
+eller fordi det er første arbejdsdag, men jeg fornemmer en vis kådhed blandt mine kollegaer og en vis arbejdsiver, og det er jo altid
+dejligt.
+Jeg vil også gerne sige, at SF kan støtte det her forslag. Vi har jo
+lavet en domstolsreform, hvis mål var, at tingene skulle gøres mere
+effektivt og på en bedre måde. Den synes jeg er kommet rigtig godt
+fra start. Vores domstole er nu rigtig effektive og får ekspederet
+langt flere sager, og derfor er det jo hele tiden naturligt, at vi kigger
+på, hvad vi så kan gøre bedre og mere effektivt.
+Der har rent faktisk siddet nogle kloge mennesker i et udvalg og
+er kommet frem til, at vi bør ændre reglerne for forkyndelse og gøre
+op med de gamle regler, som faktisk er fra 1972. Det giver jo meget
+god mening, at vi får nogle regler, som er tidssvarende. Det at kunne
+ringe folk op og lave en forkyndelse eller sende noget til dem digitalt
+er jo netop en mulighed, som rigtig, rigtig mange benytter sig af i
+dag.
+Så det er der go for fra vores side, og vi er også glade for, at et af
+de hensyn, der er blevet taget, er til borgernes retssikkerhed. Det er
+
+4
+
+Tirsdag den 9. oktober 2012 (L 12)
+
+nemlig rigtig vigtigt, at der ikke er nogle borgere, som stilles dårligere, end de var stillet tidligere.
+Så er det jo altid dejligt, når man kan spare på ressourcerne. Som
+min kollega hr. Jeppe Mikkelsen sagde, er der en 15-20 mio. kr. at
+hente på det her, og det synes jeg er en rigtig, rigtig god idé. Så fra
+SF's side kan vi i hvert fald også garantere for, at der er fuld opbakning til forslaget.";Kl. 13:13
+17834;Time;;Kl. 13:15
+17871;title_name;":
+Tak til SF's ordfører. Så er det hr. Simon Emil Ammitzbøll – værsgo
+– fra Liberal Alliance.";Bertel Haarder
+17974;Time;(Ordfører);Kl. 13:15
+18013;name_party;":
+Tak. Ja, det var godt, at det sidste også kom med, nemlig så der ikke
+er nogen, der tror, at det er Enhedslisten. (Første næstformand: Det
+var jo det!). Det håber jeg ikke at man gør.
+Det er jo et ganske fornuftigt lille lovforslag, som justitsministeren har valgt at åbne sæsonen med, nemlig at vi nu får reglerne om
+forkyndelse bragt med ind i det 21. århundrede. Det synes jeg er
+ganske fint, og det kan Liberal Alliance sådan set bare bakke op om.
+Jeg synes, det sjoveste er det, der står i justitsministerens fremsættelse, altså i det sidste, hvor der står:
+»Endelig foreslås en række præciseringer og justeringer af flere
+af retsplejelovens bestemmelser om forkyndelse, stævningsmænd
+mv. bl.a. for at bringe lovens ordlyd i overensstemmelse med praksis.«
+Der vil jeg sige, at det jo altid er godt, at vi sørger for, at loven er
+identisk med praksis, men der ville det måske være mere klædeligt,
+hvis man også gjorde det den anden vej rundt. Men når nu man er
+gået i gang, synes jeg da, det er fint, at man også har fået lovens ordlyd til at være i overensstemmelse med praksis.
+Det her bliver ikke den sag, som vi kommer til at diskutere mest.
+Liberal Alliance støtter op.";Simon Emil Ammitzbøll
+19203;Time;;Kl. 13:16
+19240;title_name;":
+Tak til Liberal Alliances ordfører. Så har vi til sidst den konservative
+ordfører, hr. Tom Behnke.";Bertel Haarder
+19350;Time;(Ordfører);Kl. 13:16
+19378;name_party;":
+Forkyndelser er jo noget, som både domstole, politi, stævningsmænd
+og andre bruger oceaner af tid på hver eneste dag og hver eneste uge
+året rundt. Det er noget, som kan og skal gøres mere enkelt og mere
+smidigt, og det var jo også derfor, man i sin tid nedsatte en arbejdsgruppe, der skulle se på, om man ikke kunne gøre det på en måde,
+der var enklere og mere smidig. Det er der så kommet dette lovforslag ud af, og det er et lovforslag, som vi fra konservativ side fuldt
+ud kan støtte.
+Vi synes ikke kun, at de tiltag, der er i det, er nogle tilpasninger,
+der er gode, men også, at det er godt, at man teknologisk bruger de
+muligheder, man i dag har, og som man ikke havde, dengang den eksisterende lov blev vedtaget. Det er jo sådan set udmærket. F.eks. er
+sms'en i mellemtiden blevet opfundet, og det kan man jo lige så godt
+bruge. Man har jo mange andre steder brugt det længe, så hvorfor
+skulle vi ikke også gøre det i staten? Selvfølgelig skal vi det.
+Men der er noget, jeg savner at høre noget om, og som jeg gerne
+vil høre justitsministerens svar på, når justitsministeren nu får mulighed for at gå op og runde debatten af. Når det nu er sådan, at der er
+et udvalg, som i så lang tid har siddet og har kigget på det her, som
+de har – og der er det jo flere år, vi taler om – så havde jeg jo også
+
+håbet på, at man var kommet med nogle svar på, hvordan man vil
+gøre det mere effektivt i forhold til dem, som ikke ønsker at blive
+fundet. For det er jo virkelig tidsrøverne. Det er jo i de tilfælde, hvor
+vi i samfundet har nogle, der laver kriminalitet, og som efterfølgende
+ikke vil stå til ansvar for det, men som gemmer sig, og som flytter
+rundt, og hvor selv politiet har ganske, ganske vanskeligt ved at finde disse mennesker. Der kan der gå måneder med efterlysninger og
+med, at man leder efter de pågældende personer. Man kan ikke finde
+dem, og der er retsmøder, der må udsættes i lang tid. Hvad er regeringens svar på det, der vedrører denne gruppe? For alle de tiltag, der
+er i forslaget her, er jo nogle tiltag, der drejer sig om de nemme sager, så det dér kan komme til at gå lidt hurtigere, og det er også fint
+nok, og det støtter vi.
+Men vi savner et svar på: Hvad vil man gøre i forhold til den
+gruppe personer, som man selv fra politiets side har svært ved at finde? Kunne vi forestille os, at den mulighed, der er, for at kunne forkynde det for en advokat, sådan som man i dag har det i de civile
+sager, f.eks. også kunne bruges i forbindelse med straffesagerne?
+Hvis personen f.eks. har en advokat, kunne man så ikke også i straffesagerne forkynde det over for advokaten? For der er jo ingen tvivl
+om, at advokaten hver eneste dag taler med sin klient, og da er der jo
+ikke noget problem med hensyn til det med at give sig til kende,
+mens det er et større problem, når det er politiet, der leder efter en.
+Så er der også noget andet, som jeg savner et svar på, og det ved
+jeg ikke om ministeren kan svare på i dag. Men jeg vil sige, at det er
+første gang – og der drejer det sig alligevel om mange forslag, jeg
+igennem tiderne har været ordfører på – at jeg har oplevet et lovforslag, hvor man på den måde har en lang række forslag til formuleringer af paragraffer, sådan som det er tilfældet i lovforslagets punkt 6
+med hensyn til §§ 155-158 i retsplejeloven, mens man i et andet
+punkt, sådan som det er tilfældet i punkt 7, så har nogle forslag til
+ændring af det, som man lige har foreslået, men som endnu ikke er
+trådt i kraft. Det forstår jeg simpelt hen ikke. Hvorfor nøjes man så
+ikke bare med at have et punkt 7? Hvorfor beskriver man først det,
+som man ikke vil have vedtaget, mens man bagefter beskriver, hvordan man så i øvrigt synes det skal være, hvis det første ikke bliver
+vedtaget?
+Jeg forstår simpelt hen bare ikke teknikken i det. Jeg ved godt, at
+det er sådan lidt nørdet at spørge om det, men jeg tænkte bare, at det,
+når vi nu er retsordførere, da ville være interessant at høre, hvorfor
+man bygger et lovforslag op på den måde, at man først foreslår noget, og at man så dernæst foreslår en ændring af det, som man selv
+lige har foreslået. Så kunne man vel lige så godt have foreslået det
+fra starten af.
+Men vi støtter som sagt forslaget; det er et udmærket forslag.";Tom Behnke
+23603;Time;;Kl. 13:20
+23640;title_name;":
+Tak, det vil vi straks kunne få opklaret, for nu er det justitsministeren.";Bertel Haarder
+23726;Time;;Kl. 13:20
+23762;title_name;":
+Tak for det, formand. Og en stor tak til de partier, som jo over en
+bred front har været positive over for regeringens lovforslag. Jeg synes ikke, der er nogen grund til, at jeg går i detaljer med det her. Jeg
+vil bare fremhæve et par pointer.
+Som det også er blevet sagt, anvendes der jo i dag betydelige ressourcer ved retterne og også hos politiet for at få forkyndt indkaldelser både i civile sager og i straffesager. Og det sker jo jævnligt, at
+manglende rettidig forkyndelse medfører omberammelser og udsættelser af retsmøder. Som sagt har lovforslaget til formål at modernisere reglerne for forkyndelse, så det fremover kommer til at foregå
+både mere effektivt og også mere tidssvarende, men – hvilket jeg og-
+
+Tirsdag den 9. oktober 2012 (L 11)
+
+så er glad for at mange har lagt mærke til i arbejdet – uden at det
+sker på bekostning af retssikkerheden.
+Som sagt er der for det første telefonforkyndelse og for det andet
+en forenklet digital forkyndelse, men jeg synes også, at det ud over
+forslagene om at indføre mere moderne forkyndelsesformer er på sin
+plads at fremhæve forslaget om, at retterne og politiet som noget helt
+nyt skal have adgang til at sende påmindelser til folk om, at de skal
+møde i retten, enten pr. sms eller via e-mail. Det er jeg meget glad
+for at der er blevet taget godt imod, det er et vigtigt forslag. Og vi
+stiller os som sagt som altid til rådighed for Folketinget og her i særlig grad Retsudvalgets videre arbejde med forslaget.
+Der er rejst tre spørgsmål. Det første spørgsmål var fra hr. Dennis
+Flydtkjær om forkyndelse på arbejdspladsen. Det er jo sådan i dag,
+at en stævningsmand først skal forsøge at træffe en borger på vedkommendes bopæl, når der skal forkyndes, før stævningsmanden
+forsøger at træffe den pågældende på arbejdspladsen. Så man kan sige, at der allerede i dag sker forkyndelse på arbejdspladsen, eksempelvis ved at en stævningsmand møder op. Og her får man altså muligheder for at bruge de nye instrumenter til også at forkynde på arbejdspladsen, og det synes jeg sådan set skal foregå under fuldstændig de samme hensyn, som de foregår under i dag, og under den diskretion, som selvfølgelig også er nødvendig.
+Så spørger hr. Tom Behnke til det, som jeg går ud fra relaterer
+sig til den debat, der var her i foråret om, at der var for mange, der
+udeblev fra retssager, altså fra retshandlinger. Det, jeg har bedt
+Domstolsstyrelsen om i den her sammenhæng, er at komme med en
+vurdering af, hvor stort problemets omfang er. Det viste diskussionen jo også at der var relativt stor usikkerhed om, så det er vi ved at
+finde ud af. Dernæst kan det, at man kan give påmindelser, jo forhåbentlig være med til at hjælpe til, at det problem, der er med omberammelser, bliver mindre. Så et lille skridt på vejen vil det her selvfølgelig være, men som sagt har jeg bedt Domstolsstyrelsen om lige
+at svare på spørgsmålet om, hvor stort det problem, der er blevet påpeget, og det problem, som hr. Tom Behnke her nævner, er.
+Så har hr. Tom Behnke også nogle – kan man roligt sige – temmelig lovtekniske spørgsmål. Det tror jeg at jeg vil overlade til alle
+dem, der ved en hel masse om, hvordan det kan være, at man har
+skrevet punkt 6, som man har, og så efterfølgende skriver i punkt 7,
+som man har gjort det. Jeg kan have hr. Tom Behnke mistænkt for,
+at det er sådan et spørgsmål, man sidder og kigger på og godt kunne
+tænke sig at stille til justitsministeren, men så tror jeg også, at hr.
+Tom Behnke godt ved, hvad svaret vil være, nemlig at det svarer vi
+gerne på i udvalgsarbejdet.";Morten Bødskov
+27308;Time;;Kl. 13:24
+27345;title_name;":
+Tak til justitsministeren. Ingen er jo forpligtet ud over sine evner.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Retsudvalget. Hvis ingen gør
+indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+5
+
+Det næste punkt på dagsordenen er:
+3) 1. behandling af lovforslag nr. L 11:
+Forslag til lov om ændring af færdselsloven. (Forsøgsordning vedrørende kommuners håndhævelse af bestemmelser om cykelparkering).
+Af justitsministeren (Morten Bødskov).
+(Fremsættelse 03.10.2012).";Bertel Haarder
+27906;Time;Forhandling;Kl. 13:24
+27955;title_name;":
+Forhandlingen er åbnet. Jeg giver ordet til Venstres ordfører, hr. Jan
+Erik Jørgensen.";Bertel Haarder
+28053;Time;(Ordfører);Kl. 13:24
+28086;name_party;":
+Det er altså både fru Marianne Jelved og hr. Bertel Haarder, der mener, at E'et i mit navn står for alle mulige mystiske ting, men det skal
+foreløbig forblive en hemmelighed mellem mig og en sluttet kreds,
+hvad E'et egentlig står for. men jeg kan sige til hr. Simon Emil Ammitzbøll, at det ikke står for Emil.
+L 11, som er det forslag, vi skal behandle her i dag, omhandler en
+ændring af færdselsloven, hvorefter man som en forsøgsordning vil
+give kommuner mulighed for at flytte cykler, der står parkeret uhensigtsmæssigt, altså til gene for handicappede og ældre, et andet sted
+hen inden for en maks.-afstand af 100 m, dog i særlige tilfælde 300
+m. Det er et tiltag, som flere kommuner har efterspurgt. Jeg tror, det
+først var Frederiksberg Kommune, hvor jeg i øvrigt selv sidder i
+kommunalbestyrelsen, der i sin tid efterspurgte den mulighed, og senere har Københavns Kommune og andre storbykommuner, som det
+primært er, også meldt, at de synes, det kunne være spændende, hvis
+man kunne få lov til det.
+Lad mig til at begynde med sige, at i Venstre er vi overordnet tilfredse med lovforslaget. Vi synes, det lyder som en god idé, at kommuner får mulighed for at flytte cykler, der er parkeret meget uhensigtsmæssigt, så de er til gene for færdslen. I ekstreme tilfælde kan
+de jo også udgøre en sikkerhedsfare, hvis de blokerer nødudgange
+osv. Det vil typisk være cykler, som står ved S-togs-stationer, metrostationer, uddannelsesinstitutioner, indkøbscentre osv., som står til
+gene og dermed gør det svært for andre svage trafikanter, nemlig
+fodgængerne, at komme til og fra.
+I første omgang lægges der op til en frivillig forsøgsordning, og
+det er så sådan, at de kommuner, som agter at benytte sig af ordningen, kan ansøge og skal i ansøgningen beskrive, hvordan de vil gå
+frem, og det skal i øvrigt også ske i samarbejde med det lokale politi.
+Så får vi så afklaret, om det er en god ordning, eller om der er nogle
+uhensigtsmæssigheder, som vi ikke lige har kunnet forudse, og på
+den måde kan vi til sin tid så vedtage en endelig lov, hvor det gøres
+permanent.
+Der er dog et enkelt element i forslaget, som Venstre gerne ser
+indgår i den videre behandling. Det er sådan, at der i lovforslaget
+lægges op til, at afstanden for cykelflytning bør være 100 m og så i
+særlige tilfælde op til 300 m. Der er det i flere af høringssvarene blevet påpeget, at det kan være vanskeligt i tætbebyggede områder at
+finde et egnet sted, der er 100 m væk, så der er det så foreslået, at
+man måske skulle sige 200 m og som undtagelse 500 m. Det er noget af det, vi gerne vil have drøftet i udvalgsarbejdet.
+Som helhed mener vi altså i Venstre, at forslaget har potentiale til
+at løse mange af de problemer, som kommunerne har med uhensigtsmæssigt placerede cykler i bybilledet, samtidig med at de mange
+herreløse cykler i øvrigt også måske kunne sorteres fra, så vi tror, at
+kommunerne vil bruge den her mulighed på en god måde og tage
+
+6
+
+Tirsdag den 9. oktober 2012 (L 11)
+
+hensyn til borgerne. De få kritiske røster, der har været til lovforslaget, er fra Forsikring & Pension og fra Dansk Cyklist Forbund, og
+der går vi ud fra, at forsøgsperioden vil afklare, om de gør ret i at
+have bange anelser, eller om der ikke har været grund til bekymring.";Jan E. Jørgensen
+31337;Time;;Kl. 13:28
+31374;title_name;":
+Tak til Venstres ordfører, hr. Jan E. Jørgensen. Så giver jeg ordet til
+den socialdemokratiske ordfører, hr. Ole Hækkerup.";Bertel Haarder
+31508;Time;(Ordfører);Kl. 13:28
+31537;name_party;":
+Tak, formand. Socialdemokraterne kan også støtte det her lovforslag. Med forslaget bliver det sådan – som det allerede er fremgået
+af den forrige ordførers indlæg – at kommunerne på forsøgsbasis kan
+fjerne ulovligt parkerede cykler. I dag er det selvsagt sådan, at det
+kun er politiet, der kan fjerne cyklerne. Kommunerne skal så kunne
+ansøge justitsministeren om tilladelse, men der er grænser for, hvor
+langt en kommune overhovedet må flytte cyklerne væk. Folk skulle
+jo altså også helst kunne finde deres cykel igen, også selv om de sådan set i udgangspunktet har parkeret den ulovligt. Det er en glimrende idé, og det kan vi støtte.
+Når vi kan det, er det, fordi det jo ikke bare er irriterende, at man
+dårligt kan komme frem, når der er nogle cykler, der holder helt forkert, men man må jo også sige, at der er et hensyn at tage, hvis det er
+brandvæsenet, der skal ned til en metrostation, eller hvis det sådan i
+hverdagen er ældre eller handicappede, der skal forbi.
+Endelig foregår der – selv om det ikke specifikt har noget med
+det her forslag at gøre – hos Rigspolitiet et arbejde med at lave et
+bedre cykelregister. Og der må man jo sige, at når arbejdet hos Rigspolitiet er afsluttet, kunne det være rigtigt, rigtig smart, hvis det var
+muligt at kombinere det med det arbejde, kommunerne laver, sådan
+at vores register over stjålne cykler osv. kunne blive meget bedre,
+end det er i dag.
+På den baggrund kan også vi støtte forslaget.";Ole Hækkerup
+32992;Time;;Kl. 13:29
+33029;title_name;":
+Så er det hr. Kim Christiansen fra Dansk Folkeparti.";Bertel Haarder
+33093;Time;(Ordfører);Kl. 13:30
+33127;name_party;":
+Også hos Dansk Folkeparti er vi overvejende positive over for det
+her forslag. Jeg vil indledningsvis sige, at vi ikke ligefrem er de store
+tilhængere af at lægge mere kompetence ud til kommunerne, når det
+handler om færdselsloven. Og jeg håber i hvert fald heller ikke, at
+det her bliver en glidebane, i forhold til at man på sigt ønsker at lave
+særregler for cykler; vi har set nogle tåbelige forslag fra Københavns
+Kommune om både kørsel mod færdselsretningen og kørsel i venstre
+side osv.
+Isoleret set er det ganske fornuftigt, at vi får styr på de her cykler,
+men jeg må så også sige, at forslaget jo egentlig rejser flere spørgsmål, end det giver svar. For hvordan finder man ud af, om ens cykel
+er stjålet, eller om den blot er fjernet? Man tror måske, at den er stjålet og hensat et eller andet sted af vedkommende, som har taget den,
+og så er den måske bare hensat til opbevaring hos kommunen, uden
+at man egentlig er vidende om det. Der er også et hensyn at tage til
+private grundejerforeninger, som jo mange gange kan være ejer af en
+del af et fortov, hvor man vel godt må stille sin cykel.
+Der er flere spørgsmål i det her. Jeg synes jo f.eks., det burde påkalde sig en eller anden form for gebyr, når man har stillet sin cykel
+til gene for andre, og den derfor bliver fjernet. Når man så skal afhente den igen, burde det vel koste en eller anden form for gebyr. Så
+
+skal der også være en eller anden måde, hvorpå man kan finde ud af,
+hvis cykel det egentlig er. Hvordan skal jeg kunne dokumentere, at
+den fine cykel, der holder derovre, er min? Det kunne jo være, det
+var en gammel skærveknuser, man havde fået fjernet.
+Jeg synes virkelig, det her rejser nogle problemer i forhold til det
+rent praktiske. Men jeg synes, tanken er fantastisk god, fordi det vil
+være med til at rydde lidt op i det morads af cykler, der står rundtomkring til stor gene for gående, som flere har været inde på. Så
+ideen er god, men jeg synes, at vi i hvert fald i udvalgsarbejdet har
+brug for en masse svar på de her mange spørgsmål, hvoraf jeg har
+nævnt nogle få. Så med disse bemærkninger kan jeg sige, at vi i
+Dansk Folkeparti er overvejende positive over for forslaget.";Kim Christiansen
+35305;Time;;Kl. 13:32
+35342;title_name;":
+Tak til Dansk Folkepartis ordfører. Så er det hr. Jeppe Mikkelsen
+som ordfører for Det Radikale Venstre.";Bertel Haarder
+35458;Time;(Ordfører);Kl. 13:32
+35491;name_party;":
+Tak for ordet. Denne lovændring giver justitsministeren hjemmel til
+at tillade forsøgsordninger, således at kommuner kan etablere specifikke zoner, hvorfra de må fjerne ulovligt parkerede cykler. Forslaget kommer som sagt efter et stort ønske fra en række kommuner,
+som oplever at have store problemer med, at cykler er parkeret rundtomkring ved stationer, uddannelsesinstitutioner, indkøbscentre og
+lignende. Cyklerne er til gene, de er et stort problem for handicappede og kan skabe kritiske forhold i nødsituationer.
+Jeg synes, vi skal hæfte os ved, at cyklerne kun må fjernes 100
+m, dog under særlige forhold op til 300 m, fra parkeringsstedet, og at
+man 24-7 skal kunne have adgang til den fjernede cykel, samtidig
+med at der også skal være en god skiltning, således at man kan se, at
+cykler bliver fjernet i zonen og flyttet til et andet sted. Derudover er
+der som sagt et krav til kommunerne om, at der skal være nok med
+cykelparkeringsmuligheder, før de får lov til at oprette sådan en zone. De udvidede beføjelser til kommunerne er i mine øjne således relativt begrænsede, og de vil ikke føre til de største gener for cyklister, som måtte være kommet til at parkere uheldigt.
+Vi bemærker i øvrigt fra radikal side, at forslaget er taget positivt
+imod af både kommuner, erhvervsliv og Dansk Cyklist Forbund, og
+som et cykelbegejstret parti kan vi i Radikale Venstre bakke op om
+dette forslag, som forhåbentlig på en let og elegant måde kan afbøde
+nogle af de uheldige bivirkninger, det har, at vi cykler så fantastisk
+meget, som vi gør, i det danske land.";Jeppe Mikkelsen
+37066;Time;;Kl. 13:34
+37103;title_name;":
+Tak til den radikale ordfører. Så er det fru Karina Lorentzen Dehnhardt som ordfører for Socialistisk Folkeparti.";Bertel Haarder
+37228;Time;"(Ordfører)
+Karina Lorentzen Dehnhardt (SF):
+Tak for det. Vi er også rigtig glade for forslaget, skal jeg hilse og sige fra fru Anne Baastrup, som jeg fremfører en lille tale for her i
+dag. Vi synes nemlig, at ulovlig og uhensigtsmæssig cykelparkering
+er et helt konkret problem, og det kan ikke være rigtigt, at ældre og
+handicappede skal træde ud på cykelstien og sætte liv og lemmer på
+spil, bare fordi fortovet flyder med cykler, og det er sådan set ligegyldigt, om det er ved stationer, uddannelsessteder eller et helt tredje
+sted.
+Endnu værre er det, at de uhensigtsmæssigt og ulovligt parkerede
+cykler kan udgøre et problem i en katastrofesituation. Det kan heller
+ikke være rigtigt, at ambulancer, politibiler, brandbiler ikke kan
+
+Tirsdag den 9. oktober 2012 (L 11)
+
+komme frem til et ulykkessted, fordi der holder cykler ulovligt parkeret, og problemet er kun reelt i dag, fordi kommunerne ikke kan
+stille særlig meget op, men det er noget, som det her forslag gør op
+med.
+Kommunerne vil efter ansøgning nemlig kunne få lov til at fjerne
+ulovligt parkerede cykler til et andet område, hvor cyklens ejer til
+enhver tid kan komme og hente cyklen, vel at mærke uden at der gives anden besked til cyklens ejer, end at det ved skiltning fremgår,
+hvor ulovligt parkerede cykler bliver flyttet til. Det er da en god idé.
+Men vi synes altså også i SF, at man skal gå skridtet videre, for et
+andet og meget væsentligt problem er, at mange af de cykler, der ligger og flyder rundtomkring, er tyvstjålet. Her er kommunerne altså
+også magtesløse. Så hvorfor ikke i sammenhæng med det her lovforslag give kommunerne adgang til politiets register over stjålne cykler? Det synes vi kunne være en rigtig god idé. Tak.";Kl. 13:34
+38951;Time;;Kl. 13:36
+38988;title_name;":
+Tak til SF's ordfører. Så er det fru Pernille Skipper som ordfører for
+Enhedslisten.";Bertel Haarder
+39084;Time;(Ordfører);Kl. 13:36
+39118;name_party;":
+Tak for det. På vegne af vores trafikordfører, hr. Henning Hyllested,
+vil jeg gerne sige, at der ikke er nogen tvivl om, at vi mener, der er
+brug for at få ryddet op i tilfældigt parkerede cykler, som kan være
+til gene for os alle sammen i dagligdagen, og derfor hilser vi det her
+lovforslag velkommen. Vi mener dog også, at der er god grund til
+samtidig at se på, hvor mange cykelparkeringspladser der mangler. I
+Danmark er vi bagud i forhold til mange andre lande med hensyn til
+antallet af cykelparkeringspladser, og det er jo det vigtigste og sagens kerne.
+Men Enhedslisten støtter forslaget og sætter sin lid til, at de øvrige partier også vil være med til at se på, hvordan vi får udvidet antallet af cykelparkeringspladser.";Pernille Skipper
+39860;Time;;Kl. 13:36
+39897;title_name;":
+Tak. Så er det hr. Simon Emil Ammitzbøll som ordfører for Liberal
+Alliance.";Bertel Haarder
+39984;Time;(Ordfører);Kl. 13:37
+40023;name_party;":
+Jeg ved ikke, om der er nogen, der før har beskyldt Liberal Alliance
+for at være cyklisternes parti, men det kan være, at det vil ske efter i
+dag, for vi har tænkt os at stemme nej til det foreliggende lovforslag.
+Vi synes, det ville være naturligt, at det var politiet, der skulle varetage den her opgave, og ikke de enkelte kommuner. Jeg kan slet ikke
+se, hvorfor man skulle flytte det fra en myndighed som politiet og så
+over til den enkelte kommune bare at kunne tage folks cykler og
+flytte dem ikke alene 100 m, men i særlige tilfælde, som hr. Jan E.
+Jørgensen også nævnte, 300 m.
+De kunne jo overveje, om de skulle starte et andet sted i de pågældende kommuner og sørge for, at der var relevante parkeringsmuligheder i nærheden af stationerne, så det var muligt at komme af
+med sin cykel, i stedet for at starte med at finde ud af, hvordan de
+kunne tage folks cykler fra dem. Der har man bl.a. lige sørget for at
+udvide parkeringsmulighederne med det budgetforlig, der er lavet i
+Københavns Kommune, og det kunne de jo også gøre andre steder.
+Men så længe der ikke er de relevante parkeringspladser, er det måske lige voldsomt nok at gå i gang med at tage folks cykler fra dem,
+bare fordi de skal passe deres arbejde eller deres uddannelse eller
+hente deres børn i børnehave, eller hvad de nu skal.
+
+7
+
+Så Liberal Alliance mener, at det her er et dårligt forslag. Og jeg
+er sådan set også enig i det, som Dansk Folkepartis ordfører antydede, om, at det kunne være problematisk ligesom at overgive for mange ting på færdselsområdet til de enkelte kommuner, som man også
+gør med det her forslag.
+Til allersidst må jeg sige, at det må skyldes, at man mener, politiet ikke har de relevante ressourcer, siden man mener, der er andre,
+der skal varetage opgaven, men det må politiforligets partier jo selv
+redegøre for, hvis de ønsker det.";Simon Emil Ammitzbøll
+41873;Time;;Kl. 13:38
+41910;title_name;":
+Der er en kort bemærkning fra hr. Jan E. Jørgensen, og det er til hr.
+Simon Emil Ammitzbøll.";Bertel Haarder
+42014;Time;;Kl. 13:39
+42036;name_party;":
+Jeg skal spørge hr. Simon Emil Ammitzbøll, hvorfor han er bange
+for, at kommunerne får den her hjemmel frem for politiet. Er det,
+fordi hr. Simon Emil Ammitzbøll mener, det kræver en særlig uddannelsesmæssig forudsætning at være i stand til at flytte en cykel,
+der står ulovligt parkeret, eller er det, fordi han mener, at politiet har
+en masse tid, de ikke rigtig ved hvad de skal bruge til, og at det derfor vil være fornuftig brug af politiets ressourcer at sende dem ud til
+metrostationer, indkøbscentre og andet for at flytte cykler? Hvad er
+det, den nærmere begrundelse er for, at Liberal Alliance er bekymret
+for at give kommunerne denne hjemmel?";Jan E. Jørgensen
+42701;Time;;Kl. 13:39
+42738;title_name;":
+Ordføreren.";Bertel Haarder
+42761;Time;;Kl. 13:39
+42789;name_party;":
+Hvad angår politiet, kunne man sikkert godt finde nogle områder,
+hvor politiet kunne give sig til noget mere fornuftigt. Det har jeg i
+hvert fald forstået på en række politibetjente, som er trætte af, at der
+er nogle forskellige resultatkontrakter, der gør, at de sidst på måneden ikke kan udvise konduite over for borgerne, men skal uddele bøder i flæng. Men det kan vi jo tage en diskussion om på et andet tidspunkt – eller igen, hvis hr. Jan E. Jørgensen skulle have flere spørgsmål til politiets arbejde.
+I forhold til kommunerne mener vi sådan set, at de skal lave mindre og ikke mere. Vi vil gerne have, at kommunerne tager sig af færre ting. Vi vil gerne have, at kommunalbestyrelsesmedlemmerne bliver mere flittige med at foretage effektiviseringer, besparelser og
+skattenedsættelser i de danske kommuner i stedet for at sidde og finde på nye opgaver, som de kan sørge for at indkræve skattekroner til.";Simon Emil Ammitzbøll
+43711;Time;;Kl. 13:40
+43748;title_name;":
+Hr. Jan E. Jørgensen.";Bertel Haarder
+43781;Time;;Kl. 13:40
+43803;name_party;":
+Jeg må bare konstatere, at det, som Liberal Alliance siger, er, at man
+sådan set er ligeglad med det her problem, og det er jo fair nok. For
+hvis man lægger det over til politiet og siger, at det fortsat udelukkende er politiet, der skal have den her opgave, så ved vi jo godt,
+hvad der sker. Så bliver cyklerne ikke fjernet, for politiet har, hvad
+jeg synes er ganske fornuftigt, den holdning, at deres ressourcer bedre kan bruges på at finde mordere og tyveknægte og andet end at
+flytte cykler, men der er vi så åbenbart uenige.
+
+8
+
+Tirsdag den 9. oktober 2012 (L 11)";Jan E. Jørgensen
+44386;Time;;Kl. 13:41
+44423;title_name;":
+Ordføreren.";Bertel Haarder
+44446;Time;;Kl. 13:41
+44474;name_party;":
+Nej, vi kan sagtens finde ud af at udlicitere en række af politiets opgaver til private virksomheder. Det har vi sådan set ikke noget problem med i Liberal Alliance, og det håber vi da også at Venstre vil
+være med til at diskutere, når regeringsmagten forhåbentlig skifter
+efter næste folketingsvalg. Men vi må jo se, om det kan lade sig gøre.
+Så sagde jeg sådan set ikke noget om, at der ikke kunne være
+problemer. Jeg synes bare, man skulle løse dem ved at sørge for at
+sikre, at der var de relevante parkeringspladser for cyklisterne, i stedet for at oprette opbevaringspladser, hvor man kan placere de cykler, som man har taget fra borgerne.";Simon Emil Ammitzbøll
+45131;Time;;Kl. 13:41
+45168;title_name;":
+Tak til ordføreren. Så er det hr. Tom Behnke for Det Konservative
+Folkeparti.";Bertel Haarder
+45257;Time;(Ordfører);Kl. 13:41
+45285;name_party;":
+Se, forslaget her er jo kun et forslag om en forsøgsordning. Det, som
+jeg synes man skal lægge meget mærke til, er det, som står omme på
+side 6 i lovforslaget, og som den forrige ordfører måske ikke helt har
+fået læst godt nok på. Det, der står, er:
+Tilladelse til forsøg vil alene blive meddelt, hvis den ønskede adgang til at flytte cykler fra et område med cykelparkeringsrestriktioner eller forbud er begrundet i væsentlige hensyn til færdselssikkerheden, friholdelse af flugtveje eller sikring af rimelige adgangsforhold, herunder for handicappede og gangbesværede eller lignende
+væsentlige hensyn.
+Så det er altså ikke et spørgsmål om, at man bare skal flytte cykler, fordi man synes, det er sjovt, eller fordi man mangler beskæftigelse i politiet eller kommunerne. Det er et spørgsmål om at sikre
+adgangsveje for redningskøretøjer, sikre, at man kan evakuere og at
+folk kan komme væk fra et område uden at skulle vælte over cykler
+eller lignende. Det synes vi faktisk fra konservativ side er et rigtig
+godt forslag.
+Diskussionen er selvfølgelig, om det skal være politiet, som gør
+det i dag, eller om man kan overdrage den opgave til kommunerne.
+Hvad angår håndhævelse af parkeringsreglerne, har vi jo overdraget
+en stor del af det område fra politiet til kommunerne, og det fungerer
+sådan set meget fint. Så her kan man selvfølgelig også gøre det. Jeg
+tror i øvrigt, at skatteyderne sådan set er lidt ligeglade med, om de
+skal aflevere penge fra deres venstre lomme til staten til udførelse af
+opgaven eller penge fra deres højre lomme til kommunen til udførelse af opgaven. Opgaven koster sådan set det samme, uanset om det
+er kommunen eller politiet, der løser den. Det er en opgave, der efter
+vores overbevisning skal løses.
+Vi har selvfølgelig også været meget bekymrede og har også en
+lang række spørgsmål til ministeren. Nogle af dem vil jeg nævne her
+i dag og håbe på at få svar på. For det er selvfølgelig ikke uproblematisk, når man gør det, for hvad med den person, som ikke selv har
+stillet cyklen der? Hvis jeg stiller min cykel fuldstændig lovligt i et
+cykelstativ og der så kommer en bagefter og smider min cykel væk
+for at stille sin egen der, så står min cykel pludselig ulovligt parkeret, og så bliver den fjernet. Hvad så?
+Nu er der ikke nogen sanktioner forbundet med det, og det er sådan set meget godt, for så er det problem måske løst. Men hvad nu,
+
+hvis der sker skade på cyklen under flytningen? Hvem har ansvaret
+for min cykel, når en kommunal medarbejder tager den og flytter
+den? Hvem har ansvaret for cyklen? Hvad nu, hvis jeg rent faktisk
+har parkeret ulovligt med min cykel og låst den fast til et cykelskilt
+eller lignende? Er kommunen så berettiget til at klippe låsen over og
+fjerne cyklen? Det er ikke helt uvæsentligt.
+Det andet er: Hvis jeg nu opdager, at min cykel er væk, fordi
+kommunen har fjernet den, fordi den har stået ulovligt parkeret – det
+er sådan set fair nok – og jeg så tror, at der er nogen, der har stjålet
+min cykel, og ringer til politiet for at anmelde, at min cykel er stjålet,
+hvordan ved politiet så, at den i virkeligheden ikke er stjålet, men
+står nede på kommunens dertil indrettede parkeringsplads til bortfjernede cykler? Det står nemlig ikke i lovforslaget, men er det sådan, at kommunen skal orientere politiet om, at man har flyttet dem
+her med oplysning om stelnumre, så cyklerne kan blive fremlyst og
+så videre? Hvis det er en del af det, ville det i hvert fald gøre det
+nemmere. Jeg synes ikke, jeg så det i forslaget her, men det ville være skønt at få svar på dels det med, hvem der bærer ansvaret, hvis der
+sker noget, og dels hvordan man sørger for, at cykler ikke unødigt
+bliver efterlyst som stjålne, når de rent faktisk ikke er stjålne.
+Samlet set støtter vi forslaget, det er et ganske glimrende forslag.";Tom Behnke
+49086;Time;;Kl. 13:45
+49123;title_name;":
+Tak til alle ordførerne. Så er det justitsministeren.";Bertel Haarder
+49188;Time;;Kl. 13:45
+49224;title_name;":
+Tak for det, formand. Også tak for de mange positive tilkendegivelser, der har været om lovforslaget. Jeg vil starte med at sige, at jeg er
+helt enig i hr. Tom Behnkes indledende bemærkninger, nemlig dem
+om, at det her ikke bare er noget, der kommer ud af det blå. Det
+kommer ud af, at der er et problem. Der er konstateret for mange
+problemer med for mange cykler, som billedlig talt ligger hulter til
+bulter på steder, hvortil vi alle sammen har behov for adgang, og
+hvor eksempelvis også handicappede og andre, som har vanskeligt
+ved at komme frem, skal have bedre adgangsforhold. Derfor har vi
+jo bl.a. fået henvendelser – det er helt rigtigt, som hr. Jan E. Jørgensen sagde – fra Frederiksberg Kommune og også fra Københavns
+Kommune, som har ønsket det her. Lignende ønsker kunne man sagtens forestille sig er i andre større byer, hvor der altså er behov for at
+få mulighed for så at sige at rydde op på de her områder, som man
+har behov for adgang til. Derfor er forslaget indrettet, som det er.
+I første omgang er det en forsøgsordning, så kommunerne får
+mulighed for at oprette, hvad man kunne kalde opmagasineringspladser, og flytte cyklerne hen på dem. Der vil selvfølgelig være forsvarlig skiltning, så man, når man sætter sin cykel her, vil kunne se
+det. Altså, hvis man ikke sætter den ordentligt eller forsvarligt, vil
+man ud fra skiltet i hvert fald have en fornemmelse af, at hvis det så
+at sige bliver temmelig mange cykler, der ligger oven i hinanden, er
+der altså en risiko for, at den bliver fjernet og flyttet hen til den pågældende opmagasineringsplads.
+Jeg er helt sikker på, at den positive modtagelse, som forslaget
+har mødt hos både kommunerne og cyklisterne selv, har afsæt i, at
+det er et rigtig godt forslag. Der er selvfølgelig en hel række forudsætninger knyttet til, at en kommune kan få lov til at benytte sig af
+den her forsøgsordning. Det første er, at kommunerne vil skulle oprette de her opmagasineringspladser. Det giver sig selv. Det skal være sådan, at det er meget nøje afmålt, hvilke områder der er tale om.
+Hr. Jan E. Jørgensen spurgte til forholdet om, hvor langt man må
+flytte cyklerne væk. Der står ca. 300 m i lovforslaget, og det er selvfølgelig en forsøgsordning, så forholdene skal, som hr. Jan E. Jørgensen også antydede, selvfølgelig afspejle, på hvilke områder de
+her opmagasineringspladser skal laves. De her afstandskrav vil selv-
+
+Tirsdag den 9. oktober 2012 (L 16)
+
+følgelig også indgå i den evaluering af selve lovforslaget, som skal
+finde sted.
+Hr. Simon Emil Ammitzbøll fra Liberal Alliance spørger: Hvorfor opretter kommunerne ikke bare et passende antal cykelparkeringspladser, et passende antal muligheder for, at cyklisterne kan komme af med deres cykel? Det er faktisk også en forudsætning for at
+opnå tilladelse til rent faktisk at benytte sig af den her ordning, at
+man selvfølgelig skal sikre, at kommunerne opretter et passende antal cykelparkeringspladser, så det her ikke bare bliver en ventil til
+billedlig talt at genere cyklisterne.
+Vi stiller os selvfølgelig gerne til rådighed for alle de spørgsmål,
+der er blevet rejst i forlængelse af det her, og dem kan vi jo som altid
+sagtens finde besvarelse på i Folketingets Retsudvalg. Men tak for
+de mange positive tilkendegivelser.";Morten Bødskov
+52488;Time;;Kl. 13:49
+52525;title_name;":
+Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Retsudvalget. Hvis ingen gør
+indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+4) 1. behandling af lovforslag nr. L 16:
+Forslag til lov om ændring af forskellige lovbestemmelser om
+obligatorisk digital kommunikation m.v. (Obligatorisk digital
+kommunikation og tilpasninger som følge af ressortoverførsel
+m.v.).
+Af erhvervs- og vækstministeren (Ole Sohn).
+(Fremsættelse 03.10.2012).";Bertel Haarder
+53099;Time;Forhandling;Kl. 13:49
+53148;title_name;":
+Forhandlingen er åbnet, og og jeg giver første ord til Venstres ordfører, hr. Karsten Lauritzen.";Bertel Haarder
+53256;Time;(Ordfører);Kl. 13:50
+53290;name_party;":
+Tak. Venstres ordfører er egentlig hr. Michael Aastrup Jensen, men
+han kunne desværre ikke være til stede her i salen i dag, og derfor
+har jeg lovet at læse hans ordførertale op.
+Med nærværende lovforslag foreslår regeringen, at det snarest
+muligt bliver obligatorisk, at kommunikation mellem virksomheder
+og det offentlige kommer til at foregå digitalt. Som ministeren har
+anført i lovforslaget, ligger det i forlængelse af den fællesoffentlige
+digitaliseringsstrategi fra august 2011. Det er en strategi, Venstre
+lancerede sammen med De Konservative, kommunerne og regionerne, mens vi sad i regering. Den fællesoffentlige digitaliseringsstrategi var et led i VK-regeringens og vores samarbejdspartneres store
+indsats for at digitalisere velfærden – et arbejde, der med tiden har
+udmøntet sig i redskaber som borger.dk, NemID, Virk.dk og elektronisk sags- og dokumenthåndtering. Det er værktøjer, der har gjort
+det nemmere at være borger, og som effektiviserer arbejdet i den offentlige sektor.
+
+9
+
+Regeringen har med andre ord, fornuftigt nok, valgt at forfølge
+den kurs, vi udstak i vores regeringstid. Derfor er vi også helt enige
+i, at dette lovforslag er et af de næste skridt på vejen mod et samfund
+og en offentlig sektor, hvor vi udnytter det enorme potentiale, der
+ligger i at digitalisere velfærdsløsningerne. Ved hjælp af teknologien
+skal vi gøre tingene smartere, ikke for at være smartere, men for at
+spare ressourcer – ressourcer, der i stedet kan anvendes til at klare
+andre opgaver eller løse mange af de nye udfordringer, vi står over
+for.
+L 16 er en samlelov, der rummer 67 erhvervsrettede love på Erhvervs- og Vækstministeriets område. Med lovforslaget indføres der
+hjemmel til obligatorisk digital kommunikation på de enkelte sagsområder. Det gør således, at erhvervs- og vækstministeren ved bekendtgørelse kan fastsætte nærmere regler for obligatorisk digital
+kommunikation, herunder bl.a. regler om brug af særlige systemer
+og formater. Tilsvarende skabes der mulighed for, at økonomi- og
+indenrigsministeren efter forhandling med styrelsen for Danmarks
+Statistik kan fastsætte regler om digital indberetning til Danmarks
+Statistik.
+Endelig rummer lovforslaget en opdeling af relevante bestemmelser i teleloven som følge af den nye ressortfordeling mellem Erhvervs- og Vækstministeriet og Forsvarsministeriet.
+Virksomheder og offentlige myndigheder kommunikerer allerede
+i dag digitalt. Ved at gøre den digitale kommunikation obligatorisk,
+sikres der den fulde effektiviseringsgevinst. Det samme var formålet,
+da vi i foråret behandlede et tilsvarende lovforslag om kommunikation mellem borgere og offentlige myndigheder. Det er imidlertid helt
+afgørende, at der i implementeringen tages hensyn til virksomhederne. Digitaliseringen skal ikke trækkes ned over hovedet på dem.
+Lovforslaget giver som sagt erhvervs- og vækstministeren hjemmel
+til ved bekendtgørelse at fastsætte nærmere regler for obligatorisk
+digital kommunikation. Det er meget vigtigt, at disse bekendtgørelser sendes i høring i god tid, og at virksomhederne i videst muligt
+omfang inddrages, når systemerne og procedurerne udvikles.
+Mange af høringsbidragsyderne efterlyser ensartede systemer og
+procedurer. Dette ønske samt ønsket om en tilstrækkelig lang overgangsfase kan Venstre fuldt ud tilslutte sig.
+Venstre kan ligeledes tilslutte sig lovforslaget, men samtidig vil
+vi dog understrege, at vi ikke skal digitalisere af hensyn til de offentlige myndigheder. Digitaliseringen skal forbedre den offentlige service til glæde for borgere og virksomheder. Borgere og kloge systemer giver virksomheder mere tid til det, de er bedst til, nemlig at
+producere og skabe værdier for vores samfund.
+Jeg skal sige, at jeg i anledning af lovforslaget har valgt at læse
+talen op fra min iPad i stedet for et stykke papir, så vi kan alle lære
+mere af teknologien. Med de ord skal jeg på vegne af hr. Michael
+Aastrup Jensen sige, at Venstre bakker op om lovforslaget.";Karsten Lauritzen
+57249;Time;;Kl. 13:53
+57286;title_name;":
+Tak til Venstres ordfører og hans iPad. Så giver jeg ordet til den socialdemokratiske ordfører, fru Trine Bramsen.";Bertel Haarder
+57412;Time;(Ordfører);Kl. 13:53
+57442;name_party;":
+Tak for det. Danskerne er europamestre i brug af internettet. Særlig
+vores ældre over 65 år topper den europæiske hitliste, når det kommer til at være digitale. Samtidig viser utallige undersøgelser, at
+virksomheder, der er digitale, er langt mere effektive og konkurrencedygtige end de konkurrenter, der endnu ikke har taget de digitale
+virkemidler til sig. Udviklingen går kun én vej, og det er mod mere
+digitalisering. Foreningen for Dansk Internethandel, FDIH, spår, at
+50 pct. af al handel i 2020 vil være nethandel. Hertil kommer, at en
+stadig større del af logistik og administration også vil foregå digitalt.
+
+10
+
+Tirsdag den 9. oktober 2012 (L 16)
+
+Derfor er det helt centralt, at danske virksomheder bliver digitale
+hurtigst muligt, hvis de skal klare sig i fremtiden.
+Regeringen har sat turbo på den digitale udvikling, både med den
+fællesoffentlige digitaliseringsstrategi og med en lang række øvrige
+digitaliseringstiltag på bl.a. folkeskoleområdet, ældreområdet, forskningsområdet og her på erhvervsområdet. Det er en udvikling, som
+vi Socialdemokrater hilser meget velkommen. Vi vil nemlig sikre, at
+Danmark er med helt i front, når det kommer til digitalisering, både
+fordi det sparer samfundet for milliarder af kroner, og fordi det samtidig gør hverdagen lettere for både borgere og virksomheder, men
+også fordi det er nøglen til fremtidens vækst og velstand.
+Digitaliseringsstrategien skal som bekendt sikre, at alt skriftlig
+kommunikation mellem borgere og virksomheder og det offentlige
+foregår digitalt ved udgangen af 2015, og at virksomhederne fra
+2012 kan indberette digitalt til offentlige myndigheder. Derfor har
+dette lovforslag til formål at understøtte, at kommunikationen mellem virksomheder og borgere og det offentlige skal foregå digitalt,
+også på Erhvervs- og Vækstministeriets område.
+Med lovforslaget foretages ændringer i 67 erhvervsrettede love
+på Erhvervs- og Vækstministeriets område. På 67 områder gør vi det
+således lettere at kommunikere effektivt til glæde for både virksomheder og borgere og ikke mindst det offentlige. Vi giver altså hermed et velmenende skub til de virksomheder, der endnu ikke har set
+de mange fordele i digitaliseringen, eller som bare ikke lige er kommet med.
+Vi Socialdemokrater finder det positivt, at det med lovforslaget
+sikres, at der indføres hjemmel til obligatorisk digital kommunikation på de enkelte sagsområder, således at erhvervs- og vækstministeren ved bekendtgørelse kan fastsætte nærmere regler for obligatorisk
+digital kommunikation, herunder bl.a. regler om brug af særlige systemer og formater. Vi finder det også positivt, at der med lovforslaget desuden foretages ændringer i en enkelt lov på økonomi- og indenrigsministerens område. Det sker i lov om Danmarks Statistik,
+hvor der ligeledes gives mulighed for, at man kan indberette digitalt.
+Socialdemokraterne vil sikre, at alle kan være med, og at ingen
+tabes i digitaliseringen, og derfor er vi også glade for, at der med
+lovforslaget åbnes mulighed for, at man kan komme med i et lidt
+langsommere tempo, hvis det er det, der er ønsket.
+Lad mig til sidst slå fast, at vi Socialdemokrater ønsker et Danmark, der fortsat er i front, når det gælder den digitale udvikling. Det
+kræver politisk handling, og derfor er jeg glad for, at der også på Erhvervs- og Vækstministeriets område nu sættes målrettet ind med
+konkrete initiativer.
+Jeg skal på vegne af Socialdemokraterne give opbakning til lovforslaget.";Trine Bramsen
+60900;Time;"Vi anerkender fuldt ud, at det er i virksomhedens egen interesse,
+at de kan se frem til en hurtigere kommunikation imellem deres egen
+virksomhed og de offentlige myndigheder. Og vi mener også, at det
+er med til at optimere de administrative arbejdsgange i den enkelte
+virksomhed, og at det selvfølgelig derfor også er i virksomhedens
+egen interesse. Men jeg synes alligevel også, at vi skylder os selv at
+være så hæderlige at sige om det her med at kalde det obligatorisk, at
+vi lige så godt kunne have sat ordet tvangsmæssig regulering ind i
+lovforslaget, for det er det, der er tale om. Der er jo tale om en lov,
+som går ind i 68 forskellige love her i Folketinget og medfører tvang
+over for den enkelte virksomhed.
+Grunden til, at vi støtter lovforslaget alligevel, er, at vi som sagt
+tror på, at der vil være en lang række steder, hvor man selvfølgelig
+kan sige at det på den lange bane vil være til glæde for virksomhederne selv. Vi tror også på, at der vil være en række initiativer, som
+vil kunne gøre det bedre. Og vi har også noteret os, at der bl.a. lægges op til, at der vil være en vis form for hjælp at få hos det offentlige for de virksomheder, som er mindre it-mindede.
+I nogle af de høringssvar, vi har fået, kan vi også se, at man highlighter problemet med oversættelse i forbindelse med meget store
+datamængder, eksempelvis kortfiler, og det er jo noget, som vi selvfølgelig også skal sikre os at få klarhed over i lovgivningen.
+Der er også kritik i forbindelse med hurtigheden i implementeringen af det her lovforslag, hvor nogle er betænkelige over, at det går
+for hurtigt, og andre er betænkelige over, at det går for langsomt. Og
+så er der nogle, der er betænkelige over, om der nu også er sikret en
+ordentlig hjælp til de ikke it-parate virksomheder.
+En anden side af sagen er jo, at vi med det her lovforslag kan se
+frem til – og det er noget, som vi i hvert fald ikke umiddelbart er
+særlig glade for i Dansk Folkeparti – at man giver en automatisk lovhjemmel til ministeren og med sådan en elastiklov siger: Jamen vi
+kan bare overdrage kompetencen til den til enhver tid siddende minister. Og så kan ministeren med en ministeriel bekendtgørelse gå ind
+og lovdiktere, ud fra hvad ministeren selv synes er godt og rimeligt
+og fair. Og det er vi ikke så store tilhængere af, for vi mener faktisk,
+at lovændringer altså bør foretages gennem parlamentet, som folk er
+valgt til, og ikke, fordi der sidder en tilfældig minister, som kan gå
+ind og diktere bekendtgørelsesændringer, fordi man har indført sådan en elastikklausul, som der lægges op til i det her lovforslag.
+Vi er overvejende positive, men vi er ikke så glade for, at man
+prøver at sælge det her som noget, der udelukkende er godt, for det
+er altså også formynderi, og det er altså også regeltyranni, og det er
+altså også et sted, hvor man går ind og tager beslutningsgrundlaget
+og -kompetencen fra den enkelte erhvervsdrivende og lægger ind i
+en tvangsmæssig ordning. Men det var ordene. Vi glæder os til den
+videre debat i udvalget.";Kl. 13:57
+63928;Time;;Kl. 14:01
+63965;title_name;":
+Tak til ordføreren. Så går vi til den næste ordfører, som er hr. Hans
+Kristian Skibby, Dansk Folkeparti.";Bertel Haarder
+64081;Time;;Kl. 13:57
+64118;title_name;":
+Tak til ordføreren. Så er det hr. Andreas Steenberg for Det Radikale
+Venstre.";Bertel Haarder
+64207;Time;(Ordfører);Kl. 14:01
+64245;name_party;":
+Det er nu ikke, fordi vi vil være sådan specielt meget imod det her
+lovforslag, og vi læner os sådan set i overvejende grad op ad de
+kommentarer, som lovforslaget allerede har fået af partierne før os.
+Men der er alligevel en vis grad af bekymring og betænkelighed fra
+vores side, for hvis man kigger på det her lovforslag, kan man se, at
+det jo er tvang pakket ind i flotte ord. Altså, når man siger »obligatorisk«, er det jo det samme som at sige » tvangsmæssigt«, og det betyder, at med det her lovforslag og de mange love, der vil blive ramt
+af det, er der en lang række love, hvor man går ind og siger, at det er
+obligatorisk. Det betyder, at man tvangsmæssigt gør det sådan, at
+virksomhederne skal kommunikere på den her måde.
+
+(Ordfører)";Hans Kristian Skibby
+65014;name_party;":
+Med det her lovforslag letter vi byrderne for både erhvervslivet og
+for ministerierne, for vi sparer nemlig penge i det offentlige ved at
+indføre obligatorisk digital indberetning for virksomheder og borgere på Erhvervs- og Vækstministeriets område og på Økonomi- og Indenrigsministeriets område, hvad angår indberetning til Danmarks
+Statistik.
+Virksomhederne skal i forvejen indberette. Nu skal det bare foregå digitalt for at spare penge for virksomhederne og det offentlige.
+Virksomhederne kommer til at spare penge, fordi de ikke er afhængige af åbningstider og ikke skal printe ud, men bare kan bruge com-
+
+Tirsdag den 9. oktober 2012 (L 16)
+
+puteren. Samtidig kan staten spare penge, fordi man ikke skal sidde
+og taste det hele ind. Der er altså tale om en ren win-win-situation
+for både virksomhederne og det offentlige.
+Hvis vi tager moderne metoder i brug, kan der spares milliarder
+af kroner i det offentlige. På den måde kan vi få mere for pengene
+eller undlade at hæve skatterne for at finansiere velfærd. Digital
+kommunikation er økonomisk ansvarligt, smartere og mere fleksibelt. Regeringen vil derfor modernisere og digitalisere; simpelt hen
+for at få mere velfærd for pengene. Det hele foregår med oplysning
+og med penge til oplysning til virksomhederne, og der er også lagt
+op til, at det skal foregå i et tempo, så teknologien kan følge med.
+Radikale Venstre er rigtig glade for det her lovforslag. Vi tror på, at
+det sparer penge for både erhvervslivet og staten. Derfor kan vi støtte lovforslaget.";Andreas Steenberg
+66544;Time;;Kl. 14:03
+66581;title_name;":
+Tak til ordføreren. Så er det fru Karina Lorentzen Dehnhardt for Socialistisk Folkeparti.";Bertel Haarder
+66682;Time;"(Ordfører)
+Karina Lorentzen Dehnhardt (SF):
+Tak. Jeg er blevet udstyret med en lille tale fra vores erhvervsordfører, fru Annette Vilhelmsen, som desværre ikke kan være her i dag.
+Jeg skal sige følgende:
+Ud over at forslaget her er en nødvendig del af strategien om digitaliseringen af kommunikationen med det offentlige, ser vi i SF en
+række specifikke fordele ved forslaget. En helt afgørende faktor ved
+forslaget her er, at det styrker dansk erhvervsliv og konkurrenceevnen, samtidig med at det mindsker administrativt bøvl og sørger for
+hurtigere sagsgange, så man ikke skal vente flere dage på, at postbudet kommer med et svar. Det er alt sammen noget, der med til at give dansk erhvervsliv en fordel, og det er der altså brug for i en tid
+med lav vækst og svære økonomiske forhold.
+Samtidig lægger vi i SF vægt på, at der er blevet udformet tilbud
+til mindre it-parate virksomheder. Det er rigtig vigtigt, at vi ikke løber nogen virksomheder over ende med en udvikling, som de i særlige tilfælde ikke helt kan følge med, og det er der taget hensyn til i
+forslaget her. Med fritagelses- og overgangsordninger sikres en mere
+glidende overgang, og samtidig stiller staten rådgivning og hjælp til
+rådighed. Og det ser vi positivt på.
+Herudover er det glædeligt, at de svageste forbrugere også medtænkes. Det er essentielt, at alle borgere har mulighed for at indgive
+klager til eksempelvis Forbrugerombudsmanden, også selv om de ikke har kompetence til eller mulighed for at gøre det digitalt.
+Forslaget styrker altså konkurrenceevnen, det mindsker de administrative byrder, og så sørger det for, at både borgere og virksomheder kan få nogle hurtige svar fra de myndigheder, de henvender sig
+til. Samtidig medtænkes de svageste borgere og de virksomheder,
+som har brug for tid og hjælp. Derfor kan vi i SF med tilfredshed
+støtte det her forslag.";Kl. 14:03
+68541;Time;;Kl. 14:05
+68578;title_name;":
+Tak. Og så er det fru Stine Brix for Enhedslisten.";Bertel Haarder
+68640;Time;(Ordfører);Kl. 14:05
+68668;name_party;":
+Jeg skal på vegne af Enhedslisten sige, at vi også kan støtte forslaget. Når vi tidligere har været kritiske over for dele af den fælles offentlige digitaliseringsstrategi – f.eks. vedrørende digital post – skyldes det, at vi kan se, at der er en gruppe af borgere, som ikke er parate til at bruge it eller ikke har adgang til it, og at der kan være sager,
+
+11
+
+hvor man som borger skal have kontakt med myndigheder og er i en
+sårbar situation, hvor der kan være behov for, at man sidder over for
+et andet menneske frem for kun at kommunikere digitalt.
+Når vi ser på det forslag, der ligger her, og som hidrører Erhvervsministeriets område, kan vi se, at det vedrører kommunikationen mellem virksomheder og offentlige myndigheder. Her kan vi
+sagtens se en række fordele, og her kan vi stadig have en intakt retssikkerhed. Vi synes, det er ganske fornuftigt, at kommunikationen
+mellem virksomheder og de offentlige myndigheder bliver lettet, og
+at der bliver skabt bedre mulighed for at kommunikere digitalt. Derfor kan vi som sagt sagtens støtte forslaget.
+Jeg har to bemærkninger: Den ene er, at jeg synes, det er vigtigt,
+at man husker på at sikre en høj grad af brugervenlighed. Især når vi
+har at gøre med et obligatorisk digitaliseringsprojekt, kan man sige,
+at der jo ikke er samme incitament fra de offentlige myndigheders
+side til at udvikle tilstrækkelig brugervenlighed, og derfor er det
+uhyre vigtigt, at man holder sig det for øje. Vi har desværre også set
+mange offentlige digitale løsninger, som f.eks. ikke har kunnet kommunikere med alle typer af it-platforme eller forskellige typer af
+browsere, og derfor er det vigtigt, at vi holder fast i princippet om
+åbne standarder.
+Den anden bemærkning er, at jeg vil tilslutte mig bemærkningen
+fra SF's ordfører om forbrugerklager. Vi ser positivt på det, hvis der
+som minimum bliver mulighed for undtagelser i stil med de undtagelser, der er vedrørende digital post. Tak for det.";Stine Brix
+70619;Time;;Kl. 14:07
+70656;title_name;":
+Tak til ordføreren. Og så er det hr. Ole Birk Olesen fra Liberal Alliance.";Bertel Haarder
+70742;Time;(Ordfører);Kl. 14:07
+70775;name_party;":
+Jeg vil starte med at sige, at vi fra Liberal Alliances side støtter lovforslaget. Vi ser det som en naturlig forlængelse af den teknologiske
+udvikling, der finder sted i samfundet, at virksomheder og myndigheder i dag – med fordel for begge parter – kan kommunikere digitalt frem for at kommunikere på papir.
+Jeg vil lige bruge ganske kort tid på at adressere nogle af de problemstillinger, som Dansk Folkepartis ordfører, hr. Hans Kristian
+Skibby, nævnte heroppefra. Hr. Hans Kristian Skibby siger, at det jo
+er et problem, at virksomhederne på en eller anden måde bliver tvunget til nu at kommunikere digitalt i stedet for at kommunikere på papir, og at det derfor på en eller anden måde er problematisk. Men sådan er jo nu engang bare udviklingen. Vi kan heller ikke længere
+kommunikere med det offentlige via brevduer eller hestedroscher,
+som vi sender af sted med post osv., og det må virksomheder og det
+offentlige jo egentlig bare leve med og så glæde sig over, at de ikke
+behøver det længere. At forestille sig, at vi, når der kommer sådan
+nogle nye teknologier, skulle bevare de gamle i meget lang tid, fordi
+der på en eller en måde skal være et frit valg, synes jeg ville være en
+unødig omkostning at pålægge skatteyderne, må jeg sige.
+Den anden indvending, som hr. Hans Kristian Skibby havde, var,
+at lovforslaget bemyndiger ministeren til at gennemføre det her, i
+stedet for at hver enkelt element skal ned i Folketingssalen. Der vil
+jeg bare gerne sige tak for, at vi her i Folketingssalen ikke skal beslutte den slags ting om, hvordan kommunikationen på bestemte områder skal foregå mellem virksomheder og myndigheder, men at vi
+siger til ministeren, at det må han gerne udfærdige med den hensigt,
+at tingene skal foregå digitalt i stedet for at foregå på papir. Det synes jeg er en god arbejdsdeling, så vi støtter lovforslaget.
+
+12
+
+Tirsdag den 9. oktober 2012 (L 16)";Ole Birk Olesen
+72673;Time;;Kl. 14:09
+72710;title_name;":
+Tak, og der er sandelig en kort bemærkning fra hr. Hans Kristian
+Skibby.";Bertel Haarder
+72794;Time;;Kl. 14:10
+72821;name_party;":
+Jeg vil næsten sige, at det havde hr. Ole Birk Olesen jo nok forventet. Ellers ville han nok komme herned senere og bebrejde mig, at
+jeg ikke havde stillet nogle spørgsmål til ham.
+Jeg vil gerne sige til hr. Ole Birk Olesen, at jeg ikke lige var klar
+over, at der skulle diskuteres brevduer i dag. Men vi tager da gerne
+en diskussion om brevduer og hestehviskere. Jeg tror, det var det,
+ordføreren var inde på.
+Men det var ikke det, der var en del af min kritik af det her. Jeg
+siger jo faktisk, at vi egentlig dybest set også støtter det her lovforslag, men vi er bare lidt lorne ved det her med, at det igennem hele
+den her lov ser ud til, at man giver en endnu større ministerbeføjelse.
+Jeg synes egentlig også, at det er lidt underligt, at Liberal Alliance overhovedet kan finde på at støtte det, al den stund at man jo i
+hvert fald fra Liberal Alliances side mange gange og ved talrige lejligheder har sagt, at man går ind for, at det skal være parlamentarismen, som styrer Danmark. Og det er jo altså ikke parlamentarisme,
+når man i stigende omfang tager bemyndigelsen væk fra Folketinget
+og lægger den over til en eller anden tilfældig minister for et eller
+andet tilfældigt område.
+Det er det, der sådan set sker med det her lovforslag, og det er
+grunden til, at vi også tillader os at tage fat på den del af bekymringen.";Hans Kristian Skibby
+74162;Time;;Kl. 14:11
+74199;title_name;":
+Ordføreren.";Bertel Haarder
+74222;Time;;Kl. 14:11
+74244;name_party;":
+Jeg ved ikke rigtig, hvad det er Dansk Folkeparti forestiller sig man
+kunne gøre her. Altså, Folketinget udlægger en strategi, som handler
+om, at kommunikationen mellem virksomheder og myndigheder skal
+foregå digitalt. Og så bemyndiger Folketinget ministeren til sådan
+mere konkret at gennemføre den strategi.
+Alternativet ville jo være, at vi skulle samles hernede for hvert
+område, hvor der sker en overgang fra papirkommunikation til digital kommunikation. Der er i alt 68 – tror jeg, det er – områder, og for
+hvert af dem skulle vi så diskutere, hvorvidt det ville være godt eller
+skidt og i øvrigt alle sammen mene, at det var godt. Så det ville give
+rigtig mange meget enslydende behandlinger af noget, som vi ikke
+behøver at spilde vores tid på.";Ole Birk Olesen
+75008;Time;folkeskolen og alle mulige andre steder. Men når der står obligatorisk, så må man også have lov til at forholde sig til, at det er det samme som at lovregulere.;Kl. 14:11
+75180;Time;;Kl. 14:12
+75217;title_name;":
+Ordføreren.";Bertel Haarder
+75240;Time;;Kl. 14:12
+75262;name_party;":
+Jamen det handler jo bare om, at når det offentlige nu gennemfører
+hele den her digitaliseringsstrategi, så skal man ikke have et parallelt
+embedsmandsapparat ved siden af, som beskæftiger sig med dem,
+der måtte ønske at sende tingene ind på papir.
+Jeg synes, det er fint, at det er obligatorisk, så vi ikke skal have
+sådan et parallelt embedsmandsapparat, som behandler papir. Hvorfor skulle vi dog have det? Det er jo til syvende og sidst til gavn for
+både virksomhederne og skatteyderne, at det her kan gøres mere effektivt digitalt.";Ole Birk Olesen
+75810;Time;;Kl. 14:13
+75847;title_name;":
+Tak til ordføreren. Så er det den sidste ordfører, hr. Brian Mikkelsen
+fra Det Konservative Folkeparti.";Bertel Haarder
+75962;Time;(Ordfører);Kl. 14:13
+75995;name_party;":
+Jeg vil godt starte med at rose. Det er selvfølgelig ikke så normalt
+for tiden for en trængt regering og i særdeleshed for en minister for
+et relativt trængt parti at få ros, men jeg vil godt rose ministeren og
+regeringen for et fornuftigt lovforslag. Det følger jo op på den digitaliseringsstrategi, der blev aftalt sidste år, og som var et initiativ fra
+VK-regeringen med det formål at lave en demokratisk digitalisering.
+Det er ikke en obligatorisk digitalisering forstået på den måde, at vi
+bare vil tvinge det ned over hovederne på folk, men det er en digitaliseringsstrategi, som handler om, at man bruger digitalisering, altså
+it, mest muligt overalt i den offentlige sektor. Det her element er jo
+en del af det på erhvervs- og vækstministerens område.
+Det er et godt forslag, som Det Konservative Folkeparti helt klart
+kan støtte. Det vil medføre administrative besparelser for virksomheder og borgere. Det vil gøre livet lettere for virksomhederne i Danmark. Jeg vil ikke helt overdrive effekten af det, men der er hvert
+fald en effekt i, at man nu skal kommunikere digitalt, og at det ikke
+mere foregår på print, på papir og alle mulige andre ting. Så er det jo
+også med til at fremme it-penetrationen i Danmark. Vi er i forvejen
+et land, som har en høj penetration, et højt it-kundskab. Det her vil
+give et ekstra incitament til, at flere vil benytte sig af de redskaber.
+Så alt i alt er det et godt forslag, som Det Konservative Folkeparti bakker hundrede procent op om.";Brian Mikkelsen
+77489;Time;;Kl. 14:14
+77526;title_name;":
+Hans Kristian Skibby.";Bertel Haarder
+77559;Time;;Kl. 14:11
+77586;name_party;":
+Jamen nu ved jeg ikke, om hr. Ole Birk Olesen synes, at han spilder
+sin tid. Så kunne han jo vælge ikke at stille op til Folketinget. Altså,
+det her er et parlament. Det er et sted, hvor vi diskuterer lovforslag
+og meninger og holdninger og alt muligt andet, så jeg synes egentlig,
+det er ganske fair, at man gør det på den måde.
+Men hvad synes Liberal Alliance egentlig om det her med, at
+man bruger ordet »obligatorisk« og ikke nævner, at det jo sådan set
+er tvang? Det er jo tvangsregulering. Så kan man kalde det et pænere
+ord og sige, at det er obligatorisk, ligesom vi har obligatoriske fag i";Hans Kristian Skibby
+78223;title_name;":
+Tak til alle ordførerne. Så er det erhvervs- og vækstministeren, der
+hæfter ende på debatten. Værsgo.";Bertel Haarder
+78336;Time;"Erhvervs- og vækstministeren (Ole Sohn):
+Tak for den positive modtagelse af lovforslaget. Man kan sige, at det
+her lovforslag udmønter regeringens målsætning om, at al skriftlig
+kommunikation mellem borgere, virksomheder og det offentlige skal
+foregå digitalt inden udgangen af 2015. Det indebærer også, at virksomhederne allerede fra 2012 og snarest derefter, når den nødvendige lovgivning og de effektive løsninger er på plads, vil kunne indberette digitalt til myndighederne.
+
+Tirsdag den 9. oktober 2012 (FM )
+
+Øget digitalisering giver store gevinster for samfundet og bidrager til en effektiv opgavevaretagelse i det offentlige såvel som bredt
+i det danske samfund. Obligatorisk digital kommunikation reducerer
+således virksomhedernes administrative byrder i både tid og penge
+og hjælper dem med at følge med i den digitale udvikling. Samlet giver det en væsentlig konkurrencefordel og medvirker til at fremme
+vækst og fremgang for dansk erhvervsliv. Med obligatorisk kommunikation opnår vi derfor tre ting. For det første fremmer vi en hurtigere kommunikation mellem virksomhederne og det offentlige. For
+det andet sikrer vi en hurtigere og mere effektiv service fra myndighedernes side. For det tredje optimerer vi arbejdsgangene hos både
+virksomheder og myndigheder.
+Formålet med lovforslaget er at skabe et hjemmelsgrundlag til, at
+der kan fastsættes nærmere regler for digital kommunikation i løbet
+af 2013. I takt med at de tekniske løsninger kommer på plads, skal
+virksomhederne foretage al skriftlig kommunikation digitalt på Erhvervs- og Vækstministeriets område.";Kl. 14:15
+79928;Time;"13
+
+Med de ord ser jeg frem til en konstruktiv drøftelse af lovforslaget i udvalget.";Kl. 14:16
+80024;Time;;Kl. 14:18
+80061;title_name;":
+Tak til erhvervs- og vækstministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Erhvervs-, Vækst- og Eksportudvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+5) 1. behandling af lovforslag nr. L 7:
+Forslag til lov om CO2-kvoter.
+Af klima-, energi- og bygningsministeren (Martin Lidegaard).
+(Fremsættelse 03.10.2012).";Bertel Haarder
+80534;Time;Velkomstord;Kl. 14:18
+80583;title_name;":
+Må jeg lige afbryde?
+Folketinget har i dag officielt besøg af formanden for det britiske
+underhus, hr. John Bercow. På Folketingets vegne byder jeg den britiske parlamentsformand velkommen her i Folketinget, idet jeg udtrykker ønske om, at vores gæst må få et godt og udbytterigt ophold i
+Danmark.
+Værsgo, så kan ministeren fortsætte.
+
+Det næste punkt på dagsordenen er:
+4) 1. behandling af lovforslag nr. L 16:
+Forslag til lov om ændring af forskellige lovbestemmelser om
+obligatorisk digital kommunikation m.v. (Obligatorisk digital
+kommunikation og tilpasninger som følge af ressortoverførsel
+m.v.).
+Af erhvervs- og vækstministeren (Ole Sohn).
+(Fremsættelse 03.10.2012).";Bertel Haarder
+81268;Time;"Forhandling
+Erhvervs- og vækstministeren (Ole Sohn):
+Samtidig skabes der med lovforslaget rum for, at der kan etableres
+fritagelses- og overgangsordninger på de områder, hvor der er virksomheder, som ikke føler sig it-stærke nok til at kommunikere hundrede procent digitalt med det offentlige på nuværende tidspunkt.
+Lovforslaget giver derfor hjemmel til, at man i bekendtgørelsen kan
+fastsætte overgangsordninger, som kan lette overgangen til digital
+kommunikation, hvor det er relevant.
+Endelig giver det mulighed for, at der kan oprettes støtte- og rådgivningsfunktioner, som kan bistå virksomhederne med digital kommunikation. Derfor er der afsat 5 mio. kr. til målrettet information,
+udvidet telefonsupport og personlig hjælp på bibliotekerne ved anvendelse af de digitale løsninger.
+
+Forhandling";Kl. 14:17
+82107;title_name;":
+Forhandlingen er åbnet. Den første taler er hr. Eyvind Vesselbo, der
+taler for Venstre.";Bertel Haarder
+82206;Time;(Ordfører);Kl. 14:18
+82238;name_party;":
+Lovforslaget her gennemfører et EU-direktiv, der har til formål at
+forbedre og udvide ordningen for handel med CO2-kvoter. Forslaget
+betyder, at en række regler harmoniseres, og at det derfor ikke længere på en række områder er nødvendigt med en national lovgivning
+i forbindelse med EU's kvotehandelssystem. Der indføres ændrede
+regler for fastsættelse af en samlet kvotemængde i EU, for tildeling
+af gratiskvoter og for statens auktionering af kvoter, så de fremover
+er fælles for alle EU-lande. EU's kvoteordning sikrer, at der er et
+samlet loft over drivhusgasudledningen i hele EU, og det forhold, at
+kvoterne kan omsættes, betyder, at loftet overholdes billigst muligt.
+For Venstre er det afgørende, at kvoteordningen er markedsbaseret og markedsdrevet, således at der gennemføres reduktioner, når
+det er den billigste og mest hensigtsmæssige måde at gøre det på,
+mens der købes kvoter, når det er billigst eller mest hensigtsmæssigt.
+På samme måde kan overskydende kvoter sælges på markedet. Handel med kvoter sikrer, at det samlede mål nås billigst muligt, således
+at reduktioner foretages i de brancher og i de lande, hvor det er billigst at gennemføre dem. Ikke mindst i økonomisk vanskelige tider
+er det afgørende, at reduktionsforpligtelserne gennemføres så billigt
+som muligt, og uden at det går ud over konkurrenceevnen.
+EU's kvotesystem har siden 2005 været et vigtigt virkemiddel til
+at nå målene i EU's klimapolitik. De ændringer, der er i direktivet, vi
+i dag behandler, har til formål at udvide og effektivisere ordningen
+og rette op på en række problemer, der er konstateret i den første
+handelsperiode, der strakte sig fra 2005 til 2007. Reglerne her kommer til at dække perioden fra 2013 til 2020, og de ændrede regler
+skulle gerne betyde, at vi kommer snyd og forsøg på at udnytte huller i reglerne til livs. Dette snyd og overtrædelserne af reglerne har
+jo været et af de debatemner, der har været om de her kvoter, og nu
+
+14
+
+Tirsdag den 9. oktober 2012 (L 7)
+
+bliver der forhåbentlig sat en stopper for det. Derfor kan Venstre
+støtte lovforslaget.";Eyvind Vesselbo
+84324;Time;;Kl. 14:21
+84361;title_name;":
+Tak til ordføreren. Så er det hr. Mikkel Dencker fra Dansk Folkeparti.";Bertel Haarder
+84443;Time;(Ordfører);Kl. 14:21
+84475;name_party;":
+Jeg skal med glæde forsøge at udfylde rollen som repræsentant for
+Folketingets næststørste parti. Det kan jo være, det bliver en realitet
+en dag.
+Lovforslaget her går, som den foregående ordfører allerede har
+været inde på, ud på at lave nogle ændringer af reglerne om CO2kvoter. Det er jo sådan, at man har indført CO2-kvotesystemet for at
+opnå en form for koordineret klimapolitik, inden for rammerne af
+EU. Dansk Folkeparti har jo normalt en ganske skeptisk holdning til
+Den Europæiske Union, men vi skal også anerkende, at der kan være
+enkelte eller i hvert fald nogle positive elementer i samarbejdet. Det
+skal man jo også anerkende, når det er tilfældet. Vi anerkender
+f.eks., at EU's indre marked skaber fair og rimelige konkurrenceforhold for erhvervsvirksomheder, og miljøområdet er så et andet område, hvor det er godt at have en koordineret politik.
+I tilfældet her kan vi så også godt se formålet med at have de her
+CO2-kvoter, nemlig at man har noget hånd i hanke med, hvor meget
+CO2 der udledes. Og her er det så nogle regler, der forbedres eller
+ændres, så systemet kommer til at virke i højere grad, end det har
+gjort hidtil. F.eks. laves der et fælles loft, så man undgår at skulle
+have nationale regler, som måske af og til har fungeret lidt autonomt
+og dermed har modarbejdet det egentlige formål med samarbejdet.
+En anden vigtig ting i lovgivningen her er, at luftfarten bliver
+inddraget som en af de sektorer, som er omfattet af kvotesystemet.
+Det er der jo også en vis logik i, i og med at luftfarten er en stor forurener og forbruger af brændstoffer. Så det er ganske udmærket.
+Jeg vil også sige, at i Dansk Folkeparti ser vi positivt på, at en
+større del af kvoterne ikke bliver fordelt som gratiskvoter, men bliver auktioneret på den måde, at virksomhederne skal købe kvoterne.
+Det kan på kort sigt selvfølgelig være en bagdel at skulle købe kvoterne, men på den anden side kan vi så også se, at danske virksomheder, i kraft af at vi har haft høje energipriser i mange år, jo allerede
+har fået energieffektiviseret ret meget – og det skal vi også anerkende – sådan at det bliver en konkurrencemæssig fordel, at vi har den
+her energieffektive produktion i Danmark, mens man i andre, måske
+syd- og østeuropæiske lande, har langt højere brændstof- og CO2forbrug, når man producerer, og dermed kommer til at skulle købe
+flere kvoter, hvormed man får en dyrere produktion.
+Da der er tale om nogle udmærkede hensigter med lovforslaget
+her – og vi måske også kan øjne, at der kunne blive nogle konkurrencefordele for danske virksomheder i den nuværende situation –
+kan vi godt støtte lovforslaget.";Mikkel Dencker
+87102;Time;;Kl. 14:24
+87139;title_name;":
+Tak til ordføreren. Så er det hr. Rasmus Helveg Petersen som ordfører for Det Radikale Venstre.";Bertel Haarder
+87246;Time;(Ordfører);Kl. 14:25
+87286;name_party;":
+Tak for det. I denne sag taler jeg også på vegne af Socialdemokraterne og Socialistisk Folkeparti.
+
+Lov om CO2-kvoter gennemfører direktiv 2009/29/EF. Med gennemførelsen af direktivet forbedrer og udvider vi ordningen for handel med CO2-kvoter i EU. En af de meget gode effekter af forslaget
+er, at vi får fastsat en samlet CO2-kvote-mængde i EU. Det betyder,
+at vi som konsekvens af det her forslag, der jo altså gennemføres på
+europæisk niveau, må forvente, at mange af de omfattede virksomheder fremover skal købe deres CO2-udlednings-tilladelser. Dermed
+er vi på vej derhen, hvor vi gerne vil være, nemlig at CO2-reduktionerne sker dér, hvor det bedst kan betale sig. Det hilser vi velkommen. Det er også vores opfattelse, at dette system i særlig grad vil
+tilgodese det energieffektive danske erhvervsliv, og det hilser vi også velkommen.
+Vi mener, at vi med denne lov og dette direktiv retter en stor fejl
+i arkitekturen omkring køb og salg af CO2-kvoter. Det er selvfølgelig værd at huske på, at det, at arkitekturen er i orden, ikke er det
+samme, som at priserne når det omfang, der skal til, for at vores klimaudfordringer bliver løst. Så vel hilser vi dette redskab velkommen, men det er ikke, fordi vi i den anledning vil begynde at hvile på
+laurbærrene. Vi er glade for det foreliggende forslag og støtter det,
+men vi mener ikke, at vi alene på den måde når i mål med at få nedbragt vores CO2-udledning.
+Endelig vil jeg hæfte mig ved, at lufttrafikken med dette forslag
+bliver involveret i CO2-kvote-handelen. Det hilser vi også velkommen.
+Så vi tre partier støtter forslaget.";Rasmus Helveg Petersen
+88886;Time;;Kl. 14:26
+88923;title_name;":
+Tak til den radikale ordfører. Så er det hr. Per Clausen for Enhedslisten.";Bertel Haarder
+89009;Time;(Ordfører);Kl. 14:27
+89038;name_party;":
+Heldigvis, kan man sige, er det jo sådan i Danmark, at et stort flertal
+af Folketingets partier har erkendt, at en række af de betragtninger,
+der står i det her lovforslag, ikke er rigtige. I Danmark ved vi godt,
+at hvis vi vil nå i mål med den udvikling, vi skal have inden en overgang til vedvarende energi, og med den reduktion, som er nødvendig
+i forhold til CO2-udslip, så er det ikke nok at læne sig op ad EU's
+CO2-regler og CO2-udlodninger – slet ikke nok. Jeg synes, det er
+rigtig godt, at vi har det udgangspunkt, at vi godt ved, at der skal andet og mere til, og at det, vi har at gøre med, når vi snakker om CO2kvoter, er helt utilstrækkeligt. Med den situation, som har udviklet
+sig omkring prisen på CO2-kvoter, kan man sige, at medmindre vi
+skal komme i den situation, at CO2-kvoterne måske i virkeligheden
+kommer til at spille en negativ rolle, så bliver vi også nødt til at se
+på, hvordan man effektiviserer og forbedrer det system, når man nu
+insisterer på at bevare det med nogle argumenter, som jo i virkeligheden ikke holder vand. Det er jo et spørgsmål om, om man skal tilbageholde en række af de CO2-kvoter, som rent faktisk godt kunne
+sælges for nuværende – udloddes, bortauktioneres – for på den måde
+at reducere CO2-udslippet og øge prisen og dermed gøre det mere
+attraktivt at satse på omstilling til vedvarende energi og energibesparelser. Sådan set er det jo ret oplagt, at det burde være – og måske
+også er – en dansk position at gå den vej, fordi det også sikrer, at der
+bliver en eller anden sammenhæng mellem den fornuftige og nødvendige energipolitik, vi fører i Danmark, og så den, som man kunne
+forsøge at bruge kvotesystemet til at presse på for at opnå.
+Det er givetvis rigtigt, som det er sagt heroppefra, at det lovforslag, der ligger her, medvirker til at skabe et CO2-kvotesystem, der
+fungerer en lille smule bedre, end det gør i dag. Det vil vi naturligvis
+
+Tirsdag den 9. oktober 2012 (L 7)
+
+ikke forhindre eller stille os imod, men man skal ikke opfatte vores
+positive holdning til det, som at vi har ændret grundlæggende holdning til kvotesystemet.
+Jeg vil så også sige, at der jo er enkelte ting, som jeg synes påkalder sig en særlig opmærksomhed. Det drejer sig bl.a. om, om produktionsenheder, der udelukkende anvender biomasse, skal være
+omfattet af loven. Altså om, om kvotesystemet skal baseres på en
+opfattelse af, at hvis man bare fyrer med biomasse, så har man ingen
+CO2-udledning. Det er efter min og Enhedslistens mening en fuldstændig forkert opfattelse, og i de kommende år vil man formentlig
+være nødt til at erkende, at det ikke er rigtigt, og at man – når det
+drejer sig om anvendelse af biomasse – i nogle tilfælde vil kunne se
+en miljømæssig fornuftig anvendelse og en udnyttelse, som er meget
+tæt på at være CO2-neutral, men i andre tilfælde kan man nå frem til
+nogle helt andre resultater. Derfor synes vi sådan set, at man i stedet
+for at sige, at produktionsenheden ikke er omfattet af loven, hvis der
+udelukkende anvendes biomasse, burde sige, at det ikke er omfattet
+af loven, hvis der udelukkende anvendes CO2-fri biomasse. For så
+gik man ligesom ind og forholdt sig reelt til den CO2-reduktion, der
+sker, når man bruger biomasse, i stedet for at tage udgangspunkt i en
+efter vores opfattelse forkert og meget, meget teoretisk indgangsvinkel til det spørgsmål.
+Den del af det vil vi nok forsøge at forfølge lidt i udvalgsarbejdet. Vi ved godt, at når det kommer til stykket, så er der her tale om
+EU-regler, hvor man jo i stor udstrækning kan hoppe og danse lige
+så tosset, man vil, for vi har tilsluttet os reglerne i EU, og meget anderledes bliver det ikke. Men vi vil nu alligevel prøve at rejse i hvert
+fald den diskussion.
+Men hovedårsagen til, at Enhedslisten forholder sig positivt til
+det her lovforslag, er, at det retter op på nogle fejl og mangler uden
+at gøre systemet velfungerende og uden at løse de grundlæggende
+problemer, der er i CO2-kvotesystemet. Vi kan også roligt, synes
+jeg, stemme for det her, fordi der jo er et meget stort flertal i Folketinget for, at vi ved siden af CO2-kvoterne faktisk kan føre en aktiv
+energipolitik og en aktiv klimapolitik, og så længe der er det, gør det
+her jo ikke nogen stor skade.
+Men jeg synes, må jeg sige, at Liberal Alliance og hr. Villum
+Christensen – jeg ved ikke, om det er med vilje, men det er i hvert
+fald ret konsekvent – negligerer to meget væsentlige forudsætninger:
+Det her kvotesystem og den kvoteperiode, som vi behandler i dag,
+går til 2020. Vi ved, at vi på den anden side af 2020 også skal reducere udledningerne markant for at nå de klimamål, som jeg sådan set
+tror Liberal Alliance tilslutter sig principielt set. Hvis vi kun satte os
+ned og sagde: Vi behøver ikke lave energieffektivitet, vi behøver ikke udbygge vedvarende energi i Danmark, hvordan skulle vi så nogen sinde kunne reducere kvoteloftet yderligere efter 2020, hvis ikke
+vi, når vores kulkraftværker bliver gamle, begyndte at erstatte dem
+med vindmøller eller lave energieffektivitet, når vores bygninger
+trænger til en kærlig hånd under alle omstændigheder. Altså, det er
+simpelt hen for kortsigtet kun at kigge frem til 2020. Vi har brug for
+den rullende udskiftning, når det gamle materiel bliver for gammelt.
+Så investerer vi 40 år ud i fremtiden, og der skal vi selvfølgelig satse
+på et moderne, bæredygtigt energisystem.
+Den anden dimension, som jeg synes man glemmer meget, er vores forsyningssikkerhed. Og det er en stor diskussion. Men lad mig
+bare sige det på den måde: I de sidste 10 år er prisen på solceller blevet mere end halveret, og prisen på vindmøller er faldet med 20 pct.
+Omvendt er prisen på kul, olie og gas steget. Når det gælder kul og
+gas er den fordoblet, og for oliens vedkommende er den mangedoblet. Ingen af os kan vide, om den udvikling vil fortsætte i forhold til
+fossile brændstoffer og vedvarende energi, men det, vi taler om, er:
+Hvilken risiko har vi lyst til at løbe? Vi betaler en marginal ekstraudgift for i dag at investere i en sikker energi- og elforsyning til Dan-
+
+15
+
+mark i mange årtier frem. Det er vores egen energi, og der er oven i
+købet erhvervsfordele forbundet med det. Det har ikke noget med
+klimaet at gøre; det har bare noget at gøre med, hvad det er for en
+energiforsyning, vi ønsker for Danmark. Og det argument synes jeg
+man har en tilbøjelighed til meget ofte at glemme, og det synes jeg
+er ærgerligt, fordi det ikke er ligegyldigt.
+Jeg kan glæde hr. Villum Christensen med, at vi lige har fået en
+ny statistik, der viser, hvad omkostningen egentlig er ved at producere el i Danmark sammenlignet med andre lande, og den tror jeg næsten jeg vil give tilsagn om at sende over til Liberal Alliance. Vi har
+meget høje afgifter på el, som hr. Villum Christensen vil vide. Man
+kan diskutere, om det er fornuftigt, men det er med til at betale vores
+velfærdsstat, vores sundhed og uddannelse og meget mere. Men hvis
+nu man tager afgifterne væk og ligesom kigger på, hvad det koster at
+producere den el, herunder de PSO-udgifter, der er med til at finansiere, at vi også investerer i vind, så vil vi se, at produktionsprisen
+for el i Danmark faktisk ligger under gennemsnittet i EU. Og hvis vi
+kigger på el til erhvervslivet, kan vi se, at vi faktisk ligger meget,
+meget lavt i forhold til andre lande, selv om vi allerede i dag har 40
+pct. vedvarende energi i vores elektricitet. Så det er lidt af en myte,
+når man siger, at det er kanondyrt at gå den grønne vej. Det er det
+altså ikke altid.
+Det var mine kommentarer. Jeg er glad for den interesse, der er
+udtrykt for lovforslaget her i Folketinget i dag, og jeg ser frem til at
+fortsætte de konstruktive drøftelser, som jeg kan høre vi får om forslagets enkelte elementer i udvalgene. Og med disse bemærkninger
+vil jeg anmode om en velvillig behandling af lovforslaget.";Per Clausen
+96836;Time;;Kl. 14:31
+96868;title_name;":
+Tak til ordføreren. Næste ordfører er hr. Villum Christensen, Liberal
+Alliance.";Bent Bøgsted
+96959;Time;(Ordfører);Kl. 14:31
+96995;name_party;":
+Tak for det. Liberal Alliance synes, at intentionen med dette lovforslag er rigtig. Man er nødt til at sikre en vis knaphed på markedet,
+hvis det her kvotesystem skal give mening. Og vi synes, det giver
+mening, at CO2-reduktionen finder sted der, hvor den er billigst, da
+Vorherre, eller hvem der sidder deroppe, naturligvis er ligeglad med,
+hvem der er synderen – for at blive i sproget. Miljøproblemer er jo
+globale, og med dette system vil europæiske virksomheder være omfattet af samme tildelingsregler, uafhængigt af hvilket land de er placeret i. Det er jo godt.
+Når dette er sagt, bør logikken være, at når vi investerer i vedvarende energi – vind, sol m.v. – må prisen for reduktionen af et ton
+CO2 ikke være højere, end hvad prisen er på den pågældende kvote,
+hvor det hele som bekendt opererer i et nulsumsspil. Det er selvfølgelig her, vi er lidt kritiske, eller hvor vi synes, at kæden hopper af i
+vores hoveder. For vi har jo valgt en energipolitik – bl.a. med udbygning af de mange vindmøller – hvor vi har valgt at betale flere
+hundrede procent mere for CO2-reduktion end det, som er nødvendigt, med det resultat, at vi frivilligt og sådan set også med stolthed i
+virkeligheden gør det modsatte af det, som er hovedbegrundelsen for
+kvotesystemet, nemlig at få så prisbillig en CO2-reduktion som muligt. Nok om det, det er blot en lille krølle, jeg synes skulle med.
+CO2-kvotesystemet, som det her er fremlagt, synes vi er positivt,
+og vi tilslutter os det. I samme moment vil vi udtrykke et lønligt håb
+om, at vi samtidig med centraliseringen her kan komme den megen
+svindel til livs, som Rigsrevisionen også har påpeget.
+
+16
+
+Tirsdag den 9. oktober 2012 (L 7)";Villum Christensen
+98684;Time;;Kl. 14:33
+98716;title_name;":
+Tak til ordføreren. Så er det hr. Mike Legarth som ordfører for De
+Konservative.";Bent Bøgsted
+98808;Time;(Ordfører);Kl. 14:33
+98838;name_party;":
+Tak for det. Det vi drøfter her er implementeringen af EU's ændringsdirektiv for CO2-kvoteordningen. Og alle de tiltag, der er beskrevet, synes vi peger i den rigtige retning med hensyn til prissætning for den forurening, der foregår. Derfor støtter Det Konservative
+Folkeparti forslaget.
+Det er en harmonisering af ordningen inden for EU-landene, og
+det, vi især hæfter os ved, er, at gratiskvoter kommer med – der bliver reguleret for dem – og at flytrafikken bliver inkluderet, så der
+kommer et fast regelsæt for det. Og så har lovforslaget til formål at
+undgå konflikter med fastlæggelse af udledningsniveauer mellem
+landene. Det sikrer en effektiv kvoteordning som et vigtigt virkemiddel til at reducere udledningen af drivhusgasser. Det er jo sund fornuft, og derfor støtter Det Konservative Folkeparti det.";Mike Legarth
+99663;Time;;Kl. 14:34
+99695;title_name;":
+Tak til ordføreren. Så er det klima-, energi- og bygningsministeren.";Bent Bøgsted
+99775;Time;"Klima-, energi- og bygningsministeren (Martin Lidegaard):
+Mange tak. Og tak til ordførerne for de kommentarer, der er faldet;
+de er alle sammen positive, og det er jeg glad for.
+Forslaget her skal jo skabe et solidt grundlag for at træde ind i
+EU-kvoteordningens tredje periode. Lovforslaget implementerer
+Europa-Parlamentets og Europa-Rådets reviderede kvotedirektiv for
+den kommende 8-årige handelsperiode, 2013-2020, og resultatet er
+blevet et mere harmoniseret kvotesystem, hvor regler og principper i
+højere grad fastsættes på EU-niveau for at sikre mere ensartede vilkår på tværs af EU.
+Mest markant i direktivet er, synes jeg, den gradvise reduktion i
+kvoteloftet, som vil komme i årene frem til 2020, til et niveau, der er
+21 pct. lavere end 2005-udledningerne. Og efter 2020 fortsætter faldet i samme takt. Med lovforslaget har vi dermed taget et vigtigt
+skridt i retning af et forbedret kvotesystem, som kan bidrage til opfyldelsen af vores målsætninger om at nedbringe drivhusgasudledningerne ikke alene til gavn for klimaet, men også til gavn for den
+europæiske forsyningssikkerhed.
+De hovedelementer, der ændres i forhold til den hidtidige kvotelov er, som flere ordførere har været inde på, at vi går fra et nationalt
+kvoteloft til et samlet kvoteloft, at flere sektorer, herunder fly og
+gasser, omfattes af ordningen, at der kommer harmoniserede regler
+for bortauktionering af overskydende gratiskvoter og fælles regler
+for tildeling af gratiskvoter efter benchmarks – altså ingen gratiskvoter til elproducenter – og endelig at der kommer fælles regler for
+overvågning, rapportering og verificering.
+Der er ingen tvivl om, at det samlede resultat af EU's kvoteregulering er et mere omfattende setup. Vi spænder et fintmasket net ud,
+som sikrer, at overvågning af udledninger og tildelinger af kvoter
+sker efter ensartede regler, og at rygraden i kvoteordningen dermed
+forbliver intakt og udvikler sig mere. Og det er den rygrad, vi skal
+læne os op ad, hvis – eller når – vi forhåbentlig lykkes med at få
+målsætningen
+for reduktion af CO2-udledning i EU sat op fra 20 pct. til 30 pct.
+Så har der været et par enkelte kommentarer, som jeg jo ikke kan
+nære mig for at lige at kommentere, fra de mere EU-skeptiske partier
+og især Enhedslisten, der aldrig forsømmer en lejlighed til at skælde
+
+ud på EU's manglende ambitioner på området. Og det er jo rigtigt, at
+det er svært at være lige så ambitiøs som Danmark – det vil jeg gerne medgive hr. Per Clausen. Men når man kigger ud på resten af
+verden, må jeg sige, at man ellers godt nok skal have mikroskopet
+frem for at kunne laste EU for ikke at have ambitioner på klima- og
+miljøområdet. EU er jo den eneste store spiller i verden, der har sat
+sig CO2-mål for 2020, har sat sig mål for vedvarende energi og for
+energieffektivitet, og som rent faktisk er på vej til at implementere
+dem. Det er 20 pct. vedvarende energi, 20 pct. CO2-reduktion og 20
+pct. energieffektivitet i 2020. Dermed er EU helt enestående i verden, og det synes jeg man trods alt lige skal løfte lidt på hatten for,
+selv om man i øvrigt ikke er begejstret for EU.
+Hvad angår biomasse, er jeg enig med hr. Per Clausen i, at det er
+noget, vi har brug for se på, og jeg kan fortælle, at der også kommer
+forslag fra Europa-Kommissionen om at få defineret bæredygtig biomasse. Hvad jeg til gengæld er meget enig med hr. Per Clausen i,
+er, at det kvotesystem, vi har lige nu, ikke kan stå alene. Og her
+kommer så en kommentar til Liberal Alliances ordfører. Det er en
+diskussion, vi har haft længe, og Liberal Alliance er jo det eneste
+parti, der ikke er en del af det energiforlig, vi indgik i marts måned.
+Det, som er den klassiske argumentation, også fra hr. Villum Christensens side, er: Vi har jo kvotesystemet, hvad mere kan vi ønske
+os? Så kan vi jo bare sætte os ned, og så går alting af sig selv.";Kl. 14:34
+103619;Time;"Klima-, energi- og bygningsministeren (Martin Lidegaard):
+Men jeg synes, må jeg sige, at Liberal Alliance og hr. Villum Christensen – jeg ved ikke, om det er med vilje, men det er i hvert fald
+ret konsekvent – negligerer to meget væsentlige forudsætninger: Det
+her kvotesystem og den kvoteperiode, som vi behandler i dag, går til
+2020. Vi ved, at vi på den anden side af 2020 også skal reducere udledningerne markant for at nå de klimamål, som jeg sådan set tror
+Liberal Alliance tilslutter sig principielt set. Hvis vi kun satte os ned
+og sagde: Vi behøver ikke lave energieffektivitet, vi behøver ikke
+udbygge vedvarende energi i Danmark, hvordan skulle vi så nogen
+sinde kunne reducere kvoteloftet yderligere efter 2020, hvis ikke vi,
+når vores kulkraftværker bliver gamle, begyndte at erstatte dem med
+vindmøller eller lave energieffektivitet, når vores bygninger trænger
+til en kærlig hånd under alle omstændigheder. Altså, det er simpelt
+hen for kortsigtet kun at kigge frem til 2020. Vi har brug for den rullende udskiftning, når det gamle materiel bliver for gammelt. Så investerer vi 40 år ud i fremtiden, og der skal vi selvfølgelig satse på et
+moderne, bæredygtigt energisystem.
+Den anden dimension, som jeg synes man glemmer meget, er vores forsyningssikkerhed. Og det er en stor diskussion. Men lad mig
+bare sige det på den måde: I de sidste 10 år er prisen på solceller blevet mere end halveret, og prisen på vindmøller er faldet med 20 pct.
+Omvendt er prisen på kul, olie og gas steget. Når det gælder kul og
+gas er den fordoblet, og for oliens vedkommende er den mangedoblet.
+Ingen af os kan vide, om den udvikling vil fortsætte i forhold til fossile brændstoffer og vedvarende energi, men det, vi taler om, er:
+Hvilken risiko har vi lyst til at løbe? Vi betaler en marginal ekstraudgift for i dag at investere i en sikker energi- og elforsyning til Danmark i mange årtier frem. Det er vores egen energi, og der er oven i
+købet erhvervsfordele forbundet med det. Det har ikke noget med
+klimaet at gøre; det har bare noget at gøre med, hvad det er for en
+energiforsyning, vi ønsker for Danmark. Og det argument synes jeg
+man har en tilbøjelighed til meget ofte at glemme, og det synes jeg
+er ærgerligt, fordi det ikke er ligegyldigt.
+Jeg kan glæde hr. Villum Christensen med, at vi lige har fået en
+ny statistik, der viser, hvad omkostningen egentlig er ved at producere el i Danmark sammenlignet med andre lande, og den tror jeg næsten jeg vil give tilsagn om at sende over til Liberal Alliance. Vi har
+
+Tirsdag den 9. oktober 2012 (FM )
+
+meget høje afgifter på el, som hr. Villum Christensen vil vide. Man
+kan diskutere, om det er fornuftigt, men det er med til at betale vores
+velfærdsstat, vores sundhed og uddannelse og meget mere. Men hvis
+nu man tager afgifterne væk og ligesom kigger på, hvad det koster at
+producere den el, herunder de PSO-udgifter, der er med til at finansiere, at vi også investerer i vind, så vil vi se, at produktionsprisen
+for el i Danmark faktisk ligger under gennemsnittet i EU. Og hvis vi
+kigger på el til erhvervslivet, kan vi se, at vi faktisk ligger meget,
+meget lavt i forhold til andre lande, selv om vi allerede i dag har 40
+pct. vedvarende energi i vores elektricitet. Så det er lidt af en myte,
+når man siger, at det er kanondyrt at gå den grønne vej. Det er det
+altså ikke altid.
+Det var mine kommentarer. Jeg er glad for den interesse, der er
+udtrykt for lovforslaget her i Folketinget i dag, og jeg ser frem til at
+fortsætte de konstruktive drøftelser, som jeg kan høre vi får om forslagets enkelte elementer i udvalgene. Og med disse bemærkninger
+vil jeg anmode om en velvillig behandling af lovforslaget.";Kl. 14:38
+107298;Time;Forhandling;Kl. 14:41
+107342;title_name;":
+Tak. Der er en kort bemærkning. Hr. Per Clausen.";Bent Bøgsted
+107402;Time;;Kl. 14:41
+107420;name_party;":
+Tak til ministeren for næsten kun gode svar. Det er jeg meget glad
+for. Jeg er særlig glad for, at ministeren også er opmærksom på problemstillingen omkring biomasse og CO2-reduktion. Der er bare en
+enkelt ting, jeg har lyst til sige til ministeren, og det er, at der ikke er
+tale om at slå automatpiloten til, når man vil finde noget at kritisere
+EU for. Sagen er jo, at det lyder vældig flot, at man i EU vil reducere
+CO2-udslippet med 20 pct. i 2020, men ministeren ved lige så godt
+som jeg, at hvis man skal overholde 2-graders-målsætningen, som
+jeg også ved ministeren går ind for, skal de industrialiserede lande jo
+op på mellem 25 og 40 pct.s reduktion. Det vil sige, at EU – som jeg
+er enig i er mindre ikkeambitiøs end en række andre aktører – jo ikke leverer det, der skal til. Til gengæld gør vi det jo sådan set i Danmark, fordi vi har sagt 40 pct. i 2020, og det er jeg selvfølgelig rigtig, rigtig tilfreds med.
+Men jeg synes nu, der kan være grund til at være kritisk over for
+EU i forhold til det, vi skal op på. Ikke så meget i forhold til alle mulige andre aktører, men i forhold til det, vi skal op på, synes jeg der
+kan være grund til stadig at hejse flaget og sige, at det ikke er godt
+nok.";Per Clausen
+108642;Time;;Kl. 14:42
+108674;title_name;":
+Ministeren.";Bent Bøgsted
+108697;Time;"Klima-, energi- og bygningsministeren (Martin Lidegaard):
+Der må jeg give hr. Per Clausen helt ret. Jeg så også gerne, at EU
+lavede en såkaldt step up, altså gik op til 30 pct. CO2-reduktion i
+2020. Jeg er enig i, at det er det, de videnskabelige anbefalinger sådan set indikerer, og det er også stadig mit håb, at vi kan få overbevist de andre EU-lande om det. Der er enkelte af de store, der er enige med os, men ellers må jeg nok sige, at der er lidt lang vej igen,
+før vi kan få ændret det i EU. Det må jeg anerkende er rigtigt. Så
+med den nuance håber jeg vi kan slutte fredeligt i dag.";Kl. 14:42
+109300;Time;;Kl. 14:43
+109332;title_name;":
+Tak til ministeren. Der er ikke flere bemærkninger.
+
+17
+
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, lovforslaget henvises til Klima-, Energi- og Bygningsudvalget. Hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.";Bent Bøgsted
+109625;Time;Meddelelser fra formanden;Kl. 14:43
+109683;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 10. oktober
+2012, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 14:44).";Bent Bøgsted

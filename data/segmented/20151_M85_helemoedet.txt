@@ -1,0 +1,31 @@
+split;reason;text;value
+0;;Tirsdag den 3. maj 2016 (D);
+60;title_name;":
+Mødet er hævet. (Kl. 10:01).
+
+85. møde";Mette Bock
+134;Time;"Dagsorden
+1) Meddelelse fra formanden.";kl. 10.00
+184;Time;Meddelelser fra formanden;Kl. 10:00
+243;title_name;":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelse fra formanden.";Mette Bock
+336;Time;;Kl. 10:00
+369;title_name;":
+I dag er der følgende anmeldelse:";Mette Bock
+471;title_name;":
+Lovforslag nr. L 185 (Forslag til lov om ændring af lov om fremme
+af vedvarende energi. (Ophævelse af 60/40-støtteordningen for solcelleanlæg).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Lars Christian Lilleholt
+708;Time;Meddelelser fra formanden;Kl. 10:00
+767;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag, tirsdag den 3. maj 2016, kl.
+10.10.
+Mødet starter med førstebehandlingen af lovforslag nr. L 185.
+Den ordinære dagsorden påbegyndes kl. 13, og anden- og tredjebehandlingen af L 185 vil finde sted senere på dagen.
+
+1";Mette Bock

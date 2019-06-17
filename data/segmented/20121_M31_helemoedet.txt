@@ -1,0 +1,2573 @@
+split;reason;text;value
+0;;"Onsdag den 5. december 2012 (D)
+
+31. møde";
+79;Time;"Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til finansministeren af:";kl. 13.00
+269;name_party;":
+Mener ministeren fortsat, at det er realistisk at indfri reformbehovet
+frem mod 2020 med de reformværktøjer, som regeringen anviser i
+sin 2020-plan?
+(Spm. nr. S 569).
+2) Til finansministeren af:";Jacob Jensen
+482;name_party;":
+Hvilke reformer mener ministeren, det er nødvendigt at bringe i anvendelse, hvis regeringens 2020-plan stadig skal nås?
+(Spm. nr. S 570).
+3) Til finansministeren af:";Jacob Jensen
+671;name_party;":
+Kan ministeren bekræfte, at regeringen til foråret vil fremlægge »en
+opdateret udgave af 2020-planen«, som Socialdemokraternes finansordfører, John Dyrby Paulsen, siger til Jyllands-Posten den 28. november 2012?
+(Spm. nr. S 575).
+4) Til finansministeren af:";Peter Christensen
+952;name_party;":
+Vil ministeren redegøre for regeringens ambitioner for, hvad en kontanthjælpsreform efter ministerens mening skal bidrage med til regeringens 2020-mål?
+(Spm. nr. S 576).
+5) Til beskæftigelsesministeren af:";Peter Christensen
+1181;name_party;":
+Er ministeren enig i, at østarbejdere bidrager positivt til Danmarks
+velstand?
+(Spm. nr. S 580).
+6) Til social- og integrationsministeren af:";Joachim B. Olsen
+1346;name_party;":
+
+1
+
+Hvordan vil regeringen sikre en fornuftig integrationsproces, når regeringen samtidig ikke gør noget ved det stigende antal asylansøgere?
+(Spm. nr. S 577).
+7) Til ministeren for sundhed og forebyggelse af:";Martin Henriksen
+1577;name_party;":
+Hvordan agter ministeren at sikre, at Sundhedsstyrelsens tilsynsbesøg bliver forbedret, her tænkes bl.a. på hurtigere tilsyn, når styrelsen modtager en anmeldelse m.v.?
+(Spm. nr. S 578).
+8) Til ministeren for sundhed og forebyggelse af:";Liselott Blixt
+1835;name_party;":
+Hvordan vil ministeren sikre, at en »ikkealvorlig akut sygdom«, men
+en sygdom, som kan have alvorlige konsekvenser, bliver prioriteret i
+sundhedsvæsenet?
+(Spm. nr. S 579).
+9) Til ministeren for sundhed og forebyggelse af:";Liselott Blixt
+2089;name_party;":
+Når det i forbindelse med indførelse af det elektroniske medicinkort
+bliver ekstra nødvendigt at sikre ansvaret for opdaterede oplysninger, hvordan vil ministeren så sikre, at dette sker, og hvem skal være
+ansvarlig for opdateringerne?
+(Spm. nr. S 582).
+10) Til ministeren for sundhed og forebyggelse af:";Jens Henrik Thulesen Dahl
+2426;name_party;":
+Hvordan påtænker ministeren at sikre sammenhængende patientforløb, herunder at det i systemet klart defineres, om det er kommune,
+sygehus eller praktiserende læge, der har ansvaret for forløbet og
+borgeren, og hvad er ministerens holdning til en løsning som Epitalet?
+(Spm. nr. S 583).
+11) Til forsvarsministeren af:";Jens Henrik Thulesen Dahl
+2766;name_party;":
+Hvad mener ministeren om de fremkomne oplysninger om, at en
+dansk efterretningstjeneste har bidraget til, at der kunne placeres et
+sporingsredskab på en uvidende person, da denne skulle mødes med
+en kendt terrorleder, med henblik på at et andet lands myndigheder
+kunne slå den pågældende terrorleder ihjel ved brug af de såkaldte
+dronefly?
+(Spm. nr. S 581).
+12) Til forsvarsministeren af:";Pernille Skipper
+3178;name_party;":
+Kan ministeren slå fast, at Forsvarets Efterretningstjeneste ikke gennem oplysninger, kontakter eller anden bistand har assisteret CIA i
+lokaliseringen af Al-Qaeda-lederen al-Awlaki, og kan ministeren
+fastslå, at Forsvarets Efterretningstjeneste i forbindelse med eventu-
+
+2
+
+Onsdag den 5. december 2012 (FM )
+
+elt efterretningsarbejde vedrørende førnævnte ikke har overtrådt
+dansk ret eller folkeretten?
+(Spm. nr. S 584).";Pernille Skipper
+3614;Time;"Formanden:
+Mødet er åbnet.
+
+»Hvis det var sådan, at det massive fokus på at øge de strategiske
+forskningsmidler og Højteknologifonden havde gjort forskellen, så
+skulle vi jo se bedre ud i statistikkerne. Så det har ikke været den rette vej at gå, for det fører nok til patenter men ikke til nye virksomheder. Der er brug for, at forskerne oplever en meget mere direkte vej
+til at komme ud og få skabt nye virksomheder på.«
+Her vil jeg gerne høre, hvad ministeren så tænker på. Er det
+meningen, at vi nu skal have forskerne skubbet ud, så de skal væk
+fra basisforskningen og ud at skabe nogle virksomheder? Det troede
+jeg ikke lige var det primære sigte, men jeg vil meget gerne høre ministerens svar på det.";Kl. 13:00
+4333;Time;"Det første punkt på dagsordenen er:
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).";Kl. 13:02
+4448;Time;"Formanden:
+Til at besvare spørgsmål i spørgetimen i dag har statsministeren udpeget ministeren for forskning, innovation og videregående uddannelser og børne- og undervisningsministeren.
+Til ministeren for forskning, innovation og videregående uddannelser er anmeldt følgende spørgere:
+Jens Henrik Thulesen Dahl (DF)
+Rosa Lund (EL)
+Lars Dohn (EL)
+Til børne- og undervisningsministeren er anmeldt følgende spørgere:
+Karen Ellemann (V)
+Alex Ahrendtsen (DF)
+Lars Dohn (EL)
+Mai Henriksen (KF)
+Peter Juel Jensen (V)
+Rosa Lund (EL)
+Er der flere, der ønsker at melde sig som spørgere?
+Det er ikke tilfældet.
+Så skal jeg sige, at vi nok må imødese, at vi kun når tre til den
+første minister og fem til den anden minister, så fru Rosa Lund kommer kun på til den første minister.
+Det er som bekendt sådan, at spørger og minister begge har 2 minutters taletid i første runde, og derefter følger to runder, hvor spørger og minister hver har 1 minuts taletid.
+Jeg giver ordet til hr. Jens Henrik Thulesen Dahl for spørgsmål til
+ministeren for forskning, innovation og videregående uddannelser.
+Værsgo.";Kl. 13:00
+5548;Time;Spm. nr. US 56;Kl. 13:01
+5595;name_party;":
+Tak. Jeg vil gerne spørge lidt ind til noget i forbindelse med forskningsområdet. Jeg så en artikel i Børsen forleden dag med overskriften »Mange fakturaer er det ikke blevet til«, hvori det handler lidt
+om, at vi laver en masse forskning, og det giver på forskellige niveauer både viden og patenter og i et eller andet omfang også en afsmitning ude i erhvervslivet. Jeg vil gerne sige, at vi i Dansk Folkeparti er meget enige med ministeren i, at det er væsentligt med basismidler og grundforskning og at styrke de dele. Diskussionen har gået
+lidt på, at man skulle prioritere anderledes i forhold til bl.a. Højteknologifonden. Men det, jeg egentlig gerne spørge ind til, er, at ministeren i det her interview siger – og jeg citerer:
+
+Formanden:
+Ministeren for forskning, innovation og videregående uddannelser.";Jens Henrik Thulesen Dahl
+6419;Time;"Ministeren for forskning, innovation og videregående uddannelser (Morten Østergaard):
+Tusind tak for spørgsmålet, som er om et, synes jeg, meget væsentligt emne, nemlig hvordan vi får et større samfundsmæssigt afkast af
+de 20 mia. kr., vi for tiden investerer i forskning hvert eneste år.
+Det, jeg har forsøgt at gøre på baggrund af den nyeste statistik
+over, hvor mange spinoffvirksomheder der er fra bl.a. universiter, er
+at sige, at den tankegang, der prægede den tidligere regerings arbejde, nemlig det her med fra forskning til faktura, tilsyneladende ikke
+har ført til så mange fakturaer. Derfor – og der tror jeg at spørgeren
+og jeg vil kunne finde hinanden – er det jo et spørgsmål om at bryde
+den, synes jeg, forældede tilgang op, hvor man siger, at man enten
+giver basismidler til universiteterne, og det gavner ikke noget som
+helst, eller også giver man strategiske forskningsmidler til bestemte
+fonde, og det gavner så erhvervslivet, vækst og beskæftigelse.
+Det, jeg gerne vil, og som bl.a. også er ambitionen med den innovationsstrategi, som vi arbejder på i regeringen, er jo at skabe en kultur, hvor der er et direkte samarbejde mellem vores universiteter,
+som jo nu har historisk høje basisbevillinger og endda i et 3-årigt
+forløb, som de har ønsket sig det, og erhvervslivet – et tæt og tillidsfuldt samarbejde. Jeg ser her også meget gerne, at forskere eller
+ph.d.er, der undervejs finder anvendelse for de resultater, de får,
+starter en virksomhed og bidrager til at få gang i jobskabelsen i Danmark.
+Så det er det, der er mit ærinde: at prøve at bryde den skyttegravskrig, der måske har været i de sidste 10 år, lidt op. Det er netop
+for at sige, at det, at pengene er givet til basisforskning og den fri
+forskning i almindelighed, bestemt også kan spille en rolle, når det
+handler om at få gang i jobskabelsen i Danmark og få et højere afkast af de store investeringer, vi gør og fortsat skal gøre, i forskning
+i Danmark.";Kl. 13:02
+8373;Time;"Formanden:
+Hr. Jens Henrik Thulesen Dahl.";Kl. 13:04
+8426;Time;;Kl. 13:04
+8458;name_party;":
+Jamen jeg forstår i og for sig meget udmærket, hvad ministeren siger. Jeg ved ikke lige, om jeg fik svar på, hvordan det her giver forskerne en mere direkte vej til at komme ud og få skabt nye virksomheder.
+En af udfordringerne i det her er jo også, at hvis man skal skabe
+et tættere samarbejde mellem universiteter og virksomheder, så fører
+det, som det er i dag, ofte til, at nogle patenter ender på universiteterne, og som ministeren har gjort opmærksom på, kommer de heller
+ikke nødvendigvis ud.
+
+Onsdag den 5. december 2012 (US 57)
+
+Vil ministeren være med til at se på at gøre det nemmere for virksomheder og universiteter at lave aftaler, hvor patenterne ender i
+virksomhederne, og hvor universiteterne måske så har, man kan sige
+den publiceringsmæssige fordel af at indgå i noget forskning, men
+ikke har de samme krav til, at de skal skabe direkte indtægt og dermed selv have patenterne, altså så de faktisk kan gå ind i det samarbejde med virksomhederne, sådan at virksomhederne får udbyttet og
+patenterne til at køre og universiteterne får den forskningsmæssige
+værdi?";Jens Henrik Thulesen Dahl
+9549;Time;"Formanden:
+Ministeren.";Kl. 13:05
+9583;Time;"Ministeren for forskning, innovation og videregående uddannelser (Morten Østergaard):
+Jeg har lyst til at understrege, at jeg jo bakker varmt op om både
+Højteknologifonden og Det Strategiske Forskningsråds gode arbejde. Så det er ikke sådan, at jeg hopper ned i den anden skyttegrav.
+Det, jeg beder om, er i virkeligheden, at alle kommer lidt op og spiller på den forskningspolitiske midtbane, om man så må sige.
+Min kommentar i Børsen refererede til, at man kan se i statistikkerne, at det ikke giver så mange nye virksomheder, som det eksempelvis gør i andre lande, og det er et udtryk for den tilgang, man har
+haft, hvor man sådan var lidt nede i den ene skyttegrav, og det har
+tilsyneladende ikke givet de ønskede resultater.
+Men når det gælder spørgsmålet fra spørgeren, nemlig det her
+med teknologioverførsel i bredeste forstand, altså videnoverførsel,
+mener jeg, vi har et helt aktuelt problemfelt, hvor ikke bare nogle af
+de emner, der rejses her, men også en lang række andre ting, er relevante. Altså at forskere i deres karriere kan bevæge sig fra at være
+ansat på en forskningsinstitution til at være ansat i en privat virksomheder eller starte en virksomhed, uden at det bliver oplevet som
+en pauseknap i forskerkarrieren. Derfor er der mange forskellige elementer, som skal i spil. Men der er ingen tvivl om, at det er et problemfelt, som skal adresseres, hvis der skal komme et større samfundsmæssigt afkast af forskningsudgifterne.";Kl. 13:05
+11042;Time;"Formanden:
+Hr. Jens Henrik Thulesen Dahl for sidste runde.";Kl. 13:07
+11112;Time;;Kl. 13:07
+11144;name_party;":
+Jeg glæder mig over, at ministeren gerne vil adressere det. Jeg synes
+dog ikke, at jeg får ret klare svar på ret meget, og det kan der jo være
+mange grunde til. Jeg er helt enig i, at man skal prøve at lave en incitamentstruktur, hvor forskerne også får en motivation til at bære deres viden med sig ud i virksomhederne. Og det kan måske ske ved,
+at de bliver målt på andet end udelukkende deres publikationsmængde.
+Men det, jeg egentlig forsøger at spørge til, er sådan set det helt
+lavpraktiske. Ministeren har selv peget på, at patenter kan have svært
+ved at komme ud og blive aktiveret. Jeg kunne godt forestille mig, at
+det bl.a. bunder i, at de ligger i nogle skuffer inde på universiteterne
+og venter på, at nogen vil noget med dem.
+Kunne man så ikke meget enkelt sige, at når universiteter og
+virksomheder laver aftaler, så skal det være meget nemmere at sige:
+Jamen virksomhederne er faktisk de mest velegnede til at føre de patenter, der kommer ud af det, ud i livet? Det er sådan set deres opgave – altså drage nytte af en viden og få den omsat til produkter og få
+det sendt ud – hvorimod universiteterne har brug for at have den
+forskningsmæssige viden, der kommer ud af det, for det er den, de
+har ejerskab til. Kunne jeg få et svar på det?
+
+3";Jens Henrik Thulesen Dahl
+12413;Time;"Formanden:
+Ministeren.";Kl. 13:08
+12447;Time;"Ministeren for forskning, innovation og videregående uddannelser (Morten Østergaard):
+Svaret er jo da langt hen ad vejen et ja. Man kunne godt forestille
+sig, at det var lettere at have det samarbejde. Men i forhold til det her
+med, at der skulle være et bestemt indtjeningskrav til universiteterne,
+er det jo ikke et krav. Jeg stiller ikke noget krav om, at man skal slå
+mønt af sine patenter eller sine opdagelser i øvrigt, men det er klart,
+at der er en lovgivning omkring forskeres opdagelser, som selvfølgelig skal følges.
+Så er der en stående diskussion imellem – og det er den, jeg siger
+er det interessante problemfelt, vi bør interessere os mere for – hvordan det er, man skaber en smidig relation mellem universiteterne, de
+intellektuelle ophavsrettigheder og så det, der er det afgørende, nemlig at hvis et patent skal give et samfundsmæssigt afkast, skal det jo
+anvendes. Det er derfor, jeg har givet hele den forskningspolitiske
+satsning, vi gør, overskriften »Fra forskning til forandring«. For hvis
+ikke det kommer ud og arbejder ude i virkeligheden gennem en virksomhed, eller ved at en forsker starter en ny virksomhed, er der jo
+ingen nytte af det, og så kommer der ikke nye job ud af det. Derfor
+tror jeg ikke, at vi er så uenige, men det, det handler om, er jo måden
+at løse det på. Der har jeg sagt til universiteterne i deres udviklingskontrakter at de over de næste 3 år skal bidrage til, at Danmarks innovationskapacitet øges, og det forventer jeg mig meget af. Der er
+sat konkrete individuelle mål universitet for universitet, og det handler ikke specifikt om indtjeningen på deres patenter.";Kl. 13:08
+14075;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til ministeren for forskning, innovation og
+videregående uddannelser er fra fru Rosa Lund, værsgo.";Kl. 13:09
+14240;Time;Spm. nr. US 57;Kl. 13:09
+14271;name_party;":
+Jeg har et spørgsmål til ministeren, og det drejer sig for det første om
+læreruddannelsen og for det andet om efteruddannelsen af folkeskolelærere. For jeg kan forstå, at regeringen nu lægger op til, at man
+skal være uddannet i det, man underviser i i folkeskolen. Det synes
+jeg bestemt er en god idé, og jeg vil gå så langt som til at sige, at jeg
+faktisk synes, det er på tide, at vi begynder at stille den slags krav.
+Så mit spørgsmål til ministeren er: Hvordan vil de i regeringen
+sikre, at man som lærerstuderende har mulighed for at få de linjefag,
+som man gerne vil undervise i? Det er selvfølgelig i relation til, at
+man har lavet en ny læreruddannelse, hvor professionshøjskolerne,
+læreruddannelserne, får mulighed for at tone læreruddannelsen i en
+bestemt retning. Jeg har svært ved ligesom at se det i relation til, at
+alle folkeskolelærere – det er jo mange – nu skal være uddannet i
+det, de underviser i. Lægger regeringen op til, at der så er en sikring
+af, at man også rent faktisk kan få undervisning i det fag, man selv
+gerne vil undervise i, når man er færdiguddannet?";Rosa Lund
+15369;Time;"Formanden:
+Ministeren.
+
+4
+
+Onsdag den 5. december 2012 (US 57)";Kl. 13:11
+15445;Time;;Kl. 13:11
+15456;Time;"Ministeren for forskning, innovation og videregående uddannelser (Morten Østergaard):
+Det er fuldstændig korrekt, at som et led i det løft af folkeskolen,
+som vi har præsenteret, har vi en målsætning om, at lærerne skal have undervisningskompetence i de fag, de skal undervise i, og det er
+en målsætning, vi agter at nedfælde i folkeskoleloven.
+Vi afsætter 1 mia. kr. til at efteruddanne lærerne, altså dem, der
+er uddannet, og som har behov for at få løftet deres kompetencer, så
+det svarer til undervisningskompetenceniveau. Det betyder selvfølgelig en massiv satsning på efteruddannelse, en historisk satsning,
+kan man sige.
+Hvad angår læreruddannelsen, var et af problemerne med den læreruddannelse, som vi nu forlader, at for få kom ud med undervisningskompetence, altså det, der i dag hedder linjefag, i tre af de fag,
+der er på skemaet i folkeskolen. Nogle kom kun ud med to linjefag,
+andre med tre linjefag, men det ene var et metodisk fag og ikke et
+fag, der er på skemaet i folkeskolen. Det har vi nu ændret, så normen
+bliver, at man får undervisningskompetence i tre fag, som alle sammen er at genfinde på folkeskolens skema. Det kommer til at gøre en
+verden til forskel, når man skal lægge puslespillet ude på de enkelte
+skoler for at få dækket undervisningen med folk, der er undervisningskompetente.
+For det andet har vi skærpet forsyningspligten for professionshøjskolerne, så de får mere frihed, men også en skærpet forpligtelse til
+at sørge for, at der uddannes lærere til at dække hele paletten i det
+område, hvor professionshøjskolerne agerer, og de ligger typisk regionalt. Derfor mener jeg faktisk, at kombinationen af, at vi ændrer
+strukturen, så normen bliver tre linjefag, som er på skemaet i folkeskolen, og den skærpede forsyningspligt gør, at vi vil adressere det
+hensyn, som ligger spørgeren på sinde.
+
+Ministeren for forskning, innovation og videregående uddannelser (Morten Østergaard):
+Ja, hvis vi igen starter med forsyningspligten, vil det jo i tilfældet
+med læreruddannelsen i Hjørring være UCN, der dækker det område, og de vil altså have en forpligtelse til at sørge for, at de samlet
+set udbreder en palet af læreruddannelse, der gør, at skolerne kan ansatte dem, de har brug for. Det bliver min opgave at holde øje med,
+at de gør det, og ellers gå i dialog med dem om, hvordan de vil tilpasse det.
+Det næste er så spørgsmålet om, hvorvidt det er hensigtsmæssigt
+eller ikke hensigtsmæssigt, at man kan tone uddannelser. Sprogudvalget, der kiggede på danskernes fremmedsprogskompetencer, opfordrede til, at man lavede en trefaglig sproguddannelse. Det bliver
+der nu skabt mulighed for. Jeg tror ikke, vi skal regne med, at det
+bliver udbudt på samtlige læreruddannelsessteder i Danmark, at man
+kan blive sproglærer alene i tre fag. Men det vil da være godt, at der
+bliver nogle steder, og så må man jo søge derhen.
+Det kan også være, som vi har set eksempler på, at nogle vil lave
+en såkaldt science teacher-uddannelse, altså hvor det på forhånd er
+givet, at de ting, man skal have med at gøre, på en eller anden måde
+er i naturvidenskabens verden – matematik, fysik, biologi, eller hvad
+det nu kan være. Det er jo heller ikke sikkert, at man alle vegne vil
+lave den kombination. Men jeg synes ikke, der er grund til at frygte,
+at man gør det nogle steder, og at man skærper sin indsats på bestemte områder, for det tror jeg vil betyde, at læreruddannelsen bliver mere attraktiv for en bredere kreds, end tilfældet er i dag, hvor
+der eksempelvis stort set ikke rekrutteres lærerstuderende med HTXstudentereksamen.";Kl. 13:14
+19018;Time;;Kl. 13:12
+19029;Time;"Formanden:
+Fru Rosa Lund, sidste runde.";Kl. 13:15
+19080;Time;"Formanden:
+Fru Rosa Lund.";Kl. 13:15
+19117;Time;;Kl. 13:12
+19133;name_party;":
+Jeg kan følge ministeren så langt, som at det er rigtig godt, at normen nu bliver, at man, når man er færdiguddannet som lærer, er uddannet i at kunne undervise i tre linjefag. Det synes jeg er rigtig positivt.
+Men jeg vil gerne bede ministeren om en forsikring om, at man
+rent faktisk får mulighed for at vælge de linjefag, om hvilke man
+som lærerstuderende tænker: Dem vil jeg gerne undervise i, de gør
+mig til den folkeskolelærer, jeg gerne vil være. Når man giver professionshøjskolerne mulighed for at tone læreruddannelsen, vil der
+jo være meget stor forskel på, om man er lærerstuderende på Blaagaards Seminarium, eller om man er lærerstuderende på seminariet i
+Hjørring.
+Min bekymring går i virkeligheden på, om man også løser opgaven med nationalt at sikre, at vi har de folkeskolelærere, vi skal bruge lokalt i de forskellige regioner og kommuner, altså der, hvor folkeskolerne ligger. Det samme gælder i øvrigt for efteruddannelse.
+Kan man sikre, at professionshøjskolerne rent faktisk har mulighed
+for at udbyde den efteruddannelse, som bliver efterspurgt?";Rosa Lund
+20213;Time;"Formanden:
+Ministeren.";Kl. 13:14
+20253;name_party;":
+Jeg vil sige det samme, nemlig at det er forståeligt, hvis ministeren
+ikke nåede at svare på det med efteruddannelse, som det her jo også
+drejer sig om, og som ministeren var inde på i sit første svar: Regeringen afsætter i forbindelse med det her krav 1 mia. kr. til efteruddannelse. Det er rigtig positivt. Det er bestemt ikke en kritik af det.
+Det er en bekymring for, hvorvidt man så også giver professionshøjskolerne mulighed for at udbyde det omfang af efteruddannelse, der
+bliver efterspurgt.";Rosa Lund
+20764;Time;"Formanden:
+Ministeren.";Kl. 13:15
+20798;Time;"Ministeren for forskning, innovation og videregående uddannelser (Morten Østergaard):
+Jamen jeg tror, at professionshøjskolerne vil se det her som en kæmpe mulighed for at øge deres efteruddannelsesaktiviteter. Det, vi i
+læreruddannelsesforligskredsen har aftalt, er jo, at vi også vil lægge
+pres på professionshøjskolerne for at få dem til at tilbyde efteruddannelse på en langt mere fleksibel måde, end tilfældet er nu. Det, at vi
+nu har struktureret uddannelsen i moduler i stedet for det, man kendte før, hvor den var sådan en perlerække af beslutninger truffet her
+på Christiansborg og omegn om, hvad man skulle lære hvornår, vil
+også gøre det langt lettere for dem, som måske bare skal have lidt
+efteruddannelse for at kunne opnå et niveau svarende til undervisningskompetence.
+
+Onsdag den 5. december 2012 (US 58)
+
+Derfor mener jeg, at den strukturændring, vi laver af læreruddannelsen, samt den milliard kroner, vi afsætter, vil gøre, at professionshøjskolerne kan dække behovet. Jeg tror faktisk, de er meget ivrige
+efter at bidrage, og det vil også tjene det formål, som jeg synes er
+nok så vigtigt, nemlig at den viden, som professionshøjskolerne også
+skal til at bidrage til i højere grad med de penge, der er afsat til evidens for kvalitetsudvikling, vil få en lettere vej ud i folkeskolen, hvis
+man har en løbende efteruddannelse af lærerne, som på den måde
+kan komme i kontakt med den nyeste viden om, hvad der virker i de
+konkrete fag.";Kl. 13:15
+22262;Time;"Formanden:
+Spørgsmålet er sluttet.
+Hr. Lars Dohn har afstået fra at stille spørgsmål til ministeren for
+forskning, innovation og videregående uddannelser, så vi siger tak til
+ministeren, og vi ser den næste minister gå hen på sin plads.
+Det første spørgsmål til børne- og undervisningsministeren er fra
+fru Karen Ellemann, værsgo.";Kl. 13:17
+22604;Time;Spm. nr. US 58;Kl. 13:17
+22639;name_party;":
+Mange tak for det. Det er yderst relevant, at børne- og undervisningsministeren er i spørgetimen i dag, det værdsætter jeg meget. Og
+det er jo klart, at med det store udspil, der blev lanceret i går, og som
+vi har ventet længe på, kan vi endelig begynde at diskutere indholdet
+i selve reformen, og det er sådan set det, jeg har tænkt mig at bruge
+mine spørgsmål på her i dag.
+Det, jeg har taget med, er den tidligere regerings udspil til en
+bedre folkeskole, der hedder »Faglighed og frihed«, og som vi udkom med tilbage i december 2010. Det, jeg godt kunne tænke mig at
+høre ministerens syn på, er, at et af de klare mål, der er, f.eks. i det
+her udspil tilbage fra 2010, bl.a. er en 6-timers skoledag for de yngste elever, altså fra 8 til 14, som jo er præcis magen til det udspil, vi
+nu har set fra regeringen. Og det, der skete i forbindelse med det her
+udspil, var, at der forlod Socialdemokraterne forhandlingerne, og der
+blev ikke lavet nogen aftale.
+Men hvad er det, der har ændret sig, fra udspillet kom i december
+2010, til det nu i dag er blevet regeringens politik, at man faktisk også synes, at børn i de små klasser eksempelvis skal gå i skole fra kl.
+8.00 til kl. 14.00?";Karen Ellemann
+23836;Time;"Formanden:
+Børne- og undervisningsministeren.
+
+fra 8 til 15. Og nogle af de aktiviteter, som børnene laver i dag i
+klubben, i fritteren, i SFO'en, som er det med bevægelse, med værksted, hvor man er ude at lære på andre måder, er nogle af de ting, vi
+godt vil lægge mere fleksibelt ind i løbet af skoledagen sammen med
+pædagogerne.";Kl. 13:18
+24179;Time;"Formanden:
+Fru Karen Ellemann.";Kl. 13:19
+24221;Time;;Kl. 13:19
+24241;name_party;":
+Jeg er helt bevidst om udspillet fra den siddende regering og har også taget positivt imod det og jo netop udtalt, at jeg synes, der er utrolig meget, jeg kan genkende fra det udspil, som den tidligere regering kom med. Det er sådan set bare det skift, der et eller andet sted
+er sket, i forhold til at man fra socialdemokratisk side jo ikke var
+med og ikke nikkede til det, som jeg egentlig godt lige kunne tænke
+mig at spørge ind til.
+For det er korrekt, at der var et ministerskift, og det var så hr.
+Troels Lund Poulsen, der fortsatte som undervisningsminister og
+fortsætte forhandlingerne tilbage i august måned 2011. Så var der ikke mere at forhandle om, for Socialdemokraterne ønskede ikke at
+være med. Er det ikke korrekt?";Karen Ellemann
+24983;Time;"Formanden:
+Ministeren.";Kl. 13:20
+25017;Time;;Kl. 13:20
+25073;title_name;":
+Jeg er desværre nødt til at skuffe spørgeren, fordi jeg i øvrigt meget
+værdsætter det samarbejde, vi har med Venstre, men det er ikke korrekt, at forløbet var sådan. Der var bare ikke særlig mange møder,
+det gik på en eller anden måde lidt i stå.
+Jeg skal ikke kunne sige, hvorfor de forhandlinger gik i stå, men
+det ændrer jo ikke ved, at der absolut er elementer fra det udspil,
+som jeg synes er rigtig interessante, og jeg har også noteret mig med
+stor glæde, at der har været rigtig positive signaler fra de andre partier, som er en del af forligskredsen, både Venstre, De Konservative
+og Dansk Folkeparti. For vi kan jo kun lave det her løft til at få en
+bedre folkeskole, hvis vi når frem til ikke bare at indgå et kompromis, men forhåbentlig en rigtig god fælles aftale. For jeg har også et
+mål om, at vi skal kunne lave nogle rammer for fremtidens folkeskole, så vi ikke hele tiden skal lave småjusteringer. Så vi siger: Nu prøver vi at tage sådan ét stort skridt, for at vi får en endnu bedre folkeskole.";Christine Antorini
+26098;Time;;Kl. 13:21
+26109;Time;;Kl. 13:18
+26165;title_name;":
+Se, nu har jeg jo den fordel, at jeg var Socialdemokraternes ordfører
+på det tidspunkt, og derfor kan jeg berolige spørgeren fra Venstre
+med, at Socialdemokraterne bestemt ikke forlod forhandlingerne.
+Der skete bare ikke særlig meget i de forhandlinger, men der var til
+gengæld lidt ministerskift på det tidspunkt. Der var nemlig en minister, der forlod posten i foråret 2011, og så kom der en anden minister til. Derfor gik forhandlingerne simpelt hen i stå, hvilket var ærgerligt, for der var bestemt elementer i det udspil, som vi også dengang syntes var interessante, og en af de ting var at have en lidt længere skoledag.
+Men det, som jeg synes er rigtig vigtigt i regeringens udspil, er,
+at det jo ikke bare handler om flere timer, men også om mere spændende og varierede timer. Og derfor lægger vi også op til i regeringen, at det skal være fra 8 til 14 for de mindste elever, dvs. fra 0. til
+3. klasse – og så kan de gå i SFO – men fra 4. klasse og frem er det
+
+5
+
+Formanden:
+Fru Karen Ellemann.";Christine Antorini
+27180;Time;;Kl. 13:21
+27200;name_party;":
+Nu er det jo så en kendt sag, at jeg ikke selv sad som undervisningsminister eller sad med i forhandlingerne der tilbage i 2011. Jeg beskæftigede mig med miljøområdet på det tidspunkt. Men ikke desto
+mindre har jeg da i hvert fald fået refereret og mener også at kunne
+erindre, at Socialdemokraterne rent faktisk ikke ønskede at indgå en
+aftale på baggrund af det her udspil.
+Nu har vi så fået den nuværende regerings udspil, og regeringen
+har modtaget utrolig positive reaktioner fra den nuværende opposition og en fremstrakt hånd til, at det her skal vi nok nå til enighed om.
+Det bliver så ting, der først kommer til at gælde for skoleeleverne i
+skoleåret 2014, og med det in mente, når man nu står med et udspil
+
+6
+
+Onsdag den 5. december 2012 (US 59)
+
+her fra en tidligere regering, hvor der virkelig er sammenfald i forhold til udspillet i dag, så skal mit sidste spørgsmål sådan set bare
+være:
+Synes ministeren ikke, det er ærgerligt, at der faktisk er gået
+mindst 2 år, at der faktisk er spildt mindst 2 år i forhold til at skabe
+de forbedringer, som alle er enige om der er behov for i folkeskolen,
+når vi taler om, at op mod 20 pct. rent faktisk forlader folkeskolen
+uden faglige kvalifikationer stærke nok til, at de kan fortsætte i en
+ungdomsuddannelse? Synes ministeren ikke, det er ærgerligt, at vi
+nu faktisk har yderligere mindst to årgange, som har haft den samme
+type skole, hvor man ikke har kunnet opnå de forbedringer?";Karen Ellemann
+28652;Time;"at det jo er frivilligt, om eleverne skal gå til faget kristendomskundskab, men der skal man så lige præcis til det fag møde op som forældre, hvis man vil sige, at man ikke synes, at ens barn skal have kristendomskundskab; nu synes vi, det er i orden, hvis man meddeler
+det til skolen. Det er sådan et lille, enkelt afbureaukratiseringsforslag, der er der, men regeringen har ikke nogen planer med hensyn
+til kristendomsundervisningen, og det fremgår heller ikke af udspillet.";Kl. 13:22
+29140;Time;"Formanden:
+Hr. Alex Ahrendtsen.";Kl. 13:25
+29183;Time;"Formanden:
+Børne- og undervisningsministeren.";Kl. 13:25
+29240;Time;;Kl. 13:22
+29296;title_name;":
+Tværtimod glæder jeg mig faktisk rigtig meget over, at vi er nået
+dertil, at der i alle partier, som er en del af forligskredsen – det er jo
+den bredeste forligskreds, tror jeg, der endnu har været på folkeskoleområdet – er de her positive signaler. Det er det, jeg vil bruge, så
+vi forhåbentlig lander en god aftale. Hvis vi når i mål her i løbet af
+foråret, vil det være sådan, at når vi kommer til august 2014, vil de
+nye 0. klasser og de elever, der i øvrigt er i folkeskolen, få gavn af
+den her bedre og mere varierede skole, der kommer fremover. Så jeg
+synes, vi skal tage den derfra.
+Det er fuldstændig rigtigt, at der absolut er elementer, som man
+kan inspireres af, også fra den tidligere regering, men der var altså
+også nogle ideologiske ting, som vi ikke bryder os om i regeringen,
+bl.a. hele tanken om at offentliggøre nationale test, skoleranglister
+og sådan noget. Det er så ikke en del af regeringens udspil, men jeg
+synes også, det vigtigste er, hvordan vi får den her varierede dag,
+hvor børn bliver så dygtige, som de kan, på en spændende måde.";Christine Antorini
+30371;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til børne- og undervisningsministeren er af
+hr. Alex Ahrendtsen, værsgo.";Kl. 13:23
+30510;Time;Spm. nr. US 59;Kl. 13:24
+30548;name_party;":
+Jamen det var jo klar tale. Det er jo meget rart at få på plads, at der
+ikke bliver ændret på faget kristendom, sådan som det foreligger.
+Der har været lidt frem og tilbage.
+Jeg har også set i udspillet, at det skal være lettere at blive fritaget for undervisningen, end det allerede er i dag. Jeg ved så ikke rigtig, hvordan det skal foregå, om man bare skal sende en sms. Vi i
+Dansk Folkeparti synes jo, det er en god idé, at der er det her møde,
+for der er mange myter om faget kristendom. Mange tror jo, at det er
+forkyndende, hvor det er et oplysende fag. Der er jo nogle af dem,
+som melder fra, som godt kunne have gavn af at tage faget, altså
+f.eks. elever med en ikkekristen baggrund. Så hvordan kommer den
+her fritagelse fremover til at foregå, og mener ministeren virkelig ikke, at det er en god idé, at skolelederen får mulighed for at oplyse
+forældre, der eventuelt skulle sige fra, om faget kristendom?";Alex Ahrendtsen
+31475;Time;"Formanden:
+Ministeren.";Kl. 13:26
+31509;Time;;Kl. 13:26
+31565;title_name;":
+Vi synes i regeringen, at det er vigtigt, at forældrene selv træffer den
+beslutning, og at de så meddeler den til skolen. Det kan man gøre på
+mange måder, man kan sende et brev, en e-mail, man kan ringe.";Christine Antorini
+31780;Time;"Formanden:
+Hr. Alex Ahrendtsen, sidste omgang.";Kl. 13:26
+31838;Time;;Kl. 13:26
+31860;name_party;":
+Spørgsmålet, jeg vil stille, handler selvfølgelig også om folkeskolereformen og det udspil, som regeringen er kommet med, men det bliver et mere specifikt spørgsmål, fordi det handler om faget kristendom. Måske har ministeren allerede forventet det.
+Jeg kunne jo se, at socialdemokraternes undervisningsordfører,
+hr. Troels Ravn, jo havde meldt ud, at faget kristendom skulle ændres til religion. Senere trak han så vistnok i land og følte sig misforstået. Jeg kunne egentlig godt lige tænke mig at vide, hvad regeringens politik egentlig er på det her område.";Alex Ahrendtsen
+32444;name_party;":
+Man kan også sende en sms, og det er vi jo frygtelig kede af. Jeg vil
+opfordre regeringen til, at vi fastholder det her møde. Vi forhindrer
+dem jo ikke i at sige fra. Det er afgørende, at forældrene får det her
+møde med skolelederen. Der er ingen grund til at svække kristendommen, og især gælder det her de elever, som har brug for det. Er
+ministeren ikke enig med Dansk Folkeparti i, at det faktisk ville være noget godt for elever med en ikkekristen baggrund at få den oplysning, det er, som faget kristendomsfaget egentlig giver?";Alex Ahrendtsen
+32989;Time;;Kl. 13:27
+33000;Time;"Formanden:
+Ministeren.
+
+Formanden:
+Børne- og undervisningsministeren.";Kl. 13:24
+33081;Time;;Kl. 13:24
+33137;title_name;":
+Som det fremgår af det udspil, som vi fremlagde i går, der hedder
+»Gør en god skole bedre«, er det ikke en del af vores udspil at ændre
+faget kristendomskundskab. Det, vi til gengæld vil gøre, er at komme med en vifte af afbureaukratiseringsforslag, som det også fremgår af udspillet. En af de lidt underlige ting, som man skal i dag, er,";Christine Antorini
+33488;Time;;Kl. 13:27
+33544;title_name;":
+Jeg synes, at kristendomsundervisningen og også undervisningen i
+andre religioner – det er jo også en del af kristendomsundervisningen – er rigtig vigtig. Nu er det bare sådan, at netop fordi det er kristendomsundervisning – og der er jo religionsfrihed her i landet –
+kan forældre bede deres barn fritaget for at deltage i den. Det kan
+
+Onsdag den 5. december 2012 (US 60)
+
+være, fordi de har en anden region, men det kan også være, fordi de
+er ateister. De kan endda også være kristne, men beslutte sig til, at
+det vil de ikke. Det er nu engang sådan, som reglerne er, og jeg synes, det er rimeligt, at man, når nu det er kristendomsundervisningen, der er her, har muligheden for at bede sig fritaget. Vi synes bare
+ikke, at man behøver at bureaukratisere det mere end højst nødvendigt. Så forældrene må have ansvaret for, hvordan de vil meddele
+skolen det.";Christine Antorini
+34416;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til børne- og undervisningsministeren er af
+hr. Lars Dohn, værsgo.";Kl. 13:28
+34549;Time;Spm. nr. US 60;Kl. 13:28
+34580;name_party;":
+Tak for det. Det var jo spændende at modtage udspillet fra regeringen, og jeg søgte grundigt i de 56 sider for at finde det, som jeg vurderer som værende det allervigtigste. Det var jo et oplæg, som var
+lidt hurtigere læst, end det lige så ud til, fordi der også er en stor billedside på, faktisk nogle rigtig udmærkede billeder, men det, jeg ikke fandt, var et forslag om at nedsætte klassekvotienten, for det er jo
+et omdrejningspunkt i det at styrke indlæringen i skolen.
+Nu har vi forskningsmæssigt belæg for, at det er sådan, og vi ved
+også, at elevernes trivsel er ret så direkte afhængig af de her meget
+store klasser, og det at finde sig en plads i et hierarki er noget vanskeligere hos 28 end hos 22 f.eks. Vi ved også, at undervisningsmiljøet er direkte afhængig af det. Det er jo sådan, at halvdelen af skolerne ikke lever op til arbejdsmiljølovgivningen og til den bygningsmæssige lovgivning omkring luftkvalitet, så derfor har det meget
+stor betydning, hvor mange elever man sætter ind.
+Vi ved også godt, at det har stor betydning for muligheden for at
+inkludere elever med særlige vanskeligheder i normalklasser. Vi
+ved, at det betyder rigtig meget for lærernes arbejdsmiljø, og vi ved,
+at det er med til at sende rigtig mange elever over i den private skole, så derfor vil jeg spørge, om ministeren vil erkende betydningen
+af, at klassekvotienten ikke er for høj, og spørge, hvorfor regeringen
+ikke har inddraget det her i sit folkeskoleoplæg.
+
+7
+
+det praktisk-musiske, lidt på natur-teknik, men også med de nye aktivitetstimer, fordi det også er med til at gøre, at børn trives og lærer
+mere, at man kan kombinere det praktiske og det teoretiske.";Lars Dohn
+36254;Time;"Formanden:
+Hr. Lars Dohn.";Kl. 13:31
+36291;Time;;Kl. 13:31
+36307;name_party;":
+Så er det, at jeg gerne vil fastholde, at den effekt, der kommer af den
+gode undervisning, som jeg ikke er i tvivl om man søger med forslaget, bliver markant forringet af, at der er mange elever, f.eks. nedsætter dårlig indeluft indlæringseffekten med op til 30 pct. Derfor
+ville vi her, hvis vi nedsatte klassekvotienten, simpelt hen have en
+win-win-situation både for eleverne, for lærerne og for folkeskolen
+som helhed, som jo er ude i en svær kamp omkring det, at rigtig
+mange søger over i private skoler. Derfor kan det undre mig, at der
+ikke er et styrkeforhold i regeringen, hvor S og SF, som gik til valg
+på 24 elever i klasserne, har kunnet trumfe det igennem.";Lars Dohn
+36988;Time;"Formanden:
+Ministeren.";Kl. 13:32
+37022;Time;;Kl. 13:32
+37078;title_name;":
+Jeg vil bare igen minde Enhedslistens ordfører om, at den gennemsnitlige klassekvotient altså er på 21 elever.
+Når det så er sagt, vil jeg sige, at vi er optaget af det med trivsel,
+som jeg også sagde i mit første svar. Det vil vi bl.a. styrke ved nogle
+få nationale mål, som vi introducerer med vores folkeskoleudspil,
+hvorved alle elever år for år skal blive dygtigere til at læse, skrive og
+regne – for det er de grundlæggende fag, og hvis man har godt fat i
+dem, klarer man sig også bedre i de andre fag – og som noget nyt vil
+vi indføre et trivselsmål med inspiration fra Dansk Center for Undervisningsmiljø. Der har man et trivselstermometer, som netop går ind
+og kigger på alle de andre ting, som børn synes er vigtige: At de ikke
+bliver mobbet, at de har gode kammerater, og at de trives der, hvor
+de er. Så vi er meget optaget af, at der skal være trivsel som forudsætning for faglighed.";Christine Antorini
+37986;Time;;Kl. 13:33
+37997;Time;"Formanden:
+Hr. Lars Dohn, sidste runde.
+
+Formanden:
+Børne- og undervisningsministeren.";Kl. 13:30
+38095;Time;;Kl. 13:30
+38106;Time;;Kl. 13:33
+38162;title_name;":
+Jeg deler faktisk fuldstændig spørgerens opfattelse af, at det selvfølgelig betyder noget for undervisningsmiljøet, at der ikke er kæmpeklasser, at der heller ikke er støj og uro, at der er trivsel, fordi det er
+forudsætningen for, at man lærer mest muligt.
+Derfor er jeg også glad for, at den gennemsnitlige klassekvotient
+i øjeblikket er på 21 elever. Hvis vi kigger på dem, som har mere
+end 24 elever, ser vi, at det faktisk er under 20 pct., der har mere end
+24 elever, men det er egentlig bare for at tilkendegive, at det selvfølgelig betyder noget. Det betyder også noget, om der er en lærer med
+24 elever, eller om der er to lærere med 28 elever, så derfor er det
+ikke så enkelt, hvordan man opgør, hvad det er, der gør, at man har
+mere lærertid og dermed også forhåbentlig mere kvalitet i forhold til
+undervisningen for de elever, der måtte være i klassen.
+Vi har så valgt i regeringen i det udspil, vi har fremlagt, at sige,
+at vi egentlig hellere vil prioritere ressourcerne til, at alle børn kan få
+lidt flere timer, men på en mere spændende måde, og derfor forøger
+vi både nogle af fagenes timetal, f.eks. engelsk fra 1. klasse, lidt på";Christine Antorini
+39328;name_party;":
+Nu er det jo som bekendt sådan, at gennemsnitstal er taknemlige.
+Hvis man sidder med den ene fod i noget vand, der er 100 grader
+varmt, og den anden fod i noget vand, der er 0 grader varmt, så er
+der en behagelig gennemsnitstemperatur på 50 grader. Men jeg er
+sikker på, at den person ikke har det særlig godt. Virkeligheden er jo
+derfor altså også den, at tallet på de 20,9 er et tal, der dækker over, at
+der er massevis af landsbyskoler, hvor det i gennemsnit er ganske få
+elever, de har i klasserne, og at vi så har en hel række store skoler,
+hvor der er rigtig, rigtig mange elever i klasserne, og ministeren har
+endda givet dispensation til, at man har kunnet gå ud over de 28 elever. Så jeg er ikke særlig imponeret over tallet på de 20,9, heller ikke, når man ser det i relation til, at der blev fremført et krav på 24
+elever.";Lars Dohn
+40173;Time;"Formanden:
+Ministeren.
+
+8
+
+Onsdag den 5. december 2012 (US 61)";Kl. 13:34
+40249;Time;;Kl. 13:34
+40305;title_name;":
+Hvordan det udvikler sig med hensyn til klassekvotienten, er jo noget, som vi følger i ministeriet. Det er faktisk sådan, at det kun er i
+18 pct. af klasserne, der er flere end 24 elever. Det ændrer ikke ved,
+at jeg faktisk er enig i, at det betyder rigtig meget for, hvor meget
+lærertid der er til den enkelte elev. Vi har givet nogle dispensationer
+og et interessant og helt konkret eksempel er fra Holbæk, hvor vi har
+givet dispensation til, at man kunne oprette en 0. klasse med 32 elever og med 2 lærere på i samtlige timer, og der var også nogle pædagogiske medarbejdere, og det betyder, at eleverne samlet set får meget mere kompetent voksenundervisning i løbet af deres dag, i stedet
+for at det havde været sådan, at man skulle splitte dem op og kun
+med 1 lærer på.
+
+skulle fremhæve en anden kommune på Fyn, kunne jeg også fremhæve Svendborg Kommune. De har nu, efter at have haft forsøg med
+det, introduceret helhedsskolen på alle deres folkeskoler, sådan at
+man i de små klasser går i skole fra kl. 8 til kl. 14, fuldstændig som
+regeringen også foreslår det. Så har de også lavet dem til idrætsskoler. Det, som de kan se, er, at de har fået en meget mere levende skoledag, hvor børnene bliver mere motiveret, de kan bedre koncentrere
+sig, og de kan dermed også lære mere, f.eks. i dansk og matematik.
+De følger så især faget matematik med et stort forskningsprojekt. Sådan noget synes jeg er rigtig spændende at tænke bredere ind, når det
+gælder udviklingen af folkeskolen.";Christine Antorini
+41800;Time;"Formanden:
+Fru Mai Henriksen.";Kl. 13:37
+41841;Time;;Kl. 13:37
+41852;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til børne- og undervisningsministeren er fra
+fru Mai Henriksen. Værsgo.";Kl. 13:34
+41990;Time;"Spm. nr. US 61
+Mai Henriksen (KF):
+Mange tak. Jeg er rigtig glad for, at ministeren stiller op her i dag.
+Det er ovenikøbet lige dagen derpå, altså efter at det store folkeskoleudspil er blevet præsenteret, så det er klart, at mine spørgsmål også
+vil komme til at gå på folkeskolen. Det bliver i disse dage diskuteret
+rigtig meget, om det, som regeringen lægger op til, er en heldagsskole, eller det er en helhedsskole. Hvis vi tager sådan et eksempel med
+en heldagsskole, kan vi se, at det er noget, som man kender nogle
+steder, bl.a. i Odense, bl.a. på en af skolerne i Vollsmose. Her er
+skoledagen indrettet sådan, at de går i skole fra kl. 8-16, og at man
+så har integreret en del af det, der vedrører SFO'en, ind i det, og at
+det er en del af basis. Så er der også helhedsskolen, som af mange
+bliver defineret som noget, hvor der er en større sammenhæng i forhold til børnenes verden. Der prøver man så at skabe denne større
+helhed, men man har altså stadig væk en folkeskoledel og en SFOdel. I SFO-delen har man så de her værksteder, men det er nogle
+værksteder, som er mere læringsprægede, og hvor man tager noget
+mere over af det, der er fra folkeskolen, og der er også et lektieværksted.
+Så skal jeg bare spørge ministeren, om hun stadig væk mener, at
+det, der er i forhold til heldagsskolen, og det, der er i forhold til helhedsskolen, er det samme som det, jeg har forstået at Socialdemokraterne i hvert fald tidligere har haft som deres udgangspunkt.";Kl. 13:34
+43464;Time;"Formanden:
+Ministeren.";Kl. 13:36
+43498;Time;;Kl. 13:36
+43554;title_name;":
+Vi har altid været meget optaget af helhedsskolen. Jeg tror også, at
+den konservative ordfører vil kunne se, at jeg, lige så længe jeg har
+haft muligheden for at kunne udtale mig om uddannelsespolitikken
+som politiker, konsekvent har snakket om helhedsskolen, og det er
+også det, der ligger i regeringens udspil. For det er, fuldstændig som
+den konservative ordfører siger det, tanken om, at man kan se en
+sammenhæng i børnenes dag med leg, læring og undervisning på
+kryds og tværs, og at bevægelse ikke nødvendigvis er noget, der kun
+behøver at høre til, når man er i SFO'en, men at det kan integreres
+undervejs. Og det er jo, fordi vi har rigtig god viden om det. Hvis jeg
+
+Mai Henriksen (KF):
+Jeg tror bare, at rigtig mange forældre og lærere og andre interesserede, som læser det forslag og ser, at ens barn skal være i skole fra";Christine Antorini
+44398;Time;"til kl. 15.30, vil tænke, at så begynder det meget at lugte af
+heldagsskole.
+I går var ministeren i »Debatten« med Clement Kjersgaard, og
+ministeren sagde det jo faktisk meget, meget klart. Og jeg sad derhjemme og blev helt glad langt ind i sjælen, for ministeren sagde
+nemlig, at det er vigtigt, at man underviser på forskellige niveauer,
+og at man også åbner op for mere holddannelse, med den argumentation, at så kunne man nå eleverne på deres eget niveau, og man kunne målrette undervisningen til de behov, den enkelte elev havde. Og
+så tænkte jeg, at det er fremragende, for så må vi jo opleve en minister, som ønsker at ophæve den her 50-procents-regel, hvor 50 pct.
+af al undervisning skal foregå i stamklassen, og det må også betyde,
+at ministeren så gør plads til, at man altså kan bruge niveaudeling
+noget mere.
+Men når man så dykker ned i udspillet fra regeringen, kan man
+se, at der jo ikke er ret meget af lige nøjagtig den her del. Men med
+de toner, jeg hørte i går, vil jeg spørge, om ministeren ikke også vil
+tage det ind i forhandlingerne, at vi kommer til at lave mere holddeling og mere niveaudeling.";kl. 8.00
+45528;Time;"Formanden:
+Ministeren.";Kl. 13:38
+45562;Time;;Kl. 13:38
+45618;title_name;":
+Det er jo sådan, som spørgeren også siger, at man kan arbejde med
+mindre hold, der går på tværs af årgange og af køn, så man kan lave
+noget for drenge eller for piger. Man kan gøre det på forskellige måder i op til halvdelen af tiden. Det er faktisk rigtig meget tid, der er,
+hvor man kan lave mere spændende undervisning målrettet til enkelte elever eller grupper af elever.
+Jeg kunne tænke mig, at alle skoler var langt bedre til at bruge
+mulighederne for holddeling, for jeg er faktisk meget enig i, at det
+gør, at man får den her varierede undervisning, hvor børn også møder noget, der passer til dem. Men det skal hele tiden være med den
+balance, at det er utrolig vigtigt at holde fast i et klassefællesskab,
+hvor børn på kryds og tværs faktisk er en del af en social sammenhæng, for børn spejler sig også positivt i hinanden. Og vi ved fra de
+lande, hvor man stadig væk har en gammeldags niveaudeling, så
+man deler op efter 6. klasse, og så kommer A-holdet, og så kommer
+B-holdet, at hvis børn kommer på B-holdet, er det ikke, fordi de bliver fagligt løftet af at være sammen, nej, de mister faktisk faglighed.
+Så det her blandede klassemiljø med god mulighed for holddeling – og der er rigtig god mulighed for det, når man kan gøre det i
+
+Onsdag den 5. december 2012 (US 62)
+
+op til halvdelen af tiden – synes vi er spændende at udvikle og holde
+fast i, for det giver den her mere levende undervisning, der rammer
+de enkelte elever.";Christine Antorini
+47071;Time;"Formanden:
+Fru Mai Henriksen, sidste runde.";Kl. 13:39
+47126;Time;"Mai Henriksen (KF):
+Nu stod jeg lige og blev glad helt ud i tæerne, må jeg sige, lige indtil
+ministeren begyndte at tale om A- og B-hold, for det er jo en gammeldags opfattelse af, hvordan niveaudeling og hvordan holddeling i
+virkeligheden fungerer. Hvis man virkelig vil ramme den absolut
+svageste elev, som ikke har ret mange forudsætninger med hjemmefra, og som måske har nogle indlæringsvanskeligheder på grund af
+for tidlig fødsel eller andre ting, kræver det nogle helt andre forudsætninger for læreren end i forhold til den absolut dygtigste elev,
+som er rigtig, rigtig god, og som bare opfatter det hele fra starten, og
+som kører derudaf. Det er en elev, som skal motiveres ekstra, og
+som skal have nogle ekstra udfordringer i forhold til den elev, som
+måske har nogle sociale problemer, og som måske har problemer i
+hjemmet, enten fordi forældrene ligger i en meget hård skilsmisse,
+eller fordi der er vold eller alkoholmisbrug. Og jeg tror, at tiden er
+kommet til at erkende, at børnene er så forskellige, og at man må
+differentiere undervisningen, sådan at den passer netop til dem.
+Jeg har et enkelt spørgsmål i forbindelse med kristendomsundervisning. Jeg skal bare spørge: Kommer kristendomskundskab – som
+det jo hedder, og ikke kristendomsundervisning – på bordet, når vi
+skal diskutere de enkelte fag? Kommer hele spørgsmålet om at ændre kristendomskundskab til at hedde religionsundervisning på bordet, når vi skal diskutere de enkelte fag undervejs i reformen?";Kl. 13:39
+48616;Time;"Formanden:
+Børne og undervisningsministeren.";Kl. 13:40
+48672;Time;;Kl. 13:40
+48728;title_name;":
+Nu har regeringen fremlagt et stort og ambitiøst udspil i forhold til
+en folkeskole, som vi virkelig tror kan være med til at gøre alle børn
+meget dygtigere, uanset hvilken social baggrund de måtte have. Og
+dermed også sagt, at det tror vi er de allervigtigste initiativer, for at
+vi kan nå i mål med, at alle bliver rustet til at gennemføre en ungdomsuddannelse bagefter. Jeg er sikker på, at der i det forhandlingsforløb, der kommer, vil komme forslag fra alle partierne i forligskredsen. Vi har det ikke med som et element i vores udspil at ændre
+faget kristendomskundskab. Det eneste, vi siger, er, at forældre ikke
+behøver at møde op på skolen, som de skal i dag, hvis de vil fritage
+deres barn fra kristendomsundervisning. De kan godt nøjes med at
+sende et brev til skolen.
+Jeg er sikker på, at der vil komme mange forslag, når vi har et
+godt og langt forhandlingsforløb med hinanden, men det er ikke en
+del af det udspil, vi kommer med her.";Christine Antorini
+49687;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til børne- og undervisningsministeren er af
+hr. Peter Juel Jensen, værsgo.";Kl. 13:41
+49828;Time;"Spm. nr. US 62
+
+9";Kl. 13:41
+49870;name_party;":
+Nu blev jeg placeret som en af de sidste spørgere, og det giver jo anledning til, at jeg kan kommentere alt det, der er blevet sagt tidligere.
+Der blev sagt rigtig mange gode ting.
+Man kunne gribe fat i ministerens ordveksling med fru Karen Ellemann og de ideologiske forskelle, som lå i de to udspil. Og som
+jeg husker det, sagde den daværende minister, hr. Troels Lund Poulsen, på et tidspunkt, jeg sad som ordfører, ligesom ministeren gjorde,
+at man kom til at sluge nogle kameler. Det tror jeg faktisk også Politiken har skrevet en del artikler om. Så det var måske knap så meget
+de ideologiske forskelle, der gjorde, at der ikke blev lavet et forlig
+dengang. Jeg tror, at det måske var, fordi der var en opposition, der
+gik og ventede på et valg. Sådan er oppositionen ikke i dag, og det
+skal vi selvfølgelig også glæde os over.
+Jeg kunne også tale lidt om holddeling, for jeg synes jo også, det
+er vigtigt, at vi tilpasser lovgivningen til den virkelighed, som man
+gerne vil have ude i folkeskolen, og ikke omvendt. Men det kan vi jo
+sætte os ned og drøfte.
+I stedet for vil jeg stille et spørgsmål på baggrund af et møde,
+som jeg havde med ministerens kollega, hr. Orla Hav. Vi mødtes
+med 50 tillidsrepræsentanter fra Aalborg, det var en fantastisk positiv oplevelse, og det gav også et godt indtryk af, hvilke udfordringer
+den danske lærerstand står over for i deres arbejde.
+Det var tydeligt, at mange af lærerne havde det svært og måtte
+tilkæmpe sig den nødvendige respekt i klasseværelset, og at ukvemsordene fra elevernes side også kunne blive alt for mange og komme
+alt for hyppigt. Lærerne går til ledelsen, men der sker ikke noget, da
+mange forældre deler elevernes syn på både skole og lærere.
+Har ministeren noget bud på, hvordan vi kan sikre lærerne –
+frontlinjekæmperne – nogle bedre værktøjer ude på skolerne, således
+at lærerne ikke skal opleve at blive ydmyget verbalt, enkelte også fysisk, når de passer deres arbejde?";Peter Juel Jensen
+51823;Time;"Formanden:
+Så er det undervisningsministeren.";Kl. 13:43
+51880;Time;;Kl. 13:43
+51936;title_name;":
+Jeg synes, det er utrolig vigtigt, at der er ro og orden i løbet af undervisningen, for det betyder rigtig meget for, at børnene lærer så meget
+som muligt. Det er også derfor, at den bekendtgørelse, der er, og
+som lidt populært sagt hedder ro og orden-bekendtgørelsen, er blevet
+skærpet, sådan at der er en række muligheder for, at man også kan
+gå ind med sanktioner. Nogle gange handler det selvfølgelig helt
+grundlæggende om, at læreren besidder de kompetencer, der skal til,
+når det handler om klasserumsledelse. Det er også noget af det, der
+er blevet opgraderet på den nye læreruddannelse, som der lige er blevet lavet en bred aftale med uddannelsesministeren om. Det er også
+noget, der er fokus på i forhold til efterududdannelse.
+Men der er også brug for nogle gange at sige: Hør her! Jeg tror
+lige, vi skal have en timeout. Og så har man altså mulighed for at
+tilkalde forældrene. Hvis der er tale om grovere tilfælde, kan man
+også sige, at børnene lige bliver nødt til at være hjemme i noget tid,
+for det her går ikke. Det giver så mulighed for, at man kan få en
+drøftelse med forældrene om, hvordan de kan bidrage til, at deres
+barn fungerer godt i klassefællesskabet igen. Så jeg tror ikke, der er
+mere at gøre i forhold til sanktionsvejen.
+Det her handler om at være meget fokuseret på klasserumsledelse. Det handler om, at skolen sender et klart signal om, at der er retningslinjer for ro og orden på skolen, og at det er utrolig vigtigt, at
+man bidrager til det fællesskab, som skolen er.
+
+10
+
+Onsdag den 5. december 2012 (US 63)";Christine Antorini
+53493;Time;"Formanden:
+Hr. Peter Juel Jensen.";Kl. 13:45
+53538;Time;;Kl. 13:45
+53561;name_party;":
+Jeg er meget, meget enig med ministeren, og det var også det, jeg
+fortalte de 50 tillidsrepræsentanter fra Aalborg, nemlig at sådan var
+det, og at man havde nogle muligheder i den bekendtgørelse, der lå.
+Problemet er bare, at lærerne ikke føler, at der er opbakning – hverken fra ledelsen eller fra forældrene – til at tage den svære samtale,
+som det faktisk er, når man skal kalde nogle forældre ind og sige, at
+deres barn måske ikke lige opfører sig helt som forventet.
+Jeg er godt klar over, at ordet disciplin ikke er det rette. Det er
+nok et ord, som generationen før os brugte. Ministeren og jeg kalder
+det selvfølgelig samarbejde, for vi ved jo, at hvis man skal have læring op at køre, er det i et samarbejde mellem elev, lærer og forældre. Men selv om hensigten ikke er at genindføre den sorte skole,
+tror jeg alligevel, at der er behov for, at vi i højere grad er med til at
+sikre rammerne og respekten, således at der er en forudsætning for et
+samarbejde. Det er, som ministeren også siger, reguleret i bekendtgørelse om fremme af god orden i folkeskolen. Overvejer ministeren
+at ændre på den her bekendtgørelse for at komme lærerne og de 50
+tillidsrepræsentanter fra Aalborg i møde?";Peter Juel Jensen
+54767;Time;"Formanden:
+Ministeren.";Kl. 13:46
+54801;Time;;Kl. 13:46
+54857;title_name;":
+Jeg mener ikke, der er mere at komme efter i forhold til bekendtgørelsen. Hvis Venstre har nogle gode ideer, vil jeg selvfølgelig lytte
+til dem. Jeg tror, det meget mere handler om en holdning, man har
+på skolen – en holdning, som er drøftet i skolebestyrelsen, som er
+helt tydelig, når der bliver givet information til forældrene, og som
+man kan se på skolens hjemmeside.
+Så kom jeg, da ordføreren holdt sit indlæg, til at tænke på, at jeg
+på et tidspunkt skrev en klumme, der hed: »Kæft, trit og retning på
+den fede måde«. Det, der lå i det med kæft, var, at det faktisk er vigtigt nogle gange at sige: Nej, nu holder du lige mund. Vi har brug
+for, at der er ro. Du har ikke altid førsteretten. Det, der lå i det med
+trit, var, at det også nogle gange er vigtigt, at man går i flok, at vi
+alle sammen arbejder i en bestemt retning. Og dermed ligger der også i det sidste med retning, at det gerne skulle være sådan, at alle
+børn lærer mest muligt og flytter sig fra A til B. Så kæft, trit og retning på den fede måde, for det skal netop ikke være på den gammeldags kadaverdisciplinmåde, kan man måske godt stadig væk bruge.";Christine Antorini
+55994;Time;"Formanden:
+Sidste runde, hr. Peter Juel Jensen.";Kl. 13:47
+56053;Time;;Kl. 13:47
+56076;name_party;":
+Tak. Jeg står jo her med forskellige kasketter på: Jeg er både børneog undervisningsordfører for Venstre, og jeg er arbejdsmiljøordfører. Jeg kan jo se, at lærernes arbejdsmiljø begynder at fylde rigtig
+meget i statistikkerne. Godt nok er vi ikke arbejdsgivere, men vi er
+jo tvunget til at sikre arbejdsmiljøet, for det er os, der laver landets
+love, sådan at kommunerne har mulighed for at være arbejdsgiver
+for landets folkeskolelærere.
+Når nu vi har mange udbrændte, nedslidte folkeskolelærere –
+folk, som har måttet forlade arbejdsmarkedet alt for tidligt med alle
+
+de konsekvenser, det får for deres økonomi osv. – vil ministeren så
+ikke i det mindste i dag give mig et håndslag på, at ministeren vil gå
+i dialog med kommunerne, med skolelederne, med folkeskolelærerne for at sikre, at vi får løst det her problem? For jeg synes ikke, at vi
+som indirekte arbejdsgiver kan være tjent med, at så mange i en personalegruppe brænder ud på deres arbejde. Det er jo faktisk folk,
+som vi i bund og grund har meget brug for, i og med at de er med til
+at være hverdagens helte og løfte uddannelsesniveauet i Danmark.
+Skulle vi ikke gøre en ekstra indsats for at komme en trængt personalegruppe i møde her, så vi får et bedre arbejdsmiljø og får, hvad vi
+alle sammen ønsker, nemlig en bedre folkeskole, i og med at lærerne
+fungerer bedre ude i klasseværelserne og der er flere elever, der får
+budskabet, osv.?";Peter Juel Jensen
+57492;Time;"Formanden:
+Ministeren.";Kl. 13:48
+57526;Time;;Kl. 13:48
+57582;title_name;":
+Jeg er helt enig i, at det er utrolig vigtigt at fokusere på, hvordan
+man har dygtig ledelse på alle institutioner, alle virksomheder, herunder også på skolerne. At der er en god ledelse, betyder rigtig meget for, at der er et godt arbejdsmiljø.
+Nu er det jo så sådan med folkeskolerne, at det er kommunerne,
+som har ansvaret for de lokale folkeskoler. Derfor synes jeg også,
+det er vigtigt at have dialogen via kommunerne, for det er dem, der
+skal sikre – hvis der er nogle steder, hvor der af en eller anden grund
+er meget sygdom eller problemer med ledelsen, eller at man kan se,
+at der er for mange, der er nødt til at lægge sig med stress – at man
+går ind med det samme eller så tidligt som muligt og prøver at finde
+ud af, hvad årsagen er, og så løse problemerne. Men det må jo være
+dem, der har ansvaret for det – dvs. kommunerne – der skal gå ind i
+forhold til de der opgaver. Det, vi vil gøre i forbindelse med udspillet til folkeskolen, er at kigge på, hvordan vi kan give et kompetenceløft til skoleledelsen, og det er et af de elementer, som også fremgår af udspillet.";Christine Antorini
+58674;Time;"Formanden:
+Spørgsmålet er sluttet.
+Og så kan vi godt nå det sidste spørgsmål til børne- og undervisningsministeren af fru Rosa Lund. Værsgo.";Kl. 13:49
+58826;Time;Spm. nr. US 63;Kl. 13:49
+58857;name_party;":
+Tak. Vi har jo også i Enhedslisten lagt mærke til, at ministeren eller
+måske regeringen præsenterede et udspil til en ny folkeskolereform i
+går, og først og fremmest vil jeg da sige tillykke med det.
+Der er dog nogle ting i forbindelse med regeringens udspil, som i
+hvert fald har undret mig lidt. Og det handler om det her med, at lærerne skal undervise mere, altså at eleverne skal have flere timer. Det
+er jo i sig selv positivt, at lærerne skal have noget mere tid sammen
+med børnene, sammen med eleverne. Det tror jeg sådan set både lærere og elever er glade for.
+Men det, som så kan undre mig, er: Hvad er det så, lærerne skal
+holde op med at lave? For lærerne laver jo rigtig mange ting i dag.
+De har forældresamarbejdet, de skal lave elevplaner, forberede nationale test, rette opgaver, forberede sig til undervisningen. Der er rigtig mange opgaver, så hvad er det, regeringen tænker lærerne skal
+fraprioritere, nu de skal være mere sammen med børnene?
+
+Onsdag den 5. december 2012 (S )";Rosa Lund
+59865;Time;;Kl. 13:53
+59876;Time;"Formanden:
+Ministeren.
+
+11
+
+Formanden:
+Fru Rosa Lund, sidste runde.";Kl. 13:50
+59955;Time;;Kl. 13:53
+59966;Time;;Kl. 13:50
+60022;title_name;":
+Jeg må sige, at jeg virkelig har det sådan, at det har jeg stor tillid til
+at man godt kan organisere lokalt. Der er en lokal skoleledelse, som
+selvfølgelig har ansvaret for at organisere arbejdet så fleksibelt som
+muligt, sådan at lærerne bedst muligt kan udføre deres opgaver.
+Derfor er vi i regeringen også optaget af, hvordan vi kan give
+mulighed for, at lærerne kan bruge mere af deres skoletid sammen
+med eleverne, men vi mener også, det er noget, man skal diskutere
+lokalt hvordan man gør. Og det er, fordi man ikke kan sætte det ind i
+en skabelon. Det vil være forskelligt, hvor meget lærere har brug for
+af forberedelsestid, alt efter hvordan deres skema ser ud, og hvad det
+er for nogle elever, de har i klasserne.
+Det er lige præcis derfor, vi siger: Giv noget mere lokalt råderum
+til, at man kan planlægge arbejdet dér, men sådan, at vi har det mål,
+at vi giver lidt mere direkte tid mellem lærere og elever, fordi det betyder rigtig meget, hvis vi skal have et fagligt løft af alle børnene.";Christine Antorini
+61037;Time;"Formanden:
+Fru Rosa Lund.";Kl. 13:51
+61074;Time;;Kl. 13:51
+61090;name_party;":
+Jeg er meget enig med ministeren i, at vi skal lægge så meget som
+overhovedet muligt ud lokalt, og at vi skal give lærerne et råderum.
+Men det kan man jo gøre på andre måder end ved lige at give dem et
+råderum i forhold til forberedelsestiden.
+Planlægger regeringen også at give lærerne et råderum, i forhold
+til at de kan lade være med at lave så meget dokumentation, lade være med at lave så mange elevplaner, måske i det hele taget helt afskaffe dem? For der er jo mange måder, hvorpå vi kan frigive tid til,
+at lærerne faktisk kan være sammen med eleverne og undervise mere. Som jeg sagde før, tror jeg også, at lærerne er interesseret i det.
+Men der er mange måder at frigive tiden på.";Rosa Lund
+61792;Time;;Kl. 13:52
+61808;name_party;":
+Tak. Jeg er glad for, at vi er enige om, at der er mange måder, hvorpå man kan frigive tid til, at lærerne kan være mere sammen med
+eleverne.
+Så mit sidste spørgsmål skal blot gå på, om ministeren ikke anerkender, at hvis man skal have kvalitet i undervisningen, at hvis man
+skal præstere godt, så er det ret vigtigt at forberede sig.";Rosa Lund
+62154;Time;"Formanden:
+Ministeren.";Kl. 13:53
+62188;Time;;Kl. 13:53
+62244;title_name;":
+Det er jo indlysende, at det er vigtigt at forberede sig, men det er jo
+ikke det samme, som at man skal have fuldstændig den samme forberedelsestid, uanset hvilke klasser, hvilke elever, hvilke erfaringer
+man har i forhold til de undervisningsforløb, man skal have. Det synes vi faktisk er noget man skal drøfte lokalt hvordan man gør. Det
+er en ledelsesopgave, hvordan man organiserer arbejdet.
+Det, der er det vigtigste for os i regeringen, er at spørge: Kan vi
+tænke det lidt anderledes, altså ikke sådan, at lærerne skal arbejde
+mere end alle andre, men sådan, at vi lige tænker lidt anderledes omkring arbejdet, så der kan sættes mere af deres tid i spil til direkte tid
+sammen med eleverne? Og jeg er glad for, at Enhedslisten også selv
+tænker i, hvordan man kan være med til at afbureaukratisere, hvordan man måske kan effektivisere nogle af de mange møder, der er på
+skolerne, sådan at vi får lidt mere undervisning.";Christine Antorini
+63180;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til børne- og undervisningsministeren og
+selvfølgelig også til spørgerne.
+Jeg skal her udsætte mødet. Mødet genoptages kl. 14.00.
+Mødet er udsat. (Kl. 13:54).
+
+Formanden:
+Ministeren.";Kl. 13:54
+63413;Time;;Kl. 13:52
+63469;title_name;":
+Jeg deler fuldstændig Enhedslistens opfattelse af, at vi skal gøre os
+umage med at se på, hvor der er noget overflødigt papirarbejde, der
+bliver lavet, for det er jo ikke det, lærerne skal bruge deres tid på. De
+skal netop bruges til at være eksperter i undervisningen sammen med
+børnene.
+Derfor har vi også en vifte af forslag til afbureaukratisering i vores udspil til at gøre en god skole bedre. Der kører lige nu nogle forsøg med elevplanerne, hvor man lidt mere fleksibelt kan evaluere på
+fagene i forhold til eleverne, så det ikke er alle fag hele tiden, men
+sådan, at man prioriterer nogle områder eller mere rullende kommer
+igennem fagene. Det synes vi er rigtig spændende, fordi det måske
+er en mere målrettet måde at bruge elevplanerne på. Det bliver evalueret nu, og så håber jeg, at vi kan lave nogle lidt mere lempelige
+elevplaner, men med det udgangspunkt, at det er vigtigt, at der stadig
+væk også er skriftlighed og løbende opfølgning i forhold til eleverne,
+for det er jo det, elevplanen skal bruges til: at hjælpe eleven videre,
+ved at der er nogle mål for, hvordan de bliver så dygtige som muligt.
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Christine Antorini
+64700;Time;"Formanden:
+Så er mødet åbnet igen.
+Liselott Blixt har meddelt, at hun ønsker at tage spørgsmål nr. 7 og 8
+på dagsordenen, det er S 578 og S 579, tilbage.
+Det første spørgsmål er til finansministeren fra hr. Jacob Jensen.";Kl. 14:00
+64932;Time;"Spm. nr. S 569
+1) Til finansministeren af:";Kl. 14:00
+64993;name_party;":
+Mener ministeren fortsat, at det er realistisk at indfri reformbehovet
+frem mod 2020 med de reformværktøjer, som regeringen anviser i
+sin 2020-plan?
+
+12
+
+Onsdag den 5. december 2012 (S 569)
+
+Formanden:
+Værsgo.";Jacob Jensen
+65215;Time;;Kl. 14:00
+65233;name_party;":
+Tak for det. Som proceduren foreskriver, starter jeg med at læse
+spørgsmålet op:
+Mener ministeren fortsat, at det er realistisk at indfri reformbehovet frem mod 2020 med de reformværktøjer, som regeringen anviser
+i sin 2020-plan?";Jacob Jensen
+65474;Time;"Formanden:
+Finansministeren.";Kl. 14:00
+65514;Time;;Kl. 14:00
+65549;title_name;":
+Tak for det spørgsmål. Det er jo et spørgsmål, som vi har haft lejlighed til at debattere en del gange – senest i et længere samråd, hvor
+spørgeren også var meget aktiv.
+Lad mig starte med at få slået nogle grundlæggende ting fast omkring den her diskussion. Når der tales om et reformbehov og en
+2020-plan, er det jo rigtigt, at regeringen har fremlagt en 2020-plan,
+som, for så vidt angår reformer, er meget ambitiøs, og som går langt
+videre end det, som spørgerens parti – i regeringens position – før
+folketingsvalget anså for at være tilstrækkeligt og betegnede som noget, man kunne sætte to streger under facit på. Det er en ambitiøs
+dagsorden, der er sat.
+Man kan så sige: Hvordan går det med at indfri de ambitioner?
+Jamen det går jo faktisk ganske godt. Samlet set er der reformambitioner for 17 mia. kr. i 2020-planen, og herudover er der en moderniseringsdagsorden, som sigter på at frigøre 5 mia. kr. til nye prioriteringer i velfærd – altså samlet 22 mia. kr. Der må man sige, at med
+det arbejde, der er gjort, siden planen blev lanceret, er vi kommet
+langt. Vi har lavet reformer, der samlet set beløber sig til ca. 8 mia.
+kr., som vi også gennemgik på det samråd, hvor vi i stor detaljerigdom diskuterede de her spørgsmål. Så vi er godt på vej.
+Det er jo også klart, at der kommer til at ske flere ting i den kommende tid. Det er annonceret, at regeringen spiller ud med et udspil
+til en kontanthjælpsreform, det er annonceret, at vi vil spille ud med
+forslag, der sigter på at bringe de unge hurtigere igennem uddannelsessystemet, og det er også annonceret, at vi tager fat på det her
+spørgsmål om at modernisere den offentlige sektor. Digitalisering er
+en væsentlig løftestang, og i forhold til det er der ambitiøse forslag
+på brættet.
+Så vi er godt på vej, vi har høje ambitioner, og de ambitioner
+fastholder vi. Det er så også sådan, at et af de reformspor, der blev
+lagt ud i 2020-planen, indgik i trepartsforhandlinger. De lykkedes ikke, og på det punkt kan vi ikke komme videre.";Bjarne Corydon
+67561;Time;"Formanden:
+Hr. Jacob Jensen.";Kl. 14:02
+67601;Time;;Kl. 14:02
+67619;name_party;":
+Tak for svaret. Nu løber der jo meget vand i åen, og ikke mindst er
+der løbet en del i åen siden det samråd, som finansministeren henviser til. Jeg forstår også svaret på den måde, at de reformværktøjer,
+som er anvist i regeringens 2020-plan fra maj måned, er de reformværktøjer, man vil fastholde for at nå målsætningen om de 17 mia.
+kr. plus de 5 mia. kr. i forhold til modernisering.
+Så jeg forstår svaret sådan, at der ikke kommer nye værktøjer. I
+modsat fald må finansministeren korrekse mig i sin anden omgang.
+Men foreløbig har jeg forstået det sådan, at der ikke kommer nye
+
+værktøjer, men at man fastholder de redskaber, som man har i værktøjsskassen, og som regeringen har anvist i sin egen 2020-plan fra
+foråret i år.
+Når jeg siger, der er løbet meget vand i åen siden vores samråd,
+er det jo netop, fordi vi her for nylig i Jyllands-Posten kunne læse, at
+der nu igen er et problem med de finansieringsmekanismer, altså de
+redskaber, som regeringen anviser der skal bruges til at nå dens
+2020-målsætning.
+Ministeren har tidligere selv nævnt, at trepartsforhandlingerne er
+kuldsejlet, og nu viser det sig så, at Finansministeriet selv har beregnet, at man ikke kan indfri nogen forventning om at få midler, finansiering, fra det, man har kaldt sygefravær, altså en indsats i forhold
+til nedbringelse af sygefraværet. Så der er altså endnu et redskab,
+man må tage op af værktøjskassen.
+Skal jeg forstå svaret sådan, at når man nu er kuldsejlet med trepartsforhandlingerne og ikke forventer at få noget ud af sygefraværsindsatsen, så hæver man dermed ambitionsniveauet på de resterende områder, altså eksempelvis kontanthjælp og SU?";Jacob Jensen
+69271;Time;"Formanden:
+Finansministeren.";Kl. 14:04
+69311;Time;;Kl. 14:04
+69346;title_name;":
+Nej, nu opfattes det måske som oppositionens pligt at fremstille alting i et mere skeptisk lys, end man nødvendigvis må på baggrund af
+fakta. Jeg kan ikke se, der er løbet meget vand i åen, siden vi sidst
+drøftede de her spørgsmål. Det er korrekt, vi ikke kunne nå frem til
+en trepartsaftale; vi er så kommet meget langt ad de andre reformspor, der er beskrevet i en plan, som er langt mere ambitiøs end
+noget, spørgerens parti på noget tidspunkt har stået for.
+Når det gælder sygefravær, kan jeg ikke se, at der er noget nyt
+under solen. Det er korrekt, at det er vanskeligt at finde redskaber,
+der nedbringer sygefraværet på en måde, der kan gøres anvendelig i
+den her sammenhæng, men det er da fortsat en ambition. Det er det
+helt uændret, og det står også i vores 2020-plan.";Bjarne Corydon
+70136;Time;"Formanden:
+Hr. Jacob Jensen.";Kl. 14:05
+70176;Time;;Kl. 14:05
+70194;name_party;":
+Det vil sige, at det, man har kunnet læse i dagspressen, om, at Finansministeriet selv har vurderet, at der ikke kom noget finansieringsbidrag til 2020-målsætningen fra en indsats i forhold til sygefravær, ikke skal tages for givet. Der kommer altså et bidrag fra den
+indsats, sådan som jeg forstår finansministeren. Det vil vi da glæde
+os til at se. Men jeg forstår det også stadig væk sådan, at når man så
+har trepartsforhandlingerne, der er kuldsejlet, og som ifølge 2020planen skulle have givet 4 mia. kr. til finansieringen, så må de 4 mia.
+kr. altså skulle findes et andet sted inden for de tilbageværende redskaber. Der kan jeg så igen nævne, at det kunne være kontanthjælp,
+som vi stadig væk afventer et udspil fra regeringen om, eller det
+kunne være på SU-området. Skal jeg forstå det sådan, at de 4 mia.
+kr., som ikke kommer – og det er jo også nu bekræftet af finansministeren, at de ikke kommer fra trepartsforhandlingerne – så skal komme fra de eksisterende redskaber i værktøjskassen, herunder kontanthjælp og SU?";Jacob Jensen
+71233;Time;"Formanden:
+Finansministeren.
+
+Onsdag den 5. december 2012 (S 570)";Kl. 14:05
+71312;Time;;Kl. 14:05
+71330;name_party;":
+Når det gælder sygefravær, peges der på en avishistorie, som henviser til et notat, der blev fremlagt under trepartsforhandlingerne, hvor
+det blev konstateret, at der ikke på det tidspunkt var foreslået konkrete virkemidler, som kunne nedbringe sygefraværet på en måde,
+der kunne regnes ind. Det ændrer jo ikke på, at vi har den ambition.
+I øvrigt vil jeg gerne generelt sige, at det selvfølgelig er positivt,
+at oppositionen interesserer sig for regeringens politik, også når det
+gælder reformer. Men der er jo et skrigende misforhold imellem, at
+vi som regering lægger et højt og konkret ambitionsniveau frem og
+kommer med konkrete forslag et for et til at indfri de pågældende
+ambitioner – og vi lykkes med de pågældende forhandlinger i meget
+vidt omfang – og så Venstre, der sådan på papiret har høje ambitioner, men glimrer ved sit fravær, når det gælder enhver konkretisering
+af de tiltag, vi taler om, inklusive da trepartsforhandlinger, hvis det
+kunne have nogen interesse.
+
+kvittere for. Det er positivt, og det må vi håbe kan komme til at ske
+igen. Det forudsætter nok, at det er os, der sætter dagsordenen.";Jacob Jensen
+72459;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til finansministeren er også af hr. Jacob Jensen.";Kl. 14:08
+72575;Time;"Spm. nr. S 570
+2) Til finansministeren af:";Kl. 14:08
+72636;name_party;":
+Hvilke reformer mener ministeren, det er nødvendigt at bringe i anvendelse, hvis regeringens 2020-plan stadig skal nås?
+Formanden:
+Hr. Jacob Jensen, værsgo.";Jacob Jensen
+72804;Time;;Kl. 14:08
+72815;Time;"Formanden:
+Hr. Jacob Jensen i sidste runde.";Kl. 14:06
+72870;Time;13;Kl. 14:06
+72892;name_party;":
+Hvilke reformer mener ministeren, det er nødvendigt at bringe i anvendelse, hvis regeringens 2020-plan stadig skal nås?";Jacob Jensen
+73023;Time;;Kl. 14:09
+73041;name_party;":
+Det er måske at stramme den en smule, vil jeg sige til finansministeren, når man tænker på, at flere af de forhandlinger og aftaler, som
+faktisk bidrager til, at regeringens 2020-målsætning kan nå igennem
+eller i hvert fald det, man foreløbig har indhentet – jeg tænker eksempelvis på en skattereform, jeg tænker på forsvarets besparelser,
+og jeg kunne også nævne førtidspension og fleksjob – faktisk er reformer, som Venstre har været med til at bære igennem i hvert fald i
+visse tilfælde til forskel fra regeringens eget parlamentariske grundlag, Enhedslisten. Så det synes jeg måske er at stramme den lidt,
+men sådan er det jo. Vi har forskellige roller her i livet.
+Men jeg vil bare gerne holde fast i, at jeg på det svar, som ministeren giver, forstår, at det stadig væk efter finansministerens opfattelse er realistisk med de eksisterende værktøjer, som ligger i værktøjskassen, altså kontanthjælp og SU og så det, man mere udefinerbart kalder en modernisering. Er det de redskaber, som skal indhente
+de 17 mia. kr. plus de 5 mia. kr., sådan at 2020- målsætningen bliver
+opfyldt? Kan vi være sikre på, at der altså ikke kommer nye redskaber i værktøjskassen, herunder til at hente de 4 mia. kr., som de
+kuldsejlede trepartsforhandlinger har efterladt?";Jacob Jensen
+74310;Time;"Formanden:
+Finansministeren.";Kl. 14:07
+74350;Time;;Kl. 14:07
+74385;title_name;":
+Jeg synes faktisk, at det her spørgsmål om roller er en interessant
+diskussion i forhold til at tage ansvar og løfte reformer, for det er jo
+rigtigt, at der er indgået aftaler med Venstre, og når man har indgået
+en aftale fra vores side, er man jo tilfreds med den og kvitterer for
+det bidrag, der er leveret, også fra Venstre side. Men forløbet har jo
+været, nu henleder man selv opmærksomheden på skatteforløbet, at
+det har været meget svært at bringe Venstre hen til en position, hvor
+man ville tage det ansvar, og på vejen derhen har de forslag, der er
+blevet fremlagt fra Venstres side, været kendetegnet ved, at de ikke
+hang sammen økonomisk. Det så vi jo, da det gjaldt skatteaftalen,
+nemlig, at det, man selv lagde frem, ikke kunne regnes igennem på
+en måde fra Finansministeriets side, der hang sammen økonomisk.
+Det ville bombe hul i statskassen. At man så til sidst kom til fornuft
+og tilsluttede sig de forslag, regeringen havde fremlagt, kan jeg kun
+
+Formanden:
+Finansministeren.";Bjarne Corydon
+75389;Time;;Kl. 14:09
+75424;title_name;":
+Tak for det spørgsmål også.
+Det er jo ganske velbeskrevet i den konkrete 2020-plan, der er
+lagt frem fra regeringens side. Som jeg har peget på, er der allerede
+en del af de opgaver, der stilles i den ambitiøse 2020-plan, vi har lavet, som er løst. Skattereformen er gennemført. Vi har netop sluttet
+aftale om forsvaret, der sikrer midler. Førtidspensions- og fleksjobreformen er gennemført osv. osv. Det, vi har i vente i den nære
+fremtid, er, at vi ser på kontanthjælpsområdet og på muligheden for
+at få de unge hurtigere igennem uddannelsessystemet.
+Så er det rigtigt, som spørgeren gentagne gange sigter til, at når
+det gælder trepartsforhandlinger, kunne vi ikke nå et resultat. Det har
+vi åbent konstateret, og det har jeg beklaget, men sådan er det. Det er
+jo også rigtigt, at et af de virkemidler, vi oprindelig lagde til grund at
+man kunne betjene sig af, er faldet bort. Det har ikke givet anledning
+til, at regeringen sænker sit ambitionsniveau, og det vil sige, at vi har
+til gode at tage stilling til, hvordan vi så med andre virkemidler når
+det mål. Det har vi ikke forholdt os til endnu. Det gjorde vi heller
+ikke på det samråd, hvor vi drøftede sagen meget grundigt. Det kommer vi til. Det er ikke i dag, at jeg kommer til at konkretisere, hvad
+det går ud på, for det må vi forholde os til på et senere tidspunkt,
+men det er et ambitionsniveau, vi stadig væk fastholder, og dermed
+en opgave, vi skal prøve at få løst.";Bjarne Corydon
+76869;Time;"Formanden:
+Hr. Jacob Jensen.";Kl. 14:10
+76909;Time;;Kl. 14:10
+76927;name_party;":
+Tak for det svar. Spørgsmålet og svaret ligger måske ikke så langt
+fra den tidligere runde, vi havde. Jeg fornemmede egentlig, der kom
+en nuance, det er der måske tradition for i regeringen i de her dage,
+altså at man nuancerer sine svar en lille smule, alt efter hvordan man
+bliver spurgt. Jeg fastholder den diskussion, for nu siger finansministeren, at der vil blive taget andre virkemidler i brug. Skulle jeg forstå det sådan, at fordi man ikke kan komme igennem med det i for-
+
+14
+
+Onsdag den 5. december 2012 (S 570)
+
+bindelse med trepartsforhandlingerne, er det andre virkemidler inden
+for den bestående ramme, altså blandt de reformværktøjer, som man
+har anvist i sin 2020-plan? Finansministeren nævner selv kontanthjælp, som vi stadig væk afventer et udspil om, og så er der SU-reformen, og det er de to store. Er det blandt de redskaber, vi skal kunne se de andre virkemidler, som finansministeren vil bringe til torvs,
+for at man kan hente de 4 mia. kr., som foreløbig er det, der mangler? Ud over det kan vi nu få en diskussion om, hvorvidt sygefraværet giver noget eller ikke giver noget. Men lad os så holde fast i trepartsforhandlingerne. Er det inden for de områder, man med finansministerens ord vil se nye andre virkemidler, eller er det nogle helt
+andre redskaber, man vil putte ned i værktøjskassen, som i dag ikke
+ligger i 2020-planen?";Jacob Jensen
+78296;Time;"Formanden:
+Finansministeren.";Kl. 14:11
+78336;Time;;Kl. 14:11
+78371;title_name;":
+Det er jo en ret fascinerende interesse for de her spørgsmål, som jeg
+åbent fortæller hvordan vi forholder os til, fra et parti, der ikke selv
+har præsenteret noget konkret overhovedet, der hænger sammen.
+Lad os lige holde fast i, at der er præsenteret en konkret 2020-plan,
+som sætter et markant højere reformambitionsniveau, end Venstre
+har været i stand til at lancere. Halvdelen er i forhold til de reformambitioner, der er fremlagt, allerede gennemført med aftaler, hvor
+det er lykkedes at nå i mål med Venstre, men på baggrund af en ualmindelig stor genstridighed og med nogle på vejen derhen uansvarlige forslag, der ikke på lange stræk hang sammen. Det vil være sådan
+også fremover, at regeringen holder fast i sine ambitioner, at regeringen skridt for skridt kommer med konkrete forslag, der udmønter de
+ambitioner. Det kan man være tryg ved. Det, jeg så gerne ville være
+mere tryg ved, var, at Venstre så også stod klar til at løfte sin del af
+ansvaret, når forslagene kommer.";Bjarne Corydon
+79369;Time;"Formanden:
+Hr. Jacob Jensen.";Kl. 14:12
+79409;Time;;Kl. 14:12
+79427;name_party;":
+Som sagt synes jeg nok, at vi har løftet den del af ansvaret, som tilkommer os som opposition. Men forskellen fra dengang, da vi sad i
+regering, og til nu, hvor finansministeren sidder i regering, er jo, at
+oppositionen i dag netop er konstruktiv og samarbejdsvillig til forskel fra tidligere, hvor vi oplevede en opposition, som netop sad tilbage med korslagte arme. Vi har f.eks. spillet ud med en konkret
+plan til en kontanthjælpsreform med seks klare punkter. Vi har strakt
+armen ud til regeringen.
+Man har skrevet i sit eget regeringsprogram, man har skrevet i sit
+eget 2020-program, at vi skal have en kontanthjælpsreform. Lad os
+da hellere komme i gang med det så hurtigt som muligt, så vi kan få
+de gevinster, som vi alle sammen er enige om vi har brug for, hjem
+til vores samfund. Det er da et eksempel på, at vi er medspillere.
+Som jeg nævnte tidligere, har vi også været medspillere på en
+lang række af de reformer, som allerede er blevet gennemført. Så
+derfor skal jeg bare holde fast i mit spørgsmål om, hvorvidt man skal
+forvente at se nye redskaber, som vi i dag ikke kender til, for at kunne løfte ambitionen om at nå 2020-planens målsætning, eller om vi
+skal finde et højere ambitionsniveau end det, vi i dag kender inden
+for rammerne af 2020-planen, men med brug af de eksisterende redskaber, altså at vi skal forvente, at der skal hentes endnu mere på
+kontanthjælp og endnu mere på SU end det, der er lagt op til i 2020planen for samlet set at kunne nå målene i 2020-planen.";Jacob Jensen
+80933;Time;"Formanden:
+Finansministeren.";Kl. 14:13
+80973;Time;;Kl. 14:13
+81008;title_name;":
+Forskellen på det, vi har at gøre med nu, og det, der gjaldt under den
+tidligere regering, er, at den her regering ikke fører blokpolitik. Derfor er der baggrund for at kunne lave brede aftaler om væsentlige
+samfundsspørgsmål. Det var der ikke under den tidligere regerings
+ledelse. Det er jo den grundlæggende forskel. Det vil sige, at Venstre
+har muligheden, men om man er i stand til at løfte ansvaret, oplever
+jeg som noget, man løbende har en intern strategisk debat om. Jeg
+kan kun heppe på de rigtige kræfter. Jeg skal ikke kunne sige, hvem
+der står stærkest i øjeblikket.
+Når det gælder kontanthjælpsområdet, vil jeg sige, jo, der kommer et konkret forslag fra regeringen, og det vil hænge sammen økonomisk. Som jeg har forstået det forslag, som Venstre har lagt frem,
+er der ikke virkemidler i det forslag, der matcher det måltal, som
+man har sat for, hvad reformen skal kunne give. I hvert fald ikke
+som jeg har forstået det. Men vi byder da Venstre velkommen, når
+det her skal diskuteres på baggrund af et oplæg fra regeringen, naturligvis.";Bjarne Corydon
+82071;Time;"Formanden:
+Sidste runde til hr. Jacob Jensen.";Kl. 14:14
+82128;Time;;Kl. 14:14
+82146;name_party;":
+Lad mig spørge helt konkret: I 2020-planen er der et emne, som har
+forskellige elementer. Der skal hentes 3 mia. kr., bl.a. ved nedbringelse af sygefraværet og fra kontanthjælpsområdet. Er det en målsætning, som fortsat gælder, altså at man på det felt skal hente 3 mia.
+kr.? Eller skal vi forvente, at man skal skrue op for ambitionen om
+de 3 mia. kr. på det felt med hensyn til kontanthjælp og sygefravær
+for at kunne hente nogle af de tabte 4 mia. kr. ind, som mangler, fordi trepartsforhandlingerne er kuldsejlet? Er det noget, vi må forvente, eller skal vi stadig væk se, at det er 3 mia. kr., eller bliver det måske noget helt andet? Jeg synes, det er interessant at vide, så vi kan
+forberede os på det udspil, der måtte komme. Altså: Er det det samme ambitionsniveau, eller må vi forvente, at ambitionen på det her
+felt med hensyn til sygefravær og kontanthjælp bliver skruet i vejret
+i forhold til det, der ligger, for at man kan nå i mål med den samlede
+2020-plan?";Jacob Jensen
+83131;Time;"Formanden:
+Finansministeren.";Kl. 14:15
+83171;Time;;Kl. 14:15
+83206;title_name;":
+Venstre skal forberede sig på, at regeringen fremlægger forslag, der
+svarer til de planer, vi har fremlagt, og som hænger sammen økonomisk og socialt. Venstre skal også forberede sig på, at man vil blive
+indbudt til at tage ansvar for at løfte dem, ligesom det har været hidtil i den her regeringsperiode. Det er såmænd den enkle version af
+det.
+Det er rigtigt, at der er en kategori i 2020-planen, som er sat til
+samlet set at have et måltal på 3 mia. kr.. Det har det fortsat. Det er
+også rigtigt, at vi ikke kan nå i mål med trepartsforhandlingerne og
+vi derfor har et udestående, som vi ikke har forholdt os til hvordan
+konkret skal dækkes. Vi har ikke sænket vores ambitionsniveau.
+
+Onsdag den 5. december 2012 (S 575)
+
+Jeg kan kun være forundret over den tone, der er i spørgsmålet,
+for som jeg har forstået Venstre, er man principielt imod trepartsforhandlinger. Det vil sige, at det virkemiddel har man selv afskrevet
+for lang tid siden. Man har fremlagt et bud på noget kontanthjælpsreform, som ikke hænger sammen økonomisk, og så har man i øvrigt
+ikke rigtig fremlagt andet. Så jeg har svært ved at forstå den forargelse, der ligger i svarene, i og med at det er regeringen, der sætter et
+konkret højt ambitionsniveau og gennemfører den nødvendige politik i praksis.
+
+15
+
+følgelig også finurligt, for hvad betyder det? Betyder det, at de meget, meget optimistiske vækstforudsætninger, som regeringen har
+lagt ind i sine økonomiske planer, vil kunne blive justeret, så de måske i højere grad er i overensstemmelse med det, alle andre økonomer desværre frygter, nemlig en lavere vækst, eller hvad betyder
+det? Betyder det, at man uanset hvad vil garantere de 0,8 pct. og ændre forudsætningerne, så der skal nogle flere værktøjer i brug for at
+kunne nå de 0,8 pct.?";Bjarne Corydon
+84991;Time;;Kl. 14:19
+85002;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til finansministeren er af hr. Peter Christensen.";Kl. 14:16
+85118;Time;"Spm. nr. S 575
+3) Til finansministeren af:";Kl. 14:17
+85184;name_party;":
+Kan ministeren bekræfte, at regeringen til foråret vil fremlægge »en
+opdateret udgave af 2020-planen«, som Socialdemokraternes finansordfører, John Dyrby Paulsen, siger til Jyllands-Posten den 28. november 2012?
+Formanden:
+Værsgo.";Peter Christensen
+85426;Time;;Kl. 14:17
+85449;name_party;":
+Tak for det. Kan ministeren bekræfte, at regeringen til foråret vil
+fremlægge ""en opdateret udgave af 2020-planen"", som Socialdemokraternes finansordfører, hr. John Dyrby Paulsen, sagde til JyllandsPosten den 28. november 2012?";Peter Christensen
+85688;Time;"Formanden:
+Finansministeren.";Kl. 14:17
+85728;Time;;Kl. 14:17
+85763;title_name;":
+Det tror jeg kommer an på hvordan man bruger det danske sprog.
+Der er ikke udsigt til, at vi fremlægger en ny 2020-plan, men der er
+udsigt til, at vi i forbindelse med det danske konvergensprogram,
+som man senest i løbet af foråret skal fremsende til EU, foretager en
+opdatering af, hvad status er for den 2020-plan, vi har udarbejdet,
+hvad resultatet er af de aftaler, vi indtil videre er nået i mål med, og
+hvordan det aktuelt ser ud med hensyn til den økonomiske udvikling. Der er altså tale om en opdatering, som man i øvrigt foretager
+fuldstændig rutinemæssigt, i forhold til hvordan man arbejder med
+den type planer, hvilket spørgeren naturligvis også vil være bekendt
+med.";Bjarne Corydon
+86454;Time;"Formanden:
+Hr. Peter Christensen.";Kl. 14:18
+86499;Time;;Kl. 14:18
+86522;name_party;":
+Betyder det svar, at man vil holde fast på og kan garantere en offentlig forbrugsvækst på 0,8 pct.? For det er jo lidt interessant. Jeg er
+helt med på, at det, finansministeren siger på en pæn måde, er, at ministerens tro væbner har sagt noget forkert til avisen, så det skal jeg
+ikke stå og rode rundt i.
+Jeg konstaterede bare, at han troede, at der kom en ny 2020-plan
+– det gør der så ikke, men den skal opdateres, og der er sproget selv-
+
+Formanden:
+Finansministeren.";Peter Christensen
+87005;Time;;Kl. 14:19
+87040;title_name;":
+Nu er der jo ikke nogen grund til, at spørgeren stiller sig an, som om
+han var mere uvidende om den slags planer og arbejdet med dem,
+end han helt sikkert i virkeligheden er. Altså, at den slags planer opdateres med jævne mellemrum, er en del af den måde, vi styrer den
+økonomiske politik på i Danmark; jeg tror såmænd oven i købet, at
+det er en del af den lov, vi har et forlig med Venstre om at gennemføre, nemlig budgetloven. Det indgår i den økonomiske styring, og
+jeg tror sandelig også, at det foregik under den tidligere regering.
+Så det er korrekt, at vi kommer til at foretage en opdatering, og
+jeg kan slet ikke se, at der skulle være nogen forskel på det, jeg siger
+om det i dag, og det, min kollega har sagt til Jyllands-Posten. Jeg
+tror, at lige præcis begrebet opdatering indgik, da hr. John Dyrby
+Paulsen udtalte sig.
+Og nej, der stilles ikke nogen garantier, for den her regering kører jo den økonomiske politik ansvarligt og har et forsigtighedsprincip, der betyder, at man jo ikke kan bruge penge, før man har skaffet
+finansieringen. Det kan man jo ikke garantere at man er i stand til,
+men man kan prøve. Og det afhænger jo i høj grad af Venstre, om
+det kan lade sig gøre.";Bjarne Corydon
+88243;Time;"Formanden:
+Hr. Peter Christensen.";Kl. 14:20
+88288;Time;;Kl. 14:20
+88311;name_party;":
+Forventer finansministeren, at man efter en opdatering af 2020-planen kan opretholde en offentlig forbrugsvækst på 0,8 pct.?";Peter Christensen
+88447;Time;"Formanden:
+Finansministeren.";Kl. 14:20
+88487;Time;;Kl. 14:20
+88522;title_name;":
+Det er jo det mål, der er sat i den nuværende 2020-plan på baggrund
+af en række konkrete reformspor, hvor vi allerede er kommet ganske
+langt. Den opdatering, vi laver, kommer, når vi er færdige med den,
+og så diskuterer vi den, ligesom vi i øvrigt løbende har haft den her
+type debatter. Her har man i sin spørgen forsøgt at antyde, at vi ikke
+skulle have styr på at komme med de konkrete bud, vi har stillet i
+udsigt, men man har jo hver gang måttet konstatere, at det er vi i
+stand til.
+Det er på et langt højere ambitionsniveau, end Venstre på noget
+tidspunkt har været i stand til at præstere, men garantier gives ikke.
+Man skal gennemføre konkrete forslag og sikre finansieringen, før
+man kan love at afholde udgifter. Sådan kører vi vores økonomiske
+politik. Tænk, hvis det var noget, der gjorde sig bredere gældende i
+Folketinget.
+
+16
+
+Onsdag den 5. december 2012 (S 576)";Bjarne Corydon
+89414;Time;Vil ministeren redegøre for regeringens ambitioner for, hvad en kontanthjælpsreform efter ministerens mening skal bidrage med til regeringens 2020-mål?;Kl. 14:21
+89578;Time;"Formanden:
+Værsgo.
+
+Formanden:
+Hr. Peter Christensen for den sidste runde.";Kl. 14:21
+89676;name_party;":
+Jo, men nu har jeg også hørt finansministeren svare min kollega tidligere, og det er i sandhed den socialdemokratiske historieskrivning,
+vi har med at gøre, og den vil næppe kunne godkendes på Københavns Universitet som værende en korrekt måde at skrive historie
+på. For hvad er fakta egentlig? Det er, at under den borgerlige regering gennemførte vi reformer, der gav et øget arbejdsudbud på
+105.000 mennesker. Socialdemokratiet var ikke med i en eneste af
+de reformer. Det, finansministeren så gerne vil sige til hele verden,
+er, at han står i spidsen for noget historisk, ikke fordi han har gennemført reformer, der øgede det med 105.000, men med 17.000. Der
+har Venstre været med i samtlige reformer, der har øget det med de
+17.000 mennesker, mens Socialdemokratiet ikke med i en eneste af
+de andre reformer. Hvis man kan hygge sig i den socialdemokratiske
+bevægelse med at gå og bilde hinanden den socialdemokratiske historie ind, så fred med det. Det har bare ikke noget med virkeligheden at gøre.
+Så kan jeg forstå, at finansministeren er blevet meget forsigtig,
+for han kan egentlig ikke garantere noget som helst. Han håber, at
+hans plan hænger sammen, men det må tiden vise. Men det er da også et svar.";Peter Christensen
+90900;Time;"Formanden:
+Finansministeren.";Kl. 14:22
+90940;Time;;Kl. 14:22
+90975;title_name;":
+Nu tror jeg generelt, at politikere skal passe meget på med at bedømme deres egen indsats som historisk. Det skal man nok overlade til
+andre, hvis der nogen sinde bliver anledning til det. Men man kan da
+godt diskutere historien, og når det gælder ansvarlighed og økonomisk politik, er der ikke nogen tvivl om, at det er der en ret klar
+holdning til blandt de mennesker, der bedømmer den økonomiske
+politik.
+Den generelle opfattelse er vel, at i 1990'erne, hvor Folketingets
+nuværende formand havde ansvaret for den økonomiske politik, blev
+der ført en virkelig ansvarlig politik med omfattende reformer og
+virkelig holdbare resultater. I de efterfølgende 10 år viste det sig jo
+så desværre, at man ikke havde styr på den økonomiske politik, for
+ganske vist havde man en høj vækst og lav ledighed, men det var baseret på en boble, en boligboble, en lånefinansieret boble, som til
+sidst brast, og som vi stadig væk lever med konsekvenserne af. Det
+forsøger vi nu at feje op efter. Det er vel det, der står tilbage, når
+man i øjeblikket uden for Christiansborg diskuterer økonomisk politisk historie.";Bjarne Corydon
+92085;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål til finansministeren er også af hr. Peter
+Christensen.";Kl. 14:23
+92206;Time;"Spm. nr. S 576
+4) Til finansministeren af:";Kl. 14:23
+92272;name_party;:;Peter Christensen
+92284;Time;;Kl. 14:23
+92307;name_party;":
+Tak. Vil ministeren redegøre for ministerens ambitioner for, hvad en
+kontanthjælpsreform efter ministerens mening skal bidrage med til
+regeringens 2020-mål?";Peter Christensen
+92475;Time;"Formanden:
+Finansministeren.";Kl. 14:23
+92515;Time;;Kl. 14:23
+92550;title_name;":
+Jamen det vil jeg gerne. Det kan man jo også læse i 2020-planen,
+men jeg gør gerne rede for det her.
+Der er en samlet kategori af initiativer, hvoraf kontanthjælp er et,
+sygefravær et andet og integration et tredje, der samlet set skal bidrage med 3 mia. kr., som den tidligere spørger fra hr. Peter Christensens parti også tog udgangspunkt i. Så kontanthjælpsreformen skal
+ses i den kontekst.
+Og så vil jeg sige, at der er et mål mere med sådan en kontanthjælpsreform, der er mindst lige så vigtig, som de tal, vi nu diskuterer, nemlig at den skal have en konkret positiv social virkning, der
+sikrer, at de mennesker, der i dag modtager kontanthjælp – og gør
+det i alt for lang tid – faktisk bliver en del af fællesskabet og kommer i arbejde.
+Det er jo ikke det mindste problem og den mindste udfordring i
+det her. Det er måske forskellen på mig og spørgeren – eller på regeringen og spørgerens parti – nemlig, at vi interesserer os mindst lige
+så meget for det sociale aspekt i det her som for det økonomiske, og
+vi mener, at de ting kan bringes til at hænge sammen.";Bjarne Corydon
+93630;Time;"Formanden:
+Hr. Peter Christensen.";Kl. 14:25
+93675;Time;;Kl. 14:25
+93698;name_party;":
+Nu vil jeg lige knytte en kommentar til forrige runde. Jeg er i øvrigt
+meget enig med finansministeren i, at man skal være varsom med at
+kalde noget historisk – helt enig. Jeg vil egentlig heller ikke anklage
+finansministeren for at bruge det udtryk ofte. Til gengæld gør finansministerens statsminister det konstant, så lad os give den advarsel videre til landets statsminister, fordi vi nu er blevet enige om, at det
+ikke helt holder, når man går det efter helt konkret.
+Jeg er meget optaget af, at en kontanthjælpsreform også har et socialt sigte, at man tager hånd om de mennesker, men det ændrer jo
+ikke ved, at det er hele forudsætningen for regeringens økonomiske
+politik. Og finansministeren svarer aldrig på spørgsmålene, når det
+bliver svært, men når det er blevet svært, er det jo, fordi regeringen
+siger, at man skal finde de 3 mia. kr. på tre elementer, hvor finansministerens eget ministerium siger sort på hvidt, at hvad angår sygefravær, kan man godt lave nogle gode initiativer, dem vil vi bakke
+op om, men man kan ikke indregne dem som en del af en finansiering.
+O.k., så er det element jo ligesom væk fra det her regnestykke.
+Og så er mit spørgsmål til finansministeren: Hvad forventer man så
+at skulle hente på en kontanthjælpsreform, for det sidste element, der
+ellers er tilbage, er integrationen, og at forestille sig, at finansmini-
+
+Onsdag den 5. december 2012 (S 580)
+
+steren kan få SF til at være med til at hente et stort bidrag fra integrationsområdet tror finansministeren jo ikke engang selv på. Og så
+er der jo kun kontanthjælpen tilbage.
+Jeg har fornemmet på regeringen, at man opererer med et tal på
+½ mia. kr. Er det ikke korrekt? Hvis det er tilfældet, skal man sammen med Det Radikale Venstre, SF, måske oven i købet Enhedslisten, fordi det er den brede, samarbejdende regering, finde 2½ mia.
+kr. på bedre integration. Mener finansministeren, at det er realistisk?";Peter Christensen
+95612;Time;"17
+
+struktiv måde. Og jeg har trods alt siddet i den anden ende af forhandlingslokalet og haft lejlighed til at se på, hvad det var for en attitude, jeg blev mødt med. Så en god, stærk, intern drøftelse om naturligvis både at tage et ambitiøst reformtag her af hensyn til vores økonomi, men også at optræde socialt i forhold til de mennesker, det
+handler om, ville være nyttig tid brugt internt i Venstre.";Kl. 14:27
+96029;Time;"Formanden:
+Hr. Peter Christensen, sidste runde.";Kl. 14:30
+96088;Time;"Formanden:
+Finansministeren.";Kl. 14:30
+96128;Time;;Kl. 14:27
+96163;title_name;":
+Jeg tror generelt, at mit syn på spørgerens forholdsvis vilde hypoteser byggende på en lang serie af uholdbare antagelser ikke er, at det
+er realistisk, nej. Jeg synes ikke, at den spørgeteknik bringer os nogen som helst steder hen. Jeg synes, man kom meget hurtigt rundt
+om det der spørgsmål om det sociale sigte med en kontanthjælpsreform, for hvis det er sådan, at Venstre har det synspunkt, at man kan
+komme meget langt med en kontanthjælpsreform med hensyn til at
+sikre et reformbidrag, og at man samtidig kan løfte den sociale nøgleopgave, det jo er at få mange af de her mennesker, der nu er i en
+ulykkelig social situation på passiv forsørgelse, med ind i fællesskabet og gøre dem til en del af arbejdsstyrken, ja, så kan man jo undre
+sig over, at Venstre i de 10 år, hvor man havde regeringsansvaret, ikke rigtig kom nogen vegne med det. Det er jo på en eller anden måde
+fascinerende.
+Derfor kan man glæde sig til, at regeringen kommer med et konkret forslag til, hvordan vi løser den opgave og samtidig styrker vores
+økonomi. Og så kan man måske forberede sig psykisk på at optræde
+konstruktivt i den forhandling.";Bjarne Corydon
+97298;Time;"Formanden:
+Hr. Peter Christensen.";Kl. 14:28
+97356;name_party;":
+Ja, som enhver kunne høre, så det at få konkrete svar fra regeringen
+evnede jeg i hvert fald ikke. Det er der nok ikke rigtig nogen der
+kan, tror jeg. Men jeg vil så spørge om de avisskriverier, der har været om sygefravær. Jeg synes jo, det kunne være skønt, hvis man
+kunne få nedbragt sygefraværet, men er finansministeren enig med
+sit ministerium i, at man næppe vil kunne få et bidrag, der kan give
+noget til 2020-planen? Er finansministeren enig i det papir, der er
+kommet frem i Jyllands-Posten?";Peter Christensen
+97869;Time;;Kl. 14:30
+97913;title_name;":
+Ministeren.";Lars Christian Lilleholt
+97936;Time;;Kl. 14:30
+97971;title_name;":
+Som jeg svarede hr. Jacob Jensen, er det ikke min opfattelse, at det
+er det, der er kommet frem i Jyllands-Posten. Der er en vurdering af
+de forslag, der er bragt på banen i forbindelse med en trepartsforhandling og selvfølgelig den objektive udfordring ved at nedbringe
+sygefraværet. Sådan er det jo med reformer, at man tit forsøger at
+løse objektivt svære problemer, men det er jo ikke det samme, som
+at man skal opgive at nå det mål. Det er en stor udfordring, det er et
+stort problem, og det er ikke nogen tilfældighed, at vi i vores 2020plan peger på, at det vil vi gerne gøre en indsats for at løse.";Bjarne Corydon
+98589;Time;;Kl. 14:31
+98600;Time;;Kl. 14:28
+98623;name_party;":
+Det kræver ikke nogen forberedelse, for vi møder altid konstruktivt
+op. Modsat Socialdemokratiet, som ikke deltog i en eneste af de reformer, der gav arbejdsudbud, da de sad i opposition, så har vi været
+med i alle de reformer, som finansministeren har gennemført. Så det
+kræver ikke nogen forberedelse. Men finansministeren svarede jo ikke på, hvad det er, regeringen håber at kunne få ud af en kontanthjælpsreform. Så jeg spørger igen: Hvad er det for en størrelsesorden, regeringen påregner for at få 2020-planen til at hænge sammen?
+Hvad skal en kontanthjælpsreform give efter finansministerens håb?
+Han skal ikke garantere noget, for det ved jeg jeg aldrig får finansministeren til, han skal ikke engang rigtig mene noget, for det kan
+jeg heller ikke få finansministeren til, han skal måske bare håbe noget. Hvad håber finansministeren?";Peter Christensen
+99510;title_name;":
+Tak til finansministeren og tak til spørgeren.
+Næste spørgsmål er til beskæftigelsesministeren af hr. Joachim
+B. Olsen, Liberal Alliance.";Lars Christian Lilleholt
+99659;Time;"Spm. nr. S 580
+5) Til beskæftigelsesministeren af:";Kl. 14:31
+99733;name_party;":
+Er ministeren enig i, at østarbejdere bidrager positivt til Danmarks
+velstand?";Joachim B. Olsen
+99856;title_name;":
+Hr. Joachim B. Olsen.";Lars Christian Lilleholt
+99889;Time;;Kl. 14:31
+99900;Time;"Formanden:
+Finansministeren.";Kl. 14:29
+99940;Time;;Kl. 14:29
+99975;title_name;":
+Man vil se konkret, hvad det er for et mål, vi sætter op, når vi fremlægger vores forslag, ikke før. Og hvad angår forberedelse, så er der
+jo en del debat om forberedelsestid for øjeblikket. Jeg vil anbefale
+Venstre forberedelsestid, også til den her forhandling, for det er nu
+mit indtryk, at man ikke altid er kommet til bordet på en lige kon-";Bjarne Corydon
+100345;name_party;":
+Er ministeren enig i, at østarbejdere bidrager positivt til Danmarks
+velstand?";Joachim B. Olsen
+100435;Time;;Kl. 14:31
+100479;title_name;":
+Ministeren.
+
+18
+
+Onsdag den 5. december 2012 (S 580)";Lars Christian Lilleholt
+100545;Time;;Kl. 14:31
+100591;title_name;":
+Tak for spørgsmålet. Jeg vil sige helt generelt, at de mennesker, der
+er i arbejde, dem, der skaber merværdi, dem, der uddanner sig, dem,
+der får gode ideer – hvad enten de er danskere og bor i Danmark, eller de kommer til udefra – jo alle sammen er med til at bidrage positivt til den velstand, vi har i Danmark. Sådan har det alle dage været,
+sådan er det i dag, og sådan vil det også være i fremtiden.";Mette Frederiksen
+101007;Time;;Kl. 14:32
+101051;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+101073;Time;;Kl. 14:32
+101096;name_party;":
+Det var et dejligt svar. Jeg synes også, at det er et tiltrængt svar, for
+når man hører den offentlige debat om østarbejdere, der kommer
+hertil og sælger deres arbejdskraft, også billigere, end danskere sælger deres arbejdskraft, så kommer det ofte til lyde, som om det er et
+enormt problem. Det er jo en politisk diskussion, man kan have osv.,
+men det faktuelle er jo, at folk, der kommer hertil og sælger deres
+arbejdskraft lidt billigere, end danskere gør, er med til at bidrage positivt til Danmarks velstand, til Danmarks rigdom. Det synes jeg
+man udelader i debatten alt for ofte, og det bliver en unuanceret debat.
+Grunden til, at jeg stiller det her spørgsmål, er, at jeg har fået
+mange mails fra folk, som arbejder her, og som er kede af, at det ofte
+bliver fremstillet, som om de er et problem for det danske samfund.
+Derfor vil jeg gerne have ministeren til at bekræfte, at det er de sådan set ikke – de bidrager positivt til Danmarks velstand.";Joachim B. Olsen
+102063;Time;;Kl. 14:33
+102107;title_name;":
+Ministeren.";Lars Christian Lilleholt
+102130;Time;;Kl. 14:33
+102176;title_name;":
+Jeg må sige, at jeg synes, at spørgeren selv er for unuanceret i sin
+tilgang til det her spørgsmål, for spørgeren får det til at lyde, som om
+der ikke er problemer på det danske arbejdsmarked, eksempelvis
+hvad angår social dumping, og det er der. Der er massive problemer,
+hvad enten vi kigger på motorvejene med ulovlig piratkørsel eller på
+byggeriet, hvor der jo ganske ofte bliver trævlet større sager op med
+enten systematisk snyd, underbetaling eller manglende sikkerhed.
+Hvis vi kigger på det grønne område, på serviceområdet, ser vi,
+at der er store problemer med social dumping, og derfor er det selvfølgelig vigtigt at få slået fast, at de udenlandske lønmodtagere, der
+kommer til Danmark, er velkomne, men det skal foregå på en ordentlig måde. Her tror jeg måske, at vejene skiller mellem spørgeren
+og mig selv som både socialdemokrat og minister.
+For jeg er grundlæggende ikke enig i, at det er et plus for Danmark, at der er mennesker, der arbejder her til meget lave lønninger.
+Jeg synes, det er et plus, at vi har et åbent arbejdsmarked; jeg synes,
+det er et plus, at vi har et reguleret arbejdsmarked; og jeg synes, at
+der er al grund til at slå ned, når der enten foregår ulovligheder eller
+i øvrigt social dumping.";Mette Frederiksen
+103419;Time;;Kl. 14:34
+103463;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+103485;Time;;Kl. 14:34
+103508;name_party;":
+Men det er jo sådan den sædvanlige svada, der kommer fra venstrefløjen, hvor man blander en masse ting sammen, herunder at der
+
+kommer nogle til Danmark og arbejder – også til en lavere løn, end
+danske lønarbejdere arbejder til. Nu snakker vi ikke om nogen, der
+gør noget ulovligt eller ikke betaler skat, men om det faktum, at nogle, der kommer hertil og sælger deres arbejdskraft billigere, bidrager
+til Danmarks velstand, for det betyder, at de mennesker, der køber
+arbejdskraften, har nogle flere penge til rådighed, som de kan bruge
+til nogle andre ting, som skaber nogle job i nogle andre sektorer. Og
+det er jo positivt for Danmark.
+Jeg kan jo konstatere, at selv Arbejderbevægelsens Erhvervsråd
+har lavet en rapport, som viser, at østarbejdere bidrager positivt til
+væksten i Danmark, og da vi har en udfordring i forhold til økonomisk vækst i det her land, vil det så ikke være godt at sørge for, at
+der kommer nogle mennesker herop og arbejder og bidrager til
+væksten? Selvfølgelig skal folk betale skat osv. – det er ikke det, vi
+taler om. Det, vi taler om, er, at samlet set er det, at der kommer
+folk, også fra Østeuropa, hertil en positiv ting for det danske samfund.";Joachim B. Olsen
+104701;Time;;Kl. 14:35
+104745;title_name;":
+Ministeren.";Lars Christian Lilleholt
+104768;Time;;Kl. 14:35
+104814;title_name;":
+Jeg synes, det er positivt, at vi har et åbent dansk arbejdsmarked. Jeg
+bifalder, at danske lønmodtagere og danske virksomheder rejser ud,
+at de kan navigere på hele det europæiske marked og for manges
+vedkommende jo også på det globale marked. Det er selvfølgelig positivt – man bliver klogere, man bliver dygtigere. Og der kommer i
+øvrigt oplevelser i bagagen, som er til stor værdi for både den enkelte og for dansk erhvervsliv.
+Når vi selv har et ønske om, at danske lønmodtagere og virksomheder kan rejse ud, så gælder det selvfølgelig også den anden vej.
+Jeg synes bare, at spørgeren overser, hvor mange problemer der også
+følger af det her, for man kan jo ikke negligere de problemer, der er
+med social dumping. Vi har udlændinge, der arbejder i et dårligt arbejdsmiljø; vi har mennesker, der kommer til skade; vi har medarbejdere, der går til så lave lønninger, at det ingenlunde kan betragtes
+som værende rimeligt. Og når vi taler om velstand, vækst, udvikling
+af det danske samfund, er det alt for banalt at have fokus på, hvad
+den person, der udbetaler løn, måtte have af fortjeneste. Lige så afgørende er det jo, at vi har et rimeligt lønniveau i forhold til den arbejdsindsats, der bliver ydet.
+Vi hører jo altså om eksempler på meget, meget lave lønninger.
+Altså, jeg har hørt om eksempler på 40-50 kr. i timen. Det er jo ingenlunde rimeligt i et samfund som det danske, som jo også baserer
+sig på, at man svarer skat. Så jeg synes, at spørgsmålene er alt, alt
+for unuancerede, i forhold til både hvad der er af fordele ved at være
+et åbent arbejdsmarked, og hvad der selvfølgelig også er af ulemper
+ved den måde, som tingene foregår på i dag.";Mette Frederiksen
+106483;Time;;Kl. 14:37
+106527;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+106549;Time;;Kl. 14:37
+106572;name_party;":
+Min pointe er bare – og jeg synes egentlig, det er ret nuanceret, for
+jeg kan sagtens anerkende, at der kan være nogle problemer – at der
+også er nogle fordele. Sådan er det ved de fleste ting.
+Det, jeg spørger ind til, er det helt overordnede, og det er, at
+østarbejdere helt overordnet bidrager til dansk velstand. Det har Nationalbanken sagt. De lavede på et tidspunkt en analyse, der viste, at
+5.000 østarbejdere bidrager til holdbarheden i dansk økonomi på et
+sted mellem 1,7 mia. kr. og 4 mia. kr. om året. Og det synes jeg bare
+
+Onsdag den 5. december 2012 (S 577)
+
+er udeladt af billedet, når 3F og andre kører kampagner, hvor man
+aldrig nogen sinde taler om de positive effekter ved, at der kommer
+mennesker herop og sælger deres arbejdskraft, og også sælger den
+billigere. Det er frivillige aftaler, der bliver indgået til begge parters
+fordel. Østarbejderen får en højere løn, end vedkommende ellers ville have fået, og køberen af arbejdskraft sparer nogle penge, som kan
+bruges til forbrug nogle andre steder, og som skaber nogle andre arbejdspladser i Danmark.
+Hele den overordnede diskussion er der ikke ret meget fokus på.
+Der er kun fokus på problemerne, og der er altså nogle mennesker
+derude, som kommer her og bidrager til dansk velstand, og som føler, at den retorik, der bliver brugt, er problematisk, når de egentlig
+føler, at de er budt velkommen af dem, som har inviteret dem herop.
+Men så står der en masse mennesker, heriblandt en masse politikere,
+og gør det til et kæmpeproblem, at de er her – og de bidrager positivt
+til Danmarks velstand. Der må man da som beskæftigelsesminister,
+synes jeg, gøre noget for at få belyst, at det her faktisk er en positiv
+ting helt overordnet set.";Joachim B. Olsen
+108294;Time;;Kl. 14:38
+108338;title_name;":
+Ministeren.";Lars Christian Lilleholt
+108361;Time;;Kl. 14:38
+108407;title_name;":
+Jamen der er jo givet nogle aktører, der har meget fokus på de negative effekter, og så har vi så politikere, bl.a. spørgeren selv fra Liberal Alliance, der tilsyneladende kun har et entydigt fokus på, hvad
+der måtte være af snævre økonomiske interesser eller værdier heri.
+Så er det godt, at vi har en regering, der magter og evner begge dele.
+For det er godt, at vi har et åbent arbejdsmarked, og det gælder både
+for de danskere, der rejser ud, og det gælder i forhold til dem, der
+rejser ind, men det skal foregå på ordentlige vilkår. For der er i mine
+øjne ikke nogen, der kan have en interesse – i hvert fald ikke en
+langsigtet interesse – i, at lønningerne dumpes i Danmark, at arbejdsmiljøet trædes under fode, at sikkerheden ikke er ordentlig, eller at der er mennesker, der går på arbejde og bliver syge, fordi vilkårene er for ringe.
+Jeg ønsker et åbent arbejdsmarked, men jeg ønsker også et ordentligt, fair og reguleret arbejdsmarked. Der er forskellige interesser i den her diskussion, og jeg tror, det er godt for både danske lønmodtagere, for de lønmodtagere, der kommer hertil udefra, og for
+danske virksomheder, at vi har en regering, der også i den her sag
+går på to ben: Ja til et åbent arbejdsmarked, men det skal foregå på
+en ordentlig måde.";Mette Frederiksen
+109681;Time;;Kl. 14:40
+109725;title_name;":
+Tak til ministeren og til spørgeren.
+Næste spørgsmål er til social- og integrationsministeren af hr.
+Martin Henriksen.";Lars Christian Lilleholt
+109855;Time;"Spm. nr. S 577
+6) Til social- og integrationsministeren af:";Kl. 14:40
+109938;name_party;":
+Hvordan vil regeringen sikre en fornuftig integrationsproces, når regeringen samtidig ikke gør noget ved det stigende antal asylansøgere?";Martin Henriksen
+110120;title_name;":
+Værsgo til spørgeren.
+
+19";Lars Christian Lilleholt
+110158;Time;;Kl. 14:40
+110181;name_party;":
+Tak for det.
+Hvordan vil regeringen sikre en fornuftig integrationsproces, når
+regeringen samtidig ikke gør noget ved det stigende antal asylansøgere?";Martin Henriksen
+110343;Time;;Kl. 14:40
+110387;title_name;":
+Ministeren.";Lars Christian Lilleholt
+110410;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Jeg takker for spørgsmålet. Og lige præcis spørgsmålet om, hvordan
+vi vil tilrettelægge vores integrationsindsats, er jeg rigtig glad for at
+blive stillet, for det giver mig jo lejlighed til én gang til at gennemgå
+det, som regeringen lagde frem i sidste uge, nemlig vores samlede
+vision for, hvordan vores integrationspolitik skal være. I den præsenterede vi ud over et visionspapir for, hvordan vi betragter integrationen og de udfordringer og også gevinster, der kan være i den, samtidig syv forskellige målsætninger, syv ting, som vi gerne vil have
+skal være anderledes.
+Det, vi også præsenterede, var et integrationsbarometer, fordi vi
+synes, det er rigtig vigtigt, at vi bliver bedre til at gøre nogle af de
+ting, der virker. Og det vil sige, at når vi laver et barometer, både et
+nationalt og et lokalt, hvor vi altså skal måle på, hvordan indsatsen
+går – om der kommer flere i arbejde, om de bliver bedre til at lære
+dansk, om der er flere, som føler, at de reelt er medborgere i det danske samfund osv. – og når vi måler på de ting, så kan vi også sammenligne kommunerne med hinanden. Og det vil jo betyde, at de
+kommuner, som virkelig har noget at prale af, selvfølgelig vil kunne
+ranke ryggen, mens andre kommuner, som har knap så meget at prale af, vil kunne se, hvad de egentlig har brug for at gøre, måske for at
+få flere igennem uddannelsessystemet, måske for at få mere tryghed
+i boligområderne, eller hvor de nu kan se at de har særlige udfordringer, de skal arbejde med.
+Så der er selve visionspapiret, hvor vi præsenterede målsætningerne for integrationspolitikken, integrationsbarometeret, og så laver
+vi i øvrigt også en taskforce, som drejer sig om, at vi skal blive endnu bedre til at finde ud af, hvilke resultater i de enkelte kommuner
+der har særlig god effekt. Og målet med det er, at de resultater skal
+vi på eller en måde have bredt ud, sådan at andre kommuner kan løfte det samme.
+Alle de her ting trækker i virkeligheden lidt i samme retning,
+nemlig at sørge for, at vi bliver bedre til at få styrket vores integrationsindsats. Alt for meget har i for lang tid været lidt for flagrende og
+lidt for tilfældigt, og derfor er der brug for, at den bliver styrket, at
+der bliver sat fokus på, hvordan integrationen kommer til at virke, og
+at vi har fokus på de reelle problemer, som rent faktisk er der, for de
+er der jo derude, men at vi omvendt ikke får tegnet en masse fjendebilleder op og får løst problemerne et efter et, når vi har beskrevet
+dem. Det er det, vi er i gang med.";Kl. 14:40
+112982;Time;;Kl. 14:42
+113026;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+113048;Time;;Kl. 14:42
+113071;name_party;":
+Jeg vil gerne læse op fra en artikel på Lokalavisen.dk. Det er en sag,
+der sådan illustrerer det, som jeg og Dansk Folkeparti mener der vil
+komme mere af, hvis ikke vi strammer op. Overskriften er: »Uskyldig 14-årig på vej til fodbold: Jagtet og gennembanket af 10 indvandrer-bøller«. Her fremgår det:
+
+20
+
+Onsdag den 5. december 2012 (S 577)
+
+»Helt uden grund blev en 14-årig dreng gennemtævet, da han
+mandag ved 12-tiden var på vej ud for at spille fodbold med nogle
+klassekammerater.«
+De blev simpelt hen jagtet. Vennerne stak af, og han blev så løbet
+op og fik adskillige slag i ansigtet og en skalle. Vicepolitikommissær
+Finn Duris fra Nordsjællands Politi siger, at der ikke umiddelbart var
+nogen grund til overfaldet.
+Grunden til, at jeg hiver den her sag frem, og det er fair nok, at
+ministeren ikke vil forholde sig til den konkrete sag, er, at jeg prøver
+at understrege den pointe, at vi er i en situation nu, hvor der kommer
+rigtig mange – og nu diskuterer vi helt konkret asylsystemet – til
+Danmark og søger om at få asyl. Vi ved, at mange af dem, der kommer hertil via asylsystemet, ender med på sigt at forårsage nogle integrationsproblemer og kriminalitetsproblemer, og derfor er min
+pointe, at hvis ikke regeringen og ministeren og justitsministeren
+forstår, at det er nødvendigt at stramme op i forhold til udlændingepolitikken, så der kommer færre til Danmark, så kommer der flere af
+den her slags problemer fremadrettet og ikke færre af den slags problemer. Jeg vil gerne høre, om ministeren er enig i, at det er den udvikling, som vi står over for.
+
+stilfærdighed, at alle de her fine ord og bemærkninger, der er i regeringens integrationsudspil »En styrket integrationspolitik«, hvor man
+taler om, at flere skal i arbejde, og at flere skal føle sig velkomne, at
+der skal være en styrket indsats over for de udlændinge og flygtninge, der lige er kommet til Danmark osv., ikke kommer til at rykke
+noget, hvis der bliver ved med at komme så mange udlændinge til
+Danmark, f.eks. via asylsystemet, hvilket vi ved kommer til at skabe
+større integrationsproblemer og ikke færre integrationsproblemer i
+fremtiden.
+Jeg vil bare gerne have, at ministeren er med på, at når man fører
+en lempelig udlændingepolitik og i det her tilfælde en lempelig asylpolitik, så betyder det, at man gør integrationsproblemerne og kriminalitetsproblemerne større, ikke mindre, i fremtiden. Og derfor vil
+jeg bare sige, at de konferencer, som ministeren holder, de møder,
+som ministeren holder, og de initiativer, som man lancerer i et integrationsudspil, ikke kommer til at ændre ved, at hvis ikke man begrænser den problematiske del af indvandringen til et minimum,
+kommer det til at gøre problemerne værre fremadrettet.
+Jeg vil godt høre, om ministeren anerkender, at det forholder sig
+sådan.";Martin Henriksen
+115873;Time;;Kl. 14:43
+115884;Time;;Kl. 14:46
+115928;title_name;":
+Ministeren.";Lars Christian Lilleholt
+115985;title_name;":
+Ministeren.";Lars Christian Lilleholt
+116008;Time;;Kl. 14:43
+116019;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Først vil jeg gerne sige, at den historie, som hr. Martin Henriksen refererer til, er ganske frygtelig. Det er rædselsfuldt at høre historier,
+hvor børn har været udsat for voldelige overgreb, og det er det sådan
+set, uanset hvem gerningsmanden har været. Det synes jeg er rigtig,
+rigtig slemt.
+Vi kan også se, at vi har en udfordring i forhold til hadforbrydelser. Derfor holdt justitsministeren og jeg en konference i foråret, og
+vi har sat et stort arbejde i gang for at få klarlagt, hvordan det egentlig ser ud med ekstremismen i Danmark, og hvad vi har af udfordringer. For der er mennesker, som bliver udsat for hadforbrydelser. Det
+kan være mennesker, som har jødisk oprindelse, eller som er muslimer, eller som har den ene eller den anden hudfarve. Det kan være
+mennesker med handicap, som oplever, at fordi de er noget særligt,
+er der nogle, som gerne vil komme efter dem. Det er helt uacceptabelt, at sådan nogle ting finder sted, ligesom det i øvrigt er fuldstændig uacceptabelt, at børn oplever at blive overfaldet eller rullet. Det
+er uacceptabelt, uanset hvem deres gerningsmænd er.
+Når hr. Martin Henriksen spørger til asylreglerne, vil jeg sige, at
+vi har de samme asylregler, som den tidligere regering havde. Vi har
+ikke ændret på kriterierne for at søge asyl eller for at modtage asyl,
+og det har vi sådan set heller ikke tænkt os gøre.
+
+Social- og integrationsministeren (Karen Hækkerup):
+Nu er vi jo til dels inde på Justitsministeriets område, for det er
+egentlig justitsministeren, der har asylreglerne. Men jeg vil gerne slå
+fast – jeg sagde det ved et tidligere spørgsmål, men spørgeren ville
+ikke rigtig anerkende mit svar og sagde: Jo, jo, der er ændret på asylpolitikken – at faktum er, at regeringen ikke har ændret på kriterierne for at modtage asyl i Danmark. De er, som de var under den tidligere regering, og sådan skal det være.
+Det, der er rigtig vigtigt, er, at når vi har en verden, hvor mennesker kan opleve at være fanget i en krig, at blive personligt forfulgt
+eller ikke at kunne være der, hvor de er, så har de altså mulighed for
+at flygte. Jeg ved, at spørgeren er meget optaget af, at Danmark også
+havde en rolle at spille i den sammenhæng under anden verdenskrig,
+da det var jøderne, som kom til Danmark og rigtig gerne ville have
+hjælp til at komme videre til Sverige. Vi har også i dag mennesker,
+som søger mod Danmark. Eksempelvis har vi lige nu en situation i
+Syrien med en borgerkrig, som selvfølgelig betyder, at der er mennesker, som flygter, fordi de bliver forfulgt. Så har vi nogle internationale regler om, hvad vi gør, når mennesker bliver forfulgt. De regler
+lever Danmark op til, og det skal vi gøre.
+Når det så er sagt, vil jeg gerne sige, at en ting er reglerne, men
+noget andet er, hvis mennesker svindler med reglerne, og det slår vi
+hårdt ned på, for det er ikke acceptabelt. Vi giver asyl til dem, som
+har bevist, at de er personligt forfulgt eller lever op til kriterierne.
+Dem, som svindler, arbejder vi for at få sendt hjem. Så der er sådan
+set ikke nogen forandring på det punkt.";Kl. 14:46
+119132;Time;;Kl. 14:45
+119176;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+119198;Time;;Kl. 14:45
+119221;name_party;":
+Regeringen har lempet på asylpolitikken, bl.a. gjort det mere økonomisk attraktivt at komme til Danmark. Man har lavet en asylaftale
+med Enhedslisten og Liberal Alliance, hvor man også gør det mere
+attraktivt at komme til Danmark og søge om at få asyl. Så der er
+ændret, og der er lempet på asylpolitikken.
+Men ministeren svarer sådan set ikke på mit spørgsmål. Jeg kan
+også godt finde andre artikler, bl.a. en fra BT den 22. juli 2012, hvor
+overskriften er: »Hveranden voldtægtsdømt er udlænding«.
+Man kunne gå længere tilbage i tiden og sige, at der var indvandrere og efterkommere også overrepræsenteret. Min pointe er i al";Martin Henriksen
+119860;Time;;Kl. 14:48
+119904;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+119926;Time;;Kl. 14:48
+119949;name_party;":
+Ministeren svarer jo ikke på mit spørgsmål, og det synes jeg er lidt
+frustrerende, for det er sådan set et forholdsvis klart spørgsmål, som
+jeg stiller. Jeg ved godt, at ministeren henviser til justitsministeren,
+og hvis jeg spørger justitsministeren om integrationspolitik, vil han
+formentlig henvise til social- og integrationsministeren. Det er jo regeringens valg at splitte integrations- og udlændingepolitikken op på
+
+Onsdag den 5. december 2012 (S 578)
+
+flere forskellige ministerier, så man ikke kan få en fornuftig dialog
+med en enkelt minister, som har ansvaret for det hele. Så jeg prøver
+bare igen. Og det her har ikke noget at gøre med anden verdenskrig,
+det har det virkelig ikke.
+Det her har noget at gøre med, at uanset hvad ministeren siger,
+forholder det sig sådan, at antallet af asylansøgere, der kommer til
+Danmark, stiger og stiger. Man forventer fra regeringens side, har
+jeg læst mig til, at det bliver det højeste antal, der kommer til Danmark og søger om at få asyl, i 10 år, tror jeg det var, og det betyder
+noget. Det betyder noget, for hvis den udvikling fortsætter, kommer
+der rigtig mange mennesker til Danmark, som har svært ved at blive
+integreret i det danske samfund. Så kommer der sociale problemer,
+der kommer integrationsproblemer, der kommer kriminalitetsproblemer, der kommer problemer med social kontrol osv.
+Jeg vil bare gerne høre, om ministeren anerkender, at tidligere tiders indvandring sådan set er det, der har skabt nogle af de overskrifter, som vi ser i aviserne, f.eks. det med, at hver anden voldtægtsdømt er udlænding, og problemstillingen fra den nævnte avis,
+hvor en 14-årig dreng blev jagtet og gennembanket af ti indvandrerbøller. Det er tidligere tiders indvandring, der har skabt de problemer, og så vil jeg bare gerne høre, om ikke det giver en eller anden
+anledning til, at man reflekterer lidt over den asylpolitik, man fører,
+og hvilke konsekvenser den vil få fremadrettet. Antallet betyder noget for muligheden for at integrere dem, der kommer, og dem, der er
+her. Men jeg kan forstå, at enten vil ministeren slet ikke gå ind i en
+diskussion om det, eller også anerkender ministeren ikke, at det er
+sådan, tingene hænger sammen.";Martin Henriksen
+122154;Time;;Kl. 14:49
+122198;title_name;":
+Ministeren.";Lars Christian Lilleholt
+122221;Time;"Social- og integrationsministeren (Karen Hækkerup):
+Først vil jeg sige, at hvis man gerne vil have besvaret spørgsmål vedrørende asylpolitikken, synes jeg, man skal stille spørgsmålet til justitsministeren, som har det ressort under sig. Jeg vil utrolig gerne
+svare, også som integrationsminister, og det har jeg også forsøgt at
+gøre, men til åbenlys frustration, og det kan jeg jo kun beklage. Men
+jeg har gentaget: Vi har ikke ændret på kriterierne for at få asyl, og
+det er heller ikke regeringens plan at gøre det.
+Når det så kommer til debatten om, om det betyder noget, hvor
+mange der er, vil jeg sige: Ja, selvfølgelig gør det da det. Det er langt
+lettere at få en integrationsproces til at forløbe gnidningsfrit, hvis
+man har nogenlunde styr på, hvor mange der kommer hertil, men ikke kun har styr på, hvor mange der kommer hertil. Man skal også
+have en plan for, hvordan dem, der kommer hertil, bliver modtaget;
+hvordan de bliver præsenteret for, hvilke muligheder de har i det
+danske samfund; hvordan forældre til børn bliver præsenteret for,
+hvad vi forventer af dem som forældre i det danske samfund, hvad vi
+forventer at de skal kunne eller bidrage med for at få deres børn godt
+i vej, godt igennem skolen og ud på den anden side uden at være
+havnet i sociale problemer eller kriminalitet. For vi vil rigtig gerne
+have, at alle er med, at alle får en uddannelse, og at alle kan ende
+med et bidrag.
+De ting er da rigtig vigtige. Det er enormt vigtigt, at vi har en
+plan for, hvordan vi modtager familier, og hvordan vi sørger for at få
+dem gjort i stand til at være her og leve op til, at i Danmark har man
+både rettigheder og pligter. Det er jo det, vores integrationsudspil
+handler om, nemlig at få lavet en integrationsplan for hver enkelt,
+som kommer hertil, hvor man ser på hele familien. Og så laver man
+samtidig en sundhedsscreening for at finde ud af, om der er nogen,
+der eventuelt har nogle traumer med, fordi vi ved, at fra en forebyggende vinkel er det rigtig, rigtig vigtigt, for ellers kommer vi ind for
+sent. Så kommer vi først ind, når det er gået op for os, at mor eller
+
+21
+
+far var meget, meget psykisk syg, fordi de havde oplevet nogle frygtelige ting, eller at man ikke kunne hjælpe familien.
+Derfor er det vigtigt, at vi forebygger, at vi laver integrationsplaner, og at vi i det hele taget har en plan om, at i Danmark sørger vi
+for, at de udfordringer, vi har på integrationsområdet – for dem er
+jeg enig med spørgeren i at vi har – håndterer vi. Men vi gør det bare
+ikke fra regeringens side ved at skabe fjendebilleder; vi gør det ved
+at præsentere de udfordringer, der er, og præsentere, hvilke løsninger
+vi ser på dem, som vi har gjort det i regeringsudspillet.";Kl. 14:49
+124934;Time;;Kl. 14:51
+124978;title_name;":
+Tak til ministeren og til spørgeren.
+Det næste spørgsmål er til ministeren for sundhed og forebyggelse fra Jens Henrik Thulesen Dahl.";Lars Christian Lilleholt
+125123;Time;"Spm. nr. S 578
+7) Til ministeren for sundhed og forebyggelse af:";Kl. 14:52
+125209;name_party;":
+Hvordan agter ministeren at sikre, at Sundhedsstyrelsens tilsynsbesøg bliver forbedret, her tænkes bl.a. på hurtigere tilsyn, når styrelsen modtager en anmeldelse m.v.?
+(Spørgsmålet er udgået, da det er taget tilbage af spørgeren).";Liselott Blixt
+125452;Time;"Spm. nr. S 579
+8) Til ministeren for sundhed og forebyggelse af:";Kl. 14:52
+125538;name_party;":
+Hvordan vil ministeren sikre, at en »ikkealvorlig akut sygdom«, men
+en sygdom, som kan have alvorlige konsekvenser, bliver prioriteret i
+sundhedsvæsenet?
+(Spørgsmålet er udgået, da det er taget tilbage af spørgeren).";Liselott Blixt
+125766;Time;"Spm. nr. S 582
+9) Til ministeren for sundhed og forebyggelse af:";Kl. 14:52
+125863;name_party;":
+Når det i forbindelse med indførelse af det elektroniske medicinkort
+bliver ekstra nødvendigt at sikre ansvaret for opdaterede oplysninger, hvordan vil ministeren så sikre, at dette sker, og hvem skal være
+ansvarlig for opdateringerne?";Jens Henrik Thulesen Dahl
+126143;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+126165;Time;;Kl. 14:52
+126197;name_party;":
+Tak. Når det i forbindelse med indførelse af det elektroniske medicinkort bliver ekstra nødvendigt at sikre ansvaret for opdaterede oplysninger, hvordan vil ministeren så sikre, at dette sker, og hvem
+skal være ansvarlig for opdateringerne?";Jens Henrik Thulesen Dahl
+126449;Time;;Kl. 14:52
+126493;title_name;":
+Ministeren.";Lars Christian Lilleholt
+126516;Time;"Ministeren for sundhed og forebyggelse (Astrid Krag):
+Tak for spørgsmålet. Det fælles medicinkort indeholder jo som bekendt oplysninger om hver enkelt borgers medicinering. Oplysningerne deles på tværs af sektorer i sundhedsvæsenet, og på den måde
+sikres det, at f.eks. en læge på et sygehus til hver en tid har adgang
+til et aktuelt og opdateret overblik over en konkret borgers medicinering.
+
+22
+
+Onsdag den 5. december 2012 (S 582)
+
+Det, som spørgeren spørger ind til, er så helt grundlæggende,
+hvem der har ansvaret for de oplysninger, der er i det fælles medicinkort. Der kan man sige, at ansvaret er delt i to.
+Først påhviler det helt konkret den læge, der ordinerer et lægemiddel til borgeren eller foretager ændringer i borgerens medicinering, at holde oplysningerne i medicinkortet opdaterede og helt korrekte for den enkelte borger. Det vil jo typisk være borgerens egen
+praktiserende læge eller en læge på et sygehus, der skal sørge for
+det.
+Den anden ansvarshaver, kan man sige, er Statens Serum Institut,
+som er dataansvarlig for oplysningerne i det fælles medicinkort. Det
+betyder, at hvis Seruminstituttet får kendskab til fejl i systemet, som
+giver mistanke om forringet datakvalitet, skal man følge op fra Statens Serum Instituts side. I forlængelse af en sådan opfølgning fra
+Statens Serum Institut kan Sundhedsstyrelsens tilsyn blive relevant i
+forhold til lægers forpligtelse til at foretage ændringer efter Seruminstituttets anvisninger.
+Endelig kan man sige, at der er en kvalitetssikring i, at borgeren
+har mulighed for at få adgang til sine oplysninger i det fælles medicinkort via www.sundhed.dk. Hvis borgeren finder, at oplysningerne
+ikke er korrekte, eller i øvrigt er i tvivl om sin medicinering – det er
+jo godt også selv at følge med i og være optaget af det – kan borgeren via logoplysninger på sundhed.dk se, hvilken læge der har foretaget den konkrete ordination af eller ændring i medicin, og herefter
+tage kontakt til den pågældende læge eller kontakte sin egen læge og
+tage spørgsmålet om den konkrete medicinering op.";Kl. 14:52
+128584;Time;;Kl. 14:54
+128595;Time;"Ministeren for sundhed og forebyggelse (Astrid Krag):
+Det er jo en rigtig, rigtig vigtig problemstilling, spørgeren har fat i,
+altså det her med patienter, der får mange forskellige typer medicin,
+og at medicinen kan spille sammen, og hvor man kan være tvivl, om
+det nu til hver en tid så også er den rigtige medicin, den rigtige patient spiser på det rigtige tidspunkt. Den bekymring for det er jo, kan
+man sige, en af de ting, der har ført til, at vi skal have et fælles medicinkort, for det må ikke være sådan, at når man kommer på hospitalet, kan lægen dér være i tvivl om eller ikke vidende om, hvad det
+egentlig er for noget medicin, den her borger skal tage og har derhjemme og der er udskrevet. Tilsvarende bør det være sådan, når
+man kommer til sin egen læge, hvis man, siden man var der sidst,
+har været indlagt og fået noget medicin ordineret, at der er et samlet
+overblik.
+Så det, spørgeren bringer frem, og den sag, spørgeren bringer
+frem, som jo er meget tragisk at høre, hvor der ikke er et overblik, er
+lige præcis det, som det fælles medicinkort skal sikre imod. Og det
+er jo til hver en tid, når en læge udskriver medicin til en borger, lægens ansvar at sørge for, at den medicin er nødvendig, og at den medicin ikke er til skade eller til fare for patienten. Det kan den jo være,
+hvis man tager noget andet medicin, og der er et sammenspil der.
+Jeg tror sådan set, og det er jo ikke kun mig, der tror jeg det, at
+det fælles medicinkort kan være en vigtig del af løsningen og være et
+vigtigt skridt hen imod, at vi ikke har den slags situationer, som
+spørgeren henviser til fra sin Facebook.";Kl. 14:56
+130216;Time;;Kl. 14:57
+130260;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+130282;Time;;Kl. 14:54
+130326;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+130348;Time;;Kl. 14:57
+130380;name_party;":
+Tak. Det er jo rigtig dejligt, at dem, der har ressourcer til det, selv
+kan tjekke deres oplysninger og selv tage kontakt til lægen, og det
+tror jeg i vid udstrækning vil ske. Der, hvor jeg kunne have en bekymring, er jo der, hvor en person ryger ind og ud af sygehuset og
+får den ene slags medicin efter den anden eller går til egen læge og
+får noget supplerende medicin.
+Ministeren fortæller, at lægen på sygehuset har ansvaret for at
+lægge data ind – jeg går ud fra, at det er for at lægge de korrekte data
+ind – og det har egen læge selvfølgelig også, men mit spørgsmål
+handler sådan set også om, hvem det så er, der sikrer, at de samlede
+oplysninger er korrekte. Hvem er det, der sammenholder den medicin, som andre læger har givet, med den medicin, man selv giver?
+Da jeg nu skulle til det her, tikkede der noget ind på min Facebook, som jeg lige vil nævne her. Der er en her, der skriver: Min
+mor døde af overmedicinering. Hun fik 18 piller dagligt. Desværre
+turde hun ikke andet end at tage pillerne. Nogle af pillerne skulle
+modvirke bivirkninger på de piller, hun blev syg af at tage, men som
+lægerne bildte hende ind, at hun skulle tage, og hun turde jo ikke andet end at tage den her medicin. Hvem er det, der skal sikre, at der
+ikke er kontraindikationer på noget af den medicin, man får? Hvem
+er det, der skal sikre, at det her medicinkort altid er opdateret, sådan
+at personalet selvfølgelig, når man kommer ind på en eller anden sygehusafdeling, kan se, hvad det samlede billede er af det, man får, og
+er det rent faktisk det, man får, så det sikres, at der ikke bliver givet
+forkert medicin eller for meget medicin?";Jens Henrik Thulesen Dahl
+132024;Time;;Kl. 14:56
+132068;title_name;":
+Ministeren.";Lars Christian Lilleholt
+132113;name_party;":
+Jeg tror også, at det fælles medicinkort kan være et rigtig godt værktøj til at sikre, at det er den rigtige medicin. Men jeg synes bare ikke,
+jeg får noget svar på det helt centrale spørgsmål, som handler om,
+hvem der har ansvaret for, at det, der står i det elektroniske medicinkort, er rigtigt, at det er vurderet i sammenhæng.
+Jeg hører lidt ministeren sige, at det er den enkelte læge, der udskriver noget. Kan det forstås sådan, at hver gang en læge på en eller
+anden afdeling på et sygehus udskriver en eller anden recept, skal
+den pågældende læge gå ind og tjekke det elektroniske medicinkort
+og se, hvad vedkommende ellers får af medicin?
+Der vil det typisk være nødvendigt at tage kontakt til de andre læger, der også måtte have udskrevet noget, for at vide, præcis hvad
+den medicin er givet for, og hvordan den virker, for ellers kan man
+ikke vide, hvad man skal seponere, eller hvad man ikke skal seponere. Så jeg tænker, at det er rigtig, rigtig vigtigt at få et helt klart svar
+på, hvem der til enhver tid har ansvaret for, at det elektroniske medicinkort er korrekt og opdateret.";Jens Henrik Thulesen Dahl
+133219;Time;;Kl. 14:58
+133263;title_name;":
+Ministeren.";Lars Christian Lilleholt
+133286;Time;"Ministeren for sundhed og forebyggelse (Astrid Krag):
+Spørgeren giver jo sådan set selv svaret meget klart. Et fælles medicinkort skal lige præcis være et redskab, så en læge, der skal overveje udskrivning af medicin, til enhver tid kan have et samlet overblik
+og lige præcis ikke har brug for at få fat på den praktiserende læge,
+gå igennem sygehistorien og se, hvilke kollegaer der har været inde
+over, fordi det fælles medicinkort giver et aktuelt billede af, hvilken
+medicin den pågældende patient får.
+
+Onsdag den 5. december 2012 (S 583)
+
+Jeg synes, at noget af det, der er de praktiserende lægers opgave,
+inden de udskriver medicin til deres patienter, er at overveje, om der
+er noget medicin, man skal trappes ud af, om der er noget medicin,
+der ikke længere er nødvendig. Det er også en vigtig del af en praktiserende læges arbejde at overveje det. Her vil det fælles medicinkort
+også være til stor hjælp.
+Så jeg vil sige, at det ikke er nogen hemmelighed, at det fælles
+medicinkort er forsinket, i forhold til hvad man havde håbet på, og at
+vi ikke har fået det rullet ud. Dermed har vi ikke fået gjort os tilstrækkelig med gode erfaringer med det.
+Men jeg kan også notere mig, at i forbindelse med den meget
+triste sag, der for nylig var i Gentofte på et aflastningscenter med en
+ældre herre, der slet ikke fik sin medicin, mener Dansk Sygeplejeråd, at havde man haft det fælles medicinkort, så ville det formentlig
+aldrig kunne finde sted. Så på mange måder tror jeg, at fælles medicinkort kan løse både nogle af de problemstillinger, spørgeren har
+peget på i dag, og andre problemer. Det er jo altså ikke for sjov, at
+folk er på medicin, eller at der er regler for, at man ikke skal overmedicinere patienter.";Kl. 14:58
+135020;Time;"23
+
+borger. Man vil kunne gå ind på www.sundhed.dk og se sin samlede
+medicinering. Det vil være et vigtigt redskab at have, og det vil kunne løfte kvaliteten helt vildt.
+Jeg vil sige, at den her diskussion med, hvordan den praktiserende læge skal kunne hjælpe en borger, en patient, som har været indlagt på et psykiatrisk sygehus, og det med at få sammenhænge til at
+fungere, er en afgørende dagsorden for vores sundhedsvæsen. Helt
+konkret har vi i denne måned udmøntet 100 mio. kr. til det, der hedder shared care, som lige præcis drejer sig om at sikre sammenhængen mellem praktiserende læger og psykiatrien, og at den praktiserende læge kan trække på specialister. Det er klart, at praktiserende
+læger ikke er specialister, men de kan trække på specialister i psykiatrien. Det er en helt anden diskussion, men den tager jeg også gerne, for det er nemlig også vigtigt, men isoleret vil det fælles medicinkort være en markant forbedring.";Kl. 15:00
+135971;Time;;Kl. 15:03
+136015;title_name;":
+Tak til minister og spørger. Spørgsmålet er afsluttet.
+Den næste spørger er den samme, og det er også den samme minister.";Lars Christian Lilleholt
+136148;Time;;Kl. 15:03
+136192;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+136214;Time;;Kl. 15:00
+136246;name_party;":
+Det er bestemt ikke for sjov, at man skal have styr på medicinen. Det
+er bestemt ikke for sjov, at jeg spørger. Og jeg bliver nødt til at spørge en gang til, for jeg synes stadig væk ikke, jeg får noget svar.
+For nylig var jeg til et arrangement sammen med formanden for
+de praktiserende læger, Henrik Dibbern. Jeg stillede det samme
+spørgsmål. Han sagde, at det nok er noget, der ender hos de praktiserende læger. Jeg kunne også have en mistanke om det.
+Men samtidig kan man også sige, at hvis de praktiserende læger
+har en patient, der er psykiatrisk patient på et psykiatrisk sygehus og
+får medicin for sin sygdom, vil der være nogle sammenhænge mellem de forskellige slags medicin, som man som udskrivende praktiserende læge ikke nødvendigvis har kendskab til. Hvis den praktiserende læge skulle have ansvaret, forpligter vi dem også til at tage
+kontakt til de læger, der måtte have udskrevet noget på det sygehus,
+som vedkommende lige har været indlagt på. Jeg mangler stadig
+væk et klart svar på, hvem der er ansvarlig for, at det her medicinkort er opdateret til hver en tid.";Jens Henrik Thulesen Dahl
+137340;Time;;Kl. 15:01
+137384;title_name;":
+Ministeren.
+
+Spm. nr. S 583
+10) Til ministeren for sundhed og forebyggelse af:";Lars Christian Lilleholt
+137495;name_party;":
+Hvordan påtænker ministeren at sikre sammenhængende patientforløb, herunder at det i systemet klart defineres, om det er kommune,
+sygehus eller praktiserende læge, der har ansvaret for forløbet og
+borgeren, og hvad er ministerens holdning til en løsning som Epitalet?";Jens Henrik Thulesen Dahl
+137807;title_name;":
+Værsgo til spørgeren.";Lars Christian Lilleholt
+137840;Time;;Kl. 15:03
+137872;name_party;":
+Hvordan påtænker ministeren at sikre sammenhængende patientforløb, herunder at det i systemet klart defineres, om det er kommune,
+sygehus eller praktiserende læge, der har ansvaret for forløbet og
+borgeren, og hvad er ministerens holdning til en løsning som Epitalet?";Jens Henrik Thulesen Dahl
+138151;Time;;Kl. 15:03
+138195;title_name;":
+Ministeren.";Lars Christian Lilleholt
+138218;Time;;Kl. 15:03
+138229;Time;"Ministeren for sundhed og forebyggelse (Astrid Krag):
+Jeg har sådan set svaret adskillige gange. Spørgeren har faktisk også
+selv givet svaret i sine indlæg. Det er den læge, der til enhver tid ordinerer medicinen, der er ansvarlig for at opdatere. Det kan være på
+sygehuset, det kan være den praktiserende læge.
+Så siger jeg, og jeg tror, at mange praktiserende læger vil nikke
+genkendende til det, at en del af arbejdet som praktiserende læge og
+det med at komme hele vejen rundt om borgeren er at overveje, om
+der er noget medicin, man skal trappes ud af.
+Det, det fælles medicinkort kommer til at gøre os i stand til, og
+som vi ikke kan i dag, og som vil være en markant forbedring, og
+som vil gøre, at vi får færre af den slags triste sager, som spørgeren
+refererer til, og som er beskrevet på hans Facebookside, er lige præcis, at med det fælles medicinkort kan man som praktiserende læge
+eller sygehuslæge til enhver tid have det aktuelle billede over, hvilken medicin denne borger får. Det vil man i øvrigt også have som
+
+Ministeren for sundhed og forebyggelse (Astrid Krag):
+Jeg er fuldstændig enig med spørgeren i, at klare og veldefinerede
+rollefordelinger er fuldstændig afgørende, hvis vi skal kunne sikre
+sammenhængende og koordinerede behandlingsforløb for den enkelte patient på tværs af sundhedsvæsenet. Et vigtigt redskab til at sikre
+den her sammenhæng er de obligatoriske sundhedsaftaler, som kommuner og regioner skal indgå hvert fjerde år. Sundhedsstyrelsen har
+evalueret sundhedsaftalerne – resultatet kom i december 2011, det er
+et års tid siden – og de evalueringer viser, at aftalerne faktisk er et
+velegnet redskab til at sikre dialog og samarbejde mellem kommuner
+og regioner. Men evalueringen viste også, at der fortsat er plads til
+forbedringer, bl.a. i forhold til det, spørgeren også spørger ind til,
+nemlig at gøre aftalerne mere forpligtende for parterne.
+I øjeblikket er regeringen som bekendt i gang med at evaluere
+kommunalreformen fra 2007, og jeg kan sige, at vi på sundhedsområdet lige præcis fokuserer på snitfladeproblematikkerne mellem regioner og kommuner, og derfor indgår sundhedsaftalernes funktion
+
+24
+
+Onsdag den 5. december 2012 (S 583)
+
+og deres indhold, altså hvordan de virker, også som led i den evaluering af kommunalreformen, vi har gang i nu. Det var første del af
+spørgsmålet.
+Så går jeg til anden del, hvor spørgeren beder mig forholde mig
+til et projekt, der hedder Epitalet. Jeg vil gerne starte med at understrege, at det, at vi har velfungerende it-systemer, det, at vi bruger
+velfærdsteknologi, generelt er et helt centralt redskab til at understøtte, at vi har sammenhængende forløb for patienterne, altså at vi har
+koordinerede behandlingsforløb, som kan gå på tværs af sygehuse,
+kommuner og praktiserende læger. Og Epitalet, som jeg skal indrømme ikke at kende voldsomt meget til, er jo et konkret eksempel
+på et af de mange projekter, der foregår over hele landet, og som forsøger at binde samarbejdet om den enkelte patient tættere sammen
+med parterne ved at bruge ny teknologi, herunder også bruge telemedicin. Så vidt jeg har fået at vide – og som sagt er jeg ikke ekspert i
+det konkrete projekt – er der tale om et relativt lille projekt, der omfatter i størrelsesordenen ti patienter eller noget, men det ved spørgeren måske mere om end jeg.
+I flere af regionerne er der iværksat større projekter, som skal understøtte behandlingen af kroniske patienter, f.eks. har Region Nordjylland i samarbejde med alle kommuner i regionen og de praktiserende læger i regionen igangsat et projekt, som skal understøtte itbehandlingen af 1.500 patienter med KOL. Det er en del af regeringens nationale handleplan for telemedicin, som vi jo aftalte sammen
+med både regioner og kommuner sidste sommer. Jeg vil sige, at jeg
+generelt mener, at tiden nu er inde til, at vi arbejder for større satsninger, som har bred opbakning blandt alle de aktører i sundhedsvæsenet, der reelt skal løfte opgaven, altså at vi nu for alvor går fra
+pilotforsøg rundtomkring til at rulle ting ud i storskala, og at alle aktører er med på vognen.
+Bedre it-understøttelse af tværsektorielle patientforløb er i øvrigt
+et af de temaer, som indgår i arbejdet med en ny digitaliseringsstrategi for sundhedsvæsenet, som vi arbejder med, og som forventes
+klar her til sommer. Så det er ikke det sidste, vi hører om det fra regeringens side.";Kl. 15:01
+142610;Time;;Kl. 15:06
+142654;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+142676;Time;;Kl. 15:06
+142708;name_party;":
+Jeg vil starte med lige at tillade mig at kommentere svaret på sidste
+spørgsmål, for det glæder mig, at ministeren siger, at det er den til
+enhver tid udskrivende læge, der er ansvarlig for, hvad der står i medicinjournalen. Jeg er helt sikker på, at det vil komme rigtig meget
+bag på rigtig mange læger derude, men jeg går ud fra, at ministeren
+sørger for, at de ved det, så de er klar over, at deres ansvar er sådan.
+Så til det her spørgsmål, som et eller andet sted jo er lidt af samme karakter, for det handler også om at få et flow i patientforløbet,
+så man ikke oplever, at man bliver sendt hist og pist og ikke kan få
+noget sammenhængende forløb. Det er også derfor, at jeg som eksempel pegede på Epitalet, hvor kernen egentlig er, at der er et callcenter, et kontaktcenter, som er det eneste sted, borgeren skal kontakte i forhold til, hvad man end skal have af behandling. Al behandling bliver koordineret derudfra.
+Ministeren nævner sundhedsaftalerne, og det er rigtigt, at der er
+evalueringer, og at der bestemt er nogle ting, der fungerer, og der er
+bestemt også nogle ting, der ikke fungerer. Noget af det, der er centralt i forhold til sundhedsaftalerne, er jo, at det er mellem regioner
+og kommuner, men de praktiserende lægers andel i dem er der ikke.
+De praktiserende læger er ikke en del af aftalen. Der kan henvises til
+dem i aftalerne, og der kan være skrevet nogle ting, som man mener
+de bør tage sig af. Men jeg vil gerne høre ministeren, om ikke det
+ville være hensigtsmæssigt at sige, at de aftaler, som jo dækker bor-
+
+gerens sundhedsbehandling i det offentlige system, også burde omfatte de praktiserende læger, som jo alt andet lige er helt centrale
+personer i forhold til borgernes forløb. Det er jo typisk dem, der er
+den tilbagevendende figur, kan man sige, i et eller andet udredningsforløb eller i et sundhedsforløb for borgeren.";Jens Henrik Thulesen Dahl
+144581;Time;;Kl. 15:08
+144625;title_name;":
+Ministeren.";Lars Christian Lilleholt
+144648;Time;"Ministeren for sundhed og forebyggelse (Astrid Krag):
+Først har jeg bare lige en kommentar: Jamen det er da klart, at jeg til
+den sidste spørgerunde, vi havde gang i, om det fælles medicinkort,
+bare vil sige, at det jo gælder oplysninger i det fælles medicinkort.
+Hvis de er uklare og ikke til at forstå, så er det jo svært som læge at
+forholde sig til, om det er den rette medicin, man udskriver til den
+rette patient på rette tidspunkt. Så selvfølgelig skal der være en høj
+kvalitet i det. Det er også derfor, som jeg sagde i min indledende besvarelse, at der påhviler den konkrete læge, der ordinerer, et ansvar.
+Og så har Statens Serum Institut et overordnet ansvar i forhold til at
+følge, om der er kvalitet i dataene. Det er jo selvfølgelig vigtigt, at vi
+også overordnet har styr på det. Som sagt forventer jeg mig meget af
+det fælles medicinkort. Jeg er heller ikke blind for de udfordringer,
+der har været indtil nu, og vi havde sådan set håbet – og også min
+forgænger i den tidligere regering havde forventet det – at vi var
+længere fremme med det, end vi er nu. Men det skal rulles ud, for
+det vil betyde en forbedring.
+Så vil jeg sige, at det, spørgeren fremhæver som noget af det positive ved Epitalet, altså det her med, at der er én indgang for borgeren, er rigtigt set, for det er positivt. Det er jo hele tankegangen bag
+udredningsgarantien, som regeringen har fremsat. Ud over at man
+får en udredningsgaranti på 1 måned, gælder det jo også, at ansvaret
+er samlet ét sted. Man har som borger den viden, at der er én indgang, og der er ét sted, ansvaret er samlet. Det er ikke mig, der skal
+samle alle trådene. Så den tankegang genkender jeg som helt fornuftig, og den er sådan set afspejlet i den udredningsgaranti, den diagnosegaranti, som den vel populært er kendt som, som regeringen har
+givet til danske patienter, der har behov for udredning på sygehuse.
+Så er det klart, at jeg er fuldstændig enig med spørgeren i, at de
+praktiserende læger er en helt central del af vores sundhedsvæsen,
+og de er jo så også en del af regionernes sundhedstilbud til borgerne.
+Det er klart, at de spiller en rolle i den trekant, der skal fungere; de
+er et ben i den trekant, der skal fungere omkring borgerne, altså sygehuse, den kommunale sundhedsindsats og de praktiserende læger.";Kl. 15:08
+146947;Time;;Kl. 15:10
+146991;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+147013;Time;;Kl. 15:10
+147045;name_party;":
+Tak for svarene på mange spørgsmål. Når det gælder udredningsgarantien, må ministeren gerne lige opklare for mig, hvem det så er,
+der helt præcist har ansvaret i hele det forløb.
+I forbindelse med sundhedsaftalerne og de praktiserende læger
+vil jeg sige, at de praktiserende læger jo netop er en stor del af det.
+De hører under regionerne, men de er jo selvstændige, og i og med
+at de er det, indgår de ikke som en del af de sundhedsaftaler, der bliver lavet. Og eftersom de er så væsentlige aktører, vil jeg gerne gentage spørgsmålet om, om ikke man, når man nu skal revidere sundhedsaftalen og lave nye sundhedsaftaler, skal gå ind og få de praktiserende læger med som en del af aftalen, sådan at det bliver konkretiseret i aftalerne, hvad det er for nogle opgaver, de har.
+
+Onsdag den 5. december 2012 (S 581)
+
+Altså, umiddelbart ville jeg jo tænke, at de har en væsentlig koordinerende funktion i forhold til den enkelte borger, fordi det er dem,
+der ser borgeren og er den gennemgående person, uanset om borgeren er på plejehjem eller indlagt på et sygehus. Så jeg ville tænke, at
+deres rolle i det her burde være klarere beskrevet og dermed også
+være beskrevet i sundhedsaftalerne.";Jens Henrik Thulesen Dahl
+148245;Time;;Kl. 15:12
+148289;title_name;":
+Ministeren.";Lars Christian Lilleholt
+148312;Time;"Ministeren for sundhed og forebyggelse (Astrid Krag):
+For at tage det sidste først tror jeg altså ikke, der er nogen tvivl om,
+at sundhedsaftalerne kan og skal udvikle sig som redskab og ikke
+alene blive klarere, men også mere forpligtende.
+Jeg er ikke helt sikker på – nu spørger jeg lige tilbage igen, vi har
+jo en runde mere – om spørgeren appellerer til, at de praktiserende
+læger ligesom skal være aftalepart eller hvad. For man må sige, at
+når kommuner og regioner laver sundhedsaftalerne, så handler det
+om samarbejdet i det hele taget, og her spiller de praktiserende læger
+jo en vigtig rolle. De er indgangen til sundhedsvæsenet, de er dem,
+der oftest ser patienterne, og det er vigtigt, at samarbejdet fungerer.
+Det gælder ikke alene det patientrettede arbejde, men jo i virkeligheden også meget det forebyggende arbejde med tidlig opsporing osv.
+Der har de praktiserende læger en nøglerolle.
+Så vil jeg bare lige hurtigt svare på, hvem der har ansvaret i forhold til udredningsretten. Når egen læge ligesom giver fortabt og ikke kan udrede en patient og henviser til et diagnostisk center, et sygehus, eller hvor der nu skal henvises til, så er det jo de enkelte regioner, der bestemmer, om de vil organisere sig sådan, at der er
+diagnostiske centre, eller hvad der nu er. Det skal i hvert fald bare
+være helt klart, hvor de praktiserende læger henviser til, for så er det
+dér, ansvaret er samlet.";Kl. 15:12
+149732;Time;;Kl. 15:13
+149743;Time;"Ministeren for sundhed og forebyggelse (Astrid Krag):
+Der er ikke nogen tvivl om, at det er helt afgørende at sikre en bedre
+sammenhæng og sikre, at alle parter er forpligtede på at have patienten i centrum og arbejde på tværs og ikke lade sig låse sig fast hverken i sektorer eller roller. Så spørgsmålet er jo, hvilke roller de forskellige så skal spille. Vi gennemgår jo en udvikling i vores sundhedsvæsen nu, hvor vi ser en høj grad af specialisering – vi bygger
+nye supersygehuse – men det skal så også modsvares af, at der skal
+tages stilling til, hvilke behandlinger der skal foregå nært, og hvor
+det skal løftes. Men i virkeligheden tror jeg også, der er en bevægelse hen imod at finde ud af, hvor meget af det højt specialiserede vi
+faktisk kan udføre gennem telemedicin hjemme hos borgeren. Så jeg
+tror, vores sundhedsvæsen står over for en meget, meget stor omstilling.
+Jeg kommer faktisk lige fra en sundhedscamp arrangeret af Danske Regioner og KL, hvor alle de direktører, vi taler om nu, og flere
+til, Lægeforeningen, sygeplejerskerne, alle faggrupper inden for
+sundhedsvæsenet, lokal-, kommunal- og regionspolitikere og borgmestre – ja, jeg var lige ved at sige toppen af poppen i det danske
+sundhedsvæsen – sidder og har 24 timer sammen med det ene mål
+for øje ud fra forskellige patientcases at finde ud af, hvordan vi kan
+få det her samarbejde rundt om patienten til at fungere, og det skal
+fungere. Det giver jo et fingerpeg om, at det er noget, alle i sundhedsvæsenet er optaget af. Noget vil måske kræve nogle greb fra
+min side – det vil vi se, når regeringen lægger en ny sundhedspolitik
+frem til foråret – men noget kan også allerede finde sted nu.
+Det er jo også det, den camp er udtryk for, nemlig at de parter
+sætter sig ned og ser på, hvordan de kan arbejde sammen på tværs og
+med patienten i centrum, om det så er den ældre komplekse patient
+eller den ældre med en enkelt sygdom, om det er den psykiatriske
+patient med en svær sindslidelse, eller det er en psykiatrisk patient
+med en lettere lidelse osv. Det er jo noget, der er i fokus alle steder,
+og noget af det, vi skal diskutere rigtig meget i den kommende tid.";Kl. 15:14
+151901;Time;;Kl. 15:16
+151945;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+151967;Time;;Kl. 15:13
+151999;name_party;":
+Det kan jo blive spændende, hvordan det kommer til at fungere med
+sådan et center, der så har et ansvar for den enkelte patient, men det
+håber jeg da at der kommer styr på.
+Jeg vil gerne lige svare på spørgsmålet om, hvorvidt jeg mener,
+at praktiserende læger skal være aftaleparter. Det tror jeg faktisk er
+nødvendigt i et eller andet omfang – om det så skal ske på den ene
+eller den anden måde, må man selvfølgelig forholde sig til derude.
+Men jeg tænker f.eks. på, at når kommuner og regioner forhandler
+eller samarbejder om patienter, der skal hjem til en eller en form for
+behandling, vil der meget ofte være tale om behandlinger, der i et eller andet omfang kræver den praktiserende læges deltagelse. Der har
+jeg i hvert fald hørt adskillige eksempler, hvor sygehuse gerne vil
+sende borgere hjem, og kommunen i og for sig godt vil tage imod
+dem, men den praktiserende læge ønsker ikke at tage ansvaret for
+den behandling, der skal foregå, og så kan de ikke sendes hjem.
+Derfor vil jeg egentlig gerne sige: Ja, jeg mener sådan set, at de
+praktiserende læger er nødt til at komme ind og være aftalepart i et
+vist omfang, i forhold til hvordan man får de her ting til at fungere,
+så de også forpligtes på at få aftalerne til at fungere, fordi ellers
+kommer det jo aldrig rigtig i gang.";Jens Henrik Thulesen Dahl
+153299;Time;;Kl. 15:14
+153343;title_name;":
+Ministeren.
+
+25";Lars Christian Lilleholt
+153404;title_name;":
+Spørgsmålet er afsluttet. Tak til minister og spørger.
+Næste spørger er fru Pernille Skipper til forsvarsministeren.";Lars Christian Lilleholt
+153532;Time;"Spm. nr. S 581
+11) Til forsvarsministeren af:";Kl. 15:16
+153601;name_party;":
+Hvad mener ministeren om de fremkomne oplysninger om, at en
+dansk efterretningstjeneste har bidraget til, at der kunne placeres et
+sporingsredskab på en uvidende person, da denne skulle mødes med
+en kendt terrorleder, med henblik på at et andet lands myndigheder
+kunne slå den pågældende terrorleder ihjel ved brug af de såkaldte
+dronefly?";Pernille Skipper
+153985;title_name;":
+Værsgo til spørgeren.";Lars Christian Lilleholt
+154018;Time;;Kl. 15:16
+154041;name_party;":
+Mit første spørgsmål til forsvarsministeren lyder: Hvad mener ministeren om de fremkomne oplysninger om, at en dansk efterretningstjeneste har bidraget til, at der kunne placeres et sporingsredskab på
+en uvidende person, da denne skulle mødes med en kendt terrorleder, med henblik på at et andet lands myndigheder kunne slå den pågældende terrorleder ihjel ved brug af de såkaldte dronefly?
+
+26
+
+Onsdag den 5. december 2012 (S 581)";Pernille Skipper
+154486;Time;;Kl. 15:17
+154530;title_name;":
+Ministeren.";Lars Christian Lilleholt
+154553;Time;;Kl. 15:17
+154589;title_name;":
+Her er vi i den lidt kedelige situation, at spørgsmålet er interessant
+og kræver en debat, men at rammerne for § 20-spørgsmål jo ikke giver mig mulighed for at give nærmere oplysninger om efterretningstjenesternes mere konkrete virksomhed.
+Det er sådan, at Folketinget jo har vedtaget en lov, som hedder
+lov om etablering af et udvalg om forsvarets og politiets efterretningstjenester – det, vi også kalder Kontroludvalget – og der har
+man her i Tinget med et bredt flertal besluttet, at det skal være det
+særlige udvalg, der har indseende med efterretningstjenesterne. På
+den måde har man prøvet at afveje på den ene side det legitime ønske, der er om åbenhed om og indseende med, hvad det er, vores efterretningstjenester, Politiets Efterretningstjeneste og Forsvarets Efterretningstjeneste, laver, og på den anden side det indlysende, tror
+jeg, hensyn til den nødvendige fortrolighed omkring tjenesternes arbejde: Hvad er det for nogle metoder, man benytter sig af? Hvad er
+det for nogle kilder, man har? Hvordan sikrer vi, at det personel,
+som vi har, ikke udsættes for unødig fare? – og så videre.
+Så oplysninger om efterretningstjenesternes virksomhed giver regeringen, hvis det måtte være aktuelt, til Udvalget vedrørende Efterretningstjenesterne, som bl.a. orienteres af regeringen om omstændigheder af sikkerhedsmæssig karakter eller vedrørende udenrigspolitiske spørgsmål, som er af betydning for efterretningstjenesternes
+virksomhed.";Nick Hækkerup
+156045;Time;;Kl. 15:18
+156089;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+156111;Time;;Kl. 15:18
+156134;name_party;":
+Det var jo ikke et overraskende svar. Jeg kunne godt tænke mig at
+spørge ministeren: Kan ministeren så ikke bekræfte, at den situation,
+vi tegner, hvor en dansk efterretningstjeneste – vi har to, og ministeren er chef for den ene – på den ene eller anden måde assisterer en
+udenlandsk efterretningstjeneste med oplysninger og bistand med
+det formål at slå en civil person ihjel i udlandet, vil være i strid med
+ikke bare dansk ret, men også med den forståelse af folkeretten, som
+vi som dansk stat har, og at det dermed også vil være ulovligt, hvis
+f.eks. den efterretningstjeneste, som ministeren er chef for, på den
+ene eller den anden måde yder bistand til, at en person kunne blive
+påsat et sporingsredskab for netop at finde en person i udlandet?
+Det er reglerne bredt, jeg spørger ministeren om som chef for en
+af vores to efterretningstjenester.";Pernille Skipper
+156998;Time;;Kl. 15:19
+157042;title_name;":
+Ministeren.";Lars Christian Lilleholt
+157065;Time;;Kl. 15:19
+157101;title_name;":
+Jeg tror, at sådan som spørgsmålet blev formuleret, vil det være
+svært at finde nogen, der rigtig er enig i, at det er et spørgsmål om
+reglerne bredt. Jeg synes, at det er formuleret derhen, hvor det meget
+lyder som et spørgsmål, der går på en konkret sag, som jo i hvert
+fald har påkaldt sig en vis interesse fra mediernes side. Og jeg ved,
+at min udmærkede kollega, justitsministeren, også i det omfang, det
+kan lade sig gøre, har været i dialog om præcis den sag.
+
+Vi er her lidt tilbage i det der med, at når et spørgsmål formuleres
+positivt, som det første spørgsmål blev, og når jeg siger, at jeg ikke
+kan svare, fordi reglerne er, som de er, og ikke fordi jeg ikke synes,
+at det er en interessant og vigtig debat for vores demokrati, og når
+spørgeren så dygtigt bagefter formulerer spørgsmålet negativt, er
+problemet, at hvis jeg be- eller afkræfter oplysningerne, begynder
+jeg at måtte skære sider af den firkant, som er det fortrolige rum,
+som efterretningstjenesterne skal arbejde i. Det er af de hensyn, jeg
+nævnte før, nemlig åbenheden på den ene side og hensynet til tjenesternes funktion, som på den anden side er afvejet af Folketinget og
+lagt i et andet udvalg og ikke i regi af § 20-spørgsmål.";Nick Hækkerup
+158323;Time;;Kl. 15:21
+158367;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+158389;Time;;Kl. 15:21
+158412;name_party;":
+Dialog er jo en positiv måde at se det, der tidligere har eksisteret
+mellem mig selv og justitsministeren, på, må man sige.
+Jeg vil faktisk spørge, om forsvarsministeren ikke vil være så
+venlig at forklare – ikke om en konkret sag – ikke bare mig, men den
+måbende befolkning, hvilke regler f.eks. den efterretningstjeneste,
+som forsvarsministeren er chef for, arbejder under. Jeg beder ikke
+om at høre om konkrete sager, men der er vel – selv om der eksisterer konkrete sager, hvor reglerne er blevet anvendt – dog stadig mulighed for, at vi kan få reglerne forklaret.
+Så nu beder jeg om at få den danske stats fortolkning af folkeretten, for det forstår jeg er ministerens ressortområde: Er det sådan, at
+vi forstår folkeretten og dansk ret sådan, at efterretningstjenester ikke ude i verden må fungere, så de yder bistand på den ene eller den
+anden måde til, at mennesker, der er civile og ikke deltager i krig,
+bliver slået ihjel uden rettergang? Kan ministeren bekræfte, at det er
+den danske stats opfattelse af folkeretten? Det er det, jeg beder om at
+høre.";Pernille Skipper
+159486;Time;;Kl. 15:22
+159530;title_name;":
+Ministeren.";Lars Christian Lilleholt
+159553;Time;;Kl. 15:22
+159589;title_name;":
+I virkeligheden ligger der to spørgsmål i spørgsmålet, og jeg vil prøve at svare på dem så præcist, som jeg overhovedet kan og må.
+Den første del af spørgsmålet er, om der ikke er nogen grænser
+for efterretningstjenesternes virksomhed. Selvfølgelig er der det. Vi
+har jo også en lov om Forsvarets Efterretningstjeneste og om Politiets Efterretningstjeneste, og vi står i øvrigt lige for at skulle have en
+omfattende debat om, hvordan det her retssystem skal indrettes
+fremadrettet, fordi Wendler Pedersen-udvalget jo tidligere på året
+barslede med en rapport, som gav anledning til at fremsætte nye lovforslag om Forsvarets Efterretningstjeneste og Politiets Efterretningstjeneste. Det er svaret, for så vidt angår det punkt. Så der får vi
+heldigvis lejlighed til at diskutere det på det generelle plan i en åben
+debat her i salen for alle, der interesserer sig for det her i øvrigt meget vigtige spørgsmål om, hvad det er, staten har monopol og magtmonopol på og kan eksekvere, uden at det skal ske i åbenhed, og
+hvordan man alligevel kan sikre den legitime, demokratiske kontrol,
+og vi får lejlighed til at svare på det.
+Den anden del af spørgsmålet, nemlig det med folkeretten, svarer
+jeg på, næste gang jeg får lejlighed til at rejse mig op om et øjeblik,
+for min taletid er udløbet nu.
+
+Onsdag den 5. december 2012 (S 584)";Nick Hækkerup
+160930;Time;;Kl. 15:23
+160974;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+160996;Time;;Kl. 15:23
+161019;name_party;":
+Nå, jamen det er jo dejligt. Så kan jeg supplere med et spørgsmål.
+Jeg vil gerne igen spørge, om ministeren vil fortælle os om den danske stats forståelse af folkeretten, sådan som jeg gjorde i mit forrige
+spørgsmål. Og så kunne jeg godt tænke mig også at spørge, om ministeren lige til sidst kan supplere med at fortælle om en arbejdsdeling mellem Forsvarets Efterretningstjeneste og Politiets Efterretningstjeneste, altså mellem deres arbejdsopgaver, og konkludere
+over for os alle sammen, at hvis man skal undersøge, spore eller på
+anden måde have noget med en person at gøre i udlandet, som man
+opfatter som deltagende i en militær konflikt, så er det Forsvarets Efterretningstjeneste, der har opgaven, altså at det hører under ministerens ressort.
+
+27
+
+Kan ministeren slå fast, at Forsvarets Efterretningstjeneste ikke gennem oplysninger, kontakter eller anden bistand har assisteret CIA i
+lokaliseringen af Al-Qaeda-lederen al-Awlaki, og kan ministeren
+fastslå, at Forsvarets Efterretningstjeneste i forbindelse med eventuelt efterretningsarbejde vedrørende førnævnte ikke har overtrådt
+dansk ret eller folkeretten?";Pernille Skipper
+162185;title_name;":
+Værsgo til spørgeren.";Lars Christian Lilleholt
+162218;Time;;Kl. 15:26
+162241;name_party;":
+Spørgsmålet lyder: Kan ministeren slå fast, at Forsvarets Efterretningstjeneste ikke gennem oplysninger, kontakter eller anden bistand
+har assisteret CIA i lokaliseringen af Al-Qaeda-lederen al-Awlaki,
+og kan ministeren fastslå, at Forsvarets Efterretningstjeneste i forbindelse med eventuelt efterretningsarbejde vedrørende førnævnte
+ikke har overtrådt dansk ret eller folkeretten?";Pernille Skipper
+162635;Time;;Kl. 15:26
+162646;Time;;Kl. 15:24
+162690;title_name;":
+Ministeren.";Lars Christian Lilleholt
+162747;title_name;":
+Ministeren.";Lars Christian Lilleholt
+162771;Time;;Kl. 15:26
+162781;Time;;Kl. 15:24
+162817;title_name;":
+Spørgeren giver mig ikke mange chancer ved først at lade så stort et
+spørgsmål hænge i luften og så stille et nyt spørgsmål, som er næsten lige så stort, men jeg prøver ikke desto mindre at yde spørgsmålene retfærdighed, også i den rækkefølge, som de er stillet.
+Det første er det her med, hvordan vi egentlig gør med folkeretten. Altså, det er jo sådan, at hvis vi er i en situation, som har karakter af en væbnet konflikt, så er det legitimt – i modsætning til hvad
+der gælder i øvrigt – at slå folk ihjel, også uden at der er mulighed
+for overgivelse, inden man gør det, og også uden at det er blevet prøvet af en dommer. Det er jo, om jeg så må sige, krigens natur. Her
+må man gerne begå det, som der ellers tages så kraftigt afstand fra i
+samfundet i øvrigt. Der er så selvfølgelig nogle grænser for det her,
+bl.a. med hensyn til hvor man må gøre det. Man må gøre det, hvis
+FN har sanktioneret det, man må gøre det, hvis værtslandet har inviteret en til at komme og tage del i en væbnet konflikt, eller man må
+gøre det, hvis det sker i selvforsvar. Alt det her bliver jo fortolket,
+navnlig det med, hvornår det er selvforsvar eller ej. Der er jo bl.a.
+nogle fortolkningsspørgsmål vedrørende amerikanernes brug af brug
+af droner osv., som falder ind under det her område. Så der er et element der.
+Det andet element er så det her spørgsmål om, hvornår vi er i en
+væbnet konflikt. Har det den intensitet, som skal til? Er der en vis
+militær organisering bag? Hvis man er i den situation, at det er en
+væbnet konflikt som f.eks. den, vi er involveret i i Afghanistan, vil
+det være lovligt at foretage drab, som det kaldes i anden sammenhæng. Og det er oven i købet sådan, at civile tab i den sammenhæng
+accepteres, hvis de ikke overstiger det militære formål, som man er i
+den væbnede konflikt for. Men det her er besværligt, for grænsedragningerne er svære.";Nick Hækkerup
+164689;Time;;Kl. 15:26
+164733;title_name;":
+Spørgsmålet er afsluttet.
+Næste spørgsmål er af samme spørger og til samme minister.";Lars Christian Lilleholt
+164829;Time;;Kl. 15:26
+164865;title_name;":
+Nu sagde Tingets formand ganske rigtigt, at det er samme spørger,
+og at spørgsmålet bliver stillet til den samme minister. Jeg tror ikke,
+man gør vold på vores demokrati, hvis man her også siger, at spørgsmålet praktisk talt er det samme, som det første spørgsmål fra spørgeren, og det giver bare lejlighed til at komme lidt dybere ind i det
+substantielle i den snak, som vi havde lige før.
+Men det indledende svar, som jeg bliver nødt til at give, når nu
+spørgsmålet er stillet, som det er, er, at det har jeg ikke mulighed for
+at svare på her. Det hører under kontroludvalget. Kontroludvalget
+har et bredt flertal i Folketinget nedsat for at veje to hensyn af mod
+hinanden. Det ene hensyn er til åbenhed og indseende med vores efterretningstjenester; det andet hensyn er til, at efterretningstjenesterne skal kunne fungere, sådan at de kan beskytte vores samfund mod
+de trusler, der er mod det, herunder de trusler, der er mod demokratiet.";Nick Hækkerup
+165818;Time;;Kl. 15:27
+165862;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+165884;Time;;Kl. 15:27
+165907;name_party;":
+Ja, det er jo bekymrende, at man ikke engang kan slå fast over for
+befolkningen, at efterretningstjenesterne har overholdt de regler, der
+nu engang ligger for dem, på trods af at det er få regler for deres arbejde, der er udstukket.
+Jeg har fuld respekt for, at ministeren har den overbevisning, at
+reglerne skal overholdes, som de er i dag, men jeg kunne så godt
+tænke mig at spørge ministeren – nu når vi ikke har noget kontrolorgan, nu når vi ikke har nogen myndighed, som kan fortælle den måbende befolkning, hvad det er, der foregår, eller forsikre den om, at
+vores efterretningstjeneste har overholdt reglerne, at fejlene, de gange, der er blevet begået fejl, er blevet rettet, og at de ansvarlige er
+blevet holdt ansvarlige for det – om ministeren så ikke kunne bekræfte, at ministeren har spurgt sin efterretningstjeneste og har undersøgt sagen.";Pernille Skipper
+166772;Time;"Spm. nr. S 584
+12) Til forsvarsministeren af:";Kl. 15:28
+166841;name_party;:;Pernille Skipper
+166886;title_name;":
+Ministeren.
+
+28
+
+Onsdag den 5. december 2012 (FM )";Lars Christian Lilleholt
+166950;Time;;Kl. 15:31
+166961;Time;;Kl. 15:28
+166997;title_name;":
+Først vil jeg gerne kvittere for, at spørgeren respekterer, at det, når
+jeg ikke svarer på spørgsmålene, så ikke er, fordi jeg ikke synes, det
+er interessant og vigtigt at have den her debat i det åbne rum, men
+simpelt hen er, fordi det er sådan, reglerne er for, hvad der kan siges
+her. Jeg er sådan set enig med spørgeren i, at det interessante dilemma her er, hvordan vi på den ene side sikrer, at vi alle sammen, alle
+danskere, kan have indseende i, hvad vores tjenester – Politiets Efterretningstjeneste og Forsvarets Efterretningstjeneste – går og laver,
+og på den anden side sikrer, at tjenesterne får et rum at arbejde i, sådan at de ikke selv afslører deres metoder, afslører deres kilder osv.,
+hvorved de ville gøre deres arbejde nytteløst. Det er så det, man har
+afvejet, og man har fundet ud af, at det bedst kan imødekommes, ved
+at det er Kontroludvalget, der har indseende med det, og det er det,
+som vi må tage til takke med.
+Jeg ser frem til, at vi senere i denne folketingssæson, vil kunne få
+en debat om, hvad mulighederne er for, at vi kan gøre det her system
+endnu bedre.";Nick Hækkerup
+168100;Time;;Kl. 15:29
+168144;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+168166;Time;;Kl. 15:30
+168189;name_party;":
+Det lyder jo dejligt. Jeg kan jo næsten forstå på ministeren, at han
+ser frem til, at vi skal have en bedre kontrol også med Forsvarets Efterretningstjeneste, og at der for fremtiden – hvis der opstår sager i
+medierne, uanset om der er tale om misforståelser eller ej, som er bekymrende for demokratiet, og som kunne tyde på, at en myndighed
+har overtrådt sine beføjelser – vil være et organ, der kan gå ind og
+kontrollere det og mane til ro og besindighed, fordi der er styr på tingene. Det synes jeg lyder rigtig godt, hvis det er det, der er ministerens holdning, og det glæder jeg mig sådan set også til at vi så skal
+diskutere noget mere.
+Der er noget, jeg godt kunne tænke mig at spørge ministeren om
+som chef for efterretningstjenesten. Hvad ville ministeren gøre, hvis
+der opstod en mistanke om, at ministerens efterretningstjeneste havde begået regelbrud, når det med de regler, der gælder i dag, jo er
+sådan, at der ikke er et uafhængigt kontrolorgan?";Pernille Skipper
+169196;title_name;":
+Spørgeren.";Lars Christian Lilleholt
+169218;Time;;Kl. 15:31
+169241;name_party;":
+Det sidste havde jeg en lille smule svært ved at høre. Det var lidt ærgerligt, for det lød, som om det var relevant. Det kan være, at jeg kan
+bede ministeren om at gentage den sidste sætning. Og så vil jeg bare
+spørge endnu en gang, om ministeren kunne være så venlig at bekræfte, at Forsvarets Efterretningstjeneste ikke har bidraget til at
+spore en civil person, heller ikke ved at hjælpe Politiets Efterretningstjeneste, med henblik på at slå personen ihjel.";Pernille Skipper
+169714;Time;;Kl. 15:32
+169758;title_name;":
+Ministeren.";Lars Christian Lilleholt
+169781;Time;;Kl. 15:32
+169817;title_name;":
+Det er næsten for smerteligt, navnlig når spørgsmålet bliver stillet så
+venligt, som det bliver stillet her i sidste omgang, at blive ved med
+som minister at måtte henholde sig til de rammer, der er for den debat, som vi kan have om det her. Jeg kan forsikre spørgeren om, at
+Forsvarets Efterretningstjeneste gør sit yderste for at sikre, at vi
+overholder de regler, der gælder. Selvfølgelig gør den det. Jeg kan
+også forsikre om, at jeg ikke i min ministertid har konstateret overtrædelser af den karakter, som der har været omtalt.";Nick Hækkerup
+170362;Time;;Kl. 15:33
+170406;title_name;":
+Tak til minister og spørger.
+Spørgetiden er afsluttet.";Lars Christian Lilleholt
+170473;Time;Meddelelser fra formanden;Kl. 15:33
+170511;Time;;Kl. 15:31
+170555;title_name;":
+Der er ikke mere at foretage i dette møde.";Lars Christian Lilleholt
+170610;Time;"Folketingets næste møde afholdes i morgen, torsdag den 6. december 2012, kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 15:33).";Kl. 15:31
+170840;title_name;":
+Ministeren.";Lars Christian Lilleholt
+170888;title_name;":
+Jamen på præcis det punkt, altså min beføjelse i forhold til efterretningstjenesten, er der sådan set ikke noget, der adskiller sig fra det,
+der gælder alle mulige andre steder i den offentlige sektor. Jeg er af
+den helt grundlæggende overbevisning, at alle de steder, hvor man
+har med mennesker at gøre, alle de steder, hvor den offentlige sektor
+arbejder – på hospitalerne, i børnepasningen, i folkeskolen, eller
+hvor det måtte være – vil der blive begået fejl. Den bedste måde, vi
+kan udvikle vores offentlige sektor og vores fælles velfærd på, er
+faktisk, at vi snakker om den, at vi evaluerer på det, vi laver, og at vi
+laver det så godt som muligt for at blive bedre. Det gør sig også gældende med hensyn til efterretningstjenesterne. Vi arbejder hele tiden
+med at udvikle den måde, som efterretningstjenesterne arbejder på.
+Jeg vil i mit svar her bare sige til dem, der måtte sidde og lytte til
+det, og til spørgeren, at der i det, jeg siger, ikke ligger, at jeg har
+konstateret nogen fejl af den karakter, som spørgeren skitserede i
+spørgsmålet.";Nick Hækkerup

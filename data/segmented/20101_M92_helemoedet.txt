@@ -1,0 +1,1517 @@
+split;reason;text;value
+0;;"Onsdag den 11. maj 2011 (D)
+
+92. møde";
+71;Time;"Dagsorden
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til undervisningsministeren af:";kl. 13.00
+274;name_party;":
+Hvad vil ministeren gøre, for at færre gymnasieelever er nødt til at
+tage et gymnasialt suppleringskursus for at kunne komme ind på en
+videregående uddannelse, når nyeste tal viser, at antallet er vokset
+fra 4.125 kursister i 2007 til 10.842 kursister i 2010, svarende til, at
+26 pct. af årgang 2009 har suppleret eksamen?
+(Spm. nr. S 1686).
+2) Til undervisningsministeren af:";Christine Antorini
+675;name_party;":
+Hvad vil ministeren gøre, for at det bliver lettere for studerende med
+en professionsbachelor som f.eks. sygeplejerske eller lærer at fortsætte med en master- eller kandidatuddannelse på universitetet uden
+at skulle tage 1-2 semestre ekstra, oven i købet med brugerbetaling,
+fordi universiteterne stiller det som krav?
+(Spm. nr. S 1687).
+3) Til indenrigs- og sundhedsministeren af:";Christine Antorini
+1071;name_party;":
+Kan ministeren bekræfte, at tidligere statsminister Anders Fogh Rasmussen i valgkampen 2007 var ude med tilsagn om, at ingen borger
+skulle tåle længere ventetid end 15 minutter som responstid for akuthjælp fra ambulanceberedskab/præhospitalt beredskab?
+(Spm. nr. S 1664).
+4) Til indenrigs- og sundhedsministeren af:";Orla Hav
+1401;name_party;":
+Har regeringen stillet de nødvendige ressourcer til rådighed for regionerne, således at disse har kunnet indfri det løfte, den tidligere
+statsminister udstedte, og har regeringen sikret sig en aftale med regionerne om dette beredskab?
+(Spm. nr. S 1665).
+5) Til indenrigs- og sundhedsministeren af:";Orla Hav
+1730;name_party;":
+Mener ministeren, at de positive forskningsresultater fra Svendborg,
+hvor folkeskoleelever med 6 timers idræt om ugen halverer risikoen
+
+1
+
+for diabetes 2 og risikoen for ryglidelser nedsættes markant, giver
+anledning til at lovgive om 1 times daglig idræt i folkeskolen, jf.
+»Ny forskning: Seks timers idræt om ugen giver stærkere børn«, Ernæring og Sundhed, den 5. maj 2011 og Skolebørnsundersøgelsen
+2010, side 20?
+(Spm. nr. S 1688).
+6) Til indenrigs- og sundhedsministeren af:";Flemming Møller Mortensen
+2242;name_party;":
+Mener ministeren, at forskningsprojektet fra Svendborg, der især har
+fået fat i de svage elever, som ikke tidligere dyrkede idræt, giver anledning til at videreføre forskningsprojektet på nationalt plan i offentligt regi, når antallet af 15-årige drenge, som dyrker 0 timers
+hård fysisk aktivitet om ugen, er fordoblet fra 2006 til 2010, jf. Skolebørnsundersøgelsen 2010, side 46?
+(Spm. nr. S 1689).
+7) Til indenrigs- og sundhedsministeren af:";Flemming Møller Mortensen
+2715;name_party;":
+Mener ministeren, at det er vigtigere, at der er et privat alternativ til
+det offentlige sundhedsvæsen, end at patienterne får den bedste behandling, jf. Ritzautelegram fra den 6. maj 2011, »Frit spil når forsikringen betaler«?
+(Spm. nr. S 1692, skr. begr.).
+8) Til beskæftigelsesministeren af:";Sophie Hæstorp Andersen
+3030;name_party;":
+Hvilket signal mener ministeren, at det sender til befolkningen, når
+det for anden gang på kort tid har vist sig, at et medlem af regeringen vælger at benytte ikkeregistreret udenlandsk arbejdskraft til ombygning af sin private bolig, oven i købet i en situation, hvor der er
+stor arbejdsløshed blandt danske bygningshåndværkere?
+(Spm. nr. S 1690).";Karsten Hønge
+3391;Time;"Meddelelser fra formanden
+Formanden :
+Mødet er åbnet.
+Udvalget for Forretningsordenen har afgivet:
+Betænkning og indstilling vedrørende ændring af forretningsorden
+for Folketinget.
+(Beslutningsforslag nr. B 135).
+Beslutningsforslaget vil fremgå af www.folketingstidende.dk.
+
+2
+
+Onsdag den 11. maj 2011 (US 142)
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål til ministrene til umiddelbar besvarelse (spørgetime).";Kl. 13:00
+3819;Time;;Kl. 13:00
+3830;Time;"Formanden :
+Ministeren.";Kl. 13:03
+3865;Time;"Formanden :
+Til at besvare spørgsmål i spørgetimen i dag har statsministeren udpeget ministeren for flygtninge, indvandrere og integration og socialministeren.
+Til ministeren for flygtninge, indvandrere og integration er anmeldt følgende spørgere:
+Hanne Agersnap (SF)
+Jørgen Poulsen (RV)
+Til socialministeren er anmeldt følgende spørgere:
+Ingen.
+Så hvis ikke andre melder sig nu, vil jeg konstatere, at socialministeren ikke har spørgsmål at besvare her i dag og må bruge tiden til
+andre nyttige gøremål.
+Men til ministeren for flygtninge, indvandrere og integration er
+det så fru Hanne Agersnap, der får lov at komme med det første
+spørgsmål.
+
+Integrationsministeren (Søren Pind):
+Det er klart, at forhold, som er omfattet af Danmarks internationale
+forpligtelser og grundloven, kan man jo ikke lovgive imod. Det har
+jeg heller ikke nogen intention om, og den lovgivning, som jeg igen
+siger oppositionen måtte ønske i den sammenhæng, skal jo tage forbehold for det. Det, jeg følte mig foranlediget til at kommentere i
+går, var det efter min bedste opfattelse hykleriske ønske om åbenhed, som i virkeligheden kun gjaldt ønsket om at sikre, at den danske
+befolkning netop ikke fik et indblik i, hvem der blev tildelt dansk
+statsborgerskab, fordi man i højere grad ønskede automatik i den
+proces.";Kl. 13:03
+5171;Time;"Formanden :
+Fru Hanne Agersnap.";Kl. 13:03
+5215;Time;;Kl. 13:01
+5226;Time;;Kl. 13:03
+5247;name_party;":
+I mit første spørgsmål vil jeg gerne følge op på vores behandling af
+B 96 i går, hvor ministeren nævnte, at han gik ind for fuld åbenhed i
+alle sager inklusive alt baggrundsmaterialet og alle bilag. Der er personlige oplysninger i de bilag, som jeg ikke mener tåler fuld åbenhed, men jeg vil høre, om ministeren fastholder, at han ønsker fuld
+åbenhed i alle sager, og om det vil harmonere med persondataloven,
+forvaltningsloven og EU's databeskyttelsesdirektiv.";Hanne Agersnap
+5731;name_party;":
+Ønsket om åbenhed gælder i den grad det forhold, at den danske befolkning og ansøgerne får indblik i, hvad baggrunden er for de beslutninger, der tages. Hvis f.eks. to personer med samme diagnose
+bliver forelagt udvalget med henblik på dispensation fra sprogkravet
+med henvisning til diagnosen og den ene bliver optaget på lovforslaget og den anden ikke bliver – og de får ikke anden forklaring, end
+at de henholdsvis opfylder eller ikke opfylder betingelserne for tildeling af indfødsret – mener ministeren så, at principperne for ligebehandling og ensartet sagsbehandling er opfyldt, og mener ministeren
+ikke, at det ville være relevant, at der var større åbenhed om, hvilke
+tildelingsprincipper der havde ligget til grund for de to forskellige
+beslutninger?
+
+Spm. nr. US 142";Hanne Agersnap
+6521;Time;"Formanden :
+Ministeren.";Kl. 13:01
+6557;Time;;Kl. 13:04
+6567;Time;"Integrationsministeren (Søren Pind):
+Jeg vil tro, at det er folketingsmedlemmet bekendt, at ved lov kan
+man beslutte, hvad det skal være, på nær hvis det er i strid med
+grundloven. Derfor kan man sagtens forestille sig, at det danske Folketing anført af oppositionen gennemfører lovgivning om fuld åbenhed i bl.a. den form for sager. Det kan man godt gennemføre rent
+lovgivningsmæssigt. Min kommentar til fuld åbenhed faldt, fordi oppositionen hævdede, at den ønskede gennemsigtighed i processen
+omkring statsborgerskabstildeling. Her sagde jeg, at hvis det er synspunktet, må det være den fulde åbenhed, der gælder, ikke den halve.
+Mit grundlæggende synspunkt er – når det nu er det, jeg præcis
+bliver spurgt om – at den nuværende procedure er tilfredsstillende.";Kl. 13:01
+7342;Time;"Formanden :
+Fru Hanne Agersnap.";Kl. 13:02
+7385;Time;;Kl. 13:02
+7406;name_party;":
+Som ministeren formoder, er det mig bekendt, at man godt kan beslutte ting, der ikke nødvendigvis harmonerer med persondataloven,
+hvis de bliver vedtaget ved lov. Men vil ministeren også fastholde, at
+man kan beslutte ting, der ikke harmonerer med EU's databeskyttelsesdirektiv?
+
+Formanden :
+Ministeren.";Hanne Agersnap
+7721;Time;"Integrationsministeren (Søren Pind):
+Jeg tror, fru Hanne Agersnap har misforstået grundlovens bestemmelse i den her sammenhæng. Grundlovens bestemmelse om indfødsrets tildeling taler ikke om ligebehandling. Grundlovens bestemmelse tildeler Folketinget den fulde magt over, hvem man ønsker at
+give dansk statsborgerskab, og hvem man ikke ønsker at give dansk
+statsborgerskab. Der er ikke noget til hinder for, at Folketinget i, om
+jeg så må sige, to ens tilfælde siger, at A gerne må få det, og at B
+ikke må. Der kan f.eks. være en antalsbegrænsning, der gør, at Folketingets flertal siger, at man kun ønsker at tildele 500 statsborgerskaber om året. Så nr. 501 kan ikke få det, skønt vedkommende i øvrigt ellers kunne osv. Det er det, der ligger i grundlovens ramme.
+Om jeg synes om det eller ej, er sådan set ligegyldigt. Det er det, der
+er grundlovens ramme. Den taler ikke om alle de forhold, som fru
+Hanne Agersnap taler om.";Kl. 13:04
+8661;Time;"Formanden :
+Tak til fru Hanne Agersnap.
+Så er det hr. Jørgen Poulsen med spørgsmål til ministeren for
+flygtninge, indvandrere og integration.";Kl. 13:05
+8814;Time;"Spm. nr. US 143
+
+Onsdag den 11. maj 2011 (S 1686)
+
+Jørgen Poulsen (RV):
+Jeg blev også meget forundret over, at ministeren under behandlingen i går af forslaget om at øge retssikkerheden på det her område så
+kategorisk afviste, at man f.eks. kunne lade det fremgår af selve lovteksten, hvad der gælder på området.
+Jeg vil derfor gerne spørge, om ministeren ikke mener, at der ligger et problem i, at reglerne for tildeling af dansk statsborgerskab ikke fremgår af selve loven, men af cirkulærer og politiske aftaler,
+som vedtages, uden at de kommer til behandling her i Folketinget.";Kl. 13:05
+9408;Time;"Formanden :
+Ministeren.";Kl. 13:06
+9443;Time;"Integrationsministeren (Søren Pind):
+Hvis jeg skulle give hr. Jørgen Poulsen en redegørelse for alle de
+forhold, jeg finder problematiske, kunne vi stå her i lang tid. Det
+kunne givet også være ganske underholdende.
+Mit synspunkt er, at jeg synes, at grundloven på det punkt er fornuftig. Jeg vil gerne forsvare grundlovens grundintention, nemlig at
+den danske befolkning skal have mulighed for at have indblik i,
+hvem der får statsborgerskab, at det skal ske i fuld offentlighed, og
+at det er op til folketingsmedlemmernes samvittighed, hvem der skal
+have det, og hvem der ikke skal have det. Der er så en lang række
+ting, som i tidens løb er blevet inkorporeret, bl.a. bemeldte cirkulære.
+Den politiske praksis, som hr. Jørgen Poulsen beskriver, har jeg
+sådan set ingen holdning til, forstået på den måde at mit egentlige
+ærinde er at sikre overholdelse af grundlovens bestemmelse på det
+her punkt. Derfor lider jeg ingen kvababbelser over den procedure,
+der er nu.";Kl. 13:06
+10422;Time;"Formanden :
+Hr. Jørgen Poulsen.";Kl. 13:07
+10465;Time;"Jørgen Poulsen (RV):
+Der bliver jeg nødt til at sige, at der er intet, der ville anfægte grundloven, ved at disse regler blev indskrevet i selve teksten, altså i lovene, i stedet for at ligge gemt i bemærkninger til cirkulærer. Der er jo
+intet, der forhindrer det. Det vil tværtimod gøre det mere overskueligt og mere gennemsigtigt.
+Det, jeg ønsker, er, at det her område får en lige så grundig behandling som andet, og det er da fuldstændig i grundlovens ånd at få
+den grundige behandling, hvor disse bestemmelser kan blive sendt i
+høring og Folketinget vedtage dem. Jeg forstår det bare ikke, og jeg
+vil bare høre, hvordan det konkret skulle angribe grundloven.";Kl. 13:07
+11140;Time;"Formanden :
+Ministeren.";Kl. 13:08
+11175;Time;"Integrationsministeren (Søren Pind):
+Det kan f.eks. angribe det forhold, at det står folketingsmedlemmer
+fuldstændig frit for også i debatten at sige, at A godt kan få statsborgerskab, men B kan ikke. Hvis der bliver opbygget store, komplicerede regelsæt om det at få statsborgerskab, hvorved man nærmest
+automatisk begynder at kunne få det statsborgerskab, og hvor vi
+nærmest får etableret et retskrav på, at man kan få statsborgerskab,
+bliver grundlovens grundintention jo antastet. Det synes jeg ikke er
+hensigtsmæssigt.
+
+3";Kl. 13:08
+11714;Time;"Formanden :
+Hr. Jørgen Poulsen.";Kl. 13:09
+11757;Time;"Jørgen Poulsen (RV):
+Men hvis man vil have åbenhed, kan jeg ikke forstå, at disse ting ikke må fremgå af selve loven. Folk, der følger det her, må da få den
+opfattelse, at vi har noget at skjule, siden man ikke på dette ene område vil underkaste det samme grundighed, som vi jo gør med al anden lovgivning. Folk ender jo i et retstomt rum. Det er jo ikke sådan,
+at vi ønsker det her lagt ud i nye departementer. Vi vil bare meget
+gerne have teksten flyttet op i loven, så folk kan se, hvad der gælder,
+så vi ikke får al den vilkårlighed.";Kl. 13:09
+12306;Time;"Formanden :
+Ministeren.";Kl. 13:10
+12341;Time;"Integrationsministeren (Søren Pind):
+Hr. Jørgen Poulsen kan have ret i, at der er tale om et retstomt rum.
+Det er nemlig fuldstændig op til Folketinget, om man vil give statsborgerskab eller ej. Det er det, der er grundlaget for statsborgerskabstildeling, og det synes jeg ikke at der er nogen grund til at skjule.
+Det er netop det, der vil blive resultatet, hvis hr. Jørgen Poulsens forslag kommer igennem. Så vil man begynde at skjule den realitet. Det
+synes jeg ikke at man behøver i den politiske debat. Så hellere den
+egentlige uenighed om, hvem der skal have, og hvem der ikke skal
+have.";Kl. 13:10
+12946;Time;"Formanden :
+Tak til hr. Jørgen Poulsen og tak til ministeren.
+Der er ikke flere, der ønsker at stille spørgsmål. Dermed er spørgetimen sluttet.
+Jeg skal her udsætte mødet. Mødet genoptages i dag kl. 14.00.
+:
+Mødet er udsat. (Kl. 13:10).
+
+Det sidste punkt på dagsordenen er:
+2) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 13:10
+13297;Time;;Kl. 14:00
+13333;title_name;":
+Mødet er genoptaget.
+Det første spørgsmål er til undervisningsministeren stillet af fru
+Christine Antorini";Søren Espersen
+13451;Time;"Spm. nr. S 1686
+1) Til undervisningsministeren af:";Kl. 14:00
+13526;name_party;":
+Hvad vil ministeren gøre, for at færre gymnasieelever er nødt til at
+tage et gymnasialt suppleringskursus for at kunne komme ind på en
+videregående uddannelse, når nyeste tal viser, at antallet er vokset
+fra 4.125 kursister i 2007 til 10.842 kursister i 2010, svarende til, at
+26 pct. af årgang 2009 har suppleret eksamen?
+
+4
+
+Onsdag den 11. maj 2011 (S 1686)";Christine Antorini
+13924;title_name;":
+Fru Christine Antorini bedes oplæse spørgsmålet.";Søren Espersen
+13984;Time;;Kl. 14:00
+14008;name_party;":
+Hvad vil ministeren gøre, for at færre gymnasieelever er nødt til at
+tage et gymnasialt suppleringskursus for at kunne komme ind på en
+videregående uddannelse, når nyeste tal viser, at antallet er vokset
+fra 4.125 kursister i 2007 til 10.842 kursister i 2010, svarende til, at
+26 pct. af årgang 2009 har suppleret eksamen?";Christine Antorini
+14342;Time;"at søge ind på enkeltuddannelser på universiteterne har været for
+stram. Undervejs i gymnasiereformen, inden den første årgang var
+færdig, ændrede man optagelseskriterierne på universiteterne, så de
+selv kunne beslutte, om man inden for nogle uddannelsesveje skulle
+opfylde et bestemt adgangskrav, f.eks. i fysik eller matematik. Det
+rejste en stor politisk diskussion om, at universiteterne simpelt hen
+havde strammet for meget uden i øvrigt at give ordentlig information
+til gymnasieeleverne, så de blev hægtet lidt af.
+Er der en overvejelse i Undervisningsministeriet i samarbejde
+med Videnskabsministeriet, om der skal kigges en gang til på adgangsbekendtgørelsen til de videregående uddannelser?";Kl. 14:00
+15054;Time;;Kl. 14:03
+15090;title_name;":
+Undervisningsministeren.";Søren Espersen
+15126;Time;;Kl. 14:00
+15173;title_name;":
+Det er helt rigtigt, at antallet af GSK-kursister er vokset fra 2007 til
+2010. På det seneste har vi dog konstateret et fald, idet antallet af
+kursister på forårsholdene – dvs. de hold, der er i gang i øjeblikket –
+er faldet fra 3.462 sidste år til nu 3.220, men jeg medgiver selvfølgelig, at det ikke er et voldsomt stort fald. Men lad mig knytte et par
+bemærkninger til det.
+Suppleringsbehovet hos den enkelte kursist er i det store hele begrænset til et enkelt fag, der skal løfte et niveau, f.eks. fra B-niveau
+til A-niveau. Vi har jo så endnu ikke et fuldt overblik over, hvad
+skyldes, men på baggrund af det tal, der er kommet frem, har jeg så
+besluttet, at vi iværksætter en undersøgelse af, hvad det er helt præcist, der kan være årsagen, og hvad det er, der ligger til grund for tallene.
+Jeg vil nu også sige her i min besvarelse, at der kan være gode
+grunde til, at antallet af kursister stiger, men når det er sagt, er det
+klart, at det bliver vi nødt til at analysere, for der kan jo både være
+gode og dårlige forklaringer, og der kan også være ting, der gør, at vi
+bliver nødt til at gøre noget politisk ved det store antal, der nu har
+udviklet sig over de sidste 3-4 år.";Troels Lund Poulsen
+16369;Time;;Kl. 14:02
+16405;title_name;":
+Fru Christine Antorini.";Søren Espersen
+16466;title_name;":
+Ministeren.";Søren Espersen
+16489;Time;;Kl. 14:04
+16536;title_name;":
+Jeg er sådan set enig i stort set alt, hvad fru Christine Antorini siger.
+Jeg synes jo først og fremmest, at man kan sige, at det kan være glædeligt, at flere tager suppleringskurser, for det kan være udtryk for,
+at der er flere, der tager en ungdomsuddannelse, og det er sådan set
+rigtig, rigtig godt, fordi vi har en fælles ambition om, at 95 pct. af en
+ungdomsårgang skal have en ungdomsuddannelse. Så på mange måder kan det, at der er en stor stigning, være et rigtig godt skridt. Omvendt kan det jo så også være et udtryk for, at der er mange, der i
+tvivl om, hvilken vej de skal gå, og det vil sige, at der kan være udfordringer i forhold til vejledning. Det kan så være den anden del af
+det.
+Denne anden del kan også knyttes videre til et punkt 2a, der jo
+kan handle om, hvorvidt gymnasiereformen så har skabt nogle nye
+problemer i forhold til den gamle ordning, og at det måske betyder,
+at der i en periode kan være problemer i forhold til de suppleringskurser. Men jeg har sådan set tænkt mig at have en meget fordomsfri
+indstilling til, hvad det er, der gør det her, og der vil jeg sådan set
+gerne diskutere alle ting.
+Jeg håber jo, at det kan munde ud i, at det er, fordi flest muligt
+gerne vil dygtiggøre sig og dermed også få en ungdomsuddannelse,
+men jeg synes vi skylder at undersøge det her tal.";Troels Lund Poulsen
+17859;Time;;Kl. 14:05
+17870;Time;;Kl. 14:02
+17894;name_party;":
+Jeg vil godt sige tak til ministeren for det udgangspunkt, at vi skal se
+nærmere på, hvad der er årsagen til det og få det undersøgt, for det er
+jo en voldsom stigning, når det er 26 pct. af en årgang, som er nødt
+til at tage et gymnasialt suppleringskursus for at have det, der skal til
+for at komme ind på den universitetsuddannelse, de ønsker at fortsætte på.
+Jeg er faktisk også meget enig med ministeren i, at man skal kigge på, at der kan være nogle gode grunde til, at man tager et gymnasialt suppleringskursus. De tal, som Ingeniøren har offentliggjort, viser, at 78 pct. af de her kurser er i matematik, fysik eller kemi. Det
+kunne jo f.eks. være, fordi der er nogle, der har valgt en studieretning i gymnasiet, som har været mere samfundsvidenskabelig eller
+sprogligt orienteret, men faktisk har fundet ud af i løbet af gymnasiet, som jo vægter naturfagene højere, at de har lyst og mod til at søge
+ind på en af de naturvidenskabelige, tekniske uddannelser. Og der er
+det jo en rigtig god idé, at de så har muligheden for at tage et suppleringskursus i netop de her fag for at kunne komme ind.
+Jeg vil spørge ministeren, om der er nogle overvejelser i ministeriet om, hvad det er, man kunne kigge nærmere på. Er det simpelt
+hen, fordi gymnasiereformen er så stor en succes, at flere søger over
+og også tager en videregående uddannelse, for at se det positivt? Der
+har jo været en diskussion om, hvorvidt adgangsbekendtgørelsen til";Christine Antorini
+19372;title_name;":
+Fru Christine Antorini.";Søren Espersen
+19407;Time;;Kl. 14:05
+19431;name_party;":
+Jeg er meget glad for det udgangspunkt, som ministeren har for det,
+for man kunne godt falde for den fristelse at sige, at det er for galt, at
+det er alt for mange, og at vi nu skal have skåret antallet ned. Det
+kan jo, som ministeren selv siger, være, at det lige præcis er det, der
+gør, at der er flere, der, når de starter, bliver rustet til, at de rent faktisk også gennemfører uddannelsen, forhåbentlig endda på normeret
+studietid, fordi de så har de forudsætninger, der skal til for at kunne
+gennemføre.
+Dermed skal det også være sagt, at vi hos Socialdemokraterne,
+når vi så kigger lidt nærmere på adgangsbekendtgørelsen, ikke har
+den holdning, at man bare skal fjerne muligheden for, at de enkelte
+uddannelser kan sige, at det faktisk er vigtigt, at nogen har matematik på A-niveau, eller hvad det kan være, men at det også er en reel
+vejledning til de studerende, altså at de skal forvente, at det er det
+niveau i matematik, det er, hvis de vil kunne følge med. Så det er
+godt at kigge på adgangsbekendtgørelsen.
+Men en af de ting, der har givet noget skævvridning, er med hensyn til med de mange unge, og især piger, der vælger biologi i gymnasiet, og som tror, at de med det selvfølgelig også kan opfylde ad-
+
+Onsdag den 11. maj 2011 (S 1687)
+
+gangskravet til at læse biologi på universitetet. Det kan man ikke.
+Der skal man have matematik og f.eks. kemi på højt niveau, men
+biologi tæller i den forbindelse ikke. Er det noget, som ministeren
+overvejer at vi skal kigge på i gymnasiereformforligskredsen?";Christine Antorini
+20960;Time;;Kl. 14:08
+20996;title_name;":
+Ministeren.";Søren Espersen
+21019;Time;;Kl. 14:08
+21030;Time;;Kl. 14:06
+21066;title_name;":
+Ministeren.";Søren Espersen
+21089;Time;;Kl. 14:06
+21136;title_name;":
+Jeg er sådan set åben over for, at vi i gymnasieforligskredsen ser på
+nogle af de barrierer, der uforskyldt kan være kommet. Jeg har jo ikke det fulde overblik over gymnasiereformen – det skylder jeg at sige – men jeg er helt villig til nu at tage en drøftelse af alle de elementer, som fru Christine Antorini har nævnt, for jeg tror, det her
+billede er meget komplekst. Jeg tror ikke kun, der kan være nogle
+udfordringer, som vi politisk bliver nødt til at forholde os til, men
+jeg tror så også, at en meget stor del af det, vi ser her, faktisk er glædeligt. Og derfor er jeg sådan set også glad for den kommentar, fru
+Christine Antorini giver til det, nemlig at man også godt en gang
+imellem kan glæde sig over ting, der går godt, og at det altså ikke
+altid er et problem, at ting udvikler sig med, at der er store stigninger. Det kan faktisk være meget, meget sundt, for det kan bringe os
+til at opfylde nogle af vores politiske målsætninger.
+Det skal jo så heller ikke bruges til, at man luller sig selv i søvn
+og siger, at alt er godt, og derfor er det sådan set – synes jeg – også
+meget befriende, at Ingeniøren nu har sat den her dagsorden, som så
+også samler op på en lang række relevante problemstillinger, som ikke kun handler om gymnasiet, men som også knytter an til en diskussion i forhold til universiteterne. Og det er klart, at jeg jo der – af
+gode grunde – bliver nødt til at have en drøftelse med videnskabsministeren om det, ingen tvivl om det.";Troels Lund Poulsen
+22611;Time;;Kl. 14:07
+22647;title_name;":
+Fru Christine Antorini.";Søren Espersen
+22719;title_name;":
+Ja, jeg vil udnytte, at vi næsten er enige om alt lige på det her
+spørgsmål, og det skal man jo gøre, når den chance byder sig. Så jeg
+vil bare svare: Ja, det vil jeg.";Troels Lund Poulsen
+22898;Time;;Kl. 14:09
+22934;title_name;":
+Dermed er spørgsmålet sluttet.
+Det næste spørgsmål, spørgsmål 2, er ligeledes til undervisningsministeren og ligeledes af fru Christine Antorini.";Søren Espersen
+23091;Time;"Spm. nr. S 1687
+2) Til undervisningsministeren af:";Kl. 14:09
+23166;name_party;":
+Hvad vil ministeren gøre, for at det bliver lettere for studerende med
+en professionsbachelor som f.eks. sygeplejerske eller lærer at fortsætte med en master- eller kandidatuddannelse på universitetet uden
+at skulle tage 1-2 semestre ekstra, oven i købet med brugerbetaling,
+fordi universiteterne stiller det som krav?";Christine Antorini
+23521;title_name;":
+Fru Christine Antorini for oplæsning af spørgsmålet.";Søren Espersen
+23585;Time;;Kl. 14:09
+23609;name_party;":
+Tak. Hvad vil ministeren gøre, for at det bliver lettere for studerende
+med en professionsbachelor som f.eks. sygeplejerske eller lærer at
+fortsætte med en master- eller kandidatuddannelse på universitetet
+uden at skulle tage 1-2 semestre ekstra, oven i købet med brugerbetaling, fordi universiteterne nogle steder stiller det som krav?";Christine Antorini
+23957;Time;;Kl. 14:09
+23968;Time;;Kl. 14:07
+23992;name_party;":
+Et af de forsøg, som undervisningsministerens forgænger i et samarbejde med gymnasieforligskredsen satte i gang, var at åbne for, at
+man også kunne læse bioteknologi, og nu kommer forgængeren ind,
+og så han kan jo høre den ros, der tilfalder den tidligere undervisningsminister, hr. Bertel Haarder. Det gode ved at lave dette forsøg
+med bioteknologi har været, at kurset har været meget søgt, at det tiltrækker piger, og at det også opfylder adgangskravene til at komme
+ind på nogle af de naturvidenskabelige uddannelser, der har det. Så
+der er nogle muligheder ved at kigge på gymnasiereformen.
+Så er der her, hvor vi inspirerer hinanden lidt med hensyn til,
+hvad man kan kigge på, en ting mere, jeg vil sige, nemlig at der jo
+blev lavet en binding, som vi selv var i tvivl om var hensigtsmæssig,
+altså at hvis man ønskede at søge ind på en samfundsvidenskabelig
+linje på universitetet, så skulle man i gymnasiet vælge matematik på
+B-niveau. Vi kan jo se, at matematik er et af de fag, som rigtig mange er nødt til at tage som gymnasialt suppleringskursus, og det var
+måske også en af de ting, vi skulle kigge på, nemlig den binding. Ja,
+den har åbenbart ikke forhindret dem i at søge den samfundsvidenskabelige linje, men den er årsag til, at der er rigtig mange, der tager
+suppleringskurset for at søge den samfundsvidenskabelige linje.
+Så det vil jeg høre om undervisningsministeren har overvejet at
+kigge nærmere på.
+
+5";Christine Antorini
+25454;title_name;":
+Undervisningsministeren.";Søren Espersen
+25490;Time;;Kl. 14:09
+25537;title_name;":
+Igen har vi faktisk at gøre med et område og en ting, som jeg tror vi
+bør finde et fælles fodslag omkring, vil jeg bare sige her i starten af
+svaret.
+Der er flere ting, der er vigtige her. Først og fremmest støtter regeringen jo den grundlæggende idé om, at uddannelsessystemet skal
+gøres mest muligt fleksibelt for den enkelte, dvs. at overgangen fra
+forskellige uddannelsesforløb skal ske så smidigt som muligt, men
+også på et så fagligt forsvarligt grundlag som overhovedet muligt.
+Det er jo ligesom den anden side af mønten, at vi ikke må undergrave tilliden til det faglige indhold af vores uddannelser, ved at man
+kan lave nogle overspringshandlinger, som måske kan gøre, at det
+får et dyk i fagligheden.
+Når det så er sagt, mener jeg, at der er behov for at se på at gøre
+suppleringen mere klar, end den er i dag. Det her er jo ikke et emne,
+som ikke har været diskuteret før. Det har været diskuteret i flere år.
+Men jeg er og vil være i tæt dialog med videnskabsministeren om,
+hvordan vi kan se på den her problemstilling. Det er mere bare for at
+sige, at jeg sådan set er interesseret i, at man, hvis man er folkeskolelærer eller sygeplejerske, så får adgang til at kunne komme så smidigt ind på universitetsuddannelsen, som man gerne vil, i forhold til
+at tage en overbygning, uden at man så skal gennem mange forhindringsforløb undervejs.
+
+6
+
+Onsdag den 11. maj 2011 (S 1687)
+
+Det er jo det, der gør, at man i dag som oftest ikke gør det. Så må
+vi se på, hvordan vi så også sikrer, at den overgang også fagligt kan
+forsvares. Der er jeg i en situation, hvor jeg ikke har det endelige
+bud, men jeg er altså helt enig i, at det her må vi prøve at løfte i fællesskab. Der har vi også nogle forligsbindinger, som vi sammen bliver nødt til at se på.";Troels Lund Poulsen
+27306;Time;"også kan følge op på det her, for nu er det altså ikke år og dag, det
+skal tage.
+Vi har bevæget os et stykke for nogle, der kan gå direkte ind. Det
+er der jo et par eksempler på, altså diplomingeniører og også folkeskolelærere, som kan gå direkte til den uddannelse, der hedder
+cand.pæd., hvis det er. Men der er stadig væk rigtig, rigtig mange
+udfordringer, og dem skylder vi at løse.";Kl. 14:11
+27703;Time;;Kl. 14:14
+27739;title_name;":
+Fru Christine Antorini.";Søren Espersen
+27774;Time;;Kl. 14:11
+27810;title_name;":
+Fru Christine Antorini.";Søren Espersen
+27845;Time;;Kl. 14:14
+27869;name_party;":
+Det er jo fuldstændig rigtigt, som ministeren siger, at det her har været drøftet i flere år. Det har nemlig været et problem i flere år. Der
+er et antal dygtige, ambitiøse unge, som har taget deres professionsbacheloruddannelser og gerne vil have en overbygning, og som så
+har oplevet en bremseklods, ved at det universitet, hvor de skulle
+tage overbygningsuddannelsen, ikke anerkendte, at det var en bacheloruddannelse, de havde. De fik oven i købet den besked, at hvis de
+skulle supplere med det, der skulle til – ud over at det tog længere
+tid – også skulle lægge en klækkelig sum brugerbetaling på bordet
+for at kunne gøre det.
+Det er som sagt noget, vi har diskuteret i flere år. Når vi har valgt
+her fra Socialdemokraterne at stille ministeren spørgsmålet nu, og
+det gælder sådan set også det tidligere om gymnasial suppleringskursus, er det, fordi det er nu, de unge overvejer, hvad det er, de skal
+gøre efter sommerferien med deres uddannelse, enten hvilken videregående uddannelse de skal starte på, eller hvilken overbygning der
+skal til.
+Derfor tror jeg, at det kunne være nyttigt, at vi lige deler den videre diskussion i to. En af de store barrierer for f.eks. lærere og sygeplejersker, som vil tage en overbygning på universitetet, er som
+sagt, at hvis de har tiden til det, skal de lægge brugerbetaling. I Danmark har vi gratis uddannelser eller skattefinansierede uddannelser;
+ikke desto mindre skal man ikke have penge op af lommen, men lige
+præcis for de her suppleringskurser, der bliver opfattet som ekstra
+tid, som ikke er en del af det, at der er fri og lige adgang til videregående uddannelse, skal man have penge op af lommen. Hvad vil ministeren gøre ved det?";Christine Antorini
+29566;Time;;Kl. 14:12
+29602;title_name;":
+Ministeren.";Søren Espersen
+29625;Time;;Kl. 14:12
+29672;title_name;":
+Jeg havde forestillet mig, at der kom to spørgsmål, for vi skulle dele
+det i to. Men det er jo fair nok, så måske at dele det i en enighed og
+en uenighed. Det var måske det, der var pointen.
+Lad os så starte ved uenigheden. Jeg har altså ikke lige penge i
+muleposen til at lave om på de regler, der gælder i dag. Men det er jo
+klart, at hvis man kan finde ressourcer, kan man altid diskutere,
+hvordan man skal bruge dem inden for undervisningsområdet.
+Der, hvor vi er enige, synes jeg trods alt, at vi måske skal bruge
+lidt kræfter på så at nå helt i mål. Det er også derfor, at jeg er enig i
+det, som fru Christine Antorini siger, nemlig at der jo er brug for
+handling. Det har jo været diskuteret op og ned ad stolper og frem og
+tilbage, det ved fru Christine Antorini alt for godt og også, hvad barriererne her er. Men jeg regner altså med, at videnskabsministeren
+og jeg inden sommerferien vil have gjort os overvejelser om, hvordan det her så kan smidiggøres. Jeg vil bare sige, at der er det min
+fuldstændig klare holdning, at der er barrierer i dag, som er for store.
+Det er altså også et tilsagn fra min side om, at fru Christine Antorini";Troels Lund Poulsen
+30844;name_party;":
+Det er korrekt, at der er nogle få gode eksempler på, at det er muligt
+at få anerkendt, at man faktisk har en professionsbacheloruddannelse
+og så kan tage en overbygning. Men vi synes i Socialdemokratiet, at
+hele pointen er, at når man som voksen går i gang med sin videregående uddannelse, skal man kunne se det perspektiv for sig, at hvis
+man vælger en professionsuddannelsesvej, kan man få efter- og videreuddannelse inden for faget, men man har også mulighed for at
+kunne bygge ovenpå eller også at uddanne sig til et andet fag. Derfor
+er det utrolig vigtigt at få fjernet de barrierer, der er i dag.
+Jeg vil så sige til undervisningsministeren, at vi i Socialdemokratiet prioriterer at finde midlerne til at få fjernet den brugerbetaling,
+der er, fordi den helt grundlæggende bryder med det princip, som vi
+har, og som regeringen jo også indtil nu har bakket op om, nemlig at
+der skal være fri og lige adgang til uddannelse, uden at der skal være
+brugerbetaling, og uden at det skal være ens økonomiske formåen,
+der afgør, om man kan få en videregående uddannelse. Så vi anser
+det som meget vigtigt, at den brugerbetaling bliver fjernet.
+Men det andet, jeg vil spørge ministeren om, handler om, at det
+jo også tager længere tid, og at det er op til det enkelte universitet at
+beslutte, hvad de synes. Mener ministeren, det er rimeligt, og vil ministeren tage det op med videnskabsministeren?";Christine Antorini
+32252;Time;;Kl. 14:15
+32288;title_name;":
+Ministeren.";Søren Espersen
+32311;Time;;Kl. 14:15
+32358;title_name;":
+Nu ved jeg jo også, at fru Christine Antorini ofte er tilhænger af et
+vist lokalt selvstyre, og det er lige præcis det, der er gældende på
+universiteterne. Jeg ved ikke, hvor centraliserede vi skal være i forhold til også at respektere de selvstændige institutioner, men det må
+jo være en af de drøftelser, som jeg skal have med videnskabsministeren, nemlig om man kan lave nogle overordnede kriterier, der gør,
+at man kan være rimelig sikker på, at man, hvis folk går ind på et
+universitet, så gør overgangen lettere. Det er klart, at jeg synes, at
+det er en væsentlig del af problemstillingen, som skal diskuteres.
+Hvor det så ender, kan jeg jo af gode grunde ikke lægge mig fast på i
+dag.
+Men jeg kan bare sige, at jeg synes, at vi ved fælles hjælp skulle
+prøve at presse på, for at det her kan lade sig gøre. Der er jeg med
+på, at jeg har initiativretten, for jeg er undervisningsminister. Det
+kræver så også, at regeringen sammen med videnskabsministeren
+kan præsentere løsninger, og det tror jeg sådan set godt kan lade sig
+gøre.";Troels Lund Poulsen
+33405;Time;;Kl. 14:16
+33441;title_name;":
+Fru Christine Antorini.
+
+Onsdag den 11. maj 2011 (S 1664)
+
+7";Søren Espersen
+33515;Time;;Kl. 14:16
+33526;Time;;Kl. 14:17
+33550;name_party;":
+Nu tillader jeg mig her på falderebet at komme med noget. Jeg medgiver, at det ikke er en del af spørgsmålet, men har med problemstillingen at gøre, og derfor er det helt fair, hvis ministeren siger, at det
+kan vi tage efterfølgende som et skriftligt svar på spørgsmålet. Men
+en af de ting, som lå i professionshøjskoleloven, da vi lavede professionsbacheloren for bl.a. lærere og pædagoger, var, at det blev et
+veldefineret afgangsniveau, sådan at man havde bachelorniveauet,
+når man blev færdig som lærer eller pædagog, netop for at det talte,
+hvis man ville bygge ovenpå. Det lå faktisk også i aftalen, at vi skulle åbne op for at se på at lave en egentlig professionsmaster, dvs. en
+overbygning, hvor det ikke er den forskningsmæssige vej, men hvor
+det netop mere er den anvendelses- og praksisorienterede vej, man
+kan have som overbygning med begrebet en professionsmaster.
+Men det har været rigtig, rigtig svært at komme videre med det,
+og det ligger som sagt i den aftale, som er en bred aftale mellem regeringen, Socialdemokraterne, De Radikale og Dansk Folkeparti, at
+vi skal kigge på mulighederne. Er det noget, som ministeren er positiv over for at vi tager fat på nu, hvor vi alligevel skal kigge på mere
+smidige overbygningsmuligheder på de videregående uddannelser?
+
+Indenrigs- og sundhedsministeren (Bertel Haarder):
+Jeg kan bekræfte, at regeringens målsætning var og er, at hjælpen
+under normale omstændigheder skal være fremme inden for 15 minutter efter opkald til 112. Formuleringen under normale omstændigheder er et citat. Det er et citat fra regeringsgrundlaget »Mulighedernes samfund«.
+Det er afgørende, at der i alle dele af landet er tryghed for, at befolkningen hurtigt kan komme i relevant behandling, hvis de kommer til skade eller bliver akut syge. Derfor er det, målsætningen er
+sat, og derfor er det, regeringen sammen med Dansk Folkeparti har
+styrket akutindsatsen og de nære sundhedstilbud i landets yderområder med hele 600 mio. kr. Derfor er der her fra starten af måneden
+indført sundhedsfaglig rådgivning og visitation i forbindelse med opkald til 112, for så vidt angår opkald, der omhandler akut sygdom eller tilskadekomst.
+Regeringens akutudvalg offentliggjorde i november en statusrapport for sit arbejde. Den viste, at der generelt er en positiv udvikling
+på akutområdet. Der er i alle regioner sket en markant udvidelse af
+det akutte beredskab. Udvalget kom også med en række vigtige understregninger i forhold til målsætningen om de 15 minutter, nemlig
+at målsætningen bør afgrænses til akutte, livstruende tilfælde, dvs.
+de situationer, hvor der vil blive sendt en ambulance med udrykning
+eller det, som man i fagtermer kalder kørsel A. Der bør ved hjælp
+være tale om professionel hjælp, som disponeres fra den regionale
+vagtcentral, og samtidig er det vigtigt at være opmærksom på, at
+hjælpen er andet og mere end ambulancer. Det er også eksempelvis
+akutbiler, lægebiler og lægehelikoptere. Jeg mener, at vi er kommet
+tæt på målsætningen om, at man under normale omstændigheder får
+hjælp inden for 15 minutter.";Christine Antorini
+36619;Time;;Kl. 14:17
+36655;title_name;":
+Ministeren.";Søren Espersen
+36678;Time;;Kl. 14:17
+36725;title_name;":
+Jeg synes, at jeg vil runde en god dag i Folketingssalen af med at sige, at det vil jeg gerne se på sammen med forligskredsen.";Troels Lund Poulsen
+36863;Time;;Kl. 14:17
+36899;title_name;":
+Dermed er spørgsmålet sluttet. Tak til fru Christine Antorini, og tak
+til undervisningsministeren.
+Det næste spørgsmål, spørgsmål 3, er stilet til indenrigs- og sundhedsministeren af hr. Orla Hav.";Søren Espersen
+37107;Time;"Spm. nr. S 1664
+3) Til indenrigs- og sundhedsministeren af:";Kl. 14:17
+37181;name_party;":
+Kan ministeren bekræfte, at tidligere statsminister Anders Fogh Rasmussen i valgkampen 2007 var ude med tilsagn om, at ingen borger
+skulle tåle længere ventetid end 15 minutter som responstid for akuthjælp fra ambulanceberedskab/præhospitalt beredskab?";Orla Hav
+37470;title_name;":
+Hr. Orla Hav bedes oplæse spørgsmålet.";Søren Espersen
+37520;Time;;Kl. 14:17
+37534;name_party;":
+Tak for det. Kan ministeren bekræfte, at tidligere statsminister Anders Fogh Rasmussen i valgkampen 2007 var ude med tilsagn om, at
+ingen borger skulle tåle længere ventetid end 15 minutter som responstid for akuthjælp fra ambulanceberedskab/præhospitalt beredskab?";Orla Hav
+37811;Time;;Kl. 14:17
+37847;title_name;":
+Indenrigs- og sundhedsministeren.";Søren Espersen
+37893;Time;;Kl. 14:19
+37929;title_name;":
+Hr. Orla Hav.";Søren Espersen
+37954;Time;;Kl. 14:19
+37968;name_party;":
+Nu er baggrunden for at stille de her spørgsmål den samme, som den
+var i sidste uge for hr. Bjarne Laustsen, nemlig at vi har oplevet et
+dybt tragisk tilfælde i det nordjyske, hvor en borger dør, fordi hjælpen ikke når frem i tide. Det sker jo desværre til tider for vores akutberedskab.
+Så er det, det undrer mig, at ministeren benyttede sidste uges
+spørgetid til at give regionerne en generalskideballe for ikke at have
+levet op til det, når ministeren i dag redegør for, at regionerne faktisk
+arbejder på at løse det her problem og har gjort gode fremskridt.
+Jeg skal bare have ministeren til at uddybe det med de 600 mio.
+kr., som jeg også godt kunne læse i finansloven er udmøntet til det
+her. Er det en engangsbevilling, eller er det en fast driftsbevilling,
+for at regionerne kan leve op til den formulerede målsætning, som
+regeringen kom med på det tidspunkt? Er det penge, som regionerne
+har kunnet disponere over?";Orla Hav
+38903;Time;;Kl. 14:20
+38939;title_name;":
+Ministeren.";Søren Espersen
+38962;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Det er selvfølgelig en engangsbevilling, og det ved spørgeren jo også aldeles udmærket. Der har aldrig været tale om andet end en engangsbevilling. Det er jo også derfor, at den er gået til at støtte opførelsen af lægehuse og sundheds- og akuthuse, køb af materiel osv.
+
+8
+
+Onsdag den 11. maj 2011 (S 1665)
+
+Jeg gav ikke den nordjyske region en skideballe i sidste uge. Det
+er simpelt hen forkert. Jeg roste tværtimod regionsformanden, Ulla
+Astman, for at hun i det tragiske tilfælde så klart havde taget ansvar
+og også havde forklaret det, som hr. Orla Hav selv ville have forklaret, hvis han stadig væk havde været amtsborgmester, nemlig at hvis
+beredskabet skal være sådan, at der er hundrede procents sikkerhed
+for, at man får hjælp inden for 15 minutter, er man langt ud over,
+hvad der sundhedsprioriteringsmæssigt er tilrådeligt, for en hundrede
+procents garanti kræver altså, at der alle steder skal være mindst
+dobbeltbesætning, det dobbelte antal biler osv., og så tror jeg da, at
+vi bruger pengene bedre i anden anvendelse.
+Den ulykkelige hændelse i Skagen hang jo sammen med, at der
+skete flere ting samtidig, og det er svært at forebygge.";Kl. 14:20
+40176;Time;;Kl. 14:22
+40212;title_name;":
+Hr. Orla Hav.";Søren Espersen
+40237;Time;;Kl. 14:22
+40251;name_party;":
+Jeg er enig med ministeren i, at det er et svært område, vi har med at
+gøre. De citater, jeg har set fra sidste uge, gik jo på, at der var en
+løftet pegefinger med hensyn til, om de løftede det godt nok i regionerne, at det var regionernes ansvar. Jeg synes simpelt hen, at den
+her sag er for alvorlig til at blive en gang abeflytning mellem ministerens bord og dem, der praktisk har opgaven og udfører den på stedet.
+Jeg vil jo gerne have ministeren til at sige det, der også står i den
+rapport, som ministeren henviser til, nemlig at det er udvalgets vurdering, at infrastruktur, befolkningstæthed, forskellige geografiske
+forhold, som små øer uden fast landforbindelse, m.v. betyder, at det
+ikke er realistisk at sikre alle dele af landet helt samme tidsmæssige
+dækning.
+Det er jo det, man har behov for også bliver meldt ud af den regering, som er med til at sætte nogle høje mål for det her område, i stedet for at få at vide af regeringen, at der er afsat 600 mio. kr., og at
+det alene er på grund af inkompetence i regionerne, at de ikke får det
+her løst.
+Det synes jeg simpelt hen ikke at vi kan være bekendt i et samfund, hvor vi ved, at sundhedsfaglige løsninger udspringer af et tæt
+samarbejde mellem de statslige dele og de regionale udførere.";Orla Hav
+41519;Time;;Kl. 14:24
+41555;title_name;":
+Hr. Orla Hav.";Søren Espersen
+41580;Time;;Kl. 14:24
+41594;name_party;":
+Det var jo den diskussion, jeg fangede i sidste uge, og den synes jeg
+simpelt hen er dybt urimelig. Jeg synes, at det er udtryk for manglende respekt over for de mennesker, som er blevet valgt til på borgernes vegne at indrette et lokalt sundhedsvæsen, som er i overensstemmelse med de geografiske, økonomiske og andre forhold, som er
+gældende. Jeg synes simpelt hen, at det er ude af proportion, at ministeren trækker det kort den ene gang efter den anden og siger: Så
+nedlægger vi bare. Det er ikke anstændigt over for borgerne, det er
+ikke anstændigt over for dem, der har påtaget sig at arbejde med det
+her.
+Jeg har ikke postuleret hundrede procents dækning – det ved jeg
+jo godt ikke kan lade sig gøre – men det, jeg gerne vil have ministeren til at sige, er, at de vilkår, man giver regionerne til at løse den
+opgave på, er fair, og at man står bag, når nu nogle ting kikser. Det
+er det, jeg faktisk gerne vil have ministeren til at tage sit medansvar
+for.";Orla Hav
+42568;Time;;Kl. 14:25
+42604;title_name;":
+Ministeren.";Søren Espersen
+42627;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Det er dejligt, at hr. Orla Hav ikke kræver hundrede procents dækning. Så kom vi da fra månen ned til jorden og fik den sunde fornuft
+med.
+Akutberedskabet er blevet bedre – det var det, jeg sagde i mit
+svar – end dengang, hr. Orla Hav var amtsborgmester i Nordjylland,
+og det glæder jeg mig selvfølgelig over. Der er forbedringer over
+hele linjen, og det synes jeg da vi skal være glade for.
+Hvis jeg har vist manglende respekt, er det manglende respekt for
+dem, som gør regionale problemer til folketingsproblemer og gør det
+af politiske grunde. Det er det, jeg har lov til at vise manglende respekt for.";Kl. 14:25
+43295;Time;;Kl. 14:26
+43306;Time;;Kl. 14:23
+43342;title_name;":
+Ministeren.";Søren Espersen
+43365;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Det, der blev læst op, er jo sund fornuft, og det er jo også det, som
+hr. Orla Hav, hvis han stadig væk var amtsborgmester, ville køre efter. Det er jo utroligt, at en tidligere amtsborgmester kan finde på at
+lade som om, at man kan lave hundrede procents garantier. Det var
+der ikke, da han var amtsborgmester. Det er, fordi han er en klog
+mand, som ved, hvordan man prioriterer, og så lover man ikke hundrede procents garanti for, at ambulancerne når frem på et bestemt
+tidspunkt.
+Med hensyn til det om den løftede pegefinger så tror jeg nok, at
+den var over for hr. Bjarne Laustsen og ikke regionen. Jeg kan ikke
+huske andet, end at jeg roste Ulla Astman for, at hun tog ansvar. Jeg
+roste til gengæld ikke hr. Bjarne Laustsen for hans spørgsmål, og jeg
+skulle hilse igen fra statsministeren og sige, at hvis Socialdemokraterne insisterer på at lægge alle sundhedsspørgsmål herned i salen og
+gøre det til et regeringsansvar, må det være, fordi de vil nedlægge regionerne, og så skal de bare sige til, og så bliver de nedlagt.";Kl. 14:23
+44481;title_name;":
+Dermed er spørgsmålet sluttet.
+Det næste spørgsmål, spørgsmål 4, er ligeledes stilet til indenrigs- og sundhedsministeren af hr. Orla Hav.";Søren Espersen
+44631;Time;"Spm. nr. S 1665
+4) Til indenrigs- og sundhedsministeren af:";Kl. 14:26
+44705;name_party;":
+Har regeringen stillet de nødvendige ressourcer til rådighed for regionerne, således at disse har kunnet indfri det løfte, den tidligere
+statsminister udstedte, og har regeringen sikret sig en aftale med regionerne om dette beredskab?";Orla Hav
+44976;title_name;":
+Hr. Orla Hav bedes oplæse spørgsmålet.";Søren Espersen
+45026;Time;;Kl. 14:26
+45040;name_party;":
+Har regeringen stillet de nødvendige ressourcer til rådighed for regionerne, således at disse har kunnet indfri det løfte, den tidligere
+statsminister udstedte, og har regeringen sikret sig en aftale med regionerne om dette beredskab?
+
+Onsdag den 11. maj 2011 (S 1665)";Orla Hav
+45322;Time;;Kl. 14:29
+45333;Time;;Kl. 14:26
+45369;title_name;":
+Indenrigs- og sundhedsministeren.";Søren Espersen
+45414;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+En opgørelse fra november sidste år fra det omtalte akutudvalg viser,
+at mindst 90 pct. af de akutte ambulancekørsler, de såkaldte kørsel
+A'er, er fremme inden for 15 minutter i samtlige regioner, i nogle regioner er tallet endnu højere. Hertil kommer de øvrige præhospitale
+ressourcer som akutbiler, lægebiler, lægehelikoptere, som bringer
+ekspertisen ud til den akut syge. De kan jo starte behandlingen på
+stedet og også fortsætte behandlingen under transporten.
+Regionerne og alarmcentralerne har fra starten af maj indført
+sundhedsfaglig rådgivning og disponering i forbindelse med opkaldet til 112, hvilket forventes at bidrage til både effektivitet og øget
+kvalitet i akutindsatsen.
+Alle regioner har etableret supplerende løsninger til yderligere
+sikring af tryghed i tyndt befolkede områder med store afstande,
+f.eks. forskellige former for nødbehandlere eller førstehjælpere, som
+kan give hurtig og livreddende hjælp, inden ambulancen når frem.
+Den positive indsats understøtter vi med de 600 mio. kr. En del af
+de midler går til at styrke det præhospitale akutberedskab og til at
+etablere endnu en forsøgsordning med lægehelikoptere med base i
+Karup.
+Det er min vurdering, at der med de forskellige indsatser og de
+afsatte akutmidler kan sikres en håndtering af målsætningen om, at
+hjælpen under normale omstændigheder skal være fremme inden for
+15 minutter efter opkald til 112.
+Så mit svar er ja. Denne regering har tilført sundhedsvæsenet rigtig mange penge, og som jeg har redegjort for, er der også afsat rigtig mange penge til at styrke akutindsatsen.";Kl. 14:26
+47044;Time;;Kl. 14:28
+47080;title_name;":
+Hr. Orla Hav.
+
+Indenrigs- og sundhedsministeren (Bertel Haarder):
+Langt de fleste af de 600 mio. kr. er udmøntet. Dog er der nogle, der
+endnu ikke er udmøntede, og de skal, så vidt jeg husker, bruges til
+uddannelse, for der er jo visse personalegrupper, som har brug for et
+kompetenceløft, når de skal deltage i akutberedskabet.
+Med hensyn til, at regeringen har givet valgløfter på regionernes
+område, kan jeg svare bekræftende. Vi har løftet sundhedsbevillingerne med 33 mia. kr. over 10 år, altså ud over priser og lønstigninger, og det er jo en vækst, som svarer til 25-30 pct. Så ja, vi har givet
+løfter, og vi har også opfyldt de løfter, vi har givet på sundhedsområdet.";Søren Espersen
+47768;Time;;Kl. 14:30
+47804;title_name;":
+Hr. Orla Hav.";Søren Espersen
+47829;Time;;Kl. 14:30
+47843;name_party;":
+Det, der stadig væk interesser mig, er, hvor mange af de her penge
+der er udmøntet til regionerne. Jeg kan se, at der var afsat 10 mio. kr.
+til den uddannelsesfunktion, som ministeren siger, og det er fair nok,
+at der skal bruges penge på uddannelse, men af en bevilling på 600
+mio. kr. er det jo ikke ret mange penge, regionerne har haft at gøre
+godt med i den sammenhæng.
+Hvor mange af de her 600 mio. kr. har regionerne reelt haft til at
+kunne efterleve den målsætning, som jeg tror regionerne deler, om at
+sikre så hurtig en responstid som overhovedet muligt og i hvert fald
+forsøge at forhindre, at der opstår de der dybt tragiske hændelser,
+som engang imellem indtræffer i vores sundhedsvæsen? Hvor mange
+af de her penge har regionerne kunnet bruge til det formål?";Orla Hav
+48625;Time;;Kl. 14:31
+48665;title_name;":
+Ministeren.";Holger K. Nielsen
+48688;Time;;Kl. 14:31
+48699;Time;;Kl. 14:28
+48713;name_party;":
+Tillad mig først at komme med en bemærkning til ministerens afslutning på svaret til det foregående spørgsmål. Når vi interesserer os
+lidt for, at disse spørgsmål kommer til regeringens kendskab, har det
+jo lidt at gøre med, at regeringen i valgkampen 2007 valgte at gøre
+regionale spørgsmål til en del af regeringens valgkamp, og derfor interesserer vi os naturligvis også for, at der bliver fulgt op på det.
+Det er sådan set ikke os, der har blandet de nationale målsætninger sammen med de regionale. Vi synes, det ville have været smukt,
+hvis regeringen respekterede, at der faktisk er 41 gode danske borgere, der er valgt til at være med til at arbejde for det sammen med befolkningen rundtomkring, og at de ikke gik ind og lavede de fiksfakserier, som regeringen gjorde på det tidspunkt. Regeringen fremlagde en pæn målsætning – det indrømmer jeg, den er flot – om, at
+hjælpen skal være fremme inden 15 minutter, og den målsætning bør
+man selvfølgelig overholde.
+Det, jeg skal have ministeren til at fortælle, er, hvor mange af
+pengene der er udmøntet, og hvor stor en del af dem der er afsat til
+akutberedskab.";Orla Hav
+49841;Time;;Kl. 14:29
+49877;title_name;":
+Ministeren.
+
+9
+
+Indenrigs- og sundhedsministeren (Bertel Haarder):
+Regeringen og Dansk Folkeparti har i løbet af første kvartal i år fordelt i alt 570,7 mio. kr. til 38 konkrete projekter landet over, især lægehuse og sundheds- og akuthuse.
+Regeringen og Dansk Folkeparti har bl.a. bevilget knap 60 mio.
+kr. til etableringen af yderligere en forsøgsordning med lægehelikopter med base i Karup som supplement til forsøgsordningen på Sjælland. Den forventes igangsat her i maj – jeg tror, jeg skal til den første flyvning om en uge eller to – og forsøget vil vare 13 måneder.
+De resterende akutmidler vil bl.a. blive anvendt til kompetenceløft af sundhedspersonale – sygeplejersker, paramedicinere m.v. –
+som skal varetage nye opgaver og indgå i ændrede funktioner i forbindelse med udbygningen af de nære sundhedstilbud og den præhospitale indsats. Jeg har her et notat, der beskriver denne fordeling, og
+det skal jeg gerne overlade til hr. Orla Hav efter spørgetiden.";Søren Espersen
+50856;Time;;Kl. 14:32
+50896;title_name;":
+Hr. Orla Hav.";Holger K. Nielsen
+50921;Time;;Kl. 14:32
+50935;name_party;":
+Det, der foruroliger mig lidt, er den rigtig store bevilling. Der er god
+grund til at afsætte penge til etablering af lægehuse og andre foranstaltninger af den her slags, men det konkrete spørgsmål drejer sig
+om forbedringen af den akutte og den hurtige responstid i forhold til
+hændelser som den, vi desværre oplevede ske i Skagen, og jeg kan jo
+konstatere, at regeringen afsatte 100 mio. kr. til helikoptere, og at
+
+10
+
+Onsdag den 11. maj 2011 (S 1688)
+
+der kun er 60 af dem, der er kommet eller er på vej ud at arbejde. Så
+derfor: Har samtlige regioner helikopterdækning med baggrund i de
+her forbedringer af akutberedskabet? Har regionerne haft mulighed
+for at vælge, om man ville bruge et bedre og mere udbygget kørende
+beredskab for at løse de her opgaver, fordi man der kender de lokale
+forhold og dermed kan imødegå det, eller er prioriteringen lavet forlods?";Orla Hav
+51815;Time;;Kl. 14:33
+51855;title_name;":
+Ministeren.";Holger K. Nielsen
+51878;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Mig bekendt er de 600 mio. kr. fordelt efter ansøgning fra regionerne, og jeg har også haft møder med repræsentanter for regionerne og
+med borgmestrene osv. Der har været et stort fokus på fordelingen af
+disse penge, og de har i øvrigt skabt stor glæde, ikke mindst der,
+hvor man har fået sundheds- og akutsygehuse.
+Jeg kan ikke på stående fod huske, om helikopteren i Karup er
+noget, vi forlods havde sat penge af til, eller om den er resultatet af
+en ansøgning fra Region Midtjylland. Men en ting kan jeg sige med
+sikkerhed: Region Midtjylland har intet indvendt imod, at vi får denne helikopter, og det har de andre jyske og fynske regioner heller ikke, de er glade for den, ligesom man er glad for helikopteren på
+Sjælland.
+Hvordan det så end er gået til, er konklusionen blevet accepteret
+af alle, nemlig at vi bruger i et rimeligt beløb til en helikopter i Karup.
+
+dre steder. Der er jo også gjort forsøg med fodboldklasser, hvor børnene virkelig får rørt sig, hvor de går i fodboldtøj hele dagen. Det,
+der jo er spændende, er, om ikke også disse forsøg har en gavnlig
+virkning, når det gælder den boglige indlæring. Hvis det er tilfældet,
+ved vi jo, hvad vej vi skal gå.
+Hvis der skal gennemføres en lov om det, er det noget, som hr.
+Møller Mortensen skal tale med sin kollega fru Christine Antorini
+om. Hun har lige haft en dialog her med undervisningsministeren,
+min efterfølger, om skoleforhold, og det står ethvert forligsparti frit
+for at rejse spørgsmål om lovgivning.
+Jeg synes, at man, inden man lovgiver om en bestemt model, skal
+være sikker på, om der nu er andre modeller, som kan være lige så
+gode. Det vigtigste er vel, at vi alle sammen bakker op om det synspunkt, at børnene skal have 1 times motion om dagen. Det behøver
+absolut ikke være i idrætstimer, men de skal røre sig. Jeg har besøgt
+en skole, hvor man har en pædagog ansat, som har til opgave at sørge for, at eleverne rører sig i frikvartererne. Jeg er selv meget optaget af at få børnene ud af skolebusserne og op på cyklerne. Jeg ved,
+at der er kommuner, der har udnævnt sig selv til cykelkommuner.
+Lad os se, om det virker, før vi lægger os fast på en ganske bestemt
+model.";Kl. 14:33
+54099;Time;;Kl. 14:37
+54139;title_name;":
+Hr. Flemming Møller Mortensen.";Holger K. Nielsen
+54181;Time;;Kl. 14:37
+54192;Time;;Kl. 14:35
+54223;name_party;":
+Jeg takker ministeren for svaret. Ministeren siger indledningsvis, at
+det her er et godt forsøg, og at ministeren gerne vil have flere forsøg.
+Deri er jeg faktisk meget uenig med ministeren. Jeg vil rigtig gerne
+have handling, og derfor vil jeg gerne spørge ministeren: Er tiden
+dog ikke til, at vi med baggrund i de gode resultater ikke skal vente
+på at få ændret en praksis, som både ministeren og jeg synes er helt
+gal i dag, hvor vi ved, at de dårlige vaner i barndommen medfører
+livsstilssygdomme og kroniske lidelser i voksenlivet? Er det ikke
+her, vi nu skal gøre brug af forskningen og så få sat en ramme op for
+at få tingene ændret?
+Ministeren siger, at hvis det virkelig viser sig, at den boglige indlæring også forbedres herved, så må jeg bare her sige, at den viden
+har vi i dag. Det kan undre mig en lille smule med ministerens erfaring og tidligere virke her i Folketinget som undervisningsminister,
+at ministeren ikke er bekendt med, at jo mere fysisk aktivitet des
+bedre indlæring har man. Ud over at det giver bedre indlæring, giver
+det også en hel masse andre fordele, eksempelvis bliver mobningen
+også mindre, hvis man har mere fysisk aktivitet. Er ministeren ikke
+enig med mig i, at det er kendt viden?
+Så siger ministeren, jeg skal tale med min kollega, som arbejder
+med det uddannelsesmæssige område. Men det her er jo en grænseflade mellem det undervisningsmæssige og det sundhedsmæssige.
+Derfor synes jeg da, at det er helt berettiget – sådan har jeg i hvert
+fald tænkt det – at stille ministeren spørgsmålet her i dag for at få
+sundhedsministerens holdning til resultaterne i Svendborg. Jeg må jo
+bare sige, at jeg jo tidligere adskillige gange har hørt sundhedsministeren give udtryk for i sit virke som undervisningsminister, at det
+var et mål at kæmpe for 1 times motion eller bevægelse dagligt. Er
+det ikke stadig væk ministerens mål og holdning?";Flemming Møller Mortensen
+56111;Time;;Kl. 14:35
+56151;title_name;":
+Ministeren.";Holger K. Nielsen
+56175;Time;;Kl. 14:34
+56215;title_name;":
+Tak for det. Spørgsmålet er afsluttet.
+Det næste spørgsmål er stillet til indenrigs- og sundhedsministeren af hr. Flemming Møller Mortensen.";Holger K. Nielsen
+56367;Time;"Spm. nr. S 1688
+5) Til indenrigs- og sundhedsministeren af:";Kl. 14:34
+56458;name_party;":
+Mener ministeren, at de positive forskningsresultater fra Svendborg,
+hvor folkeskoleelever med 6 timers idræt om ugen halverer risikoen
+for diabetes 2 og risikoen for ryglidelser nedsættes markant, giver
+anledning til at lovgive om 1 times daglig idræt i folkeskolen, jf.
+»Ny forskning: Seks timers idræt om ugen giver stærkere børn«, Ernæring og Sundhed, den 5. maj 2011 og Skolebørnsundersøgelsen
+2010, side 20?";Flemming Møller Mortensen
+56912;title_name;":
+Hr. Flemming Møller Mortensen for oplæsning af spørgsmålet.";Holger K. Nielsen
+56983;Time;;Kl. 14:34
+57014;name_party;":
+Mener ministeren, at de positive forskningsresultater fra Svendborg,
+hvor folkeskoleelever med 6 timers idræt om ugen halverer risikoen
+for diabetes 2 og risikoen for ryglidelser nedsættes markant, giver
+anledning til at lovgive om 1 times daglig idræt i folkeskolen?";Flemming Møller Mortensen
+57322;title_name;":
+Ministeren.
+Indenrigs- og sundhedsministeren (Bertel Haarder):
+Jeg er ligesom spørgeren meget optaget af Svendborgforsøget, og
+jeg håber, at det vil føre til lignende forsøg eller til andre forsøg an-";Holger K. Nielsen
+57535;Time;Onsdag den 11. maj 2011 (S 1689);Kl. 14:39
+57581;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Vi kan da hurtigt blive enige om, at børn bør røre sig mindst 1 time
+om dagen. Spørgsmålet er, hvordan man via skolelovgivningen kan
+realisere det mål. Det er på det punkt, jeg beder hr. Møller Mortensen om at tale med fru Christine Antorini, for hun fører faktisk skoleforhandlinger med undervisningsministeren netop i disse dage og
+timer.
+Jeg har rundt i landet set mange forskellige måder at realisere
+målet på. Jeg nævnte fodboldskolen i Hjørring. Jeg kunne også nævne Bellahøj Skole, hvor man på meget spændende måde kombinerer
+læring og bevægelse. Og nu har vi fået Svendborg, som har fået stor
+opmærksomhed – og med rette – for den måde, hvorpå man der har
+givet eleverne 1 times motion om dagen.
+Lad os få flere på banen. Lad os i fællesskab fremhæve det fælles
+mål, vi har, nemlig 1 time om dagen, og ikke lægge os fast på en
+ganske bestemt model.
+Hvis det mål skal skrives ind i folkeskoleloven, er det altså ved
+undervisningsministerens bord, at det krav skal rejses.";Kl. 14:39
+58622;Time;;Kl. 14:40
+58662;title_name;":
+Hr. Flemming Møller Mortensen.";Holger K. Nielsen
+58704;Time;;Kl. 14:40
+58735;name_party;":
+Det kunne jo godt være, at den nuværende undervisningsminister
+havde arvet noget fra den tidligere undervisningsminister, men det
+lyder ikke, som om det er tilfældet. Men jeg skal nok tale med min
+kollega, som arbejder med undervisning.
+Ministeren siger, at det, det drejer sig om, er at finde ud af, hvordan vi skal realisere tingene. Jeg kan da godt her fra denne ydmyge
+talerstol afsløre, at vi fra socialdemokratisk side siger, at vi skal have
+1 times motion eller bevægelse dagligt. Men den enkelte folkeskole
+skal have metodefrihed til at finde ud af, hvordan det skal være. Vi
+vil have det gjort formaliseret og forpligtende, for ellers er der nogle,
+der ikke kommer med på den gode vogn, og den gode vogn er altså
+at få 1 times motion eller bevægelse dagligt. For resultaterne siger,
+at med hensyn til de børn fra 0. til 6. klasse, som har været igennem
+det her, udvikler 45 pct. færre en type 2-diabetes, og de bliver meget
+bedre til både at koordinere deres balance og deres koordinering af
+andre ting, og rygproblemerne bliver meget mindre.
+Så jeg vil spørge ministeren: Kan vi ikke her fra Folketinget arbejde ud fra en minimumsstandard eller en formaliseringsgrad på det
+her område?";Flemming Møller Mortensen
+59942;Time;;Kl. 14:41
+59982;title_name;":
+Ministeren.";Holger K. Nielsen
+60005;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Jeg er da glad for, at spørgeren føler sig nærmere knyttet til mig end
+til sin kollega, undervisningsordføreren, så han taler med mig, før
+han taler med hende. Men jeg vil nu råde til, at han tager en snak
+med hende, for jeg går ud fra, at Socialdemokraterne ikke er et mangehovedet uhyre, hvor den ene hånd ikke ved, hvad den anden gør,
+eller hvor det ene hoved ikke ved, hvad det andet gør. Så hvis der er
+krav af den størrelsesorden, vi taler om her, som skal rejses, så er det
+rigtige altså at gøre det ved undervisningsministerens bord.
+Vi skal jo lige vide, hvordan det skal være helt præcist. Vi skal
+lige vide, hvad det koster, og hvordan pengene skal skaffes. Men der
+skal ikke være nogen tvivl om, at målet har vi fælles, og det er vi
+fuldstændig enige om. Målet er at få banket den fysiske aktivitet op
+
+11
+
+på 1 time om dagen for børn, der vokser op i Danmark. Det skal der
+ikke være nogen tvivl om, og jeg overvejer selvfølgelig også alle
+tænkelige måder, hvorpå vi kan nå det mål. Jeg kan da i øvrigt fortælle, at jeg så sent som i sidste uge havde et møde med undervisningsministeren om forskellige emner, som også relaterer sig til det,
+vi taler om her. Men det vedrører jo også rygning og druk, og der er
+vi jo også enige om der skal gøres mere.";Kl. 14:41
+61330;Time;;Kl. 14:43
+61370;title_name;":
+Hr. Flemming Møller Mortensen.";Holger K. Nielsen
+61412;Time;;Kl. 14:43
+61443;name_party;":
+Det er lige nøjagtig det, der er formålet med at have en dialog her i
+Folketingssalen minister og folketingsmedlem imellem, og det er jo
+naturligvis i et forsøg på, at vi skal prøve at nærme os hinanden. Og
+jeg synes, det er rigtigt, at der er tendenser til, at vi nærmer os hinanden.
+Men når ministeren nu spørger om, hvordan vi gør det her, og
+hvad det koster, så kunne det jo være dejligt, hvis ministeren sagde:
+Den opgave tager jeg på mig som sundhedsminister og prøver at få
+kigget tingene igennem; få kigget på forskningsresultaterne og måske få lagt en plan, en simpel plan og model, måske for en minimumsstandard til kommunerne.
+Kommunerne vil jo rigtig, rigtig gerne have vejledning på det her
+område. Ingen kommuner fralægger sig ansvaret, og de ser helt klart
+både ansvaret og nytten af, at de får holdt borgerne mest mulig raske
+af hensyn til den enkelte borger og af hensyn til kommunens økonomi og samfundsøkonomien som helhed
+Derfor vil jeg spørge ministeren: Kunne ministeren ikke godt i
+dag give udtryk for, at ministeren vil kigge på det og prøve at finde
+ud af, hvordan vi gør det, og hvad det vil koste?";Flemming Møller Mortensen
+62579;Time;;Kl. 14:44
+62619;title_name;":
+Ministeren.";Holger K. Nielsen
+62642;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Jeg synes, det er svært at være mere positiv, end jeg har været. Hvis
+hr. Møller Mortensen ønsker en plan, så var det jo rart at se, om han
+selv i sin egen folketingsgruppe kunne få godkendt en plan. Men så
+vil vi altså tillade os at spørge: Hvordan skal den realiseres, og hvad
+vil den koste? Det er jo helt naturligt, at man stiller de spørgsmål.
+Jeg synes, det er afgørende at konstatere, at der altså er nogle, der
+kan finde ud af det, og der er jo flere end dem, jeg har nævnt her.
+Der er ganske mange, der kan finde ud af det. Jeg synes, det vigtigste må være at indhente eksempler på god praksis. Vi har i øvrigt allerede en pjece, som indeholder eksempler på god praksis, men lad
+os få endnu flere eksempler på god praksis. Lad os få dokumenteret,
+at det også virker godt på indlæringen, for så tror jeg virkelig, at man
+kan give sagen et skub fremad. Og så skal vi da ikke glemme, at man
+på heldagsskolerne jo kan gøre ting, som kan være ekstra gode. Man
+kan have idrætsskolefritidsordninger. Man kan lade skolefritidsordninger være fødelinjer til den frivillige idræt. Der er mange ting,
+man kan gøre, og jeg er altså tilhænger af, at vi går mange veje.";Kl. 14:44
+63868;Time;;Kl. 14:45
+63908;title_name;":
+Tak til ministeren. Spørgsmålet er afsluttet.
+Det næste spørgsmål er også stillet af hr. Flemming Møller Mortensen, også til indenrigs- og sundhedsministeren.";Holger K. Nielsen
+64078;Time;"12
+
+Onsdag den 11. maj 2011 (S 1689)
+
+Spm. nr. S 1689
+6) Til indenrigs- og sundhedsministeren af:";Kl. 14:45
+64208;name_party;":
+Mener ministeren, at forskningsprojektet fra Svendborg, der især har
+fået fat i de svage elever, som ikke tidligere dyrkede idræt, giver anledning til at videreføre forskningsprojektet på nationalt plan i offentligt regi, når antallet af 15-årige drenge, som dyrker 0 timers
+hård fysisk aktivitet om ugen, er fordoblet fra 2006 til 2010, jf. Skolebørnsundersøgelsen 2010, side 46?";Flemming Møller Mortensen
+64629;title_name;":
+Hr. Flemming Møller Mortensen for oplæsning af spørgsmålet.
+
+Det, vi gerne vil fra socialdemokratisk side, er, at vi, når vi nu får
+så banebrydende gode resultater som eksempelvis Svendborgundersøgelsen, som virkelig viser, at de får fat på nogle af de mest inaktive unge, altså de unge, som har den absolut største risiko for at
+udvikle sygdom og mistrivsel, så vil kunne anerkende og understøtte
+det med det samme og sige, at her har vi noget, og det vil vi fra regeringens side fokusere stærkt på, og vi vil gøre, hvad vi kan, for at det
+bliver det, kommunerne gør brug af i deres planlægning. Men regeringen vil, at det skal være op til den enkelte kommune, selv de
+kommuner, som ikke har økonomisk råderum til det. Vi ser altså en
+polarisering i sundhed mellem de rige kommuner og de svage kommuner. Jeg vil spørge sundhedsministeren: Er det rimeligt?";Holger K. Nielsen
+65498;Time;;Kl. 14:45
+65529;name_party;":
+Tak. Mener ministeren, at forskningsprojektet fra Svendborg, der
+især har fået fat i de svage elever, som ikke tidligere dyrkede idræt,
+giver anledning til at videreføre forskningsprojektet på nationalt plan
+i offentligt regi, når antallet af 15-årige drenge, som dyrker 0 timers
+hård fysisk aktivitet om ugen, er fordoblet fra 2006 til 2010?";Flemming Møller Mortensen
+65883;Time;;Kl. 14:46
+65923;title_name;":
+Ministeren.";Holger K. Nielsen
+65946;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Jeg håber da ikke, at der er 15-årige, som pjækker fra al gymnastik i
+skolen. Det er i hvert fald ulovligt, så det skal vi da have fat i.
+Men jeg deler hr. Flemming Møller Mortensens bekymring for,
+at færre og færre unge dyrker hård fysisk aktivitet. Det er en udfordring, som Svendborgprojektet forhåbentlig kan give nogle gode
+svar på, men at udstrække Svendborgprojektet til at være landsdækkende vil jeg bestemt ikke tilråde i øjeblikket, for der er som sagt
+mange veje, som man kan gå. Lad os bruge kræfterne på at studere
+de gode resultater, der er indhøstet, og anvende dem der, hvor det er
+muligt. Svendborgprojektet er jo heller ikke afsluttet endnu. Der kan
+fortsat komme interessante resultater ud af det. Så frem for at gøre
+Svendborgprojektet landsdækkende, ser jeg et større behov for, at resultaterne og erfaringerne bliver formidlet og præsenteret, så kommunerne kan tilpasse dem til deres egen skole og dermed få nogle
+erfaringer med at implementere resultaterne.";Kl. 14:46
+66989;Time;;Kl. 14:47
+67029;title_name;":
+Hr. Flemming Møller Mortensen.";Holger K. Nielsen
+67071;Time;;Kl. 14:47
+67102;name_party;":
+Det her er jo et rigtig godt eksempel på, at regeringen vedkender sig
+problemet. Regeringen vedkender sig, at der bliver forsket, og at
+forskningsresultaterne viser rigtig god effekt og dermed også en rigtig god nytte. Men regeringen vil ikke gribe til, at det her er et
+spørgsmål om, at alle danskere skal få del i det.
+Jeg vil gerne spørge ministeren: Med ministerens indgående
+kendskab til kommunernes hverdag, kan ministeren så ikke bekræfte, at der er rigtig stor forskel kommunerne imellem, hvilke økonomiske ressourcer de har til rådighed i forhold til at tage nye initiativer op? Kan ministeren ikke dele min holdning, når jeg siger, at nogle kommuner har rigtig svært ved at se næsten fra dag til dag økonomisk? Derfor kan det være rigtig vanskeligt at tage nye initiativer
+ind, hvor man først ser resultaterne på langt sigt. Her er forebyggelse
+jo et af de rigtig gode eksempler. Her investerer man i dag og høster
+måske først resultaterne om 10, 15 eller 20 år.";Flemming Møller Mortensen
+68087;Time;;Kl. 14:49
+68127;title_name;":
+Ministeren.";Holger K. Nielsen
+68150;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Regeringen vil gerne lade tusind blomster blomstre. Der er flere veje, der går til Rom. Der er flere veje, der går til 1 times fysisk aktivitet om dagen. Hvis man skal sætte sig hen for at vente på, at kommunen får råd til hundredvis af ekstra idrætstimer til skolerne, så risikerer man jo at komme til at vente længere. Det er derfor, jeg anbefaler, at man ser på de forhåndenværende muligheder.
+Man kan måske få plads til flere idrætstimer inden for det antal
+skematimer, man har. Man kan måske bruge frikvartererne – især det
+store frikvarter. Man kan måske gøre som en skole, jeg har besøgt,
+hvor en pædagog sørger for, at eleverne rører sig i frikvartererne.
+Man kan måske gøre som på fodboldskolerne, man kan måske gøre
+som Kolding, der mig bekendt har udnævnt sig selv til at være cykelby, og jeg går ud fra, at det også er skoleeleverne, der cykler.
+Hvad man end gør, synes jeg, det er vigtigt at få det evalueret.
+Jeg synes også, at vi skal lade Svendborgforsøget blive evalueret, før
+vi ophøjer det til at være den eneste vej til motionen – om ikke saligheden.";Kl. 14:49
+69283;Time;;Kl. 14:50
+69323;title_name;":
+Hr. Flemming Møller Mortensen.";Holger K. Nielsen
+69365;Time;;Kl. 14:50
+69396;name_party;":
+Jo, men det er jo bare et spørgsmål om at trække tingene i langdrag,
+vil jeg sige til ministeren. Nu forsker vi, så får vi resultater, så skal
+vi evaluere resultaterne, og hvad sker der i mellemtiden? Der sker
+det, at der er rigtig, rigtig mange, som ikke kommer med på vognen
+af det rigtige, af det fornuftige, det, der har nytte, og det, der har effekt. Det kan da ikke være rigtigt, at vi i et lillebitte land med 5,5
+millioner indbyggere og 98 kommuner skal være vidne til så stor en
+standardforskel mellem borgerne. Jeg tror snart, det bliver et konkurrenceparameter mellem kommunerne, at de fattige kommuner med
+de syge borgere har så dårligt et tilbud til deres borgere mod de
+kommuner, der er rige, og som har de rigeste borgere i forvejen.
+Fra socialdemokratisk side vil vi have, at der skal være metodefrihed, men vi vil have, at vi skal gøre brug af ny viden, så alle danske børn kommer med på vognen og får nytte af tingene. Og tusind
+blomster blomstrer, ja. Det, der er mit billede er, at nogle kommuner
+ikke har muld eller luft til, at blomsterne kan folde sig ud. Og her har
+vi problemet. Ser ministeren slet ikke noget problem i kommunernes
+forskellighed og måske også i deres lyst til at gøre noget?";Flemming Møller Mortensen
+70624;Time;;Kl. 14:51
+70664;title_name;":
+Ministeren.
+
+Onsdag den 11. maj 2011 (S 1692)";Holger K. Nielsen
+70723;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Vi er enige om metodefriheden, og det betyder vel også, at vi så er
+enige om, at det afgørende må være, hvad målet er, og ikke lige præcis, hvordan man når målet. Det er rigtigt, at nogle kommuner har
+bedre råd end andre, men man skal ikke gøre penge til det eneste saliggørende, for der er jo altså andre faktorer, man kan spille på. Jeg
+kunne også nævne et forsøg på en skole på Frederiksberg, hvor Chris
+MacDonald fik en gymnasieklasse til at få en sundere livsstil og dermed også bedre karakterer, og alle de forsøg, jeg her har opremset
+og fremhævet, koster ikke nødvendigvis ekstra penge. Det kan godt
+være, at Svendborgforsøget har kostet penge, det er jeg nu ikke sikker på, men det har jo at gøre med, hvordan man prioriterer tingene.
+Men jeg synes ikke, vi behøver en lang diskussion, for vi er enige
+om målet, og lad os arbejde på alle de fronter, vi kan. Lad undervisningsordførerne drøfte, hvad de kan gøre, og jeg skal nok som sundhedsminister gøre, hvad jeg kan, for det er vigtigt for sundheden,
+som det også bliver nævnt, og det er jeg ganske enig i.
+
+13
+
+Det næste spørgsmål er stillet til indenrigs- og sundhedsministeren af fru Sophie Hæstorp Andersen.";Kl. 14:51
+71958;Time;"Spm. nr. S 1692
+7) Til indenrigs- og sundhedsministeren af:";Kl. 14:55
+72047;name_party;":
+Mener ministeren, at det er vigtigere, at der er et privat alternativ til
+det offentlige sundhedsvæsen, end at patienterne får den bedste behandling, jf. Ritzautelegram fra den 6. maj 2011, »Frit spil når forsikringen betaler«?
+
+Skriftlig begrundelse
+Spørgsmålet stilles på baggrund af ministerens udtalelser til P1, om
+at der er risiko for, at flere privathospitaler og klinikker vil lukke,
+hvis man stiller samme stramme krav til forsikringsbehandlingerne
+som til de offentlige behandlinger.";Sophie Hæstorp Andersen
+72553;Time;;Kl. 14:53
+72593;title_name;":
+Fru Sophie Hæstorp Andersen for oplæsning af spørgsmålet.";Holger K. Nielsen
+72692;title_name;":
+Hr. Flemming Møller Mortensen.";Holger K. Nielsen
+72735;Time;;Kl. 14:55
+72745;Time;;Kl. 14:53
+72776;name_party;":
+Så er vi enige om metodefriheden. Den anden ting, jeg sagde til ministeren, er, at vi fra socialdemokratisk side vil gøre det forpligtende,
+at der bliver 1 times motion. Kan vi så ikke nå så langt i dag, at vi
+kan sige, at vi er enige om metodefriheden; skolerne og kommunerne bestemmer selv, hvordan de vil gøre det, men de skal sikre, at der
+er 1 times bevægelse eller motion? Jeg er enig i, at det også kan være frikvartererne, der bliver taget i brug, men det skal være formaliseret, så de får bevægelse og motion.
+Det, der lige nøjagtig er resultatet af Svendborgundersøgelsen, er,
+at antallet, der får diabetes 2, er blevet reduceret, og at antallet med
+ryglidelser, som der er rigtig mange unge, der også døjer med, også
+er blevet markant reduceret. Vi ved også, at der er andet, f.eks. mobning, der bliver reduceret. Vi ved, at jo mere idræt, man har, jo større
+fællesskab, man har, jo mindre mobning er der. Så der er mange afledte positive effekter ved det.
+Ministeren taler om de forhåndenværende muligheder, men kan
+vi ikke hjælpe dem på vej ved at gøre det forpligtende for skolen og
+kommunen?";Flemming Møller Mortensen
+73894;Time;;Kl. 14:54
+73934;title_name;":
+Ministeren.";Holger K. Nielsen
+73957;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+En pligt indebærer jo, at der skal være en hjemmel til at pålægge en
+sådan pligt. Det vil sige, at vi taler om en lovparagraf. Det er en lovparagraf, som bidrager til, at vi får endnu flere paragraffer her i landet, men det kan da godt begrundes i dette tilfælde. Det er jo en lovparagraf, som skal have nogle bemærkninger, og i de bemærkninger
+skal der stå, hvad det koster. Jeg vil foreslå, at spørgeren taler med
+sin egen undervisningsordfører, som derefter kan tale med undervisningsministeren om, hvad der kan gøres, når det gælder nye lovparagraffer på feltet.";Kl. 14:54
+74586;Time;;Kl. 14:55
+74626;title_name;":
+Tak til ministeren. Spørgsmålet er afsluttet.";Holger K. Nielsen
+74702;name_party;":
+Mener ministeren, at det er vigtigere, at der er et privat alternativ til
+det offentlige sundhedsvæsen, end at patienterne får den bedste behandling?";Sophie Hæstorp Andersen
+74863;Time;;Kl. 14:55
+74903;title_name;":
+Ministeren.";Holger K. Nielsen
+74926;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Nej, det mener jeg ikke. Der er jo ikke tale om frit spil, når behandlingen udføres via en arbejdsgiverbetalt sundhedsforsikring. Alle
+sundhedspersoner, der er autoriserede, er i medfør af autorisationsloven underlagt kravet om omhu og samvittighedsfuldhed. Det gælder,
+uanset om de er ansat på et offentligt eller privat sygehus, og uanset
+om vedkommende behandler offentligt eller privat henviste patienter.
+Jeg kan forstå, at spørgsmålet tager udgangspunkt i, at private sygehuse, som alene behandler privatbetalende patienter, ikke er omfattet af specialeplanlægningen, og at Sundhedsstyrelsen altså skal
+give et sygehus tilladelse at udføre specialiseret behandling for det
+offentlige sundhedsvæsen.
+Formålet med specialeplanlægningen er at give Sundhedsstyrelsen effektive styringsredskaber i forhold til det offentlige sundhedsvæsen. Det er også derfor, at de private sygehuse, som behandler patienter for det offentlige, er omfattet af specialeplanlægningen, og
+det er derfor, at Sundhedsstyrelsen bruger begreberne regionsfunktioner og patientunderlag, som jo ikke umiddelbart kan anvendes i
+forhold til behandlingen af privatbetalende patienter.
+Den grundlæggende kvalitet skal selvfølgelig være i orden. Det
+er derfor, at alle autoriserede sundhedspersoner er underlagt lovens
+krav. Patientombuddets kompetence og Sundhedsstyrelsens tilsyn
+skal ligeledes opfyldes.
+Jeg synes, at man skal være varsom med at stille videregående
+krav til private end det, at lovgivningen skal overholdes. Det er jo
+simpelt hen et spørgsmål om, hvad man vil forbyde, og jeg mener, at
+det offentlige skal udvise tilbageholdenhed med regulering, når der
+er tale om en virksomhed på rent private vilkår. Man skal ikke nødvendigvis påtvinge private samme regulering, som vi har i det offentligt, for at fremme kvalitet og effektivitet. Det er jo folks egne
+
+14
+
+Onsdag den 11. maj 2011 (S 1692)
+
+penge. De private kan jo f.eks. også tilbyde kosmetisk behandling,
+som slet ikke udføres i det offentlige, og her giver det jo ingen mening at pålægge de private sygehuse det offentlige sundhedsvæsens
+målsætning om prioriteringer.
+Men som spørgeren ved, har jeg i sidste måned fremsat et lovforslag, hvor jeg netop lægger op til en udvidelse af Sundhedsstyrelsens
+proaktive tilsyn med og registrering af private sygehuse og klinikker.
+Det tror jeg da at vi i hvert fald er enige om.";Kl. 14:55
+77355;Time;;Kl. 14:57
+77395;title_name;":
+Fru Sophie Hæstorp Andersen.";Holger K. Nielsen
+77435;Time;;Kl. 14:57
+77464;name_party;":
+Tak for besvarelsen af spørgsmålet. Jeg synes nu alligevel, man må
+undre sig lidt over dele af besvarelsen, for ministeren siger, at man
+ikke skal stille videre krav til private, heller ikke inden for sundhedsvæsenet, selv om det er folks helbred og liv, som de her mennesker
+jo faktisk står og har ansvaret for. Det er jo sådan, at vi er en bred
+kreds af partier, der i forhold til de offentlige sygehuse er blevet enige om, at øvelse gør mester, at man opnår den bedste kvalitet, ved at
+man har et vist antal patienter, at man har prøvet at behandle, og at
+man har visse krav, f.eks. også til hvilke specialer der skal være som
+baggrund for, at man kan lave en højt specialiseret behandling. Og
+så må jeg sige, at jeg faktisk er noget overrasket over, at ministeren
+ikke mener, at det skal komme de patienter til gode, som selv betaler
+for behandlingen. Jeg frygter virkelig, at nogle patienter ikke kan
+gennemskue, at der er to forskellige lovgivningssæt på det her område, afhængig af om man er henvist af det offentlige til behandling,
+eller afhængig af om ens sundhedsforsikring eller man selv betaler.
+Det vil jeg godt høre ministerens mening om. Frygter ministeren ikke, at der er nogle patienter, der faktisk ikke ved, at de kan underlægge sig en dårligere kvalitet, alene fordi de har valgt selv at betale
+for sundhedsbehandling?";Sophie Hæstorp Andersen
+78815;Time;;Kl. 14:59
+78855;title_name;":
+Ministeren.";Holger K. Nielsen
+78878;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Det lyder på spørgeren, som om regeringen har indført en helt ny tilstand. Det, jeg her har beskrevet, nemlig at behandlingen, som man
+selv får finansieret, ikke er underlagt helt de samme krav som de offentlige tilbud, er ikke nogen ny tilstand. Det krav, der ikke gælder
+for de private, er det volumenkrav, som specialeplanlægningen
+drejer sig om. Og som jeg sagde i et samråd om samme sag, er der
+altså tilfælde, hvor der er tale om, at læger, der har deres fulde arbejdstid i det offentlige, i det private arbejder nogle ekstra timer, og
+de opfylder jo som personer det krav, man kan stille til lægen, selv
+om den lille institution, hvor de opererer i fritiden, måske ikke gør
+det. Så lad os nu ikke skabe for stor bekymring. Jeg mener også, det
+er svært at påpege store problemer, der er opstået som følge af det,
+vi taler om her. Tilstanden er ikke ny, men vi skal selvfølgelig følge
+den med stor opmærksomhed, og der ligger jo et lovforslag, som
+øger tilsynet med de private.";Kl. 14:59
+79923;Time;;Kl. 15:00
+79963;title_name;":
+Fru Sophie Hæstorp Andersen.";Holger K. Nielsen
+80004;Time;;Kl. 15:00
+80033;name_party;":
+Jeg vil nok sige, at i Socialdemokratiets øjne er problemet lige netop, at tilstanden her ikke er ny. Vi har netop haft samråd med en
+lang række tidligere borgerlige sundhedsministre, hvor vi har prøvet
+at påpege, at vi mener, at der er et retssikkerhedsmæssigt problem
+for patienterne, ved at de faktisk ikke ved, at hvis de underlægger sig
+nok højt specialiseret behandling på et privathospital, som man selv
+betaler for via ens forsikring eller af egen lomme, så er man faktisk
+ikke underlagt de samme krav, som man er i det offentlige, om, at
+øvelse gør mester. Jeg synes, det er at forklejne det at sige, at det jo
+kan være den samme læge, der står og opererer. Det er jo teamet og
+hele organiseringen omkring behandlingen, som bør være i fokus, og
+ikke bare, hvorvidt den enkelte læge selv har prøvet et bestemt indgreb.
+Det, ministeren siger, er jo – og det har vi hørt mange gange – at
+der er en risiko for, at flere privathospitaler og klinikker decideret
+ville lukke, hvis man stillede de samme høje krav til de private klinikker som til de offentlige sygehuse. Mener ministeren virkelig, at
+det er vigtigere, at der er det her private alternativ, end at der er en
+høj kvalitet, og at borgerne kan føle sig trygge, uanset hvem de bliver behandlet af, og hvordan de betaler for det?";Sophie Hæstorp Andersen
+81336;Time;;Kl. 15:02
+81376;title_name;":
+Ministeren.";Holger K. Nielsen
+81399;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Vi lever heldigvis i et nogenlunde frit land. Hvis jeg skulle omsætte
+de spørgsmål, jeg får fra Socialdemokrater her i salen, til et politisk
+program, så bliver det et stalinistisk kontrol- og regelstyret program,
+som gør hr. Henrik Sass Larsens påstand om, at der kommer en afbureaukratiserende revolution, hvis vi får en ny regering, fuldstændig latterlig. Jeg hører ikke andet end krav om, at vi skal lave regler
+og gennemføre det ene og det andet og det tredje. Nu skal det altså
+også være forbudt at vælge en privat klinik, selv om den slet ikke er
+betalt af det offentlige.
+Altså, der skal være ansvarlig behandling, og de samme regler
+gælder for private behandlere som for offentlige. Men volumekravet,
+som ligger bag Sundhedsstyrelsens specialeplanlægning, gælder altså ikke, og det er jo en parallel til, at der også er visse krav, der heller ikke gælder for frie skoler.";Kl. 15:02
+82342;Time;;Kl. 15:02
+82382;title_name;":
+Fru Sophie Hæstorp Andersen.";Holger K. Nielsen
+82422;Time;;Kl. 15:02
+82451;name_party;":
+Så må jeg bare konstatere, at det er den sædvanlige vise, det sædvanlige salmevers, vi får fra regeringen. Det er, at det skal være folks
+frie valg at lægge sig under kniven hos en læge i et set up, hvor de
+ikke aner noget som helst om, at der dels er andre regelsæt, dels at
+der ikke er nogen som helst krav om, at man lever op til de samme
+høje standarder, som man skal leve op til i det offentlige. Jeg må
+konstatere, at ministeren altså ikke er på patienternes side, men alene
+er på de private klinikkers og privathospitalernes side. Det må jeg
+ærligt indrømme at jeg er lidt skuffet over. Jeg må sige, at det ikke
+kommer som den store overraskelse, for statsministeren udtalte jo allerede i 2006: »Hvis jeg enøjet red det synspunkt, at vi skulle stille
+kvalitetskrav til det private på samme måde som i det offentlige, ville vi aldrig få det private op at stå.«
+
+Onsdag den 11. maj 2011 (S 1690)
+
+Jeg må så bare konstatere, at svaret endnu en gang er, at det er
+vigtigere, at vi har private klinikker og hospitaler, end at de nødvendigvis leverer en høj kvalitet, når borgerne lægger sig under kniven,
+hvis det er sådan, at de selv har betalt for det. Jeg må bare konstatere, at der bliver vi bare ikke enige. For mig handler det ikke om bureaukrati, men det handler om patientsikkerhed for borgerne og for,
+at man ikke bagefter står og siger, at man faktisk ikke anede, at der
+ikke var nogen krav til de her private udbydere på området, da man
+f.eks. lagde sig under kniven.";Sophie Hæstorp Andersen
+83944;Time;;Kl. 15:04
+83984;title_name;":
+Ministeren.";Holger K. Nielsen
+84007;Time;"Indenrigs- og sundhedsministeren (Bertel Haarder):
+Hvis det nu var sådan, at spørgeren havde en hel masse patienter,
+som var kommet til skade, så kunne jeg da forstå spørgsmålet. Men
+det har hun jo ikke. Der er mig bekendt ikke noget, der tyder på, at
+risikoen for fejlbehandling er væsentligt større på de klinikker, vi taler om, som er helt privat finansieret, end på de offentlige. Hvis jeg
+tager fejl, vil jeg gerne belæres, og så kan jeg måske også overtales.
+Men jeg har på fornemmelsen, at vi drøfter et til dels opdigtet problem, og det er ikke, fordi jeg kræver lig på bordet først, jeg synes
+bare, at man skal kunne beskrive problemet, før man løser det.
+Så har spørgeren det jo sådan, at hun ikke kan lade være med at
+lyde forarget, og det må jeg så vænne mig til.";Kl. 15:04
+84794;Time;;Kl. 15:05
+84834;title_name;":
+Tak. Spørgsmålet er afsluttet.
+Vi har et problem, for vi mangler en spørger. Nå, der kommer
+spørgeren i sidste øjeblik. Det var ikke godt. Det næste spørgsmål er
+altså stillet til beskæftigelsesministeren af hr. Karsten Hønge.";Holger K. Nielsen
+85072;Time;"Spm. nr. S 1690
+8) Til beskæftigelsesministeren af:";Kl. 15:05
+85144;name_party;":
+Hvilket signal mener ministeren, at det sender til befolkningen, når
+det for anden gang på kort tid har vist sig, at et medlem af regeringen vælger at benytte ikkeregistreret udenlandsk arbejdskraft til ombygning af sin private bolig, oven i købet i en situation, hvor der er
+stor arbejdsløshed blandt danske bygningshåndværkere?";Karsten Hønge
+85514;title_name;":
+Hr. Karsten Hønge for oplæsning af spørgsmålet. Bare tag det roligt,
+det går endda. Ned med pulsen først, så klarer vi den.";Holger K. Nielsen
+85649;Time;;Kl. 15:05
+85669;name_party;":
+Det er jo sjældent, at tingene går hurtigere herinde, end man sidder
+og beregner.
+Hvilket signal mener ministeren, at det sender til befolkningen,
+når det for anden gang på kort tid har vist sig, at et medlem af regeringen vælger at benytte ikkeregistreret udenlandsk arbejdskraft til
+ombygning af sin private bolig, oven i købet i en situation, hvor der
+er stor arbejdsløshed blandt danske bygningshåndværkere?";Karsten Hønge
+86092;Time;;Kl. 15:06
+86132;title_name;":
+Ministeren.
+
+15";Holger K. Nielsen
+86160;Time;;Kl. 15:06
+86203;title_name;":
+Jeg vil gerne indlede med at oplyse, hvad jeg ved om sagen og dernæst præcisere nogle ting omkring RUT-reglerne. Ifølge omtalen af
+sagen i pressen har udenrigsministeren indgået en aftale med en
+dansk entreprenør om at få udført arbejde på sit hus. Den danske entreprenør har herefter indgået en aftale med en polsk underentreprenør om at udføre nedrivningen af en skorsten.
+Så vidt jeg har forstået, bliver den polske virksomhed først registreret i RUT, samme dag som pressen skriver om sagen, og efter at
+Arbejdstilsynet har været på tilsynsbesøg. Arbejdstilsynet har overgivet sagen til politiet. Den udenlandske tjenesteyder har således tilsyneladende ikke overholdt reglerne efter udstationeringsloven om
+anmeldelse til RUT, hvor anmeldelsen skal ske, senest samtidig med
+at arbejdet påbegyndes. Ansvaret for manglende registrering påhviler den udenlandske virksomhed.
+Hvervgivers ansvar går ud på at sikre sig dokumentation for, at
+den udenlandske virksomhed har anmeldt oplysninger til RUT-registeret. Hvis ikke hvervgiveren, senest 3 dage efter at arbejdet er påbegyndt, har fået dokumentation for anmeldelsen for den udenlandske virksomhed, skal hvervgiveren underrette Arbejdstilsynet herom.
+Reglerne om hvervgiverens ansvar er skruet sådan sammen, at
+hvervgiveren er den person eller virksomhed, som direkte hyrer den
+udenlandske virksomhed til at udføre arbejdet i Danmark.
+Hvis f.eks. en privatperson hyrer en dansk virksomhed til en entreprise og denne virksomhed så vælger at betale en udenlandsk
+virksomhed for at udføre dele af entreprisen, så er det den danske
+virksomhed, der har pligten som hvervgiver og ikke privatpersonen.
+Har man at gøre med en såkaldt leverandørkæde, er det altså alene
+den, som er lige over den udenlandske virksomhed, og som har hyret
+denne, der regnes som hvervgiver i RUT-register-sammenhæng.
+Hvervgiver kan således godt være en dansk virksomhed, som indgår
+en aftale med en udenlandsk underentreprenør, som det jo øjensynlig
+er tilfældet i den her konkrete sag, som der er henvist til, hvor ansvaret som hvervgiver påhviler den danske virksomhed.
+Så mig bekendt har udenrigsministeren således ikke overtrådt nogen regler i den her sag, og da man må sige, at det her spørgsmål
+stort set er identisk med et andet spørgsmål, som hr. Karsten Hønge
+har stillet, nemlig spørgsmål nr. S 1397, vil jeg også henvise til mit
+svar på det spørgsmål.";Inger Støjberg
+88599;Time;;Kl. 15:09
+88639;title_name;":
+Hr. Karsten Hønge.";Holger K. Nielsen
+88669;Time;;Kl. 15:09
+88689;name_party;":
+Det var jo fint nok, at ministeren sådan her redegjorde for, hvordan
+regelsættet er inden for området – nu er jeg så en af dem, der faktisk
+godt kendte det, men det er altid godt, at få det repeteret – men det,
+jeg spørger til, er egentlig også, hvordan ministeren oplever det som
+beskæftigelsesminister for en regering, hvor man i hvert fald udadtil
+prædiker, at man skal efterleve både de love og regler, vi har her i
+samfundet, og også nogle gange, ved højtidelige lejligheder i hvert
+fald, siger, at man godt vil understøtte den struktur, vi har på arbejdsmarkedet, og så i virkeligheden jo ikke efterlever det, man prædiker.
+Vi har i hvert fald at gøre med en regering, hvor man nu har to
+ministre, der inden for ganske kort tid ikke gør sig den ulejlighed at
+sørge for, at der er ordnede forhold på deres private ombygninger.
+Det mener jeg da godt at ministeren kan have en holdning til og ikke
+bare referere til, hvad der står i reglerne, for, som ministeren også
+læste op, findes der metoder til at komme uden om det ved at sige:
+
+16
+
+Onsdag den 11. maj 2011 (S 1690)
+
+Nå ja, man tager ikke en alvorlig samtale med den entreprenør, man
+hyrer, om, under hvilke betingelser arbejdet skal foregå.
+Hvilken holdning har ministeren til det? Er det ikke det her med,
+at det er lidt lettere bare sådan at sige, hvordan tingene skal være,
+men når det kommer til stykket forsøger de her fornærede borgerlige
+ministre alligevel at slippe lettest om ved det og oven i købet gøre
+det på en måde, der sådan set undergraver de vilkår, vi har på arbejdsmarkedet i Danmark? Så jeg vil gerne have en holdningstilkendegivelse af, hvad ministeren synes om den måde at løbe om hjørner
+med de regler, vi har.
+Med hensyn til den anden del, hvor jeg måske også kunne komme begge ministre i møde, altså miljøministeren og udenrigsministeren, vil jeg spørge, om det er, fordi vi simpelt hen har været for dårlige til at oplyse om det. Jeg vil heller ikke helt kunne afvise det, fordi hvis man i så, må man gå ud fra, forholdsvis velorienterede hjem
+som hjemme hos miljøministeren og udenrigsministeren ikke har
+forstået de signaler, der er sendt fra Beskæftigelsesministeriet, skulle
+vi måske gøre en ekstra indsats. Er det det, det handler om, altså at
+det stof, vi har med at gøre, simpelt hen ikke er kendt nok?";Karsten Hønge
+90998;Time;nede ministre alligevel benytter ikkeregistreret sandsynligvis underbetalt arbejdskraft, kan jeg vel også.;Kl. 15:11
+91116;Time;;Kl. 15:12
+91156;title_name;":
+Ministeren.";Holger K. Nielsen
+91179;Time;;Kl. 15:12
+91222;title_name;":
+Det er jo hr. Karsten Hønges påstand, for det er jo rent faktisk sådan,
+at mig bekendt i hvert fald har begge ministre efterlevet loven, som
+loven er. Hvis hr. Karsten Hønge skulle mene noget andet, synes jeg
+jo, at hr. Karsten Hønge skulle sige det lige ud i stedet for. Nu har vi
+repeteret reglerne over for hinanden. Hr. Karsten Hønge siger, at han
+godt kender reglerne. Vi kan se, hvordan udenrigsministeren har
+ageret i den her sag. Vi kan se, at udenrigsministeren tilsyneladende
+fuldstændigt har overholdt alle regler, og så synes jeg da bare, at hr.
+Karsten Hønge skal sige det lige, som hr. Karsten Hønge mener det.
+Hvis det er sådan, at hr. Karsten Hønge ikke mener, at reglerne er
+blevet overholdt, må det jo bare komme frem på bordet. Chancen er
+her lige nu.";Inger Støjberg
+92004;Time;;Kl. 15:13
+92044;title_name;":
+Ministeren.";Holger K. Nielsen
+92067;Time;;Kl. 15:11
+92110;title_name;":
+Udenrigsministeren har mig bekendt overholdt alle regler. Hvis hr.
+Karsten Hønge ønsker at diskutere, hvorvidt vi skal lave mere information på det her område, sætte kampagner i gang, vil jeg bestemt
+ikke være afvisende, men så synes jeg jo, at det er noget, hr. Karsten
+Hønge skulle gøre inden for den forligskreds, som han selv er en del
+af. Det var sådan set derfor, jeg læste reglerne op, fordi det egentlig
+ærlig talt undrede mig lidt, at vi nu flere onsdage i træk tilsyneladende har haft behov for at stå og repetere regler, som vi har lavet i fællesskab. Vi har faktisk brugt måneder på at lave de her regler, og
+derfor undrer det mig, at hr. Karsten Hønge bruger så meget tid på
+sager, hvor ministre har overholdt reglerne.";Inger Støjberg
+92854;Time;;Kl. 15:11
+92894;title_name;":
+Hr. Karsten Hønge.";Holger K. Nielsen
+92924;Time;;Kl. 15:11
+92944;name_party;":
+Der er vi måske også fremme ved problemet, nemlig at beskæftigelsesministeren læser reglerne op over for mig, som faktisk kender
+dem, og som garanteret også i mit privatliv vil efterleve dem. Jeg synes, at ministeren skulle tage papirerne med til regeringsmøderne.
+Det er øjensynligt der, vi har problemet. Vi har højtlønnede ministre,
+som lever det søde liv, og som alligevel vælger at få udført arbejde
+på deres privatboliger med uregistreret og sandsynligvis underbetalt
+udenlandsk arbejdskraft. Hvad er det for et signal, man sender her
+fra regeringens side? Altså, det er til regeringsmøderne, at ministeren skulle tage de der papirer med og ikke her i Folketingssalen,
+hvor jeg jo kender reglerne ganske udmærket. Så jeg synes, at man
+skulle tage dem med der og så prøve at forklare regeringskollegaerne, at man også skal efterleve det, man selv prædiker.
+Det er den ene del af det, og den anden del af det er stadig væk
+det her med, at det jo kunne være, at vi ikke har været gode nok –
+det er det, jeg spørger ministeren om – til at fortælle reglerne, når vi
+nu inden for, netop som ministeren selv siger, ganske kort tid oplever to ministre, der åbenbart ikke har fattet, hvilken lovgivning vi
+har her i landet, og især hvilket signal man sender. Jeg vil da også
+sige, at jeg tror, der er mange derude, der ville sige: Hvis to velløn-";Karsten Hønge
+94329;title_name;":
+Hr. Karsten Hønge.";Holger K. Nielsen
+94359;Time;;Kl. 15:13
+94379;name_party;":
+Jo, men viser det ikke meget godt – i den her sag og en række andre
+sager – at borgerlige politikere flytter sig, når de bliver afsløret? Det
+interessante er jo ikke, hvad de her ministre gør den dag, de er blevet
+afsløret – da har de pludselig gode forklaringer, og da kan man ikke
+se ryggen for bare skosåler, mens de løber væk fra ansvaret. For de
+kunne have gjort det i tide. De kunne i tide have sørget for at leve op
+til det og sørget for, at det, når man får lavet nogle ting om på sin
+egen bolig, selvfølgelig skal foregå i respekt for den måde, vi har
+strikket det danske arbejdsmarked sammen på, og i respekt for den
+udfordring, som vi står over for som samfund, nemlig det, at udenlandske virksomheder og medarbejdere tilbyder sig under så unfair
+vilkår, at de skubber danske bygningsarbejdere og seriøse danske firmaer ud af markedet.
+De flytter sig, i det øjeblik de er afsløret. Jeg synes jo, det er interessant, hvad det er for et signal, man sender, når man i regeringen
+inden for kort tid har to ministre, der alligevel på trods af det åbenbart ikke er orienteret. Så der er to muligheder: enten at de simpelt
+hen ønsker at spare pengene, ønsker at komme let over der, hvor
+gærdet er lavest, eller at de simpelt hen mener – og det må vi jo så
+tage på os, hvis det er det, de og ministeren mener – at vores kampagner ikke har været gode nok. Så er det da muligt, at vi skal iværksætte yderligere kampagner, når det virkelig er to forholdsvis oplyste
+mennesker, der her øjensynlig ikke er i stand til det før den dag, de
+er afsløret.";Karsten Hønge
+95939;Time;;Kl. 15:14
+95979;title_name;":
+Ministeren.";Holger K. Nielsen
+96002;Time;;Kl. 15:14
+96045;title_name;":
+Jeg synes, hr. Karsten Hønge skulle tage at prøve at påvise, hvor det
+er, reglerne skulle være brudt.";Inger Støjberg
+96158;Time;;Kl. 15:14
+96198;title_name;":
+Tak for det. Spørgsmålet er afsluttet.
+
+Onsdag den 11. maj 2011 (FM )
+
+Det betyder, at spørgetiden også er afsluttet.";Holger K. Nielsen
+96329;Time;Meddelelser fra formanden;Kl. 15:15
+96395;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, torsdag den 12. maj
+2011, kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+:
+Mødet er hævet. (Kl. 15:15).
+
+17";Holger K. Nielsen

@@ -1,0 +1,2740 @@
+split;reason;text;value
+0;;"Onsdag den 22. januar 2014 (D)
+
+43. møde";
+77;Time;"Dagsorden
+1) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til økonomi- og indenrigsministeren af:
+Torsten Schack Pedersen (V)
+Føler ministeren sig bundet af en vedtagelse, som et flertal i Folketinget står bag, og hvilke initiativer agter ministeren i så fald at komme med for at øge konkurrenceudsættelsen af offentlige opgaver?
+(Spm. nr. S 786. Medspørger: Morten Marinus (DF)).
+2) Til økonomi- og indenrigsministeren af:
+Mike Legarth (KF)
+Mener ministeren, at det har gavnet folketingsflertallets ønske om en
+øget konkurrenceudsættelse af offentlige opgaver, at regeringen har
+fjernet kommunernes pligt til at have en udbudsstrategi og ikke længere laver aftaler med KL om et mål for den samlede konkurrenceudsættelse?
+(Spm. nr. S 789. Medspørger: Jacob Jensen (V)).
+3) Til økonomi- og indenrigsministeren af:
+Jakob Engel-Schmidt (V)
+Hvilken ambition har regeringen for andelen af offentlige opgaver,
+der skal konkurrenceudsættes, og hvordan har ministeren tænkt sig
+at nå den ambition?
+(Spm. nr. S 790. Medspørger: Torsten Schack Pedersen (V)).
+4) Til økonomi- og indenrigsministeren af:
+Jacob Jensen (V)
+Vil ministeren på baggrund af vedtagelsen i forespørgselsdebatten i
+Folketinget den 15. januar 2013 (F10), hvor der bl.a. står, at »Kommuner og regioner må i videst muligt omfang selv have frihed til og
+bære ansvaret for, at opgaverne løses bedst og billigst – herunder
+gennem øget brug af konkurrenceudsættelse…«, oplyse, om hun finder det tilfredsstillende, at konkurrenceudsættelsen i kommunerne
+blot er steget med 0,4 procentpoint fra 2011 til 2012 (som den sidst
+kendte udvikling)?
+(Spm. nr. S 792. Medspørger: Morten Marinus (DF)).
+5) Til økonomi- og indenrigsministeren af:
+Jacob Jensen (V)
+Hvilke barrierer ser ministeren som de væsentligste for at få øget andelen af offentlige opgaver, der konkurrenceudsættes?
+(Spm. nr. S 793. Medspørger: Jakob Engel-Schmidt (V)).
+
+1
+
+6) Til social-, børne- og integrationsministeren af:
+Karina Adsbøl (DF)
+Vil ministeren redegøre for, hvorfor ministeren mener, at hun ikke
+vil sende Task Force og Ankestyrelsen af sted til de kommuner, der
+har fejl i deres børnesager, for f.eks. at få undersøgt kommunernes
+håndtering af børnesagerne, når den tidligere socialminister har gjort
+det bl.a. med Esbjerg Kommune?
+(Spm. nr. S 783, skr. begr.).
+7) Til social-, børne- og integrationsministeren af:
+Karina Adsbøl (DF)
+Vil ministeren – set i lyset af at ministeren på samrådet den 14. januar 2014 har anerkendt, at der sker fejl, og at nogle børn også bliver
+anbragt, selv om de ikke skulle være blevet anbragt – redegøre for,
+hvad ministeren vil gøre ved det?
+(Spm. nr. S 784, skr. begr.).
+8) Til undervisningsministeren af:
+Marie Krarup (DF)
+Vil ministeren igangsætte en systematisk evaluering af gymnasiereformen for at fastslå, hvad konsekvensen har været for studenternes
+faglige niveau, og om det faglige niveau bør være højere, sådan som
+Produktivitetskommissionen har anbefalet i sin rapport om uddannelsessystemet (analyserapport 4)?
+(Spm. nr. S 787).
+9) Til forsvarsministeren af:
+Marie Krarup (DF)
+Mener ministeren ikke, at danske sikkerhedsinteresser og danske arbejdspladser er vigtigere end EU`s konkurrenceregler, og vil ministeren ikke sørge for, at dansk sikkerhed og danske arbejdspladser
+prioriteres højest på ministerens område?
+(Spm. nr. S 674. Medspørger: Pia Adelsteen (DF)).
+10) Til erhvervs- og vækstministeren af:
+Flemming Damgaard Larsen (V)
+Vil ministeren tage initiativ til, at der indføres særlige forsikringsregler for dækning af indbo ved stormflod, så de ramte borgere ydes
+fuld dækning af mistet indbo og ikke selv skal betale en selvrisiko på
+10 pct. af løsøre og indbo og den udbetalte forsikringssum svarer til
+omkostningerne ved generhvervelse af indboet, så borgerne ikke
+rammes økonomisk af, at værdien af indboet af- og nedskrives?
+(Spm. nr. S 785).
+11) Til erhvervs- og vækstministeren af:
+Flemming Damgaard Larsen (V)
+Vil ministeren undersøge og eventuelt revidere de barrierer i lovgivningen for optagelse af realkreditlån, som gør det svært eller helt
+umuligt for borgere at optage lån til køb, fornyelse, udbygning og
+istandsættelse af boligen og erhvervsbygninger på de danske småøer
+og i landdistrikterne, så man med lovgivningen ikke modarbejder
+vækst og udvikling i yderområderne?
+(Spm. nr. S 788).
+
+2
+
+Onsdag den 22. januar 2014 (FM )
+
+12) Til fødevareministeren af:
+Erling Bonnesen (V)
+Er ministeren enig med statsministeren i, at landbruget er et presset
+erhverv, og at reguleringen samlet skal give erhvervsøkonomiske gevinster, og hvordan vil ministeren i bekræftende fald i praksis gennemføre det?
+(Spm. nr. S 781. Medspørger: Anni Matthiesen (V)).
+
+Det eneste punkt på dagsordenen er:
+1) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";kl. 13.00
+4866;Time;;Kl. 13:00
+4903;title_name;":
+Det første spørgsmål er til økonomi- og indenrigsministeren af hr.
+Torsten Schack Pedersen.";Camilla Hersom
+5006;Time;"13) Til fødevareministeren af:
+Erling Bonnesen (V)
+Hvilke initiativer vil ministeren og regeringen tage, bl.a. som følge
+af slagterilukningerne, ud over den fremlagte vækstplan til styrkelse
+af landbrugets rammevilkår og konkurrenceevne?
+(Spm. nr. S 782. Medspørger: Anni Matthiesen (V)).
+14) Til fødevareministeren af:
+Anni Matthiesen (V)
+Mener ministeren, at øget statstilskud til økologiske landmænd er
+den rette vej at gå for at sikre danske økologiske fødevarer, og er der
+en øvre grænse for, hvor meget staten skal sikre økologien økonomisk?
+(Spm. nr. S 791. Medspørger: Erling Bonnesen (V)).
+15) Til fødevareministeren af:
+Anni Matthiesen (V)
+Mener ministeren, at man kan øge den økologiske fødevareproduktion uden at reducere den samlede danske fødevareproduktion, og i givet fald hvordan?
+(Spm. nr. S 794. Medspørger: Erling Bonnesen (V)).
+
+Spm. nr. S 786
+1) Til økonomi- og indenrigsministeren af:
+Torsten Schack Pedersen (V) (medspørger: Morten Marinus
+(DF)):
+Føler ministeren sig bundet af en vedtagelse, som et flertal i Folketinget står bag, og hvilke initiativer agter ministeren i så fald at komme med for at øge konkurrenceudsættelsen af offentlige opgaver?";Kl. 13:00
+6218;title_name;":
+Værsgo for oplæsning af spørgsmålet.";Camilla Hersom
+6266;Time;;Kl. 13:00
+6295;name_party;":
+Tak for det. Spørgsmålet lyder:
+Føler ministeren sig bundet af en vedtagelse, som et flertal i Folketinget står bag, og hvilke initiativer agter ministeren i så fald at
+komme med for at øge konkurrenceudsættelsen af offentlige opgaver?";Torsten Schack Pedersen
+6542;Time;;Kl. 13:01
+6579;title_name;":
+Ministeren.";Camilla Hersom
+6602;Time;;Kl. 13:01
+6613;Time;Meddelelser fra formanden;Kl. 13:00
+6676;title_name;":
+Mødet er startet.
+I dag er der følgende anmeldelser:
+Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Lovforslag nr. L 117 (Forslag til lov om ændring af repatrieringsloven. (Indførelse af permanent ordning med forhøjet etableringshjælp
+og supplerende reintegrationsbistand, ændret fordeling af udbetaling
+af etableringshjælp m.v.)).
+Kristian Pihl Lorentzen (V), Kim Christiansen (DF), Villum Christensen (LA) og Tom Behnke (KF):
+Beslutningsforslag nr. B 39 (Forslag til folketingsbeslutning om kørekort til lille knallert for 15-årige).";Camilla Hersom
+7284;title_name;":
+Til første del af spørgsmålet et klart ja. Regeringen føler sig i sagens
+natur bundet af Folketingets vedtagelse. Regeringspartierne stemte
+alle tre for. Det eneste parti, som ikke stemte for, var Enhedslisten.
+Det, som vedtagelsen rummer, er jo en opfordring til at fremme udbud, først og fremmest at undersøge, om der er barrierer for, at kommuner kan bruge udbud i deres varetagelse af de opgaver, som er
+kommunernes opgaver.
+I forsommeren lavede vi en kort redegørelse til Folketinget om de
+første undersøgelser, der er lavet, ligesom der også blev fulgt op i
+forbindelse med kommuneaftalerne, hvor der er lavet aftaler om at
+fremme udbud af forskellige opgaver.
+Derudover ser vi i øjeblikket på mulighederne for at lave en ny
+udbudslov. Der er kommet et revideret udbudsdirektiv, men vi har
+faktisk aldrig haft sådan en egentlig dansk udbudslov, og derfor har
+vi bedt superskarpe folk om at se på, hvordan vi kan få en dansk udbudslov, som gør det enklere, mere tilgængeligt, men jo i virkeligheden også mere fleksibelt i forhold til de forskellige typer af opgaver,
+der er, f.eks. i en kommune, at bruge udbud til at udsætte opgaverne
+for konkurrence og dermed få den bedste pris og den bedste udførelse.";Margrethe Vestager
+8506;Time;"Titler på de anmeldte sager vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Kl. 13:02
+8626;title_name;":
+Hr. Torsten Schack Pedersen.";Camilla Hersom
+8666;Time;;Kl. 13:02
+8695;name_party;":
+Tak for svaret. Det overrasker mig heldigvis ikke, at regeringen føler
+sig bundet af de vedtagelser, der besluttes i Folketinget, men det er
+jo rart lige at få det på plads. Når man ser de tal, der er kommet efter
+vedtagelsen, ser man, at det stort set er status quo i forhold til kommunernes konkurrenceudsættelse af opgaver. Den ændring, der er
+
+Onsdag den 22. januar 2014 (S 789)
+
+3
+
+kommet, er temmelig beskeden. I vedtagelsen, som det drejer sig
+om, slås det fast, at der skal være en øget brug af konkurrenceudsættelse, og nu har vi tallene, der kom efter vedtagelsen, der stort set viser status quo eller en meget beskeden udvikling, og det vil jeg gerne
+høre ministerens holdning til. Vi har ikke de endelige tal for 2013
+endnu, men jeg kunne godt tænke mig at vide, hvad ministeren vil
+mene en tilfredsstillende udvikling vil være. Er status quo tilfredsstillende? Hvor meget skal stigningen være på? I fald der er tale om
+status quo, vil det så få ministeren til at overveje yderligere initiativer på området?
+
+bruge udbudsmetoden i stedet for meget skingert at slå sig op på, at
+nu skal alting privatiseres eller udliciteres.
+Det vil jeg meget gerne kvittere for, for jeg tror, at vi får en helt
+anderledes diskussion med kommunerne om, hvordan vi kan fremme
+brugen af udbud, når man har den pragmatiske, men også meget løsningsorienterede tilgang. Og det tror jeg vil være fremmende for den
+videre debat, for jeg synes, det er vigtigt, at vi har en videre debat
+apropos det, at der er så stor forskel på, hvor meget og jo nærmest
+hvor lidt nogle kommuner bruger udbud for at teste, om de får den
+bedste service til den billigste pris.";Torsten Schack Pedersen
+10355;Time;;Kl. 13:03
+10366;Time;;Kl. 13:06
+10403;title_name;":
+Ministeren.";Camilla Hersom
+10453;title_name;":
+Hr. Torsten Schack Pedersen.";Camilla Hersom
+10493;Time;;Kl. 13:03
+10504;Time;;Kl. 13:06
+10558;title_name;":
+Jeg har også set tallene, og de seneste tal, vi har, er nu ved at være
+relativt gamle. De viste, og det er jeg helt enig i, en meget beskeden
+stigning fra 25,0 pct. konkurrenceudsættelse til 25,4 pct., tror jeg det
+var. Så kan teknikere gå ned i substansen og se, om der er noget med
+opgørelsesmetoder og sådan noget, som også har været på spil, men
+det er under alle omstændigheder en begrænset stigning. Det, som er
+tankevækkende, er, at den dækker over en meget stor forskel kommunerne imellem på, hvor meget man så udsætter for konkurrence,
+altså hvor meget man bruger udbud. Jeg tror, forskellen er omkring
+20 procentpoint. Dem, der udsætter mindst for konkurrence, ligger
+under 20 pct., mens dem, der udsætter mest, ligger på omkring 40
+pct. Dermed også sagt, at det er tydeligt, at der er forskel på, hvordan kommunerne skal arbejde med det her spørgsmål – i hvert fald
+sådan som jeg ser det. Noget af det håber jeg også vi kan gøre ved at
+opfordre og diskutere det her spørgsmål med de nyvalgte kommunalpolitikere. Venstre er et stort kommunalpolitisk parti, og jeg håber også, at Venstre også ad den vej vil gøre sin indflydelse gældende for at sikre, at flere ting bliver sendt i udbud.";Margrethe Vestager
+11785;name_party;":
+Men for at vide, om vi får mest muligt for pengene; for at vide, om
+ydelserne, den service, borgerne bliver tilbudt, så bliver leveret på
+den mest effektive måde, den mest servicemindede måde, ja, så er
+det jo vigtigt, at man får konkurrenceudsat det. Om det så fører til en
+udlicitering eller ej, må så være næste skridt. Men inden man kan vide, om det er en god idé eller ej, er man nødt til at teste det. Der er
+det bare afgørende for mig at vide, om ministeren er klar til at tage
+yderligere initiativer for at sikre, at vi ser det i mere øget omfang end
+i dag.";Torsten Schack Pedersen
+12363;Time;;Kl. 13:04
+12400;title_name;":
+Torsten Schack Pedersen.";Camilla Hersom
+12436;Time;;Kl. 13:04
+12465;name_party;":
+Tak for svaret. Jeg synes jo, at det, der skinner tydeligt igennem ministerens svar, er, at det altså er en ambition, og at det er et gode at
+øge konkurrenceudsættelsen i kommunerne, altså at flere opgaver
+bliver testet af. Man spørger, hvad man kan få leveret en given ydelse til. Kan den laves på en smartere måde, en mere moderne måde?
+Jeg synes, at det, der står tilbage, er, at ministeren har en klar ambition, som vi deler i Venstre, nemlig at vi skal øge andelen af opgaver,
+der konkurrenceudsættes. Der er der så bare noget – det vender jeg
+tilbage til i den næste runde.";Torsten Schack Pedersen
+13056;Time;;Kl. 13:05
+13067;Time;;Kl. 13:07
+13104;title_name;":
+Ministeren.";Camilla Hersom
+13127;Time;;Kl. 13:07
+13181;title_name;":
+Vi vil meget gerne diskutere, hvad der mere kan gøres. Nu ved jeg
+godt, at vi har talt om den nye udbudslov mange gange. Den skal lige laves færdig. Den vil blive fremsat, håber jeg meget, i næste folketingssamling. Når jeg nævner den, er det bl.a., fordi jeg af og til
+møder folk, som arbejder med udbud, og som siger, at den nuværende måde at gøre det på er så kompleks, at de tror, at de laver fejl hele
+tiden. Det er jo i sig selv apropos den vedtagelse, som vi har tilfælles, en barriere for, at man går ind og siger: Sådan! Det her er et godt
+redskab. Det kan vi bruge til at teste af, om vi i virkeligheden tjener
+skatteydernes og borgernes interesser på den bedst mulige måde.
+Så jo, vi er meget klar til at diskutere også flere initiativer. Vi
+skal også bare sørge for, at de ting, som solidt er sat i søen, hele vejen bliver fulgt til dørs.";Margrethe Vestager
+14043;Time;;Kl. 13:08
+14080;title_name;":
+Tak for det.
+Så går vi videre til spørgsmål 2. Det er også til økonomi- og indenrigsministeren, og det er stillet af Mike Legarth med medspørger
+Jacob Jensen.";Camilla Hersom
+14250;Time;;Kl. 13:08
+14287;title_name;":
+Ministeren.";Camilla Hersom
+14310;Time;;Kl. 13:05
+14364;title_name;":
+Noget af det, som jeg sætter meget stor pris på, når vi har de her diskussioner, er, at fra at have haft en sådan måske mere ideologisk tilgang til det, så synes jeg egentlig, at både spørgeren og spørgerens
+parti og vi har en mere sådan pragmatisk det skal virke-tilgang. Kan
+man få noget på en bedre måde? Kan man få det på en billigere måde? Jamen et af de gode redskaber til at få testet det af er netop at
+
+Spm. nr. S 789
+2) Til økonomi- og indenrigsministeren af:
+Mike Legarth (KF) (medspørger: Jacob Jensen (V)):
+Mener ministeren, at det har gavnet folketingsflertallets ønske om en
+øget konkurrenceudsættelse af offentlige opgaver, at regeringen har
+fjernet kommunernes pligt til at have en udbudsstrategi og ikke længere laver aftaler med KL om et mål for den samlede konkurrenceudsættelse?";Margrethe Vestager
+15201;title_name;":
+Først er det hr. Mike Legarth for oplæsning af spørgsmålet.
+
+4
+
+Onsdag den 22. januar 2014 (S 789)";Camilla Hersom
+15313;Time;;Kl. 13:08
+15332;name_party;":
+Som ministeren ved, drøftede vi jo det her i forbindelse med en forespørgsel – det var faktisk sidste år – hvor et bredt flertal i Folketinget blev enige om at sørge for, at vi ville få en øget konkurrenceudsættelse, og i den anledning vil jeg så gerne spørge ministeren: Synes ministeren, at det faktum, at regeringen har fjernet pligten for
+kommunerne til at have et bestemt mål om, hvor mange af de offentlige opgaver man vil udbyde i konkurrence med det private erhvervsliv, og at KL heller ikke længere laver faste aftaler om konkurrenceudsættelse, har fremmet konkurrenceudsættelsen?";Mike Legarth
+15933;Time;"det havde vist endda, så vidt jeg kan huske, opsættende virkning –
+og det vil sige, at man stod i en meget usikker situation med sit udbud. Derfor har vi lavet en ændring af klagereglerne i forhold til udbud, sådan at det er enklere, og sådan at det langt hurtigere kan afgøres, om der bliver klaget over den måde, som udbuddet er foregået
+på. Og det er jo sådan en meget konkret måde at gå til det på og sige:
+Vi forsøger at fjerne den barriere, som klagesystemet var blevet i
+forhold til at bruge udbud. Næste fase er så at gøre det enklere overhovedet at udbyde – apropos diskussionerne om en ny udbudslov.";Kl. 13:09
+16554;Time;;Kl. 13:11
+16591;title_name;":
+Hr. Mike Legarth.";Camilla Hersom
+16620;Time;;Kl. 13:11
+16657;title_name;":
+Ministeren.";Camilla Hersom
+16680;Time;;Kl. 13:09
+16734;title_name;":
+[Lydudfald] det er en diskussion, som vi har haft før, og jeg tror også, at dem, der har haft stunder til at søge på Folketingets web, vil
+vide, at vi ser forskelligt på det. Den daværende regering havde en
+procentsats for, hvor meget der i gennemsnit skulle konkurrenceudsættes; den fjernede vi, da vi kom til og fik regeringsansvaret – det
+er ud fra en forståelse af, at det sådan set ikke er for at opfylde et
+procentkrav at man skal bruge udbud og konkurrenceudsætte, men
+det er, fordi det giver en billigere og/eller en bedre løsning af opgaverne. Det ser vi forskelligt på; det tror jeg er konstateret flere gange.
+Noget af det, som jeg synes er meget interessant, er jo, hvordan
+kommunerne bruger redskabet. Nu har både spørgerens og mit parti
+jo det tilfælles, at de har relativt få borgmestre – De Konservative
+har dog langt flere, end Det Radikale Venstre har – men noget af det,
+som er karakteristisk, når vi så ser på de store borgmesterpartier, er,
+at der stort set ikke er forskel på, om det er en socialdemokratisk
+borgmester, eller om det er en Venstreborgmester, når vi ser på
+mængden af udbud. Det kalder – i hvert fald i mit hoved – på en
+pragmatisk tilgang til det, altså en ikkepartipolitisk tilgang til det,
+men at vi også arbejder sammen politisk, landspolitisk og lokalpolitisk på i højere grad at bruge redskabet udbud til at få testet, om vi
+gør det godt nok for skatteydere, også når de er borgere.";Margrethe Vestager
+18171;Time;;Kl. 13:10
+18208;title_name;":
+Hr. Mike Legarth.";Camilla Hersom
+18246;name_party;":
+Er ministeren enig i, at det er nødvendigt, at kommunerne konkurrenceudsætter mest muligt, simpelt hen for at få den bedste kvalitet
+til den laveste pris? Der er i dag i Berlingske Tidende offentliggjort
+en meningsmåling blandt borgerne, i Epinion, som viser, at 75 pct.
+af borgerne mener, at det er vigtigt med et øget forbedret samarbejde
+mellem det offentlige og det private, netop for at få en bedre kvalitet
+til billigere penge. Sidst, man lavede den opgørelse, var i 2011; da
+var det 66 pct., der syntes, det var en god idé. Så der er altså også et
+flertal i befolkningen, der støtter det brede flertal i Folketinget. Er
+ministeren også enig i det synspunkt?";Mike Legarth
+18922;Time;;Kl. 13:12
+18959;title_name;":
+Ministeren.";Camilla Hersom
+18982;Time;;Kl. 13:12
+19036;title_name;":
+Ja, men det bliver jo en flagdag – altså, en regering og et Folketing,
+som er i fuldstændig sync med befolkningen! Det synes jeg næsten
+må fejres; jeg er sikker på, at vi kan tage en kop kaffe på det bagefter. Jeg tror, det afspejler, at vi har skiftet fra at have en ideologisk
+diskussion om udbud/udlicitering/privatisering til at få en diskussion
+om: Hvordan kan tingene løses bedre? Jeg tror også, det er blevet
+meget tydeligt, at der ligger en række fordele for private virksomheder i at få lov til at byde, i at få lov til at løse opgaver, som gør, at de
+kan vokse, skabe private arbejdspladser, og måske endda få mulighed for også at eksportere serviceløsninger, som man leverer op imod den danske offentlige sektor.";Margrethe Vestager
+19771;Time;;Kl. 13:13
+19782;Time;;Kl. 13:10
+19801;name_party;":
+Tak for svaret. Men er ministeren overbevist om, at man har gjort
+det, der skal til, for nu at gøre det lettere for kommunerne at konkurrenceudsætte? Har ministeren taget nogen initiativer for at gøre det
+lettere og bedre for kommunerne at gøre det, eller har ministeren på
+den anden side stødt på nogen barrierer og forhindringer, der gør, at
+det er svært at gøre det, som et bredt flertal i Folketinget er blevet
+enige om, nemlig at konkurrenceudsætte mere?";Mike Legarth
+20272;Time;;Kl. 13:10
+20309;title_name;":
+Ministeren.";Camilla Hersom
+20332;Time;;Kl. 13:10
+20386;title_name;":
+Noget af det, som vi meget tidligt stødte på som en barriere, var den
+måde, hvorpå der kunne klages over udbud, for der var en situation,
+hvor man oplevede, at det var meget usikkert, om et udbud kunne
+gennemføres, fordi der kunne klages over stort og småt – noget af";Margrethe Vestager
+20692;title_name;":
+Tak. Så er det medspørgeren, hr. Jacob Jensen.";Camilla Hersom
+20750;Time;;Kl. 13:13
+20768;name_party;":
+Tak for det. I forlængelse af det kan man så sige, at vi jo deler ambitionen, og at vi langt hen ad vejen også deler flere af de initiativer, i
+hvert fald de ideer, der ligger på området. Vi har så bare været kede
+af, at man fra regeringens side har trukket nogle af de ting tilbage,
+hvilket spørgsmålet også specifikt går på, nemlig at der ikke længere
+er pligt til i kommunen at have en udbudsstrategi, og at man ikke
+længere har en overordnet målsætning om, hvad ambitionen så skal
+være. Men de andre initiativer kan jo være udmærkede.
+Problemet er så bare, som vi ser det, og det viser de tal, som der
+også tidligere har været refereret til, at der ikke sker en markant stigning – vi kan vel godt tillade os at sige, at det mere eller mindre er
+en stagnation, vi har på området, alt efter hvordan man gør det op.
+Det er jo der, vi ser udfordringen: de mange initiativer, der er på vej,
+udbudslov osv., som vi også vil kigge varmt på, når den kommer, og
+
+Onsdag den 22. januar 2014 (S 790)
+
+være interesseret i at forhandle om. Pointen er bare, at der ikke er
+sket den positive udvikling, som vi gerne havde set var sket, og det
+er derfor, vi kerer os om det og spørger, om der er mere vi kan gøre i
+fællesskab. Hvad ser ministeren af muligheder?";Jacob Jensen
+22030;Time;;Kl. 13:14
+22067;title_name;":
+Ministeren.";Camilla Hersom
+22090;Time;;Kl. 13:14
+22144;title_name;":
+Jeg har bare lige en bemærkning om det der med stagnation. Når
+man ser på, om det så var mere effektivt, dengang kommunerne var
+forpligtet til at lave et stykke papir, der hed udbudsstrategi, og kommunerne som helhed var forpligtet til at nå en given procentsats, vil
+jeg medgive, at der fra 2007 til 2008 skete en vis ændring, nemlig
+fra 22,6 til 24,0; men at der fra 2008 til 2009 skete en ændring fra
+24,0 til 24,1 – det må så også være nærmest stagnation; at der fra
+2009 til 2010 skete en ændring fra 24,1 til 24,9, og at der fra 2010 til
+2011, altså hvor Venstre og Konservative stadig væk havde regeringsansvaret, skete en stigning fra 24,9 til 25,0. Dermed bare helt
+enkelt sagt, at det ikke virker, som om det at sige til kommunerne: I
+skal lave et stykke papir, der hedder udbudsstrategi, eller I skal opnå
+den her bestemte udbudsprocent, er det, der for alvor har fået det til
+at rykke. Det synes jeg et eller andet sted skal med i diskussionen.
+Hvordan finder vi de redskaber, som gør det lettere tilgængeligt,
+mere åbenlyst, nemmere at have med at gøre at bruge udbud til at få
+testet, om den måde, man leverer service på til borgerne, er den bedste måde og den billigste måde, fordi de jo er skatteydere på samme
+tid? Med det som udgangspunkt tror jeg sådan set godt, at vi tage
+diskussionen om, om der er nogle ting, vi mangler, om der er noget,
+vi skal drive videre på i forhold til klage over udbud, i forhold til ny
+udbudslov og i forhold til de ting, vi gør, for at gøre det enklere at gå
+ind i et udbud.
+
+30 pct. og i mellemlaget, og så ligger de fleste på omkring det gennemsnitlige.
+Det, jeg synes der er tankevækkende, og det, der kalder på en anden tilgang, er, at kommuner bruger konkurrenceudsættelse ved udbud meget forskelligt, på mange forskellige niveauer. Der er ikke
+nogen borgmesterfarveforskel på, om man bruger det lidt eller meget. Og derfor kunne jeg godt ønske mig, at vi gik et skridt dybere i
+analysen af, hvad det så er, der skal til, hvis det ikke er borgmesterfarven og det ikke er det, at man skal lave en udbudsstrategi, og det
+ikke er det, at der er et udbudsmål, altså at vi spurgte: Hvad er det så
+for nogle andre ting?
+Jeg tror sådan set, at Kommunaludvalget og jeg i fællesskab godt
+kunne komme tættere på, hvad det så er for noget, for vi har jo forsøgt at gøre det enklere, også at lave innovative samarbejder uden
+dermed at forhindre en virksomhed i at deltage i et udbud, ved nogen
+af de skabeloner, som vi bl.a. har lagt på nettet.";Margrethe Vestager
+24642;Time;;Kl. 13:17
+24679;title_name;":
+Tak. Så er det hr. Mike Legarth.";Camilla Hersom
+24723;Time;;Kl. 13:17
+24742;name_party;":
+Jeg vil blive i det spor, hr. Jacob Jensen sluttede i. Når nu vi er enige
+om, at det er en god idé med konkurrenceudsættelse, og at vi skal
+sørge for at få mest muligt ud af de penge, vi bruger, vil ministeren
+så give et løfte om – nu refererede ministeren til, hvordan det er gået
+år for år – at næste gang vi får nøgletal, og hvis det viser sig, at de er
+faldet i forhold til de tal, vi kender, så indfører vi igen en forpligtelse
+til at konkurrenceudbyde et bestemt antal opgaver i kommunerne,
+også gerne i regionerne, for på den måde at sikre, at der bliver taget
+initiativer, og at vi skærper opmærksomheden, i forhold til at det her
+er en vigtig dagsorden, ikke bare for Folketinget, men også for kommuner, regioner og stat?";Mike Legarth
+25485;Time;;Kl. 13:16
+25522;title_name;":
+Hr. Jacob Jensen.
+
+5";Camilla Hersom
+25555;Time;;Kl. 13:18
+25592;title_name;":
+Tak. Ministeren.";Camilla Hersom
+25620;Time;;Kl. 13:16
+25638;name_party;":
+Jeg har selvfølgelig også kigget på de tal, og det er jo sådan set relevant nok, anerkender jeg, at se på, hvordan udviklingen har været.
+Det er rigtigt, at der har været perioder, hvor det er gået fremad, og
+at der så har været tidspunkter, hvor det er stagneret. Jeg anerkender
+også, at der er en meget, meget stor forskel. Så måske er det ret beset
+der, vi bør tage fat og se på de kæmpe forskelle, der er fra kommune
+fra kommune, hvilket ministeren også nævnte i et tidligere svar.
+Derfor tror jeg, at man sådan set kunne nuancere det ved at sige:
+Jamen skulle vi så ikke på en eller anden måde stille nogle ekstra
+krav til eller hjælpe ekstra i de kommuner, hvor man kan se, der er
+en udfordring, og så måske lade være med at gøre det i de kommuner, hvor det i forvejen kører stille og roligt med over eller tæt på 40
+pct., altså simpelt hen i langt højere grad nuancere den indsats, vi
+gør, så vi ikke kommer med standardsvar herfra.";Jacob Jensen
+26589;Time;;Kl. 13:16
+26600;Time;;Kl. 13:18
+26654;title_name;":
+Nej, det vil jeg på ingen måde give et løfte om, for der vil ikke være
+nogen åbenlys årsagssammenhæng mellem det, at der er en smule
+mindre udbud – hvis det måtte vise sig at være tilfældet – og det, at
+der ikke er et udbudsmål som et gennemsnitligt mål for kommuner
+og regioner.
+Det, vi vil gøre, er under alle omstændigheder at, om man så må
+sige, holde snuden i sporet i forhold til det, som forslaget til vedtagelse afspejler, nemlig at blive ved med at se på: Er der barrierer?
+Og hvis der er barrierer: Hvordan kan vi så tage dem væk? Og så
+skal vi blive ved med at drøfte med kommunerne: Hvad er det, der
+skal til for at komme længere ad den her vej?
+Så vidt jeg husker – jeg kan huske galt – er KL også meget optaget af netop at se på: Hvordan kan kommuner lære af hinanden, udveksle erfaringer? For der er jo som sagt meget, meget stor forskel
+på, hvad én kommune konkurrenceudsætter i forhold til en anden.";Margrethe Vestager
+27582;Time;;Kl. 13:19
+27619;title_name;":
+Ministeren.";Camilla Hersom
+27642;Time;;Kl. 13:16
+27696;title_name;":
+Nu er der meget, meget få, der kører på eller tæt på 40 pct., vist faktisk nærmest kun en enkelt kommune, så er der nogle, som ligger på";Margrethe Vestager
+27871;title_name;":
+Tak for det.
+Så er vi nået til spørgsmål 3, og det er også til økonomi- og indenrigsministeren, denne gang af hr. Jakob Engel-Schmidt med hr.
+Torsten Schack Pedersen som medspørger.";Camilla Hersom
+28064;Time;"6
+
+Onsdag den 22. januar 2014 (S 790)
+
+Spm. nr. S 790
+3) Til økonomi- og indenrigsministeren af:
+Jakob Engel-Schmidt (V) (medspørger: Torsten Schack Pedersen
+(V)):
+Hvilken ambition har regeringen for andelen af offentlige opgaver,
+der skal konkurrenceudsættes, og hvordan har ministeren tænkt sig
+at nå den ambition?";Kl. 13:19
+28419;title_name;":
+Først er det hr. Jakob Engel-Schmidt for oplæsning af spørgsmålet.
+
+let, og hos DI, Dansk Industri, siger man, at man kan regne sig frem
+til, at udbud i gennemsnit giver en omkostningsreduktion for den offentlige indkøber på 15 pct., uden at servicen bliver ringere.
+Kan ministeren nikke nogenlunde genkendende til den opfattelse,
+og kunne ministeren måske prøve at komme lidt nærmere, hvor højt
+ambitionsniveauet er? Jeg er godt klar over, at vi ikke sætter en procentsats på, men mener ministeren ikke i princippet at der ikke er
+nogen grænse for, hvor meget man kan konkurrenceudsætte ude i
+kommunerne, i staten og i regionerne?";Camilla Hersom
+29062;Time;;Kl. 13:22
+29073;Time;"Jakob Engel-Schmidt (V):
+Tak for det, og tak til ministeren for at tage sig tid til det. Jeg synes,
+emnet både er vigtigt og interessant, og jeg glæder mig til at diskutere det med ministeren. Spørgsmålet lyder:
+Hvilken ambition har regeringen for andelen af offentlige opgaver, der skal konkurrenceudsættes, og hvordan har ministeren tænkt
+sig at nå den ambition?";Kl. 13:19
+29449;Time;;Kl. 13:20
+29486;title_name;":
+Ministeren.";Camilla Hersom
+29509;Time;;Kl. 13:20
+29563;title_name;":
+Jeg er meget ked af, hvis det kommer til at lyde som gentagelser. De
+to foregående spørgsmål kredsede om samme emne. Det afspejler ikke en anden holdning til området end den, som spørgeren har, nemlig at det her både er interessant og vigtigt at diskutere og at finde
+konkrete redskaber til, for det synes vi bestemt i regeringen at det er.
+Det, der er vores ambition, er sådan set, at det virker. Altså, får borgerne en bedre service, og får borgerne også en billigere service –
+det håber vi – samtidig med at det bliver bedre? Det er sådan set det
+endemål, som vi er optaget af.
+Der er udbud et helt åbenlyst redskab. Man har så bedre erfaringer med at bruge det i nogle kommuner end i andre, og det er jo derfor, at den vedtagelse, som vi har tilfælles, giver rigtig god mening,
+nemlig at se på, hvilke barrierer der er.
+Det første, vi har gjort for at fjerne barrierer, er at se på den i
+hvert fald oplevede barriere, som klager over udbud var. Det har vi
+lavet om på. Det næste er den oplevede barriere, som består af kompleksiteten i overhovedet at udbyde noget som helst, tærskelværdier
+– kan man lave funktionsudbud? – og at få lavet en udbudslov, som
+gør det muligt. Og det tredje er, at nogle er trådt tilbage fra udbud,
+fordi de siger: Jamen det er i modsætning til det innovative samarbejde, vi gerne vil have med en privat partner.
+Derfor er der lavet forskellige typer af vejledninger og skabeloner, som gør, at man kan se, hvordan man kan lave et innovativt
+samarbejde, samtidig med at den virksomhed, man samarbejder
+med, også kan være med på et efterfølgende udbud. For det er måske
+en lidt mærkelig virksomhed, som gerne vil være med til at få de gode ideer, men som vil overlade det til andre virksomheder at byde på
+at virkeliggøre dem.";Margrethe Vestager
+31331;Time;;Kl. 13:21
+31368;title_name;":
+Hr. Jakob Engel-Schmidt.";Camilla Hersom
+31404;Time;"Jakob Engel-Schmidt (V):
+Tak til ministeren for svaret. Den sidstnævnte problematik er vi naturligvis fuldstændig enige i.
+Jeg har spurgt lidt omkring hos de organisationer, der har medlemmer, der arbejder med det her, for at få en vurdering af potentia-";Kl. 13:21
+31697;title_name;":
+Ministeren.";Camilla Hersom
+31720;Time;;Kl. 13:22
+31774;title_name;":
+Jeg har ikke konkrete tal for, hvor store mulighederne er for at spare,
+men jeg har den grundopfattelse – og det mener jeg også at man kan
+se på en række af de udbud, som har været gennemført – at man kan
+få den samme eller bedre service også til en lavere pris, hvis det er
+gjort rigtigt og ordentligt. Jeg tror også, der findes eksempler på det
+modsatte, altså ting, som ikke er gået, som de skulle, og det er der
+sikkert grunde til.
+Men jeg tror, at hvis man tager det som sådan en overordnet betragtning og får de rigtige redskaber, er der et stort potentiale. Og
+dermed jo også sagt, at jeg tror, at man kan bruge det mere. Jeg er
+bare heller ikke forskrækket over, at noget fortsat vil være i, om man
+så må sige, offentlig produktion, hvis det er den bedste måde at betjene borgerne på.";Margrethe Vestager
+32578;Time;;Kl. 13:23
+32615;title_name;":
+Hr. Jakob Engel-Schmidt.";Camilla Hersom
+32651;Time;"Jakob Engel-Schmidt (V):
+Tak for det. Jamen ministeren og jeg deler holdning. Jeg har ikke en
+religiøs opfattelse af, hvem der skal løse opgaverne; jeg ser derimod
+på, hvem der er bedst og billigst. Derfor er det jo også sådan, at vi
+bestræber os på at deltage i debatten om konkurrenceudsættelse.
+Men hvis vi nu anerkender, at der selvfølgelig sker fejl, men at man i
+gennemsnit kan spare op til 15 pct., og vi ved, at man har opgaver
+for godt og vel 1.000 mia. kr. i stat, kommuner og regioner, så er det
+jo faktisk et anseligt beløb, man kan spare skatteborgerne for.
+Derfor er jeg også nødt til at spørge ministeren, og jeg ved godt,
+at det måske bliver en gentagelse: Kunne vi gøre andet end bare at
+tale debatten op for at rykke på området?";Kl. 13:23
+33409;Time;;Kl. 13:23
+33446;title_name;":
+Ministeren.";Camilla Hersom
+33469;Time;;Kl. 13:23
+33523;title_name;":
+Jeg tror, at ud over de her konkrete ting, som jeg har nævnt – og til
+det skal i øvrigt jo lægges, at vi har ændret på den måde, som man
+skal udbyde på, hvis det kommer til f.eks. praktisk hjælp, sådan at
+det bliver mindre bureaukratisk, altså at man har de samme udbudsregler, for så vidt angår hjemmepleje, som man i øvrigt har, for at
+gøre det enklere for virksomhederne at forholde sig til – kan vi stadig gøre meget i forhold til den konkrete erfaringsudveksling.
+Jeg synes også, at det er relevant for os som partier at tage den
+her diskussion. F.eks. har jeg på lørdag et møde med de nyvalgte radikale rundtomkring i kommunerne, og der vil det være helt oplagt
+diskussion at tage: Hvad vil I gøre for at bruge udbud mere for at le-
+
+Onsdag den 22. januar 2014 (S 790)
+
+vere bedre til de borgere, som I nu har et ledelsesansvar over for, i
+forhold til at sikre, at der faktisk bliver leveret på de her ting?";Margrethe Vestager
+34449;Time;"7
+
+ceudsættelse, mens ministeren siger, der er masser af potentiale i
+konkurrenceudsættelse. Så jeg må forstå, at det ligger ud over de 12
+mia. kr.";Kl. 13:24
+34608;Time;;Kl. 13:27
+34645;title_name;":
+Tak. Så er det medspørgeren, hr. Torsten Schack Pedersen.";Camilla Hersom
+34714;Time;;Kl. 13:24
+34751;title_name;":
+Ministeren.";Camilla Hersom
+34774;Time;;Kl. 13:27
+34803;name_party;":
+Tak for det. Når ministeren ikke rigtig vil konkretisere, hvad et ambitionsniveau er, undrer det mig måske lige lidt, at det ikke kan blive
+gjort lidt tydeligere, for hvis man ser på de ambitioner, som regeringen har i forhold til at modernisere den offentlige sektor – der skal
+effektiviseres, rationaliseres, moderniseres for 12 mia. kr. – i hvor
+høj grad mener ministeren så, at en konkurrenceudsættelse er en del
+af svaret?
+I den aftale, der er lavet mellem regeringen, KL og en række organisationer, er konkurrenceudsættelse ikke nævnt. Det er, hvordan
+man internt i den offentlige sektor kan løse opgaverne anderledes.
+Men der er konkurrenceudsættelse slet ikke nævnt med ét ord. Og så
+bare for at forstå det ambitionsniveau eller mangel på samme, som vi
+kan få ud af ministeren, vil det så sige, at de 12 milliarder, som regeringen taler om i moderniseringen af den offentlige sektor, er foruden konkurrenceudsættelse?";Torsten Schack Pedersen
+35740;Time;;Kl. 13:25
+35794;title_name;":
+Det vil jeg medgive, og jeg vil undskylde, at jeg ikke svarede direkte
+på det. Vi har lavet et partnerskab med KL, Danske Regioner, Organisationen af Offentligt Ansatte, AC og FTF om modernisering og
+tillid i den offentlige sektor og forankret i syv principper, bl.a. et
+princip om, at ledelse skal tage afsæt i ansvar og tillid for opgavens
+konkrete løsning. Der står ikke noget om, at konkurrenceudsættelse
+skal fremmes, men der står heller ikke det modsatte, og det er jo, fordi det at bruge udbud til at udsætte for konkurrence er et redskab, det
+er noget, man kan gøre. Vi gør det redskab så enkelt, så åbent, så inviterende at bruge som overhovedet muligt. Og i forhold til det at effektivisere for 12 mia. kr. for at kunne bruge 12 mia. kr. på anden
+opgaveløsning i den offentlige sektor vil jeg sige, at jeg tror, at digitalisering, reorganisering af arbejdet, men sådan set også udbud kan
+være en del af det, som man kan bruge. Det, der er vigtigt for regeringen, er at frigøre midler fra en opgaveløsning, så de kan anvendes
+i en anden opgaveløsning.";Margrethe Vestager
+36893;title_name;":
+Ministeren.";Camilla Hersom
+36917;Time;;Kl. 13:28
+36927;Time;;Kl. 13:25
+36981;title_name;":
+Det, som måske er en af forskellene på den daværende regering og
+den nuværende, er, at vi forsøger at lade være med at kloge os helt
+utrolig meget på redskabsvalget, men sikre, at det sådan set er tilgængeligt, muligt, måske et eller andet sted også tillokkende, at bruge udbud som en måde at teste på, om man får de bedste løsninger.
+Det er bestemt ikke for at være uambitiøs, men det er faktisk en
+bestræbelse på at vise respekt for, at de nyvalgte kommunalbestyrelser, som vi har, har en ledelsesopgave i deres kommune. Det, der er
+det helt afgørende, er, at de leverer en service til borgerne med en
+kvalitet, som de kan stå inde for, meget gerne med en direkte inddragelse af borgerne, og til en pris, de også vil være bekendt at præsentere skatteyderne for.
+I en lang række sammenhænge tror jeg at udbud er en vej at gå
+for at få testet, om det faktisk finder sted. I andre sammenhænge kan
+der være andre hensyn, som gør sig gældende i den enkelte kommune, som gør, at man ikke vil bruge udbud som testning på det specifikke område. Jeg tror, at det er meget, meget afgørende, at vi får lige præcis det ejerskab i den enkelte kommune til at bruge de forskellige redskaber for at kunne levere til borgerne, i stedet for at vi sidder herinde, hvor vi, uanset hvordan man vender og drejer det, er
+langt fra den kommunale virkelighed.";Margrethe Vestager
+38329;Time;;Kl. 13:27
+38366;title_name;":
+Hr. Torsten Schack Pedersen.";Camilla Hersom
+38406;Time;;Kl. 13:27
+38435;name_party;":
+Det, jeg spurgte om, var i forbindelse med, at regeringen har en moderniseringsstrategi på 12 mia. kr. Men i de strategier og partnerskaber, der allerede er indgået, er ordet konkurrenceudsættelse ikke
+nævnt, og så er det bare væsentligt, når vi prøver at se det her fra et
+helikopterperspektiv, at forstå, at regeringen altså mener, at den kan
+modernisere den offentlige sektor for 12 mia. kr. uden konkurren-";Torsten Schack Pedersen
+38884;title_name;":
+Tak. Så er det hr. Jakob Engel-Schmidt.";Camilla Hersom
+38935;Time;"Jakob Engel-Schmidt (V):
+Ja, man skal jo indrømme, når man begår fejl. Jeg kom fra talerstolen før til at sige, at det samlede potentiale for konkurrenceudsættelse nærmede sig et trecifret milliardbeløb, men Dansk Industri vurderer i 2012, at det er godt og vel 375 mia. kr. Så fik vi rettet det, men
+det er stadig væk et stort potentiale.
+Jeg bed mærke i, at ministeren før sagde, at der kan være særlige
+hensyn i stat, regioner og kommuner, der gør, at man ikke konkurrenceudsætter. Hvis ministeren vil uddybe, hvad hun mener med det,
+vil jeg være rigtig glad.
+Så vil jeg bare sige, at jeg håber, debatten i dag viser, at vi er
+ganske indstillet på at hjælpe i det omfang, ministeren er interesseret
+i at fremsætte initiativer, der kan øge andelen af konkurrenceudsættelser generelt.";Kl. 13:28
+39732;Time;;Kl. 13:29
+39769;title_name;":
+Ministeren.";Camilla Hersom
+39792;Time;;Kl. 13:29
+39846;title_name;":
+Det skal vi ikke, men jeg synes stadig væk, at spørgeren nævnte et
+trecifret milliardbeløb – men det skal ikke skille os ad. Under alle
+omstændigheder er jeg sådan set enig med dem, der vurderer, at der
+er et potentiale i at bruge udbud mere for at få testet af, om man får
+bedst og billigst.
+Der kan f.eks. være hensyn at tage de steder, hvor myndighedsudøvelse og det at levere service spiller meget, meget tæt sammen,
+og hvis en kommune finder, at man bliver nødt til at gøre sig erfaringer med, hvordan man får det afgrænset. For vi synes ikke, at myndighedsudøvelse er noget af det, der, om man så må sige, skal konkurrenceudsættes. Tværtimod synes vi, der er nogle skarpe grænser i
+
+8
+
+Onsdag den 22. januar 2014 (S 792)
+
+det, som en kommune skal i forhold til borgeren. Så jeg mener, at
+der kan være hensyn, som vi ikke skal gøre os til dommer over.
+Når det er sagt, mener jeg som sagt stadig væk, at der er et potentiale. Og når man ser ned over rækken af kommuner og ser på de
+forskelle, der er, synes jeg også, at man kan se, at der er noget at
+komme efter. Og så vil jeg gerne kvittere for tilsagnet. Jeg synes, at
+den debat, vi har haft i dag, lige præcis viser, at man kan drive videre med det, hvis man har en pragmatisk tilgang og er fokuseret på, at
+det, der er målet med det hele, er, at det skal virke bedre for borgerne.";Margrethe Vestager
+41198;Time;;Kl. 13:30
+41235;title_name;":
+Tak for det.
+Så er vi nået til spørgsmål 4. Det er også til økonomi- og indenrigsministeren, denne gang af hr. Jacob Jensen.";Camilla Hersom
+41371;Time;"den måde, man kan lave udbud på på hele området for hjemmehjælp,
+så man bruger de samme udbudsregler der i stedet for nogle specielle udbudsregler, som den daværende regering havde konstrueret.
+Det er jo for at give tre eksempler på, at man kan fjerne barrierer
+og gøre det mere tilgængeligt. Og sidst, men selvfølgelig ikke
+mindst, skal man sørge for, at der er vejledning og skabeloner til rådighed, så alting ikke skal opfindes forfra i den enkelte kommune.
+Jeg tror selv, at selv når vi forhåbentlig har fået lavet en virkelig god
+udbudslov, vil det stadig væk være komplekst, også for nogle af landets mindre kommuner, at få det til at virke på den rigtige måde, og
+at det vil kræve en indsats af folk, som har en specialiseret kompetence i forhold til at gøre det rigtigt – også selv om det bliver enklere.";Kl. 13:30
+42195;Time;;Kl. 13:33
+42232;title_name;":
+Hr. Jacob Jensen.";Camilla Hersom
+42261;Time;"Spm. nr. S 792
+4) Til økonomi- og indenrigsministeren af:
+Jacob Jensen (V) (medspørger: Morten Marinus (DF)):
+Vil ministeren på baggrund af vedtagelsen i forespørgselsdebatten i
+Folketinget den 15. januar 2013 (F10), hvor der bl.a. står, at »Kommuner og regioner må i videst muligt omfang selv have frihed til og
+bære ansvaret for, at opgaverne løses bedst og billigst – herunder
+gennem øget brug af konkurrenceudsættelse…«, oplyse, om hun finder det tilfredsstillende, at konkurrenceudsættelsen i kommunerne
+blot er steget med 0,4 procentpoint fra 2011 til 2012 (som den sidst
+kendte udvikling)?";Kl. 13:33
+42895;title_name;":
+Det er først for oplæsning af spørgsmålet, tak.";Camilla Hersom
+42954;Time;;Kl. 13:31
+42972;name_party;":
+Nu er debatten ikke slut endnu, men vi tager den videre herfra;:
+Vil ministeren på baggrund af vedtagelsen i forespørgselsdebatten i Folketinget den 15. januar 2013, F 10, hvor der bl.a. står, at
+»Kommuner og regioner må i videst muligt omfang selv have frihed
+til og bære ansvaret for, at opgaverne løses bedst og billigst – herunder gennem øget brug af konkurrenceudsættelse…«, oplyse, om hun
+finder det tilfredsstillende, at konkurrenceudsættelsen i kommunerne
+blot er steget med 0,4 procentpoint fra 2011 til 2012?";Jacob Jensen
+43502;Time;;Kl. 13:31
+43539;title_name;":
+Ministeren.";Camilla Hersom
+43562;Time;;Kl. 13:31
+43616;title_name;":
+Jeg tror, at det nyeste ved spørgsmålet er, at det har nr. 4 i stedet for
+nr. 1, 2 eller 3, men lad det nu være.
+Jeg håber sådan set, at vi kan drive på med det – ligesom jeg går
+ud fra, at spørgeren fandt det utilfredsstillende, da det steg med 0,1
+pct., 0,8 pct. og nul komma næsten ingenting, da Venstre og Konservative havde ansvaret – og at der så også i synet på den meget langsomme udvikling i det gennemsnitlige niveau for konkurrenceudsættelse findes en respekt for, at det her er en opgave, som er vanskelig
+for kommuner at have med at gøre, og at vi fra Folketingets side bør
+have et fællesskab om at fjerne de barrierer, der er.
+Det er en af grundene til, at jeg er meget glad for vedtagelsen,
+fordi den jo netop giver en anledning til at gå konkret til værks. Derfor initiativet med at ændre på klage og udbud, så det bliver afklaret,
+om der bliver klaget over det her eller ej, om man kan komme videre
+med arbejdet med at lave en ny udbudslov og med forenklingen af";Margrethe Vestager
+44615;name_party;":
+Tak for det. Nu svarede ministeren i sit tidligere svar til min kollega,
+Jakob Engel-Schmidt, at der kunne være forskellige hensyn. Jeg hører også nu, at ministeren uddyber det lidt i forhold til størrelsen på
+kommunerne. Der kan være forskellige muligheder for, hvordan man
+kan håndtere den her opgave. Men ministeren svarede så tidligere, at
+det f.eks. kunne være, at myndighedsopgaver ikke skulle udbydes.
+Der må jeg så bare lige gøre opmærksom på, at jeg dér antager, at i
+den definition af udbudsegnede opgaver, som jo er det, vi ligesom
+taler om her, ligger myndighedsopgaverne altså uden for. Det kan
+jeg se at ministeren bekræfter. Så har vi ligesom fået det på plads, så
+det ikke er sådan, at en del af forklaringen på, hvorfor der ikke er
+mere, der bliver konkurrenceudsat, skyldes, at der kan være myndighedsopgaver, hvorom vi i fællesskab deler den opfattelse, at de ikke
+skal udbydes. Så er det sagt.
+Så synes jeg, det er relevant lige at gå skridtet videre, for ministeren nævner et par af de initiativer, som ministeren har taget, og siger
+også, at det skal være mere tillokkende at udbyde opgaver, og det er
+jeg sådan set også enig i. Kunne man forestille sig de steder, hvor
+det ikke er tillokkende, eksempelvis, som ministeren siger, at kommunen ikke er stor nok af forskellige grunde til at kunne løfte opgaven yderligere, at man så der gik ind og sagde, at vi jo allerede har
+erfaringer med kommunalt forpligtende samarbejder, hvor mindre
+kommuner på forskellige områder ikke kan løfte opgaven selv. Som
+en del af kommunalreformen siger vi så, at man så der skal gå ind og
+finde en samarbejdspartner hos en anden kommune. Kunne man
+forestille sig noget tilsvarende som et element hos de kommuner,
+som ikke kan løfte opgaven, eksempelvis fordi de er for små til det,
+at man siger til dem: Prøv at høre, venner, vi vil gerne have, at I skal
+gøre det her, men vi kan godt se, det er en udfordring; I skal nu gå
+ind sammen med nogle, som virkelig kan, som har erfaring og som
+har gjort det, og som den vej rundt hjælper jer op på et højere niveau? Det var et element.
+Man kunne også forestille sig, at man siger, at der i hvert fald er
+argumenter, der hedder, at der ikke er et tilgængeligt marked, og at
+man derfor ikke sender det her i udbud. Der kan være områder, hvor
+man kan se, at f.eks. måske 75 pct. af alle kommuner har udbudt den
+her opgave. Kunne man så ikke også dér sige til de resterende 25
+pct. af kommunerne, der ikke har udbudt den her opgave: Jamen der
+er nok et marked tilgængeligt, og derfor skal I nok komme videre
+med det her?";Jacob Jensen
+47191;Time;;Kl. 13:35
+47228;title_name;":
+Ministeren.
+
+Onsdag den 22. januar 2014 (S 793)";Camilla Hersom
+47289;Time;;Kl. 13:35
+47343;title_name;":
+Det synes jeg er en absolut relevant tanke til overvejelse, nemlig: Er
+der en barriere i form af kommunestørrelse, hvor en anden type af
+åbenhed over for fælleskommunale udbud kunne være en del af løsningen? Det vil jeg meget gerne gå tilbage og diskutere med mit embedsværk: Er der nogle barrierer her, som vi ikke har været opmærksomme på? og så naturligvis tage det tilbage og drøfte det med Folketingets partier. Det synes jeg er en åbenlys vej at gå, for noget af
+det, som vi jo har haft en diskussion om, er jo, at der nu er alt for
+mange administrativt ansatte i den enkelte kommune. Det er også
+blevet alt for meget med deres strategier og deres ting og sager, vi
+vil have flere, som arbejder med den nære pleje, børnepasning, omsorg for udsatte og sårbare ældre. Hvis man gerne vil have, at nogle
+er højkompetente og kan lave rigtige, ordentlige udbud, som følger
+retningslinjerne og som er til at gå til, så kan det netop godt være, at
+man har brug for at sige, at dem, der lige præcis sidder med det her,
+sidder i den kommune. Enten vil vi lave et fælles udbud, eller også
+vil vi gerne have lov til at kunne trække på den ekspertise.
+Jeg tror, men det er altså ud fra hukommelsen, at KL forsøger at
+gøre deres for netop at fremme den proces, fordi der er så stor forskel kommunerne imellem, og som det er åbenlyst også i diskussionen i dag, er der nogle kommuner, som er meget, meget langt fremme, og som har erfaringer, sikkert også nogle dårlige, men det er jo
+også en god udveksling at udveksle dårlige erfaringer, så næste kommune ikke begår den samme fejl eller oplever de samme dårlige ting
+som dem, der har været helt fremme i skoene.";Margrethe Vestager
+49007;Time;"9
+
+niveau: Hvorfor er det, at nogle kommuner viger tilbage fra at gøre
+det, som andre kommuner har gode erfaringer med, og hvor der er et
+marked? Den diskussion tror jeg også at vi kunne hjælpe hinanden
+med inden i partierne, fordi vi alle sammen har folkevalgte kolleger i
+kommuner og regioner.";Kl. 13:37
+49314;Time;;Kl. 13:38
+49351;title_name;":
+Hr. Jacob Jensen.";Camilla Hersom
+49380;Time;;Kl. 13:38
+49398;name_party;":
+Det kan jeg sådan set godt forstå, men jeg synes bare stadig væk ikke, at man, selv om der er meget at hente – det deler jeg selvfølgelig
+hr. Jakob Engel-Schmidts, Dansk Industris og ministerens analyse
+af; det er vi enige om – så bare skal lade det være ved det og sige, at
+fordi der er meget at hente, må det jo komme, i citationstegn, af sig
+selv, og at der behøver vi ikke komme med yderligere en gulerod.
+Vi kan notere os forskellene fra kommune til kommune, og det
+samlede billede er det, vi sådan groft sagt kan kalde en stagnation.
+Hvis vi ligesom skal tage et kvantespring, som vi gerne ser, for netop at få den her gevinst hjem, bliver vi nødt til at gøre noget mere.
+Og der tror jeg altså på, at det her incitament kunne være en del af
+guleroden, netop for at komme over den barriere, der hedder: Det er
+for dyrt i vores område, vi har alligevel ikke et marked; ergo viger vi
+tilbage fra at gøre det.";Jacob Jensen
+50321;Time;;Kl. 13:39
+50358;title_name;":
+Ministeren.";Camilla Hersom
+50381;Time;;Kl. 13:39
+50418;title_name;":
+Tak. Hr. Jacob Jensen.";Camilla Hersom
+50452;Time;;Kl. 13:37
+50470;name_party;":
+Jeg har ikke noget imod, at ministeren overskred sin taletid, for jeg
+vil gerne kvittere for svaret og også tage det til mig, fordi jeg synes,
+det er noget, vi skal drøfte videre. Spørgsmålet her går sådan set også meget specifikt på, om det, vi har opnået, så er tilfredsstillende.
+Det tror jeg måske ikke nødvendigvis at jeg kan få ministerens svar
+på, for jeg har også forstået, at ministeren ikke vil have nogle procentsatser, og respekt for det.
+Jeg vil så bare spørge, om man så kunne gå skridtet endnu videre
+– nu sagde ministeren også tidligere, at det skal være mere tillokkende, så vi kan få hævet andelen – og eksempelvis i forbindelse med
+økonomiaftalerne, som jo skal forhandles en gang om året med kommunerne, kunne kigge på, om der er nogle incitamenter, for jeg hører
+nemlig også, at en af barriererne er, at det kan koste penge, at man
+ikke har et marked, at man vælger ikke at gøre det. Kunne man også
+i en økonomiaftale sige, at her lægger vi også et økonomisk incitament ind, sådan at dem, som måske gør noget mere, også kan hente
+en del af gevinsten ad den vej?";Jacob Jensen
+51564;Time;;Kl. 13:37
+51601;title_name;":
+Ministeren.";Camilla Hersom
+51668;title_name;":
+Altså, det kan godt være, det bare er mig, men jeg synes, det er mærkeligt at give folk penge for at gøre noget, der er åbenlyst fornuftigt.
+Så vil jeg hellere gå et spadestik dybere og finde ud af, hvorfor man
+så ikke gør noget, der er åbenlyst fornuftigt, altså om der er grunde,
+som, om jeg så må sige, overtrumfer de åbenlyst fornuftige grunde –
+og skal vi så diskutere de grunde?
+Det kan godt være, at jeg er for tålmodig, men jeg har alligevel
+oplevet nogle gange, at hvis man i stedet for at ty til økonomiske incitamenter eller love og regler giver sig tiden til at få diskuteret i
+bund, hvad det er for nogle barrierer, der gør, at de ikke gør det, som
+andre oplever som positivt, så flytter vi faktisk hinanden mere. Så
+bliver der nemlig et andet ejerskab med hensyn til at sørge for, at det
+her, som kan give borgerne bedre service til en billigere penge og give private virksomheder bedre muligheder, også kan være en relevant løsning, også i nogle af de kommuner, hvor man bruger udbud
+meget lidt.";Margrethe Vestager
+52690;Time;;Kl. 13:40
+52727;title_name;":
+Tak for det.
+Så er vi nået til spørgsmål 5, som er det sidste til økonomi- og
+indenrigsministeren i denne omgang. Det er også stillet af Jacob Jensen, og det er med medspørger Jakob Engel-Schmidt.";Camilla Hersom
+52936;Time;;Kl. 13:38
+52947;Time;;Kl. 13:40
+53001;title_name;":
+Lige præcis det synes jeg så er lidt modsætningsfyldt, fordi hr. Jakob
+Engel-Schmidt var lige på talerstolen og gjorde det meget klart, at
+der er rigtig mange penge, hvis det er gjort på den rigtige måde. Derfor ligefrem at give folk penge for at tjene penge synes jeg er sådan
+lidt sky med sky på. Der vil jeg meget hellere gå den vej at tage diskussionen, også sådan i virkeligheden på det mere grundlæggende
+
+Spm. nr. S 793
+5) Til økonomi- og indenrigsministeren af:
+Jacob Jensen (V) (medspørger: Jakob Engel-Schmidt (V)):
+Hvilke barrierer ser ministeren som de væsentligste for at få øget andelen af offentlige opgaver, der konkurrenceudsættes?";Margrethe Vestager
+53687;title_name;":
+Vi starter med spørgsmålet.
+
+10
+
+Onsdag den 22. januar 2014 (S 793)";Camilla Hersom
+53768;Time;;Kl. 13:40
+53786;name_party;":
+Hvilke barrierer ser ministeren som de væsentligste for at få øget andelen af offentlige opgaver, der konkurrenceudsættes?
+
+udbudt et givent område – nu har vi næsten 100 kommuner, så lad os
+bare sige 75 kommuner – er der altså erfaringer at trække på. Så kære venner, skulle vi ikke hjælpe jer med, at I også kommer ind på det
+her felt, for der er et marked at komme efter.";Jacob Jensen
+54172;Time;;Kl. 13:43
+54183;Time;;Kl. 13:40
+54220;title_name;":
+Ministeren.";Camilla Hersom
+54270;title_name;":
+Ministeren.";Camilla Hersom
+54294;Time;;Kl. 13:43
+54304;Time;;Kl. 13:40
+54358;title_name;":
+Mit svar vil nok have en vis opsummerende karakter i forhold til
+den, synes jeg, konstruktive debat, vi har haft her i eftermiddag.
+Sådan som jeg ser det – og det tror jeg også afspejles i den status
+til Folketingets Kommunaludvalg, som vi gav som opfølgning på
+den fælles vedtagelse – er det, at der er nogle lovgivningsmæssige
+barrierer. Det handler om Klagenævnet for Udbud, og det handler
+om udbudsloven.
+Så er der også nogle vidensmæssige barrierer, hvor man må sige:
+Det kan være svært at finde ud af, hvordan vi gør. Det ser meget
+komplekst og indviklet ud. Vi ved ikke, hvordan vi skal organisere
+det, hvis vi f.eks. vil have et innovativt samarbejde med en privat
+virksomhed.
+Det forsøger vi så at løse ved at se på skabeloner og vejledninger
+i, hvordan man griber det an.
+Desuden er der sandsynligvis også barrierer i form af, at man ikke har prøvet det før, og man kan synes, at det ser komplekst og vanskeligt ud i forhold til medarbejderne og i forhold til borgerne. Og
+der mener jeg at vide, at noget af det, som KL gør, er at forsøge at få
+erfaringsudveksling mellem de kommuner, der er godt i gang med
+noget, og dem, der stadig væk er på vej over barrieren, om jeg så må
+sige. Jeg tror, at de barrierer, der er, har forskellig karakter, og derfor
+også skal håndteres forskelligt fra Folketingets side.";Margrethe Vestager
+55687;Time;;Kl. 13:42
+55724;title_name;":
+Hr. Jacob Jensen.";Camilla Hersom
+55753;Time;;Kl. 13:42
+55771;name_party;":
+Jamen det er jeg sådan set ikke uenig i. Jeg tænker bare: Hvordan ser
+ministeren det sådan rent lovgivningsmæssigt? For en ting er, at der
+kan være noget psykologi, og man føler måske ikke, man er dygtig
+nok eller stor nok eller har erfaring nok osv. osv. Det kan vi trods alt
+ikke nødvendigvis lovgive om. Man kan selvfølgelig stille nogle
+rammer op for det og måske – som vi var inde på før – lave nogle
+forpligtende aftaler og noget i den dur. Men er der noget i den lovgivningsmæssige halvdel af det?
+Ministeren nævner selvfølgelig udbudsloven, men er det der, at
+man ligesom kan feje alt, hvad der handler om det lovgivningsmæssige, op, og dermed de ting, som vi herfra med lovgivningen i hånden – eller måske også nogle gange med viskelæderet i hånden – kunne være med til at fremme diskussionen om?
+For det tror jeg er en af de ting, som i hvert fald nogle bruger som
+en til dels dårlig undskyldning: Jamen det er for besværligt, det er
+for komplekst, det er for bureaukratisk. Hvor har man ret beset den
+erfaring? For som ministeren også selv har nævnt, er man jo trods alt
+oppe på, at næsten 20 pct. i gennemsnit ikke gør så meget, og der er
+dog en vis erfaring, man kan trække på. Man kan jo netop trække på
+de kolleger fra nabokommunen eller andre steder, hvor de ligger væsentlig højere.
+Det var også derfor, jeg kom med det konkrete forslag, at man
+kunne sige til de resterende 25 kommuner, at på de områder, hvor
+der eksempelvis for over 75 pct. af kommunernes vedkommende er";Jacob Jensen
+57316;title_name;":
+Jeg tror, at noget selvfølgelig handler om lovgivning og regelværk
+som sådan. Det er derfor, vi har set på hele klageinstitutionen i forhold til udbud. Det har krævet regelændringer, og de er gennemført.
+Så har vi set på den måde, man udbyder på inden for hjemmeplejeområdet. Det har vi ændret, så det er de samme regler, som man
+har på andre områder. For den daværende VK-regering havde lavet
+nogle specielle regler, som gjorde, at man skulle forholde sig til to
+forskellige måder at udbyde på, og det komplicerer selvfølgelig sagerne – det har vi taget væk.
+I næste folketingssamling kommer så som sagt den meget omtalte udbudslov. Dygtige folk – ikke bare fra forskellige brancher, men
+også folk, der konkret arbejder med udbud – sidder og ser på, hvordan vi kan lave en god udbudslov. Jeg går meget gerne i boksen på,
+om der er lovgivningsmæssige barrierer i forhold til at lave fælleskommunale udbud, og jeg tager gerne diskussionen om det, hvis det
+viser sig, at der er en lovgivningsmæssig barriere der.";Margrethe Vestager
+58338;Time;;Kl. 13:44
+58375;title_name;":
+Hr. Jacob Jensen.";Camilla Hersom
+58404;Time;;Kl. 13:44
+58422;name_party;":
+Jamen det vil jeg også gerne kvittere for. Vi ser som sagt også frem
+til, at der kommer et udkast, som vi meget gerne vil deltage i at kigge på også i den indledende fase, så vi kan nå, havde jeg nær sagt, at
+give vores besyv med. For det er ikke uvæsentligt, tror jeg, både
+hvad vi giver af signal, men samtidig også hvilke rammer vi kommer
+med herindefra, og jeg deler sådan set også ambitionen om, at vi skal
+prøve at kigge på KL og måske egentlig også tage KL mere i hånden, end vi har gjort indtil nu – positivt ment – for at sige til dem: Jamen I kan jo se forskellene, og hvad er det, der er grundene til, at
+nogle kommuner ligger lavt? Jeg tror ikke, at det nødvendigvis kun
+er geografien, der betyder noget. Den betyder også noget, men jeg
+tror også, at der kan være en anden og måske mere psykologisk barriere, som man skal overvinde, og hvis vi kan være med til at løfte
+den opgave via eksempelvis samarbejder på tværs af kommunerne,
+så tror jeg, at vi er kommet et stykke ad vejen.";Jacob Jensen
+59427;Time;;Kl. 13:45
+59464;title_name;":
+Ministeren.";Camilla Hersom
+59487;Time;;Kl. 13:45
+59541;title_name;":
+Det synspunkt deler jeg fuldstændig, og det er også derfor, jeg synes,
+at den partimæssige diskussion nu, hvor mange af vores kolleger er
+nyvalgte eller genvalgte og skal til at lægge, hvad skal man sige, en
+strategi for de næste 4 år, er vigtig: Hvor skal vores kommune være
+om 4 år? Hvad er det, vi gerne vil sige til borgerne? Det her har vi
+gjort bedre, det her har vi gjort billigere; her har vi kunnet inddrage
+jer mere, her har vi fået en anden diskussion. Det er det ene.
+Det andet er, at det at flytte viden og holdninger måske også kan
+fremmes ved at have en meget konkret diskussion i Folketingets
+
+Onsdag den 22. januar 2014 (S 793)
+
+Kommunaludvalg og KL – jeg stiller selv meget gerne op for at tage
+den i konference- eller seminarsammenhæng – for at få den her diskussion og drive den videre i den, synes jeg, meget pragmatiske,
+men også konstruktive tone, som vi har haft her i dag.";Margrethe Vestager
+60451;Time;"11
+
+opgaver samlet set er faldet gennem de seneste år. Og det synes jeg
+er bekymrende – ikke derved at man selv løser opgaven, for er man
+bedst og billigst, er det naturligvis den offentlige myndighed, der løser opgaven. Men jeg synes, det er bekymrende, at man i færre tilfælde spørger, og jeg håber, ministeren deler den bekymring.";Kl. 13:46
+60796;Time;;Kl. 13:48
+60833;title_name;":
+Tak. Så er det hr. Jakob Engel-Schmidt.";Camilla Hersom
+60884;Time;;Kl. 13:46
+60921;title_name;":
+Ministeren.";Camilla Hersom
+60944;Time;"Jakob Engel-Schmidt (V):
+Tak for det. De seneste tal viser, at der er meget stor forskel på, i
+hvor høj grad stat, regioner og kommuner konkurrenceudsætter. Staten er faktisk gået forrest, kommunerne ligger i midten, og regionerne er sakket agterud. Har ministeren noget bud på, hvordan det kan
+være?
+Før snakkede vi jo om, at der var et temmelig stort potentiale i at
+få konkurrenceudsat de egnede opgaver, og når en privat så vinder
+opgaven til en bedre pris, medfører det også en besparelse og som
+regel den samme service. Kan man så ikke også sige, at det både i
+kommuner, stat og regioner er et spørgsmål om i virkeligheden god
+forvaltningsmoral, at man i så høj grad som muligt forsøger at få
+mest ud af borgernes penge?";Kl. 13:48
+61682;Time;;Kl. 13:46
+61736;title_name;":
+Ja, eller måske i hvert fald en undren. Nu har jeg meget stor respekt
+for den regionale opgavevaretagelse, fordi de forandringer, der gennemføres i sundhedssektoren i øjeblikket, er så massive. Det, regionsrådene har løftet i form af at lave nye strategier for, hvordan borgerne skal betjenes med supersygehuse og akutafdelinger og alt muligt andet, kan være en del af baggrunden for det. Samtidig oplever
+jeg, at der er appetit og mod på at bruge udbud, fordi eksemplerne –
+også på regionale udbud – er meget, meget forskelligartede og dermed forhåbentlig også til inspiration på kryds og tværs i regionerne.";Margrethe Vestager
+62357;Time;;Kl. 13:49
+62394;title_name;":
+Tak for det. Så er det hr. Jacob Jensen.";Camilla Hersom
+62446;Time;;Kl. 13:49
+62483;title_name;":
+Ministeren.";Camilla Hersom
+62506;Time;;Kl. 13:46
+62560;title_name;":
+Jeg vil være forsigtig med at gøre det til et moralsk spørgsmål, om
+man bruger udbud eller ej. Jeg synes, at det, der er det meget afgørende, er, at man som folkevalgt og dermed med et politisk ledelsesansvar finder de redskaber, der gør, at man kan sige til borgerne: Jeg
+har gjort mit for, at det, du betaler i skat, faktisk bliver brugt på den
+bedst mulige måde.
+Jeg synes, at regionerne er en diskussion for sig, fordi deres opgave er særdeles kompleks. Man kan af noget af det, som private varetager for regionerne, se, at det er af meget vidtspændende karakter.
+Nogle gange er det private, som varetager mammografiscreeningen,
+andre steder tror jeg man har aftaler om at drive smerteklinik. Altså,
+det sker der, hvor der har været private, som har haft et relevant bud,
+og hvor regionen kunne se, at det kunne de private gøre på en bedre
+og forhåbentlig også billigere måde, end regionen selv ville kunne.
+Jeg har ikke det fulde overblik over, hvordan det ser ud på regionernes område, men jeg ved, at det sker, og også, at det sker på områder, hvor man må sige, at det sådan set bliver fuldstændig integreret
+med den måde, som regionens offentligt ansatte varetager deres opgaver på.";Margrethe Vestager
+63762;Time;;Kl. 13:48
+63799;title_name;":
+Hr. Jakob Engel-Schmidt.";Camilla Hersom
+63835;Time;"Jakob Engel-Schmidt (V):
+Jeg havde ellers sådan håbet på, ministeren ville give mig ret i, at det
+var et spørgsmål om god moral i forhold til skatteborgernes penge.
+Men man kan jo ikke vinde hver gang. Jeg synes ellers, at både ministeren og spørgeren – nu skal jeg passe på med at tage os alle sammen kollektivt i ed – står tæt på hinanden, når det gælder ambitionen.
+Når jeg fremhæver forskellen mellem kommuner og regioner,
+skyldes det primært, at regionerne faktisk er den eneste offentlige
+myndighed, hvor antallet af konkurrenceudsættelser og andelen af";Kl. 13:48
+64414;name_party;":
+Jeg kan bare følge op med at sige, at jeg selvfølgelig også som ministeren og som min kollega hr. Jakob Engel-Schmidt undrer mig over
+den nedgang i regionerne. For – igen – en ting er, hvilke af de indkomne tilbud man efterfølgende politisk beslutter sig for, altså om
+man vælger, at det skal være det offentlige, der skal fortsætte efter
+de kriterier, man har ønsket, eller om det skal udliciteres til en privat; men en anden ting er jo, at man trods alt skal starte med at spørge til prisen.
+I går – eller var det i forgårs? – kom OECD med sine anbefalinger også til dansk økonomi, og blandt dem var jo også en klar anbefaling om, at vi skal bruge det redskab noget mere. Jeg vil så bare
+hive mig op i helikopteren her og afrundingsvis spørge: Kender ministeren til erfaringer fra udlandet og inden for OECD-området, som
+man måske kunne trække på for at få løftet den her andel yderligere i
+Danmark?";Jacob Jensen
+65327;Time;;Kl. 13:50
+65364;title_name;":
+Ministeren.";Camilla Hersom
+65387;Time;;Kl. 13:50
+65441;title_name;":
+Jeg vil bestemt ikke afvise, at der kan være inspiration at hente uden
+for landets grænser, i respekt for at den offentlige opgaveløsning typisk er organiseret meget forskelligt, også i lande, som vi plejer at
+sammenligne os med. Men det kan sagtens være; jeg har bare ikke
+en konkret viden om, hvor det kunne være.
+Der har tidligere været interesse for f.eks. den måde, man i Sverige driver skolevæsen på, vel også for nogle ting i plejesektoren. I
+Danmark, kan man sige, er der nogle ting, vi gør anderledes. Noget
+af det, som jeg tror mange overser, er jo, at en del af indsatsen for
+børn, som er meget udsatte, faktisk er privat i Danmark, altså med
+private opholdshjem og private plejefamilier. Så på den måde er der
+forskelle sektorerne imellem; men selvfølgelig kan man hente inspiration i udlandet.
+Jeg tror så bare også, at der er nogle kommuner, der kan hente
+inspiration i andre kommuner, og det er måske i virkeligheden det
+
+12
+
+Onsdag den 22. januar 2014 (S 783)
+
+mest nærliggende, for der er i virkeligheden meget få kulturelle,
+sproglige barrierer, der skal overvindes, og det er den samme lovgivning, som man må forholde sig til. Derfor vil jeg gentage min opfordring til, at Kommunaludvalget involverer sig i det, og at vi kan få
+en samtale med f.eks. KL og forskellige borgmestre med forskellige
+erfaringer. Den deltager jeg i hvert fald meget gerne selv i.";Margrethe Vestager
+66829;Time;;Kl. 13:51
+66866;title_name;":
+Tak for det.
+Så er vi nået til spørgsmål 6. Det er stillet til social- og integrationsministeren af fru Karina Adsbøl.";Camilla Hersom
+66996;Time;"nale tilsyn, som ligger under statsforvaltningen, og faktisk er det jo
+sådan, at i sidste ende kan kommunalbestyrelsesmedlemmer få dagbøder, hvis de ikke sørger for, at de her kritisable forhold bliver
+bragt i orden.
+Så jeg er meget enig i, at vi skal tage de her problemer alvorligt.
+Jeg nævnte også på samrådet, da vi var der, at jeg er åben over for en
+drøftelse, og jeg er åben over for en generel drøftelse af de tiltag,
+som vi kan tage, og derfor vil jeg også invitere partierne til et møde i
+ministeriet her i foråret.";Kl. 13:51
+67533;Time;;Kl. 13:53
+67570;title_name;":
+Fru Karina Adsbøl.";Camilla Hersom
+67600;Time;"Spm. nr. S 783
+6) Til social-, børne- og integrationsministeren af:
+Karina Adsbøl (DF)):
+Vil ministeren redegøre for, hvorfor ministeren mener, at hun ikke
+vil sende Task Force og Ankestyrelsen af sted til de kommuner, der
+har fejl i deres børnesager, for f.eks. at få undersøgt kommunernes
+håndtering af børnesagerne, når den tidligere socialminister har gjort
+det bl.a. med Esbjerg Kommune?
+
+Skriftlig begrundelse
+Spørgsmålet stilles på baggrund af samrådet i Folketingets Socialudvalg om tvangsfjernelse af anbragte børn den 14. januar 2014.";Kl. 13:53
+68182;title_name;":
+Værsgo.";Camilla Hersom
+68201;Time;;Kl. 13:51
+68221;name_party;":
+Tak for det. Vil ministeren redegøre for, hvorfor ministeren mener,
+at hun ikke vil sende taskforcen og Ankestyrelsen af sted til de kommuner, der har fejl i deres børnesager, for f.eks. at få undersøgt kommunernes håndtering af børnesagerne, når den tidligere socialminister har gjort det bl.a. med Esbjerg Kommune?";Karina Adsbøl
+68549;Time;;Kl. 13:51
+68586;title_name;":
+Ministeren.";Camilla Hersom
+68609;Time;"Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Det, vi i hvert fald kan blive fuldstændig enige om, er, at det sådan
+set er meget alvorligt, når der er kommuner, som har for mange fejl i
+sagsbehandlingen. Det er ikke acceptabelt, og jeg synes også, at det
+er særlig bekymrende, når det vedrører væsentlige krav til sagsbehandlingen, f.eks. når der ikke bliver afholdt børnesamtaler. Så det
+er vi helt enige om.
+Det er også en problemstilling, vi har kendt til i mange år. Forskellige skiftende regeringer har jo forsøgt at tage hånd om det, og
+det, jeg hilser meget velkommen, er, at vi har vedtaget Barnets Reform, vi har vedtaget en overgrebspakke, og vi har også tilsynsreformen. Så har vi nedsat en taskforce, og det er jo også den, der bliver
+spurgt til. Men taskforcens opgave er, at den skal hjælpe kommunerne med at uddrage læring i forhold til at få styr på sagsbehandlingen,
+og taskforcen er på den måde ikke et kontrolredskab, men et redskab, som kommunerne skal bruge til læring og bedre sagsbehandling. Og derfor er det jo meget vigtigt, at samarbejdet med kommunerne også foregår som et frivilligt initiativ.
+Derfor mener jeg faktisk ikke, at taskforcen er det rette instrument i forhold til de kommuner, som har meget alvorlige problemer,
+og som ikke er indstillet på at rette op på det. Her har vi de kommu-";Kl. 13:51
+69971;name_party;":
+Jeg synes jo egentlig ikke rigtig, ministeren svarede på, hvorfor hun
+ikke vil sende taskforcen og Ankestyrelsen af sted. Grunden til, at
+jeg spørger, er, at jeg godt ved, at der har været store problemer med
+de her sager i flere kommuner, og der har også været et samråd om
+problemstillingen i forhold til anbringelsessager. Og så er det jo bare, at den tidligere minister har sagt – hun er i hvert fald citeret for
+det flere steder, og det står også på ministeriets hjemmeside:
+Jeg sender min nyoprettede taskforce til Rebild, hvor vi netop tilbyder kommunerne det her.
+Så undrer det mig jo, at den nuværende minister ikke vil gøre det,
+når hun også kan se, at der er problemer i andre kommuner med de
+her børnesager.
+Ministeren sagde også på samrådet om det her, at hun godt vidste, at der var problemer på det her område, og at hun også anerkender problemet, men jeg mangler noget handling fra ministerens side,
+så der også sker noget. Jeg ved ikke, om ministeren er klar over det,
+men der er faktisk ikke rigtig i forbindelse med statsforvaltningens
+tilsyn givet nogen tvangsbøder i forhold til det her – det kan hendes
+kollega ved siden af i hvert fald bevidne. Det er jo ikke et middel,
+der bliver brugt, og det er heller ikke et middel, som regeringen gerne vil bruge, med henblik på at kommunerne retter ind.
+Så derfor er det sådan lidt mærkeligt, kan man sige, at ministeren
+kommer med det svar, for jeg mangler noget handling, i forhold til at
+ministeren anerkender, at der er så store problemer på det her område. Nu ved jeg godt, at vi har fået en redegørelse fra en kommune
+om en konkret sag, men vil ministeren tage til takke med det, når der
+kommer en redegørelse fra en kommune? For så er det jo ligesom
+kommunen, der vurderer sin egen sag. Og har ministeren tænkt sig at
+følge op på dét, at en redegørelse fra en kommune ikke altid er nok?
+Det kan godt være, at man skal grave et spadestik dybere for at se,
+hvad der er op og ned i sagen.";Karina Adsbøl
+71939;Time;;Kl. 13:56
+71976;title_name;":
+Ministeren.";Camilla Hersom
+71999;Time;"Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Jeg vil stadig væk holde fast i, at jeg synes, det er meget problematisk, når kommunerne ikke overholder lovgivningen.
+Med hensyn til taskforcen: Det, jeg gjorde i mit første svar, var
+egentlig at redegøre for, hvad taskforcens opgave er, og det er at tage
+ud i kommunerne, når kommunerne frivilligt og meget gerne vil indgå i det samarbejde, som taskforcen tilbyder, nemlig at kunne uddrage læring, sådan at sagsbehandlingen kan blive bedre. Jeg synes, det
+er meget positivt, og jeg vil kun opfordre til, at kommunerne tager
+imod taskforcen og får den inviteret.
+Men jeg synes, vi skal holde fast i, at vi er landspolitikere. Vi er
+ikke børnefaglige eller juridiske eksperter, og der er tale om nogle
+
+Onsdag den 22. januar 2014 (S 784)
+
+meget ulykkelige sager her, som kræver et fagligt skøn. Og så skal vi
+holde fast i, at vi jo faktisk har et klagesystem, og desuden har vi
+domstolene, som jo er inde over det og skal vurdere, om tingene går
+rigtigt for sig.
+Så jeg vil meget gerne have, at vi ses til en drøftelse i foråret, for
+om nogen har jeg stor interesse i, at vi får gjort noget ved det her
+område.";Kl. 13:56
+73186;Time;;Kl. 13:57
+73223;title_name;":
+Fru Karina Adsbøl.";Camilla Hersom
+73253;Time;;Kl. 13:57
+73273;name_party;":
+Jamen så må jeg jo bare konkludere ud fra ministerens svar, at ministeren ikke vil sende taskforcen og Ankestyrelsen ud for at gennemgå børnesager i de kommuner, som går igen, også i forhold til medierne – også de sager, som ministeren får ind på sit bord. Og jeg er
+også bekendt med, at ministeren er orienteret om, hvilke kommuner
+det drejer sig om – det tror jeg i hvert fald – også fordi Ankestyrelsen i sin tid har lavet en undersøgelse over fejl og mangler i de her
+sager.
+Jeg må bare erkende, at ministeren kun vil tage en drøftelse af det
+engang i foråret.";Karina Adsbøl
+73849;Time;;Kl. 13:57
+73886;title_name;":
+Ministeren.
+
+13";Camilla Hersom
+73914;Time;;Kl. 13:59
+73951;title_name;":
+Ministeren for en afslutning.";Camilla Hersom
+73992;Time;"Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Jamen jeg er blevet bedt om at komme og redegøre for det her, og
+det har jeg faktisk gjort. Taskforcen er et redskab, vi har. Vi har jo
+faktisk nedsat den i fællesskab, og det er kommunernes mulighed for
+at få en meget seriøs og grundig gennemgang af deres sagsbehandling, sådan at de kan få læring af det. Og det vil jeg meget gerne holde fast i.
+Jeg synes, at de her sager er alvorlige – ikke fordi fru Karina Adsbøl og jeg skal stå og diskutere det her i dag, men fordi det handler
+om nogle børn og nogle unge, som har et stort behov for, at deres
+sager bliver behandlet korrekt ude i kommunerne. Og det er derfor,
+jeg igen og igen vil opfordre kommunerne til at kigge indad og overveje, om ikke det ville være en god idé dér, hvor der er problemer, at
+få taskforcen eller andre eksperter til at komme og være hjælpsomme i forhold til at gennemgå sagsgange. Der er nogle børn og nogle
+unge, der har stærkt brug for det.";Kl. 13:59
+74990;Time;"Formanden:
+Spørgsmålet er sluttet.
+Men der er et nyt spørgsmål af samme spørger til social-, børneog integrationsministeren";Kl. 14:00
+75126;Time;;Kl. 13:57
+75137;Time;"Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Jamen så er det jo godt, at jeg lige får lejlighed til at præcisere det:
+Jeg vil gerne sige, at jeg faktisk tager det her meget alvorligt. Jeg
+kan kun opfordre til, at kommunerne bruger de redskaber, der er. Og
+kommunerne skal overholde loven. Vi har Ankestyrelsen, som i
+praksisundersøgelser kontrollerer kommunernes sagsbehandling, og
+det synes jeg faktisk er et rigtig godt og også et meget vigtigt redskab, sådan at vi får indblik i, hvordan det egentlig står til med kommunernes praksis. Taskforcen er – hvad skal man sige – et redskab,
+som kommunerne kan bruge til læring, og det skal de også bruge det
+til.
+Så vil jeg bare lige for god ordens skyld nævne, at vi jo har gennemført rigtig gode initiativer. Vi har søsat DUBU, vi har strammet
+lovgivningen, vi har massivt sat midler af til efteruddannelse, og så
+har vi taskforcen. Jeg er helt med på, at der muligvis skal mere til,
+og derfor håber jeg, at fru Karina Adsbøl vil tage imod en invitation
+til en drøftelse her i foråret.
+
+Spm. nr. S 784
+7) Til social-, børne- og integrationsministeren af:
+Karina Adsbøl (DF)):
+Vil ministeren – set i lyset af at ministeren på samrådet den 14. januar 2014 har anerkendt, at der sker fejl, og at nogle børn også bliver
+anbragt, selv om de ikke skulle være blevet anbragt – redegøre for,
+hvad ministeren vil gøre ved det?";Kl. 14:00
+76534;Time;;Kl. 13:58
+76571;title_name;":
+Fru Karina Adsbøl.";Camilla Hersom
+76601;Time;;Kl. 13:58
+76621;name_party;":
+Først og fremmest vil jeg sige, at jeg jo altid tager imod en invitation, når ministeren inviterer – altid. Og jeg vil meget gerne og Dansk
+Folkeparti vil meget gerne være med til at løse det her – også fordi
+det er et kæmpestort retssikkerhedsmæssigt problem. Der er nogle
+sager, der er fyldt med fejl og mangler, og de går så videre til et børn
+og unge-udvalg, som måske vurderer den sag ud fra de fejl og mangler, der er i den sag. Og det kan jo få store konsekvenser for de familier, det går ud over. Så derfor ser jeg det her som noget meget alvorligt, og derfor undrer det mig også, når den tidligere minister kunne
+sende taskforcen og Ankestyrelsen ud for at gennemgå nogle sager,
+at den nuværende minister ikke også kan det.
+
+Skriftlig begrundelse
+Spørgsmålet stilles på baggrund af samrådet i Folketingets Socialudvalg om tvangsfjernelse af anbragte børn den 14. januar 2014.
+Formanden:
+Værsgo til fru Karina Adsbøl.";Karina Adsbøl
+77558;Time;;Kl. 14:00
+77578;name_party;":
+Vil ministeren – set i lyset af at ministeren på samrådet den 14. januar 2014 har anerkendt, at der sker fejl, og at nogle børn også bliver
+anbragt, selv om de ikke skulle være blevet anbragt – redegøre for,
+hvad ministeren vil gøre ved det?";Karina Adsbøl
+77831;Time;"Formanden:
+Ministeren.";Kl. 14:00
+77865;Time;"Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Som jeg sagde på samrådet den 14. januar, er der kommuner – det
+har vi også lige drøftet i forbindelse med det forrige spørgsmål –
+som har en udfordring i forhold til at overholde de regler, som vi har
+fastsat her i Folketinget, og det tager jeg meget alvorligt. Når jeg på
+samrådet sagde, at jeg mener, at der er børn, som bliver anbragt, som
+ikke burde være anbragt, er det, fordi jeg mener, at vi i nogle tilfælde
+
+14
+
+Onsdag den 22. januar 2014 (S 784)
+
+kunne have undgået en anbringelse, hvis vi havde sikret en tidligere
+indsats og en ordentlig inddragelse af hele familien. Det var jo også
+noget af det, der lå til grund for finanslovsforhandlingerne i efteråret,
+hvor vi aftalte at afsætte en forebyggelsespakke til 280 mio. kr. over
+4 år. Det var lige præcis, for at vi skal ind at styrke den forebyggende indsats i kommunerne.
+Så vil jeg også gerne lige præcisere, hvad jeg mener i forhold til
+de børn, som er tvangsanbragt. Det er lige præcis børn, som er i stor
+risiko for at få skader på deres sundhed og udvikling. Jeg har tillid til
+vores klagesystem, for det skal jo sikre, at afgørelserne efterprøves
+grundigt, og det skal de både juridisk og børnefagligt. Og derfor er
+det vigtigt lige nu også at få sagt, at afgørelser om tvangsanbringelser af børn og unge alene kan træffes, hvis der er en helt åbenbar risiko for, at der er en alvorlig skade på barnets sundhed eller på barnets udvikling.
+Afgørelserne træffes af børn og unge-udvalgene, og i de her børn
+og unge-udvalg sidder der jo bl.a. en dommer og to børnesagkyndige. Afgørelserne kan efterprøves af Ankestyrelsen, og så kan de frit
+indbringes for domstolene. Så vi har et system, som tager hånd om
+de her sager.";Kl. 14:01
+79629;Time;"Formanden:
+Fru Karina Adsbøl.
+
+Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Ja, der var mange spørgsmål her, og jeg skal forsøge at svare på dem
+så godt som muligt; ellers må der blive spurgt igen. Igen vil jeg sige
+helt grundlæggende, at det er meget ulykkeligt, når der er børn og familier, som mistrives. Det kan vi jo ikke blive uenige om. Men jeg
+synes, det er en farlig vej at gå, hvis det er os, der skal gøre os til
+dommere i enkeltsager, for vi har simpelt hen ikke det fornødne
+kendskab til det.
+Fra Folketingets side har vi jo indrettet et system, som skal sikre,
+at familierne kan klage. Hvis familierne er uenige i kommunens afgørelse om f.eks. en tvangsanbringelse, skal de kunne klage. Der er
+også mulighed for, at man kan få en bisidder. Så der er nogle forskellige elementer i det her. I Ankestyrelsen sidder der juridiske og
+børnefaglige eksperter, og i sager om tvangsanbringelser får familierne jo lov til selv at møde op, og så kan de forelægge deres syn på
+sagen, ligesom de, som jeg nævnte lige før, får beskikket en advokat
+og også kan medbringe en bisidder.";Kl. 14:03
+80742;Time;"Formanden:
+Fru Karina Adsbøl.";Kl. 14:06
+80783;Time;;Kl. 14:06
+80794;Time;;Kl. 14:03
+80814;name_party;":
+Det, jeg hører ministeren sige, er, at hun har stor tiltro til systemet,
+og der må jeg bare sige, at systemet ikke altid har ret – det har vi jo
+set, og der kan man også kigge på os selv herinde i forhold til systemet. Systemet har ikke altid ret, og derfor kunne jeg godt tænke mig
+at høre: Hvem kontrollerer så Ankestyrelsen i forhold til de her sager? Er der nogen, der nogen sinde laver stikprøver i forhold til Ankestyrelsen? Vi ved, der har været fejl andre steder, i andre styrelser, så
+det er jo ikke sådan, at Ankestyrelsen er fejlfri; der kan også ske fejl.
+Det må ministeren gerne også svare på.
+Det, at ministeren anerkender, at der er nogle børn, der bliver anbragt, som ikke skulle have været anbragt, synes jeg jo også viser, at
+der er et kæmpestort problem på det her område. Og det handler jo
+ikke om, om man er for eller imod anbringelser; det handler om, at
+det også er de rigtige børn, der bliver anbragt på et veldokumenteret,
+oplyst grundlag. For det er meget problematisk, at der sker fejl, og
+når der sker fejl i de her sager.
+Så derfor vil jeg godt spørge ministeren – når hun nu anerkender,
+at der er problemer – hvordan hun så vil opfordre kommunerne til at
+tage imod tilbuddene. Vil ministeren sende et brev ud til kommunerne? Eller vil hun indskærpe det over for kommunerne? Eller hvad
+agter ministeren at gøre?
+Det er jo ikke, fordi jeg vil være imod kommunerne eller imod
+sagsbehandlerne – det her handler om barnets tarv, og det handler
+om, at de børn skal vi passe på, og at vi skal gøre det på en ordentlig
+måde, så de ikke bliver skadet for resten af deres liv. Og jeg er da
+helt enig med ministeren i forhold til forebyggende initiativer, altså
+at der meget hurtigt skal iværksættes forebyggende initiativer. For
+det er jo sådan, at man skal bruge den mindst indgribende foranstaltning i de her familier – i stedet for at man hjælper familierne, sker
+der måske somme tider det, at der sker en anbringelse, altså frem for
+at man sætter hurtigt ind.
+Så hvad vil ministeren gøre for at sikre det fremadrettet?";Karina Adsbøl
+82868;Time;"Formanden:
+Ministeren.";Kl. 14:05
+82903;Time;;Kl. 14:05
+82923;name_party;":
+Nu er det så, at mit blodtryk begynder at stige, for ministeren anerkender, at vi har lavet alle de her gode love, og det er jo også godt, at
+vi har lavet det fra Folketingets side, men hvis de ikke bliver implementeret ude i kommunerne; hvis Barnets Reform ikke bliver implementeret ude i kommunerne; hvis lovgivningen ikke bliver overholdt, så er det vel ministerens ansvar at handle på det. Og derfor er
+det så, at jeg undrer mig over, at ministeren siger, at vi har det her
+system, og at det fungerer – men når vi nu kan se, det ikke fungerer,
+så kræver det jo handling fra ministeren, som sidder på området.";Karina Adsbøl
+83547;Time;"Formanden:
+Ministeren.";Kl. 14:06
+83581;Time;"Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Jeg håber, at jeg ikke gør mig skyldig i et højt blodtryk her. Jeg vil i
+hvert fald gøre, hvad jeg kan, for at være med til at nedbringe det,
+for sagen er alvorlig. Og vi har jo lige præcis i satspuljekredsen og i
+andre relevante fora også taget meget vigtige initiativer på hele det
+her område.
+Men vi bliver nødt til at slå fast, at det er Folketinget, som har
+ansvaret for, at vi sikrer rammerne for kommunernes indsats over for
+de børn og unge, som er udsatte. Så har jeg som minister ansvaret
+for, at området administreres i overensstemmelse med lovgivningen.
+Men jeg kan ikke træffe afgørelser i enkeltsager, og jeg mener faktisk også, det vil være i strid med helt fundamentale retsprincipper,
+hvis jeg kunne gøre det.
+Jeg ved, at KL har en aktionsgruppe af kommuner, som også
+drøfter det her med meget stor alvor, og som vil komme med en række anbefalinger senere på året. Og det arbejde vil jeg selvfølgelig
+følge meget nøje.";Kl. 14:06
+84591;Time;"Formanden:
+Så er det fru Karina Adsbøl, sidste omgang.
+
+Onsdag den 22. januar 2014 (S 787)
+
+15";Kl. 14:08
+84699;Time;;Kl. 14:08
+84710;Time;;Kl. 14:10
+84730;name_party;":
+Hver sag kommer jo af en enkelt sag, men altså, det er jo ikke det,
+det handler om. Jeg har ikke bedt ministeren om at tage stilling til en
+enkelt sag – det her er rigtig mange sager. Ankestyrelsens undersøgelse fra 2009 viser, at der er en stor fejlprocent i de her sager, og så
+handler det om at rette op. Så kan vi lave rigtig god lovgivning herindefra, indføre rigtig gode initiativer, Barnets Reform, tilsyn m.m.,
+men hvis det så ikke bliver implementeret, er vi jo lige vidt.
+Derfor mener jeg, at ministeren har det overordnede ansvar for at
+sikre, at der også sker handling på det her område. Og det er sådan
+set bare det, jeg beder ministeren om at gøre.";Karina Adsbøl
+85440;title_name;":
+Vi er selvfølgelig helt enige med Produktivitetskommissionen i, at
+når vi investerer så mange penge i de gymnasiale uddannelser, er
+målet, at vi får så dygtige studenter som muligt ud af det, vel at mærke dygtige studenter, som jo ikke bare skal blive studenter, men skal
+gennemgå en videregående uddannelse bagefter. Det er jo hele målet
+med det, at de skal have et højt fagligt niveau, og at de skal have studiekompetencer, som også dækker bredere end det faglige.
+Det betyder også, at vi både som led i det servicetjek, vi har af
+gymnasierne nu, og i øvrigt også fremadrettet vil kigge på, om der er
+noget, vi skal gøre yderligere for at løfte kvaliteten på gymnasierne,
+ligesom det også gælder for erhvervsuddannelserne og folkeskolen.
+Så vi har blik for, at alle uddannelsesområder skal have så høj kvalitet som overhovedet muligt.
+Men når Produktivitetskommissionen anbefaler, at der skal ske
+en systematisk evaluering af gymnasiereformen, så vil jeg gerne understrege, at der løbende er sket en systematisk evaluering af gymnasiereformen. Der er bl.a. på Undervisningsministeriets hjemmeside
+en lang liste over hele den vifte af evalueringer, der er lavet. Der
+blev jo nedsat et fagligt panel, en følgegruppe, da gymnasiereformen
+blev vedtaget, og der har været evalueringer især med vægt på 2009,
+fordi det var der, hvor, kan man sige, den første generation af de nye
+studenter kom ud. Og så er der en række evalueringer, hvor man kigger på, både hvordan det går med de naturfaglige kompetencer før
+og efter reformen, og hvordan det går med de forskellige fag på de
+forskellige niveauer.
+Men der er en ting, som Produktivitetskommissionen peger på,
+og det er, at de sådan set anerkender, at der har været evalueringer,
+men at der godt i højere grad måske måtte være flere også kvantitative evalueringer, og det vil vi selvfølgelig tage med os i vores videre
+arbejde.";Christine Antorini
+87327;Time;"Formanden:
+Ministeren.";Kl. 14:08
+87361;Time;"Social-, børne- og integrationsministeren (Annette Vilhelmsen):
+Ja, og jeg er som sagt meget optaget af den her problematik. Det er
+faktisk et meget, meget stort problem, når der er kommuner, som ikke overholder de regler, som vi opstiller her i Folketinget. Og vi skal
+holde kommunerne oppe på det, det er jo det, vi skal gøre dem opmærksomme på: Det er kommunerne, som har ansvaret for de børn
+og familier, som det handler om. Vi har givet familierne ret til advokat i tvangssager. Vi har givet Ankestyrelsen mulighed for at tage
+sager op af egen drift. Og vi har givet støtte til bisidderordningen, til
+at støtte børnene. Men det handler jo om, at kommunerne tager det
+til sig, og at de overholder loven, og det er jo bl.a. det, som vi i fællesskab skal være med til at holde kommunerne oppe på.";Kl. 14:08
+88171;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til social-, børne- og integrationsministeren.
+Det næste spørgsmål er rettet til undervisningsministeren af fru
+Marie Krarup.";Kl. 14:09
+88347;Time;"Spm. nr. S 787
+8) Til undervisningsministeren af:
+Marie Krarup (DF)):
+Vil ministeren igangsætte en systematisk evaluering af gymnasiereformen for at fastslå, hvad konsekvensen har været for studenternes
+faglige niveau, og om det faglige niveau bør være højere, sådan som
+Produktivitetskommissionen har anbefalet i sin rapport om uddannelsessystemet (analyserapport 4)?
+Formanden:
+Værsgo til fru Marie Krarup.";Kl. 14:09
+88767;Time;;Kl. 14:09
+88786;name_party;":
+Tak. Spørgsmålet lyder:
+Vil ministeren igangsætte en systematisk evaluering af gymnasiereformen for at fastslå, hvad konsekvensen har været for studenternes faglige niveau, og om det faglige niveau bør være højere, sådan
+som Produktivitetskommissionen har anbefalet i sin rapport om
+uddannelsessystemet (analyserapport 4)?";Marie Krarup
+89120;Time;"Formanden:
+Undervisningsministeren.";Kl. 14:10
+89168;Time;"Formanden:
+Fru Marie Krarup.";Kl. 14:11
+89208;Time;;Kl. 14:11
+89227;name_party;":
+Jeg har jo tidligere opfordret undervisningsministeren til at foretage
+en grundig evaluering af gymnasiets faglige niveau efter reformen
+fra 2005, og ministeren har ikke fulgt mit råd om en større systematisk evaluering. Men det kan jo så være, at hun denne gang vil følge
+Produktivitetskommissionens råd. Det bliver gentaget i dag i Politiken, kan jeg fortælle, i kronikken.
+For der er jo simpelt hen flere fakta, der bør bekymre, og det er,
+at andelen af gymnasieelever er steget fra 30 pct. i 1990 til ca. 50
+pct. af en årgang i dag. Det betyder selvfølgelig, at andelen af fagligt
+svage elever er steget. Det kan jo ikke undgås. Samtidig er karaktergennemsnittet stigende efter gymnasiereformens indførelse, og dumpeprocenten er ikke steget. Så bruges der mindre tid på undervisning
+i de klassiske fag som matematik og tysk, fordi den såkaldte nye faglighed, dvs. tværfagligheden, har vundet terræn.
+Disse fakta kunne alt i alt efter Produktivitetskommissionens mening godt tyde på, at man har sænket de faglige krav til studenterne i
+gymnasiet. Produktivitetskommissionen tilføjer også, at gymnasierne jo modtager et taxametertilskud, der afgøres af antallet af elever.
+Falder elever fra, mister gymnasiet støtte. Det giver gymnasierne en
+økonomisk tilskyndelse til at sænke det faglige niveau. Tilskyndelsen bliver selvfølgelig større, i takt med at flere svage elever påbegynder en gymnasial uddannelse.
+I Dansk Folkeparti er vi meget bekymrede over den her udvikling. Hvis mistanken om et sænket fagligt niveau er korrekt, er det
+naturligvis vigtigt at få gjort noget ved det. Til den ende skal man
+
+16
+
+Onsdag den 22. januar 2014 (S 674)
+
+have grundige og systematiske analyser. Derfor vil jeg endnu en
+gang opfordre ministeren til at følge Produktivitetskommissionens
+opfordring til at foretage en grundig systematisk evaluering af gymnasiets faglige niveau, for det er ikke det, vi har set indtil videre. Der
+har været pletvise undersøgelser, men der har ikke været en systematisk undersøgelse af gymnasiets faglige niveau.";Marie Krarup
+91274;Time;"Formanden:
+Undervisningsministeren.";Kl. 14:13
+91321;Time;;Kl. 14:13
+91367;title_name;":
+Som jeg henviste til i mit første svar, kan man finde en liste over
+samtlige evalueringer, der er lavet af gymnasiereformen. Bare for at
+tage 2009, som var det år, hvor der virkelig var ekstraordinært mange: Da var der 17 evalueringer. Nu er det jo ikke antallet i sig selv,
+der er afgørende, men det er bare for sige, at den påstand, at der ikke
+findes evalueringer, ikke er korrekt. Det var faktisk noget, som gymnasieforligskredsen, som Dansk Folkeparti jo også er en del af, var
+enige om at følge tæt.
+Det har også betydet, at der på grund af de evalueringer, der også
+har været tidligere, er sket nogle justeringer af gymnasiereformen.
+Og senest har vi jo i fællesskab været enige om at vedtage en ændring, sådan at det var lettere at vælge, så man kunne veksle og få
+flere fag med matematik B, hvilket også betyder noget for de videregående uddannelses-muligheder.
+Vi synes, det er værd at kigge på, om man kan styrke det i forhold til nogle af de kvantitative data, men jeg vil godt understrege, at
+det, som Produktivitetskommissionen siger, er, at der er indicier,
+men de kan jo ikke pege på, at det faglige niveau skulle være faldet.
+Men det ændrer ikke ved, at vi også er optaget af, at eleverne skal
+blive så dygtige som muligt.";Christine Antorini
+92618;Time;"gymnasiale uddannelser. Jeg kom med et par eksempler på, at vi også har foretaget forbedringer i forhold til niveaukravene til nogle af
+de fag, som måske har manglet at blive styrket i forhold til et B-niveau. Og som jeg også sagde, vil vi gerne kigge på, om man kan
+styrke nogle af de kvantitative data.
+Men jeg synes nu ikke, at man i sig selv skal sige, at det er et problem, at der er flere af de elever, der starter i gymnasiet, som kommer fra hjem, hvor der måske ikke er en uddannelsestradition. Og
+nogle af gymnasierne er rigtig gode til at løfte dem, sådan at de også
+får en god gymnasial uddannelse til at komme videre med.
+Det, der er det interessante, er selvfølgelig, om der er nogle, som
+måske ikke har så stærke faglige kompetencer, der i højere grad burde starte på en erhvervsuddannelse. Det er noget af det, Produktivitetskommissionen peger på, og det er faktisk noget af det, vi nu drøfter i forbindelse med erhvervsuddannelsesforhandlingerne.";Kl. 14:14
+93592;Time;"Formanden:
+Sidste omgang til fru Marie Krarup.";Kl. 14:16
+93650;Time;;Kl. 14:16
+93669;name_party;":
+Det er jo rigtigt, at jeg ikke har hårde fakta, der kan bevise, at de
+flere og flere studenter, der bliver udklækket i dag, også er dummere, men der er så mange indicier, der peger på det, og det er jo derfor, at der er behov for, at det bliver undersøgt. Det kan man altså
+ikke tale sig ud af ved at komme med en sød sang fra de varme lande
+om, at vi skal have flere fra ikkeboglige hjem til at tage andre uddannelser osv.
+Det er da fint, men vi skal finde ud af, om vi har en studentereksamen, der er noget værd, eller om vi har en studentereksamen, der
+er faldet i kvalitet. Og jeg kan simpelt hen ikke forstå, hvorfor man
+ikke vil følge op på det, når der er alle muligheder for det. Så jeg vil
+bare opfordre undervisningsministeren til at sørge for det, sådan at vi
+netop har hårde fakta, når vi taler sammen næste gang.
+
+Formanden:
+Fru Marie Krarup.";Marie Krarup
+94537;Time;;Kl. 14:17
+94547;Time;;Kl. 14:14
+94566;name_party;":
+Det er jo lige præcis de indicier, der gør det så helt afgørende vigtigt,
+at vi får den undersøgelse. Og i en af evalueringsrapporterne fra
+marts 2011 står der, at der er meget, der tyder på, at de nye studenter
+har en mindre faglig viden end de tidligere studenter. Det står der i
+en af evalueringerne. Så skal man da følge op på det og finde ud af,
+hvad det er for en faglig viden, de ikke har, eller om det bare er et
+skud i tågen. Når der nu er en hel række indicier, der peger på, at der
+bliver flere og flere studenter, men at de bliver dummere og dummere, er der da grund til at tjekke det alvorligt og sætte nogle mennesker til at lave nogle systematiske analyser. Alt andet er da uansvarligt.";Marie Krarup
+95279;Time;"Formanden:
+Ministeren.";Kl. 14:15
+95313;Time;;Kl. 14:17
+95359;title_name;":
+Der ligger rækken af evalueringer, og som jeg også sagde i mine to
+tidligere svar, er det, som Produktivitetskommissionen helt konkret
+peger på, at der måske er brug for lidt flere kvantitative data. Det vil
+vi gerne kigge på i det videre arbejde med gymnasiet.";Christine Antorini
+95632;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til undervisningsministeren.
+Det næste spørgsmål er til forsvarsministeren af fru Marie Krarup.";Kl. 14:17
+95778;Time;"Formanden:
+Ministeren.";Kl. 14:17
+95812;Time;;Kl. 14:15
+95858;title_name;":
+Jeg tror, at fru Marie Krarup har ganske svært ved med hårde fakta i
+hånden at konstatere, at studenterne bare bliver dummere og dummere. Men det ændrer ikke ved den pointe, som jeg synes er det vigtige, nemlig at vi tager Produktivitetskommissionens anbefalinger alvorligt.
+En del af de udspil, der er kommet fra regeringen, er til, hvordan
+vi styrker, at alle unge bliver så dygtige som muligt, også på de
+
+Spm. nr. S 674
+9) Til forsvarsministeren af:
+Marie Krarup (DF) (medspørger: Pia Adelsteen (DF)):
+Mener ministeren ikke, at danske sikkerhedsinteresser og danske arbejdspladser er vigtigere end EU`s konkurrenceregler, og vil ministeren ikke sørge for, at dansk sikkerhed og danske arbejdspladser
+prioriteres højest på ministerens område?
+Formanden:
+Værsgo.
+
+Onsdag den 22. januar 2014 (S 674)";Christine Antorini
+96672;Time;;Kl. 14:17
+96691;name_party;":
+Tak. Spørgsmålet lyder: Mener ministeren ikke, at danske sikkerhedsinteresser og danske arbejdspladser er vigtigere end EU's konkurrenceregler, og vil ministeren ikke sørge for, at dansk sikkerhed
+og danske arbejdspladser prioriteres højest på ministerens område?";Marie Krarup
+96966;Time;"17
+
+ben, bør vi da gøre alt, hvad vi kan, for at ændre klubbens regler i
+stedet for bare at rette ind – og så måske i det skjulte alligevel gøre,
+som vi altid har gjort. Det er da uværdigt.
+Jeg vil derfor bede ministeren om at sætte danske sikkerhedsinteresser og danske arbejdspladser over EU's konkurrenceregler.";Kl. 14:18
+97292;Time;"Formanden:
+Værsgo.
+
+Formanden:
+Ministeren.";Kl. 14:21
+97347;Time;;Kl. 14:21
+97357;Time;;Kl. 14:18
+97394;title_name;":
+Jeg vil gerne starte med at takke fru Marie Krarup for det stillede
+spørgsmål. Jeg kan sige det meget klart: Regeringen vil naturligvis
+arbejde for at varetage Danmarks væsentlige sikkerhedsinteresser.
+Endvidere kan jeg oplyse, at styrket vækst og beskæftigelse i Danmark er en af regeringens topprioriteter. Det handler bl.a. om dansk
+eksport. Det er i det lys naturligt, at Forsvarsministeriet også inden
+for sit område arbejder for at støtte dansk erhvervsliv. Det gør vi
+bl.a. gennem Forsvarsministeriets open for business-strategi.
+Når det er sagt, er forsvaret i sine anskaffelser underlagt udbudsreglerne, som overordnet set er en samlet betegnelse for EU's retlige
+regulering samt nationale regler og principper, der fastsætter, hvorledes ordregivende myndigheder skal agere ved køb af varer og tjenesteydelser. Den EU-retlige regulering omfatter EU's forsvars- og sikkerhedsdirektiv og EU's udbudsdirektiv samt EUF-traktaten. Fra nationalt plan gælder bl.a. tilbudsloven og håndhævelsesloven. Regeringen støtter grundlæggende, at det er fornuftigt, at vi har nogle fælles spilleregler i EU, samtidig med at vi selvfølgelig arbejder for at
+fremme danske interesser.";Nicolai Wammen
+98579;Time;"Formanden:
+Marie Krarup.";Kl. 14:19
+98615;Time;;Kl. 14:19
+98634;name_party;":
+Tak. I Danmark har vi jo tidligere gjort meget ud af at praktisere
+modkøb, når vi skulle foretage store investeringer i forsvarsmateriel.
+Det har vi gjort af to grunde: for at sikre arbejdspladser i Danmark
+og for at sikre ekspertise på det forsvarsindustrielle område i landet.
+Det har vi nemlig en sikkerhedsinteresse i at have.
+Men nu vil EU som bekendt ikke længere give os lov til at gøre,
+som vi plejer. Der skal nemlig nu være fri konkurrence, og i stedet
+for at vælge det produkt og den samarbejdspartner, der giver Danmark mest henset til vores nationale sikkerhedsmæssige interesse, så
+skal vi nu som hovedregel vælge den billigste løsning. Det vil sige,
+at vi tvinges til at tænke økonomisk i stedet for nationalt. Kun som
+en helt særlig undtagelse må vi tage hensyn til særlige sikkerhedsinteresser.
+Det er efter Dansk Folkepartis mening trist. Det er trist, fordi andre lande er anderledes stillet end Danmark og kan agere helt anderledes. De store lande har deres egen forsvarsindustri og køber naturligvis hos sig selv. Den mulighed har vi ikke. Derfor har modkøb,
+hvor danske virksomheder fik adgang til udenlandske forsvarsindustrielle virksomheder som underleverandør, været af stor betydning.
+Det er der al mulig grund til at fortsætte med.
+Derfor ville det være en både økonomisk og patriotisk god gerning, hvis regeringen i stedet for at rette ind til højre, når EU siger
+noget, gav sig til at argumentere for sin gode sag. Hvorfor skal vi
+være så følgagtige over for regler, som ikke gavner os, bare fordi det
+gavner de store EU-lande? Hvorfor skal vi være medlem af en klub,
+hvor reglerne skader os? Hvis vi fortsat skal være medlem af klub-";Marie Krarup
+100337;title_name;":
+Vi mener grundlæggende, at det er i Danmarks interesse, at der er
+fælles spilleregler i EU både for store lande og for små lande. Den
+måde, vi bl.a. aktivt arbejder for at sikre, at der er en positiv udvikling, når det gælder forsvarsindustrien, er, at vi har arbejdet meget
+målrettet på, at små og mellemstore virksomheder skal have en stærkere rolle, når det gælder EU's politikker netop på forsvarsområdet.
+Vi er også meget aktive, når det gælder om at sætte en grøn dagsorden.
+Det er noget, der er god fornuft i, både set gennem det samlede
+EU's briller, men også gennem danske briller. For de danske virksomheder på det her område vil typisk være små og mellemstore
+virksomheder, og fordi et af de områder, hvor Danmark står meget
+stærkt, jo er med hensyn til den grønne dagsorden. Det gælder også
+inden for forsvarsområdet.";Nicolai Wammen
+101178;Time;"Formanden:
+Fru Marie Krarup.";Kl. 14:22
+101218;Time;;Kl. 14:22
+101237;name_party;":
+Der er mange gode ting ved et fælles internt marked i EU. Det fremmer konkurrencen på en lang række områder. Men lige på forsvarsområdet er det problematisk og især for Danmark, fordi vores forsvarsindustri er skruet sådan sammen, at det er små virksomheder,
+der er underleverandører til andre store forsvarsindustrielle virksomheder.
+De store lande kan købe hos sig selv. Det kan vi ikke. Hvis vi vil
+have en forsvarsindustri i Danmark, er vi nødt til fra statens side at
+hjælpe til i form af den praksis, vi har haft tidligere, og som har været meget, meget succesfuld både på det økonomiske og det nationale område. Derfor synes jeg, det er trist, at regeringen så velvilligt
+går med til at afskaffe reglerne.";Marie Krarup
+101961;Time;"Formanden:
+Ministeren.";Kl. 14:22
+101995;Time;;Kl. 14:22
+102032;title_name;":
+Jeg forstod jo på fru Marie Krarup for et øjeblik siden, at man ikke
+havde lyst til at være medlem af klubben EU. Det er jo så noget,
+Dansk Folkeparti selv må forklare sig ud af. Men for de af os, der
+mener, at det er en god idé at være med i et fællesskab, hvor vi også
+handler på tværs af grænser, og hvor danske virksomheder kan sælge
+deres produkter til de andre EU-lande uden hindringer, ja, der er det
+faktisk meget vigtigt, at man aktivt går ind og er med til at sætte en
+dagsorden. Og den dagsorden, Danmark har sat, er netop, at små og
+mellemstore virksomheder skal have en stærkere placering i det her
+samarbejde, og at det grønne skal være en meget bærende værdi, også når det gælder forsvarsindustrien. For det er godt for arbejdspladser, det er godt for miljøet, det er godt for klimaet.
+
+18
+
+Onsdag den 22. januar 2014 (S 785)";Nicolai Wammen
+102886;Time;;Kl. 14:25
+102897;Time;"Formanden:
+Der var annonceret en medspørger, men jeg ser ikke nogen medspørger. (Marie Krarup (DF): Nej, medspørgeren er udgået). Så er det
+sidste runde til fru Marie Krarup.";Kl. 14:23
+103083;Time;;Kl. 14:23
+103102;name_party;":
+Danmark skal aktivt være med til at sætte en dagsorden, får jeg at
+vide, men er det at være aktivt med til at sætte en dagsorden bare at
+rette ind til højre og afskaffe modkøb med risiko for økonomisk skade for Danmark og national skade? Det kan jeg ikke se. Jeg synes
+ikke, at vi skal melde os ud af klubben, men jeg synes da, at vi skal
+være med i en klub, hvor reglerne er, så de også passer os. Det skal
+vi da gøre en aktiv indsats for, og det må da være regeringens ansvar
+at forsøge at ændre klubbens regler, hvis man aktivt vil være med til
+at sætte en dagsorden, som ministeren siger. Så der er en opgave for
+ministeren og erhvervsministeren.";Marie Krarup
+103764;Time;"Formanden:
+Forsvarsministeren.";Kl. 14:24
+103806;Time;;Kl. 14:24
+103843;title_name;":
+Der er bestemt en opgave i at sørge for, at man også på EU-plan, når
+det gælder forsvarsområdet, tænker grønt og tænker i små og mellemstore virksomheder. Jeg må forstå de sidste bemærkninger her fra
+Dansk Folkepartis spørger derhen, at man bakker op om, at regeringen gør et stykke arbejde på det her område. Og der er den gode nyhed, at det er vi i gang med. Så tak, fordi jeg fik lejlighed til at fortælle det her i dag.";Nicolai Wammen
+104278;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til forsvarsministeren.
+Det næste spørgsmål er til erhvervs- og vækstministeren af hr.
+Flemming Damgaard Larsen. Værsgo.";Kl. 14:24
+104449;Time;"Spm. nr. S 785
+10) Til erhvervs- og vækstministeren af:
+Flemming Damgaard Larsen (V)):
+Vil ministeren tage initiativ til, at der indføres særlige forsikringsregler for dækning af indbo ved stormflod, så de ramte borgere ydes
+fuld dækning af mistet indbo og ikke selv skal betale en selvrisiko på
+10 pct. af løsøre og indbo og den udbetalte forsikringssum svarer til
+omkostningerne ved generhvervelse af indboet, så borgerne ikke
+rammes økonomisk af, at værdien af indboet af- og nedskrives?
+Formanden:
+Værsgo.";Kl. 14:24
+104970;Time;;Kl. 14:25
+105000;name_party;":
+Tak for det, formand. Spørgsmålet lyder: Vil ministeren tage initiativ til, at der indføres særlige forsikringsregler for dækning af indbo
+ved stormflod, så de ramte borgere ydes fuld dækning af mistet indbo, således at borgerne ikke selv skal betale en selvrisiko på 10 pct.
+af løsøre og indbo, samt at den udbetalte forsikringssum svarer til
+omkostningerne ved generhvervelse af indboet, så borgerne ikke
+rammes økonomisk af, at værdien af indboet af- og nedskrives?
+
+Formanden:
+Ministeren.";Flemming Damgaard Larsen
+105504;Time;"Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Tak for spørgsmålet og for muligheden for at få en runde til om hele
+stormflodsproblematikken. Jeg tænkte, at jeg lige indledningsvis vil
+tage fat, hvor vi slap sidste uge, nemlig på spørgsmålet om ordningens dækning i forhold til bygningsreglementet.
+Jeg har haft lejlighed til at se lidt nærmere på ordningen, og jeg
+kan oplyse, at der inden for de øvrige rammer af ordningen ydes erstatning til ekstraomkostninger som følge af skærpede lovkrav. Altså, hvis bygningsreglementet f.eks. påbyder nogle mere sikre elkontakter, vil den ekstraomkostning, som er forbundet hermed, være en
+lovliggørelsesomkostning, som er dækket af ordningen.
+Så vil jeg gå videre til spørgsmålet. Jeg forstår udmærket godt de
+mange mennesker, som er omfattet af den her tragedie – hvad en
+stormflod jo faktisk er – og som står og skal have erstatning i forhold til indbo og løsøre. Og jeg forstår deres frustration, ikke alene i
+forhold til hvad der er sket, men også i forhold til hvordan tingene
+bliver værdisat.
+Må jeg ikke bare indledningsvis sige, at det, der er intentionen
+med loven, som jo er blevet vedtaget af alle Folketingets partier i sin
+tid, er, at den – om jeg så må sige – skal dække og ligne det, der er
+den øvrige lovgivning på forsikringsområdet. Den skal altså dække
+en lignende situation, som var der opstået en brand, som var der sket
+eksempelvis et tyveri eller noget andet. Og det er så det, man har
+prøvet at kalkere over.
+Jeg vil også understrege, at ordningen bliver finansieret af alle,
+hvilket vil sige, at alle, der har en brandforsikring, betaler til det her.
+Så det er også et spørgsmål om provenu – altså et spørgsmål om,
+hvor meget man kan opkræve hos den enkelte borger i forhold til
+det. Og derfor er hele ideen med det, at når man kommer ud for den
+her katastrofe, bliver ens indbo, løsøre og andet vurderet ud fra de
+samme kriterier, som er gældende i den øvrige forsikringsordning.
+Så det er det, der er intentionen med ordningen.
+Men lad mig også sige allerede nu, at der er nogle steder, hvor vi
+er lidt forundret over, hvordan man har fastsat værdierne i forbindelse med konkrete sager. Og derfor vil jeg bede Stormrådet om i samarbejde med Forsikring & Pension at undersøge, hvordan det er, man
+laver de her opgørelsesmetoder, og se på, hvordan praksis har været
+– f.eks. om den har været ensartet over det hele – og eventuelt foretage de nødvendige tilpasninger.";Kl. 14:25
+107953;Time;"Formanden:
+Hr. Flemming Damgaard Larsen.";Kl. 14:28
+108005;Time;;Kl. 14:28
+108035;name_party;":
+Tak for svaret – og også tak for den første del af svaret vedrørende
+bygningsreglementet, for det er et meget stort problem. Jeg kan sige,
+at jeg så sent som for et kvarter siden fik en mail fra en af de berørte
+personer, der kunne fortælle, at man ikke opgør det på den måde,
+som ministeren her beskriver. Altså, man laver en fejlagtig opgørelse, når man skal vurdere indbo og løsøre, så jeg er meget glad for, at
+der bliver taget fat i den problematik.
+Jeg ved også, at ministeren har gjort og gør en stor indsats for situationen i forhold til genhusning, og derfor er det også vigtigt, at vi
+får klaret de andre ting på området. For mange har jo mistet næsten
+alt – det er lige fra vaskemaskiner, køleskabe og komfurer til skabe
+og andet indbo osv. – og så er der jo en stor udfordring, når man skal
+generhverve, både i forhold til ned- og afskrivningen, men også i
+
+Onsdag den 22. januar 2014 (S 785)
+
+forhold til at man skal betale 10 pct. i selvrisiko. Det er rigtig hårdt
+for mange familier i området, og det er derfor, jeg godt vil have, at
+ministeren, når det gælder den selvrisiko på 10 pct. af indboet og
+forskellen mellem generhvervelsesomkostningerne og forsikringssummen, som er en stor økonomisk byrde, går ind og svarer på, at
+det, når vi taler om en naturkatastrofe, så ikke skal pålægges de enkelte familier og man får en dækning, der gør, at man kan komme
+videre med sit liv. For der er jo her ikke bare tale om, at det er en
+juledekoration, der er gået ild i; der er jo tale om en naturkatastrofe.";Flemming Damgaard Larsen
+109565;Time;"Formanden:
+Ministeren.";Kl. 14:29
+109599;Time;"Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Der er jeg nødt til at sige, at de mennesker, de gode kollegaer her, da
+de på et tidspunkt lavede loven, jo lavede den med henblik på, at den
+skulle spejle den eksisterende lovgivning på området, og der har
+man lagt ind, at der også er en selvrisiko på 10 pct. Så det er en postgang for sent at bede mig om at løse det problem. Så er det muligt, at
+man vil ændre det fremover, men så risikerer man jo at komme ind i
+de sædvanlige problemstillinger, der er med hensyn til det her forsikringsmarked. Altså, det er i dag også sådan, at man, hvis nu en
+bolig bliver udsat for brand og man skal ind at opgøre alle værdierne
+i forhold til det, jo så ikke får alt til nypris igen; det er jo bygget ind i
+forsikringsprincippet – og ellers risikerer man faktisk også sjovt nok,
+at der er nogen, der vil komme til at tjene penge på det her, og det
+ville måske se lidt mærkeligt ud. Så intentionen med lovgivningen
+har i sin tid været, at den skulle ligne det, der gælder på det øvrige
+forsikringsmarked. Og der gælder der de her regler, og derfor kan
+jeg ikke lave dem om i forhold til, hvad lovgivningen har været i sin
+tid. Hvis man fremover vil gøre det, kan vi jo være betænkelige ved,
+om folk så vil stå ekstra godt i sådan en situation, eksempelvis i forhold til en brand. Og der er jo selvfølgelig også et finansieringsspørgsmål. For det her kommer jo til at blive oven i præmierne, og
+så bliver det måske lidt halvpebret.";Kl. 14:29
+111081;Time;"Formanden:
+Hr. Flemming Damgaard Larsen.";Kl. 14:31
+111133;Time;;Kl. 14:31
+111163;name_party;":
+Altså, det vil jo være fint, hvis man kan finde ud af noget med hensyn til fremtiden på området, men når det gælder de borgere, der i
+dag er ramt, synes jeg også vi skal ind og se på det. Men det skal vi
+ikke klare i dag; det må vi så klare med en direkte forhandling om,
+hvordan det skal løses.
+Men noget andet er jo den usikkerhed, som folk er udsat for. De
+skal jo have en sikkerhed for, om de kan få genopbygget deres hus,
+om de har råd til det, og om de, hvis de ikke har råd, så kan låne til
+det, hvis ikke de får fuld erstatning. Og hvad med det indbo, de så
+mister; kan det generhverves, osv. osv.? Og det er jo stadig væk en
+naturkatastrofe, vi taler om, og derfor er mit spørgsmål: Mener ministeren på den baggrund, at lovgivningen kan håndtere den virkelighed, som de her mennesker nu står i, med hensyn til at skabe en tryghed for fremtiden?";Flemming Damgaard Larsen
+112028;Time;"Formanden:
+Ministeren.
+
+19";Kl. 14:32
+112067;Time;"Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Altså, jeg er nødt til at sige, at det selvfølgelig er en helt speciel begivenhed, at der er en naturkatastrofe af den her art; de siger, at det
+kun er en gang hvert tusinde år, det sker, så lad os håbe, at der i
+hvert fald går tusind år til, før vi oplever noget lignende, om nogen
+sinde. Men intentionen med loven har jo været, at den skal ligne den
+øvrige forsikringslovgivning, og derfor kan man ikke gå ind nu her
+bagefter, efter at man har vedtaget loven og sige, at nu skal de have
+et højere beløb, medmindre man selvfølgelig vil indkalde til forhandling. Og så skal man selvfølgelig finde ud af, hvordan man finansierer det, og finde nogle specielle ordninger i forhold til det.
+Det, jeg kan love, er, at man kan få en ensartet og ordentlig vurdering af tingene rundtomkring, når man skal have opgjort værdien af
+de forskellige ordninger. Det vil jeg meget, meget gerne være med
+til.
+Så må jeg sige noget til spørgsmålet. Nu har jeg ikke undersøgt
+det, og jeg har ikke været i kontakt med dem, men jeg kan ikke forestille mig, at der står realkreditinstitutter eller for den sags skyld banker og nægter folk muligheden for at få lov til at genopføre deres huse. Jeg kan ikke forestille mig, at banker og realkreditinstitutter tænker sådan. Men i givet fald, hvis der er eksempler på det, tager jeg
+meget gerne en snak med branchen om det, altså om de lige præcis i
+den her situation synes at det ville være en god idé at nægte folk det.";Kl. 14:32
+113574;Time;"Formanden:
+Hr. Flemming Damgaard Larsen.";Kl. 14:33
+113626;Time;;Kl. 14:33
+113656;name_party;":
+Nu var ministeren før inde på, at man ikke skal kunne tjene på at få
+erstatning. De mange mennesker, jeg har talt med ude i området, der
+har været udsat for stormflod, kommer i hvert fald ikke til at tjene på
+det her, tværtimod, også selv om de skulle få fuld dækning til genhusning, til genopbygning af deres hus, til indbo osv. For der er en
+lang række ekstraomkostninger, som ikke bliver dækket, selv om de
+skulle få fuld dækning for det, jeg lige har nævnt her. Så der er ingen, der tjener på det her.
+Med hensyn til det med en lånemulighed er jeg meget glad for, at
+ministeren vil gå ind og undersøge det, for det er også noget, som
+giver stor usikkerhed. Vil banker, vil realkreditinstitutter gå ind og
+give lån, når man så skal genopføre sit hus, ud over den erstatning,
+man nu kan få? Men jeg forstår på ministeren, at det vil ministeren
+se nærmere på.";Flemming Damgaard Larsen
+114528;Time;"Formanden:
+Ministeren.";Kl. 14:34
+114562;Time;"Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Ja, og det sidste kan jeg bekræfte, for jeg kan ikke forestille mig, at
+ikke også realkreditinstitutter og banker vil tage et samfundsansvar
+oven på sådan en katastrofe. Så derfor har jeg ikke fantasi til at forestille mig, at de vil afvise at give folk en ordentlig behandling. Så det
+vil jeg, hvis der er konkrete eksempler på det, meget gerne tage op i
+forhold til branchen.
+Så er det ikke sådan, at jeg har en mistanke om, at der er nogen,
+der vil tjene penge på det, eller ikke under de folk, som det er gået
+ud over, en ordentlig behandling eller noget andet. Jeg er bare nødt
+til at redegøre for, hvad loven er i øjeblikket, og hvad rammerne er,
+og det er ikke mig og den her regering, der har vedtaget loven, men
+den tidligere regering, og det skete så med tilslutning fra samtlige af
+
+20
+
+Onsdag den 22. januar 2014 (S 788)
+
+Folketingets partier. Og der står så nogle præmisser i loven, som siger, at vi skal følge det, der gælder i forhold til den øvrige forsikringsvirksomhed, og derfor er reglerne, som de er i dag. Det skyldes
+ikke, at jeg på nogen som helst måde aktivt nægter, at folk får yderligere i forhold til det, der er. Men det, jeg kan gøre, er, at jeg kan gå
+ind og hjælpe i forhold til, hvordan man værdifastsætter dele af løsøre og indbo og andet, hvor der har været en kritik om en uensartet
+behandling.";Kl. 14:34
+115956;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål er også til erhvervs- og vækstministeren af
+hr. Flemming Damgaard Larsen.
+
+klogt i at fastholde det princip hele vejen igennem, for ellers underminerer vi vores eget system.
+Jeg har ved tidligere lejligheder talt med og til realkreditbranchen
+og sagt, at jeg ikke ser for mig, at bare fordi man bor i et bestemt
+postnummerområde, kan man så ikke få en individuel og ordentlig
+behandling i forbindelse med kreditvurdering af den enkelte bolig.
+De har bekræftet over for mig, at sådan forholder det sig. Så det regner jeg også med at man efterlever, fordi realkreditsektoren også har
+et samfundsmæssigt ansvar for, at man rent faktisk yder et lån de
+steder, hvor man kan.";Kl. 14:35
+116692;Time;"Formanden:
+Hr. Flemming Damgaard Larsen.";Kl. 14:38
+116744;Time;;Kl. 14:38
+116755;Time;"Spm. nr. S 788
+11) Til erhvervs- og vækstministeren af:
+Flemming Damgaard Larsen (V)):
+Vil ministeren undersøge og eventuelt revidere de barrierer i lovgivningen for optagelse af realkreditlån, som gør det svært eller helt
+umuligt for borgere at optage lån til køb, fornyelse, udbygning og
+istandsættelse af boligen og erhvervsbygninger på de danske småøer
+og i landdistrikterne, så man med lovgivningen ikke modarbejder
+vækst og udvikling i yderområderne?
+Formanden:
+Hr. Flemming Damgaard Larsen.";Kl. 14:35
+117264;Time;;Kl. 14:35
+117294;name_party;":
+Tak. Vil ministeren undersøge og eventuelt revidere de barrierer i
+lovgivningen omkring optagelse af realkreditlån, som gør det svært
+eller helt umuligt for borgere at optage lån til køb, fornyelse, udbygning og istandsættelse af boliger samt erhvervsbygninger på de danske småøer og landdistrikter, så man ved lovgivningen ikke modarbejder vækst og udvikling i yderområderne?";Flemming Damgaard Larsen
+117682;Time;"Formanden:
+Ministeren.";Kl. 14:36
+117716;Time;"Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Det er klart, at med faldende boligpriser oven på den finansielle krise kombineret med, at der også er et ændret bosætningsmønster i
+landet, giver det nogle udfordringer for yderområderne også på ejendomsmarkedet, men jeg mener ikke, som der står i spørgsmålet, at
+lovgivningen for realkreditbelåning indeholder barrierer for, at man
+kan udvikle yderområderne.
+Hvis vi ser kort på statistikken, viser de tilgængelige data for realkreditsektoren, at nyudlånet for både land- og yderkommuner er
+steget i 2012 i forhold til 2011. Det er på den baggrund vurderingen,
+at land- og yderkommuner ikke har haft en markant anderledes udvikling i nyudlån end resten af landet. Jeg vil også sige, at det selvfølgelig er centralt i lovgivningen omkring realkredit, at man i forbindelse med långivningen jo skal vurdere, om der er et reelt aktiv,
+og om det aktiv også kan videresælges. Det er det, det hele beror på,
+hele tilliden til systemet beror på. Og hvis det vurderes, at et hus ikke er, om jeg så må sige, pengene værd, og det aldrig vil kunne videresælges, ja, så skal man ikke kunne give kredit i det tilfælde.
+Det er jo en individuel vurdering fra gang til gang. Sådan er det,
+men det bygger jo på et sundt princip om, at der skal være reale værdier for pengene, hvis man skal ud at belåne, og jeg tror, at vi gør";Kl. 14:36
+119109;name_party;":
+Tak for svaret. Altså, vi har jo politisk valgt, at vi ønsker et Danmark
+i balance og et sammenhængende Danmark, men desværre er konsekvensen af den nuværende lovgivning om optagelse af realkreditlån
+– og der er jeg så lidt uenig med ministeren – at småøer og flere
+landsbyer er blevet områder, hvor køberne ikke kan få realkreditlån.
+En af barriererne er § 19 i bekendtgørelsen om god skik for finansielle virksomheder, investeringsforeninger m.v., og en anden barriere er reglen om, at realkreditinstitutterne kun må låne til boligkøb,
+hvis boligen kan sælges inden for ½ år med flere mulige købere.
+Konsekvensen er, at mange ejendomme ikke kan belånes med realkreditlån, fordi det tager længere tid at sælge ude i et landområde
+end i de større og attraktive byområder. Det betyder igen, at interesserede købere enten ikke kan købe eller er overladt til at finde andre
+lånemuligheder, også selv om de har en forsvarlig økonomi med fast
+arbejde osv.
+Derfor er mit opfølgende spørgsmål: Mener ministeren, at en forlængelse af den salgsperiode, der skal afgøre, om en bolig er realkreditværdig, fra de 6 måneder til f.eks. 12 måneder vil skabe et mere
+fair fundament at vurdere en bolig på i yderområderne, hvor liggetiden naturligt er længere end i byområder?";Flemming Damgaard Larsen
+120380;Time;"Formanden:
+Ministeren.";Kl. 14:39
+120414;Time;"Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Jeg ved ikke, om jeg er med på præmissen om, at det er naturligt, at
+boligerne har længere liggetid ude i yderområderne. Jeg vil henholde
+mig til, hvad logikken på markedet siger, nemlig at det så kan være,
+at prisen er for høj. Jeg tror, at det vil være udgangspunktet for almindelig økonomisk teori at sige, at i det øjeblik man ikke kan finde
+købere, er prisen for høj. Og man vil opleve, at sætter man prisen
+markant ned, skal der nok komme nogle. Det plejer at være teorien
+for det, og som det bygger på.
+Så vil jeg sige, at jeg godt kan forstå problemstillingen derude,
+og jeg kan godt forstå, at der er nogle, der er frustrerede i forhold til
+at låne penge eller andet derude. Jeg kan bare ikke bede de pågældende realkreditinstitutter om at tilsidesætte et sundt princip om kun
+at udlåne, når værdierne er der. For hvad er alternativet, jeg så skal
+gøre? Skal jeg så gå ind og sige til den branche, som vi har kritiseret
+– og endda med rette – for, at de har været meget letsindige i forhold
+til diverse udlån, at nu skal de endelig bare sætte drøn på udlånene
+uden at have realværdier bag. Det vil jeg altså meget, meget nødig
+stå for.
+
+Onsdag den 22. januar 2014 (S 781)";Kl. 14:40
+121659;Time;;Kl. 14:44
+121670;Time;"Formanden:
+Hr. Flemming Damgaard Larsen.
+
+21
+
+Formanden:
+Ministeren.";Kl. 14:41
+121750;Time;;Kl. 14:41
+121761;Time;;Kl. 14:44
+121791;name_party;":
+Jamen der er i hvert fald et problem, det ved vi. Jeg er bl.a. medlem
+af Udvalget for Landdistrikter og Øer, og vi får den ene melding efter den anden fra disse småøer og yderområder om, at der er et reelt
+problem – den ene gang efter den anden. Så der er et problem.
+Men jeg formoder også, at ministeren mener, at erhvervsdrivende, som også bidrager til udvikling og liv på småøer og ude i landdistrikter, også skal have mulighed for at få realkreditlån. Og der vil
+jeg godt spørge ministeren, om ikke ministeren er enig med mig i, at
+de manglende lånemuligheder er gift for erhvervslivet på disse øer
+og i yderområderne, og at løsningen på de udfordringer, vi altså ser i
+yderområderne, ikke er at tvinge erhvervslivet til at søge til byerne
+for at etablere sig, men at den er, at man kan låne til erhverv ude på
+småøerne og i yderområderne.
+
+Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Jeg kan sige, at i forhold til nogle af de forslag, der er nævnt indtil
+videre, så er der ikke umiddelbart noget, der frister i forhold til at
+ændre lovgivningen. Men skulle der komme nye gode og kreative
+ideer til, hvordan vi kan gøre tingene bedre og samtidig fastholde ansvarligheden, så ser jeg gerne på det.
+I øvrigt havde spørgeren en pointe om, at når man igennem en
+del bankpakker har hjulpet mange af långiverne, skulle de også vise
+lidt mere samfundssind. Det synes jeg også ville være godt, og der
+vil jeg godt den anden vej opfordre til, at spørgeren og hans parti og
+alle dem ovre på den side vil huske at sige det, hver eneste gang de
+møder en bankmand.";Flemming Damgaard Larsen
+123367;Time;"Formanden:
+Ministeren.";Kl. 14:42
+123402;Time;"Formanden:
+Tak til erhvervs- og vækstministeren. Spørgsmålet er sluttet.
+De næste spørgsmål er til fødevareministeren, og det første er fra
+hr. Erling Bonnesen.";Kl. 14:45
+123575;Time;;Kl. 14:42
+123586;Time;"Erhvervs- og vækstministeren (Henrik Sass Larsen):
+Jeg er fuldstændig enig i, at det er afgørende, at virksomheder, også
+ude i landområderne, i yderområderne, har mulighed for at få kredit,
+at låne, at udvikle sig og at vækste, for det er netop den væsentligste
+vej til, at vi får huspriser og andet til at stige. Men det er bare også
+sådan, at man er nødt til at spørge sig selv hele tiden om, hvad regeringen vil gøre ved det.
+Regeringen vil gøre det, at vi selvfølgelig vil opfordre – det beder
+vi også bankerne om – til at give en reel og fair kreditvurdering.
+Men jeg kan jo ikke gå ind i et frit marked hos nogle mennesker,
+som ejer nogle penge, og så sige, at nu skal de låne dem ud til et eller andet. Så skal jeg lave statsstøtte eller statsbank eller noget andet.
+Jeg tænker ikke, at det er det, spørgeren vil have mig til – eller hvad?
+Altså, jeg kan sagtens være med på problemstillingen, men hver eneste gang står bankerne eller realkreditsektoren eller noget andet og
+vurderer, om de vil låne penge ud eller ej. Det kan jeg jo ikke gå ind
+og blande mig i konkret hver eneste gang.
+Så, altså, det, jeg kan gøre, er, at jeg kan stille alle mulige andre
+faciliteter til rådighed i form af vækstkautioner, erhvervsobligationer, og jeg kan lave en masse gode tiltag for at styrke virksomhederne, men jeg kan jo ikke gå ind og blande mig i driften og kreditvurderingen i den enkelte bank.
+
+Spm. nr. S 781
+12) Til fødevareministeren af:
+Erling Bonnesen (V) (medspørger: Anni Matthiesen (V)):
+Er ministeren enig med statsministeren i, at landbruget er et presset
+erhverv, og at reguleringen samlet skal give erhvervsøkonomiske gevinster, og hvordan vil ministeren i bekræftende fald i praksis gennemføre det?";Kl. 14:45
+125313;Time;"Formanden:
+Flemming Damgaard Larsen.";Kl. 14:43
+125361;Time;;Kl. 14:43
+125391;name_party;":
+Det er jeg enig i, men det, jeg også mest taler for, er jo at se på, om
+der er nogle barrierer i lovgivningen. Men det andet er jo, at vi her i
+Folketinget har lavet en lang række bankpakker, der tilgodeser långiverne, og så må långiverne omvendt også vise et samfundssind over
+for disse områder i landet.
+Derfor vil jeg her til sidst godt spørge ministeren, om ikke han vil
+prøve at se på, om de nuværende regler for realkreditlån er fair, og
+om de er med til at hæmme for vækst og udvikling på småøerne og i
+yderområderne – både for boligbyggeri og boligkøb, men også for
+erhvervslivet.
+
+Formanden:
+Værsgo.";Flemming Damgaard Larsen
+126011;Time;;Kl. 14:45
+126032;name_party;":
+Tak for det. Spørgsmålet lyder: Er ministeren enig med statsministeren i, at landbruget er et presset erhverv, og at reguleringen samlet
+skal give erhvervsøkonomiske gevinster, og hvordan vil ministeren i
+bekræftende fald i praksis gennemføre det?";Erling Bonnesen
+126291;Time;"Formanden:
+Fødevareministeren.";Kl. 14:45
+126333;Time;;Kl. 14:45
+126369;title_name;":
+Tak for spørgsmålet. Jeg kan starte med at sige, at jeg altid er enig
+med statsministeren, også i det her tilfælde.
+Landbruget er under pres. Vi taler om en sektor, der har en gæld
+på ca. 360 mia. kr., så det er klart, at det er en presset situation. For
+at nuancere debatten kan jeg dog sige, at der faktisk er rigtig mange
+bedrifter, hvor man heldigvis har sorte tal på bundlinjen, og landbruget som helhed bevæger sig da også i den rigtige retning. Hr. Erling
+Bonnesen kender sikkert tallene, men alligevel: I 2012 havde man et
+rekordoverskud på 10 mia. kr. – et overskud, som forventes at stige
+til omkring 13 mia. kr. i 2013 og 14 mia. kr. i 2014.
+Med hensyn til regulering fremgår det af aftalen om finansloven
+for 2014, og her citerer jeg:
+»I forlængelse af Natur- og Landbrugskommissionen er aftaleparterne enige om at arbejde aktivt for en mere målrettet miljøregulering
+af landbruget således, at indsatsen sker dér, hvor virkningen og omkostningseffektiviteten er størst. En ny regulering vil samlet skulle
+
+22
+
+Onsdag den 22. januar 2014 (S 781)
+
+give erhvervsøkonomiske gevinster, være baseret på et solidt fagligt
+grundlag og fastholde et højt niveau for miljøbeskyttelse.«
+Fremtidens regulering skal altså tage udgangspunkt i, hvor meget
+landmanden påvirker natur og miljø, og vi skal ikke regulere over en
+kam.
+Omvendt er det selvfølgelig også klart, at vi jo stadig væk har vores miljømål, ligesom også den tidligere regering havde det, og dem
+skal vi naturligvis leve op til. Tak.";Dan Jørgensen
+127879;Time;"Formanden:
+Hr. Erling Bonnesen.";Kl. 14:47
+127922;Time;;Kl. 14:47
+127943;name_party;":
+Tak for det. Det synes jeg var godt, og det er vældig fint, at vi får
+slået fast, hvad perspektiverne er og sat rammerne som grundlag for
+de videre drøftelser om det.
+Hvad angår lige præcis de erhvervsøkonomiske gevinster, så er
+det jo helt nødvendigt at få frem, og derfor var det også godt, at
+statsministeren fik det bekræftet her i salen kort før jul. For vi ved
+alle sammen, som ministeren også er inde på i sit svar, at det går op
+og ned, men især er der meget, der desværre er gået den forkerte vej
+de senere år.
+Så for at kunne give erhvervet nogle rammer, så man kan investere i en fremtidig øget råvareproduktion, så fødevarevirksomhederne
+kan få noget at arbejde med og få sendt noget ud i landet, er det jo
+helt essentielt, at de ting, vi foretager os, de beslutninger, vi træffer
+herinde i Folketinget nu, kommer til at give erhvervsøkonomiske gevinster.
+Der skal kort og godt ligesom være et plus på bundlinjen, selvfølgelig under hensyntagen til at der skal være rent vand i hanerne, altså at vi skal passe på miljøet, og de gode ting, vi gør, når det gælder
+påpasseligheden, om man så må sige, i forhold til omgivelserne, er
+vi ikke uenige om. Derfor er det også godt, at vi med afklaringen af
+de her spørgsmål får et fokus på det, og at vi sådan lige kunne bekræfte hinanden i det. For det vil være rart at få på plads, at de beslutninger, vi tager her, skal betyde et plus på bundlinjen, når der
+måles på erhvervsøkonomiske gevinster. Kunne vi få det slået helt
+fast? Det synes jeg kunne være rigtig godt.";Erling Bonnesen
+129478;Time;"Formanden:
+Ministeren.";Kl. 14:48
+129512;Time;;Kl. 14:48
+129548;title_name;":
+Jeg er ikke sikker på, om jeg helt forstår hr. Erling Bonnesens opfølgende spørgsmål. Hvis jeg blev bedt om at gentage, hvad jeg lige har
+sagt, kan jeg godt gøre det. Var det dét, hr. Erling Bonnesen mente?
+Det er klart, at hvis vi laver målrettet miljøregulering til sammenligning med ikkemålrettet miljøregulering, er der selvfølgelig en
+grund til, at vi laver den målrettede miljøregulering, nemlig at den er
+bedre end den ikkemålrettede miljøregulering.";Dan Jørgensen
+130017;Time;"Formanden:
+Hr. Erling Bonnesen.";Kl. 14:49
+130060;Time;;Kl. 14:49
+130081;name_party;":
+Tak. Nu levner tiden ikke plads til en masse debat om det lige nu,
+men det er jo så værd lige at tjekke de lovforslag, som vi har i gang
+nu, og jeg vil ikke rulle hele debatten om dem op under det her
+spørgsmål, men vi havde et lovforslag på dagsordenen i går, som jo
+
+også, om jeg så må sige, har belastende økonomiske virkninger på
+bundlinjen, altså L 88, som jo pålægger erhvervet en række omkostninger, og det er det, som jeg siger vi lige skal have in mente, når vi
+får en opfølgning på det. Nu er vi ikke færdige med behandlingen af
+lovforslaget her i salen, så jeg vil da håbe, at vi lige kan få en ekstra
+vending på det.
+Ministeren har jo også selv været ude med en melding i forbindelse med sine tiltrædelsesinterviews om, at når man pålægger erhvervet nogle omkostninger og byrder, skal der nogle lettelser til et
+andet sted, og det var så det, jeg prøvede at bringe ind i debatten nu.
+Men forhåbentlig kan vi få det fulgt op efterfølgende, så der også
+kan komme nogle lettelser, som kan imødegå de belastninger, der
+ligger i det lovforslag.";Erling Bonnesen
+131144;Time;"Formanden:
+Ministeren.";Kl. 14:50
+131178;Time;;Kl. 14:50
+131214;title_name;":
+Al respekt for det, men nu blander hr. Erling Bonnesen jo tingene
+sammen. Det spørgsmål, som bliver stillet, og som jeg svarede på,
+handler om målrettet miljøregulering. Det svarede jeg på. Nu går
+spørgeren så ind og taler om målsætninger. Selvfølgelig er det da sådan, at vi her i landet godt kan have mere ambitiøse målsætninger,
+end man har i andre lande; man kan også godt i morgen have en mere ambitiøs målsætning, end vi har i dag, og det har hr. Erling Bonnesens eget parti vel også en gang imellem. Så det er, med al respekt, to helt forskellige ting.";Dan Jørgensen
+131785;Time;"Formanden:
+Så er det fru Anni Matthiesen som medspørger.";Kl. 14:50
+131853;Time;;Kl. 14:50
+131874;name_party;":
+Tak. Jeg ville egentlig gerne, hvis det var muligt her i dag, sådan få
+lidt styr på, om man ikke også nogle gange tænker på tværs i regeringen. Altså, jeg tænker lidt på, om man ikke nogle gange er nødt til
+at kigge på, om det ene lovforslag, hvori man på den ene side måske
+sætter nogle miljømål, kan risikere på den anden side at påvirke
+landmandens bundlinje negativt.
+Der tænker jeg på, at man jo så samtidig siger, at det er vigtigt, at
+vi skaber vækst, også inden for fødevarebranchen. Jeg kunne godt
+tænke mig at høre ministerens holdning til, om man ikke nogle gange kan være nødt til at kigge på det på tværs og sige: Det duer ikke,
+at vi skruer op for miljømålene uden også at skele til, hvordan det så
+påvirker landmandens egen bundlinje.";Anni Matthiesen
+132635;Time;"Formanden:
+Ministeren.";Kl. 14:51
+132669;Time;;Kl. 14:51
+132705;title_name;":
+Fru Anni Matthiesen spørger, om vi tænker på tværs. Ja, det kan jeg
+forsikre om at vi gør. Som det vil være fru Anni Matthiesen bekendt,
+har vi lige fremlagt en vækstplan for fødevarer. Det var tre ministre,
+herunder mig selv, der fremlagde den. Det var erhvervs- og vækstministeren, miljøministeren og mig selv som fødevareminister. Og
+det er et meget, meget godt eksempel på, at vi ikke bare taler sammen, men vi arbejder også meget tæt sammen, fordi vi naturligvis
+anerkender, at tingene er komplekse og viklet ind i hinanden.
+Miljølovgivningen har effekter på konkurrencedygtighed, men jo
+ikke kun negative, som det ligesom ligger implicit i spørgerens måde
+
+Onsdag den 22. januar 2014 (S 782)
+
+at fremstille tingene på. Der er også mange eksempler på, at lovgivning, som umiddelbart kan betragtes som restriktiv, faktisk fører til
+bedre konkurrenceevne. Et rigtig godt eksempel på det er fødevaresikkerhedsspørgsmålet, hvor vi jo har ret restriktive regler og krav i
+Danmark, som isoleret betragtet kan siges at være dårlige for erhvervet, for det koster jo penge at gennemføre det, men som samlet set
+selvfølgelig er en fordel, fordi det er det, der gør, at vi har åbnet
+markeder i f.eks. Asien, hvor vi ellers ikke kunne have solgt vores
+produkter.
+
+23
+
+isoleret set giver nogle belastninger. Hvad er det så ministeren i anden sammenhæng kunne have af overvejelser om at komme med af
+lettelser, sådan at vi netop får det her med, at det samlet er i balance,
+som ministeren selv har udtrykt det, og sådan at det jo passer med
+det, statsministeren har sagt, altså at det giver erhvervsøkonomiske
+gevinster?
+Så det er sådan set ikke at blande det sammen. Det er at se det
+samlet.";Dan Jørgensen
+134401;Time;;Kl. 14:55
+134412;Time;"Formanden:
+Fødevareministeren.
+
+Formanden:
+Fru Anni Matthiesen.";Kl. 14:52
+134488;Time;;Kl. 14:55
+134498;Time;;Kl. 14:52
+134519;name_party;":
+Det er jeg egentlig også enig med ministeren i, nemlig at der selvfølgelig også på den måde kan være positive ting og fordele ved miljølove, som også positivt gør, at bundlinjen hos landmanden måske
+bliver bedre. Men man kan sige, at i den situation, som mange landmænd er i lige her og nu, hvor de er presset økonomisk, og hvor rigtig mange har gæld, har ministeren da ikke også måske en lidt øget
+forpligtelse til at skele til, om så de lovforslag, man fremsætter i Folketingssalen, ikke trækker tæppet væk under rigtig mange landmænd
+– for mange landmænd kan måske risikere ikke at kunne levere
+f.eks. slagtesvin til slagterierne efterfølgende?";Anni Matthiesen
+135178;Time;;Kl. 14:53
+135214;title_name;":
+Jeg er meget enig i, at vi skal se det samlet. En ting, som jeg med al
+respekt måske mener spørgeren glemmer, er, at når De hele tiden
+nævner erhvervsøkonomiske gevinster, glemmer De den anden halvdel af den sætning i finanslovsaftalen, som Deres eget parti altså også støttede, og som går sådan: ...og fastholde et højt niveau for miljøbeskyttelse. Det er jo altså også vigtigt. Tingene skal gå på to ben.
+Det håber jeg vi er enige om.
+Så spørger De om, hvad vi ellers kunne tænke os. Jamen nu håber
+jeg da, at De vil være med til det her. Okay, man må ikke sige De.
+Jeg håber, at hr. Erling Bonnesens parti vil være med til rent faktisk
+at gennemføre mange af de initiativer, vi har heri. Og alt efter hvor
+mange af de initiativer, der bliver gennemført, må vi jo se på bagefter, hvor mange ekstra initiativer der er behov for.
+
+Formanden:
+Ministeren.";Dan Jørgensen
+136080;Time;;Kl. 14:56
+136090;Time;;Kl. 14:53
+136126;title_name;":
+Fru Anni Matthiesen spørger, om vi har en øget forpligtelse. Det kan
+jo nemt blive noget ordkløveri, for jeg mener, at vi altid har en forpligtelse. Men det er selvfølgelig klart, at der i en situation, hvor erhvervet og branchen er presset, er god basis for at beskæftige sig
+med måske nogle ting, som tidligere har været hellige køer bl.a. for
+spørgerens parti. Det er jo faktisk præcis det, vi gør med vækstplanen for fødevareerhvervet. Det er en vækstplan, som meget prominente repræsentanter fra erhvervet selv – Søren Gade, Peder Tuborgh og andre – har sagt kan skabe rigtig mange jobs, helt op til
+25.000 nye jobs i sektoren. Så joh, det tager vi bestemt seriøst, og
+joh, det er præcis det, der er baggrunden for, at vi har fremlagt den
+her meget ambitiøse plan.
+
+Formanden:
+Spørgsmålet er sluttet.
+Der er endnu et spørgsmål til fødevareministeren fra hr. Erling
+Bonnesen.";Dan Jørgensen
+137017;Time;"Spm. nr. S 782
+13) Til fødevareministeren af:
+Erling Bonnesen (V) (medspørger: Anni Matthiesen (V)):
+Hvilke initiativer vil ministeren og regeringen tage, bl.a. som følge
+af slagterilukningerne, ud over den fremlagte vækstplan til styrkelse
+af landbrugets rammevilkår og konkurrenceevne?
+Formanden:
+Værsgo.";Kl. 14:56
+137336;Time;;Kl. 14:54
+137347;Time;;Kl. 14:56
+137358;Time;;Kl. 14:54
+137379;name_party;":
+Tak for det. Spørgsmålet lyder: Hvilke initiativer vil ministeren og
+regeringen tage, bl.a. som følge af slagterilukningerne, ud over den
+fremlagte vækstplan til styrkelse af landbrugets rammevilkår og konkurrenceevne?
+
+Formanden:
+Så er det hr. Erling Bonnesen til afslutning.";Erling Bonnesen
+137677;name_party;":
+Det er jo interessant, at også statsministeren var inde på at se på det
+samlet. Det var også det, der var mit udgang, så det vil jeg vende tilbage til det under afslutningen. Statsministeren brugte netop udtrykket, at det er et samlet landbrugserhverv, der er presset, og så er det
+klart, at man også er nødt til at se på det samlet i forbindelse med
+lovgivningen. Men når man så diskuterer miljølovgivningen, er det
+klart, at man selvfølgelig skal se på det, og når man diskuterer andre
+ting, skal man selvfølgelig konkret se på dem. Man kan jo ikke diskutere det hele på en gang.
+Man er nødt til at have det perspektiv, som bringes i fokus her til
+sidst, at det så skal ende med på bundlinjen samlet at give erhvervsøkonomiske gevinster. Det er sådan set det, der er det centrale i det.
+Det er derfor, jeg også bragte det i spil, at vi har et lovforslag, der";Erling Bonnesen
+138550;Time;"Formanden:
+Fødevareministeren.";Kl. 14:56
+138592;Time;;Kl. 14:56
+138628;title_name;":
+Tak for spørgsmålet. Lad mig først og fremmest sige, at vi i regeringen selvfølgelig synes, at det er utrolig trist, at de her slagterier har
+været nødt til at lukke. Vi synes også, at det er ærgerligt, at det netop
+nu har været magtpåliggende for Danish Crown, at de har følt sig
+nødsaget til at gøre det, fordi det jo netop er nu, vi faktisk leverer
+nogle af de ting, som man fra erhvervets side har efterspurgt i den
+føromtalte vækstplan. Samtidig er det også sådan, at man i Tyskland
+
+24
+
+Onsdag den 22. januar 2014 (S 782)
+
+indfører en minimumslønning nu; det vil sige, at der vil blive højere
+lønninger på slagterierne, hvilket alt andet lige vil forbedre konkurrencevilkårene for danske slagterier.
+Når det så er sagt, spørger hr. Erling Bonnesen ind til, hvad vi vil
+gøre ud over den vækstplan. Jeg vil nu nok tillade mig at sige, at det
+måske er et lidt frisk spørgsmål at stille, eftersom vi lige har påbegyndt forhandlingerne, hvor hr. Erling Bonnesen selv sidder med,
+om en ekstremt ambitiøs plan. Jeg tror ikke, at hr. Erling Bonnesen
+kan nævne noget fortilfælde for så ambitiøs en plan for erhvervet,
+som altså potentielt set ifølge erhvervet selv kan føre til 25.000 nye
+arbejdspladser. Det er klart, at om der skal yderligere tiltag til, jo også afhænger af, hvad vi kan blive enige om.
+Så hvis hr. Erling Bonnesen kan give tilsagn om her i dag, at han
+kan sige ja til hvert eneste bogstav og punktum i det, vi har fremlagt,
+så giver det måske mere mening at begynde tale om, at der er behov
+for yderligere indsatser. Men skulle vi nu ikke lige forhandle de over
+30 initiativer, vi har fremlagt, før hr. Erling Bonnesen begynder at
+beskæftige sig med, hvad der skal ske bagefter?";Dan Jørgensen
+140336;Time;"Formanden:
+Hr. Erling Bonnesen.";Kl. 14:58
+140379;Time;;Kl. 14:58
+140400;name_party;":
+Tak for det. Vi er alle sammen enige om, at det er en fuldstændig
+forfærdelig situation at komme i – det er det jo, hver gang man lukker et slagteri eller andre ting. Det er jo set før andre steder i landet.
+Men der er kun én ting at gøre, og det er jo at rejse sig og komme
+videre. Vi har også meddelt tilsagn om at gå ind i positive drøftelser
+om det udspil, der er kommet fra regeringen. Der er nogle gode, positive overskrifter i det; vi har også nogle forslag til nogle forbedringer på nogle af strækningerne.
+Når jeg stillede spørgsmålet med den vinkel, altså hvad der skal
+ske ud over det, var det, fordi jeg lagde mærke til, at ministeren jo
+selv svarede, at lige præcis den fremlagte vækstplan var sådan et forslag til første skridt. Det var ikke her, men ved en tidligere lejlighed
+bare nogle få dage tilbage, at ministeren brugte den vending. Så
+tænkte jeg: O.k., jamen så er der jo noget mere på vej på en eller anden facon. Så kunne det være rart lige måske at få et par ord om det.
+Jeg er klar over, at svartiden her ikke giver mulighed for et udtømmende svar, men det var bare lige for at høre om ministerens
+overvejelser. Det kunne jo have været, at der måske var nogle tanker
+om nogle flere LAG-midler eller et eller andet, der sådan kunne bruges til nogle lokale initiativer. Det ville også undre mig, for vi har jo
+sådan set lige færdigforhandlet det og er nået til enighed om det. Så
+det var bare lige for at tjekke op på, om der var andre overvejelser,
+som vi så bare ikke har hørt om endnu.";Erling Bonnesen
+141924;Time;"Formanden:
+Ministeren";Kl. 14:59
+141957;Time;;Kl. 14:59
+141993;title_name;":
+Jeg kan forsikre hr. Erling Bonnesen om, at det ikke er sådan, at vi,
+selv hvis vi får vedtaget den her plan fuldstændig, som vi gerne vil,
+så har tænkt os at lukke Fødevareministeriet, og at jeg vil trække
+mig fra min position og sige: Der er ikke mere at gøre, vi har løst
+alle problemer. Sådan er det selvfølgelig ikke.
+Vi vil jo kontinuerligt arbejde på at forbedre vilkårene for hele
+erhvervet, herunder selvfølgelig også slagteribranchen. Så ja, der vil
+da forhåbentlig ud i al fremtid til stadighed blive ved med at komme
+nye initiativer for at forbedre forholdene for branchen. Men det er
+klart, at vi lige nu står foran en kæmpeopgave og altså også har nog-
+
+le rigtig, rigtig gode virkemidler her. Og jeg kvitterer da også for, at
+hr. Erling Bonnesen roser dele af planen – jeg tror ovenikøbet, at hr.
+Erling Bonnesen sagde, at der var mange gode initiativer i den – så
+jeg ser frem til forhandlingerne.";Dan Jørgensen
+142918;Time;"Formanden:
+Hr. Erling Bonnesen.";Kl. 15:00
+142961;Time;;Kl. 15:00
+142982;name_party;":
+Tak for det. Jeg er fuldstændig enig i, at der er de positive overskrifter, og dem skal vi drage nytte af. Så er det klart, at når der opstår
+den her ekstraordinære situation og ministeren selv siger, at det ligesom var første led i det, første skridt på vejen, tror jeg ministeren tidligere selv sagde, så kunne det have været en indikation på, at der
+var noget mere på vej, og det var det, som jeg så gerne bare ville have på bordet. For det er klart, at de første ting, der sådan træder, jeg
+vil ikke sige automatisk i kraft, men altså næsten, nemlig beskæftigelsesindsatsen osv., jo kører – og godt for det.
+Men det var mere for at høre, om ministeren sådan havde nogle
+ting, man kunne begynde at se på, f.eks. de potentialer, der er omkring nicheproduktion, gårdbutikker, egnsspecialiteter og andet. Vi
+kender jo begge to fra vores fynske hjemegn alle de fynske herligheder, og der kunne det jo så være, at det var nogle af de ting, ministeren havde i tankerne. Og det synes jeg da i hvert fald kunne være rart
+at få bragt med ind i vores overvejelser. Det kunne have været det,
+det var det så ikke. Men nu får ministeren en sidste chance, og så
+kan vi høre, om der måske alligevel er lidt.";Erling Bonnesen
+144189;Time;"Formanden:
+Ministeren.";Kl. 15:01
+144223;Time;;Kl. 15:01
+144259;title_name;":
+Jeg er ked af, hvis den formulering, jeg brugte, altså at det var første
+skridt, havde den virkning på hr. Erling Bonnesen – hr. Erling Bonnesen er en utålmodig mand, og det er også fint nok – at hr. Erling
+Bonnesen slet ikke kan koncentrere sig om den opgave, der ligger lige foran nu, som ellers er stor nok. Det skal jeg beklage, og så skulle
+jeg have udtrykt mig anderledes. Det, jeg mente med det, var sådan
+set kun det, at vi selvfølgelig kontinuerligt ud i al fremtid fortsat –
+uanset hvor godt det, som vi forhandler nu, bliver – vil forbedre vilkårene for erhvervet.";Dan Jørgensen
+144846;Time;"Formanden:
+Så er det fru Anni Matthiesen som medspørger.";Kl. 15:02
+144914;Time;;Kl. 15:02
+144935;name_party;":
+Jeg vil godt vende lidt tilbage til de problemstillinger, der er i forbindelse med, at der nu sker sådan en slagterilukning, som vi har oplevet det her forleden, også fordi jeg må sige, at jeg, da der i går var en
+kort debat i Folketingssalen om det, blev lidt nervøs over noget. For
+der talte ministeren om, at man jo sagtens kunne være ambitiøs,
+uden at man overimplementerede, og der kunne jeg godt tænke mig
+at høre ministerens holdning til det, og måske få et svar på det, nemlig med hensyn til det, som ministeren og ministeriet gør på hele
+landbrugsområdet for egentlig at lave det, der med et populært ord
+hedder nabotjek. Altså, hvad er det, vi kan tage ved lære, f.eks. af
+Tyskland, i forhold til at sikre, at de her svin også fremadrettet bliver
+slagtet på danske slagterier?
+
+Onsdag den 22. januar 2014 (S 791)";Anni Matthiesen
+145771;Time;"Formanden:
+Fødevareministeren.";Kl. 15:03
+145813;Time;;Kl. 15:03
+145849;title_name;":
+Der bliver spurgt til nabotjek. Som spørgeren formentlig vil vide –
+derfor kan det jo være fornuftigt nok alligevel at spørge, for så kan
+man også dele det med offentligheden – så er det jo sådan, at vi netop har iværksat både et væksttjek og et nabotjek. Med de tjek gennemgår vi både, hvordan reglerne er i de lande, vi normalt sammenligner os med, i forhold til fødevarevirksomheder, men vi gennemgår også mere specifikt reglerne i Danmark, altså ved ud fra sådan
+en common sense-betragtning at se på: Er de her regler nødvendige?
+Er der noget dobbeltkonfekt? Er der regler, der kunne laves på en
+smartere måde, så vi opnår det samme beskyttelsesniveau, fordi vi
+simpelt hen insisterer på, at der skal være så lidt bureaukrati som
+muligt? Og kan man gøre tingene smartere og dermed styrke erhvervets konkurrenceevne, uden at det går ud over beskyttelsesniveauet,
+så vil vi selvfølgelig gøre alt for at gøre det.";Dan Jørgensen
+146775;Time;"Formanden:
+Fru Anni Matthiesen.";Kl. 15:03
+146818;Time;;Kl. 15:04
+146839;name_party;":
+Det lyder godt, altså i forhold til det med at få begrænset mængden
+af bureaukrati og for den sags skyld unødige kontroller; det tror jeg
+vi alle sammen her i Folketingssalen kan blive enige om. Det, jeg
+godt kunne tænke mig måske at få et svar på her i dag, er: Kan ministeren sige noget om, hvornår ministeren forventer at der kan fremlægges nogle officielle ting med hensyn til det her nabotjek, som er
+igangsat?";Anni Matthiesen
+147266;Time;"Formanden:
+Ministeren.";Kl. 15:04
+147300;Time;;Kl. 15:04
+147336;title_name;":
+Ja, vi skulle i løbet af foråret begynde at kunne se de første resultater
+af den undersøgelse, der er sat i værk. Jeg har naturligvis en ambition om, at det skal gå så stærkt som muligt, så jeg kan forsikre spørgeren om, at vi ikke har nogen interesse i at forsinke en proces – vi
+vil tværtimod fremskynde en proces så meget som overhovedet muligt. Det, jeg har fået at vide af mit embedsværk, er, at man i løbet af
+foråret vil se de første resultater. Om det så er nok til at konkludere
+på det osv., kan jeg selvfølgelig ikke vide – det forbehold må jeg
+nødvendigvis tage – men jeg kan i hvert fald forsikre om, at vi har
+travlt, for det her er faktisk også en vigtig del af vores samlede
+vækstplan.";Dan Jørgensen
+148048;Time;"Formanden:
+Så er det hr. Erling Bonnesen for at afslutte.";Kl. 15:05
+148117;Time;;Kl. 15:05
+148138;name_party;":
+Det, som jeg lige vil bringe i fokus igen, her afslutningsvis, var det,
+som jeg lige nåede at berøre til sidst, nemlig det med egnsspecialiteter og gårdbutikker osv. Det er jo selvfølgelig en fynsk specialitet,
+men det er der jo også mange andre steder, når man sådan kommer
+rundt, altså i det jyske, ved Vestkysten, og på Bornholm og andre
+steder, så jeg mener også, at det har et landsdækkende perspektiv.
+
+25
+
+Men vi har da begge to grund til at være stolte af det på vores fynske
+hjemstavns vegne. Og når vi sådan set faktisk er enige om, at vi også
+i forbindelse med vækstplanerne skal satse på kvalitetsprodukter og
+højværdiprodukter og den slags, så må jeg sige, at det jo lige præcis
+er sådan et sted, hvor man også skal sikre, at rammevilkårene er i orden. Og det var det, som jeg ligesom ønskede at bringe en lille smule
+ind i debatten, jeg vil næsten sige fra sidelinjen – og dermed skal det
+ikke være sagt, at det, om jeg så må sige, lige pludselig skal tage fokus væk fra alt det andet, som jo selvfølgelig er det vigtigste – så afslutningsvis kunne spørgsmålet jo være:
+Mener ministeren, at rammevilkårene er gode nok, for at iværksættere og ildsjæle, om jeg så må sige, netop kan køre gårdbutikker
+og drive egnsspecialiteterne og de her særlige produkter frem?";Erling Bonnesen
+149425;Time;"Formanden:
+Fødevareministeren.";Kl. 15:06
+149467;Time;;Kl. 15:06
+149503;title_name;":
+Det spørgsmål hilser jeg velkommen, også fordi det giver mig lejlighed til at sige noget om det fødevareforlig, som vi jo også snart skal
+forhandle. For det her handler jo ikke kun om vækstplanen; der ligger i fødevareforliget jo også noget om regler om opstart af virksomheder, kontrol med virksomheder og alle de her ting, og der er det jo
+oplagt at tage det op og se på: Hvad kan vi egentlig gøre for at gøre
+det nemmere? Så er der også ting, som vi allerede har gennemført –
+jeg ved ikke, om hr. Erling Bonnesen har nået at se det – vi har jo
+her for få dage siden gennemført en ny ordning, der gør, at man, hvis
+man vil åbne en lille fødevarevirksomhed, hvor man tidligere skulle
+sende formularer ind og vente i ugevis på at få svar, så altså bogstavelig talt kan få svar på få sekunder, hvis man har været inde at gøre
+det via nettet. Da jeg læste mine papirer, spurgte jeg mine embedsfolk, om vi kunne være helt sikre på, at det var få sekunder – for hvis
+jeg siger det i Folketingssalen, skal det være rigtigt – og det fik jeg
+et positivt svar på, at ja, det er faktisk få sekunder. Så det er jo en
+kæmpe administrativ lettelse, som gør det meget nemmere, når man
+skal sidde derude og åbne en lille ny virksomhed. Så det håber jeg at
+hr. Erling Bonnesen vil være glad for.";Dan Jørgensen
+150795;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål er også til fødevareministeren af fru Anni
+Matthiesen.";Kl. 15:07
+150916;Time;"Spm. nr. S 791
+14) Til fødevareministeren af:
+Anni Matthiesen (V) (medspørger: Erling Bonnesen (V)):
+Mener ministeren, at øget statstilskud til økologiske landmænd er
+den rette vej at gå for at sikre danske økologiske fødevarer, og er der
+en øvre grænse for, hvor meget staten skal sikre økologien økonomisk?
+Formanden:
+Værsgo.";Kl. 15:07
+151255;Time;;Kl. 15:07
+151276;name_party;":
+Tak. Mener fødevareministeren, at øget statstilskud til økologiske
+landmænd er den rette vej at gå for at sikre danske økologiske fødevarer, og er der en øvre grænse for, hvor meget staten skal sikre økologien økonomisk?
+
+26
+
+Onsdag den 22. januar 2014 (S 791)";Anni Matthiesen
+151550;Time;;Kl. 15:10
+151561;Time;"Formanden:
+Ministeren.
+
+Formanden:
+Fru Anni Matthiesen.";Kl. 15:07
+151628;Time;;Kl. 15:07
+151639;Time;;Kl. 15:10
+151675;title_name;":
+Der er ikke nogen tvivl om, at økologi er noget, der skal støttes. Det
+er en produktionsform, som er god for miljøet, som er god for dyrevelfærden, og som har positive sundhedseffekter for forbrugerne.
+Det er også derfor, at regeringen har en meget ambitiøs plan: Vi vil
+fordoble det økologiske areal i 2020 sammenlignet med 2007. Det
+går desværre ikke helt stærkt nok med den omlægning – vi omlægger kun omkring 5.000-6.000 ha om året, og der er behov for at omlægge omkring det tredobbelte. Derfor har vi også sat en proces i
+værk, hvor vi er i gang med at evaluere de indsatser. Sidste år blev
+der samlet set givet omkring 450 mio. kr. til denne omlægning.
+Til spørgsmålet om, hvorvidt der skal gives penge, og om det er
+nødvendigt, vil jeg svare: Ja, det er noget, vi rigtig gerne vil støtte.
+Det er klart, at vi vil gøre det på så god, ordentlig og effektiv en måde som muligt, og det er derfor, vi har sat en proces i værk, hvor vi
+dels evaluerer, dels holder stakeholdermøder, hvor eksperter, folk fra
+branchen – folk, der virkelig har hænderne nede i mulden – kommer
+ind og fortæller os, hvad der virker, og hvad der ikke virker, inden vi
+træffer beslutning om, hvordan den videre proces for økologi i Danmark skal være.";Dan Jørgensen
+152926;name_party;":
+Nu er det heldigvis mig, der får mulighed for at stille spørgsmål og
+ikke behøver at svare. Men det, der bekymrer mig, er selvfølgelig
+det, som de seneste ugers avisartikler jo viser, om, at der er mange
+økologer, som simpelt hen enten har valgt at stoppe eller overvejer at
+stoppe med økologisk produktion, fordi det simpelt hen ikke man
+betale sig for dem rent økonomisk. Der hører jeg, at ministeren siger,
+at man nu er i gang med at lave en undersøgelse om, hvordan man
+anvender pengene bedst. Men jeg vil jo sige, at jeg er nervøs for, at
+alle de her landmand, også nogle af dem, jeg har talt med, når at lukke ned, inden den er færdig. Derfor synes jeg jo, det haster.
+Så jeg vil gerne høre om ministerens holdning til det, og i forlængelse af det også høre, om det ikke også bør kunne hvile i sig.";Anni Matthiesen
+153743;Time;"Formanden:
+Fru Anni Matthiesen.";Kl. 15:09
+153786;Time;;Kl. 15:09
+153807;name_party;":
+Jeg fik ikke helt svar på, om ministeren mener, at der er en øvre
+grænse for, hvor meget staten skal sikre økologien, så det håber jeg
+at ministeren vil svare på her i anden runde.
+Jeg kunne også godt tænke mig, hvis ministeren måske kunne nå
+at svare på, om der ikke kan være en fare for konkurrenceforvridning, hvis staten går ind og yder for meget statsligt tilskud til økologien.";Anni Matthiesen
+154202;Time;"Formanden:
+Ministeren.";Kl. 15:09
+154237;Time;"Formanden:
+Ministeren.";Kl. 15:11
+154271;Time;;Kl. 15:11
+154307;title_name;":
+Jeg har lidt svært ved at forstå, hvor spørgerne vil hen med spørgsmålet, der går i to retninger. Det ene er en sådan lidt kritisk tilgang
+til tingene, altså om vi bruger for meget. Og det andet er, om vi gør
+nok. Altså, jeg ved ikke, hvor De selv ligger, men De har ganske ret
+i, at det ikke er mig, der stiller Dem spørgsmål, det er Dem, der stiller mig spørgsmål. Undskyld, jeg siger De og Dem hele tiden! Det er
+fru Anni Matthiesen, der stiller mig spørgsmål.
+Altså, vi synes ikke i regeringen, at det går hurtigt nok den rigtige
+vej, men der er stor forskel på, om noget er status quo eller går den
+forkerte vej, og om det ikke går stærkt nok den rigtige vej, og det er
+det sidste, der er tilfældet. Vi omlægger 5.000-6.000 ha om året. Det
+er ikke status quo, det er ikke modsat. Vi omlægger stadig væk rigtigt. Næste år, og her tror jeg at fru Anni Matthiesen refererer til
+nogle artikler, der har været om mælkeproduktionen, vil der i Danmark blive produceret mere økologisk mælk, end der blev i år og året før. Så det går i den rigtige retning. Det går bare ikke så stærk i
+den rigtige retning, som vi gerne vil have det skal.";Dan Jørgensen
+155453;Time;;Kl. 15:12
+155464;Time;;Kl. 15:09
+155500;title_name;":
+Jeg er ikke helt sikker på, at jeg forstår, hvad det er, fru Anni Matthiesen ønsker. Ønsker hun det banale svar, så er det: Jo, selvfølgelig
+er der en grænse; der er en grænse for alt, også gode formål. Den
+grænse er fastsat efter mange forskellige parametre – hvad har man
+råd til, hvad virker, og hvad virker ikke. Så hvis fru Anni Matthiesen
+vil have det polemiske svar, kan hun sagtens få det. Hvis hun vil have det seriøse, ærlige, redelige og saglige svar, så var det sådan set
+det, jeg gav først, nemlig at vi er i gang med at evaluere, hvordan vi
+bruger pengene bedst.
+Lad mig så i øvrigt også tilføje, at det her jo vel egentlig også er
+noget, vi er enige om, altså at have den målsætning, at det er fornuftigt at gøre mere for økologien i Danmark. I hvert fald var spørgerens eget parti jo med til at indgå en aftale om landdistriktsprogrammet kort før jul, hvor vi afsatte ca. 20 pct. af landdistriktsprogrammet i 2014 og 2015 til økologiindsatsen, og det går jeg da ud fra at
+man stadig synes var en ganske udmærket idé.
+
+Formanden:
+Hr. Erling Bonnesen som medspørger.";Dan Jørgensen
+156592;Time;;Kl. 15:12
+156613;name_party;":
+Tak for det. Vi er heldigvis enige om, at økologi er godt. Det er godt,
+at der er nogle økologiske varer på hylderne. Det er også godt, at der
+er ikkeøkologiske varer på hylderne. Det er jo forbrugerne, der bestemmer, hvad der skal i indkøbskurven, kort og godt. Jeg er da glad
+for, at også den nuværende regering overtog den daværende regerings målsætning om fordobling af det økologiske areal. Jeg vil så
+godt prøve at gå et skridt videre med et spørgsmål. Man skal så med
+den ene hånd prøve at hjælpe med de udfordringer, som den økologiske branche står i, f.eks. producenterne af økologisk mælk. Men der
+er nogle problemstillinger, der skal adresseres på en eller anden facon, og så bliver spørgsmålet jo, om fødevareministeren så vil prøve
+at gå til finansministeren og få yderligere hjælp, eller om fødevareministeren vil regulere det inden for de budgetter, der er til rådighed
+i forvejen. Og så er der jo selvfølgelig afvejningen i forhold til andre
+ikkeøkologiske landmænd, som kommer til at stå med den regning.
+
+Onsdag den 22. januar 2014 (S 794)
+
+Det er nogle af de overvejelser, man selvfølgelig er nødt til at gøre
+sig. Så jeg ved ikke, om ministeren har mulighed for at gå nogle
+skridt tættere på i afklaringen af det.";Erling Bonnesen
+157859;Time;"Formanden:
+Ministeren.";Kl. 15:13
+157893;Time;;Kl. 15:13
+157929;title_name;":
+Tak til spørgeren. Jeg har i hvert fald mulighed for måske at kvalificere hr. Erling Bonnesens spørgsmål en lille smule. For problemer er
+jo ikke bare altid problemer. Det er rigtigt, at der f.eks. er nogle
+mælkeproducenter, der har problemer. Men hvad skyldes det problem? Det sker f.eks., at mælkekvoterne ophører. Det er jo ikke et
+problem som sådan. Det er sådan set en god ting. Det har Danmark
+kæmpet rigtig meget for skulle ske, og det er rigtig godt for de konventionelle landmænd. Og man må bare sige: Vi ønsker jo ikke at
+forbedre forholdene for økologerne ved at forværre forholdene for
+det konventionelle. Det ville være en rimelig tåbelig strategi i et
+land, hvor vi jo også er stolte af vores gode konventionelle produktion.
+Så derfor har vi altså iværksat den her proces – det er hurtigtarbejdende, for vi har travlt – hvor vi skal indhente viden om, hvad der
+kan gøres bedre. Og så længe jeg ikke har fået de data, og så længe
+jeg ikke har fået den viden, så synes jeg, at det ville være ufint af
+mig at begynde at gætte på, hvad vi skal gøre. Det tror jeg også hr.
+Erling Bonnesen har respekt for.";Dan Jørgensen
+159055;Time;"27
+
+Men må jeg ikke som en generel kommentar sige – for vi tre
+kommer sikkert til at stå her meget, tror jeg, og det glæder jeg mig
+til: Hvilken forhandling, der foregår internt i en regering mellem ministre, og hvad jeg kommer til finansministeren med osv., skal man
+nok ikke regne med at blive indviet i ret meget tidligere, end jeg selv
+indvier finansministeren i det. Det er bare lige for en god ordens
+skyld. Det er jeg sikker på at hr. Erling Bonnesen har fuld forståelse
+for.";Kl. 15:14
+159549;Time;"Formanden:
+Så er det fru Anni Matthiesen til afslutning.";Kl. 15:16
+159617;Time;;Kl. 15:16
+159638;name_party;":
+Jeg har respekt for, at ministeren selvfølgelig skal have noget at
+træffe beslutning på baggrund af. Jeg hører også her i dag, at ministeren siger, at der skal arbejdes hurtigt i den proces, der nu er sat i
+gang. Nogle gange kunne jeg godt ønske mig, at man turde lufte sine
+ønsker her i Folketingssalen. Det kunne jeg godt tænke mig at slutte
+af med. Hvis ministeren selv skulle ønske, hvor mange af de danske
+fødevarer der skulle være økologiske fremadrettet, hvad kunne ministeren så ønske sig? Jeg tænker igen lidt på, om der er en øvre grænse for, hvor meget staten skal putte i de økologiske varer for at sikre
+økologien mest muligt.";Anni Matthiesen
+160289;Time;"Formanden:
+Ministeren.";Kl. 15:17
+160323;Time;"Formanden:
+Hr. Erling Bonnesen.";Kl. 15:17
+160366;Time;;Kl. 15:14
+160387;name_party;":
+Jamen selvfølgelig har man respekt for det. Tingene skal undersøges, inden man kan træffe en beslutning. Men det er relevant at diskutere det også her i Folketingssalen, og problemstillingen er relevant lige her uden for vinduet. Selvfølgelig skal det undersøges ordentligt først. Ministeren svarede jo så ikke på, om ministeren ville
+gå til finansministeren og måske sige, at der er behov for lidt ekstra.
+Det var den der principielle overvejelse, jeg lige ønskede afklaret.
+Jeg er glad for, at ministeren svarer, at selvfølgelig skal vi ikke bare
+tørre det problem af på andre i branchen, på andre i erhvervet, altså
+ikkekonventionelle. Så har vi fået den på plads, kan man sige. Så
+indsnævrer det selvfølgelig muligheden for at løse det. Og fuld respekt for, at der skal nogle analyser til. Men hvordan har ministeren
+det i forhold til at skulle gå til finansministeren? Det er ikke en opfordring, jeg sådan står med. Det er bare et spørgsmål til afklaring,
+altså om det overhovedet er noget, der er indgået i ministerens overvejelser, eller om den allerede ligesom er sat på plads. Så er det jo
+også ligesom klaret af rent regeringsmæssigt. Hvad kan man sige til
+det?";Erling Bonnesen
+161596;title_name;":
+Jamen jeg har jo sådan set svaret på det med, om der var en øvre
+grænse, og om det gav mening at sætte tal på det, hvilket jeg ikke
+mente det gav. Men hvis jeg skal komme spørgeren lidt i møde, kan
+jeg da godt allerede nu sige, inden vi har fået de der data ind, og inden vi har fået den der viden ind, at der i hvert fald er nogle ting,
+som står helt klart. Og en af de ting er jo, at man kan se på, hvor stor
+en andel af det kød, der sælges i Danmark, der er økologisk, og den
+andel er jo meget, meget lille. Den er på omkring 1 pct., når vi taler
+kød fra kvæg og grise, og endnu mindre for fjerkræ, hvorimod det
+for mejeriprodukter gælder, at vi er oppe på omkring en femtedel.
+Det er da klart, at det er nærliggende, at det er et af de problemer, vi
+skal se på. Det er et af de områder, hvor jeg godt kunne ønske mig
+en fremgang. Præcis hvor stor den fremgang skal være og hvornår
+osv., er det måske lidt præmaturt at begynde at beskæftige sig med
+nu.";Dan Jørgensen
+162563;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste og sidste spørgsmål i dag er til fødevareministeren fra
+fru Anni Matthiesen.";Kl. 15:18
+162696;Time;;Kl. 15:18
+162707;Time;"Formanden:
+Ministeren.";Kl. 15:15
+162741;Time;;Kl. 15:15
+162777;title_name;":
+Først må jeg igen henholde mig til, at jeg jo vanskeligt kan sige noget om, hvilke behov der bliver, før jeg har den viden. Derfor kan
+jeg også vanskeligt svare på, om der er behov for flere penge. Det er
+ikke mit indtryk. Mit indtryk er, at regeringen allerede har sat rigtig
+mange penge af. 460 mio. kr. brugte vi sidste år.
+
+Spm. nr. S 794
+15) Til fødevareministeren af:
+Anni Matthiesen (V) (medspørger: Erling Bonnesen (V)):
+Mener ministeren, at man kan øge den økologiske fødevareproduktion uden at reducere den samlede danske fødevareproduktion, og i givet fald hvordan?
+Formanden:
+Værsgo.
+
+28
+
+Onsdag den 22. januar 2014 (S 794)";Dan Jørgensen
+163426;Time;;Kl. 15:18
+163447;name_party;":
+Tak. Mener ministeren, at man kan øge den økologiske fødevareproduktion uden at reducere den samlede danske fødevareproduktion,
+og i givet fald hvordan?";Anni Matthiesen
+163611;Time;"arder mennesker, som der vil være på kloden i 2050, formentlig endda mere end 9 milliarder, bliver mætte, så er svaret selvfølgelig et
+entydigt nej. Det tror jeg også godt at spørgeren ved. Men hvis der i
+spørgsmålet ligger, om vi kan producere mere, så har vi faktisk ret
+klart sagt, at vi da gerne vil producere mere i Danmark. Hvis vi kan
+finde balancen, vil vi gerne producere mere; ja, vi ikke bare vil, vi
+tror faktisk godt, det kan lade sig gøre.";Kl. 15:18
+164076;Time;"Formanden:
+Ministeren.";Kl. 15:22
+164110;Time;;Kl. 15:18
+164146;title_name;":
+Igen er det jo et ret teoretisk spørgsmål. Alt andet lige kan man sagtens argumentere for, at hvis man tager 1 ha konventionelt landbrug
+og omlægger det til 1 ha økologisk, vil outputtet være mindre af det
+økologiske. Men for det første bliver økologi hele tiden mere effektivt, og det er jo ikke sikkert, at det vil være sådan ud i al fremtid –
+det er der nu meget der tyder på at det formentlig vil være – og for
+det andet skal man også diskutere: Hvad er outputtet? Er det væsentlige, hvor mange ton der bliver produceret, eller er det væsentlige,
+hvor mange penge vi tjener? Kan det svare sig? tror jeg der er nogle
+der siger en gang imellem.
+Der tror jeg at man må sige, og det er min tilgang til det, at den
+ideelle sammensætning i Danmark jo er den, som forbrugere og erhverv og alle mulige andre gerne vil have og efterspørger, selvfølgelig, men jo styret af nogle politiske guidelines, nogle politiske linjer,
+nogle visioner, nogle idealer. Der er det klart at jeg godt kunne ønske mig – hvilket jeg i øvrigt også tror at begge spørgere er enige i –
+at vi havde mere økologi, fordi det både miljømæssigt, sundhedsmæssigt og dyrevelfærdsmæssigt har en positiv effekt. Og hvad angår bundlinjen: Jamen kan man få 25 kr. for 1 l økologisk mælk fra
+Danmark i Kina, som vi kan nu, så kan det da godt være, at det er
+bedre at sælge 1 l økologisk mælk, end det er at sælge 1 ½ l konventionel mælk, hvis landmanden tjener mere på det.";Dan Jørgensen
+165592;Time;"Formanden:
+Fru Anni Matthiesen.";Kl. 15:20
+165635;Time;;Kl. 15:20
+165656;name_party;":
+Jeg kunne godt tænke mig her i mit andet spørgsmål, og det er måske også lidt med en værdipolitisk vinkel på spørgsmålet, at høre ministerens holdning til, at vi jo samtidig godt alle sammen ved, at der
+på verdensplan bliver flere og flere munde, der skal mættes. Det vil
+altså sige, at vi vel også har en eller anden politisk forpligtelse til at
+indtænke, hvordan vi også sikrer – med alle de munde at mætte, som
+der er på verdensplan bliver flere og flere af – at der er flere fødevarer, og dermed jo egentlig lidt indtænker vækstdagsordenen. Samtidig med at vi gerne med den ene hånd vil øge mængden af økologiske fødevarer, kan vi så også med den anden hånd sikre, at vi også
+reelt kan producere flere fødevarer?";Anni Matthiesen
+166384;Time;"Formanden:
+Ministeren.";Kl. 15:21
+166418;Time;;Kl. 15:21
+166454;title_name;":
+Det er meget komplicerede spørgsmål, spørgeren her er inde på, for
+det er rigtigt, at man selvfølgelig skal sikre, at der er mad til alle de
+munde, der skal mættes, men vi skal også sikre en balance mellem
+miljø og mennesker og økonomi på den her planet, og vi skal i særdeleshed sikre den balance her, hvor vi bor. Og hvis der i spørgsmålet ligger, om det er Danmark alene, der skal sikre, at de her 9 milli-
+
+Formanden:
+Fru Anni Matthiesen.";Dan Jørgensen
+166908;Time;;Kl. 15:22
+166929;name_party;":
+Som jeg hører ministeren, er der kort og godt ikke nogen modsætning i de her ting. Altså, man kan sagtens, som jeg hører ministeren,
+have ønsker og drømme om at højne produktionen af fødevarer, som
+er økologiske, og så samtidig jo opfylde ønskerne om øget vækst i
+fødevareerhvervet og det, at vi producerer flere fødevarer, som reelt
+også kan mætte de sultne børn.";Anni Matthiesen
+167305;Time;"Formanden:
+Ministeren.";Kl. 15:22
+167339;Time;;Kl. 15:22
+167375;title_name;":
+Jeg ved ikke, om man sagtens kan. Vi har en klar vision for, hvordan
+man kan. Hvor meget af den vision, vi kan komme igennem med, er
+jo også afhængigt af, hvor meget støtte vi kan få fra spørgerens parti,
+og hvor stor en fokus der skal være på at tjene penge. Altså, hvis
+Venstre nu kun har sådan en altruistisk, idealistisk tilgang til det, der
+handler om at hjælpe verdens fattige, så kan det godt være, det er en
+helt anden strategi, vi skal have, men hvis Venstre fastholder deres
+tidligere strategi, som også handler om, at erhvervet gerne skal tjene
+nogle penge, så kunne det godt være, vi også skulle satse på de produkter, som er højere oppe i værdikæden. Det har jo sådan set altid
+været god dansk tradition, og den synes jeg at vi skal fastholde, hvad
+enten det drejer sig om økologiske eller konventionelle produkter.
+Altså, en strategi, der går på at producere mest muligt billigst
+muligt, uanset hvilke idealistiske hensyn der måtte ligge bag, tror jeg
+ikke er særlig sund for Danmark. Jeg tror, vi skal have en strategi,
+der handler om, at vi konkurrerer på, at vi har kvalitet, dyrevelfærd
+og gode miljøforhold – alle de der ting – både inden for den konventionelle sektor, men selvfølgelig i særdeleshed inden for den økologiske.";Dan Jørgensen
+168632;Time;"Formanden:
+Så er det hr. Erling Bonnesen som medspørger.";Kl. 15:24
+168700;Time;;Kl. 15:24
+168721;name_party;":
+Tak for det. Det er jo et rigtig godt og interessant spørgsmål, for vi
+er jo meget enige om, at kan man sælge flere økologiske varer, så
+godt for det. Kan man sælge flere højkvalitetsvarer og få ekstra pris
+for det, så godt for det. Hvem sælger ikke til den bedste pris? Det vil
+alle gøre. Det er jeg også helt sikker på at vores gode sælgere ude i
+verden gør. Det er derfor, vi får de mange penge hjem.
+Det, det også handler om lige at få præciseret i den her runde, er
+jo, at vi også skal producere det, der så efterspørges. For det er jo
+ikke kun, om jeg så må sige, højkvalitetsvarer til ekstra pris, som efterspørges derude. Det, der sådan virkelig trækker og tonser i eksporten, er det, vi kan kalde gode, gedigne daglige fødevarer med
+kvalitet. Det er jo det, der også bliver efterspurgt, og det er det, der
+
+Onsdag den 22. januar 2014 (FM )
+
+også vejer på vægtskålen. Det er det fokus, vi lige skal have med til
+sidst.
+Så derfor vil jeg da også godt lige prøve at præcisere det. Udover
+at vi er enige i, at vi selvfølgelig skal sælge flest mulige højkvalitetsvarer til ekstra pris, for ja, det er med til at trække det, er ministeren
+så enig i, at vi også skal fokusere på at maksimere råvaregrundlaget
+og produktionen, så vi kan levere den vare, som vi jo gør også i dag,
+altså det, der bliver efterspurgt derude? Hvis ikke vi leverer den vare, der bliver efterspurgt, køber forbrugerne derude jo bare noget andet. Vi skal ikke kun satse ensidigt på, om jeg så må sige det specielle. Så er ministeren enig i, at vi også skal satse på, lad os så kalde det
+det konventionelle, altså have den udvikling, der passer til markedet?";Erling Bonnesen
+170368;Time;"Formanden:
+Ministeren.";Kl. 15:25
+170402;Time;29;Kl. 15:25
+170417;Time;;Kl. 15:27
+170453;title_name;":
+Det er måske så alligevel ikke sådan. Jeg troede egentlig, at vi var
+enige, men den måde, spørgeren stiller det op på her til sidst, er jeg
+ikke enig i. For jeg mener ikke, at det enten skal være kvalitet og høj
+pris – og det er så åbenbart kun økologien – eller det, markedet efterspørger. Det mener jeg sådan set ikke. Jeg mener også, at for selv de
+almindelige konventionelle produkter er et vigtigt konkurrenceparameter for os fødevaresikkerhed, bæredygtighed, dyrevelfærd – de
+her ting. For hvis det kun er pris, hvis det kun er så meget som muligt så billigt som muligt, så taber vi i længden. Vi bliver nødt til også i det konventionelle spor at være ambitiøse. Og jeg synes, det
+bedste eksempel på det jo altså er vores fødevaresikkerhed. Fordi vi
+har den fødevaresikkerhed, som isoleret betragtet da godt kan være
+noget bøvl for den enkelte at skulle leve op til, sikres de her åbne
+markeder. Det er et rigtig godt eksempel på, hvordan vi skal lægge
+vores strategi i fremtiden.";Dan Jørgensen
+171451;Time;;Kl. 15:28
+171487;title_name;":
+Ja, jeg er meget enig i, at vi også skal satse på det konventionelle.
+Men mig bekendt er der da ingen, i hvert fald ganske få, hvis nogen
+overhovedet, i den danske konventionelle sektor, som har den strategi, at vi skal producere mest muligt billigst muligt, og at vi udelukkende skal konkurrere på pris. Jeg tror i hvert fald, vi får det svært,
+hvis det er det, der er vores strategi. Selv hvad angår det, som hr. Erling Bonnesen kalder de sådan almindelige konventionelle gode, gedigne fødevarer, konkurrerer vi jo også på kvalitet. Det er nok de
+færreste i Danmark i hvert fald, som vil kalde kød på dåse, konserveskød, for sådan højkvalitet. Men ikke desto mindre er det præcis det,
+der bliver betragtet som ude i verden. Vi sælger det i Kina. Vi får lov
+til som det første land i verden at sælge forarbejdet kød i Kina. Vi er
+det første land i verden, der får lov til det. Det er, fordi det bliver betragtet som værende af meget høj kvalitet på grund af vores høje fødevaresikkerhed. Så selv når vi taler om det, som mange her i Danmark vil betegne som sådan noget, man masseproducerer, er det faktisk kvalitetsparametret, vi konkurrerer på, og ikke primært prisparametret.";Dan Jørgensen
+172677;Time;"Formanden:
+Hr. Erling Bonnesen.";Kl. 15:26
+172720;Time;;Kl. 15:26
+172741;name_party;":
+Jamen vi er enige i, at man ikke kun skal have det. Det mener jeg
+heller ikke man har, altså et ensidigt fokus på kun at producere mest
+muligt billigst muligt. Man skal ramme det, som forbrugerne også
+efterspørger, for vi er jo lige præcis netop ikke de eneste derude på
+verdensmarkedet. Der er jo mange andre. Det kan man forvisse sig
+om, hvad vi alle sammen i øvrigt kan følge med i. Så derfor var det
+godt lige at få de her runder og også få ministerens bemærkninger
+om, at vi skal prøve at levere den vare, der bliver efterspurgt, og
+selvfølgelig stadig væk have en kvalitetsudvikling af den. Og det er
+så det, jeg kan afslutte med i mit spørgsmål. Er ministeren enig i, at
+lige så vel som vi skal satse på højkvalitetsvarer til merpris, skal vi
+også have et lige så højt fokus på at levere det, som bliver efterspurgt derude, sådan at vi samlet kan maksimere fødevareeksporten?
+For det er sådan set det, som øvelsen jo går ud på.
+
+Formanden:
+Så er det fru Anni Matthiesen til afslutning.";Erling Bonnesen
+173745;Time;;Kl. 15:28
+173766;name_party;":
+Afslutningsvis kan man sige, at vi vel er enige om, at vi gerne vil
+skabe flere arbejdspladser, og at vi gerne vil skabe mere vækst. Men
+jeg hører også ministeren her til sidst sige, at det kan vi sagtens skabe også uden nødvendigvis at øge fødevareproduktionen. Er det rigtigt forstået?";Anni Matthiesen
+174065;Time;"Formanden:
+Ministeren.";Kl. 15:29
+174099;Time;;Kl. 15:29
+174135;title_name;":
+Der er flere ting, som spørgeren citerer mig for, som ikke er rigtige.
+For det første tror jeg ikke, at jeg har brugt udtrykket sagtens. Der er
+ikke noget her, der er nemt. Det er ikke noget, vi sagtens kan gøre –
+specielt ikke hvis regeringen bliver modarbejdet af oppositionen.
+Men hvis De spørger mig, om det er en realistisk vision, at miljø,
+dyrevelfærd, fødevaresikkerhed, kvalitet og innovation kan gå hånd i
+hånd med eksporthensynet, vil jeg sige, at det ikke bare er en realistisk vision, men hinandens forudsætninger. Det, jeg mener vil være
+en urealistisk vision, og som vil være et brud med vores politik siden
+starten af 1970'erne, vil være at sige: Lad os droppe alt det der med
+hensynet til miljø, dyrevelfærd og fødevaresikkerhed og bare producere så meget som muligt så billigt som muligt. Det mener jeg vil
+være urealistisk. Det er ikke den vej, vi ønsker at gå.";Dan Jørgensen
+175027;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til fødevareministeren og også for, at han
+øver sig på Folketingets forretningsorden og det med tiltaleformerne.
+Hermed er spørgetiden sluttet.";Kl. 15:29
+175222;Time;;Kl. 15:30
+175233;Time;"Formanden:
+Ministeren.
+
+Meddelelser fra formanden
+Formanden:
+Der er ikke mere at foretage i dette møde.
+
+30
+
+Onsdag den 22. januar 2014 (FM )
+
+Folketingets næste møde afholdes i morgen, torsdag den 23. januar
+2014, kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 15:30).";Kl. 15:27

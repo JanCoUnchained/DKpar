@@ -1,0 +1,55 @@
+split;reason;text;value
+0;;"Onsdag den 23. april 2014 (D)
+
+1
+
+Det næste punkt på dagsordenen er:
+Besvarelse af oversendte spørgsmål til ministrene (spørgetid)";
+140;Time;"78. møde
+
+Formanden:
+Da spørgsmålet – og der var kun et spørgsmål i dag – under punkt 1,
+besvarelse af oversendte spørgsmål til ministrene, er taget tilbage af
+spørgeren, udgår punktet af dagsordenen.";Kl. 13:00
+379;Time;Dagsorden;kl. 13.00
+400;Time;"1) Besvarelse af oversendte spørgsmål til ministrene (spørgetid)
+
+1) Til justitsministeren af:
+Preben Bang Henriksen (V)
+Hvad er ministerens holdning til ministeriets rekvirering og udlevering til retsudvalgsmedlemmer af bestemte domme?
+(Spm. nr. S 1330, skr. begr.).
+
+Spm. nr. S 1330
+Preben Bang Henriksen (V)):
+Hvad er ministerens holdning til ministeriets rekvirering og udlevering til retsudvalgsmedlemmer af bestemte domme?
+
+Skriftlig begrundelse
+Det præciseres, at der ikke er tale om holdningen til en generel
+domsdatabase.
+(Spørgsmålet er udgået, da det er taget tilbage af spørgeren).";Kl. 13:00
+1006;Time;"Meddelelser fra formanden
+Formanden:
+Mødet er åbnet.";Kl. 13:00
+1071;Time;"Meddelelser fra formanden
+
+Klima-, energi- og bygningsministeren (Rasmus Helveg Petersen):
+
+Formanden:
+Så må jeg jo skuffe tilhørerne med, at så er der ikke mere at foretage
+i det her møde i dag.
+
+Lovforslag nr. L 180 (Forslag til lov om ændring af lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk. (Ophævelse
+af forsyningspligten, indførelse af leveringspligt, udskydelse af engrosmodellen, naturgasselskabers anvendelse af økonomiske kompensationer, Energinet.dk’s fusion med datterselskaber m.v.)).
+
+Folketingets næste møde afholdes i morgen, torsdag den 24. april
+2014, kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 13:01).
+
+I dag er der følgende anmeldelser:
+
+Dennis Flydtkjær (DF) m.fl.:
+Beslutningsforslag nr. B 113 (Forslag til folketingsbeslutning om
+transport af kønsmodne handyr og hundyr).
+Titler på de anmeldte sager vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Kl. 13:00

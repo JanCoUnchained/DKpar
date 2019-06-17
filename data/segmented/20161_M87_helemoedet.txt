@@ -1,0 +1,41 @@
+split;reason;text;value
+0;;"Torsdag den 27. april 2017 (D)
+
+1
+
+Jeg foreslår, at lovforslaget går direkte tredje behandling uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg dette
+som vedtaget.
+Det er vedtaget.
+
+87. møde";
+251;Time;Dagsorden;kl. 10.00
+272;Time;"1) 2. behandling af lovforslag nr. L 169:
+Forslag til lov om Den Europæiske Unions Agentur for Retshåndhævelsessamarbejde. (Europol).
+Af justitsministeren (Søren Pape Poulsen).
+(Fremsættelse 28.03.2017. 1. behandling 20.04.2017. Betænkning
+25.04.2017).
+
+Meddelelser fra formanden";Kl. 10:01
+580;title_name;":
+Der er ikke mere at foretage i dette møde.
+Næste møde afholdes i dag om 10 minutter med de resterende dagsordenspunkter, som fremgår af ugeplanen.
+Mødet er hævet. (Kl. 10:01).";Pia Kjærsgaard
+768;Time;Meddelelser fra formanden;Kl. 10:00
+822;title_name;":
+Mødet er åbnet.
+Fra medlem af Folketinget Andreas Steenberg, der har orlov, har jeg
+modtaget meddelelse om, at han fra og med den 1. maj 2017 atter
+kan give møde i Tinget.
+Sanne Bjørns hverv som midlertidigt medlem af Folketinget ophører fra nævnte dato at regne.
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 169:
+Forslag til lov om Den Europæiske Unions Agentur for Retshåndhævelsessamarbejde. (Europol).
+Af justitsministeren (Søren Pape Poulsen).
+(Fremsættelse 28.03.2017. 1. behandling 20.04.2017. Betænkning
+25.04.2017).";Pia Kjærsgaard
+1387;Time;Forhandling;Kl. 10:00
+1427;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.";Pia Kjærsgaard

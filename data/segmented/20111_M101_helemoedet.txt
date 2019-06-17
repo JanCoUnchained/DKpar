@@ -1,0 +1,656 @@
+split;reason;text;value
+0;;"Mandag den 10. september 2012 (D)
+
+1
+
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+
+101. møde";
+164;Time;"Dagsorden
+1) 2. behandling af lovforslag nr. L 194:
+Forslag til lov om ændring af ligningsloven, lov om en børne- og ungeydelse, personskatteloven. (Skattereformen – forhøjelse af beskæftigelsesfradraget og topskattegrænsen, ekstra beskæftigelsesfradrag
+for enlige forsørgere, aftrapning af børne- og ungeydelsen for familier med høje indkomster m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+2) 2. behandling af lovforslag nr. L 195:
+Forslag til lov om ændring af ligningsloven, kildeskatteloven og personskatteloven. (Nedsættelse af loft over rejsefradrag, øget beskatning af fri bil, beskatning af fuldt skattepligtiges udenlandske lønindkomst, beskatning ved arbejdsudleje og udvidet beskatning af
+lønarbejde i Danmark).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+3) 2. behandling af lovforslag nr. L 196:
+Forslag til lov om ændring af pensionsbeskatningsloven og forskellige andre love. (Afskaffelse af fradragsret m.v. for indbetalinger til
+kapitalpension og adgang til fusion mellem pensionskasser m.v. og
+forsikringsselskaber m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+4) 2. behandling af lovforslag nr. L 197:
+Forslag til lov om ændring af lov om forskellige forbrugsafgifter,
+brændstofforbrugsafgiftsloven, tonnageskatteloven og forskellige
+andre love. (Indeksering af forskellige punktafgifter og de løbende
+bilafgifter, regulering af tonnageskatten, forhøjelse af udligningsafgiften og forlængelse af afgiftsfritagelsen for brint- og elbiler).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+5) 2. behandling af lovforslag nr. L 198:
+Forslag til lov om ændring af vurderingsloven og skatteforvaltningsloven. (Afskaffelse af grundforbedringsfradrag og ændring af regler
+om genoptagelse m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+
+6) 2. behandling af lovforslag nr. L 199:
+Forslag til lov om ændring af ligningsloven, kursgevinstloven, skattekontrolloven og kildeskatteloven. (Beskatning af aktionærlån, feltlåsning for selvstændigt erhvervsdrivende, bedre forskudsproces
+m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+7) 2. behandling af lovforslag nr. L 200:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v.,
+lov om aktiv socialpolitik, lov om social pension og andre love.
+(Ændret regulering af forskellige indkomstoverførsler i årene
+2016-2023 samt forhøjelse af den supplerende pensionsydelse og
+pensionstillæg til folkepensionister).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+04.09.2012. Ændringsforslag nr. 2 af 07.09.2012 uden for betænkningen af social- og integrationsministeren (Karen Hækkerup). Ændringsforslag nr. 3 af 07.09.2012 uden for betænkningen af Karin
+Nødgaard (DF)).";kl. 13.00
+3264;Time;;Kl. 13:00
+3300;title_name;":
+Mødet er åbnet.
+
+Det første punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 194:
+Forslag til lov om ændring af ligningsloven, lov om en børne- og
+ungeydelse, personskatteloven. (Skattereformen – forhøjelse af
+beskæftigelsesfradraget og topskattegrænsen, ekstra beskæftigelsesfradrag for enlige forsørgere, aftrapning af børne- og ungeydelsen for familier med høje indkomster m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+Sammen med dette punkt foretages:
+2) 2. behandling af lovforslag nr. L 195:
+Forslag til lov om ændring af ligningsloven, kildeskatteloven og
+personskatteloven. (Nedsættelse af loft over rejsefradrag, øget
+beskatning af fri bil, beskatning af fuldt skattepligtiges uden-
+
+2
+
+Mandag den 10. september 2012 (L 194)
+
+landske lønindkomst, beskatning ved arbejdsudleje og udvidet
+beskatning af lønarbejde i Danmark).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+3) 2. behandling af lovforslag nr. L 196:
+Forslag til lov om ændring af pensionsbeskatningsloven og forskellige andre love. (Afskaffelse af fradragsret m.v. for indbetalinger til kapitalpension og adgang til fusion mellem pensionskasser m.v. og forsikringsselskaber m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+4) 2. behandling af lovforslag nr. L 197:
+Forslag til lov om ændring af lov om forskellige forbrugsafgifter,
+brændstofforbrugsafgiftsloven, tonnageskatteloven og forskellige andre love. (Indeksering af forskellige punktafgifter og de løbende bilafgifter, regulering af tonnageskatten, forhøjelse af udligningsafgiften og forlængelse af afgiftsfritagelsen for brint- og
+elbiler).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+5) 2. behandling af lovforslag nr. L 198:
+Forslag til lov om ændring af vurderingsloven og skatteforvaltningsloven. (Afskaffelse af grundforbedringsfradrag og ændring
+af regler om genoptagelse m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).
+6) 2. behandling af lovforslag nr. L 199:
+Forslag til lov om ændring af ligningsloven, kursgevinstloven,
+skattekontrolloven og kildeskatteloven. (Beskatning af aktionærlån, feltlåsning for selvstændigt erhvervsdrivende, bedre forskudsproces m.v.).
+Af skatteministeren (Thor Möger Pedersen).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+06.09.2012).";Søren Espersen
+5933;Time;"men hvis parret er ugift, bliver det ikke modregnet, hvilket ikke giver mening. Men her stopper forskelsbehandlingen ikke, for hvis det
+er et ugift par, hvor manden har indtægten, bliver parret ikke modregnet i børnechecken, men hvis det omvendt er kvinden, der har
+indtægten, bliver de modregnet og mister omkring 4.000 kr.
+Jeg synes da, det er helt galt, at vi her i Folketinget vedtager lovgivning, der rammer så vidt forskelligt. Dansk Folkeparti er derfor
+selvfølgelig modstandere af, at man vedtager en lov, der bærer så
+meget præg af lovsjusk, og derfor har vi også stillet et ændringsforslag – nej, undskyld, jeg tror faktisk ikke, det er os, der har stillet
+det, det er Liberal Alliance, der har stillet forslaget, og vi støtter det
+– som piller den her del ud af forslaget. Det håber jeg at Folketinget
+vil støtte op om. Det her er jo et klart angreb på ægteskabet, fordi det
+bedre kan betale sig ikke at være gift, men det er også en klar diskriminering af kvinden.
+Jeg har fået nogle svar fra ministeren på spørgsmål til ministeren,
+hvor han bl.a. i svaret på spørgsmål 26 siger, at der her ikke er tale
+om diskrimination, fordi man behandler både gifte og ugifte på samme måde. Jo tak, de får den samme behandling, men resultatet er
+vidt forskelligt. Det kommer også klart frem i svaret på spørgsmål
+30, hvor ministeren fortæller, at man ikke selv kan bestemme, om
+det er manden eller kvinden, som skal have den her ydelse – som udgangspunkt er det jo altid kvinden – og da man så ikke kan vælge,
+hvis indtægt der skal bruges som modregningsgrundlag, mandens
+f.eks., står der kun tilbage, at det er kvinden, der bliver kønsdiskrimineret i forbindelse med den her lovgivning.
+Skatteministeren har så været ude med et svar til Skatteudvalget
+og skrevet, at han er klar over, at der er en række uhensigtsmæssigheder, der følger af det her lovforslag, og at man gerne vil kigge på
+en løsning, men vel at mærke først når lovforslaget er vedtaget. Det
+synes jeg da er et meget dårligt stykke politisk håndværk, at man
+først kigger på en løsning, efter at man har vedtaget lovforslaget. Det
+giver jo absolut ingen mening, at man på den måde laver lovsjusk.
+Hvis vi skal gøre vores arbejde ordentligt og lave en ordentlig lovgivning, finder vi selvfølgelig de løsninger, der skal til, og så vedtager vi det efterfølgende.
+Det er sådan, at den her ændring af børne- og ungeydelsen først
+skal træde i kraft den 1. januar 2014, så der er sådan set god tid til at
+finde en teknisk løsning og så måske til næste efterår fremsætte et
+forslag.";Kl. 13:00
+8486;Time;Forhandling;Kl. 13:04
+8534;title_name;":
+Jeg skal gøre opmærksom på, at selv om der er tale om en andenbehandling, vil det være sådan, at man kommer med de korte bemærkninger fra pladserne og ikke heroppe fra talerstolen.
+Ønsker nogen at udtale sig? Hr. Dennis Flydtkjær, Dansk Folkeparti.";Søren Espersen
+8794;Time;(Ordfører);Kl. 13:01
+8828;name_party;":
+Der er flere grunde til, at jeg tager ordet her ved andenbehandlingen,
+men først og fremmest synes jeg, at en stor grad af lovsjusk har præget L 194, nemlig den ændring, der gør, at børne- og ungeydelsen,
+også kaldet børnechecken, bliver indeksreguleret. Det er lovsjusk,
+fordi det fremover kommer til at ramme vidt forskelligt, alt efter om
+man er gift, eller man er ugift. Men selv for de ugifte, rammer den
+også forskelligt, alt efter om det er manden eller kvinden i et parforhold, der har indtægten. Lovgivningen skal selvfølgelig virke ens for
+alle, hvilket den ikke kommer til med det her lovforslag, og det synes jeg da er meget problematisk.
+Jeg vil prøve at komme med eksempel: Hvis manden i et ægteskab har en indtægt på f.eks. 900.000 kr., bliver parret modregnet,";Dennis Flydtkjær
+9642;title_name;":
+Jeg skal lige bede om ro i salen, tak.";Søren Espersen
+9692;Time;(Ordfører);Kl. 13:04
+9726;name_party;":
+Dansk Folkeparti har derfor stillet et ændringsforslag, som skal pille
+den her del ud af L 194, så Folketinget i stedet for udskyder behandlingen af det og kigger på, om man kan finde en teknisk løsning,
+som måske senere hen kan vedtages. Jeg må opfordre de andre ordførere til at tage ordet, men jeg har en mistanke om, at der ikke er
+nogen af ordførerne fra partierne bag skattereformen eller ministeren, som tager ordet i dag. Det kunne da være meget interessant at
+høre deres holdning til, om det var noget, de ville være med til, så
+man undgik den her store grad af lovsjusk.
+Så er der L 195, hvor vi fra Dansk Folkepartis side er stærkt utilfredse med udvalgsbehandlingen af lovforslaget, da skatteministeren
+ikke har givet fyldestgørende svar og slet ikke svaret på et flertal af
+spørgsmålene.";Dennis Flydtkjær
+10538;Time;;Kl. 13:05
+10574;title_name;":
+Vi skal have helt ro i salen, når der er forhandlinger!
+
+Mandag den 10. september 2012 (L 194)
+
+Værsgo.";Søren Espersen
+10690;Time;(Ordfører);Kl. 13:05
+10724;name_party;":
+Tak, formand. I flere tilfælde har skatteministeren slet ikke svaret på
+spørgsmålene. Samme tendens gør sig gældende i skatteministerens
+besvarelse på flere henvendelser fra borgere og organisationer. Ministeren har heller ikke her villet svare på spørgsmål om de beskæftigelsesmæssige, konkurrenceevnemæssige eller provenumæssige
+konsekvenser af en afskaffelse af ligningslovens § 33 A. Skatteministeren har på ingen måde været villig til at give Skatteudvalget de
+oplysninger, som er nødvendige, for at Folketinget kan stemme om
+forslaget på det mest oplyste grundlag. Derfor står jeg ret uforstående over for, at resten af partierne bag skattereformen føler sig i stand
+til at stemme for et forslag, når de negative konsekvenser stort set ikke er blevet belyst.
+Jeg prøver at læse et eksempel op. Det er svaret på spørgsmål nr.
+65. Spørgsmålet lyder: »Ministeren anmodes om at redegøre for,
+hvorfor Skatteministeriet tilsyneladende ikke har lavet en konsekvensberegning af, hvad en ophævelse af ligningsloven § 33 A vil
+medføre for danske virksomheders omsætning.«
+Svaret eller ikkesvaret lyder: »Vækstdagsordenen er meget vigtig
+for regeringen, og derfor er jeg også meget glad for, at den skattereform, der nu bliver gennemført, understøtter væksten i Danmark og
+på sigt bidrager til at øge beskæftigelsen med mere end 15.000 personer.«
+Det var første afsnit, hvor man ikke svarede på spørgsmålet. Andet afsnit lyder: »Samtidig understøtter skattereformen også en af erhvervslivets topprioritet mål, nemlig ønsket om at nedsætte skatten
+på arbejde, således at virksomhedernes konkurrenceevne og eksportmuligheder forbedres.«
+Jeg tror, alle kan høre, at der ikke er svaret på spørgsmålet endnu.
+Det sidste og tredje afsnit lyder: »Endeligt kan så man vælge – som
+spørgeren gør – at tage et enkelt element ud. Denne fremgangsmåde
+er jeg ikke enig i. Skattereformpakken er og bliver en helhed, og den
+skal ses som en helhed.«
+Altså, der bliver overhovedet ikke svaret på spørgsmålet. Uden at
+have det endelige tal tror jeg, jeg har stillet omkring 15-20 spørgsmål af den slags, hvor der ikke er blevet svaret på et eneste. Alle organisationer, der har henvendt sig med de samme problemstillinger,
+har ikke fået svar på et eneste.
+Så er der spørgsmål nr. 66. Nu kommer der samme problemstilling, bare i forhold til hvor mange arbejdspladser der mindskes. Her
+henviser ministeren bare til svaret på det spørgsmål, jeg lige har læst
+op, hvor der altså ikke bliver svaret på noget som helst.
+Det er stærkt kritisabelt, at vi i udvalgsbehandlingen ikke kan få
+svar på de spørgsmål, vi har brug for for at være fuldt oplyste om
+konsekvenserne, og at man samtidig puljer alle lovforslag sammen i
+en pakke, som gør, at de ikke bliver ordentligt lovbehandlet. Mit gæt
+er som sagt, og jeg er ret sikker på, at der ikke er nogen af partierne
+bag skattereformen, som er modige nok til at tage ordet i dag og tage
+debatten om de her skadelige effekter, der er af skattereformen, for
+så kunne det være, at det også for alle andre ville blive synligt, at
+man ikke vil svare på, hvilke negative konsekvenser det har.
+Jeg synes, det er fair nok, at man ikke er enig om de her ting,
+men vi må da være enige om, at vi alle sammen skal vedtage lovgivning på det mest oplyste grundlag, og det gør vi bestemt ikke i det
+her tilfælde.
+I Dansk Folkeparti er vi modstandere af afskaffelsen af ligningslovens § 33 A, da omkostningerne ved afskaffelsen simpelt hen er alt
+for store. Afskaffelsen af paragraffen vil ramme alt fra erhvervsliv til
+kirkelige organisationer, universiteter, nødhjælpsorganisationer osv.
+Stort set alle høringssvar i det her tilfælde kommer med en lammende kritik og siger hold, hold, lad være med at vedtage det her.
+
+3
+
+Der er sågar kommet et brev fra 24 af landets største virksomheder, som advarer imod den her lovændring. Tilsyneladende er det ikke gået ind hos nogen af de partier, der står bag skattereformen.
+Nogle af de negative konsekvenser, der er ved en afskaffelse af ligningslovens § 33 A, er bl.a., at virksomhedernes konkurrenceevne
+bliver forringet dramatisk. Det bliver sværere at finde medarbejdere,
+der vil tage en tørn i udlandet. Udenlandske ansættelser vil ikke længere bidrage til en positiv udvikling i Danmark, der ansættes udlændinge til at udføre danske projekter i udlandet, hvilket gør, at danske
+medarbejdere mister værdifuld udenlandsk viden og erfaring.
+I Dansk Folkeparti er vi ret sikre på og tror, ligesom alle høringssvarene også understreger, at de negative konsekvenser ved det her
+lovforslag klart vil undergrave det forventede skatteprovenu. Derfor
+opfordrer vi meget til at stemme for Dansk Folkepartis ændringsforslag, som fjerner denne del af lovforslaget.
+Så vil jeg springe videre til L 197, som handler om indeksering af
+afgifter. Her er der nogle væsentlige problemstillinger, som taler imod dette lovforslag. En af dem, jeg gerne vil nævne i dag, er en efterlysning af et svar fra skatteministeren på, hvorfor vi ikke har fået
+den her grænsehandelsrapport nu. Hvorfor må vi ikke vide, hvad effekten af grænsehandelen har været de sidste par år, så vi kan lovgive på det rigtige grundlag? Den skulle være kommet i juni måned,
+men bliver ved med at blive udskudt, og tro mig, om ikke det kunne
+tænkes, om det måske er for at skjule, at grænsehandelen er eksploderet.";Dennis Flydtkjær
+16051;Time;"Det er i hvert fald den tro og fornemmelse, man får, når man som
+dansker ser, hvordan det foregår ude i landet. F.eks. kan man i min
+lokalavis nu se, at der for 135 kr. bliver arrangeret busture til grænsen, så folk kan komme ned at handle. Jeg synes, det er utrolig ærgerligt, at vi ikke kan få den her grænsehandelsrapport. Derfor kunne
+jeg godt tænke mig at få skatteministeren til i dag at bekræfte, at han
+vil arbejde på, at vi inden tredjebehandlingen på torsdag kan få klarlagt den her grænsehandel, så vi lovgiver på et ordentligt grundlag.
+En anden væsentlig problemstilling er, at vores nabolande simpelt hen ikke indekserer deres afgifter. I Tyskland har de ikke hævet
+deres afgifter på øl de sidste 20 år, og Tyskland har ligesom Sverige
+slet ikke nogen afgift på læskedrikke og ingen fedtafgift. Det gør jo
+bare, at spændet mellem de danske og de andre landes afgifter bliver
+større og større, og dermed bliver der mere og mere grænsehandel,
+mindre skatteprovenu og tabte arbejdspladser.
+For i Dansk Folkeparti synes vi, at vi skal bevare de her arbejdspladser i Danmark, så derfor burde man stedet for tilstræbe at få
+bragt grænsehandelen ned og få nogle af de helt hårde afgifter bragt
+ned i stedet for op. Omfanget af grænsehandelen er fuldstændig løbet løbsk. Det er sådan nu, at hver fjerde øl sælges syd for grænsen
+og hver tredje sodavand sælges syd for grænsen. Der kom også en
+opgørelse den dag, hvor vi havde førstebehandlingen herinde, om, at
+vi er oppe på, at 57 pct. af alle danskere inden for det seneste år har
+handlet i de tyske grænsebutikker. Det skriger jo på, at der er behov
+for, at vi får den her grænsehandelsrapport, inden vi vedtager lovene
+ved tredjebehandlingen, så vi kan få syn for, hvordan grænsehandelen har udviklet sig.
+Så jeg vil jeg i øvrigt her til sidst nævne, at jeg synes, det er meget bemærkelsesværdigt, at man i pressen kan se, at stort set alle partier i Folketinget snakker om, at man vil afskaffe fedtafgiften, når vi
+med L 197 forhøjer den med 15 pct. frem mod 2020. Jeg synes, det
+tegner et noget utroværdigt billede, og det virker, som om man prøver at foregøgle vælgerne, at man vil afskaffe en skadelig fedtafgift,
+og så gør man det stik modsatte i Folketingssalen.";Kl. 13:10
+18291;Time;;Kl. 13:12
+18327;title_name;":
+Tak til Dansk Folkepartis ordfører. Så er det ordføreren for Enhedslisten, hr. Frank Aaen.
+
+4
+
+Mandag den 10. september 2012 (L 194)";Søren Espersen
+18473;Time;(Ordfører);Kl. 13:12
+18501;name_party;":
+Vi har jo haft den generelle debat om de her lovforslag, om at de er
+hammerasociale, og at de tager fra de fattigste i samfundet – arbejdsløse, kontanthjælpsmodtagere, bistandsmodtagere, en hel del folkepensionister og andre – for at give skattelettelser til dem, der tjener
+allermest, gennemsnitligt sådan, at dem, der taber mest, taber 4.000
+kr., og dem, der tjener mest, tjener helt op til 20.000 kr. Så vi er jo i
+hvert fald grundlæggende imod den her skattereform. Det giver sig
+selv.
+Når jeg tager ordet i dag, er det selvfølgelig kun til ændringsforslagene, og der vil jeg først tale om L 194 om børne- og ungeydelsen, som skal reduceres for dem, der tjener mest. Det er så Dansk
+Folkeparti, der har foreslået det. Jeg bliver korrigeret af Liberal Alliance. Det er Liberal Alliance støttet af Dansk Folkeparti, som siger,
+at det ikke skal ske. Jeg vil sige med hensyn til Liberal Alliance, at
+det er helt o.k., det er jo bare politik as usual, og for Dansk Folkeparti er det jo sådan set også. Det er jo derfor, jeg tager ordet. Man har
+stemt for den ene skattepakke efter den anden, som har givet de største skattelettelser til dem, der er rige, og taget fra dem, der har
+mindst, allerhøjst sørget for, at der var nogle af dem, der har mindst,
+der ikke mistede – altså, en omfordeling af dramatisk karakter til fordel for dem, der har de højeste indtægter.
+Det er jo sådan set logisk nok, at man så kommer her i dag og
+siger: Uha, skal nogle af de rige så fratages noget, ved at man reducerer deres børnecheck? Der siger Dansk Folkeparti: Nej, det må endelig ikke ske, for det er jo rige mennesker. Så er det bare, at vores
+holdning er, at vi jo synes, at alle dem, der har børn, skal behandles
+lige, og det betyder også, at vi siger, at hvis man skal lave skattestigninger for dem, der betaler mest, går vi ind for det, men skattestigninger til dem, der har de højeste lønninger, skal betales af alle, uanset om de har børn, eller om de ikke har børn. Men den logik, der
+ligger bag Dansk Folkepartis forslag her, er jo, at vi ikke må tage
+penge fra hverken den ene gruppe eller den anden gruppe, og det,
+der ligger bag regeringens udspil, er jo, at vi gerne vil tage penge fra
+de rige, der har børn, og give skattelettelser til de rige, der ikke har
+børn. Det er vi lodret imod. Den filosofi støtter vi ikke.
+Så derfor støtter vi Dansk Folkepartis og Liberal Alliances ændringsforslag om, at man ikke tager specielt fra rige, der har børn.
+Man skal tage fra alle rige efter vores opfattelse. Det har også noget
+at gøre med princippet i det danske velfærdssystem, nemlig, at hvis
+man har brug for at have børn i skole, hvis man har brug for at komme på hospitalet, hvis man skal på biblioteket, har man i alle de tilfælde fri adgang uanset indkomst, og vi mener også, at har man
+børn, og der skal gives hjælp til at give børnene det, de har brug for,
+skal det gives til alle uanset indkomst. Det er vores princip, og derfor
+stemmer vi for det forslag, der er kommet fra Liberal Alliance og
+Dansk Folkeparti, men undrer os over den profil, som Dansk Folkeparti har på det sociale område.
+Med hensyn til L 195, det er diskussionen om det, der hedder §
+33 A, der betyder, at alle, der har skattepligt til Danmark, skal betale
+skat i Danmark, støtter vi det fuldt ud. Det er en ordning, som mest
+gavner virksomhederne, hvor de kan sørge for, ligesom de gør på
+skibene, at dem, der er ansat under DIS-ordningen på skibene, ikke
+skal betale skat, og det gør jo så, at rederne har kunnet betale mindre
+i løn, sådan at nettolønnen efter skat var den samme, modsat som det
+er alle andre steder i samfundet, nemlig, at der udbetales en løn, og
+så betaler man sin skat, og så har man penge tilbage til sig selv. Det
+princip mener vi også bør gælde på andre områder, altså, at man skal
+betale skat, og har man så brug for at få tilskud af den ene eller den
+anden art, får man det over finansloven og ikke ved, at man har et
+skattefradrag. Det eneste, vi har hørt om den ordning, som har bekymret os lidt, er bistandsorganisationer, altså dem, der laver udvik-
+
+lingsarbejde i de forskellige lande, for de har i dag jo indrettet sig på
+den måde, at når de udbetaler penge i løn, udbetaler de ...";Frank Aaen
+22703;Time;;Kl. 13:17
+22739;title_name;":
+Jeg må igen bede om, at der er ro i salen. Vi har forhandlinger, der
+kører. Det er ikke fair over for den, der er ordfører. Så man skal lige
+prøve at være lidt stille.";Søren Espersen
+22918;Time;(Ordfører);Kl. 13:17
+22946;name_party;":
+Jeg prøver at bryde stilheden. Det, som vi hører fra bistandsorganisationerne, er, at de har indrettet sig på en måde, så de kan udbetale
+løn til folk som nettoløn, altså uden skat. Og hvis det er sådan, at
+man laver en beskatning af de lønninger, skal der betales en højere
+løn, for at de får det samme udbetalt. Det lyder sådan set fornuftigt.
+Det synes jeg også virksomhederne skulle gøre i almindelighed.
+Men hvis det er bistandsorganisationer og udviklingsorganisationer, har vi selvfølgelig det problem, at de lige pludselig vil kunne lave mindre udvikling ude i de fattige lande, end de kan i dag. Og derfor er vores opfordring til regeringen, at man sørger for, at bistandsorganisationerne bliver kompenseret for det her, at man altså sørger
+for, at niveauet for bistandshjælpen bliver øget, således at der kan
+udbetales det samme i løn, dvs. en indkomst, der svarer til det provenu, man måtte få ind i skat på grund af den her lovændring. Vi ønsker altså ikke at forringe bistandshjælpen med det her forslag, som
+vi støtter, men vi ønsker, at virksomhederne betaler den løn, der er
+reel, på samme måde som lønnen betales til alle andre.
+Så det var bare en begrundelse for, at vi under L 194 stemmer for
+ændringsforslaget fra LA og DF om børne- og ungeydelsen. Vi
+stemmer imod forslaget om, at § 33 A ikke skal fjernes.";Frank Aaen
+24285;Time;;Kl. 13:18
+24321;title_name;":
+Der er en kort bemærkning fra hr. Dennis Flydtkjær.";Søren Espersen
+24384;Time;;Kl. 13:19
+24407;name_party;":
+Jeg har et spørgsmål til hr. Frank Aaen, der er ganske simpelt, nemlig om han ikke kan bekræfte, at det var sådan, at skattereformen fra
+2009, altså den skattereform, som Venstre, Konservative og Dansk
+Folkeparti indførte, ikke gav færre penge til offentlig velfærd, hvor
+det, hvad angår den nye skattereform, som regeringen har lavet sammen med Venstre og Konservative, er sådan, at den netop giver færre penge til offentlig velfærd. Er det noget, som hr. Frank Aaen kan
+bekræfte?";Dennis Flydtkjær
+24900;Time;;Kl. 13:19
+24936;title_name;":
+Ordføreren.";Søren Espersen
+24959;Time;;Kl. 13:19
+24976;name_party;":
+Vi er klart imod den skattereform, som ligger til debat i dag, bl.a.
+fordi den giver færre penge til velfærd, og fordi den tager penge fra
+de fattigste i samfundet for at give skattelettelser til dem, der har
+mest; det er vi klart imod. Jeg vil sige, at det, hvad angår alle de
+skattereformer, som Dansk Folkeparti igennem tiderne har været
+med til, har været sådan, at de entydigt har taget fra de fattigste, og
+at de har snydt de fattigste, for i stedet at give skattelettelser til de
+allerrigeste. Det kan Dansk Folkeparti ikke tale sig fra.";Frank Aaen
+25532;Time;;Kl. 13:19
+25568;title_name;":
+Hr. Dennis Flydtkjær.
+
+Mandag den 10. september 2012 (L 194)";Søren Espersen
+25642;Time;;Kl. 13:22
+25653;Time;;Kl. 13:19
+25676;name_party;":
+Nu er teknikken i det jo, at man med den gamle skattereform gik et
+stykke af vejen, hvor den nye skattereform ikke er ved siden af; den
+bygger sådan set ovenpå. Så hvis hr. Frank Aaen synes, at de gamle
+skattereformer var så dårlige, som han åbenbart synes, så måtte han
+jo egentlig synes, at den nye skattereform var endnu dårligere. Men
+der var noget, jeg godt kunne tænke mig at høre Enhedslisten om,
+nemlig hvad det så er, man vil gøre ud fra det, der er her. Altså, er
+det noget, man vil kræve kompensation for i finansloven? Skal de
+svage borgere have oprejsning for det her? Skal førtidspensionisterne, som mister op imod 3.700 kr., i forbindelse med finanslovforhandlingerne have en kompensation for det? Er det et mål, som Enhedslisten har, og som man går ind og forhandler om nu?";Dennis Flydtkjær
+26477;Time;;Kl. 13:20
+26513;title_name;":
+Ordføreren.";Søren Espersen
+26536;Time;;Kl. 13:20
+26553;name_party;":
+Vi vil gerne prøve at rette op på både de urimeligheder, som Dansk
+Folkeparti har været med til at gennemføre sammen med Venstre og
+Konservative, og på de urimeligheder, som regeringen i denne omgang ønsker at gennemføre sammen med Venstre og Konservative.
+Det er vores målsætning, og det er noget, vi har sagt klart og tydeligt. Vi har også sagt, at vi i forbindelse med finansloven ville prøve
+at få rettet op på den urimelighed, der bliver begået over for dem her
+i samfundet, der har mindst, f.eks. de arbejdsløse, som Dansk Folkeparti har været med til at halvere dagpengeperioden for, og for hvem
+Dansk Folkeparti har været med til at gøre det endnu sværere at beholde deres dagpengeret, altså de ting, der er i forhold til de arbejdsløse og dem, der har allermindst, som efterlønnerne og førtidspensionisterne osv. Det er der ikke nogen tvivl om.";Frank Aaen
+27418;Time;;Kl. 13:21
+27454;title_name;":
+Fru Karina Adsbøl for en kort bemærkning.";Søren Espersen
+27507;Time;;Kl. 13:21
+27527;name_party;":
+Det er sådan lidt tragikomisk, at hver gang Enhedslisten står på talerstolen, skal de skose Dansk Folkeparti. Men jeg går ud fra, at Enhedslisten også har fået det her brev fra LEV »Skal udviklingshæmmede virkelig betale for skattelettelser?«, hvor de slutter af med:
+»Jeg kan ikke erindre at have oplevet et lignende angreb på samfundets mest udsatte og sårbare borgere i de mere end ti år, jeg har
+været formand for Landsforeningen LEV. I mine øjne repræsenterer
+skattereformens finansieringsmodel et bekymrende værdiskred, hvor
+det ligefrem tilstræbes, at mennesker, som er ude af stand til at forsørge sig selv, oplever stigende relativ fattigdom.«
+Kan ordføreren ikke erkende, at når man har sådan et brev fra en
+handicapforening, som siger, at de simpelt hen ikke har oplevet noget lignende i de sidste 10 år, så er det, hr. Frank Aaen står og siger,
+ikke korrekt?";Karina Adsbøl
+28409;Time;;Kl. 13:22
+28445;title_name;":
+Ordføreren.";Søren Espersen
+28468;Time;;Kl. 13:22
+28485;name_party;":
+Jeg skal ikke udelukke, at på enkelte punkter er den her skattereform
+endnu værre end det, Dansk Folkeparti har været med til at gennemføre de sidste 10 år; det vil jeg ikke udelukke.
+
+5";Frank Aaen
+28709;title_name;":
+Fru Karina Adsbøl.";Søren Espersen
+28739;Time;;Kl. 13:22
+28759;name_party;":
+Hr. Frank Aaen erkender altså, at når man har sådan et brev fra en
+handicaporganisation, som siger det her, er det ikke så slemt som
+det, hr. Frank Aaen står og taler om på talerstolen.";Karina Adsbøl
+28956;Time;;Kl. 13:22
+28992;title_name;":
+Ordføreren.";Søren Espersen
+29015;Time;;Kl. 13:22
+29032;name_party;":
+Der er sådan et godt gammelt ordsprog. Jeg tror, det er, den ene tyv
+er værre end den anden tyv (Munterhed). Det hørte ikke helt hjemme, det hørte jeg godt. Det kan ikke udelukkes, at den nuværende reform, der ligger på bordet – eller rettere sagt, det er jeg endda sikker
+på – f.eks. det med at ville tage fra de arbejdsløse og tage fra efterlønnerne, fra alle dem, der er på forskellige former for det, vi kalder
+overførselsindkomst, er værre end det, vi har set tidligere; det er jeg
+helt med på. Men det ændrer jo ikke ved, at Dansk Folkeparti igennem 10 år har været med til at lave nogle virkelig asociale skattereformer, som hver eneste gang har givet skattelettelser til de rigeste i
+samfundet og taget fra eller snydt dem, der har mindst.";Frank Aaen
+29791;Time;;Kl. 13:23
+29827;title_name;":
+Mundheldet lyder: Tyv tror hvermand stjæler. (Frank Aaen (EL):
+Tak skal du have). Selv tak.
+Så er det hr. Ole Birk Olesen som ordfører for Liberal Alliance.";Søren Espersen
+29995;Time;(Ordfører);Kl. 13:23
+30028;name_party;":
+Ja, jeg tager ordet for at motivere det ændringsforslag, som Liberal
+Alliance har stillet til L 194. Med ændringsforslaget foreslår vi, at
+indkomstreguleringen af børnechecken tages ud.
+Først vil jeg dog sige, at jeg synes, det er skuffende, at regeringen
+har valgt at negligere vores ønske om at få lovforslaget delt. Der er
+ingen som helst naturlig grund til, at man skal behandle en forhøjelse
+af grænsen for betaling af topskat sammen med en indkomstregulering af børnechecken – ingen som helst. Så når et parti i Folketinget
+beder en regering om, om man ikke kan behandle de to ting hver for
+sig, burde man bare gøre det. Det burde ske efter god parlamentarisk
+skik, hvilket den her regering har slået sig op på at ville overholde.
+Alligevel nægter regeringen at dele det her lovforslag. Nuvel, Folketinget får mulighed for at pille det ud ved den her afstemning om
+ændringsforslag.
+Grunden til, at vi har stillet det, er, at vi mener, at børnechecken
+er en rimelig offentlig ydelse. Det er jo lidt paradoksale ord ud af
+min mund, for der er ikke så mange offentlige ydelser, som jeg nødvendigvis mener er rimelige, men vi har stillet ændringsforslaget,
+fordi vi mener, at den er en kompensation for et skattefradrag, som
+børnefamilier ikke får – et skattefradrag, som de burde have haft.
+Det er jo sådan, at når to mennesker indgår ægteskab, kan manden forsørge konen, eller konen kan forsørge manden, og hvis den
+ene ikke har en indtægt, kan den anden overtage retten til at udnytte
+vedkommendes personfradrag. En sådan forsørgerpligt gælder også
+for forældre i forhold til deres børn, alligevel har de ikke mulighed
+for at udnytte børnenes personfradrag, hvilket de burde have. Som
+kompensation for det uddeler man en børnecheck, og derfor er bør-
+
+6
+
+Mandag den 10. september 2012 (L 194)
+
+nechecken rimelig. Uanset om den gives til fattige eller gives til rige,
+er den rimelig, fordi den er en kompensation for et børnefradrag,
+som man burde have haft.
+Med det her forslag øger man den marginale beskatning af folk i
+det her samfund – 44.000 mennesker kommer til at få en marginalskat på 57,9 pct. frem for som i dag på 56,1 pct. Altså, hvis de gør en
+ekstra indsats, straffes de med skatter og afgifter og bortfald af børnecheck, hvilket svarer til en marginalskat, der ligger knap 2 procentpoint højere end i dag.
+Målet med skattereformen er, så vidt jeg kan vurdere det, at gøre
+det modsatte, nemlig at tilskynde folk til at arbejde mere ved en lavere indkomstskat. Her gør man det omvendte. Det får den paradoksale konsekvens, at statskassen efter alt at dømme vil få færre penge,
+end hvis man ikke gør det. De økonomiske vismænd har vurderet, at
+de 10 pct. rigeste i det her samfund allerede betaler så høje skatter, at
+man ville få flere penge i statskassen, hvis man sænkede deres skatter, og det ville man, fordi de er kommet over på den anden side af
+det, der kaldes Lafferkurven, altså der, hvor skatten er så høj, at folk
+laver alle mulige krumspring for at undgå den, så man i virkeligheden får færre penge i statskassen, end hvis skatten havde været lavere.
+Det er også det, der kommer til at ske her. Folketinget vedtager at
+straffe børnefamilier – 44.000 personer – med en indkomstgraduering af børnechecken og med det resultat, at der kommer færre, ikke
+flere, penge i statskassen, og det er det, man hører, hvis man lytter til
+den højeste økonomiske ekspertise i det her land, som er de økonomiske vismænd, som regeringen har udpeget.
+Det er jo ikke alene forkert, det er også decideret dumt. Derfor vil
+vi gerne have, at Folketinget stemmer for ændringsforslaget. Al fornuft tilsiger, at man burde gøre det, al retfærdighed tilsiger, at man
+burde gøre det, og derfor forventer vi selvfølgelig, at alle fornuftige
+og retfærdige partier gør det.";Ole Birk Olesen
+33812;Time;;Kl. 13:28
+33848;title_name;":
+Tak til ordføreren. Ønsker flere at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Søren Espersen
+33985;Time;Afstemning;Kl. 13:28
+34032;title_name;":
+Det drejer sig først om afstemningen vedrørende lovforslag nr. L
+194. Der stemmes om ændringsforslag nr. 2 af et mindretal (LA), tiltrådt af et mindretal (DF og EL), og der kan stemmes.
+Afstemningen slutter.
+For stemte 27 (DF, LA og EL), imod stemte 80 (V, S, RV, SF, KF
+og JF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Herefter er ændringsforslag nr. 1 og 3, stillet og tiltrådt af de samme
+mindretal, bortfaldet.
+Den næste afstemning er vedrørende lovforslag nr. L 195. Der stemmes om ændringsforslag nr. 2 af et mindretal (DF), tiltrådt af et mindretal (LA), og der kan stemmes.
+Afstemningen slutter.
+For stemte 19 (DF og LA), imod stemte 87 (V, S, RV, SF, EL, KF
+og JF), hverken for eller imod stemte 0.
+
+Ændringsforslaget er forkastet.
+Herefter er ændringsforslag nr. 1, 3-5 og 7, stillet og tiltrådt af de
+samme mindretal, bortfaldet.
+Der stemmes herefter om ændringsforslag nr. 6 er fremsat af et mindretal (DF), tiltrådt af et mindretal (LA), og der kan stemmes.
+Afstemningen slutter.
+For stemte 19 (DF og LA), imod stemte 87 (V, S, RV, SF, EL, KF
+og JF), hverken for eller imod stemte 90.
+Ændringsforslaget er forkastet.
+Så drejer det sig om afstemning vedrørende lovforslag nr. L 196.
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af udvalget,
+om, at lovforslaget deles i to lovforslag?
+Deling af lovforslaget i to lovforslag er vedtaget.
+Der stemmes herefter om det under A nævnte lovforslag [Forslag til
+lov om ændring af pensionsbeskatningsloven og forskellige andre love. (Afskaffelse af fradragsret m.v. for indbetalinger til kapitalpension)]:
+Ønskes afstemning om ændringsforslag nr. 2 og 3, tiltrådt af udvalget?
+De er vedtaget.
+Ønskes afstemning om ændringsforslag nr. 4-17 og 21, tiltrådt af et
+flertal (udvalget med undtagelse af EL)?
+De er vedtaget.
+Der stemmes herefter om ændringsforslag nr. 18, stillet af et mindretal (DF), tiltrådt af et mindretal (LA), og der kan stemmes.
+Afstemningen slutter.
+For stemte 19 (DF og LA), imod stemte 88 (V, S, RV, SF, EL, KF
+og JF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 19 af et mindretal (DF), tiltrådt
+af et mindretal (LA), og der kan stemmes.
+Afstemningen slutter.
+For stemte 19 (DF og LA), imod stemte 87 (V, S, RV, SF, EL, KF
+og JF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 20 af et mindretal (DF), tiltrådt
+af et mindretal (LA), og der kan stemmes.
+Afstemningen slutter.
+For stemte 20 (DF og LA), imod stemte 88 (V, S, RV, SF, EL, KF
+og JF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Så drejer det sig om afstemning vedrørende lovforslag nr. L 197.
+Ønskes afstemning om ændringsforslag nr. 1-3, tiltrådt af udvalget?
+De er vedtaget.
+Så drejer det sig om afstemning vedrørende lovforslag nr. L 199.
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af udvalget,
+om, at lovforslaget dels i to lovforslag?
+
+Mandag den 10. september 2012 (L 200)
+
+Deling af lovforslaget i to lovforslag er vedtaget.
+Der stemmes derefter om det under A nævnte lovforslag [Forslag til
+lov om ændring af ligningsloven, kursgevinstloven, skattekontrolloven og kildeskatteloven. (Beskatning af aktionærlån, fortryk og låsning af udvalgte indberetningspligter, bedre forskudsproces m.v.)]:
+Ønskes afstemning om ændringsforslag nr. 2-4, tiltrådt af udvalget?
+De er vedtaget.
+Der stemmes derefter om det under B nævnte lovforslag [Forslag til
+lov om ændring af skattekontrolloven og kildeskatteloven. (Feltlåsning for selvstændigt erhvervsdrivende)]:
+Ønskes afstemning om ændringsforslag nr. 5-7, tiltrådt af udvalget?
+De er vedtaget.
+Der er som bekendt stillet forslag om, at lovforslagene henvises til
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse herimod, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+7
+
+Dansk Folkeparti har været bannerfører for, nemlig ældrechecken.
+Ældrechecken er et produkt af Dansk Folkepartis hårde arbejde for
+de ældre i det danske samfund, og vi bakker selvfølgelig stadig væk
+op om ældrechecken. Og det var så nok det, man i regeringen fandt
+ud af at man også ønskede at pakke ind i alt muligt andet.
+Der må vi bare sige, at vi synes, det er ærgerligt, at man benytter
+lejligheden til at lave et politisk drilleri på nogle områder, der er så
+vigtige som dem, vi her har med at gøre. Derfor håber vi selvfølgelig
+også, at man her i Folketingssalen vil sige, at det her forslag skal deles op, så partierne får mulighed for at afgive deres stemme på et rigtigt grundlag, og sådan som regeringen jo også havde lagt op til,
+nemlig at man talte om to forslag. Tak for ordet.";Søren Espersen
+38672;Time;;Kl. 13:35
+38708;title_name;":
+Tak til ordføreren. Ønsker flere at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.
+Der var alligevel en, der ønskede at udtale sig. Hr. Frank Aaen
+for en kort bemærkning til ordføreren. Så må jeg bede ordføreren
+komme tilbage igen på talerstolen. Hr. Frank Aaen for en kort bemærkning.";Søren Espersen
+39048;Time;"Det sidste punkt på dagsordenen er:
+7) 2. behandling af lovforslag nr. L 200:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring
+m.v., lov om aktiv socialpolitik, lov om social pension og andre
+love. (Ændret regulering af forskellige indkomstoverførsler i
+årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister).
+Af social- og integrationsministeren (Karen Hækkerup).
+(Fremsættelse 14.08.2012. 1. behandling 20.08.2012. Betænkning
+04.09.2012. Ændringsforslag nr. 2 af 07.09.2012 uden for betænkningen af social- og integrationsministeren (Karen Hækkerup). Ændringsforslag nr. 3 af 07.09.2012 uden for betænkningen af Karin
+Nødgaard (DF)).";Kl. 13:35
+39760;Time;;Kl. 13:33
+39777;name_party;":
+Det er bare, fordi når der er stillet et spørgsmål om, hvorfor et lovforslag ikke kan deles, og vi har tradition for det, og vi har lige delt
+en lang række lovforslag, synes jeg, at man har krav på at få et svar
+på, om lovforslaget skal deles eller ikke deles fra regeringen, og jeg
+vil gerne spørge ordføreren, om han ikke er fuldstændig enig i det.";Frank Aaen
+40139;Time;;Kl. 13:36
+40175;title_name;":
+Ordføreren.";Søren Espersen
+40198;Time;;Kl. 13:36
+40221;name_party;":
+Ja, ordføreren er fuldstændig enig i, at man godt kunne forvente at få
+et svar på det, særlig i forhold til den historik, som netop det her forslag har haft. Men det kan vi nok ikke forvente. Vi har efterhånden
+vænnet os til ikke at få svar på det, vi spørger om.";René Christensen
+40496;Time;Forhandling;Kl. 13:36
+40544;title_name;":
+Ønsker nogen at udtale sig? Hr. René Christensen.";Søren Espersen
+40605;Time;;Kl. 13:33
+40641;title_name;":
+Ønsker flere at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går vi til
+afstemning.";Søren Espersen
+40761;Time;(Ordfører);Kl. 13:36
+40795;name_party;":
+Dansk Folkeparti har stillet forslag om, at man skulle dele det her
+forslag i to, og der kan vi ikke forstå, hvorfor regeringen ikke har
+nikket anerkendende til, at det også er det, man gør. Hvis man kigger
+på sagsbehandlingen bagudrettet, kan man se, at det var sådan, at det
+blev sendt i høring som to forslag, og derfor finder vi det helt oplagt,
+at det også skal blive behandlet som to forslag. Man kan sige meget
+om forslagenes indhold, og man kan også sige noget om, hvornår det
+blev sendt i høring: Det var i en sommerferieperiode, hvor høringstiden var kort. Vi ønsker, at man deler forslaget i to forslag, sådan
+som man også havde lagt op til, da man sendte det i høring.
+Men det, vi kan se er det der måske ligger til grund for det her,
+og som er det, vi faktisk mener er det mest beklagelige, altså det
+med, hvorfor det er, at man skal behandle det her som ét forslag, er
+jo, at det nok mere er, fordi man ønsker at lave sådan et drilleforslag
+omkring ældrechecken. Der er ingen tvivl om, at Dansk Folkeparti
+meget anerkender, at også den nye regering bakker op om det, som
+
+Afstemning";René Christensen
+41928;title_name;":
+Der stemmes om ændringsforslag nr. 3 uden for betænkningen af
+Karin Nødgaard (DF) om, at lovforslaget deles i to, og der kan stemmes.
+Afstemningen slutter.
+For stemte 28 (DF, EL og LA), imod stemte 79 (V, S, RV, SF, KF
+og JF), hverken for eller imod stemte 0.
+Deling af lovforslaget i to lovforslag er forkastet.
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af udvalget?
+Det er vedtaget.
+
+8
+
+Mandag den 10. september 2012 (FM )
+
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 2
+uden for betænkningen af social- og integrationsministeren (Karen
+Hækkerup) som vedtaget.
+Det er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse herimod, betragter jeg det som vedtaget.
+Det er vedtaget.";Søren Espersen
+42731;Time;Meddelelser fra formanden;Kl. 13:37
+42793;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes torsdag den 13. september, kl.
+10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+:
+Mødet er hævet. (Kl. 13:37).";Søren Espersen

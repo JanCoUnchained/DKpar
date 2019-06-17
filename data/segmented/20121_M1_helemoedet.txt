@@ -1,0 +1,432 @@
+split;reason;text;value
+0;;"Tirsdag den 2. oktober 2012 (D)
+
+1
+
+gaard, til tredje næstformand har Det Radikale Venstres gruppe udpeget fru Marianne Jelved, og til fjerde næstformand har Socialistisk
+Folkepartis gruppe udpeget hr. Holger K. Nielsen.
+
+1. møde";
+267;Time;"Dagsorden
+
+Det næste punkt på dagsordenen er:
+3) Valg af 4 tingsekretærer.
+
+1) Valg af formand.";kl. 12.00
+374;Time;"2) Valg af 4 næstformænd.
+3) Valg af 4 tingsekretærer.
+4) Redegørelse af statsministeren i henhold til grundlovens § 38.";Kl. 12:00
+530;title_name;":
+Til tingsekretærer har grupperne og de indgåede valgforbund indstillet fru Karen J. Klint (S), hr. John Dyrby Paulsen (S), hr. Lars Christian Lilleholt (V) og hr. Bent Bøgsted (DF).
+Tinget er hermed sat, og jeg skal bede formanden om at komme op
+og indtage den formandspost, som han nu er valgt til.";Bertel Haarder
+842;Time;;Kl. 11:59
+876;title_name;":
+Ifølge grundloven begynder folketingsåret den første tirsdag i oktober, hvor medlemmerne træder sammen, og hvor Tinget sættes –
+som det hedder.
+Som det medlem, der længst har haft sæde i Tinget, er det min
+opgave at lede valget af Præsidium og tingsekretærer.";Bertel Haarder
+1148;Time;"Formanden:
+Jeg vil gerne takke for den tillid, som kollegerne fra alle partier her
+viser mig ved at genvælge mig som formand for Folketinget.
+Jeg skal bestræbe mig på efter bedste evne og i samarbejde med
+kollegerne i Præsidiet at opfylde de forpligtelser, der pålægger Tingets formand. Det er mit håb, at jeg kan få lov at lede arbejdet på en
+måde, der er oplysende og inspirerende for dem, der har valgt os herind, at Tingets medlemmer kan få de bedst mulige vilkår for deres
+politiske arbejde, og at Folketinget fortsat er en god og spændende
+arbejdsplads for vore mange dygtige medarbejdere.";Kl. 12:01
+1755;Time;"Det første punkt på dagsordenen er:
+1) Valg af formand.";Kl. 12:02
+1822;Time;;Kl. 12:00
+1856;title_name;":
+Til formand har samtlige grupper indstillet hr. Mogens Lykketoft.
+Der foreligger ikke andre indstillinger.
+Hvis ingen begærer afstemning, vil jeg betragte indstillingen som
+vedtaget.
+Den er vedtaget.
+
+Det næste punkt på dagsordenen er:
+2) Valg af 4 næstformænd.";Bertel Haarder
+2129;Time;;Kl. 12:00
+2163;title_name;":
+Til første næstformand har Venstres gruppe udpeget mig, til anden
+næstformand har Dansk Folkepartis gruppe udpeget fru Pia Kjærs-
+
+Velkomstord
+Formanden:
+Jeg byder velkommen til vore gæster i dag: hjertelig velkommen til
+Hendes Majestæt Dronningen, til Hans Kongelige Højhed Prinsgemalen, til Hans Kongelige Højhed Kronprinsen, til Hendes Kongelige Højhed Kronprinsessen, til Hans Kongelige Højhed Prins Joachim, til Hendes Kongelige Højhed Prinsesse Marie og til Hendes
+Kongelige Højhed Prinsesse Benedikte.
+Jeg byder ligeledes hjertelig velkommen til repræsentanterne for
+Højesteret, formanden for Inatsisartut, Grønlands Landsting, formanden for Færøernes Lagting og Færøernes lagmand samt til Københavns overborgmester.
+Jeg benytter lejligheden til at sende Folketingets hilsen på denne
+dag til Grønlands Landsting og Færøernes Lagting.";Bertel Haarder
+3015;Time;"Formanden:
+Herefter giver jeg ordet til statsministeren, for at hun kan give den i
+grundloven omhandlede redegørelse for rigets almindelige stilling
+
+2
+
+Tirsdag den 2. oktober 2012 (R 1)
+
+og de af regeringen påtænkte foranstaltninger. Værsgo til statsministeren.
+
+vi får renere luft, vi får grønnere virksomheder – og vi får flere arbejdspladser.";Kl. 12:03
+3374;Time;"Det sidste punkt på dagsordenen er:
+4) Redegørelse af statsministeren i henhold til grundlovens § 38.";Kl. 12:08
+3487;Time;;Kl. 12:03
+3529;title_name;":
+Vi skal bringe Danmark godt og trygt gennem krisen. Det har været
+regeringens vigtigste opgave, siden vi trådte til for et år siden. Og
+det er fortsat vores vigtigste opgave. Det kræver en indsats på områder, der før blev forsømt. Det kræver handling i stedet for stilstand.
+Og det kræver en ny kurs for Danmark.
+I det første år har vi haft fokus på tre ting: For det første har vi
+fået styr på de offentlige udgifter. Før skred budgetterne år efter år.
+Nu sørger vi for, at pengene passer. Vi værner om tilliden til dansk
+økonomi, for en høj troværdighed er svær at opnå, men nem at miste.
+For det andet sætter vi skub i Danmark med en lang række investeringer. Boliger får nye tage. Der bliver anlagt veje og jernbaner.
+Der bliver bygget vindmøller. Vi er en af de regeringer i Europa, der
+har gjort allermest for at sikre arbejdspladser.
+For det tredje har vi hjulpet de mennesker, der har mest brug for
+hjælp. Vi har afskaffet fattigdomsydelserne – til gavn for næsten
+16.000 mennesker. Børn har fået nye muligheder, som de før var afskåret fra. Familier er blevet styrket. Vi giver de folkepensionister,
+der har allermindst, en større ældrecheck. Den kommer ind på kontoen hos 260.000 pensionister fra den 1. januar. Og vi har skaffet
+flere pladser til psykisk syge.
+Midt i en økonomisk krise, hvor det er knapt med penge, har vi
+fået styr på de offentlige udgifter, sikret arbejdspladser og forbedret
+hverdagen for nogle af de mennesker, der behøver det allermest. Det
+tror jeg er ret unikt i Europa. Det er en ny kurs. Det er regeringens
+vej. Det er sådan, vi kommer godt gennem krisen sammen.
+I Danmark har vi et stærkt fællesskab, hvor de bredeste skuldre
+bærer de tungeste byrder; hvor dem, der bliver ramt af sygdom, bliver behandlet; hvor man får hjælp, hvis man mister sit arbejde; hvor
+uddannelse er den vigtigste vej til nye fremskridt. Det er det helt
+særlige og fantastiske ved Danmark. Det er det fællesskab, som vi
+har bygget op generation efter generation, et fællesskab, som gælder
+hele Danmark.
+Men det kan slå revner, hvis den økonomiske krise får frit løb.
+Det kan smuldre, hvis vi forsømmer at investere i uddannelse og arbejdspladser. Det kan falde fra hinanden, hvis vi ikke hver især yder
+det, vi kan. Vores trygge Danmark er ikke en selvfølge. Det er vores
+opgave at bringe fællesskabet sikkert og trygt gennem krisen.
+Det er hårde tider for mange familier. Tusindvis af danskere har
+mistet deres arbejde, mange er usikre på fremtiden. Vi skal hjælpe
+dem, der står uden arbejde. Derfor gennemfører vi en akutpakke for
+de ledige. Dem, der har under et halvt år tilbage med ret til dagpenge, får hjælp. Derfor giver vi tusindvis af unge nye muligheder med
+jobrotation, brobygning til uddannelse eller som voksenlærlinge.
+Men det bedste, vi kan gøre for dem, der ikke har et arbejde, er at
+skabe flere arbejdspladser. Mange af de beslutninger, regeringen har
+truffet, har haft et dobbelt mål: konkrete forbedringer i danskernes
+hverdag – og flere arbejdspladser. Vi renoverer de almene boliger
+med nye tage, termoruder og legepladser i gården. Det er til glæde
+for dem, der bor alment. Og vi får flere arbejdspladser.
+Vi har besluttet, at Danmark skal være et af de mest ambitiøse
+lande i verden på energiområdet: Ud med kul i kraftværkerne. Ind
+med grøn biogas og flere snurrende vindmøller. Vi skåner klimaet,
+
+Vi giver skattelettelser til alle med helt almindelige lønindkomster. Vi trækker 275.000 danskere ud af topskatten. Det er metalarbejdere, lærere, klinikassistenter og mange, mange andre. Og hvornår har en skattelettelse sidst givet en enlig mor knap 8.000 kr. mere
+om året? Samtidig får virksomheder større afskrivninger, når de investerer i maskiner. Og det giver flere arbejdspladser.
+Alt sammen betyder det, at der i år vil være mere end 10.000
+danskere flere i arbejde, end der ellers ville have været. Næste år er
+det 21.000. Det er malere, vvs'ere, ingeniører og mange andre, der er
+i arbejde som en direkte følge af regeringens beslutninger.
+Det nytter at handle. Jeg er overbevist om, at de samfund, der
+kommer bedst ud af krisen, netop er de samfund, som formår at
+handle, de samfund, der formår at træffe de rigtige beslutninger og
+de rettidige beslutninger. Det er ikke nødvendigvis de populære beslutninger. Mange steder i Europa bliver der skåret dybt i velfærden,
+det må ikke ske i Danmark. Vi må ikke vågne op en morgen og opdage, at gælden har taget himmelflugt, at arbejdspladserne er i fuld
+fart på vej ud af landet, og at velfærden er truet. Derfor skal vi have
+modet til at forandre vores samfund i tide. Vi kan ikke gøre tingene i
+morgen, som vi har gjort dem i dag.
+Jeg tror på fællesskabet. Jeg tror på vores velfærdssamfund. Jeg
+tror på, at vi ved at stille rimelige krav til hinanden kan gøre det,
+som er bedst for Danmark. I det nye folketingsår vil vi ændre reglerne for kontanthjælp – med det mål, at mennesker ikke må hænge
+fast i offentlig forsørgelse år efter år.
+Vi vil have de unge hurtigere gennem uddannelserne, og vi vil investere i uddannelser. Når rekordmange unge – mere end 60.000 –
+blev optaget på de videregående uddannelser i sommer, så sikrer regeringen selvfølgelig, at pengene følger med. Når vi siger, at flere
+unge skal tage en erhvervsuddannelse, så vil vi følge op og finde en
+løsning på praktikpladsproblemet. Når vi siger, at vores børn skal
+være den bedst uddannede generation i danmarkshistorien, så vil vi
+løfte folkeskolen. Vi træffer de nødvendige beslutninger.
+Dem, der har allermest brug for vores omsorg, er de børn, der er
+blevet svigtet og misbrugt. Men i de seneste år har vi set eksempler
+på børn, som langt fra har fået den hjælp og den støtte, som de burde
+have haft. Det er tragiske sager, som jeg ved har berørt os alle sammen. Hvordan kan det ske? Hvorfor blev der ikke grebet ind? Hvorfor har man år efter år forsømt at rette op – med tragiske følger for
+de børn, det handler om? Det skal vi gøre bedre.
+Derfor kommer regeringen med en helt ny indsats for de udsatte
+børn. Vi stiller det krav, at ingen sager om børn bliver lagt over i en
+bunke. Alle henvendelser, hvor der er bekymring for et barn – f.eks.
+om vold eller misbrug – skal vurderes inden for 24 timer. Vi stiller
+det krav, at kommunen skal tale med barnet tidligt, når der er mistanke om overgreb. Og vi slår fast, at anbragte børn aldrig må sendes
+alene tilbage til den person, som er mistænkt for at have forgrebet
+sig på barnet, aldrig. Det burde være en selvfølge. Det er det ikke i
+dag. Med hele den indsats forbedrer vi hjælpen til de udsatte børn,
+ikke mindst de børn, der bliver udsat for overgreb. Det er det første
+skridt i regeringens nye politik.";Helle Thorning-Schmidt
+10173;Time;"Det næste skridt handler om døgninstitutioner, opholdssteder og
+plejefamilier, om de steder, hvor børnene kommer hen, når de ikke
+længere kan være i deres egen familie – steder, der burde være trygge, men som i tragiske tilfælde har føjet endnu et svigt til den række
+af svigt, som børnene har levet med. Nogle steder har man tilsyneladende kunnet åbne et opholdssted på sit glatte ansigt og med tvivlsomme pædagogiske metoder i bagagen. Her skal der også en ny
+indsats til.
+For det første stiller vi krav til opholdssteder og institutioner. De
+skal have en professionel ledelse.
+
+Tirsdag den 2. oktober 2012 (R 1)
+
+For det andet skal mere end 5.000 døgninstitutioner, opholdssteder og plejefamilier gennem en helt ny godkendelse og have tilsyn
+mindst én gang om året. Vi skal have svigt frem i lyset, vi skal lukke
+de dårlige tilbud, og vi skal holde skarpt øje med, om de gode tilbud
+bliver ved med at være gode.
+For det tredje flytter vi både godkendelse og tilsyn fra 98 kommuner til 5 kommuner. De får den særlige opgave at godkende og
+føre tilsyn med de sociale tilbud i kommunerne. Vi samler ekspertisen. Det giver et stærkere fokus, det giver en stærkere faglighed. Vi
+skal sikre os, at hvert enkelt anbragt barn har det trygt og godt. Børn,
+der har været udsat for overgreb og misbrug, har mere brug for tryghed end nogen andre.
+I det hele taget skal vores velfærdssamfund være der for dem, der
+har brug for det. Og velfærden bør ikke være en kampplads for ideologiske eksperimenter. Gennem 10 år har sundhed handlet for meget
+om ideologi. Private løsninger skulle fylde mere i forhold til fællesskabets tilbud, og folk med skattefri sundhedsforsikringer kom foran
+i køen. Alt det har vi lagt væk nu. Det vigtige er, at patienten får den
+rigtige behandling.
+Regeringen vil ændre behandlingsgarantien, så de mest syge behandles hurtigt og de mindre syge venter lidt længere, men aldrig
+mere end 2 måneder. Men en behandlingsgaranti giver kun mening,
+hvis man har en diagnose. Derfor indfører vi fra den 1. september
+næste år en helt ny patientret. Målet er, at alle – alle – skal have stillet en diagnose inden for 30 dage. Og hvis lægerne ikke kan nå frem
+til en diagnose, skal patienten i stedet have en klar plan for det videre forløb.
+Hvad vil den her nye patientret betyde helt konkret? Ja, f.eks. har
+de praktiserende læger en del ældre patienter med symptomer på noget, der kunne være Parkinsons sygdom. Uden den her nye rettighed
+risikerer den ældre at blive kastet rundt mellem hospitalsafdelinger i
+et længere forløb med scanninger og blodprøver i en stadig venten
+på resultaterne. Imens bliver hun mere og mere syg og sikkert også
+mere og mere forvirret. Med den nye rettighed skal lægen på sygehuset planlægge et forløb, som kan være færdigt inden for 30 dage,
+så patienten hurtigt får den rigtige behandling.
+Vi stiller store krav til vores sygehuse, men de kan opfylde dem,
+hvis de indretter sig rigtigt. I august besøgte jeg Regionshospitalet
+Silkeborg. De har oprettet et nyt center, hvor de samler diagnostik
+for alle specialer. Det giver et bedre samarbejde mellem lægerne,
+mindre ventetid for patienterne, hurtigere diagnoser og dermed hurtigere behandling, selvfølgelig til glæde for patienterne i Midtjylland.
+Og det er også et eksempel til efterfølgelse for sygehuse i resten af
+landet. Vi skal alle sammen have hurtig og ordentlig behandling,
+hvis vi bliver syge.";Kl. 12:13
+13580;Time;"Natten til tirsdag den 21. august gik en flok mænd ind på en skadestue i Odense bevæbnet med køller. De truede patienterne, de truede personalet, de smadrede inventaret. Det er kriminelle, hvis handling jeg ikke kan tage nok afstand fra: et angreb på et sygehus. Det
+er en på alle måder grænseoverskridende handling begået af forbrydere, der lever i en helt anden verden end vi andre – og med vi mener jeg selvfølgelig det store flertal af danskere, uanset hvor vores
+familie stammer fra.
+Jeg vil understrege, at her skal der andet og mere til end en udlændingepolitik, der blev trukket længere og længere væk fra midten. Sindrige pointsystemer ville ikke have betydet noget som helst
+for de kriminelle, der angreb et hospital. Grænsebomme ville ikke
+have stoppet dem ved indgangen til skadestuen. Fattigdomsydelser
+ville ikke have forhindret dem i at true patienter med køller. Her skal
+der andre midler til.
+For det første er der tale om grov kriminalitet. Vi skal finde de
+skyldige og straffe dem. Det er politiets opgave, og regeringen vil
+fastholde en skærpet politiindsats i de udsatte boligområder.
+
+3
+
+For det andet skal vi sætte ind mod parallelsamfund. Det er en
+svær opgave, og den tager tid. Der findes stadig familier, der vil bestemme, hvem deres børn skal giftes med. Der findes stadig familier,
+som sender deres børn på genopdragelsesrejser. Hvad skal de genopdrages fra? Det danske samfund? Det giver ingen mening. Der findes unge nydanskere, som kommer alvorligt i klemme mellem to
+samfund, og vi skal vise de unge, at vi er på deres side.
+Regeringen vil skærpe straffen for tvang ved religiøse vielser.
+Det skal være lettere at bruge tilhold i sager om tvangsægteskaber,
+og børn og unge, der frygter at blive sendt på genopdragelsesrejse,
+skal vide, hvor de kan få hjælp. Vi skal hjælpe dem, der kommer
+hjem fra genopdragelsesrejserne, og på krisecentrene vil vi oprette
+pladser til både mænd og kvinder, der flygter fra tvangsægteskaber.
+Vi har brug for en robust og retfærdig udlændinge- og integrationspolitik, som alle ved hvor de har, også i morgen og til næste år.
+Og jeg vil sige til alle danskere, der har rødder i andre lande – til de
+ældre, der har knoklet mange år på det danske arbejdsmarked, til de
+unge, der er i gang med en uddannelse, til alle jer, der bruger de muligheder, vi har i Danmark til at få et godt liv: I er en del af Danmark, et Danmark, hvor vi alle sammen yder det, vi kan. Vi er alle
+sammen danskere, og det skal en flok kriminelle ikke have lov til at
+ødelægge.
+Danmark er et fantastisk land. Tænk bare på en helt almindelig
+ting som at drikke et glas vand: Man åbner for hanen, det klukker i
+glasset, det dufter af ... ja, egentlig ikke af noget specielt, bare rent.
+Og det smager af vand. Mange andre steder i verden lugter postevandet af de spandevis af kemikalier, det er renset med. Det smager af
+klor, og folk slæber tunge flasker hjem fra supermarkedet i stedet for
+at drikke vandet i hanerne.
+I Danmark har vi gennem hundreder af år passet godt på vores
+grundvand. Vi kan drikke det, som det er, og det skulle vi også gerne
+kunne de næste mange hundrede år. Danmark er et af de få vestlige
+lande, hvor man kan drikke grundvandet i hele landet. Men der er et
+problem, for gennem de seneste 10 år er brugen af sprøjtegifte bare
+steget og steget, og vandboringer bliver lukket. Den tidligere regering lovede at gøre noget ved problemet, men den gjorde langt fra
+nok. Det gør den nuværende regering så.";Kl. 12:17
+17050;Time;"Vi har skruet afgiften på sprøjtemidler sammen på en ny måde.
+De midler, der belaster miljøet mest, bliver markant dyrere. De midler, der belaster miljøet mindre, bliver billigere. Som det næste skridt
+vil vi give højere bøder til dem, der bruger ulovlige sprøjtemidler. Vi
+vil trække penge fra deres landbrugsstøtte. Ja, vi er klar til at tage
+retten til at bruge sprøjtemidler helt fra dem, der ikke kan overholde
+reglerne. Hvorfor? Jo, fordi vores børn, vores børnebørn og vores oldebørn også skal have frisk vand i hanen.
+Vi har netop meget at byde på i Danmark, også for vores virksomheder. Investeringer i uddannelse, en sund økonomi, et godt velfærdssamfund er alt sammen vigtige byggestene for dansk erhvervsliv. Men vi skal gøre mere end det. Vi skal fjerne de barrierer, der
+står i vejen for, at virksomhederne kan skabe fremgang og arbejdspladser. Danmark har mange små virksomheder, og de skaber mange
+arbejdspladser. Derfor giver vi nu en ny mulighed for lån til netop de
+mindre virksomheder – nye lån, som kan nå op på omkring 12 mia.
+kr. – så de kan købe nye anlæg og maskiner, så de kan skabe endnu
+flere job.
+Vi skal ikke spænde ben for den teknologiske udvikling. Derfor
+har regeringen afskaffet den multimedieskat, som den tidligere regering indførte. Vi skal ikke hæmme virkelysten, og derfor har vi afskaffet den iværksætterskat, som den tidligere regering indførte.
+Vi skal heller ikke belaste virksomhedernes konkurrenceevne
+unødigt. Skatter betaler vores velfærd, men de kan også være en omkostning for virksomhederne. Der skal naturligvis være plads til fornuftige omlægninger af skatter og afgifter, men regeringen har ingen
+
+4
+
+Tirsdag den 2. oktober 2012 (R 1)
+
+planer om nye generelle forhøjelser af afgifter, erhvervsskatter eller
+indkomstskatter.
+Regeringen har også sat det mål, at vi vil øge handel med og investeringer fra de nye vækstlande. Vores virksomheder skal have de
+bedste vilkår for at klare sig i en verden, der rykker tættere og tættere på.
+Verden rykker også tættere på Grønland og Færøerne. For en måned siden mødtes jeg med mine kollegaer fra Grønland og Færøerne
+til det årlige rigsmøde. Mødet blev holdt i en hytte i Igaliku i Sydgrønland. Det er et sted, hvor man godt kan føle sig langt væk fra
+den buldrende verden, men det var vi alligevel ikke, for der er jo en
+stigende international interesse for Arktis, og det kan få stor betydning for Grønland og Færøerne og dermed også for vores rigsfællesskab.
+Derfor var udenrigspolitikken også et vigtigt emne på vores rigsmøde, vi vil samarbejde mere om udenrigs- og sikkerhedspolitik. Og
+derfor var klimaforandringer også et vigtigt emne på mødet. Vi sætter nu et fælles forskningsarbejde i gang. Det er forskning i fiskebestande og i, hvordan klimaforandringer påvirker havmiljøet.
+Vores rigsfællesskab er unikt. Det er livskraftigt, og det er nødvendigt, og det kan rumme tidens udfordringer.
+Også Det Europæiske Fællesskab har vist, at det kan rumme tidens udfordringer. I dag, den 2. oktober, for 40 år siden sagde danskerne ja til Det Europæiske Fællesskab. Dengang sagde daværende
+statsminister Jens Otto Krag de kloge ord:
+»Det er ikke et spørgsmål, om vi skal sige ja eller nej til Europa.
+Vi tilhører under alle omstændigheder Europa og vil ikke kunne
+unddrage os vores andel i Europas skæbne.«
+Vores skæbnefællesskab med Europa er blevet bekræftet under
+den økonomiske krise. I en situation, hvor mere end hver tiende
+europæer er arbejdsløs, har Europa mere end nogen sinde i vores nyere historie brug for at finde fælles løsninger på fælles problemer. Vi
+er nået langt det sidste år. Under det danske formandskab blev der
+vedtaget en finanspagt, som styrker europæisk økonomi, og en
+vækstpagt, der skaber flere arbejdspladser. Vækstpagten var en
+dansk mærkesag.";Kl. 12:22
+20835;Time;"Men den europæiske krise er ikke slut. I de næste måneder skal
+EU beslutte, hvordan man vil styrke det økonomiske og monetære
+samarbejde endnu mere, og vi skal involvere os tæt i forhandlingerne og i diskussionerne om euroens fremtid, for Danmark har en interesse i, at euroen fungerer, også selv om vi står uden for.
+Der er et konkret forslag på bordet om et fælles banktilsyn. Forhandlingerne er først lige begyndt, og vi vil naturligvis deltage aktivt
+i dem. Der er mange spørgsmål, der skal afklares, før vi kan vurdere,
+hvad der tjener Danmark bedst. Og når vi har det endelige forslag,
+træffer vi naturligvis beslutningen her i Folketinget. Vi hverken kan
+eller skal unddrage os vores andel i Europas skæbne. Det gjaldt for
+40 år siden, og det gælder også i dag.
+Danmark er et rigt samfund og har et stærkt fællesskab. Vi har
+råd og også pligt til at hjælpe dem, for hvem sikkerhed, demokrati
+og mad på bordet ikke er en selvfølge. Derfor har vi styrket vores
+engagement i de allermest fattige og skrøbelige lande i verden. Det
+gælder især i Afghanistan. Her er der på trods af mange fremskridt
+stadig store udfordringer. Derfor vil Afghanistan i de kommende år
+være vores største internationale engagement, også af hensyn til vores egen sikkerhed.
+Vi er i fuld gang med at diskutere rammerne for den danske indsats de næste 2 år. Resultatet af forhandlingerne bliver en ny Afghanistanplan. Vi flytter vores indsats fra kamp til støtte og træning, så
+afghanerne selv kan overtage det fulde ansvar for sikkerheden i deres eget land i år 2014. Vi øger bistanden, så uddannelse, arbejde og
+mad også bliver til virkelighed for mennesker i et af verdens fattigste
+
+lande. En bred kreds af partier står bag vores indsats i Afghanistan.
+Jeg er ikke i tvivl: Det er godt for Danmark.
+Det er mit stærke ønske, at vi også kan indgå et bredt forlig om et
+mere slankt, men stadig skarpt forsvar. Det forhandler vi netop nu
+med partierne bag forsvarsforliget.
+Dygtige og modige soldater yder en kæmpe indsats for at fremme
+sikkerhed og udvikling mange steder i verden. Til jer soldater vil jeg
+sige: I gør det muligt for Danmark at sætte handling bag vores værdier om demokrati, sikkerhed og ligestilling. I omsætter demokrati
+til et demokratisk valg i Libyen. I omsætter sikkerhed til mere tryg
+sejlads ud for Afrikas Horn. I omsætter ligestilling til skolegang for
+piger i Afghanistan.
+Netop i de her uger ser vi nye eksempler på voldsomme overgreb
+mod civilbefolkningen i Syrien med massive overtrædelser af menneskerettighederne. Danmark har konsekvent bakket op om det internationale samfunds utallige forsøg på at stoppe volden og indlede
+en demokratisk proces, desværre uden held. Derfor hjælper Danmark
+nu den syriske opposition.
+Ligesom vi hjælper i verdens brændpunkter, vil vi også hjælpe
+med en varig fred og udvikling, når branden er slukket. Og når en
+befolkning skal bygge sit land op, er der én byggesten, som er vigtigere end alt andet. Når børnedødeligheden skal ned, når fattigdommen skal ned, når ligheden mellem kvinder og mænd, rige og fattige
+skal op, så handler det basalt om én ting, om uddannelse – uddannelse til drenge og piger.
+Derfor er Danmark parat, når FN spørger, om vi vil hjælpe med
+uddannelse i fattige lande, selvfølgelig er vi det. Vi er parate til at
+hjælpe med at uddanne lærere, med nye skolebøger, med at få børn
+fra de fattigste familier, særlig flere piger, i skole. For vi ved, at det
+sætter gang i udviklingen, og at det løfter velstanden, når uddannelse
+ikke bare er for de få, men for de mange.";Kl. 12:27
+24383;Time;"Uddannelse til mange har også været drivkraften gennem de sidste 200 års danmarkshistorie. Den danske folkeskole har generation
+efter generation gjort danskerne dygtigere. Den har været helt central
+i de fremskridt, vi har opnået – fra enevælde til demokrati, fra landbrugsland til moderne velfærdssamfund. Folkeskolen har præget
+Danmark. Og den har udviklet sig undervejs – fra den sorte skole til
+moderne undervisning med nye fag som engelsk og samfundsfag, fra
+7 års undervisningspligt til 9 års undervisningspligt og til i dag 10
+års undervisningspligt.
+Mange af os, der sidder her i dag, kan nok huske den dag, vi
+sendte vores egne børn i skole, da vi så vores lille 6-årige stå der i
+skolegården med røde kinder og forventningsfulde øjne. Det var,
+som om der var et helt nyt eventyr, der begyndte for de unger. Folkeskolen giver børnene et fagligt kompas, som styrer dem gennem
+livet, og mange lærer i skolen, hvad det vil sige at være en god ven,
+og at alle fortjener en chance. Vi kan være stolte af vores folkeskole.
+Den er god, men den skal være endnu bedre. Rigtig mange børn klarer sig godt i skolen, men de kan blive endnu dygtigere, og det er
+nødvendigt. For samfundet, arbejdsmarkedet og den globale verden
+stiller stadig større krav til os alle sammen.
+Alt for mange børn har det svært i folkeskolen. I dag sidder der i
+de ældste klasser tre eller fire elever, som ikke læser godt nok, som
+ikke regner godt nok, og som derfor vil få svært ved at klare sig efter
+skolen. Det går simpelt hen ikke. Og så skal vi jo ikke glemme de
+elever, som har let ved at lære. For mange af de dygtigste elever bliver ikke udfordret nok i vores folkeskole, og sådan skal det selvfølgelig ikke være.
+Mit mål er, at vores børn skal være den dygtigste generation i
+danmarkshistorien. Min vision og regeringens vision er en folkeskole, hvor alle børn lærer mere – alle børn; en skole, hvor der er ro i
+timerne, hvor ungerne trives, hvor de har lyst til at lære, og hvor de
+udvikler deres personlighed og bliver engagerede deltagere i et le-
+
+Tirsdag den 2. oktober 2012 (FM )
+
+vende demokrati; en folkeskole, hvor lærerne bruger deres store viden om deres fag og anvender de bedste undervisningsmetoder, hvor
+de nyder respekt og tillid, og hvor udbyttet af undervisningen ikke
+afhænger af, hvor man bor, eller hvem der er ens forældre. Det er visionen. Det store spørgsmål er naturligvis, hvordan vi så gør visionen til virkelighed.
+Hjertet i vores folkeskole er lærerne. Det er lærerne, der får skolen til at leve og børnene til at lære. De fortjener respekt for deres
+arbejde, for fagligt stærke og motiverende lærere er afgørende for, at
+vores børn bliver dygtige og bliver rustet til livet efter skolen. Derfor
+er mit svar også, at børn og lærere skal bruge mere tid sammen på
+skolen – kvalitetstid, der styrker undervisningen; kvalitetstid, der gør
+skolen endnu mere levende. Vores børn skal have en sammenhængende skoledag.
+Hvad betyder det for en helt konkret skoledag? Jeg vil invitere jer
+med ind i fremtidens skole, som jeg forestiller mig den kunne se ud.
+Lad os tage en dreng på 13 år. Han går i 7. klasse. Han kan hedde
+Emil. Og skoledagen kan f.eks. starte med matematik. Klassen lærer
+om vinkler og procenter og grader. Matematikken er flyttet fra klasselokalet til skolens sløjdlokale. Her er Emil i gang med at bygge et
+fuglehus sammen med tre andre fra klassen. Der er lugten af træet,
+lyden af saven og den rette vinkel på fuglehusets tag. Jeg tror, at det
+får Pythagoras' læresætning til at hænge lidt bedre fast.";Kl. 12:32
+27924;Time;"Så er det tid til sport for flere af de store klasser. Her er lærerne
+og pædagogerne f.eks. sammen om aktiviteterne.
+De næste timer har Emil dansk. Der er ro i klassen, for alle har
+været ude og været i gang og også dyrket fysisk aktivitet. Nu fordyber de sig i grammatik og tekstanalyse. De arbejder i grupper, hvor
+de laver boganmeldelser som podcast.
+Nu glæder Emil sig til næste time, hvor han har medier som valgfag. Her skal han i gang med at lave en hjemmeside sammen med
+venskabsklassen i Manchester.
+Sidst på dagen er der afsat tid til, at de kan få de sværeste af lektierne lavet, og de voksne har tid til at hjælpe.
+Når Emil går hjem hen på eftermiddagen, har han haft en sjov og
+udfordrende skoledag. Han har haft spændende undervisning, som
+giver ham lyst til at lære. Han har været ude, han har rørt sig, og han
+har allerede lavet mange af sine lektier – alt sammen i løbet af én
+sammenhængende skoledag. Nu kan han så resten af dagen gå til
+guitar og hygge med sine venner og sin familie – og selvfølgelig få
+klaret de sidste lektier, hvis der er nogen.
+Vi skal have en skoledag, hvor børn og lærere er mere sammen,
+og hvor børnene får mere undervisning – især i dansk og matematik.
+Det vil være kernen i det udspil til et samlet løft af folkeskolen, som
+regeringen kommer med sidst på året. Vi skal udvikle folkeskolen,
+så den bliver endnu bedre. Det vil kræve noget af os alle sammen:
+elever, forældre, lærere, skoleledere, kommunalbestyrelser og selvfølgelig os her i Folketinget.
+Jeg vil opfordre til, at vi – i den brede kreds af folkeskoleforligspartier – står sammen om at give folkeskolen et løft. Jeg er sikker på,
+at det er, hvad danskerne forventer af os. Vi skal ikke kæmpe om
+skolen; vi skal kæmpe for skolen – sammen.
+I det nye folketingsår er vores vigtigste opgave at investere i børn
+og unge, i vores fremtid. Det er nødvendigt, når vi skal gennem
+krisen med det samfund, som vi holder så meget af, i behold. Uddannelse er vejen både til at få alle med og til at drive vores samfund
+videre og fremad, så vi kan sikre vores arbejdspladser, forbedre
+hverdagen for danskerne, styrke fællesskabet.
+Vi skal træffe de beslutninger, der er nødvendige for at få Danmark helt og godt gennem krisen og ind i fremtiden, og vi skal træffe
+dem sammen her i Folketinget. Jeg tror på brede beslutninger, som
+danskerne kan regne med i mange år frem, fordi det skaber tillid til
+og tro på fremtiden. Og det har vi brug for. Det er godt for Danmark.
+
+5
+
+Lad os indlede det nye folketingsår med at udbringe et leve for
+Danmark.
+Danmark leve!
+(Trefoldigt hurraråb fra salen).";Kl. 12:37
+30524;Time;"Meddelelser fra formanden
+Formanden:
+Tak til statsministeren.
+Inden vi afslutter mødet, skal jeg meddele, at finansministeren (Bjarne Corydon) ønsker at fremsætte:
+Lovforslag nr. L 1 (Forslag til finanslov for finansåret 2013).
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 3. oktober
+2012, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 12:42).";Kl. 12:41

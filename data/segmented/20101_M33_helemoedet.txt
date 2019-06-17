@@ -1,0 +1,1451 @@
+split;reason;text;value
+0;;"Fredag den 10. december 2010 (D)
+
+33. møde";
+81;Time;"Dagsorden
+1) 2. behandling af lovforslag nr. L 50:
+Forslag til lov om økonomiske og administrative forhold for modtagere af driftstilskud fra Kulturministeriet.
+Af kulturministeren (Per Stig Møller).
+(Fremsættelse 10.11.2010. 1. behandling 23.11.2010. Betænkning
+08.12.2010).
+2) 2. behandling af lovforslag nr. L 38:
+Forslag til lov om indfødsrets meddelelse.
+Af integrationsministeren (Birthe Rønn Hornbech).
+(Fremsættelse 28.10.2010. 1. behandling 09.11.2010. Betænkning
+02.12.2010).
+3) 2. behandling af lovforslag nr. L 18:
+Forslag til lov om ændring af udlændingeloven. (Forordning om ændring af konventionen om gennemførelse af Schengenaftalen og forordning, hvad angår bevægelighed for indehavere af visum til længerevarende ophold, afskaffelse af garantiordningen i visumsager
+m.v.).
+Af integrationsministeren (Birthe Rønn Hornbech).
+(Fremsættelse 06.10.2010. 1. behandling 29.10.2010. Betænkning
+30.11.2010).
+4) 2. behandling af lovforslag nr. L 37:
+Forslag til lov om ændring af udlændingeloven og integrationsloven.
+(Revision af reglerne om uledsagede mindreårige udlændinge m.v.).
+Af integrationsministeren (Birthe Rønn Hornbech).
+(Fremsættelse 28.10.2010. 1. behandling 09.11.2010. Betænkning
+07.12.2010).
+5) 2. behandling af lovforslag nr. L 33:
+Forslag til lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om private
+gymnasieskoler, studenterkurser og kurser til højere forberedelseseksamen (hf-kurser) og lov om åben uddannelse (erhvervsrettet voksenuddannelse) m.v. (Ændring af deltagerbetalingen på almene og
+erhvervsrettede voksen- og efteruddannelser m.v.).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 14.10.2010. 1. behandling 28.10.2010. Betænkning
+07.12.2010).
+6) 2. behandling af lovforslag nr. L 41:
+Forslag til lov om ændring af lov om statens voksenuddannelsesstøtte (SVU). (Forkortelse af perioden med statens voksenuddannelsesstøtte på videregående niveau, afskaffelse af beregningsperioden på
+
+1
+
+5 år for gentagen ret til statens voksenuddannelsesstøtte til uddannelse på videregående niveau, nedsættelse af støttesatsen på både alment og videregående niveau m.v.).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 27.10.2010. 1. behandling 12.11.2010. Betænkning
+07.12.2010).
+7) 2. behandling af lovforslag nr. L 42:
+Forslag til lov om ændring af lov om pædagogikum i de gymnasiale
+uddannelser og lov om folkeskolen. (Behandling af klager over bedømmelse af prøven i teoretisk pædagogikum, anerkendelse af udenlandske lærerkvalifikationer og afskæring af klageadgang).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 27.10.2010. 1. behandling 12.11.2010. Betænkning
+07.12.2010).
+8) 2. behandling af lovforslag nr. L 63:
+Forslag til lov om ændring af lov om erhvervsuddannelser og lov om
+Arbejdsgivernes Elevrefusion. (De faglige udvalgs praktikpladsopsøgende arbejde, begrænsning af ydelser med hensyn til udenlandske
+elever, adgang til skolepraktik og skoleundervisning, tilskud til praktikvirksomheder m.v.).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 17.11.2010. 1. behandling 26.11.2010. Betænkning
+07.12.2010).
+9) 2. behandling af lovforslag nr. L 64:
+Forslag til lov om ændring af lov om produktionsskoler. (Ændring af
+optagelseskriterier og skoleydelse).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 17.11.2010. 1. behandling 26.11.2010. Betænkning
+07.12.2010).
+10) 2. behandling af lovforslag nr. L 51:
+Forslag til lov om ændring af lov om aktiv socialpolitik. (Veteraners
+opfyldelse af opholdskravet for ret til kontanthjælp).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 10.11.2010. 1. behandling 16.11.2010. Betænkning
+02.12.2010).
+11) 2. behandling af lovforslag nr. L 6:
+Forslag til lov om arbejdsskadesikring i Grønland.
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+26.11.2010).
+12) 2. behandling af lovforslag nr. L 7:
+Forslag til lov om ændring af lov om arbejdsmiljø. (Omprioritering
+af partsindsatsen m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+01.12.2010).
+
+2
+
+Fredag den 10. december 2010 (FM )
+
+13) 2. behandling af lovforslag nr. L 8:
+Forslag til lov om ændring af lov om sygedagpenge. (Ændring af beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+17.11.2010).
+14) 2. behandling af lovforslag nr. L 9:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v.,
+lov om fleksydelse og lov om seniorjob. (Afskaffelse af feriedagpenge til dimittender m.fl., afvikling af statsligt tilskud til ATP-bidrag af
+efterløn og fleksydelse m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+17.11.2010).
+15) 2. behandling af lovforslag nr. L 32:
+Forslag til lov om ophævelse af lov om udbetaling af ydelser til militære invalider og deres efterladte i de sønderjyske landsdele samt om
+ændring af ligningsloven og lov om aktiv socialpolitik. (Konsekvensændringer af ligningsloven og lov om aktiv socialpolitik ved
+ophævelse af lov om udbetaling af ydelser til militære invalider og
+deres efterladte i de sønderjyske landsdele).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 13.10.2010. 1. behandling 28.10.2010. Betænkning
+17.11.2010).
+16) 2. behandling af lovforslag nr. L 43:
+Forslag til lov om ændring af lov om aktiv socialpolitik og lov om
+ansvaret for og styringen af den aktive beskæftigelsesindsats. (Sanktion for manglende deltagelse i læse- og skrivetest for kontant- og
+starthjælpsmodtagere over 30 år, ophævelse af flaskehalsbevillingen
+m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 27.10.2010. 1. behandling 09.11.2010. Betænkning
+01.12.2010).
+17) 2. behandling af lovforslag nr. L 52:
+Forslag til lov om en 2-årig forsøgsordning om jobpræmie til enlige
+forsørgere.
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 10.11.2010. 1. behandling 16.11.2010. Betænkning
+01.12.2010).
+18) 2. behandling af lovforslag nr. L 70:
+Forslag til lov om ophævelse af lov om befordringsrabat til efterlønsmodtagere m.fl.
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 17.11.2010. 1. behandling 30.11.2010. Betænkning
+08.12.2010).
+19) 1. behandling af lovforslag nr. L 86:
+Forslag til lov om ændring af lov om etablering af Dansk Center for
+Internationale Studier og Menneskerettigheder og visse andre love.
+(Udvidelse af Institut for Menneskerettigheders kompetence til også
+at omfatte køn).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 30.11.2010).";kl. 10.00
+6849;Time;Meddelelser fra formanden;Kl. 10:00
+6914;title_name;":
+Mødet er åbnet.
+I dag er der følgende anmeldelse:
+Udenrigsministeren (Lene Espersen):
+Beslutningsforslag nr. B 37 (Forslag til folketingsbeslutning om tiltrædelse af Stabiliserings- og Associeringsaftale mellem De Europæiske Fællesskaber og deres medlemsstater på den ene side og Serbien
+på den anden side).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+
+Det første punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 50:
+Forslag til lov om økonomiske og administrative forhold for
+modtagere af driftstilskud fra Kulturministeriet.
+Af kulturministeren (Per Stig Møller).
+(Fremsættelse 10.11.2010. 1. behandling 23.11.2010. Betænkning
+08.12.2010).";Mogens Lykketoft
+7617;Time;Forhandling;Kl. 10:00
+7668;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 38:
+Forslag til lov om indfødsrets meddelelse.
+Af integrationsministeren (Birthe Rønn Hornbech).
+(Fremsættelse 28.10.2010. 1. behandling 09.11.2010. Betænkning
+02.12.2010).";Mogens Lykketoft
+8214;Time;Forhandling;Kl. 10:00
+8265;title_name;":
+Ønsker nogen at udtale sig? Hr. Søren Krarup.
+
+Fredag den 10. december 2010 (L 38)";Mogens Lykketoft
+8361;Time;(Ordfører);Kl. 10:01
+8391;name_party;":
+Dette ændringsforslag handler om, at der på dette lovforslag om indfødsret er optaget 35 personer, som ikke er kvalificerede til at modtage dansk indfødsret, for dansk indfødsret er ifølge grundloven det
+danske folks gave til dem, der fortjener at modtage den i henhold til
+grundlovens § 44, som siger, at indfødsret meddeles ved lov. Heri
+ligger, at det er folket, der i skikkelse af det danske Folketing skænker indfødsretten til dem, der er værdige til at blive danske statsborgere.
+Der er ingen, der har ret til at få dansk statsborgerskab, men der
+er tale om en gave skænket af det danske Folketing, eller anderledes
+sagt: intet over og intet ved siden af grundloven. Men disse 35 personer er blevet optaget på dette lovforslag om dansk indfødsret på
+grundlag af en FN-konvention af 1961 om begrænsning af statsløshed. Det vil sige, at FN-konventionen sætter den danske grundlov ud
+af kraft, eller det vil sige, at FN-konventionen rangerer højere her i
+Danmark end den danske grundlov.
+Forholdet er yderligere det, at næsten alle de 35 ikke opfylder de
+krav, vi stiller til dem, der skal kunne få dansk indfødsret. De har ikke bestået sprogprøven, de har ikke bestået indfødsretsprøven, de
+opfylder ikke kravet om tidsubegrænset opholdstilladelse, de opfylder ikke kravet om selvforsørgelse, de opfylder ikke vandelskravet,
+de er kort sagt uværdige til at få dansk indfødsret i henhold til de
+krav, Folketinget har opstillet.
+Alligevel er de sat på forslaget til indfødsretslov. Alligevel vil
+ministeren lade en FN-konvention diktere, hvorledes Folketinget
+skal meddele dansk indfødsret. Hun vil formentlig svare: Jamen det
+er Folketinget, der vedtager, at de får indfødsret.
+Med andre ord: Alle Folketingets krav til dem, der skal anses for
+værdige til at blive danske statsborgere, er ligegyldige, når det er
+Folketinget, der beslutter at se bort fra dem; det er jo en argumentation, der er en prokurator værdig.
+Nej, Folketinget har opstillet disse krav, fordi de er alvor, og at
+Folketingets flertal beslutter at blæse på dem for at leve op til en FNkonvention, er blot ensbetydende med, at et folketingsflertal blæser
+på sine egne krav, på sin egen funktion og dermed på den danske
+grundlov. Det er, som hr. Jesper Langballe sagde til mig forleden, da
+vi drøftede sagen, som hvis Folketinget i 1941 havde sagt til den
+kommunistlovgivning, som den tyske besættelsesmagt tvang Folketinget til at vedtage: Jamen det er Folketinget, der vedtager det, og så
+er det lovligt.
+Nej, det er ikke lovligt, når en magt uden for Folketinget gennemtvinger en lovgivning i Folketinget.
+Intet over og intet ved siden af grundloven. Dette forslag til en
+indfødsretslov er ulovligt, fordi det sætter en FN-konvention over
+den danske grundlov, og derfor vil vi med vores ændringsforslag beskytte grundloven og Folketinget mod en praksis og et lovforslag,
+som betyder en ophævelse af den lovforståelse, der har eksisteret i
+Danmark siden den 5. juni 1849.
+Vi opfordrer Folketinget til at vedtage vores ændringsforslag, og
+jeg meddeler også, at vi beder om at få lovforslaget taget tilbage i
+udvalget.";Søren Krarup
+11493;Time;;Kl. 10:05
+11532;title_name;":
+Fru Line Barfod for en kort bemærkning.";Mogens Lykketoft
+11583;Time;;Kl. 10:05
+11601;name_party;":
+Jeg vil bare kort spørge hr. Søren Krarup, om ikke han kan bekræfte,
+at internationale konventioner normalt bliver indgået med samtykke
+fra Folketinget, og at Folketinget kan beslutte, om man vil udtræde
+
+3
+
+af den internationale konvention, hvis man ikke ønsker at følge den
+internationale konvention.
+Folketinget har altså sin fulde frihed til at sige, at man ikke længere ønsker at være bundet af en FN-konvention, man kan så meddele det til FN, og så er man ikke bundet længere. Der er altså ikke nogen magt udefra, der påtvinger Folketinget at følge konventioner; det
+er et flertal i Folketinget, der selv vælger, at vi ønsker at være bundet
+af en konvention, og at vi fortsat ønsker at være det.";Line Barfod
+12314;Time;;Kl. 10:06
+12353;title_name;":
+Hr. Søren Krarup.";Mogens Lykketoft
+12382;Time;;Kl. 10:06
+12401;name_party;":
+Jamen det er en glimrende replik, som ikke kommer bag på mig,
+men jeg hilser den med glæde, for det er jo også det, der er grund til
+at sige i den situation, vi står i. Vi har at gøre med en konvention,
+der bruges til at sætte grundloven ud af kraft, ergo opsiger vi konventionen. Det er selvfølgelig det, vi skulle. Der er ingen grund til at
+lade den være en helligdom, som man ikke kan anfægte.";Søren Krarup
+12809;Time;;Kl. 10:06
+12848;title_name;":
+Fru Line Barfod.";Mogens Lykketoft
+12876;Time;;Kl. 10:06
+12894;name_party;":
+Nu er der ikke mange andre her end hr. Søren Krarup, der argumenterer med helligdomme og guder til at skulle være det, der afgør,
+hvad vores politik skal være. Så jeg vil bare høre, hvem det skulle
+være, som hr. Søren Krarup mener påtvinger os ikke at opsige konventionen. Hvis hr. Søren Krarup og Dansk Folkeparti mener, at vi
+skal opsige den FN-konvention eller andre FN-konventioner, så synes jeg, at Dansk Folkeparti skulle fremsætte forslag om det, og så
+må man jo se, om man kan opnå flertal i Folketinget.
+Hvis ikke man kan opnå flertal i Folketinget for, at vi skal opsige
+FN-konventioner og måske helt udtræde af FN, eller hvor langt
+Dansk Folkeparti nu ønsker at gå, så er det jo, fordi et flertal i Folketinget ønsker at være medlem af FN. Et flertal i Folketinget ønsker at
+følge FN-konventionerne. Det handler om helt almindeligt demokrati og om, hvorvidt man har flertal eller ej. Jeg agter i hvert fald at
+bøje mig, når der er et flertal, og jeg synes faktisk, det er ganske fornuftigt, at et flertal i Folketinget ønsker at være med i FN og ønsker
+at følge de konventioner, som vi indgår.";Line Barfod
+14010;Time;;Kl. 10:07
+14049;title_name;":
+Hr. Søren Krarup.";Mogens Lykketoft
+14078;Time;;Kl. 10:08
+14097;name_party;":
+Det kommer ikke bag på mig, at fru Line Barfod er fremmed, siger
+hun, for helligdomme. Jeg kan ellers godt fortælle hende, at det er
+helligdomme, der fortrinsvis i venstrefløjens regi har terroriseret det
+20. århundredes europæiske historie. Det var nemlig en helligdom,
+der bl.a. lå bag marxismen i Sovjetunionen, og det var i øvrigt også
+en helligdom, der betingede nationalsocialismen.
+Men jeg vil kun konstatere, at fru Line Barfod indrømmer, at vi
+selvfølgelig kan opsige FN-konventionen, og det er egentlig det, jeg
+foreslår. Så siger hun, at flertallet herinde ønsker at bevare den. Jamen det er så der, jeg ønsker at stille flertallet over for det valg: Vil
+man gennemtvinge en indfødsretslov, som er i strid med den danske
+grundlov, fordi den påtvinger os på lovforslaget 35 personer, som ikke er kvalificerede til at få et dansk statsborgerskab?
+
+4
+
+Fredag den 10. december 2010 (L 38)
+
+Spørgsmålet til Folketinget er: Vil man fastholde et forslag til
+indfødsretslov, som altså for så vidt er ulovligt, fordi det tilsidesætter
+grundloven i kraft af en FN-konvention? Det er spørgsmålet.";Søren Krarup
+15206;Time;;Kl. 10:09
+15217;Time;;Kl. 10:12
+15256;title_name;":
+Hr. Søren Krarup.";Mogens Lykketoft
+15285;Time;;Kl. 10:12
+15324;title_name;":
+Må jeg forstå det sådan, at hr. Jesper Langballe har en kort bemærkning til sin egen ordfører? Nej, o.k. Så er det hr. Morten Østergaard
+for en kort bemærkning.";Mogens Lykketoft
+15496;Time;;Kl. 10:09
+15520;name_party;":
+Jamen det er jo svært at sidde stille, når man skal høre på hr. Søren
+Krarups notoriske vrøvl. Der står ikke et ord i grundloven om, hvem
+der får og hvordan man får statsborgerskab og indfødsret i Danmark,
+andet end at det vedtages pr. lov i Folketinget. Og det er jo den proces, vi er i gang med. At hr. Søren Krarup er i mindretal og er utilfreds over, at et flertal i Folketinget ønsker at leve op til vores internationale forpligtelser, er helt op til hr. Søren Krarup, men det er jo
+noget notorisk sludder at sige, at det, at et flertal i Folketinget måtte
+vedtage et indfødsretsforslag med nogle navne, som hr. Søren Krarup er uenig i, skulle gøre lovforslaget grundlovsstridigt.";Morten Østergaard
+16217;Time;;Kl. 10:10
+16256;title_name;":
+Hr. Søren Krarup.";Mogens Lykketoft
+16285;Time;;Kl. 10:10
+16304;name_party;":
+Det er sådan, at der i grundlovens § 44 står, at indfødsret meddeles
+ved lov, og det vil sige, at det er Folketinget, der meddeler indfødsret. Og Folketinget har nedsat et Indfødsretsudvalg, der vedtager de
+betingelser, der stilles til dem, der skal opnå dansk statsborgerskab.
+Det, vi har at gøre med her, er 35 personer, der overhovedet ikke opfylder disse betingelser. De har endda groft overtrådt mange af dem,
+og alligevel bliver de sat på lovforslaget. Hvorfor? Fordi FN-konventionen åbenbart tvinger ministeren til det. Og derfor er og bliver
+det altså temmelig afgørende at sige, at det er Folketinget, der er
+med til ved at vedtage et sådant indfødsretslovforslag at tilsidesætte
+den grundlov, som jo faktisk giver Folketinget alene magten, og som
+ikke tillader, at man uden videre spiller fandango med de krav, Folketinget selv har opstillet.";Søren Krarup
+17168;Time;;Kl. 10:11
+17207;title_name;":
+Hr. Morten Østergaard.";Mogens Lykketoft
+17241;Time;;Kl. 10:11
+17265;name_party;":
+I de her kolde tider skal man jo virkelig passe på, når man træder på
+tynd is og det begynder at knage. Og man kan allerede høre, hvordan
+hr. Søren Krarup er på tilbagetog. Selvfølgelig er det således, at hvis
+et flertal i Folketinget nu efter en andenbehandling og en tredjebehandling vedtager et indfødsretsforslag, også med navne, som hr.
+Søren Krarup ikke ønsker skal være derpå, så er det i fuld overensstemmelse med grundlovens bestemmelser herom.
+Men man kunne jo stille det spørgsmål til hr. Søren Krarup: Hvis
+det virkelig går sådan, som det ser ud til, altså at et flertal ønsker, at
+vi skal leve op til de internationale forpligtelser, og derfor stemmer
+imod Dansk Folkepartis ændringsforslag og dernæst vedtager lovforslaget, som det så ser ud, vil hr. Søren Krarup så tage sine påstande
+til Højesteret og anlægge en grundlovssag? Hvis man vitterlig fra
+Dansk Folkepartis side mener, at her er grundloven trådt under fode,
+må det vel være den naturlige konsekvens. Vil man tage sine egne
+argumenter så alvorligt?";Morten Østergaard
+18310;name_party;":
+Jeg gør opmærksom på, at grundlovens § 44 altså siger, at det er Folketinget, der meddeler indfødsret. Og Folketinget har bestemt, hvilke betingelser der skal opfyldes, for at man er værdig til at modtage
+den gave, som indfødsretten er. Der er altså her tale om 35, der ikke
+er værdige til det, og som alligevel bliver sat på lovforslaget. Hvorfor bliver de det? Det gør de på grund af en FN-konvention. Det vil
+altså sige, at vores krav, som er i henhold til grundloven, bliver sat
+til side, fordi der er en konvention af FN, som betyder, at vores krav
+ikke er gældende.
+Jeg kunne da godt begynde at lege med tanken om at føre sag;
+det er jo blevet så moderne. Man kan eventuelt føre sag om hr. Morten Østergaards frisure – der er ikke det, man ikke kan føre sag om i
+politik efterhånden – men det tror jeg ikke jeg vil gøre, den er aldeles nydelig.
+Men jeg vil i hvert tilfælde fastholde det, der er grundspørgsmålet: Er det FN-konventionen, eller er det grundloven, der er afgørende, når vi vedtager et indfødsretsforslag? Og der siges så: Jamen Folketingets flertal vedtager lovforslaget. Javist, jeg sagde også, at det
+svarer til, at vi i 1941 vedtog en kommunistlovgivning – det kan hr.
+Morten Østergaard måske ikke huske fra sin historieundervisning –
+og der var tale om en kommunistlovgivning, som tyskerne påtvang
+det danske Folketing, og hvor det danske Folketings flertal stemte ja
+til, at kommunisterne skulle lukkes ude af grundloven og ude af Folketinget. Det er for så vidt det samme, der sker her, det er en parallel. Jeg håber, hr. Morten Østergaard kan forstå det.";Søren Krarup
+19904;Time;;Kl. 10:13
+19943;title_name;":
+Integrationsministeren.";Mogens Lykketoft
+19978;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Vi havde jo også denne debat under førstebehandlingen, men den er
+da god at få gentaget. Først vil jeg drille hr. Søren Krarup. Jeg mener
+ikke, at hr. Søren Krarup historisk er på sikker grund, når hr. Søren
+Krarup påstår, at det var den tyske værnemagt, der tvang det danske
+Folketing til at stemme for kommunistloven. Det tror jeg nok Folketinget gjorde helt af sig selv, bl.a. efter et meget kedeligt råd fra højesteretspræsident Troels G. Jørgensen, som siden blev kritiseret meget for det synspunkt og 30 år efter fik en meget behersket nekrolog
+på grund af det her; det er bare for lige at få sagt det.
+Hr. Søren Krarup har jo fuldstændig ret i, at der er en række personer på dette lovforslag, som ikke opfylder de betingelser, som følger af de retningslinjer, som vi har fastsat ved en politisk aftale. Det
+er fuldstændig rigtigt. Det er også rigtigt, at Folketinget er undergivet denne FN-konvention om statsløse. Men Folketinget er ikke undergivet denne konvention mere, end at vi kunne ophæve den i morgen, hvis vi ville det her i Folketinget, og derfor må jeg sige her,
+som jeg gjorde under førstebehandlingen, at jeg er fuldstændig uenig
+i hr. Søren Krarups synspunkter om, at det er i strid med den danske
+grundlov. Denne regering tilkendegav klart, da vi i 2001 trådte til –
+og det har andre regeringer sikkert også gjort – at vi naturligvis overholder de konventioner, vi ganske frivilligt selv har skrevet under på,
+og det er konsekvensen af det, man ser nu.
+Som jeg også sagde under førstebehandlingen, er der en del personer, der er samlet her, fordi de har ligget i nogen tid, men det bliver jo ikke tilfældet ved det næste lovforslag og det næste lovforslag,
+at der så pludselig er en lang række statsløse, som af den grund får
+
+Fredag den 10. december 2010 (L 38)
+
+indfødsret. Så det er selvfølgelig et engangsforetagende, at vi har det
+bunkebryllup, som vi har denne gang.
+Men jeg kan sige, at regeringen ikke agter at rende fra den konvention, som vi her har undertegnet, og vi føler, at det er helt frivilligt, at vi har den opfattelse, og jeg er også sikker på, at de folketingsmedlemmer, der om nogle dage stemmer for lovforslaget om
+indfødsret, føler, at de gør det ganske frivilligt i relation til FN-konventionen. Og ellers ville et flertal i Folketinget jo kunne beordre regeringen til at ophæve den konvention. Det er ikke sket, og lad mig
+være så profetisk at garantere, at det heller ikke sker.";Kl. 10:14
+22466;Time;;Kl. 10:16
+22505;title_name;":
+Der er en kort bemærkning fra hr. Jesper Langballe til ministeren.";Mogens Lykketoft
+22583;Time;;Kl. 10:17
+22606;name_party;":
+Det er selvfølgelig henvendt til ministeren, men det handler faktisk
+om noget, som hr. Morten Østergaard sagde.
+Jeg vil spørge ministeren – der kan jo godt være nuancer i opfattelserne – om ikke hun vil medgive, at det var en forfærdelig forvrøvlet argumentation, hr. Morten Østergaard kom med. Jeg siger
+bare, at sagen jo er den, at Folketinget vedtager det, og så er det lovligt, men prøv engang at tænke på, at vi har indført en meget, meget
+stram aftale om, hvad der skal til for at få indfødsret. Mange bliver
+afvist. Så kommer der pludselig her en hoben mennesker, som ikke
+opfylder nogen af kravene, nogle af dem har begået grov kriminalitet, nogle af dem taler ikke dansk og kan derfor heller ikke tage indfødsretsprøven. Er det rimeligt over for alle de mennesker, der er
+blevet afvist ved indfødsretsprøven efter ansøgning? Er det rimeligt?
+Er der ikke noget, der hedder, at folk er lige for loven? Det er jo Folketinget, der har besluttet de regler. Skal Folketinget så uden videre
+sætte dem til side og dermed i virkeligheden forhåne de mennesker,
+der er blevet afvist?";Jesper Langballe
+23699;Time;;Kl. 10:18
+23738;title_name;":
+Der er en taletid på 1 minut til korte bemærkninger. Ministeren.";Mogens Lykketoft
+23814;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jeg må jo sige som integrationsminister og med erfaring fra Folketinget fra næsten alle ministeriers lovgivning, at de fleste ministerier
+og ikke mindst Integrationsministeriet og Justitsministeriet nærmest
+dagligt er i den situation, at når vi forbereder lovforslag, er det hele
+tiden lovforslag, der indebærer, at vi meget nøje studerer diverse
+konventioner. Grundloven har vi jo så meget styr på i forvejen, at vi
+sjældent ligefrem behøver at studere den, men både grundloven og
+konventionerne og for så vidt også anden lovgivning er jo noget, der
+indgår i alt lovgivningsarbejde, for at tingene skal passe sammen.
+Det er altså vores opfattelse, og vi har selvfølgelig vidst, dengang
+den konvention blev underskrevet, at det var mennesker, som ikke
+ville kunne opfylde betingelserne, som her ville få statsborgerskab.
+Det er netop en undtagelse, som vi har sagt ja til.
+Så spørger hr. Søren Krarup, om det er rimeligt over for dem, vi
+giver afslag. Nej, det vil de pågældende formentlig ikke føle, men
+man kan ikke sige andet, end at sådan er det, når vi har underskrevet
+de konventioner. Danmark er jo ikke en ø. Vi ønsker at være med i
+det internationale samarbejde. Vi undertegner en lang række konventioner, hvor der er en gensidighed. I øjeblikket diskuterer vi meget Dublinforordningen, som netop bygger på gensidighed, hvorfor
+jeg fastholder, at vi sender asylsøgere tilbage til Grækenland osv.
+osv. Mange af konventionerne indgår vi også, fordi vi selv vil være
+med i et samarbejde, der går begge veje.
+
+5";Kl. 10:18
+25390;Time;;Kl. 10:20
+25429;title_name;":
+Hr. Langballe.";Mogens Lykketoft
+25455;Time;;Kl. 10:20
+25478;name_party;":
+Jeg synes, det er en mærkelig argumentation. Folketingets flertal og
+ministeren handler retsløst, for det er man nødt til, når man underskriver konventioner. Jamen, sagen er måske den, at man skulle tage
+at besinde sig på konventionen og på sin egen deltagelse i den og sige, at en konvention altså ikke er hellig. Den dag, den er skadelig for
+landet, for borgernes retsfølelse, kan man bede om at få den ændret,
+eller man kan træde ud af den. Anderledes er det vel ikke.
+Så vil jeg sige, at det er muligt, at den konventions ordlyd, der
+siger »skal«, altså at de skal optages som statsløse på lovforslaget,
+måske er særlig provokerende her i Danmark, hvor vi har den særlige ordning, takket være nogle vise grundlovsfædre, at statsborgerskab gives ved lov. I andre lande er det jo ikke Folketinget, der provokeres, ved at man giver ordre til det.";Jesper Langballe
+26337;Time;;Kl. 10:22
+26376;title_name;":
+Så er det ministeren.";Mogens Lykketoft
+26409;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jamen når hr. Jesper Langballe giver mig det råd, at jeg skal besinde
+mig på konventionen, så kan jeg benytte lejligheden til at tilstå,
+hvorfor der er så mange statsløse palæstinensere på dette lovforslag.
+Det er der, fordi dem, der burde have haft statsborgerskab tidligere,
+ikke har fået det, netop fordi jeg har besindet mig.
+Jeg synes, at det her var en svær sag, og derfor har jeg også indhentet udtalelser og råd i andre lande for at høre, hvordan man har
+gjort der, og jeg er altså nået til, at disse mennesker, der er statsløse,
+skal have statsborgerskab i Danmark. Det er det lovforslag, jeg har
+fremsat, og det er det lovforslag, som regeringen fastholder.
+Så skal jeg jo lige slå den lille krølle, nemlig at den eneste måde,
+man kan komme uden om ikke disse personer, men statsløse i al almindelighed på, jo er at gøre som de lande, der har dobbelt statsborgerskab, for de har lettere ved at komme uden om reglerne om statsløse end os, der ikke anerkender dobbelt statsborgerskab";Kl. 10:22
+27459;Time;;Kl. 10:23
+27498;title_name;":
+Hr. Søren Espersen for en kort bemærkning";Mogens Lykketoft
+27551;Time;;Kl. 10:23
+27572;name_party;":
+Jeg vil bare lige sige, at vi jo hvert år i april måned har indført sådan
+en statsborgerskabsdag, en indfødsretsdag, i Folketinget, hvor vi hylder og byder velkommen til alle de nye danske statsborgere med
+sang og musik og fest, og hvor vi virkelig siger: Nu skal I være hjerteligt velkomne.
+Mener integrationsministeren, at de her 35 personer, vi taler om,
+også er hjerteligt velkomne ligesom alle de andre? Eller er det sådan
+noget særligt, vi skal? Bliver de overhovedet inviteret med til festen,
+for det er jo ikke sådan af hjertet, vi byder dem velkommen. Det er
+simpelt hen, fordi vi har fået påduttet det udefra, ikke? Er de velkomne til vores fest i april eller ej?";Søren Espersen
+28257;Time;;Kl. 10:24
+28296;title_name;":
+Ministeren.
+
+6
+
+Fredag den 10. december 2010 (L 38)";Mogens Lykketoft
+28361;Time;;Kl. 10:27
+28372;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Det spørgsmål, som medlem af Folketinget, hr. Søren Espersen stiller, skal han stille til medlem af Folketingets præsidium, hr. Søren
+Espersen, som står for invitationen.";Kl. 10:24
+28601;Time;;Kl. 10:24
+28640;title_name;":
+Hr. Søren Espersen.";Mogens Lykketoft
+28671;Time;;Kl. 10:24
+28692;name_party;":
+Nu har jeg stillet spørgsmålet til mig selv, og jeg har også svaret på
+det i en lukket kreds, så det behøver jeg ikke her. Men jeg ved, at
+integrationsministeren jo er med til de her begivenheder. Der vil jeg
+spørge, om hun så også vil byde dem her, hvoraf nogle af dem jo slet
+ikke er egnede til det, hjerteligt velkommen.
+Lige en ting mere: Kan det ikke bekræftes, at efter de her regler,
+de her undtagelsesregler, som nu starter, kunne man sagtens forestille sig, at folk, der var idømt flere års fængsel, kunne få dansk indfødsret? Det synes jeg er værd at få bekræftet.";Søren Espersen
+29307;title_name;":
+Tak. Ministeren.";Mogens Lykketoft
+29335;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jeg vil sige til hr. Søren Krarup, at vi jo nok ikke bliver enige. Jeg
+synes i det hele taget ikke, at sammenligningen med kommunistloven er så relevant, men jeg er da glad for, at hr. Søren Krarup nu siger, at det var en beskæmmende enighed i Folketinget. Det er præcis
+det, jeg mener det var, og jeg havde ønsket en hel anden debat, men
+nu var jeg der så af gode grunde ikke. Jeg synes, det var beskæmmende, at man vedtog den kommunistlov, som jo var en lov, hvormed man netop forfulgte et mindretal af borgere i Danmark. Det
+skulle man ikke have gjort.
+Det, vi gør her, er det modsatte. Vi giver netop nogle statsløse
+borgere en særlig beskyttelse, en særlig ret, nemlig at opnå statsborgerskab, og det føler jeg ikke er beskæmmende. Det er en undtagelse
+fra de almindelige regler, vi har aftalt, men jeg mener, det er rigtigt,
+at det må være sådan over for statsløse borgere.";Kl. 10:27
+30273;Time;;Kl. 10:28
+30284;Time;;Kl. 10:25
+30323;title_name;":
+Hr. Søren Krarup.";Mogens Lykketoft
+30381;title_name;":
+Ministeren.";Mogens Lykketoft
+30405;Time;;Kl. 10:28
+30415;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jamen som jeg jo har sagt, kan der være personer her, der ikke opfylder betingelserne, det kan også være med hensyn til straf. Men
+når jeg svarede, som jeg gjorde, på hr. Søren Espersens spørgsmål,
+så var det selvfølgelig, fordi det er Folketingets præsidium, der inviterer til denne statsborgerskabsdag, som jeg ved mange er glade for.
+Det vidste hr. Søren Espersen jo også i forvejen. Han har åbenbart
+ikke lagt mærke til mit fravær hvert år. Jeg har faktisk været fraværende hvert år af den grund, at den danske kirke i Sydslesvig har årsmøde samme dag. Og det har jeg så valgt at deltage i hvert år.";Kl. 10:25
+31077;Time;;Kl. 10:26
+31116;title_name;":
+En kort bemærkning fra hr. Søren Krarup.";Mogens Lykketoft
+31177;name_party;":
+Vi er alle sammen interesserede i at hjælpe dem, der har brug for
+hjælp, men uden videre at sige, at fordi man har 2, 3 eller 4 års
+fængsel for kriminalitet eller vold, er man så hjælpeløs, at man skal
+være dansk statsborger, er temmelig selvmodsigende. Og der må vi
+altså have lov til at sige i Indfødsretsudvalget, at det er Folketinget,
+dvs. Indfødsretsudvalget, der bestemmer, hvem man vil have på lovforslaget, og man vil ikke have det påtvunget af en FN-konvention,
+som ministeren accepterer, fordi hun synes, det er så synd for dem,
+der har begået kriminalitet. Det er og bliver en modsætning mellem
+den danske grundlov og en FN-konvention. Det er nødvendigt at få
+det modsætningsforhold afklaret, og jeg foretrækker, at det bliver på
+den danske grundlovs betingelser.";Søren Krarup
+31964;Time;;Kl. 10:29
+31975;Time;;Kl. 10:26
+31994;name_party;":
+Der var en enkelt historisk parentes, jeg ikke helt kan lade ligge. Jeg
+vil sige til ministeren, at det ikke er rigtigt, at det var Troels G. Jørgensen, der påtvang Folketinget kommunistlovgivningen. Det var
+den tyske besættelsesmagt, der efter sit angreb på Sovjetunionen den
+22. juni 1941 krævede, at kommunisterne skulle udelukkes af Folketinget. Det blev der lavet en lov om, og ministeren skulle læse debatten og se den beskæmmende enighed, der var, om, at det var helt i
+orden, sådan at det var Folketinget, der vedtog det.
+Det er fuldstændig som dette her: Folketinget vedtager, at 35 personer – af hvilke mange har fået meget høje straffe og har andre
+svagheder, som aldrig ville give dem indfødsret ellers – kommer på
+forslaget til indfødsretslov. Der har vi så modsætningen, som bliver
+illustreret ved årstallet 1941: at Folketinget af en international konvention for så vidt lader sig stille, som Folketinget var i 1941 af den
+tyske besættelsesmagt. Og det er urimeligt.
+Lad os fastholde, at vi kan ændre den konvention, vi kan træde
+ud af FN-konventionen og holde os til det, grundloven siger, sådan
+at det er Folketinget alene, der bestemmer, hvem der får indfødsret.";Søren Krarup
+33215;title_name;":
+Ønsker ministeren ordet igen?";Mogens Lykketoft
+33256;Time;"Integrationsministeren (Birthe Rønn Hornbech):
+Jamen hr. Søren Krarup og jeg er fuldstændig enige, og derfor er
+lovforslaget også fremsat på den danske grundlovs betingelser, og
+det er også mit gæt, at det bliver vedtaget sådan med et stort flertal
+her i Folketinget.";Kl. 10:29
+33535;Time;;Kl. 10:30
+33574;title_name;":
+Ønsker flere at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Mogens Lykketoft
+33691;Time;Afstemning;Kl. 10:30
+33741;title_name;":
+Der stemmes om ændringsforslag nr. 1 af et mindretal (Dansk Folkeparti). Afstemningen starter nu.
+Afstemningen slutter.
+
+Fredag den 10. december 2010 (L 18)
+
+For ændringsforslaget stemte 18 (DF), imod stemte 89 (V, S, SF,
+KF, RV, EL og LA), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+
+7
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Ønskes afstemning om ændringsforslag nr. 2, tiltrådt af udvalget, eller om ændringsforslag nr. 3 og 4, tiltrådt af et flertal (udvalget undtagen Enhedslisten)?
+De er vedtaget.
+Der er stillet forslag om, at lovforslaget henvises til fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+3) 2. behandling af lovforslag nr. L 18:
+Forslag til lov om ændring af udlændingeloven. (Forordning om
+ændring af konventionen om gennemførelse af Schengenaftalen
+og forordning, hvad angår bevægelighed for indehavere af visum til længerevarende ophold, afskaffelse af garantiordningen i
+visumsager m.v.).
+Af integrationsministeren (Birthe Rønn Hornbech).
+(Fremsættelse 06.10.2010. 1. behandling 29.10.2010. Betænkning
+30.11.2010).";Mogens Lykketoft
+35040;Time;"Det næste punkt på dagsordenen er:
+5) 2. behandling af lovforslag nr. L 33:
+Forslag til lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om
+private gymnasieskoler, studenterkurser og kurser til højere forberedelseseksamen (hf-kurser) og lov om åben uddannelse (erhvervsrettet voksenuddannelse) m.v. (Ændring af deltagerbetalingen på almene og erhvervsrettede voksen- og efteruddannelser m.v.).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 14.10.2010. 1. behandling 28.10.2010. Betænkning
+07.12.2010).";Kl. 10:31
+35625;Time;Forhandling;Kl. 10:33
+35676;title_name;":
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Mogens Lykketoft
+35793;Time;"Forhandling
+Afstemning";Kl. 10:33
+35855;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.";Mogens Lykketoft
+36012;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1-9, tiltrådt af et flertal
+(V, DF, KF og LA)?
+De er vedtaget.
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+4) 2. behandling af lovforslag nr. L 37:
+Forslag til lov om ændring af udlændingeloven og integrationsloven. (Revision af reglerne om uledsagede mindreårige udlændinge m.v.).
+Af integrationsministeren (Birthe Rønn Hornbech).
+(Fremsættelse 28.10.2010. 1. behandling 09.11.2010. Betænkning
+07.12.2010).";Mogens Lykketoft
+36637;Time;Forhandling;Kl. 10:32
+36688;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+6) 2. behandling af lovforslag nr. L 41:
+Forslag til lov om ændring af lov om statens voksenuddannelsesstøtte (SVU). (Forkortelse af perioden med statens voksenuddannelsesstøtte på videregående niveau, afskaffelse af beregningsperioden på 5 år for gentagen ret til statens voksenuddannelses-
+
+8
+
+Fredag den 10. december 2010 (L 42)
+
+støtte til uddannelse på videregående niveau, nedsættelse af støttesatsen på både alment og videregående niveau m.v.).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 27.10.2010. 1. behandling 12.11.2010. Betænkning
+07.12.2010).
+
+Det er vedtaget.";Mogens Lykketoft
+37619;Time;Forhandling;Kl. 10:33
+37670;title_name;":
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Mogens Lykketoft
+37787;Time;"Det næste punkt på dagsordenen er:
+8) 2. behandling af lovforslag nr. L 63:
+Forslag til lov om ændring af lov om erhvervsuddannelser og lov
+om Arbejdsgivernes Elevrefusion. (De faglige udvalgs praktikpladsopsøgende arbejde, begrænsning af ydelser med hensyn til
+udenlandske elever, adgang til skolepraktik og skoleundervisning, tilskud til praktikvirksomheder m.v.).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 17.11.2010. 1. behandling 26.11.2010. Betænkning
+07.12.2010).";Kl. 10:34
+38287;Time;Afstemning;Kl. 10:35
+38337;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1-5, tiltrådt af et flertal
+(V, DF, KF og LA)?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+7) 2. behandling af lovforslag nr. L 42:
+Forslag til lov om ændring af lov om pædagogikum i de gymnasiale uddannelser og lov om folkeskolen. (Behandling af klager
+over bedømmelse af prøven i teoretisk pædagogikum, anerkendelse af udenlandske lærerkvalifikationer og afskæring af klageadgang).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 27.10.2010. 1. behandling 12.11.2010. Betænkning
+07.12.2010).
+
+Forhandling";Mogens Lykketoft
+39116;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+9) 2. behandling af lovforslag nr. L 64:
+Forslag til lov om ændring af lov om produktionsskoler. (Ændring af optagelseskriterier og skoleydelse).
+Af undervisningsministeren (Tina Nedergaard).
+(Fremsættelse 17.11.2010. 1. behandling 26.11.2010. Betænkning
+07.12.2010).";Mogens Lykketoft
+39720;Time;;Kl. 10:35
+39731;Time;"Forhandling
+Forhandling";Kl. 10:34
+39794;title_name;":
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til afstemning.";Mogens Lykketoft
+39911;Time;Afstemning;Kl. 10:34
+39961;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af udvalget,
+om, at lovforslaget deles i to lovforslag?
+Delingen af lovforslaget i to lovforslag er hermed vedtaget.
+Jeg foreslår, at lovforslagene går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.";Mogens Lykketoft
+40327;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig? Hr. Bjarne Laustsen.";Mogens Lykketoft
+40424;Time;(Ordfører);Kl. 10:36
+40456;name_party;":
+Tak. Den her sag er en, vi har været meget optaget af i Uddannelsesudvalget, fordi det drejer sig om de svageste elever i vores samfund
+og i vores system. Rigtig mange af dem har forsøgt at gå den direkte
+vej og få en uddannelse, og det er vi jo alle sammen enige om er
+godt. Derfor er det lidt uforståeligt, at man med sådan et lovforslag
+som det her vælger at ramme en bestemt gruppe, der har det svært
+nok i forvejen. Så vi vil gerne bede om, at vi får sagen tilbage i Uddannelsesudvalget. Jeg har begæret et samråd, og jeg forstår også, at
+ministeren gerne vil komme og diskutere det med os i udvalget. Så
+det er fint.
+Men jeg vil gerne have lov til at sige, at en af tingene drejer sig
+om skoleydelsen. Allerede tilbage i 2002 satte den nuværende rege-
+
+Fredag den 10. december 2010 (L 64)
+
+ring sig sammen med kredsen af partier på arbejdsmarkedsområdet,
+da hr. Claus Hjort Frederiksen var beskæftigelsesminister, og en af
+de ting, som man ville, var jo, at skoleydelsen skulle sættes ned til
+SU-niveau. Det snakkede vi frem og tilbage om, og vi blev enige
+om, at det ville vi ikke gøre. En
+Det er jo indlysende, hvorfor vi ikke kan sammenligne skoleydelsen med SU. For det første er det rent og skært lønarbejde. Hvis man
+ikke møder op og passer sit arbejde på produktionsskolen, ja, så bliver man trukket i løn. En anden grund til, at vi ikke kan sammenligne det med SU, er, at når man er på SU, får man stort set lige meget,
+ligegyldigt om man passer sine studier eller ej, om man sidder derhjemme eller er på universitetet, eller hvor man er henne, men på
+produktionsskolen er det anderledes. Når man er på SU, kan man også få lån, og man kan arbejde ved siden af. Det kan man ikke, når
+man er på produktionsskole.
+Ud over det eklatante aftalebrud, som er sket i forbindelse med
+»Flere i arbejde«, som vi også diskuterede i juni måned, inden Folketinget gik på sommerferie, så er det helt uforståeligt, at man sætter
+sig sammen og laver en aftale med regeringen. Alle kan jo se, hvad
+det var, vi diskuterede i forbindelse med »Flere i arbejde«. Der diskuterede og handlede vi af, at skoleydelsen skulle være på det niveau, den var. Det her er jo en markant forringelse. Man sætter skoleydelsen til de svageste elever i vores samfund ned med næsten 50
+pct. Vi ønsker jo, at de elever, der ikke kan gå den direkte vej, bliver
+samlet op, bl.a. på produktionsskolen, og kan komme videre med en
+eller anden form for uddannelse der eller i systemet. Derfor synes vi
+simpelt hen, det er forkert at straffe de elever på den måde.
+Vi har haft et hav af produktionsskoler og Produktionsskoleforeningen inde at sige, at det her sagtens kan løses. Der er faktisk
+overskud inden for området, hvis man ville og der både var vilje og
+vej. De har faktisk anvist, hvordan det kunne lade sig gøre ved hjælp
+af globaliseringsmidlerne. Man behøver ikke at skære ned på det her
+område. Det, der er problemet her, er, om produktionsskolerne med
+den måde, man laver det her lovforslag på, er i stand til at løse den
+opgave, som vi er enige om skal løses.
+Jeg ved ikke, om ministeren vil sige noget i dag, men ellers vil vi
+gerne have sagen tilbage i udvalget og så få det her samråd på tirsdag.";Bjarne Laustsen
+43650;Time;;Kl. 10:39
+43689;title_name;":
+Undervisningsministeren.";Mogens Lykketoft
+43725;Time;;Kl. 10:39
+43768;title_name;":
+Det er fuldstændig korrekt, hvad Hr. Bjarne Laustsen henviser til,
+nemlig at vi før sommerferien havde en drøftelse i samråd, hvor også
+beskæftigelsesministeren var til stede. Her drøftede vi, om der var
+elementer i genopretningspakken, der ville gøre, at vi kunne komme
+overens i forbindelse med ungepakken og andre aftaler. Der skal jeg
+gøre gældende, at produktionsskoleaftalen er en aftale, som regeringen har med Dansk Folkeparti og Det Radikale Venstre fra for år tilbage. Af den aftale fremgår det, at ydelsen fastsættes på de årlige finanslove, og derfor har vi selvfølgelig ikke brudt nogen aftale, når vi
+sænker skoleydelsen.
+Så kan man være enig eller uenig i indgrebet, men grunden til, at
+vi har valgt at gøre det, er, at vi finder, at vi med den store produktivitetsstigning, der er i produktionsskolerne, også gerne vil tilvejebringe ressourcer til, at der kan være så mange elever, som der er,
+eller som vi forventer der vil være i fremtiden, i produktionsskolerne, men hvor ydelsen så reduceres.
+Jeg vil også gerne sige, at vi ikke har harmoniseret fuldt og helt
+med SU-området, for havde vi gjort det, ville der ikke have været
+SU til dem under 18 år.
+
+9";Tina Nedergaard
+44953;Time;;Kl. 10:40
+44992;title_name;":
+Det ville være formålstjenligt, hvis den højrøstede samtale foregik et
+andet sted.";Mogens Lykketoft
+45086;Time;;Kl. 10:40
+45129;title_name;":
+Det var ellers en god samtale. Jeg går tilbage til starten, det er jeg
+simpelt hen nødt til. I forhold til SU'en har vi ikke harmoniseret fuldt
+og helt, for det ville jo have betydet, at man, når man var under 18
+år, slet ikke skulle modtage skoleydelse. Vi har alligevel fastholdt
+det, fordi vi også tillægger det betydning, som hr. Bjarne Laustsen
+gør det. I regeringen tillægger vi det også betydning, at eleverne får
+en ydelse for at møde på det, de opfatter som arbejde, for selv om
+det er uddannelse, er det også en form for arbejde. Vi tillægger det
+også stor betydning, at skolen har det pædagogiske værktøj.
+Jeg vil gerne understrege, at vi fra regeringens side sætter stor
+pris på det arbejde, produktionsskolerne yder. Jeg har mødt masser
+af dejlige unge mennesker, som har fået et enormt stort udbytte af
+produktionsskolerne, og derfor har jeg så forsøgt at imødekomme
+det. Når nu ikke danmarksøkonomien eller verdensøkonomien er til,
+at vi bare kan strø mere økonomi ud over det hele, har jeg tilkendegivet, at jeg meget gerne vil indgå i drøftelser med Produktionsskoleforeningen om at lave et egentligt uddannelsesbevis, sådan at den
+elev, der har gået på produktionsskole, ikke bare skal føle, at vedkommende har haft et ophold et eller andet sted, men at det får en
+formel anerkendelse. Det arbejde har jeg faktisk allerede startet.
+Jeg vil også gerne understrege, at Produktionsskoleforeningen er
+inviteret til at deltage og indgå i det arbejde, som skal foregå omkring det, vi har lavet i fempartikredsen, nemlig uddannelsesparathed, simpelt hen fordi vi tillægger Produktionsskoleforeningen stor
+betydning i forhold til at nå 95-procents-målsætningen. Men jeg ser
+bestemt også meget frem til samrådet, som, så vidt jeg husker, foregår på tirsdag.";Tina Nedergaard
+46907;Time;;Kl. 10:42
+46946;title_name;":
+Hr. Bjarne Laustsen for en kort bemærkning.";Mogens Lykketoft
+47001;Time;;Kl. 10:42
+47022;name_party;":
+Jeg kan bekræfte, at jeg har deltaget i adskillige møder med undervisningsministeren, bl.a. på Frederikshavn Produktionsskole. Jeg har
+aldrig hørt, at det var et ønske, heller ikke, fordi vi jo havde handlet
+det af i 2002, at man gik ud og sagde til eleverne og til produktionsskolerne, at nu var det vigtigste her i verden at få ydelsen sat ned til
+SU-niveau. Det har jeg aldrig hørt. Det har man så gjort nu her. Jeg
+stiller bare spørgsmål ved, om det er klogt.
+Jeg står jo ikke alene med den opfattelse. Fru Marianne Jelved og
+jeg skrev til både undervisnings- og beskæftigelsesministeren og
+gjorde rede for det og havde alle de papirer, som hele forligskredsen
+bag ved »Flere i arbejde« havde, og der fremgår det klart og tydeligt,
+at beskæftigelsesministeren dengang ønskede nøjagtig det, som den
+nuværende undervisningsminister ønsker, nemlig at sætte ydelsen
+ned. Men hele forligskredsen blev enige om, at det ikke var klogt,
+for der var her tale om en særlig gruppe, der ikke kunne arbejde ved
+siden af, ikke kunne modtage lån. Tværtimod er det forhold, der ligner dem, vi kender fra lønarbejde, og hvis de ikke møder op, bliver
+de simpelt hen trukket i løn. Det er klogt, det er godt. Det er også
+derfor, at vi ikke kan forstå, at det bliver straffet – så forligsbrud er
+det i hvert fald.
+
+10
+
+Fredag den 10. december 2010 (L 64)";Bjarne Laustsen
+48374;Time;;Kl. 10:43
+48413;title_name;":
+Undervisningsministeren.";Mogens Lykketoft
+48449;Time;;Kl. 10:43
+48492;title_name;":
+Vi har faktisk været meget omhyggelige, for aftalen var så omfattende, både den, der blev indgået med beskæftigelsesministeren, og som
+beskæftigelsesministeren selvfølgelig selv har redegjort for i samrådet, og også de aftaler, der ligger på Undervisningsministeriets område. Vi har faktisk gjort os umage, og vi finder på ingen måde, at vi
+har brudt nogle indgåede aftaler. Det er ikke regeringens politik, at
+når man indgår aftaler, bryder man dem. Derfor har vi været meget
+omhyggelige.
+Jeg må derfor også sige det på den måde, at det virker, som om
+det afhænger af de øjne, der ser det, men det har i hvert fald ikke på
+nogen måde været intentionen, det fremgik altså meget klart af aftalen, og det fremgik også af det lovforslag, som den daværende undervisningsminister aftalte med Venstre, Konservative, Det Radikale
+Venstre og Dansk Folkeparti, at det skulle fastsættes ved de årlige finanslove. Det grundlag er ikke ændret ved senere aftaler indgået i
+Undervisningsministeriet.";Tina Nedergaard
+49489;Time;;Kl. 10:44
+49528;title_name;":
+Hr. Bjarne Laustsen.";Mogens Lykketoft
+49560;Time;;Kl. 10:45
+49581;name_party;":
+Men uanset hvad har vi jo før hørt, at regeringen siger, at man skal
+kunne stole på regeringen: Det, vi siger før et valg, mener vi også
+efter et valg. Man har sagt: Vi rører heller ikke dagpengeperioden,
+hverken størrelsen eller længden. Det har man så gjort alligevel.
+Det her er nøjagtig det samme, og derfor vil jeg bare høre, om ikke undervisningsministeren kan bekræfte, at de papirer, som fru Marianne Jelved og jeg sendte over til ministeren forud for samrådet i
+juni måned, klart tilkendegav, at regeringen på daværende tidspunkt
+ville nedsætte ydelsen fra det, den var, til SU-niveau, og at alle de
+notater, der var i kredsen bag »Flere i arbejde«, klart og tydeligt tilkendegav, at de blev enige om noget andet. Når vi derfor har haft det
+oppe til drøftelse og har handlet det af, kan man jo ikke bagefter
+komme og rejse en sag og sige, at så skal ydelsen i øvrigt sættes ned
+alligevel. Vi blev jo netop enige om ikke at røre den. Så hvis ministeren kan bekræfte det og huske de papirer, var det sådan, det var,
+og derfor er det intet mindre end et forligsbrud. Ud over det er det
+heller ikke klogt at gøre det.";Bjarne Laustsen
+50715;Time;;Kl. 10:46
+50754;title_name;":
+Ministeren.
+
+over på en kollegas område for aftalerne. Det kan jeg ikke, og jeg
+ønsker det sådan set heller ikke.
+Så jeg forholder mig til det, der er indgået på Undervisningsministeriets område. Det holder vi os helt inden for i det, vi laver i forhold til skoleydelsen. Når vi ikke har reklameret med det forud for et
+valg, skyldes det alene, at vi ikke kunne forudse den økonomiske
+krise, som vi er kommet ind i i hele verden, og at jeg har stor respekt
+for produktionsskolerne, så det var ikke mit første valg, men jeg
+vedkender mig fuldt og helt, at vi sparer.";Mogens Lykketoft
+51331;Time;;Kl. 10:47
+51370;title_name;":
+Fru Marianne Jelved for en kort bemærkning.";Mogens Lykketoft
+51425;Time;;Kl. 10:47
+51447;name_party;":
+Når jeg nu alligevel er på talerstolen, vil jeg da gerne bekræfte hr.
+Bjarne Laustsens beskrivelse af fortiden og de aftaler, vi har indgået.
+Men jeg vil godt komme med en tilføjelse, fordi ministeren netop
+peger på eller trækker den sag frem, som bestod i, at Venstre og
+Konservative og Dansk Folkeparti og Det Radikale Venstre indgik
+en aftale om erhvervsuddannelserne og produktionsskolerne for
+snart en del år siden. Der skete det, at vi reducerede i skolepraktikordningerne. Det fik jeg virkelig rigtig meget skældud for uden for
+forhandlingslokalet. Men vi gjorde også noget andet. Vi fastholdt, at
+produktionsskoleydelsen skulle være, som den var, selv om regeringen også på det tidspunkt ønskede at afprøve, om man kunne ændre
+på den, så den blev af en SU-lignende størrelse. Og det var min begrundelse for det, da jeg kom ud af forhandlingslokalet: at jeg var
+gået med til det ene, fordi jeg havde fået det andet.
+Det er fuldstændig korrekt, som ministeren siger, at der så står, at
+det fastsættes på finansloven hvert år. Men i min forståelse var der
+en aftale, som gjorde, at selv om den fastsattes på finansloven hvert
+år, ville aftaleparterne ikke benytte sig af den mulighed, at de kunne
+vedtage en finanslov uden Det Radikale Venstre og ændre det. Det
+var sådan en gentleman’s agreement, som jeg syntes var ganske fornuftig. Og derfor har min oplevelse af det her været en meget stor
+skuffelse over, at jeg var så naiv ikke at få slået fast med søm og …
+(uro på tilhørerpladserne medfører, at mødet kortvarigt udsættes).
+:
+Mødet er udsat. (Kl. 10:49).";Marianne Jelved
+53025;Time;Forhandling;Kl. 10:52
+53076;title_name;":
+Vi genoptager mødet. Fru Marianne Jelved var ved at afrunde sin
+korte bemærkning.";Mogens Lykketoft
+53169;Time;;Kl. 10:52
+53180;Time;;Kl. 10:46
+53223;title_name;":
+Både beskæftigelsesministeren og jeg har stillet op til samråd tidligere på året, hvor vi gennemgik, hvorvidt der var begået nogen form
+for forligsbrud eller aftalebrud. Jeg vil også gerne sige, at jeg var af
+den opfattelse forud for samrådet, og det vil jeg fortsat være, at hvis
+jeg ikke mente, at vi var på den rette side af aftalen, så ville jeg ikke
+gennemføre det. For jeg mener, at det er helt afgørende for samarbejdet i Folketinget, at man kan regne med de aftaler, der er indgået,
+og sådan er det også. Det er jo derfor, at vi støtter os til de bemærkninger, der var til lovforslaget, hvoraf det fremgik, at ydelsen fastsættes ved de årlige finanslove. Jeg er altså ked af at bevæge mig";Tina Nedergaard
+53943;name_party;":
+Derfor vil jeg gerne understrege, at det for mig har været en skuffelse, at regeringen sammen med Dansk Folkeparti har truffet den beslutning, som gør, at vi nu reducerer produktionsskoleydelsen, fordi
+det jo sådan set dokumenterer eller viser, at når man laver aftaler af
+den karakter, skal man ikke bare have en forståelse; man skal faktisk
+have skrevet tingene meget præcist ned. Det er så den lære, jeg har
+måttet drage af den her sag.";Marianne Jelved
+54394;Time;;Kl. 10:52
+54433;title_name;":
+Undervisningsministeren ønsker ikke ordet. Hr. Bjarne Laustsen.
+
+Fredag den 10. december 2010 (L 51)";Mogens Lykketoft
+54547;Time;;Kl. 10:52
+54568;name_party;":
+Jeg tror, der kom lidt uorden i det, for det var sådan set mig, der var
+ordfører, så jeg betragter det her som en kort bemærkning. Derfor vil
+jeg bare sige, at jeg synes, vi skal fortsætte den drøftelse på tirsdag,
+men jeg vil samtidig gerne opfordre undervisningsministeren til at
+lytte til det, Produktionsskoleforeningen er kommet med. De siger,
+at der er en mulighed for at finde en løsning på det her inden for
+nogle bestemte rammer.
+Jeg er jo helt enig med fru Marianne Jelved i, at hvis man går ind
+og laver en aftale, er det også klogest at overholde den. Uanset at
+man så efterfølgende er blevet enige om at sige, at det fastsættes på
+finansloven, så vil det jo være sådan, at dem, der er med til at lave en
+aftale, også bliver spurgt, om det er det rette niveau. For det er nøjagtig det samme, som man foreslog i 2002, og som hele kredsen, både Venstre, Konservative, Radikale Venstre og Socialdemokratiet,
+med tilslutning fra Dansk Folkeparti blev enige om, nemlig at vi ikke ville ændre produktionsskoleydelsen, fordi den er helt unik og der
+er nogle specielle forhold, der gør, at den ikke kan sammenlignes
+med SU. Så det er baggrunden for det, og jeg er glad for, at vi får det
+samråd på tirsdag.
+Men det gør jo så også, at ministeren nu har en god, lang weekend til at tænke over tingene og over, om det ikke var bedre at opnå
+noget, man kunne samles om i enighed, i stedet for at komme til at
+stå i den her situation, selv om det ikke er den nuværende minister,
+der er ansvarlig for det, men en tidligere minister, som i dag er finansminister. På den måde kom man altså til at lave et forligsbrud.
+Tak.
+
+11
+
+Jeg foreslår, at lovforslaget går direkte videre til tredje behandling
+uden fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter
+jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+11) 2. behandling af lovforslag nr. L 6:
+Forslag til lov om arbejdsskadesikring i Grønland.
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+26.11.2010).";Bjarne Laustsen
+56632;Time;Forhandling;Kl. 10:55
+56683;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Mogens Lykketoft
+56984;Time;;Kl. 10:54
+57023;title_name;":
+Undervisningsministeren ønsker ikke ordet. Fru Marianne Jelved har
+sådan set mulighed for yderligere en kort bemærkning, men ønsker
+heller ikke ordet.
+Der er, så vidt jeg har kunnet notere, ikke flere, der ønsker at udtale sig. Så er forhandlingen sluttet.
+Der er stillet forslag om, at lovforslaget henvises til fornyet udvalgsbehandling, og hvis ingen gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+12) 2. behandling af lovforslag nr. L 7:
+Forslag til lov om ændring af lov om arbejdsmiljø. (Omprioritering af partsindsatsen m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+01.12.2010).";Mogens Lykketoft
+57744;Time;"Forhandling
+
+Det næste punkt på dagsordenen er:
+10) 2. behandling af lovforslag nr. L 51:
+Forslag til lov om ændring af lov om aktiv socialpolitik. (Veteraners opfyldelse af opholdskravet for ret til kontanthjælp).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 10.11.2010. 1. behandling 16.11.2010. Betænkning
+02.12.2010).";Kl. 10:56
+58092;Time;Forhandling;Kl. 10:55
+58143;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.";Mogens Lykketoft
+58300;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+12
+
+Fredag den 10. december 2010 (L 9)
+
+Det næste punkt på dagsordenen er:
+13) 2. behandling af lovforslag nr. L 8:
+Forslag til lov om ændring af lov om sygedagpenge. (Ændring af
+beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+17.11.2010).";Mogens Lykketoft
+58987;Time;"politik ved ophævelse af lov om udbetaling af ydelser til militære
+invalider og deres efterladte i de sønderjyske landsdele).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 13.10.2010. 1. behandling 28.10.2010. Betænkning
+17.11.2010).";Kl. 10:56
+59246;Time;Forhandling;Kl. 10:57
+59297;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+
+Forhandling";Mogens Lykketoft
+59466;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+14) 2. behandling af lovforslag nr. L 9:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring
+m.v., lov om fleksydelse og lov om seniorjob. (Afskaffelse af feriedagpenge til dimittender m.fl., afvikling af statsligt tilskud til
+ATP-bidrag af efterløn og fleksydelse m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 06.10.2010. 1. behandling 12.10.2010. Betænkning
+17.11.2010).
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+16) 2. behandling af lovforslag nr. L 43:
+Forslag til lov om ændring af lov om aktiv socialpolitik og lov
+om ansvaret for og styringen af den aktive beskæftigelsesindsats.
+(Sanktion for manglende deltagelse i læse- og skrivetest for kontant- og starthjælpsmodtagere over 30 år, ophævelse af flaskehalsbevillingen m.v.).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 27.10.2010. 1. behandling 09.11.2010. Betænkning
+01.12.2010).";Mogens Lykketoft
+60859;Time;;Kl. 10:58
+60870;Time;"Forhandling
+Forhandling";Kl. 10:56
+60933;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+15) 2. behandling af lovforslag nr. L 32:
+Forslag til lov om ophævelse af lov om udbetaling af ydelser til
+militære invalider og deres efterladte i de sønderjyske landsdele
+samt om ændring af ligningsloven og lov om aktiv socialpolitik.
+(Konsekvensændringer af ligningsloven og lov om aktiv social-";Mogens Lykketoft
+61597;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Fredag den 10. december 2010 (L 70)
+
+Det næste punkt på dagsordenen er:
+17) 2. behandling af lovforslag nr. L 52:
+Forslag til lov om en 2-årig forsøgsordning om jobpræmie til enlige forsørgere.
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 10.11.2010. 1. behandling 16.11.2010. Betænkning
+01.12.2010).";Mogens Lykketoft
+62217;Time;"13
+
+dre love. (Udvidelse af Institut for Menneskerettigheders kompetence til også at omfatte køn).
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 30.11.2010).";Kl. 10:58
+62400;Time;Forhandling;Kl. 11:00
+62451;title_name;":
+Forhandlingen er åbnet. Fru Ellen Trane Nørby som ordfører for
+Venstre.
+
+Forhandling";Mogens Lykketoft
+62548;Time;;Kl. 11:00
+62587;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+18) 2. behandling af lovforslag nr. L 70:
+Forslag til lov om ophævelse af lov om befordringsrabat til efterlønsmodtagere m.fl.
+Af beskæftigelsesministeren (Inger Støjberg).
+(Fremsættelse 17.11.2010. 1. behandling 30.11.2010. Betænkning
+08.12.2010).";Mogens Lykketoft
+63172;Time;Forhandling;Kl. 10:59
+63223;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+19) 1. behandling af lovforslag nr. L 86:
+Forslag til lov om ændring af lov om etablering af Dansk Center
+for Internationale Studier og Menneskerettigheder og visse an-
+
+(Ordfører)";Mogens Lykketoft
+63753;name_party;":
+Det her lovforslag har været længe undervejs, er der nok nogen der
+vil sige. I Venstre vil vi hellere glæde os over, at vi i dag endelig kan
+behandle L 86 om en udvidelse af kompetencerne for Institut for
+Menneskerettigheder til fremover også at omfatte køn, herunder varetagelsen af forpligtelserne i artikel 20 i EU's ligebehandlingsdirektiv. Dermed får vi forhåbentlig sat punktum i en flerårig dialog mellem Europa-Kommissionen og Danmark om Danmarks implementering af EU's ligebehandlingsdirektiv og spørgsmålet om et uafhængigt ligestillingsorgan for køn i Danmark. L 86 følger de forpligtelser, der fremgår af EU's direktiv, meget tæt, og derfor vil der også
+ske en understregning af instituttets kompetencer på kønsområdet i
+såvel ligebehandlingsloven som ligestillingsloven.
+I Venstre støtter vi udvidelsen af Institut for Menneskerettigheders kompetencer, og vi er af den klare opfattelse, at det vil styrke
+ligestillingsdebatten i Danmark, at der nu sker en styrkelse af hele
+overvågningen af området. Det bliver Institut for Menneskerettigheder, der fremover vil foretage uafhængige undersøgelser af forskelsbehandling på grund af køn og offentliggøre uafhængige rapporter
+om udviklingen af situationen på ligestillingsområdet i Danmark.
+Det vil efter vores opfattelse helt klart løfte videnniveauet og hele
+debatten på ligestillingsområdet. Derudover giver lovforslaget jo også instituttet mulighed for at fremsætte henstillinger på ligestillingsområdet, og der vil sikkert komme en række værdifulde anbefalinger
+fra den kant.
+I Venstre har vi været meget optaget af, at kravene fra EU om
+implementeringen af ligebehandlingsdirektivets artikel 20 ikke endte
+med at underminere de mange stærke og velfungerende institutioner
+på ligestillingsområdet, som man har her i Danmark. Her tænker jeg
+ikke mindst på KVINFO, som det har været meget vigtigt for os i
+Venstre at få tænkt aktivt ind i hele arbejdet og forløbet. Det er vigtigt, at vi med L 86 bygger videre på den viden og de mange kompetencer, vi allerede har på området, og at vi ikke kommer til at træde
+dem over tæerne.
+Når vi i Venstre har været optaget af bl.a. KVINFO's position
+fremover, gjaldt det jo også om, at vi sikrede, at den viden og det
+stærke arbejde, der foregår i det regi, ikke blev justeret på baggrund
+af de aktiviteter og de ændringer, der nu kommer på området som
+følge af EU's krav og dialog med Danmark. Vi opfatter i Venstre
+KVINFO som et stærkt videncenter på ligestillingsområdet og må jo
+erkende, at det i den proces, der har været, også har været klart, at
+KVINFO ingen ansatte har med juridisk ekspertise, og at det derfor
+efter dialogen med EU har været mere naturligt at forankre det i Institut for Menneskerettigheder. I Venstre forventer vi fremover et tæt
+samarbejde mellem det nye ligestillingsorgan og de øvrige aktører
+på området, og derfor er vi også tilfredse med, at der nu årligt tilføres 6 mio. kr. ekstra til at løfte hele ligestillingsområdet
+Det er efter vores mening et ikke uvæsentligt løft til hele området, fordi det kommer oven på de mange bevillinger, der i forvejen
+
+14
+
+Fredag den 10. december 2010 (L 86)
+
+ligger til ligestillingsaktører som Ligebehandlingsnævnet og KVINFO.
+Også Ligebehandlingsnævnet vil fortsat bevare sin klare opgave
+med at afgøre klager og konkrete sager. Det ændres der ikke på med
+vedtagelsen af L 86. Vi mener også, det er vigtigt, at de konkrete
+klager fortsat finder vej i et fagretligt system og ved domstolene og
+ikke i en anden form, som der er nogen der har foreslået. Det nye
+organ vil på den anden side kunne tage egne sager op, herunder principielle eller mere generelle problemstillinger, og dermed løfte nogle
+af de konkrete klager til også at handle om generelle tendenser.
+Kritikerne vil måske nok påstå, at 6 mio. kr. årligt ikke er nok. I
+Venstre noterer vi os, at det var det tilsvarende beløb, som Institut
+for Menneskerettigheder fik tilført, dengang de fik forpligtelsen med
+at følge opgaverne på det etniske område som følge af et andet EUdirektiv. Dermed er de midler, der tilføres nu, af samme størrelse
+som hele det område, der handler om den etniske overvågning, som
+jo på mange måder kan sammenlignes med den opgave, der med L
+86 tilføres Institut for Menneskerettigheder. Det nye ligestillingsorgan får med L 86 tilsvarende frihed til selv at organisere arbejdet og
+prioritere de 6 mio. kr. til ligestillingsopgaven. For os har det været
+vigtigt, at den frihed ligger hos instituttet, for det er dem, der også
+bedst kan vurdere, hvad det er for nogle sager, de skal tage op, og
+hvad det er, de åbent ønsker at belyse for at opfylde ligebehandlingsdirektivet og ligestillingsdirektivet; det er ikke noget, vi fra Folketingets side ligesom skal pege ud, efter hvad vi mener er vigtigst.
+Vi ser frem til, at deres fremtidige analyser og rapporter helt sikkert vil skabe debat og vil være med til at bearbejde holdningerne i
+Danmark og helt sikkert også vil løfte videnniveauet for ligestillingsdebatten i Danmark. Alt i alt synes vi i Venstre, at der er fundet
+en rigtig god model for implementeringen af opgaven, og derfor
+bakker vi op om L 86 og håber på, at vi kan få det vedtaget snarest
+muligt, sådan at aktørerne på området også kan komme i gang med
+arbejdet, og sådan at den væsentlige opgave, de har med at løfte ligestillingsområdet, kan fortsættes.
+
+netop har de organer, så vi kan mødes på tværs af partierne for at
+sikre ligestilling i Danmark.
+Vi har nu i 8 år, desværre, haft en pinlig sag for Danmark, og det
+er, at vi ikke har levet op til EU's ligebehandlingsdirektiv. Jeg er opdraget med, at ligestillingen altid har været en dansk kerneværdi; det
+har været en kerneværdi for det danske velfærdssamfund, og det har
+været noget, som vi har været rigtig gode til, og også noget, som vores udviklingsminister netop profilerer os på i udlandet. Derfor er det
+jo rigtig pinligt, når EU gang på gang har måttet minde os om, at vi
+ikke har haft et uafhængigt organ, der kunne vurdere ligestilling i
+Danmark. For det er jo rigtig vigtigt, at vi netop har organer, som
+kan sikre, at vi på tværs af partipolitiske skel får sat en dagsorden
+om ligestilling. Derfor er vi glade for, at regeringen nu endelig efter
+over 8 år imødekommer dette EU-ligebehandlingsdirektiv og udvider Institut for Menneskerettigheder til også at inkludere overvågning af ligestilling med hensyn til køn.
+Men vi er ikke helt ukritiske i forhold til det forslag, der ligger.
+Vi mener, at det er lidt problematisk, at man ikke selv kan rejse sager og også kritisere indsatsen inden for ligestilling på nødvendige
+områder i hele Danmark. Vi finder også, at på visse punkter kunne
+teksten i det her godt ligge endnu tættere på EU's ord. Samtidig vil
+jeg også pege på, at det er et helt andet forslag, vi ser, end det, som
+vi havde engang i Danmark, netop med et videncenter. Der ligger
+altså ikke en stor videndel i det her, og man må også sige, at den
+spinkle lønsum på 2,6 mio. kr. jo ikke sådan er prangende.
+Så vi er meget, meget glade for, at vi endelig får noget, der kan
+fremme ligestillingen i Danmark, men vi vil ikke gå helt ukritisk til
+værks, og vi vil sammen med den øvrige opposition overveje at stille
+nogle ændringsforslag undervejs.";Ellen Trane Nørby
+70968;Time;;Kl. 11:05
+70979;Time;;Kl. 11:09
+71018;title_name;":
+Tak til ordføreren.
+Jeg skal lige oplyse, at der var en tilhører, der helt åbenbart blev
+dårlig for et stykke tid siden, og det var et epileptisk anfald. Det er
+helt under kontrol; der kom også et sundhedsfagligt personale, som
+er medlemmer af Folketinget, til stede. Så det er bare den oplysning,
+jeg vil komme med.
+Fru Julie Rademacher som ordfører for Socialdemokraterne.";Mogens Lykketoft
+71404;Time;(Ordfører);Kl. 11:05
+71437;name_party;":
+Mange tak. Det er jo glædeligt, at der bliver taget godt hånd om dette, også i Folketingssalen. Det var en lidt chokerende oplevelse.
+Men om L 86 vil jeg sige, at jeg er glad i dag; jeg er rigtig glad i
+den her uge, ikke kun på mine egne vegne, men også på hele ligestillingens vegne. Ministeren har flere gange sagt, at jeg måtte komme i
+bedre humør, og jeg må indrømme, at i den her uge er det rent faktisk lykkedes ministeren at gøre mig i bedre humør. Så tillykke med
+det, kunne man sige. Hvorfor? Jeg ved godt, at det ikke altid er nemt
+at være ligestillingsminister i Danmark, det har ikke altid været
+nemt, og i min tid herinde, siden 2007 – det er jo trods alt kun 3 år –
+har vi allerede haft tre, fru Karen Jespersen, den siddende beskæftigelsesminister, fru Inger Støjberg, og så klimaministeren, fru Lykke
+Friis, der nu er ligestillingsminister. Så jeg tænker: O.k., vi har nu
+haft en lang kamp for ligestilling siden 2007, og derfor er jeg rigtig
+glad for, at vi nu har fået, eller rettere sagt, at det nu ser ud til, at vi
+får et ligestillingsudvalg i Folketinget. For det er afgørende, at vi";Julie Rademacher
+72555;Time;;Kl. 11:09
+72594;title_name;":
+Tak til ordføreren. Fru Pia Adelsteen som ordfører for Dansk Folkeparti.
+(Ordfører)";Mogens Lykketoft
+72698;name_party;":
+Med forslaget får Institut for Menneskerettigheder bl.a. kompetence
+til at bistå ofre for forskelsbehandling i forbindelse med deres klager
+over forskelsbehandling på grund af køn, at foretage uafhængige undersøgelser af forskelsbehandling på grund af køn, at offentliggøre
+rapporter og fremsætte henstillinger om spørgsmål vedrørende forskelsbehandling på kønsområdet.
+Forslaget er fremkommet, fordi EU har fastholdt, at Danmark ikke har implementeret EU’s ligebehandlingsdirektiv korrekt, og her
+har beskæftigelsesministeren så valgt – i øvrigt med egne ord – at
+klappe hælene sammen og gøre det, som EU siger. Og det vælger
+beskæftigelsesministeren at gøre, på trods af at det hele tiden har været regeringens opfattelse, at direktivet var korrekt gennemført i
+dansk lov, idet Institut for Menneskerettigheder, universiteter, sektorforskningsinstitutioner og KVINFO kan foretage uafhængige undersøgelser, fremsætte henstillinger og offentliggøre uafhængige
+rapporter. Og på trods af at Ligebehandlingsnævnet, som er en administrativ og uafhængig klageinstans, som behandler klager over
+kønsrelateret forskelsbehandling og bistår klagerne med rådgivning
+om, hvor og hvordan en sag om forskelsbehandling kan anlægges og
+føres, ja, så klapper beskæftigelsesministeren hælene sammen og føjer EU.
+Lovforslaget bærer da også præg af, at beskæftigelsesministeren
+egentlig er af den opfattelse, at direktivet er ordentligt implementeret
+i Danmark. Det understreges af bemærkningen om, at gennemførelsen af ligebehandlingsdirektivet tydeliggøres ved at udpege Institut
+for Menneskerettigheder som specialiseret ligebehandlingsorgan. Og
+man kan stille spørgsmålene: Hvorfor have en ekstraudgift på 6 mio.
+
+Fredag den 10. december 2010 (L 86)
+
+kr. hvert år fremover på noget, som allerede eksisterer? Og hvorfor
+beholder de institutioner, som efter regeringens opfattelse allerede
+varetager opgaverne, deres bevillinger?
+Dansk Folkeparti støtter ikke forslaget, da vi er af den opfattelse,
+at direktivet allerede er implementeret korrekt, og vi havde ønsket, at
+man havde knoklet for sagen.";Pia Adelsteen
+74793;Time;;Kl. 11:11
+74832;title_name;":
+Tak til ordføreren. Jeg ser ikke nogen ordfører for Socialistisk Folkeparti i salen, nej. Fru Helle Sjelle som konservativ ordfører.";Mogens Lykketoft
+74976;Time;(Ordfører);Kl. 11:12
+75006;name_party;":
+Lovforslag nr. L 86 fra beskæftigelsesministeren har til formål at implementere to EU-direktiver, der handler om ligebehandling og
+kønsligestilling. Jeg må sige, at i Danmark er vi jo nået rigtig langt
+med ligestillingen mellem mænd og kvinder. Danske kvinder er
+blandt de kvinder i hele verden, som er mest aktive på arbejdsmarkedet og dermed bidrager til vækst og velstand, og det skal vi være
+stolte af.
+Vi skal dog også være opmærksomme på, at reel ligestilling mener vi ikke at vi skaber gennem kvindekvoter og andre tvangsmekanismer. Reel ligestilling skaber vi derimod ved at ændre holdninger,
+normer og værdier. Det tager tid, men det virker.
+Hvis vi vedtager lovforslaget, vil det betyde, at Institut for Menneskerettigheder får en række vigtige opgaver på ligestillingsområdet, og jeg vil her fremhæve tre af dem.
+For det første skal instituttet overvåge, hvordan det går med ligestillingen i Danmark. Det skal ske ved at udarbejde rapporter og
+iværksætte undersøgelser. I dag har instituttet samme opgave i forhold til diskrimination på baggrund af race og etnicitet. Fremover vil
+instituttet derfor også skulle fremsætte henstillinger på ligestillingsområdet ud fra de undersøgelser, som de laver. Et centralt formål er i
+den forbindelse at opbygge viden, som andre aktører i det danske
+samfund kan benytte.
+For det andet vil instituttet kunne yde bistand til personer, der har
+været udsat for forskelsbehandling på grund af deres køn. Det kan
+eksempelvis være bistand til at formulere klager. Det er dog fortsat
+Ligebehandlingsnævnet, der har kompetence til at afgøre sagerne om
+kønsbaseret diskrimination, men instituttet vil få mulighed for at
+hjælpe dem på vej, ligesom instituttet også vil få mulighed for at
+tage sager op af egen drift.
+For det tredje skal instituttet fremme den offentlige debat og dialog om ligestilling mellem kvinder og mænd. Det er en meget interessant og nyttig opgave, som vi Konservative ser meget frem til at
+Institut for Menneskerettigheder vil løfte. Vi mener som sagt, at reel
+ligestilling skabes ved hjælp af gode argumenter, som ændrer holdninger, normer og værdier, og ikke gennem statslig tvang og indblanding i private virksomheder.
+Samlet set kan vi Konservative støtte forslaget, der giver Institut
+for Menneskerettigheder nogle nye spændende opgaver på ligestillingsområdet. Derved sikrer vi jo også, at Danmark lever op til de to
+EU-direktiver, og det var så sandelig også på tide, fristes man til at
+sige, men vi sikrer, og det er endnu vigtigere, et grundlag for, at ligestillingen i Danmark bliver endnu bedre, og at det sker gennem gode
+argumenter frem for statslig tvang. Tak.";Helle Sjelle
+77655;Time;;Kl. 11:15
+77694;title_name;":
+Tak til ordføreren. Fru Lone Dybkjær som radikal ordfører.
+
+15";Mogens Lykketoft
+77769;Time;(Ordfører);Kl. 11:15
+77799;name_party;":
+Jeg skal starte med lige at give udtryk for SF's holdning. SF's ordfører, fru Pernille Vigsø Bagge, beklager, at hun ikke kan være til
+stede her i dag. Hun støtter overordnet set forslaget, men vil selvfølgelig stille nogle spørgsmål og arbejde videre med det i udvalget og
+nærmere redegøre for sine synspunkter ved andenbehandlingen.
+Nogle af os kan måske sige det om tredjebehandlingen, men det vil
+jo så vise sig, alt efter hvordan forløbet bliver.
+Så skal jeg gå over til Det Radikale Venstre, og jeg tror, at jeg vil
+starte med at sige: Godt, vi har EU. Det siger vi i mange forskellige
+sammenhænge, men det gør vi sandelig også på ligestillingsområdet.
+EU har gjort mange gode ting for Danmark på dette og andre områder. Jeg kan se, at fru Pia Adelsteen smiler bejaende. Spøg til side,
+jeg er helt med på, at fru Pia Adelsteen markerede, at hun var lodret
+uenig. Men jeg synes, at EU har gjort meget godt på det her område,
+og jeg skal bare nævne, at uden EU havde vi jo ikke fået ligeløn på
+det tidspunkt, vi fik det. Det kan godt undre, men sådan var det. Vi
+havde heller ikke haft den omvendte bevisbyrde, som jeg i hvert fald
+i nogle sammenhænge er stærk tilhænger af, når det drejer sig om at
+beskytte den svage over for den stærke.
+Nu har vi altså også endelig fået et institut, og jeg skal sådan set
+rose ministeren, fordi ministeren har været i stand til at tage nogle af
+alle sine ord tilbage og sige: O.k., nu bøjer jeg mig for, at EU synes,
+det er rigtigt. Det mente ministeren ikke på et tidligere tidspunkt, så
+jeg vil sådan set sige tak for det, og så skal jeg ikke tvære meget mere i det og sige bedre sent end aldrig. Sådan er det.
+Vi har i modsætning til fru Pia Adelsteen ikke den opfattelse, at
+alt kan lade sig gøre i øjeblikket i Danmark. Det handler jo altså også om, at der et eller andet sted er en rimelig koncentreret indsats
+med nogle ressourcer, og at man er i stand til at lave nogle programmer og følge nogle mål. Det bliver selvfølgelig en lidt anden indsats,
+når man har et sådant institut, hvilket ministeren også siger, og det
+synes jeg er fint og en fin erkendelse. Alt andet lige tilføres der altså
+midler til området, og det tror vi altså også vil hjælpe. Så jeg tror, at
+det her institut alt andet lige vil være godt. Jeg kalder det et videninstitut, selv om jeg godt er klar over, at betegnelsen er en anden.
+Det er jo så henlagt til Institut for Menneskerettigheder. Man kan
+sige meget om dem og også meget godt, men de har altså ikke ekspertise på køn. Det er problemet for dem. Omvendt kunne vi, der gerne ville have lagt det i KVINFO, måske også sige, at der kan siges
+meget godt om dem, men at jura måske ikke er deres stærkeste side.
+Det kunne jo så meget klart indikere, og det står heldigvis også i bemærkningerne, at der skal være et samarbejde mellem instituttet og
+KVINFO, og så må vi jo spørge nærmere ind til, hvordan man forestiller sig at det samarbejde kan blive. Det tror jeg er fuldstændig afgørende, for der er ingen af os, der har nogen som helst lyst til at
+starte totalt fra scratch, og det kan vi jo godt risikere, hvis ikke instituttet får en vis støtte. Lad mig sige det på den måde. Det håber jeg
+så vil lykkes, og jeg håber også, at instituttet er åbent for et bredere
+samarbejde, men det er vel også noget, de i hvert fald til en vis grad
+har indikeret.
+Så vil vi under udvalgsarbejdet selvfølgelig også spørge ind til
+nogle ting. Bl.a. vil vi gerne spørge ind til, hvordan det beløb, der nu
+er på 6 mio. kr., egentlig er fremkommet, og hvordan man tager en
+del af det – 2,9 mio. kr., eller hvor meget det nu er – til lønsummen.
+Hvad er det for nogle beregninger, der ligger bag? Det vil vi selvfølgelig gå lidt nærmere ind i i forbindelse med udvalgsarbejdet.
+Så selv om vi måske nok oprindelig kunne have forestillet os et
+nyt videncenter på linje med det tidligere videncenter, vil vi også sige, at det her selvfølgelig er et skridt på vejen, og at det alt andet lige
+vil styrke ligestillingsarbejdet. Så må vi, om jeg så må sige, tage den
+derfra. På den ene side sidder regeringen jo i den position, at den for
+
+16
+
+Fredag den 10. december 2010 (FM )
+
+en gangs skyld er nødt til at forhandle med andre end DF. På den anden side har regeringen selvfølgelig også den styrke, at det er os andre, der i modsætning til regeringen ønsker, at der laves noget på det
+her område. Det er jo de faktiske forhold i jernindustrien. Jeg vil sige
+til ministeren, at vi godt ved, at det her ikke var blevet til noget, hvis
+EU ikke havde været der. Det er ikke noget, ministeren frivilligt er
+gået med til. Jeg synes bare, at vi åbent skal konstatere, at sådan er
+forhandlingssituationen, og så må vi jo tage en snak ud fra det.
+Men med de her ord skal jeg give udtryk for en overordnet støtte
+fra Radikale Venstres side.";Lone Dybkjær
+82593;Time;;Kl. 11:20
+82632;title_name;":
+Tak til ordføreren. Så er det fru Johanne Schmidt-Nielsen som Enhedslistens ordfører.";Mogens Lykketoft
+82729;Time;(Ordfører);Kl. 11:20
+82770;name_party;":
+Blandt dem, der følger med i, hvad der sådan sker på ligestillingsområdet, tror jeg ikke der er nogen, der er i tvivl om, at både Enhedslisten og den samlede opposition længe har kæmpet for at få et
+egentligt selvstændigt organ, der beskæftiger sig med ligestilling, ikke bare fordi EU siger det, men fordi det er en rigtig god idé, og fordi det er helt afgørende for ligestillingsindsatsen i Danmark.
+Man kunne have brugt en model, som vi bl.a. kender fra Norge
+og Sverige. Vi er helt enige med de mange høringsparter, der i deres
+høringssvar påpeger, at det altså er et selvstændigt ligestillingsorgan,
+vi har brug for. Der er ikke nogen tvivl om, at det, regeringen her
+lægger op til, er bedre end ingenting. Det mener jeg ikke man kan
+sætte spørgsmålstegn ved, men der er heller ikke nogen tvivl om, at
+det er en discountmodel. Jeg synes, at hele forløbet omkring det her
+ligestillingsorgan meget tydeligt viser, at den eneste årsag til, at
+Venstre og Konservative kommer med det her forslag, er, at EU har
+pålagt Danmark at gøre det.
+Vi er i Enhedslisten helt på linje med bl.a. LO, FTF, Kvinfo,
+Kvinderådet, Foreningen for Kønsforskning og Magisterforeningen,
+når de påpeger, at økonomien, altså de 6 mio. kr., der er afsat, simpelt hen ikke slår til. Beløbet ligger også betydeligt under niveauet i
+Norge, Island og Sverige. Ifølge Magisterforeningens høringssvar
+blev der – og det er bare sådan en oplysning, jeg kommer med til inspiration – afsat 400 mio. svenske kroner til ligestillingsarbejdet i år
+2010 i Sverige. Det sætter jo de 6 mio. kr. i perspektiv, må man sige.
+Når Venstres ordfører i sin ordførertale siger, at ordføreren glæder sig til at se analyser og rapporter og glæder sig til, at videnniveauet bliver løftet, vil jeg sige, at det ville jeg også ønske kunne lade sig gøre, men jeg vil tillade mig at tvivle, når det er 6 mio. kr., der
+er afsat. Vi er i Enhedslisten ligesom en lang række af høringsparterne bekymret for, om ligestillingsorganet udelukkende eller i hvert
+fald hovedsagelig kommer til at beskæftige sig med den individuelle
+diskrimination, simpelt hen fordi der ikke vil være ressourcer til at
+tage fat på opgaven med at analysere de strukturelle barrierer, der
+forhindrer eller står i vejen for ligestilling i vores samfund. Og man
+må altså også spørge sig selv, om der virkelig med så lille et budget
+vil være ressourcer til at foretage de her uvildige undersøgelser af
+forskelsbehandling på baggrund af køn, som bl.a. Venstres ordfører
+efterlyser og ser frem til. Institut for Menneskerettigheder får da også lige nævnt i deres høringssvar, at opgavevaretagelsen må ses i lyset af de ressourcer, der er afsat til området, og det er jo så sandt.
+Afslutningsvis vil jeg lige sige, at vi er meget enige med bl.a.
+Foreningen for Kønsforskning i, at transkønnede bør skrives ind i
+lovgrundlaget, det er der jo også kommet et meget langt høringssvar
+fra de transkønnedes forening om. Til sidst vil jeg sige, at vi naturligvis er positivt indstillet, fordi det er en forbedring i forhold til den
+nuværende situation, men vi har en lang række spørgsmål, og som
+
+bl.a. fru Julie Rademacher fra Socialdemokraterne sagde i sin ordførertale, regner vi med, at der kommer en række ændringsforslag fra
+oppositionen i løbet af udvalgsbehandlingen.";Johanne Schmidt-Nielsen
+86060;Time;;Kl. 11:24
+86099;title_name;":
+Tak til ordføreren. Så er det beskæftigelsesministeren.";Mogens Lykketoft
+86166;Time;;Kl. 11:24
+86209;title_name;":
+Jeg vil først og fremmest gerne takke ordførerne. Jeg takker meget
+for, at der er forståelse for, at det er nødvendigt, at der bliver oprettet
+et uafhængigt ligestillingsorgan for køn. Regeringen mener, at Institut for Menneskerettigheder vil være bedst til at løse opgaven, fordi
+instituttet allerede har opgaven i forhold til race og etnisk oprindelse.
+Vi har fået en åbningsskrivelse fra Kommissionen og senere en
+begrundet udtalelse, som vi selvfølgelig har valgt at følge. Det er
+det, flere ordførere fra hvert sit udgangspunkt har været inde på.
+Med lovforslaget imødekommer vi Kommissionens pålæg til regeringen om at sikre, at der er et uafhængigt ligestillingsorgan for køn.
+Vi giver Institut for Menneskerettigheder den nødvendige kompetence til at opfylde de forpligtelser, der følger med artikel 20 i det
+ligebehandlingsdirektiv, som der ligger. I artikel 20 stilles der krav
+om, at medlemsstaterne sikrer ofre for forskelsbehandling bistand i
+forbindelse med deres klager over forskelsbehandling på grund af
+køn. Der er en tilsvarende bestemmelse i ligestillingsdirektivets artikel 12. Efter direktivet skal medlemsstaterne endvidere sikre, at der
+er organer, der har kompetence til at foretage uafhængige undersøgelser af forskelsbehandling på grund af køn, offentliggøre uafhængige rapporter og fremsætte henstillinger om spørgsmål vedrørende
+kønsområdet.
+Med lovforslaget skal Institut for Menneskerettigheder fremover
+overvåge kønsområdet, på samme måde som instituttet allerede i dag
+har kompetence til at overvåge forskelsbehandling på grund af race
+og etnisk oprindelse. Da forpligtelserne efter artikel 20 og artikel 12
+gælder både inden for og uden for arbejdsmarkedet, foreslås der også indsat en bestemmelse om instituttets kompetence på kønsområdet i ligebehandlingsloven og i ligestillingsloven.
+Som det er tradition i forbindelse med gennemførelse af direktiver, er der tale om en direktivnær gennemførelse, og derfor går lovforslaget ikke videre end de to direktivbestemmelser. Lovforslaget
+følger nøje direktivteksten, og instituttet skal derfor ikke udføre opgaver som f.eks. indsats i forhold til beskyttelse eller andre kriterier,
+der ikke er nævnt i direktiverne.
+Jeg ser frem til arbejdet i Det Politisk-Økonomiske Udvalg og
+stiller naturligvis beredvilligt op, når det gælder om at svare på
+spørgsmål, såvel mundtlige som skriftlige.";Inger Støjberg
+88589;Time;;Kl. 11:27
+88628;title_name;":
+Tak til ministeren.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget henvises til Det Politisk-Økonomiske
+Udvalg. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.";Mogens Lykketoft
+88884;Time;;Kl. 11:27
+88923;title_name;":
+Der er ikke mere at foretage i dette møde.
+
+Fredag den 10. december 2010 (FM )
+
+Folketingets næste møde afholdes tirsdag den 14. december 2010 kl.
+12.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside. Jeg skal i øvrigt henvise til ugeplanen, der også fremgår af
+Folketingets hjemmeside.
+:
+Mødet er hævet. (Kl. 11:29).
+
+17";Mogens Lykketoft

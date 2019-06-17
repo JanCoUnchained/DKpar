@@ -1,0 +1,1010 @@
+split;reason;text;value
+0;;"Onsdag den 23. oktober 2013 (D)
+
+8. møde";
+78;Time;"Dagsorden
+1) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).
+
+1) Til justitsministeren af:
+Peter Skaarup (DF)
+Hvad er ministerens holdning til, at illegale indvandrere har let ved
+at komme ind i Danmark via Københavns Lufthavn i Kastrup, fordi
+politiet er nødt til at vende det blinde øje til, da der ikke er mandskab
+nok til at udøve en ordentlig kontrol?
+(Spm. nr. S 220, skr. begr. Medspørger: Martin Henriksen (DF)).
+2) Til justitsministeren af:
+Peter Skaarup (DF)
+Hvad er ministerens holdning til at ophæve udlændingelovens § 59
+a, stk. 2, således at flyselskaber vil kunne straffes for at bringe udlændinge uden gyldige papirer fra et Schengenland til Danmark?
+(Spm. nr. S 224. Medspørger: Martin Henriksen (DF)).
+3) Til justitsministeren af:
+Jan E. Jørgensen (V)
+Mener ministeren, at det er fornuftigt midt i den igangværende bandekonflikt at flytte hundredvis af betjente fra hovedstaden til provinsen?
+(Spm. nr. S 225).
+4) Til justitsministeren af:
+Jan E. Jørgensen (V)
+Vil ministeren overveje at sætte den planlagte flytning af betjente fra
+hovedstaden til provinsen i bero i lyset af den eskalerende bandekonflikt?
+(Spm. nr. S 226).
+5) Til skatteministeren af:
+Karsten Lauritzen (V)
+Vil ministeren redegøre for, hvor lang tid det er rimeligt, at danske
+virksomheder skal vente på, at Europa-Kommissionen godkender
+bundfradraget for NOx-afgiften?
+(Spm. nr. S 221).
+6) Til beskæftigelsesministeren af:
+Hans Andersen (V)
+Hvad er ministerens holdning til, at for et ægtepar med børn, hvor
+begge er fyldt 30 år, og hvor den ene ægtefælle går hjemme, skal
+den anden ægtefælle tjene omkring 35.000 kr. pr. måned, for at æg-
+
+1
+
+teparret har 1.000 kr. mere til rådighed pr. måned end et ægtepar
+uden andre indtægter end kontanthjælp?
+(Spm. nr. S 165).
+7) Til beskæftigelsesministeren af:
+Hans Andersen (V)
+Hvad er ministerens holdning til, at ca. 330.000 danskere i dag ifølge
+Økonomi- og Indenrigsministeriets beregninger har et svagt økonomisk incitament til at arbejde?
+(Spm. nr. S 166).";kl. 13.00
+2098;Time;"Meddelelser fra formanden
+Formanden:
+Mødet er åbnet.
+I dag er der følgende anmeldelse:
+Peter Skaarup (DF), Preben Bang Henriksen (V), Simon Emil Ammitzbøll (LA), Tom Behnke (KF) m.fl.:
+Beslutningsforslag nr. 12 (Forslag til folketingsbeslutning om forholdsregler ved udeblivelse i straffesager).
+Titlen på den anmeldte sag vil også fremgå af www.folketingstidende.dk (jf. ovenfor).
+Jeg skal meddele, at beskæftigelsesministeren er blevet forhindret,
+og derfor udgår de af Hans Andersen under nr. 6 og 7 opførte
+spørgsmål, spørgsmål nr. S 165 og S 166, af dagens dagsorden.
+
+Det eneste punkt på dagsordenen er:
+1) Besvarelse af oversendte spørgsmål til ministrene (spørgetid).";Kl. 13:00
+2785;Time;"Formanden:
+Det første spørgsmål er til justitsministeren af hr. Peter Skaarup.";Kl. 13:00
+2875;Time;"Spm. nr. S 220
+1) Til justitsministeren af:
+Peter Skaarup (DF) (medspørger: Martin Henriksen (DF)):
+Hvad er ministerens holdning til, at illegale indvandrere har let ved
+at komme ind i Danmark via Københavns Lufthavn i Kastrup, fordi
+politiet er nødt til at vende det blinde øje til, da der ikke er mandskab
+nok til at udøve en ordentlig kontrol?
+
+2
+
+Onsdag den 23. oktober 2013 (S 220)
+
+Skriftlig begrundelse
+Der henvises til artiklen: »Illegale strømmer ind«, BT den 15. oktober 2013.
+Formanden:
+Hr. Peter Skaarup, som efter de nye regler gerne må oplæse sit
+spørgsmål. Værsgo.";Kl. 13:00
+3467;Time;;Kl. 13:00
+3487;name_party;":
+Tak for det. Spørgsmålet lyder sådan her:
+Hvad er ministerens holdning til, at illegale indvandrere har let
+ved at komme ind i Danmark via Københavns Lufthavn i Kastrup,
+fordi politiet er nødt til at vende det blinde øje til, da der ikke er
+mandskab nok til at udøve en ordentlig kontrol?";Peter Skaarup
+3787;Time;"Formanden:
+Justitsministeren.";Kl. 13:01
+3828;Time;;Kl. 13:01
+3864;title_name;":
+Tak for det, formand. Jeg er nødt til at sige, at spørgsmålet hviler på
+forkerte præmisser, som jeg selvfølgelig er nødt til at korrigere.
+For det første: Politiet i Københavns Lufthavn vender ikke det
+blinde øje til, at illegale udlændinge kommer hertil på fly fra andre
+lande i Schengenområdet. For det andet: Der er mandskab nok til at
+foretage kriminalitetskontroller.
+Jeg har de her oplysninger fra Københavns Politi, og jeg kunne
+sådan set vælge at stoppe her, men for spørgerens skyld vil jeg sådan
+set gerne fylde lidt mere på. Som spørgeren og vel også, må jeg gå
+ud fra, medspørgeren ved, er det ikke tilladt for politiet rutinemæssigt og fast at kontrollere alle flypassagerer, som ankommer fra andre Schengenlande. Det, politiet derimod kan foretage sig, er de såkaldte kriminalitetskontroller af Schengenankomster, når der er et
+konkret mistankegrundlag.
+Som jeg har redegjort for i et svar til Integrationsudvalget i december måned sidste år, førte sådan en konkret mistanke om illegal
+indrejse f.eks. sidste år til, at der blev udført en række målrettede
+kontroller, som bekræftede mistanken, og som bevirkede, at der siden da er foretaget hyppigere kontroller.
+Det samlede tal for kontrolvirksomheden i lufthavnen viser således, at der både sidste år og i år er udført væsentlig flere kriminalitetskontroller af Schengenankomster end både i 2010 og 2011. Bare
+til en illustration var det samlede antal kontroller i hele 2011 seks –
+jeg gentager seks – hvor i alt 10 personer blev undersøgt, mens der
+allerede i oktober måned i år er udført mere end 70 kontroller med
+undersøgelse af i størrelsesordenen 6.000 personer. Så uden at skulle
+gøre talen alt for lang synes jeg, at det taler et meget konkret sprog
+og siger, at der er skarpt fokus på det her område.";Morten Bødskov
+5651;Time;"Formanden:
+Hr. Peter Skaarup.";Kl. 13:03
+5692;Time;;Kl. 13:03
+5712;name_party;":
+Jeg synes, det er et interessant svar, som justitsministeren kommer
+med. For det, som ministeren siger, er, at der er styr på det, der kommer ikke nogen illegale personer ind via Københavns Lufthavn, der
+er ikke nogen, der søger asyl eller har lavet kriminalitet eller har falske papirer, når de kommer ind i Danmark. Der er fuldstændig styr
+på det. Det er det, justitsministeren siger.
+
+Det står i modsætning til det, som en række politifolk, der arbejder med de her sager, har udtalt til dagbladet BT, nemlig at det er
+sjældent, at fly fra andre Schengenlande tjekkes, også selv om man
+erfaringsmæssigt ved, at der kan være mange illegale flygtninge med
+de her fly. Hvis man laver de mange kontroller, som justitsministeren taler om der har været, lægger man hele lufthavnen ned – det siger de menige politifolk, der sidder og arbejder med det – da der
+lægges beslag på ressourcer hos kriminalpolitiet, anklagemyndigheden og andre steder i politiet. Det har man slet ikke ressourcer til, siger man.
+Det er derfor, jeg siger – og jeg kan egentlig ikke tro andet, når
+jeg læser de reportager, der har været i BT – at politiet nødvendigvis
+har måttet vende det blinde øje til fly, hvor man kan forudse der har
+været problemer, fordi man simpelt hen ikke har ressourcer til at
+sætte alt det i gang, man skal i forbindelse med alle de her kriminelle, der kommer med de pågældende fly.
+Jeg må minde om, at det ikke er nok, når man taler grænsekontrol, at kontrollere, hvem der kommer ind fra lande, der ikke deltager
+i Schengensamarbejdet, det vil typisk sige fra ikkeeuropæiske lande.
+Det er bestemt muligt at komme ind i Schengenområdet f.eks. via en
+lufthavn i Italien – Rom, Milano eller andre steder – og altså på
+grund af en meget lempelig kontrol i Sydeuropa at komme ind i
+Danmark som illegal person med illegale papirer. Det tror jeg justitsministeren er enig i er en mulighed, også set i lyset af at der netop er
+kommet væsentlig flere asylansøgere til Danmark de seneste år under den nuværende regering.";Peter Skaarup
+7734;Time;"Formanden:
+Ministeren.";Kl. 13:05
+7768;Time;;Kl. 13:05
+7804;title_name;":
+Som det altid er tilfældet med hr. Peter Skaarup, begynder han at tale
+om alt muligt andet, når han bliver fanget på det forkerte ben. Der er
+ingen tvivl om, at der her er tale om, at der er udfordringer. Det har
+der været i flere år.
+Som sagt skal man passe på med at puste sig for meget op, når
+man, dengang man selv havde et medansvar for, hvad der skulle ske
+i Danmark, kunne præstere 6 stk. kriminalitetskontroller i 2011. Jeg
+gentager: 6 stk. Nu er der så pr. oktober måned i år foretaget mere
+end 70 kontroller, hvor der er udført undersøgelser af i størrelsesordenen 6.000 personer. Så jeg synes faktisk, det taler sit eget tydelige sprog, og jeg mener, at alle bør kunne se, at ethvert forsøg på at
+tegne et billede af, at den her regering ikke tager det alvorligt, er helt
+ved siden af skiven.
+Det er ikke ensbetydende med, at der ikke er udfordringer. Det er
+der, og derfor bliver der selvfølgelig også sat ind over en bred front.
+Det er ikke ensbetydende med, at politiets ressourcer ikke skal prioriteres. Det skal de. Eksempelvis er hr. Peter Skaarup jo langt fremme i skoene hver gang, der skal kræves nye opgaver til politiet. De
+indgår – ikke alle, men nogle af dem – selvfølgelig i politiets prioriteringer. Det er også en del af arbejdet for politiet, men her er der et
+fokus, som har ladt meget tilbage at ønske, hvis man ser på, hvad
+den tidligere regering har leveret.";Morten Bødskov
+9206;Time;"Formanden:
+Hr. Peter Skaarup.";Kl. 13:06
+9247;Time;;Kl. 13:06
+9267;name_party;":
+Jeg mener da, justitsministeren har ret i en ting, og det er, at der er
+udfordringer. Jeg er bange for, at justitsministeren i for høj grad forholder sig til en ledelse, der måske nogle steder har en interesse i at
+
+Onsdag den 23. oktober 2013 (S 220)
+
+sige, at tingene er gode og alting er godt, i stedet for at forholde sig
+til de menige medarbejdere, der sidder med tingene i det daglige og
+jo også mærker konsekvenserne af, at man ikke har ressourcer til at
+foretage de nødvendige kriminalitetskontroller.
+Justitsministeren kan selvfølgelig sagtens se bagud til tiden under
+den tidligere regering. Dansk Folkeparti havde ikke magten dengang, vi sad ikke i regering, men når man kigger bagud, må man sige, at der faktisk var væsentlig færre asylansøgere i de år, hvor der
+sad en borgerlig regering, end vi har set igennem de seneste par år. I
+2012 var der jo tale om, at Danmark procentvis havde den største
+stigning i Europa i, hvor mange asylansøgere vi modtog. Så det er en
+udfordring, der skal tages hånd om nu og her, vil jeg sige til justitsministeren.";Peter Skaarup
+10341;Time;"Formanden:
+Ministeren.";Kl. 13:07
+10376;Time;;Kl. 13:09
+10412;title_name;":
+Tak for det, formand. Jeg går selvfølgelig ud fra, at de oplysninger,
+som Københavns Politi har givet, og som ligger til grund for det
+svar, der er givet, afspejler det øjebliksbillede, der var, og at det på
+det tidspunkt var nødvendigt at udføre daglige kontroller. Hvis der
+så er nogle, som har fået det indtryk, at de eksempelvis af ressourcemæssige grunde eller andre grunde bevidst skal lade være med at udføre relevante kontroller af Schengenankomster – det er det, vi taler
+om – så går jeg selvfølgelig stærkt ud fra, at det beror på en misforståelse.";Morten Bødskov
+10982;Time;"Formanden:
+Hr. Martin Henriksen.";Kl. 13:10
+11026;Time;;Kl. 13:10
+11037;Time;;Kl. 13:07
+11073;title_name;":
+Jamen hr. Peter Skaarup, du taler igen udenom. Du må jo erkende, at
+her er der tale om et markant løft. Jeg ved ikke, om det er kommet
+som en overraskelse, men det er det, der er virkeligheden, og det er
+det, du spørger til.
+Jeg siger ganske tydeligt, at dit spørgsmål baserer sig på to helt
+forkerte præmisser, nemlig en antagelse om, at, som der står i
+spørgsmålet, politiet i Københavns Lufthavn vender det blinde øje til
+– det gør de ikke – og at der er tale om, at der ikke er mandskab nok
+til at foretage de her kriminalitetskontroller. Det er der, og de bliver
+foretaget i langt, langt større omfang, end da hr. Peter Skaarup var
+det 90. og dermed afgørende mandat for den tidligere regering. Jeg
+forsøger bare at sige, at nogle gange er det meget fint, at tal bliver
+bragt på bordet, så dem, der spørger, ikke lader sig unødigt forvirre
+af manglende fakta.";Morten Bødskov
+11949;Time;"Formanden:
+Jeg er nødt til at minde om, at vi ikke bruger du-formen i Folketinget.
+Der er en medspørger, hr. Martin Henriksen, som kommer ind
+her, før hr. Peter Skaarup får sidste runde. Værsgo.";Kl. 13:08
+12155;Time;;Kl. 13:09
+12178;name_party;":
+Tak for det. Jeg kunne godt tænke mig at spørge lidt ind til et svar –
+jeg tror også, at ministeren var inde på det – som ministeren gav til
+Folketinget den 23. oktober sidste år, hvor ministeren bl.a. i svaret
+skrev, og jeg citerer:
+»Blandt andet i lyset af disse erfaringer bliver der nu udført daglige kriminalitetskontroller på forskellige fly fra Schengenlande.«
+Jeg vil spørge , hvordan det svar, som ministeren har givet til
+Folketinget, harmonerer med de udtalelser, som bl.a. kommer fra en
+politiassistent fra politiets dokumentcenter i lufthavnen, der til citat
+til BT den 15. oktober siger:
+»Vi har gennem længere tid ikke lavet kriminalitetstjek af problematiske Schengenankomster. Det gælder også ankomster, hvor vi erfaringsmæssigt ved, at der kommer mange illegale ...«.";Martin Henriksen
+12975;Time;"Formanden:
+Ministeren.
+
+3";Kl. 13:09
+13025;name_party;":
+Jeg skal bare forstå det rigtigt. Altså, det, som justitsministeren oplyste til Folketinget i oktober sidste år, hvor ministeren i et svar til
+Folketinget – det, som ministeren oplyser til Folketinget, skal jo være rigtigt, og det var et svar på et spørgsmål, der var stillet på baggrund af, at det her også var oppe sidste år – beskriver reglerne også
+i forhold til Schengen, var, og jeg citerer:
+»Blandt andet i lyset af disse erfaringer bliver der nu udført daglige kriminalitetskontroller på forskellige fly fra Schengenlande.«
+Når man så ser det, som politifolk, der arbejder i lufthavnen, er
+citeret for i dagspressen, så bliver der ifølge dem ikke udført daglige
+kontroller. Jeg vil bare spørge: Hvad er så rigtigt? Er det svar, som
+ministeren har givet til Folketinget, korrekt? Bliver der udført daglige kontroller nu?";Martin Henriksen
+13864;Time;"Formanden:
+Ministeren.";Kl. 13:11
+13898;Time;;Kl. 13:11
+13934;title_name;":
+Tak for det, formand. Som jeg sagde tidligere, går jeg ud fra, at det,
+som Københavns Politi oplyste der tilbage i 2012, da det svar, som
+hr. Martin Henriksen læser op her, blev givet, afspejler det øjebliksbillede, der har været. Hvis man i øvrigt ønsker at få udboret det, ved
+hr. Martin Henriksen udmærket godt, at så må man stille et nyt
+skriftligt spørgsmål.
+Det, jeg kan forholde mig til, er, at det billede, der er forsøgt tegnet, af, at der intet bliver foretaget, og at det kun er gået ned ad bakke, simpelt hen ikke har nogen overensstemmelse med virkeligheden. Jeg ved godt, det nogle gange kan være svært for Dansk Folkeparti, men sådan er virkeligheden altså bare her: 6 kontroller i 2011,
+og allerede nu, her i oktober måned, mere end 70 kontroller. Det synes jeg taler sit eget tydelige sprog.";Morten Bødskov
+14754;Time;"Formanden:
+Tak til hr. Martin Henriksen. Så er det hr. Peter Skaarup til at slutte
+replikskiftet.";Kl. 13:12
+14863;Time;;Kl. 13:12
+14883;name_party;":
+Jeg er ked af, at justitsministeren ikke tager det her alvorligt nok. Jeg
+synes ikke, justitsministeren tager det alvorligt nok, når fremtrædende politifolk, der sidder med de her ting, til forskellige aviser kan udtale, at der ikke er styr på det. Jeg synes, det er for skidt af justitsministeren, at det ikke bliver taget alvorligt. Der bliver sagt til BT den
+15. oktober af en politimand:
+
+4
+
+Onsdag den 23. oktober 2013 (S 224)
+
+»Hver gang det sker (kriminalitetstjek, red), lægger vi lufthavnen
+ned, og kolleger rundt i politiet, der også bliver indblandet, når vi
+tager illegale, bliver fuldstændig lagt ned og overbebyrdet med opgaver i lang tid.«
+Kan justitsministeren garantere, at antallet af kontroller bliver på
+et niveau, hvor der foretages mindst en daglig kontrol, som justitsministeren har fortalt Folketinget at man skal foretage? Justitsministeren nævner tallet 70, men daglig kontrol vil jo sige cirka 300 i året
+2013.";Peter Skaarup
+15833;Time;"enige i, at vi selvfølgelig skal overholde vores internationale forpligtelser, herunder de forpligtelser, som følger af Schengensamarbejdet.
+Så bestemmelsen er altså nødvendig, og vi må derfor i forlængelse af det, vi også har diskuteret tidligere, koncentrere os om det, vi
+kan gøre inden for rammerne af Schengenreglerne. Der har hr. Peter
+Skaarup jo ved selvhør, havde jeg nær sagt, fundet ud af, at der er
+sket en kraftig stigning i antallet af de her kriminalitetskontroller, og
+det går jeg ud fra at hr. Peter Skaarup nu vil rose. Hvis han ikke vil
+det, kan han se i de spørgsmål og de svar, der er kommet over til udvalgene, hvor det også er blevet beskrevet.";Kl. 13:13
+16511;Time;"Formanden:
+Justitsministeren.";Kl. 13:15
+16552;Time;"Formanden:
+Hr. Peter Skaarup.";Kl. 13:13
+16593;Time;;Kl. 13:15
+16629;title_name;":
+Tak for det, formand. Det, jeg kan sikre, er, at det her bliver taget
+meget alvorligt. Jeg forstår slet ikke, at Dansk Folkeparti ikke vælger at rose den indsats, som politiet rent faktisk gør, altså fra 6 kontroller i 2011 til allerede nu i oktober måned mere end 70 kontroller.
+Nu har jeg svaret på en fem-seks spørgsmål. Det er stadig – i hvert
+fald for mig – et åbent spørgsmål, hvordan pokker det kan være, når
+man går så meget op i det her, at man ikke bare som minimum vælger at rose Københavns Politi for den indsats, de rent faktisk gør.
+Den synes jeg er god, og hvorfor synes jeg det? Fordi regeringen
+lægger meget vægt på, at der selvfølgelig er og bliver foretaget de
+her kriminalitetskontroller, og at der bliver sat ind efter dem.";Morten Bødskov
+17385;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål er også til justitsministeren af hr. Peter
+Skaarup.";Kl. 13:14
+17503;Time;"Spm. nr. S 224
+2) Til justitsministeren af:
+Peter Skaarup (DF) (medspørger: Martin Henriksen (DF)):
+Hvad er ministerens holdning til at ophæve udlændingelovens § 59
+a, stk. 2, således at flyselskaber vil kunne straffes for at bringe udlændinge uden gyldige papirer fra et Schengenland til Danmark?
+Formanden:
+Værsgo.";Kl. 13:14
+17831;Time;;Kl. 13:14
+17851;name_party;":
+Tak for det. Spørgsmålet lyder sådan her: Hvad er ministerens holdning til at ophæve udlændingelovens § 59 a, stk. 2, således at flyselskaber vil kunne straffes for at bringe udlændinge uden gyldige papirer fra et Schengenland til Danmark?";Peter Skaarup
+18102;Time;"Formanden:
+Justitsministeren.";Kl. 13:14
+18153;name_party;":
+Det er jo fantastisk flot, at der sker en stigning i antallet af kriminalitetskontroller. Det, der så ikke er så flot, er, at man åbenbart ikke
+overholder det, man selv skriver i svarene til Folketinget, i forhold
+til hvor mange man skal foretage. Der skriver man jo i marts måned i
+år til Dansk Folkeparti her i Folketinget, der har spurgt til det, at
+man laver daglige kriminalitetskontroller. Ministeren siger så i dag,
+at der i år er lavet 70 indtil nu. Når jeg tæller antallet af dage i år, er
+der lidt flere end 70 – der er altså gået op imod 300 – og derfor synes
+jeg, at justitsministeren skulle sætte sig for at opnå det, som man
+selv har lovet i de svar, man har givet i Folketinget, nemlig at der er
+mindst en – i hvert fald mindst en – daglig kontrol, og gerne af de
+fly, som de fleste asylansøgere illegalt kommer hertil med, i stedet
+for af de fly fra forskellige Schengenlande, hvor der typisk ikke
+kommer nogen, der gerne vil søge asyl.
+Det, der er det paradoksale, er jo, og det er også det, som politifolk i lufthavnen siger, er, at man kontrollerer – og det kan sagtens
+tænkes, at det er 70 fly i år – men nogle af dem eller en del af dem er
+jo fra destinationer, hvorfra der ikke kommer nogen asylansøgere
+med illegale papirer, fordi man godt ved, at man lægger hele systemet ned, hvis man kontrollerer netop de fly, f.eks. fra Milanos Lufthavn eller Roms Lufthavn med lavprisselskaberne. Og så er vi jo i
+virkeligheden henne ved det, som det her spørgsmål handler om,
+nemlig, at det godt nok ville være en god ting, hvis regeringen vil
+arbejde på at ændre den Schengenregel, der betyder, at man i dag ikke sørger for at foretage sig det nødvendige i forhold til at tjekke de
+passagerer, der kommer fra Schengenlande.
+For det er jo en kendt sag, at grænsekontrollen er hullet som en
+si, specielt mod syd – det er den så også i Danmark, men specielt
+mod syd – og det betyder, at når man er inde i et Schengenland, kan
+man rejse direkte til Danmark og søge asyl. Og det kan vi jo se på
+tallene: 6.200. Det var den største stigning i 2012 i Europa. Vil justitsministeren gøre noget ved det?";Peter Skaarup
+20272;Time;"Formanden:
+Justitsministeren.";Kl. 13:18
+20313;Time;;Kl. 13:18
+20324;Time;;Kl. 13:14
+20360;title_name;":
+Tak for det, formand. Efter udlændingelovens § 59 a, stk. 1, er det
+sådan, at det er strafbart at bringe udlændinge her til landet, såfremt
+den pågældende ikke er i besiddelse af fornøden rejsedokumentation
+og eventuelt visum. Efter stk. 2 gælder dette transportøransvar ikke,
+hvis der er tale om en indrejse fra et andet Schengenland – og det er
+det, der er tale om. Undtagelsen i stk. 2 blev indført i 1997, fordi
+Danmark var forpligtet hertil på grund af deltagelsen i Schengensamarbejdet. Og jeg tillader mig faktisk at gå ud fra, at de fleste er";Morten Bødskov
+20948;title_name;":
+Det, som hr. Peter Skaarup glemmer at fortælle, er, at hvis man ser
+på Danmarks nabolande, kan man se, at vi jo altså taler om en virkelig voldsom stigning i antallet af asylansøgere. Men det går jeg ud
+fra at hr. Peter Skaarup selvfølgelig ingen interesse har i at formidle,
+fordi det forvrænger det billede, han ønsker at tegne, men som altså
+desværre ikke hænger sammen.
+Det, der er sagt i det svar, som er overgået til Folketinget, og det,
+som jeg også siger her og går ud fra, bygger på, at de oplysninger,
+Københavns Politi gav tilbage i 2012, var et øjebliksbillede af, at det
+
+Onsdag den 23. oktober 2013 (S 224)
+
+på daværende tidspunkt var nødvendigt med daglige kontroller. Betyder det så, at der ikke foretages noget? Nej, det gør det ikke, og det
+var det, vi brugte lidt tid på før. Så vi prøver igen.
+Under den tidligere regerings sidste år, altså i 2011: 6 kontroller,
+10 personer. Under den her regerings andet år og indtil nu, hvor det
+er oktober: Mere end 70 kontroller, hvor i omegnen af 6.000 personer er blevet kontrolleret. Så det billede, som hr. Peter Skaarup forsøger at tegne, af, at der ikke sker noget, håber jeg snart, hr. Peter
+Skaarup har fundet ud af ikke holder.";Morten Bødskov
+22155;Time;"Formanden:
+Hr. Peter Skaarup.";Kl. 13:19
+22196;Time;;Kl. 13:19
+22216;name_party;":
+Til justitsministeren: Prøv lige at høre det her. Jeg roser politiet ved
+næsten enhver given lejlighed. Jeg synes, politifolkene yder et kæmpe flot stykke arbejde på alle fronter. De kæmper, men nogle gange
+kan det altså godt være svært, når man ikke har mandskab nok, og
+det har man ikke i Københavns Lufthavn. Skulle justitsministeren ikke bare prøve på at forvisse sig om, at sådan er det? Det er den suppedas, man sidder i nu her, og der er det så vi kommer med forskellige forslag – mere mandskab.
+Nu har vi her et spørgsmål, der handler om, at vi skal kunne
+straffe de flyselskaber, der bringer ulovlige udlændinge, altså udlændinge med illegale papirer, til Danmark fra Schengenlande, og det
+vil justitsministeren så åbenbart heller ikke følge – eller vil justitsministeren?
+Vil justitsministeren arbejde for – set i lyset af, at der kommer
+rigtig mange asylansøgere illegalt via Københavns Lufthavn ind i
+landet – at vi i Schengenregi får den regel ændret, så Danmark er
+herre i eget hus?";Peter Skaarup
+23224;Time;"Formanden:
+Justitsministeren.";Kl. 13:20
+23265;Time;;Kl. 13:20
+23301;title_name;":
+Jeg ved godt, at Dansk Folkeparti heldigvis – føler jeg mig fristet til
+at sige – står ret alene med deres modstand mod Schengensamarbejdet, og derfor er regeringen sådan set meget tilfreds med, at der er en
+meget bred opbakning til Schengensamarbejdet.
+Jeg ved også godt, at Dansk Folkeparti ganske ofte kører en kampagne om, at det er årsagen til, at vi står med grænseoverskridende
+kriminalitet, og at vi derfor skulle vende tilbage til det, man havde
+fået lokket den tidligere regering med på, nemlig en permanent toldkontrol, som man endte op med at kalde den.
+Der er det glade budskab til hr. Peter Skaarup så, at den indsats,
+som den nuværende regering har gjort, har resulteret i flere – flere –
+straffesager, eksempelvis hvis man ser på den dansk-tyske grænse i
+Syd- og Sønderjylland. Så det synes jeg også hører med til billedet.
+Jeg er ked af, at det måske er noget, der ligesom kan forvirre lidt,
+men det er i hvert fald en del, også en vigtig del, af diskussionen omkring Danmarks deltagelse i Schengensamarbejdet.
+
+5
+
+grænsekontrol og Schengensamarbejde, er godt for regeringen og de
+øvrige EU-partier, men jeg tror ikke, det er så godt for befolkningen
+og for de arbejdsvilkår, som vi tilbyder politiet. Og det er måske det,
+der et eller andet sted er det væsentlige.
+Jeg kan også forstå, at når Folketinget stiller spørgsmål til justitsministeren og får at vide, at der udføres daglige kontroller, så kan
+man ikke helt regne med det alligevel, for sådan fungerer det åbenbart ikke mere. Det er så også en ny tilstand her i Folketinget.
+Sagen er jo den, at alle kender de problemer, som vi står med.
+Altså, jeg tror da også, at justitsministeren, selv om han ikke giver
+udtryk for det her, udmærket er klar over, at politiet ikke kan følge
+med, og at Schengenreglerne f.eks. gør, at det ikke er hensigtsmæssigt med den måde, som det fungerer på. Det tror jeg da godt justitsministeren ved inderst inde, ligesom politifolkene, der har med det at
+gøre, jo også godt ved, at det ikke fungerer optimalt. Og det frustrerer dem selvfølgelig – det er jo klart.
+Der er det bare, at det jo kunne være befriende, hvis justitsministeren på et eller andet tidspunkt kunne nå derhen, hvor han sagde, at
+ja, det forholder sig sådan – så kan vi jo diskutere, hvad det er, der
+gør det – at der af en eller anden årsag ikke bliver lavet de kontroller, som der er behov for at der bliver lavet, f.eks. i Kastrup Lufthavn. Og der kunne jeg godt tænke mig at høre, om ikke justitsministeren set i lyset af det, der har været fremme, vil sige til politiet, at
+der skal foretages flere kontroller.";Morten Bødskov
+25903;Time;"Formanden:
+Justitsministeren.";Kl. 13:22
+25944;Time;;Kl. 13:22
+25980;title_name;":
+Jeg må altså sige, at man bliver ved med at vende tilbage til de to
+fejlagtige præmisser, som spørgsmålene bygger på. Man har jo nemlig skrevet i det første spørgsmål, at politiet i lufthavnen vender »det
+blinde øje til«. Den præmis håber jeg trods alt at jeg har fjernet, al
+den stund at der i det sidste år, hvor Dansk Folkeparti sad på det afgørende halvfemsindstyvende mandat, blev gennemført – og jeg siger det igen og er ked af at måtte belemre Dansk Folkeparti med det
+– 6 kontroller, mens der indtil videre i år – det er i oktober måned –
+med undersøgelse af i størrelsesordenen 6.000 personer. Jeg kan se,
+at hr. Martin Henriksen nikker, og det betyder vel, at det synspunkt,
+at det er en forkert præmis, at man skulle have vendt det blinde øje
+til, er accepteret. Det er en stor sejr for debatten i dag, at vi er kommet så langt.
+Betyder det så, at der ikke er en tilstrækkelig prioritering af indsatsen? Det gør det ikke. Det her er selvfølgelig også et fokus for
+Københavns Politi, og det er det, fordi der ikke skal herske nogen
+tvivl om, at de her kontroller er prioriteret, og at de selvfølgelig også
+skal prioriteres. Der er ingen, der er uenige i, at der er en udfordring
+med illegal indvandring, og derfor er der også sket et løft i antallet af
+kontroller.";Morten Bødskov
+27266;Time;"Formanden:
+Hr. Martin Henriksen, sidste runde.";Kl. 13:24
+27324;Time;;Kl. 13:24
+27335;Time;"Formanden:
+Hr. Martin Henriksen som medspørger.";Kl. 13:21
+27394;Time;;Kl. 13:21
+27417;name_party;":
+Tak for det. Jeg tror da, justitsministeren har ret i, at det, at vi i
+Dansk Folkeparti står alene med vores synspunkter i forhold til f.eks.";Martin Henriksen
+27583;name_party;":
+Hvis det, der kom ud af det, sidste gang Dansk Folkeparti rettede
+henvendelse, var, at der kom lidt flere kontroller, så kan man jo håbe, at justitsministeren lader sig inspirere af det og sørger for, at der
+kommer endnu flere kontroller derude. Jeg kan også se, at der i 2010
+blev udført 41 kriminalitetskontroller ude i lufthavnen, sådan som
+justitsministeren har oplyst det til Folketinget.
+
+6
+
+Onsdag den 23. oktober 2013 (S 225)
+
+Jeg går ud fra, at når justitsministeren oplyser det tal til Folketinget, er det korrekt, ligesom jeg går ud fra, at når justitsministeren oplyser til Folketinget, at der udføres daglige kontroller, så er det også
+korrekt. Men jeg ved ikke, om der – når justitsministeren kommer
+med et svar til Folketinget – kan følge en eller anden manual med,
+sådan at man kan se, hvilke ting i svaret der er korrekte, og hvilke
+ting i svaret man må antage ikke er korrekte, men som kun gælder
+lige den dag, hvor svaret er givet. Det ville jo også være befriende
+for debatten, og det kunne måske endda også være en sejr for folkestyret – hvem ved?
+Pointen er bare, at ud over al den her retorik frem og tilbage kunne det jo være rigtig befriende, hvis vi kunne blive enige om, at der
+er et problem, at det fortsat ikke er løst, og at der er behov for, at
+man gør en større indsats. Kan vi blive enige om det?";Martin Henriksen
+28925;Time;"Formanden:
+Justitsministeren.";Kl. 13:25
+28966;Time;;Kl. 13:25
+29002;title_name;":
+Altså, vi er enige om, at der er en udfordring med illegal indvandring
+– det tror jeg aldrig nogen sinde der har været to meninger om. Det
+er der i Danmark, og det er der i resten af Europa. Man behøver bare
+at åbne weekendens aviser og se, hvad udfordringen er. Derfor tager
+vi fat nu og her. Vi har løftet antallet af de her kriminalitetskontroller til et niveau, som jo langt overstiger, hvad det sidste år under
+Dansk Folkepartis stærke indflydelse bød på. Og derfor arbejder vi
+jo også i europæisk sammenhæng med grænsesamarbejde og andre
+ting – politimyndigheder på tværs af grænser, udlændingekontrolafdelinger og en hel række andre ting.
+Så det at forsøge at tegne et billede af, at der ikke er nogen, der
+tager det alvorligt, er helt ved siden af skiven. Det bliver taget alvorligt, og billedet på, at det bliver taget alvorligt, er jo altså soleklart:
+langt, langt flere kriminalitetskontroller end tidligere.";Morten Bødskov
+29933;Time;"Formanden:
+Tak til hr. Martin Henriksen. Så er det hr. Peter Skaarup for det afsluttende halve minut.";Kl. 13:26
+30046;Time;;Kl. 13:26
+30066;name_party;":
+Tak. Jeg synes desværre, det er lidt som at slå i en dyne overfor justitsministeren. Man vil ikke være med til at trække Danmark ud af
+Schengen og genindføre vores grænsekontrol, man vil ikke være
+med til at rejse spørgsmålet i Schengen, om ikke vi skulle kræve af
+flyselskaberne, at de kunne blive straffet, hvis de tager illegale personer med, hvad de her lavprisselskaber, EasyJet eksempelvis og
+nogle af de andre, har gjort i mange tilfælde. Man vil ikke være med
+til at sætte flere ressourcer af, selv om der er rigtig gode resultater
+fra Billund Lufthavn, hvor man har haft nøjagtig det samme problem
+og fik gjort noget ved det, fordi man satte kraftigt ind over for de
+flyankomster, hvor der kommer mange illegale personer.
+Hvad vil man egentlig i regeringen? Vil man bare se til, mens
+personer kommer ind i Danmark? Nogle af dem tager videre til Sverige, men jeg vil sige til justitsministeren, at tallene for, hvor mange
+asylansøgere, vi har, ville være endnu højere end de her over 6.000,
+det var sidste år – og formentlig flere i år – hvis ikke det var sådan,
+at de tog videre til Sverige. Er justitsministeren slet ikke interesseret
+i at løse den her opgave?";Peter Skaarup
+31248;Time;"Formanden:
+Justitsministeren. Sidste omgang.";Kl. 13:27
+31305;Time;;Kl. 13:27
+31341;title_name;":
+Tak. Jeg tror, at det med hr. Peter Skaarups spørgsmål lidt lyder,
+som om vi er ved at nærme os noget. Det bliver aldrig nogen sinde
+overgivelse fra Dansk Folkepartis side, men jeg tror dog alligevel,
+man må sige, at jeg med de nævnte tal, altså seks kontroller i det sidste år, hvor Dansk Folkeparti havde massiv indflydelse på regeringens politik, forhåbentlig her har bibragt også Dansk Folkeparti lidt
+mere viden.
+Man kunne jo eksempelvis have gjort mere selv – jeg siger det
+bare. Allerede her i oktober måned har der indtil nu i år været 70
+kontroller med kontrol af i størrelsesordenen 6.000 personer. Det
+vidner i hvert fald om – håber jeg trods alt – at Dansk Folkeparti har
+fået perspektiveret den præmis, som hele den her debat byggede på
+fra starten.
+Der bliver altså gjort meget mere end tidligere, og den indsats
+fortsætter jo. Hvorfor? Fordi der jo ikke er to synspunkter om, at vi
+skal bekæmpe illegal indvandring, for det skal vi, og det gør vi.
+Det gør vi med et øget politimæssigt fokus på det – det kan man
+se på antallet af kontroller – det gør vi også i det europæiske samarbejde, hvor Danmark i al beskedenhed under formandskabet jo fremlagde en meget, meget stor, konkret plan, som lige nøjagtig havde
+det her som en af hovedprioriteringerne. Så den her regering har sat
+sig i spidsen for en ny prioritering af det her område.";Morten Bødskov
+32703;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål er til justitsministeren af hr. Jan E. Jørgensen.";Kl. 13:28
+32819;Time;"Spm. nr. S 225
+3) Til justitsministeren af:
+Jan E. Jørgensen (V)):
+Mener ministeren, at det er fornuftigt midt i den igangværende bandekonflikt at flytte hundredvis af betjente fra hovedstaden til provinsen?
+Formanden:
+Værsgo til hr. Jan E. Jørgensen for at oplæse spørgsmålet.";Kl. 13:29
+33108;Time;;Kl. 13:29
+33130;name_party;":
+Mener ministeren, det er fornuftigt midt i den igangværende bandekonflikt at flytte hundredvis af betjente fra hovedstaden til provinsen?";Jan E. Jørgensen
+33279;Time;"Formanden:
+Justitsministeren.";Kl. 13:29
+33320;Time;;Kl. 13:29
+33356;title_name;":
+Hr. Jan E. Jørgensen ved ganske udmærket godt – eller også håber
+jeg, han ved det, når vi er færdige her – at bekæmpelse af bandekriminalitet er en absolut topprioritet både for mig som justitsminister
+og for regeringen og selvfølgelig også for dansk politi. Vi har fra regeringens side fra allerførste dag haft et særligt fokus på at bekæmpe
+bandekriminaliteten, og vi har iværksat en lang række initiativer på
+bandeområdet. Inden for kort tid vil vi endvidere offentliggøre en ny
+bandepakke, der vil løfte indsatsen til et endnu højere niveau.
+Politiet har ydet en ekstraordinær indsats. Politiets indsats mod
+banderne har som sagt ligget på det højeste niveau nogen sinde, og
+det tror jeg ikke at der er nogen der sætter spørgsmålstegn ved. Jeg
+
+Onsdag den 23. oktober 2013 (S 225)
+
+synes derfor også, det er lidt mærkværdigt, at spørgeren med sit
+spørgsmål implicit siger, at politiet ikke vil kunne opretholde det her
+meget høje niveau på grund af en ændret allokering af ressourcerne.
+Som jeg gentagne gange har oplyst i foråret i besvarelser, samråd og
+andet, er de omrokeringer, der sker internt i politiet, en følge af en
+ændret ressourceallokeringsmodel, som det hedder, som rigspolitiet
+har taget i brug i 2012. Formålet er at sikre en mere fair, men også
+mere gennemsigtig bevillingsfordeling, som tager højde for de konkrete udfordringer, som den enkelte politikreds oplever.
+Så vil jeg gerne gentage her, som jeg har gjort tidligere, at den
+ændrede bevillingsfordeling ikke – og jeg siger ikke – vil svække
+indsatsen på bandeområdet.";Morten Bødskov
+34916;Time;"7
+
+de-området. For det tror jeg der er. Det er også derfor, at politiet tager hårdt fat, og at de får med grovfilen over hele landet.
+Så er virkeligheden jo den, at der hele tiden er opgaver, som politiet, og jo i særlig grad Københavns Politi, også skal udføre. Før diskuterede vi Københavns Lufthavn og indsatsen mod illegal indvandring, vi har diskuteret Nørrebroparken og bekæmpelsen af et åbenlyst narkosalg dér, og vi har diskuteret Christiania og andet. Og de
+ressourcer, som de har, fordeles selvfølgelig til de her opgaver. Jeg
+håber trods alt, at vi kan blive enige om, at vi har et politi, som gør
+det rigtig godt.";Kl. 13:30
+35553;Time;"Formanden:
+Hr. Jan E. Jørgensen.";Kl. 13:34
+35597;Time;"Formanden:
+Hr. Jan E. Jørgensen.";Kl. 13:34
+35641;Time;;Kl. 13:30
+35663;name_party;":
+Jamen jeg er sådan set med på, at der bliver gjort en stor indsats, når
+det gælder bandekriminalitet; det tror jeg ikke vi er så uenige om.
+Men når Københavns Politi i forbindelse med en bandekonflikt
+opprioriterer et område, altså bruger flere betjente til at bekæmpe
+bander, mens man samtidig tappes for kræfter, altså tappes for ressourcer, i og med at der, som ministeren siger det, allokeres, det betyder jo flyttes, politibetjente fra København til provinsen – man må
+altså oven i købet afgive betjente til provinsen – så må der jo være
+nogle ting, der ikke bliver løst.
+Jeg betvivler sådan set ikke, at der gøres en indsats over for banderne, men når Københavns Politi har så stor en opgave, nemlig at
+bekæmpe banderne, hvilket kræver så mange ressourcer, som det
+gør, og man i den situation så flytter betjente til provinsen, hvor der
+mig bekendt ikke er de store problemer med bandekriminalitet, så
+virker det alt andet lige ikke fornuftigt. Jeg har ikke mødt nogen, der
+kan se fornuften i det, og det virker meget mærkeligt. Det er også de
+meldinger, jeg får eksempelvis fra butiksindehavere, altså at det er
+meget vanskeligt at få politiet til at rykke ud, selv om man fanger tyve på fersk gerning. Og som vi også lige har hørt, har der jo i hvert
+fald været rejst kritik af indsatsen i Københavns Lufthavn. Det kunne jeg så høre på ministeren at han ikke mente der var grund til, men
+det er dog en kritik, der har været rejst.
+Så det forekommer jo altså fuldstændig ulogisk, at det skulle være muligt at sikre københavnerne en ordentlig politibetjening, når politiet på den ene side er nødt til at bruge rigtig mange kræfter på en
+bandekonflikt, mens man på den anden side skal sende betjente til
+provinsen. Det virker meget underligt.";Jan E. Jørgensen
+37422;Time;"Formanden:
+Justitsministeren.";Kl. 13:32
+37463;Time;;Kl. 13:32
+37499;title_name;":
+Tak for det, formand. Nu var spørgsmålet, om ministeren mener, at
+det er fornuftigt midt i den igangværende bandekonflikt at flytte
+hundredvis af betjente fra hovedstaden til provinsen. Der har jeg så
+svaret, at der er den her ændrede bevillingsfordeling, altså at man i
+en stor organisation som dansk politi selvfølgelig blive mødt med
+udfordringer, behov for at fordele ressourcerne på en anden måde,
+og det her vil ikke svække indsatsen på bandeområdet. Så det går jeg
+ud fra at vi er enige om at der ikke er tale om.
+Så tror jeg faktisk, jeg må sige, at hr. Jan E. Jørgensen jo altså
+selv må stå på mål for synspunktet om, at man i andre dele af landet,
+f.eks. i Jylland, ikke oplever, at der er udfordringer med rocker-ban-";Morten Bødskov
+38251;name_party;":
+Jeg tror, jeg sagde, at der dér ikke var problemer med bandekonflikt
+i samme grad, for selvfølgelig er der også problemer uden for København.
+Det, jeg bare ikke kan forstå, er, hvordan ministeren kan se københavnerne i øjnene og sige: Ja, I får den samme service fra Københavns Politi, på trods af at der er en igangværende bandekonflikt,
+som kræver indsættelse af store ressourcer, samtidig med at man så
+sender flere hundrede betjente til provinsen. Jeg havde nær sagt, at
+hvis det skulle kunne lade sig gøre, så må der altså have siddet flere
+hundrede betjente i Københavns Politi, som ikke har lavet noget som
+helst andet end at holde øje med, at der ikke kom nogen og stjal deres lampe. Altså, der må vel være nogle ting, som man er nødt til at
+nedprioritere, når man sender så mange betjente til provinsen, samtidig med at man har en bandekonflikt, som kræver ganske mange ressourcer.
+Jeg gør også ministeren opmærksom på, at jeg jo ikke står alene
+med det her synspunkt; ministeren har jo også fået en henvendelse
+fra Københavns Borgerrepræsentation – hvor hans partifæller jo som
+bekendt sidder på magten – som udtrykker dyb bekymring for den
+her disposition.";Jan E. Jørgensen
+39430;Time;"Formanden:
+Justitsministeren.";Kl. 13:35
+39471;Time;;Kl. 13:35
+39507;title_name;":
+Jeg håber trods alt, at hr. Jan E. Jørgensen har forståelse for de prioriteringer, som Københavns Politi foretager, altså at når der skydes i
+gaderne, som vi så det her i foråret, så sker der en helt naturlig opprioritering af indsatsen dér, og så er der noget andet, der må vente.
+Det har Københavns Politi jo også udtalt, og jeg er helt sikker på, at
+københavnerne også har forståelse for, at det, vi har set i Københavns gader, og jo især i boligområderne i Københavns omegn, er
+fuldkommen uacceptabelt, og der derfor også skulle sættes hårdt ind.
+Jeg synes, at den indsats, som politiet har gjort, er intet mindre
+end fremragende, og de har et hundrede ti procent opbakning fra regeringens side til det, de har lavet. Det arbejde, de har lavet, er rigtig
+godt.
+Når man prioriterer så hårdt, er der også noget andet, der nedprioriteres. Men det er ikke helt så simpelt, som hr. Jan E. Jørgensen
+forsøger at gøre det til, for der foregår selvfølgelig også løbende effektiviseringer, løbende omlægninger af ressourcerne i en stor organisation som politiet.
+På bundlinjen står, at vi har et rigtig godt politi, som selvfølgelig
+efter bedste evne og inden for de rammer, de får tildelt, forsøger at
+indfri de ønsker, som politikerne her på Christiansborg jo altså også
+har.
+
+8
+
+Onsdag den 23. oktober 2013 (S 226)";Morten Bødskov
+40833;Time;"Formanden:
+Jeg har administreret taletiderne med stor liberalitet i dag, men vi
+skal jo vænne os til de nye taletider.
+Hr. Jan E. Jørgensen.";Kl. 13:36
+40985;Time;;Kl. 13:36
+41007;name_party;":
+Tak. Jeg er stor tilhænger af liberalitet i alle afskygninger.
+Til spørgsmålet om, om det er fornuftigt at opprioritere indsatsen
+mod banderne, når der, som ministeren udtrykker det, skydes i gaderne, og man så man må nedprioritere noget andet, vil jeg sige, at
+jeg tror, det er noget, alle kan forstå. Selv ministerens partifæller i
+Københavns Borgerrepræsentation kan selvfølgelig også godt forstå
+fornuften i det.
+Det, der kan være svært at forstå, er, at man i en situation, hvor
+man er nødt til at opprioritere indsatsen på et område, og dermed må
+nedprioritere indsatsen på et andet område, også skal afgive flere
+hundrede betjente til provinsen. Det er jo den sammenhæng, som
+virker meget, meget underlig, og det er den sammenhæng, man ikke
+kan forstå i Københavns Borgerrepræsentation, og som jeg heller ikke kan forstå.
+Man kan godt forstå, at man opprioriterer et område, hvor der er
+behov for det, og dermed nedprioriterer noget andet, men at man så
+samtidig i den svære situation skal se flere hundrede kolleger flytte
+til provinsen er meget vanskeligt at forstå.";Jan E. Jørgensen
+42094;Time;"Formanden:
+Justitsministeren, sidste omgang.";Kl. 13:37
+42150;Time;;Kl. 13:37
+42186;title_name;":
+Tak. En naturlig omprioritering af ressourcer må jo altid må finde
+sted i en stor organisation som politiet, og det er et faktum, at der
+bliver sat ind med hård hånd, når der er et massivt pres på eksempelvis rocker-/bandeområdet. Ud over det betyder det selvfølgelig også,
+at konsekvensen nødvendigvis må være, at der så er opgaver, som
+må vente lidt længere. Dertil har politiet altså fået tilført ekstra ressourcer til bl.a. at klare det, hvilket vil kunne tage lidt af trykket.
+Men jeg tror også, man fra Venstres side lige skulle give det en
+ekstra tanke, om man tør føre argumentet helt igennem, og nu tænker jeg på de tanker, Venstre gør sig omkring nulvækst i den offentlige sektor. Jeg ved ikke, om det er et synspunkt eller en holdning
+eller hvad, men hvis det stadig væk er Venstres holdning, at man vil
+gennemføre det, så tror jeg, at man skal passe på med at stå alt for
+hårdt på det, man står og spørger om her. Der vil jo stadig væk i en
+stor organisation som politiet være behov for, at man prioriterer at
+allokere ressourcerne, alt efter hvor behovene og udfordringerne er.";Morten Bødskov
+43288;Time;"Formanden:
+Spørgsmålet er sluttet.
+Det næste spørgsmål er også til justitsministeren og også af hr.
+Jan E. Jørgensen.";Kl. 13:39
+43417;Time;"Spm. nr. S 226
+4) Til justitsministeren af:
+Jan E. Jørgensen (V)):
+Vil ministeren overveje at sætte den planlagte flytning af betjente fra
+hovedstaden til provinsen i bero i lyset af den eskalerende bandekonflikt?
+
+Formanden:
+Værsgo.";Kl. 13:39
+43662;Time;;Kl. 13:39
+43684;name_party;":
+Vil ministeren overveje at sætte den planlagte flytning af betjente fra
+hovedstaden til provinsen i bero i lyset af den eksisterende bandekonflikt?";Jan E. Jørgensen
+43843;Time;"Formanden:
+Justitsministeren.";Kl. 13:39
+43884;Time;;Kl. 13:39
+43920;title_name;":
+Tak. Det korte svar er nej. Det lidt længere svar er, at den ændrede
+bevillingsfordeling ikke vil svække indsatsen på bandeområdet. Og
+jeg ved ikke, om hr. Jan E. Jørgensen stadig er i tvivl – jeg håber ikke, andre er det – men altså: Den ændrede bevillingsfordeling vil ikke svække indsatsen på bandeområdet, og derfor er der ingen grund
+til at gøre det, som hr. Jan E. Jørgensen efterspørger.";Morten Bødskov
+44326;Time;"Formanden:
+Hr. Jan E. Jørgensen.";Kl. 13:39
+44370;Time;;Kl. 13:39
+44392;name_party;":
+Det synes jeg altså er en forholdsvis arrogant affejning af den bekymring, som er blevet rejst bl.a. af justitsministerens partifæller på
+København Rådhus, og som vi til fulde deler på Frederiksberg Rådhus, hvor jeg også selv har min gang.
+Jeg taler jo ikke om – bare lige for at vende tilbage til det forrige
+spørgsmål – at der skal hældes mange flere ressourcer i politiet. Jeg
+taler om en beslutning, man har truffet om at flytte nogle betjente fra
+et område af landet til et andet område af landet, og om, at man måske skulle vente lidt med at føre den beslutning ud i livet, indtil man
+har set konsekvenserne, og har set hvor lang tid det tager at få nedkæmpet den her bandekonflikt, som vi ser lige nu. Jeg taler ikke om
+at tilføre politiet mange flere ressourcer; jeg taler om at stille en beslutning i bero, sådan at man venter med at flytte betjente fra København, som har rigtig mange problemer at slås med lige nu, til provinsen.
+Så siger ministeren: Vi kan sagtens håndtere bandekonflikten. Jamen ministeren har under besvarelsen af det forrige spørgsmål lige
+erkendt, at når man opprioriterer indsatsen og bekæmper bander, er
+der andet, man må nedprioritere. Og i den situation får Københavns
+Politi også lige det ekstra drag over nakken, at de altså skal vinke
+farvel til et par hundrede kolleger, som bliver sendt til provinsen.
+Hvis man vil påstå, at københavnerne får den samme service fra
+politiet i en situation, hvor man har skyderier i gaderne, og samtidig
+skal sende betjente til provinsen, så synes jeg altså, man har et forklaringsproblem. Så synes jeg, det var mere fair og rimeligt og i orden, hvis justitsministeren sagde:
+Vi mener sådan set godt, at københavnerne kan klare sig med noget mindre politi og dermed lidt dårligere service, for vi mener, at
+servicen i provinsen har været for dårlig og derfor skal løftes. Derfor
+må servicen blive sat lidt ned i København.
+Men man kan ikke komme og påstå, at det ikke vil have nogen
+som helst betydning, at Københavns Politi skal afgive så mange betjente midt i en bandekonflikt, som lægger beslag på utrolig mange
+ressourcer.
+
+Onsdag den 23. oktober 2013 (S 226)";Jan E. Jørgensen
+46543;Time;"Formanden:
+Justitsministeren.";Kl. 13:41
+46584;Time;;Kl. 13:41
+46620;title_name;":
+Nu er det sådan, at hele diskussionen om den her ressourceallokeringsmodel jo går nogle eller i hvert fald flere år tilbage. Hele tanken
+med den er jo, at vi skal have en mere moderne økonomistyring af
+dansk politi og have bedre muligheder for at prioritere ressourcerne
+og anvende dem der, hvor behovene er.
+Hvis man lægger mærke til, hvad der har været af diskussioner
+om ressourceallokeringsmodellen, der altså er grundlaget for effektiviseringsprogrammerne i dansk politi, så vil man se, at der er bred
+enighed om at gennemføre dem, og jeg må sige, at jeg helt grundlæggende tror, det er rigtigt. Det hører jeg også hr. Jan E. Jørgensen
+sige at han mener, for selvfølgelig skal en stor organisation som politiet kunne fordele ressourcerne efter, hvor behovet er.
+Dertil tror jeg, det så er rigtigt at sige: Hvis det er grundlaget, må
+det også være politiets ledelse, som afgør det. Det, jeg som politiker
+er tryg ved, er, at resultaterne i forhold til den bandekonflikt, der har
+været, taler for sig selv. Der synes jeg politiet har gjort en rigtig, rigtig flot indsats.";Morten Bødskov
+47706;Time;"Formanden:
+Hr. Jan E. Jørgensen.";Kl. 13:43
+47750;Time;;Kl. 13:43
+47772;name_party;":
+Jo, men det er, som om ministeren ikke helt tager konsekvenserne af
+bandekonflikten med i sin ligning. For jeg siger ikke, at banderne får
+lov til at te sig, som de vil, og at politiet ikke har tid til at tage sig af
+det og politiet ikke tager situationen alvorligt. Det er ikke det, jeg siger.
+Jeg siger, at netop fordi politiet tager bandekonflikten alvorligt
+og sætter mange ressourcer ind på det, betyder det, at de er nødt til at
+nedprioritere andre opgaver. Det har ministeren selv erkendt.
+Det, jeg så spørger om, er, om det da – med den ekstraordinære
+situation, som politiet står i – er det rigtige tidspunkt så at flytte flere
+hundrede kollegaer fra København til provinsen. Kunne man ikke
+vente med denne ressourceallokeringsmodel? Altså, så vigtig er den
+vel ikke. Det er vel trods alt vigtigere at få bekæmpet kriminaliteten
+i Københavns gader og så vente med denne ressourceallokeringsmodel. Eller er behovet i provinsen virkelig så akut, at ministeren er af
+den opfattelse, at det slet ikke kan vente?";Jan E. Jørgensen
+48800;Time;"Formanden:
+Ministeren.";Kl. 13:44
+48834;Time;;Kl. 13:44
+48870;title_name;":
+Nu skal jeg selvfølgelig ikke diktere, hvad for debatter man kunne
+have i Venstres folketingsgruppe. Men udgangspunktet for hr. Jan E.
+Jørgensens spørgsmål til mig er, at man ikke mener, der skal tilføres
+flere ressourcer til politiet, og ergo må der prioriteres. Det betyder, at
+når et område som bandeindsatsen opprioriteres, hvilket er gjort, så
+nedprioriteres andre områder.
+Jeg forstår, at hr. Jan E. Jørgensen tager afsæt i, at han sidder i
+byrådet på Frederiksberg. Det er helt fair. Men jeg tror faktisk, der
+forsøges tegnet et billede af, at der er områder i landet, hvor man ikke mener at udfordringen med bandekriminaliteten tilsiger, at man
+får tilført ressourcer, og at den forstærkede indsats, der er lavet mod
+
+9
+
+grænseoverskridende kriminalitet, indbrudsbølger og andet fra østbanderne, ikke er nødvendig.
+Det tror jeg man må prøve at tage en diskussion i Venstres folketingsgruppe om. Jeg tror simpelt hen ikke, der er bred enighed om
+det. Det ville undre mig meget.
+Jeg synes, at det her selvfølgelig er en ledelsesmæssig beslutning,
+og jeg synes faktisk, at vi har et politi, som gør det rigtig godt, når
+det handler om Christiania, når det handler om lufthavnen for den
+sags skyld, når det handler om Nørrebroparken, og når det handler
+om bandekonflikten i København og uden for København.";Morten Bødskov
+50192;Time;"Formanden:
+Hr. Jan E. Jørgensens sidste replik.";Kl. 13:45
+50251;Time;;Kl. 13:45
+50273;name_party;":
+Jamen så synes jeg, at ministeren skulle tage imod den invitation,
+der er kommet fra Københavns Borgerrepræsentation, om at tage en
+rundtur. Lad os gå rundt og tale med nogle supermarkeder og så
+spørge dem, om de mener, at de får den betjening af Københavns
+Politi, som de har været vant til, altså om politiet rykker ud med den
+fornødne hast, som man kan forvente som borger. Og så synes jeg, at
+vi skal gå en tur gennem Nørrebro og se, om man er tilfreds med den
+indsats, der gøres på gaderne mod det åbenlyse narkosalg osv.
+Der er da masser af problemer i København, og hvis det udelukkende var et spørgsmål om, at man midlertidigt var nødt til at nedprioritere det, fordi man skulle opprioritere indsatsen mod bandekonflikten, så tror jeg, at det ville der være en vis forståelse for. Men
+at man permanent er i en situation, hvor flere hundrede betjente skal
+flyttes til provinsen som led i en ressourceallokeringsmodel, samtidig med at Københavns Politi er nødsaget til at sætte så mange ressourcer ind i en bandekonflikt, er der ikke nogen forståelse for.
+Men det er en åben invitation – vil ministeren tage imod den?";Jan E. Jørgensen
+51408;Time;"Formanden:
+Ministerens sidste replik.";Kl. 13:46
+51457;Time;;Kl. 13:46
+51493;title_name;":
+Nu er der ikke tale om flere hundrede betjente, som hr. Jan E. Jørgensen forsøger at sige. Jeg er af den opfattelse, at uanset hvor kriminaliteten udvikler sig, og uanset hvordan den udvikler sig – om
+det er i sommerhusområder i Vestjylland, hvor der er indbrudsbølger
+fra østbander, eller det er grænseoverskridende kriminalitet i Syd- og
+Sønderjylland, store indbrud i Østjylland, eller det samme på Sydsjælland – så har vi et politi, som har de ressourcer, som vi er enige
+om at have givet dem.
+Hr. Jan E. Jørgensens parti er med i den flerårsaftale, og jeg er
+tilfreds med, at han har bekræftet, at det ikke handler om, at der skal
+tilføres flere penge til dansk politi; det handler om, at vi har en ledelse, som kan prioritere den her indsats. Det tror jeg er det vigtige, og
+det må man bare forholde sig til.
+Jeg mener ikke, at der er grundlag for at kritisere politiets indsats.
+De gør det fremragende på Christiania, de kæmper på Nørrebro – ingen tvivl om, at der er udfordringer – og de gør det også efter bedste
+evne i Københavns Lufthavn, de har lagt meget mere kraft derude,
+som vi hørte før. På en hel række områder er der behov for, at man
+dagligt foretager prioriteringer, og det er selvfølgelig også det,
+spørgsmålet her hænger sammen med.
+
+10
+
+Onsdag den 23. oktober 2013 (S 221)";Morten Bødskov
+52803;Time;;Kl. 13:50
+52814;Time;"Formanden:
+Spørgsmålet er sluttet, og så er justitsministeren frigjort til andet arbejde.
+Det næste og sidste spørgsmål er stillet af hr. Karsten Lauritzen
+til skatteministeren.";Kl. 13:47
+53003;Time;"Spm. nr. S 221
+5) Til skatteministeren af:
+Karsten Lauritzen (V)):
+Vil ministeren redegøre for, hvor lang tid det er rimeligt, at danske
+virksomheder skal vente på, at Europa-Kommissionen godkender
+bundfradraget for NOx-afgiften?
+Formanden:
+Værsgo til Karsten Lauritzen.";Kl. 13:47
+53285;Time;;Kl. 13:47
+53308;name_party;":
+Vil skatteministeren redegøre for, hvor lang tid det er rimeligt, at
+danske virksomheder skal vente på, at Europa-Kommissionen godkender bundfradraget for NOx-afgiften?";Karsten Lauritzen
+53488;Time;"Formanden:
+Skatteministeren.";Kl. 13:48
+53528;Time;;Kl. 13:48
+53566;title_name;":
+Tak for spørgsmålet, som jeg godt kan forstå baggrunden for. Det er
+jo en sag, der optager mange – ikke mindst i det område, hvor hr.
+Karsten Lauritzen er valgt. Jeg har fuld forståelse for, at vi får diskuteret det her.
+Der bliver spurgt til, hvor lang tid der er rimelig. Nu er rimelighed jo et begreb, der godt kan være lidt svært at diskutere. Jeg vil
+sige, at det skal gå så hurtigt som overhovedet muligt, men det, som
+jo er problemet, er, at det i sidste ende er Kommissionen, der afgør,
+hvornår statsstøttesagen om bundfradraget i NOx-afgiften er tilstrækkeligt belyst til, at Kommissionen kan træffe en afgørelse. I den
+her sag forsinkes en afgørelse i Kommissionen bl.a. af, at Kommissionen har modtaget en klage over bundfradraget. Det må forventes, at
+Kommissionen vil afgøre klagesagen, før den træffer afgørelse i
+spørgsmålet om bundfradraget for NOx-afgiften.
+Jeg vil her godt gøre opmærksom på, at det ikke er første gang, at
+en lovændring vedtaget af Folketinget har måttet afvente Kommissionens godkendelse, før den kunne træde i kraft. Jeg kan lige nævne
+et enkelt eksempel fra den tidligere regering. I juni 2004 vedtog Folketinget en fritagelse for CO2-afgift for det kvoteomfattede brændselsforbrug. Først efter årelang dialog med Kommissionen kunne loven træde i kraft den 1. januar 2010. Om det er rimeligt eller ej er
+vanskeligt at svare på. De lange sagsbehandlingstider skyldes mange
+faktorer, herunder sagernes kompleksitet, ressourcer i Kommissionen, klager fra borgere og virksomheder og meget andet.
+Vi må konstatere, at statsstøtteretten i EU fylder mere og mere,
+og som medlem af EU har vi pligt til at sørge for, at reglerne bliver
+overholdt. Det er et vilkår for alle regeringer – både nuværende regeringer og tidligere regeringer.";Holger K. Nielsen
+55344;Time;"Formanden:
+Hr. Karsten Lauritzen.";Kl. 13:50
+55402;name_party;":
+Første fremmest tak til skatteministeren for besvarelsen. Skatteministeren har jo helt ret i, at grunden til, at jeg spørger ind til den her
+sag, er, at en af de virksomheder, som vil få gavn af det her fradrag,
+når det engang måtte komme, er Aalborg Portland i Nordjylland,
+som beskæftiger ganske mange nordjyder og leverer billig overskudsvarme til enormt mange – jeg tror titusinder af husstande i Aalborg
+kommune. Så det betyder faktisk noget i Nordjylland, hvor jobbene
+ikke hænger på træerne. Derfor må jeg sige, at det jo så er lidt skuffende, at skatteministeren ikke klart siger, at 2 år er for lang tid, at
+der er gået for lang tid i den her sag, og at skatteministeren personligt vil lægge sig i selen for, at der sker noget fremadrettet.
+Jeg har tidligere spurgt ind til den her sag via et skriftligt spørgsmål. Jeg har spurgt, hvad der er sket i de sidste 2 år. Har man siddet
+på hænderne i Skatteministeriet, og hvad har skatteministeren personligt har gjort? Jeg har fået et udmærket svar, og det vil jeg godt
+kvittere for. Men der kan man jo se, at embedsmændene har gjort
+noget, men at ministeren ikke har gjort noget. Og vi ved alle sammen, at hvis der skal ske noget i nogle af de her sager på EU-plan,
+kan det være en fordel, at ministeren – den folkevalgte politiker –
+nogle gange lægger sig i selen for at få noget igennem. Det er jo en
+gang imellem en prioriteringssag, også i EU, hvilke sager man behandler. Og der kan man skubbe sager op, hvis det er en minister i
+stedet for en embedsmand, der kommer med en forespørgsel.
+Derfor vil jeg godt spørge, hvorfor skatteministeren ikke har rejst
+det her i nogle sager i Kommissionen, hvorfor skatteministeren ikke
+selv har foretaget sig noget. For man får jo det indtryk, at skatteministeren sådan set er mere eller mindre ligeglad med, hvornår det kommer igennem. Og det her er vigtigt at få igennem, fordi det handler
+om nordjyske arbejdspladser. Det handler om ejerne af Aalborg Portland og om, hvorvidt de vil investere i fabrikken. Det handler om
+job og beskæftigelse.
+Derfor vil jeg godt spørge skatteministeren igen, om skatteministeren ikke synes, at 2 år er urimeligt. Og det andet er, at jeg vil høre, om skatteministeren ikke fremadrettet personligt vil lægge sig i
+selen for, at den her sag bliver ekspederet noget hurtigere igennem
+Europa-Kommissionen.";Karsten Lauritzen
+57749;Time;"Formanden:
+Skatteministeren.";Kl. 13:52
+57789;Time;;Kl. 13:52
+57827;title_name;":
+Det glæder mig, at spørgeren er tilfreds med de svar, han har fået
+tidligere, og også anerkender, at der er tale om et problem, som er
+rimelig komplekst, og som er blevet yderligere kompliceret af, at der
+er kommet en klagesag ind fra siden. Det er en af grundene til, at vi
+har fået den her forlængelse. Jeg kan sige, at jeg tager det meget alvorligt, at regeringen tager det her meget alvorligt. Vi er helt opmærksom på, at det for Aalborg Portland er helt, helt uacceptabelt, at
+der er den her lange ventetid. At man er utilfreds med det forstår jeg
+fuldt ud.
+Om det vil hjælpe at jeg personligt går ind i det er meget svært at
+svare på. Det er jo altid en vurdering, hvornår man som minister skal
+gå ind i sådan nogle sager. Vi har mange sager – eller ikke mange, vi
+har en del sager faktisk – om statsstøtte, både i Skatteministeriet og i
+andre ressortministerier. Men i Skatteministeriet har vi adskillige
+sager i øjeblikket, og der må man jo hele tiden vurdere, hvad det
+mest fornuftige er. Vi mener, at det er fornuftigt, som det kører i øjeblikket. Vi lægger på embedsmandsplan løbende et pres på Kommissionen, og det vil vi fortsat gøre.
+
+Onsdag den 23. oktober 2013 (S 165)
+
+11";Holger K. Nielsen
+59029;Time;"at ministeren lægger sig i selen og prioriterer den her sag, men det
+ønsker regeringen altså ikke. Det må være beskeden til Aalborg Portland og til de nordjyske arbejdspladser, der er på spil. Jeg synes personligt, det er ærgerligt.";Kl. 13:53
+59274;Time;;Kl. 13:53
+59285;Time;"Formanden:
+Hr. Karsten Lauritzen.";Kl. 13:56
+59342;name_party;":
+Jeg må sige, at indtil videre har jeg sådan set været rimelig tilfreds,
+men nu kommer regeringens sande erhvervspolitik jo frem, og det
+er, at det der med at skaffe arbejdspladser kan man overlade til nogle
+embedsmænd, det skal politikerne ikke blande sig i. Jeg synes, det
+ville klæde skatteministeren at give det tilsagn her i Folketingssalen i
+dag, at skatteministeren personligt vil se på den her sag og personligt
+vil tage kontakt til Kommissionen for at få den her sag behandlet. 2
+år er bare meget lang tid, det vil jeg sige.
+Jeg vil godt spørge skatteministeren igen, hvorfor skatteministeren ikke personligt vil engagere sig i den her sag, hvis der altså skal
+være sammenhæng mellem det, som regeringen siger – nemlig at
+man gerne vil være med til at sikre arbejdspladser – og det, man så
+gør. Man kan ikke blot overlade det til en embedsmandsdialog.";Karsten Lauritzen
+60213;Time;"Formanden:
+Skatteministeren.";Kl. 13:54
+60253;Time;;Kl. 13:54
+60291;title_name;":
+Nu synes jeg, det bliver usagligt. Det her har jo intet at gøre med, at
+denne regering ikke vil skabe arbejdspladser. Spørgeren ved udmærket godt, at det er meget højt prioriteret i regeringens økonomiske
+politik, at der skal skabes jobs i den private sektor – produktionsjobs. Det er vi jo fælles om, og det var jo en af grundene til, at vi her
+i foråret gennemførte Vækstplan DK, som spørgerens parti også var
+med til at stemme for.
+Så er der en helt specifik sag her omkring Aalborg Portland, og
+det, jeg siger, er, at vi arbejder hårdt for, at Kommissionen får truffet
+sin afgørelse. Om jeg som minister personligt skal gå ind i en sag,
+må altid bero på en konkret afvejning af, hvordan man skal bruge
+ressourcerne i den her slags sager. Det er ikke altid, man skal gøre
+det. Nogle gange skal man ikke gøre det.
+Jeg vil ikke afvise, at det kan blive nødvendigt, at jeg personligt
+går ind i den her sag. Det, jeg bare siger, er, at det kan jeg ikke sige
+på det grundlag, vi kender i dag. I dag kører det her i den proces, den
+slags sager altid kører i, og jeg er helt enig med spørgeren i, at det
+ikke er specielt hensigtsmæssigt, at det tager så lang tid. Det er urimeligt, men vi er nødt til at afvente den her komplekse sag, ikke
+mindst fordi der er kommet en klagesag ind, hvilket jo forsinker sagen yderligere.";Holger K. Nielsen
+61621;Time;"Formanden:
+Hr. Karsten Lauritzen, sidste runde.
+
+Formanden:
+Skatteministeren.";Kl. 13:55
+61710;Time;;Kl. 13:56
+61748;title_name;":
+Undskyld, jeg synes altså, det er noget plattenslageri at anklage regeringen for, at vi ikke interesserer os for arbejdspladser. Vi er meget
+optaget af at få Kommissionens godkendelse af det her bundfradrag.
+Vi er meget, meget optaget af det. Hvordan den sag skal håndteres i
+forhold til Europa-Kommissionen mener jeg må afhænge af den
+konkrete afvejning. Hvis hr. Karsten Lauritzen er så klog, at han ligesom kan sige, hvordan man gør det sådan et hundrede procent, så
+er han klogere end han, om jeg så må sige, selv tror han er. Og så
+bliver det meget vanskeligt.
+Jeg synes, han skal overlade det til regeringen, til skatteministeren, at vurdere, hvordan det her håndteres bedst muligt. Og jeg kan
+garantere for, at vi tager det her særdeles alvorligt. Vi er meget opmærksomme på det. Og som jeg sagde før: Hvis vi vurderer, at det
+er nødvendigt, at ministeren personligt går ind i det, så vil jeg slet
+ikke afvise, at det er det, vi kommer til.";Holger K. Nielsen
+62707;Time;"Formanden:
+Spørgsmålet er sluttet. Tak til skatteministeren.
+Så er spørgetiden også afsluttet.";Kl. 13:57
+62813;Time;"Spm. nr. S 165
+6) Til beskæftigelsesministeren af:
+Hans Andersen (V)):
+Hvad er ministerens holdning til, at for et ægtepar med børn, hvor
+begge er fyldt 30 år, og hvor den ene ægtefælle går hjemme, skal
+den anden ægtefælle tjene omkring 35.000 kr. pr. måned, for at ægteparret har 1.000 kr. mere til rådighed pr. måned end et ægtepar
+uden andre indtægter end kontanthjælp?
+(Spørgsmålet er udgået).";Kl. 13:57
+63222;Time;"Spm. nr. S 166
+7) Til beskæftigelsesministeren af:
+Hans Andersen (V)):
+Hvad er ministerens holdning til, at ca. 330.000 danskere i dag ifølge
+Økonomi- og Indenrigsministeriets beregninger har et svagt økonomisk incitament til at arbejde?
+(Spørgsmålet er udgået).";Kl. 13:57
+63497;Time;;Kl. 13:55
+63520;name_party;":
+Jeg vil først kvittere for, at ministeren nu her til sidst indrømmer, at
+2 år er urimeligt. Det er jeg glad for. Dernæst må jeg sige, at det jo
+er rigtigt nok, at der bliver arbejdet hårdt i Skatteministeriet – det betvivler jeg overhovedet ikke – men det ville være rart, hvis ministeren også personligt arbejdede hårdt i den her sag i stedet for bare at
+overlade det til embedsmændene. Det kan jeg forstå at vi ikke bliver
+enige om.
+Jeg synes, at det – og det skal være min sidste kommentar – er
+ærgerligt, at skatteministeren ikke selv ønsker at gå ind og gøre noget i den her sag, for det, der skal til, for at den her sag flytter sig, er,";Karsten Lauritzen
+64176;Time;"Meddelelser fra formanden
+Formanden:
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, torsdag den 24. oktober
+2013, kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+
+12
+
+Mødet er hævet. (Kl. 13:58).
+
+Onsdag den 23. oktober 2013 (FM )";Kl. 13:57

@@ -1,0 +1,135 @@
+split;reason;text;value
+0;;"Onsdag den 14. juni 2017 (D)
+
+1";
+42;Time;"110. møde
+
+Afstemning";Kl. 14:46
+101;Time;"Dagsorden
+1) Eventuelt: 3. behandling af lovforslag nr. L 215:
+Forslag til lov om ændring af straffeloven. (Skærpelse af straffen for
+utryghedsskabende tiggeri).
+Af justitsministeren (Søren Pape Poulsen).
+(Fremsættelse 02.06.2017. 1. behandling 02.06.2017. Betænkning
+13.06.2017. 2. behandling 14.06.2017. Ændringsforslag nr. 1 og 2 af
+14.06.2017 til 3. behandling af Martin Henriksen (DF) og ændringsforslag nr. 3 af 14.06.2017 til 3. behandling af justitsministeren (Søren Pape Poulsen)).";kl. 14.45
+620;title_name;":
+Afstemning herom skal som bekendt foregå, ved at medlemmerne
+rejser sig op efter min anmodning.
+Jeg vil gerne bede Benny Engelbrecht og Erling Bonnesen om at
+forestå optællingen.
+Der stemmes først om samtykke til tredje behandling.
+De medlemmer, der stemmer for samtykke, bedes rejse sig.
+De medlemmer, der stemmer imod samtykke, bedes rejse sig.
+De medlemmer, der hverken stemmer for eller imod samtykke,
+bedes rejse sig.
+Tak for det.
+For stemte 78 (S, DF, V, LA og KF), imod stemte 23 (EL, ALT, RV
+og SF), hverken for eller imod stemte 0.";Pia Kjærsgaard
+1173;Time;"Samtykke er givet.
+Meddelelser fra formanden
+
+(Afstemningen foretaget på den i forretningsordenens § 35, stk. 3,
+angivne måde).";Kl. 14:45
+1330;title_name;":
+Mødet er åbnet.
+I dag er der følgende anmeldelse:
+Pelle Dragsted (EL), Josephine Fock (ALT) og Lisbeth Bech Poulsen (SF) m.fl.:
+Beslutningsforslag nr. B 158 (Forslag til folketingsbeslutning om
+opfordring til at trække aktstykke 116 af 14. juni 2017 om statens
+bloktilskud til kommunerne og regionerne m.v. tilbage fra Finansudvalget).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+
+Det eneste punkt på dagsordenen er:
+1) 3. behandling af lovforslag nr. L 215:
+Forslag til lov om ændring af straffeloven. (Skærpelse af straffen
+for utryghedsskabende tiggeri).
+Af justitsministeren (Søren Pape Poulsen).
+(Fremsættelse 02.06.2017. 1. behandling 02.06.2017. Betænkning
+13.06.2017. 2. behandling 14.06.2017. Ændringsforslag nr. 1 og 2 af
+14.06.2017 til 3. behandling af Martin Henriksen (DF) og ændringsforslag nr. 3 af 14.06.2017 til 3. behandling af justitsministeren (Søren Pape Poulsen)).";Pia Kjærsgaard
+2266;Time;;Kl. 14:46
+2277;Time;"Samtykke til behandling
+
+Forhandling";Kl. 14:47
+2343;title_name;":
+Det punkt, som er opført som nr. 1 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde.";Pia Kjærsgaard
+2476;title_name;":
+Forhandlingen drejer sig i første omgang om de stillede ændringsforslag.
+Ændringsforslagene kan kun med Tingets samtykke behandles i
+dette møde. Hvis ingen gør indsigelse, betragter jeg samtykket som
+givet.
+Det er givet.
+
+2
+
+Onsdag den 14. juni 2017 (FM )
+
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen om ændringsforslagene
+sluttet, og vi går til afstemning.";Pia Kjærsgaard
+2885;Time;"Tak, afstemningen er slut.
+Uden snyd stemte 78 for (S, DF, V, LA og KF), og uden snyd stemte
+23 (EL, ALT, RV og SF) imod, hverken for eller imod stemte 0.
+Lovforslaget er vedtaget og vil nu blive sendt til statsministeren.
+
+Afstemning";Kl. 14:48
+3148;title_name;":
+Der stemmes først om ændringsforslag nr. 1 af Martin Henriksen
+(DF).
+De medlemmer, der stemmer for, bedes rejse sig. Tak for det.
+Og de medlemmer, der stemmer imod, bedes rejse sig. Tak for
+det.
+De medlemmer, der hverken stemmer for eller imod, bedes rejse
+sig. Tak.
+For stemte 78 (S, DF, V, LA og KF), imod stemte 23 (EL, ALT, RV
+og SF), hverken for eller imod stemte 0.
+Ændringsforslaget er vedtaget.
+Der stemmes om ændringsforslag nr. 2 af Martin Henriksen (DF).
+De medlemmer, der stemmer for, bedes rejse sig. Tak.
+De medlemmer, der stemmer imod, bedes rejse sig. Tak.
+De medlemmer, der hverken stemmer for eller imod, bedes rejse
+sig.
+For stemte 22 (DF), imod stemte 79 (S, V, EL, LA, ALT, RV, SF og
+KF), hverken for eller imod stemte 0.
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 3 af justitsministeren.
+De medlemmer, der stemmer for, bedes rejse sig.
+De medlemmer, der stemmer imod, bedes rejse sig. Tak.
+Og de medlemmer, der hverken stemmer for eller imod, bedes
+rejse sig. Tak.
+For stemte 52 (V, EL, LA, ALT, RV, SF og KF), imod stemte 49 (S
+og DF), hverken for eller imod stemte 0.
+Ændringsforslaget er vedtaget.
+(Afstemningerne foretaget på den i forretningsordenens § 35, stk. 3,
+angivne måde).";Pia Kjærsgaard
+4390;Time;Forhandling;Kl. 14:52
+4430;title_name;":
+Forhandlingen drejer sig derefter om lovforslaget som helhed.
+Er der nogen, der ønsker at udtale sig om lovforslaget?
+Da det ikke er tilfældet, går vi til afstemning.";Pia Kjærsgaard
+4608;Time;Afstemning;Kl. 14:52
+4647;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse.
+De medlemmer, der stemmer for, bedes rejse sig. Tak.
+De medlemmer, der stemmer imod, bedes rejse sig. Tak.
+De medlemmer, der stemmer hverken for eller imod, bedes rejse
+sig.
+
+(Afstemningen foretaget på den i forretningsordenens § 35, stk. 3,
+angivne måde).";Pia Kjærsgaard
+4966;Time;Meddelelser fra formanden;Kl. 14:54
+5020;title_name;":
+Så er der ikke mere at foretage i dette møde, og imens der endnu er
+ro i salen, vil jeg godt tilføje, at det næste planlagte møde afholdes
+torsdag den 7. september 2017, kl. 10.00.
+Skulle det blive nødvendigt at indkalde Folketinget til yderligere
+møder, vil meddelelse om tidspunkt og dagsorden blive tilstillet
+medlemmerne skriftligt.
+Det forhold, at der foreløbig ikke er flere møder i salen, er som bekendt ikke ensbetydende med, at arbejdet ligger stille. Der vil som
+sædvanlig jævnligt været møder i Folketingets stående udvalg, ligesom der vil være andre arrangementer, som medlemmerne er engageret i. Dette er sagt for at imødegå den opfattelse, at mødefrihed i
+salen er ensbetydende med en tidlig sommerferie.
+Så ønsker jeg alle medlemmer en god og aktiv sommer. Og samtidig vil jeg godt takke alle ansatte på Christiansborg for deres indsats i det forløbne folketingsår. Rigtig god sommer til alle.
+Mødet er hævet. (Kl. 14:55).";Pia Kjærsgaard

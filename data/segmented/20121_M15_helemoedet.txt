@@ -1,0 +1,2160 @@
+split;reason;text;value
+0;;"Tirsdag den 6. november 2012 (D)
+
+1
+
+Det første punkt på dagsordenen er:
+1) 3. behandling af lovforslag nr. L 46:
+Forslag til lov om akutjob og jobpræmie til arbejdsgivere.
+Af beskæftigelsesministeren (Mette Frederiksen).
+(Fremsættelse 30.10.2012. 1. behandling 02.11.2012. Betænkning
+05.11.2012. 2. behandling 06.11.2012).
+
+15. møde";
+372;Time;;kl. 15.20
+383;Time;"Dagsorden
+1) Eventuelt: 3. behandling af lovforslag nr. L 46:
+Forslag til lov om akutjob og jobpræmie til arbejdsgivere.
+Af beskæftigelsesministeren (Mette Frederiksen).
+(Fremsættelse 30.10.2012. 1. behandling 02.11.2012. Betænkning
+05.11.2012. 2. behandling 06.11.2012).
+2) 1. behandling af lovforslag nr. L 43:
+Forslag til lov om ændring af dagtilbudsloven. (Ophævelse af kommunal pligt til at udarbejde en plan for sprogvurdering m.v.).
+Af børne- og undervisningsministeren (Christine Antorini).
+(Fremsættelse 25.10.2012).
+3) 1. behandling af lovforslag nr. L 38:
+Forslag til lov om ændring af lov om ændring af lov om folkekirkens
+økonomi. (Ændring af revisionsklausul).
+Af ministeren for ligestilling og kirke (Manu Sareen).
+(Fremsættelse 24.10.2012).
+4) Forespørgsel nr. F 5:
+Forespørgsel til beskæftigelsesministeren om brug af løntilskud.
+Af Bent Bøgsted (DF) m.fl.
+(Anmeldelse 11.10.2012. Fremme 23.10.2012).";Kl. 15:20
+1313;Time;;Kl. 15:20
+1351;title_name;":
+Mødet er åbnet.";Marianne Jelved
+1378;Time;Forhandling;Kl. 15:20
+1428;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Det er ikke tilfældet. Så går vi til afstemning.";Marianne Jelved
+1553;Time;Afstemning;Kl. 15:21
+1602;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+For stemte 72 (S, DF, RV, SF og EL), imod stemte 10 (LA og KF),
+hverken for eller imod stemte 26 (V).
+Lovforslaget er vedtaget og vil nu blive sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+2) 1. behandling af lovforslag nr. L 43:
+Forslag til lov om ændring af dagtilbudsloven. (Ophævelse af
+kommunal pligt til at udarbejde en plan for sprogvurdering
+m.v.).
+Af børne- og undervisningsministeren (Christine Antorini).
+(Fremsættelse 25.10.2012).
+
+Samtykke til behandling";Marianne Jelved
+2217;title_name;":
+Den sag, som er opført som punkt 1 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde. Hvis ingen gør indsigelse,
+betragter jeg samtykket som givet.
+Det er givet.";Marianne Jelved
+2409;Time;Forhandling;Kl. 15:21
+2459;title_name;":
+Jeg skal bede de af medlemmerne, som ikke skal overvære forhandlingen, om at forholde sig helt roligt eller forlade salen.
+Forhandlingen er åbnet, og den første ordfører er fru Louise
+Schack Elholm, der er ordfører for Venstre.
+
+2
+
+Tirsdag den 6. november 2012 (L 43)";Marianne Jelved
+2740;Time;(Ordfører);Kl. 15:22
+2777;name_party;":
+Dette lovforslag går ud på, at kommunerne ikke længere skal udarbejde en plan for deres mål og rammer for arbejdet med sprogvurdering og sprogstimulering. I den ideelle verden ville kommunerne
+selv lave en plan for arbejdet med sprogvurdering og sprogstimulering, uanset om der var lovgivning på området. Men i den virkelige
+verden vil det medføre en markant nedprioritering af sproget hos
+daginstitutionsbørn, hvis kommunerne ikke er forpligtet til at sætte
+mål op og have en politik på området. Forslaget vil altså underminere kommunernes indsats, og det til trods for, at den sproglige udvikling hos børnehavebørn er uhyre vigtig.
+Det er nemlig meget vigtigt, at man er opmærksom på de sproglige problemer, inden børnene skal starte i skolen. Vi ved, at de børn,
+der vil være de største ofre for mindre fokus på den sproglige udvikling, er de udsatte børn. Det er børn, som ikke får tilstrækkelig med
+sproglig stimulering hjemmefra, der virkelig har brug for stimulering
+og sproglig støtte i børnehaven. Børn, hvis sprogvanskeligheder ikke
+bliver løftet før skoletiden, vil være bagefter, allerede før de er startet i skolen. Ydermere risikerer man, at børn med forældre, der ikke
+taler dansk, ikke kan tale dansk, når de starter i skolen.
+Ud over at det giver barnet åbenlyse vanskeligheder i skolen, vil
+det også give skolen store vanskeligheder med at inkludere alle børn
+i undervisningen. Derudover svækker det danskernes rettigheder.
+Hvis kommunen ikke har en klar og offentlig politik og mål, ved
+danskerne jo ikke, om kommunen lever op til sit ansvar. Dermed har
+dagtilbudsbørn ingen rettigheder i forhold til sprog.
+Endelig må det siges at være et ideologisk korstog. Besparelsen
+for samtlige 98 kommuner er 4 mio. kr., altså omkring 40.000 kr. pr.
+kommune, så det er altså ikke økonomien, der er det drivende i det
+her forslag.
+Dette forslag vil ikke bare forringe børns muligheder for at knække den negative sociale arv, det vil også forringe muligheden for at
+få gode sprogkundskaber, og det vil forringe skolernes uddannelsesniveau og underminere danskernes rettigheder. Det kan ikke være
+nogen stor overraskelse, at Venstre ikke støtter lovforslaget.";Louise Schack Elholm
+4955;Time;;Kl. 15:25
+4993;title_name;":
+Tak til ordføreren. Den næste ordfører er hr. Rasmus Horn Langhoff,
+som er ordfører for Socialdemokraterne.";Marianne Jelved
+5112;Time;(Ordfører);Kl. 15:25
+5149;name_party;":
+Fra socialdemokratisk side er vi glade for, at man i regeringen og
+kommunerne lægger op til at regelforenkle på daginstitutionsområdet. For os er det helt afgørende, at vi ikke har regler for reglernes
+skyld. Det skal være helt klart, at de planer, som skal udarbejdes i
+kommunerne, også kan betyde bedre kernevelfærd for os alle sammen.
+Med lovforslaget her ændrer vi ikke på kommunernes forpligtelse
+til at sprogvurdere og sprogstimulere vores børn i 3-års-alderen, men
+forslaget betyder, at vi kan frigøre ressourcer til netop kernevelfærden i kommunerne. Det betyder kort sagt bedre velfærd. Samtidig vil
+jeg gerne sige, at kommunerne stadig skal udarbejde en sammenhængende børnepolitik. Det vil altså sige, at børnene stadig står i
+centrum og på samme måde skal sprogvurderes og sprogstimuleres,
+som det er tilfældet i dag.
+Socialdemokraterne er optaget af, at vi har en moderne offentlig
+sektor med kommuner, som leverer god velfærd til os alle sammen,
+og hvor der er hænder nok. Vi støtter forslaget, fordi vi her kan lave
+
+en konkret afbureaukratisering, som er til gavn for både kommuner
+og borgere.";Rasmus Horn Langhoff
+6270;Time;;Kl. 15:26
+6308;title_name;":
+Den næste ordfører er fru Merete Dea Larsen for Dansk Folkeparti.";Marianne Jelved
+6385;Time;(Ordfører);Kl. 15:26
+6420;name_party;":
+Vi skal i dag behandle et forslag om en ændring af dagtilbudslovens
+§ 11, stk. 8 – nærmere betegnet skal vi ophæve dette. Denne ophævelse vil medføre, at den kommunale pligt til at udarbejde og offentliggøre en plan for kommunens mål og rammer for sprogvurdering
+og sprogstimulering bortfalder.
+Ved første øjekast meldte der sig derfor en bekymring for dette
+forslag. Vi ønsker i Dansk Folkeparti på ingen måde at forringe
+chancerne for at afklare børns eventuelle problemstillinger tidligst
+muligt. Det er netop i alderen 0 år til 5-7 år, man grundlægger et
+barns liv. Det er i den alder, man skal sikre, at barnet kommer godt
+fra start, og at det modtager den nødvendige støtte, såfremt der er behov for dette. Det gælder ikke kun sprogvurdering, men vedrører alle
+aspekter af barnets liv. Det er derfor altafgørende, at man sikrer, at
+kommunerne har forpligtelser, de skal leve op til, og sikrer, at de enkelte institutioner udeomkring overholder forpligtelserne og mere til.
+Som verden ser ud i dag, er der et faldende børnetal. Det giver
+p.t. en konkurrence blandt institutionerne og giver forældrene en
+ekstraordinær mulighed for at stille krav til institutionerne ikke kun
+til sprogvurdering, men også til trivsel, udvikling, motorisk udvikling m.m., som er mindst lige så vigtigt for at bygge et solidt grundlag for en lovende fremtid.
+Kommunerne er forpligtet til at vejlede og oplyse forældrene i
+spørgsmål om den enkelte kommunes måde at håndtere f.eks. sprogvanskeligheder på, hvorfor man som forældre har en god mulighed
+for at kende sine rettigheder. Vi må derfor have tillid til, at kommunerne lever op til deres forpligtelser på alle områder, da det er i kommunerne, man har en direkte kontakt og mulighed for at give et barn
+den bedste start på livet. De lokalpolitikere, der er valgt ind, har en
+stor opgave i løbende at sikre sig, at kommunerne lever op til forpligtelserne.
+At de frigjorte midler, som der står i nogle af papirerne, forbliver
+i kommunerne, er selvfølgelig positivt, men det er næppe noget, nogen vil bemærke, da beskrivelserne jo en gang er udarbejdet i de fleste kommuner og nu blot ajourføres ved behov.
+Vi er fortrøstningsfulde ved ministeriets specificering af, at lovforslaget ikke ændrer på kommunalbestyrelsens forpligtelser i henhold til dagtilbudslovens § 11 om sprogvurdering og sprogstimulation af børn i alderen omkring 3 år. Vi mener, det er vigtigt fortsat at
+have fokus på dagligdagen for at opfange de børn, der måtte have
+behov for en egentlig udredning.
+Dansk Folkeparti ser p.t. frem til den videre behandling af lovforslaget.";Merete Dea Larsen
+9014;Time;;Kl. 15:29
+9052;title_name;":
+Tak til ordføreren. Og den næste ordfører er fru Lotte Rod, der er
+ordfører for Radikale Venstre.";Marianne Jelved
+9161;Time;(Ordfører);Kl. 15:29
+9188;name_party;":
+I Radikale Venstre er vi meget optaget af, at alle børn skal have en
+god start på livet. Jeg er rigtig glad for, at vi er begyndt at få så stort
+fokus på vores daginstitutioner, for børn fødes jo ikke som 6-årige.
+Vi har et kæmpestort potentiale. Og når vi nu alle sammen brænder
+
+Tirsdag den 6. november 2012 (L 43)
+
+så meget for, at 95 pct. af vores unge skal gennemføre en ungdomsuddannelse, skal vi ikke bare kigge på vores ungdomsuddannelser,
+på vores grundskoler, men også kigge på, hvordan vi kan være med
+til at pirre nysgerrigheden hos vores børn helt nede i vores børneinstitutioner.
+For det handler jo om, at børn elsker at lære ting. Så vi har et
+stort potentiale og kan være med til at styrke børns udvikling og læring. Og en del af det handler jo også om børnenes sprog. Der er det
+ret vigtigt, at det jo ikke bare bliver en diskussion om, hvordan man
+kan hive skolen ned i institutionerne, tværtimod handler det om den
+pædagogiske praksis og om, hvordan vi kan være med til at styrke
+sproget i de almindelige hverdagssituationer, når man sidder og
+snakker hen over maden, når man sidder ude på bænken på badeværelset og tager strømper på, eller når man lige har læst en bog.
+I Det Radikale Venstre er vi også meget optaget af at afbureaukratisere. Det er meget vigtigt, vi ikke kommer til at trække regler og
+papirskemaer ned over hovedet på folk, hvor det ikke er nødvendigt.
+Det her lovforslag finder en meget fin balance, fordi vi på den ene
+side fjerner nogle regler, som vi har vedtaget her i Folketinget, men
+på den anden side samtidig jo ikke ændrer på den enormt vigtige opgave, det er at stimulere børns sprog.
+Så fra Radikale Venstres side støtter vi det her lovforslag, og så
+glæder jeg mig i det hele taget rigtig meget til med det udviklingsprogram, vi sætter i gang, at være med til at diskutere, hvordan vi
+kan styrke børns udvikling og læring, og hvordan vi ved at styrke
+den pædagogiske praksis kan få vores børn til at blive endnu dygtigere til sprog.";Lotte Rod
+11185;Time;;Kl. 15:31
+11223;title_name;":
+Der er en kort bemærkning fra fru Louise Schack Elholm fra Venstre.";Marianne Jelved
+11302;Time;;Kl. 15:31
+11328;name_party;":
+Tak. Nu er det jo sådan, at både De Radikale og Venstre er liberale
+partier. Jeg mener jo, at man skal bygge sin politik på at give rettigheder til borgerne – det frie valg, muligheden for at orientere sig og
+sådan nogle ting – og derfor forstår jeg ikke, hvordan De Radikale
+kan gå ind for at afskaffe nogle rettigheder for borgerne som bl.a.
+retten til at kende til, hvad der er af politikker. Hvordan vil man sikre, at der er en ordentlig sprogscreening, og at den bruges til noget,
+hvis ikke man har en politik for, hvordan det skal gøres, hvis det ikke går ordentligt?
+Altså, hvordan vil man sikre, at vi rent faktisk får en sprogpolitik,
+og hvordan vil man sikre, at borgerne kender til deres rettigheder,
+når man fjerner et incitament? Man siger, det er afbureaukratisering.
+Det koster 4 mio. kr., og 4 mio. kr. for 98 kommuner er småpenge;
+for dem får man ikke ret meget afbureaukratisering. Det her er jo ingenting.";Louise Schack Elholm
+12264;Time;;Kl. 15:32
+12302;title_name;":
+Værsgo til ordføreren.
+
+3";Marianne Jelved
+12340;Time;;Kl. 15:32
+12378;title_name;":
+Der er endnu en kort bemærkning fra fru Louise Schack Elholm.";Marianne Jelved
+12451;Time;;Kl. 15:32
+12477;name_party;":
+Nu er det ikke Venstre, der har indgået en aftale med kommunerne.
+Det har regeringen. Jeg undrer mig bare over, hvorfor man så villigt
+afskaffer nogle rettigheder for borgerne – for 4 mio. kr. Det er jo
+småpenge.
+Det her sikrer, at der er et mål med at lave sprogscreening, at
+man fra kommunens side har fokus på det, og at borgerne ved, hvad
+deres rettigheder er. Jeg er helt enig i de positive ord om, at vi skal
+sikre nogle gode daginstitutioner, men jeg synes faktisk, at man med
+det her gør det stik modsatte. Derfor undrer det mig, at De Radikale
+kan gå ind for det her.";Louise Schack Elholm
+13065;Time;;Kl. 15:33
+13103;title_name;":
+Ordføreren.";Marianne Jelved
+13126;Time;;Kl. 15:33
+13142;name_party;":
+Ja, jeg ved nu ikke, om det burde undre Venstres ordfører så meget.
+Hvis Venstres ordfører kendte lidt til Det Radikale Venstres politik,
+ville Venstres ordfører jo vide, at Det Radikale Venstre er enormt
+optaget af, at vi jo bruger pengene på mennesker og ikke på papirarbejde.
+Det, det her forslag handler om, er jo, at vi siger: Der er ikke nogen grund til, at vi her i Folketinget laver en regel på det område.
+Hvis den enkelte kommune stadig væk gerne vil have sådan en strategi, står det kommunen frit for at lave det, men det giver ikke nogen
+mening i tider, hvor vi skal spare på pengene, at vi så har lavet en
+regel om, at man skal lave den her strategi i alle kommuner.
+Så jeg synes faktisk, det er en meget god prioritering, at vi siger,
+at pengene er bedre givet ud til hænder, til mennesker, ude i kommunerne, frem for til nogen, der sidder og laver et stykke papir.";Lotte Rod
+14033;Time;;Kl. 15:33
+14071;title_name;":
+Så er der en kort bemærkning fra fru Rosa Lund fra Enhedslisten.";Marianne Jelved
+14147;Time;;Kl. 15:34
+14163;name_party;":
+Tak. Jeg synes, det var en interessant debat, der blev rejst her, om
+rettigheder, og jeg vil egentlig gerne høre fru Lotte Rods kommentar
+til personalets rettigheder. Pædagoger, som arbejder i daginstitutionerne, er jo sådan set uddannet til at vurdere børns sprog og vurdere,
+hvornår indsatsen skal styrkes for det enkelte barn. Opfatter ordføreren egentlig ikke det her som lidt mere frihed til de pædagoger, som
+rent faktisk er uddannet til at forstå og udvikle børns sprog? Altså,
+det er vel en styrkelse af pædagogernes rettigheder.";Rosa Lund
+14712;Time;;Kl. 15:34
+14723;Time;;Kl. 15:32
+14739;name_party;":
+Hvis det er ingenting, er det jo Venstres opgave at vise, hvor pengene i så fald skulle findes, hvis ikke man vil gennemføre det her. For
+det her er noget af det, der er aftalt med kommunerne, og det vil sige, at der er budgetteret med, at vi her finder de 4 mio. kr., og hvis
+Venstre ikke vil være med til det, må man jo anvise en anden finansiering.";Lotte Rod
+15130;title_name;":
+Ordføreren.";Marianne Jelved
+15153;Time;;Kl. 15:34
+15169;name_party;":
+Jeg er altid meget glad for de diskussioner, jeg har med Enhedslisten
+om den pædagogiske praksis. Det synes jeg altid giver noget rigtig
+godt til debatten.
+Derudover vil jeg sige, at jeg er ret enig i Enhedslistens udlægning af, at det her jo også er en styrkelse af den pædagogiske praksis. Og i forbindelse med det vil jeg også sige til Venstres ordfører,
+
+4
+
+Tirsdag den 6. november 2012 (L 43)
+
+at rettighederne ikke bliver mindre for det enkelte barn eller den enkelte forælder, fordi man jo stadig væk har krav på eller ret, eller
+hvad vi skal kalde det, til, at de børn, som har problemer med deres
+sprog, skal have den indsats, der skal til. Det ændrer det her lovforslag jo overhovedet ikke på.";Lotte Rod
+15885;Time;;Kl. 15:35
+15923;title_name;":
+Der er endnu en kort bemærkning fra fru Rosa Lund.";Marianne Jelved
+15985;Time;;Kl. 15:35
+16001;name_party;":
+Tak. Og tak for svaret, for så vil jeg gerne gå lidt videre i forhold til
+det her med pædagogernes rettigheder. Nu var Venstres ordfører inde på De Radikales politik, og sådan som jeg har forstået en ret stor
+del af De Radikales politik, er det sådan, at man stoler på fagfolk, at
+man har tillid til hverdagens eksperter – det er bestemt fornuftige
+ting. Så jeg vil gerne spørge fru Lotte Rod, hvad Det Radikale Venstre har tænkt sig at gøre for at give pædagogerne mere frihed og for
+at sikre, at sprogvurderingen rent faktisk bliver op til de enkelte pædagoger og ikke bliver noget, som man fastsætter i kommunalbestyrelsen eller herinde i Folketinget, i forhold til hvad det lige præcis er
+for nogle ord, børnene skal kunne for at være dygtige til sproget. Jeg
+vil gerne høre, hvilke skridt Det Radikale Venstre ellers har tænkt
+sig at tage for at styrke og give plads til pædagogernes faglighed.";Rosa Lund
+16912;Time;;Kl. 15:36
+16950;title_name;":
+Ordføreren.";Marianne Jelved
+16973;Time;;Kl. 15:36
+16989;name_party;":
+Det her er noget af det, som jeg ser som en stor styrke i det udviklingsprogram, vi skal i gang med for daginstitutionerne, for jeg tror
+rigtig meget på, at noget af det, som vi kan være med til som politikere, er at sige, at de indsatser, vi sætter i gang, og de ressourcer, vi
+bruger, skulle vi jo gerne have ud at arbejde ude på institutionerne
+og få videnspredning. Jeg tror sådan set, at de gode løsninger er opfundet. Det er jo ikke os herinde i Folketinget, der har den bedste
+løsning på, hvordan man arbejder med sprog for børn; det har pædagogerne sådan set udviklet. Kunsten for os er jo at få det systematiseret og få videndeling, sådan at det ikke bare sker inde på gul stue,
+men sådan at det sker inde på alle stuer.
+Så derfor synes jeg, at noget af det, vi kan fortsætte med at diskutere, når vi skal i gang med det her udviklingsprogram, er: Hvordan
+kan vi styrke den pædagogiske praksis? For det handler jo lige netop
+ikke om at få skolen ned i institutionerne, men om at få pædagogerne til at være endnu mere opmærksomme på deres pædagogiske
+praksis – hvordan de taler med børnene, hvordan de læser med børnene, hvad der sker i situationen hen over måltidet, når børnene tager tøj på, når de er ude på legepladsen. For det er jo der, sproget for
+alvor udvikler sig.";Lotte Rod
+18283;Time;;Kl. 15:37
+18321;title_name;":
+Tak til ordføreren. Den næste ordfører er hr. Karl H. Bornhøft som
+ordfører for SF.";Marianne Jelved
+18416;Time;"(Ordfører)
+Karl H. Bornhøft (SF):
+Tak. Som en del af moderniseringsaftalen mellem KL og regeringen
+behandler vi så i dag lovforslag om ændring af dagtilbudsloven.
+Med det her forslag ønsker regeringen at frigøre kommunerne fra
+en unødig bureaukratisk arbejdsgang, men det er også vigtigt at un-
+
+derstrege, at det jo skal ses i en større sammenhæng; det her er ét
+element af mange i hele det arbejde, der består i at være med til at
+afbureaukratisere Danmark.
+Hidtil har kommunerne været forpligtet til at udarbejde og offentliggøre en plan for sprogvurderingen af børn. Arbejdet med at opstille mål og rammer har ikke bidraget til en mere præcis sprogvurdering af børnene, men blot efter vores opfattelse krævet tid og ressourcer fra kommunens kerneopgaver.
+Den nuværende lovgivning på området her er i for høj grad fokuseret på at kontrollere kommunernes arbejde. Med det her forslag
+sender vi altså også et signal om, at det ikke er den vigtigste opgave.
+Samtidig er regeringen optaget af at give kommunerne de bedst
+mulige rammer for at levere borgernær service. Med ændringen af
+dagtilbudsloven får kommunerne efter vores opfattelse en bedre mulighed for at løse deres kerneopgaver.
+Af de indkomne høringssvar fremgår det jo, at der er en udbredt
+opbakning til forslaget. Der er dog enkelte bemærkninger, som vi i
+SF er meget opmærksomme på. I Børnerådet frygter man, at sprogindsatsen i kommunerne vil blive mindre målrettet og veltilrettelagt.
+Bekymringer kan man altid have, og det er også rimeligt at have
+dem indimellem. I den her sammenhæng glæder vi os over, at ministeren i sin offentlige diskussion om emnet har påpeget, at de indholdsmæssige krav til kommunerne på området er de samme. Det er
+det, der er det væsentlige for børnene, og det er det, der kommer til
+at betyde noget for børnene.
+I henhold til dagtilbudslovens § 11 og 12 er kommunerne stadig
+væk forpligtet til at løse denne væsentlige opgave. Der er ingen
+grund til at skjule, at vi faktisk mener, at det er en vigtig opgave.
+Er der kommuner, som så stadig væk ønsker at lave sådan en
+plan, jamen så kan de jo rent faktisk gøre det. Og egentlig er jeg lidt
+overrasket over, at Venstres repræsentant ikke er vildt begejstret for
+denne frivillige mulighed, men det er jo i hvert fald så vigtigt, at de,
+der har brug for den, også benytter sig af den.
+Forslaget vil altså være med til at lette kommunernes arbejdsbyrde, og de midler, der bliver frigjort både i den her sammenhæng og i
+andre sammenhænge, hvor det drejer sig om afbureaukratisering,
+kan jo altså bruges til mere borgernær service.
+Vi er i SF meget tilfredse med, at det bliver en mulighed for
+kommunerne, så på den her baggrund stemmer vi med stor glæde for
+forslaget.";Kl. 15:37
+21137;Time;;Kl. 15:41
+21175;title_name;":
+Der er en kort bemærkning fra fru Louise Schack Elholm, Venstre.";Marianne Jelved
+21251;Time;;Kl. 15:41
+21277;name_party;":
+Ordføreren undrede sig over, hvorfor Venstre ikke var for det med
+den frihed, som det gav for, var det kommunerne, eller var det institutionerne? Men der er det jo altid et spørgsmål om, hvad det er,
+man giver frihed til. For skal man f.eks. kunne give kommunerne frihed til ikke at yde borgerne en service? Det synes jeg ikke. Jeg synes, at man skal have fokus på at sikre borgerne og ikke systemet
+rettigheder – og det er jo derfor, jeg er liberal. Jeg forventer ikke, at
+man i Socialistisk Folkeparti er enig med mig her, for i Socialistisk
+Folkeparti er man socialister, og der man har en anden holdning til
+det. Men jeg mener som liberalist, at det er borgerne, man skal give
+nogle rettigheder, og ikke systemet, og derfor er jeg imod, at der her
+tages en rettighed fra borgerne, som så bliver givet til systemet. Det
+er et liberalt synspunkt, jeg har, og det var derfor, jeg også syntes,
+det var nærliggende at spørge De Radikale om det.
+Så siger ordføreren, at man med det her forslag i kommunerne får
+flere penge til velfærd – nu har regeringen jo i forbindelse med akutjobplanen lige taget en masse penge fra kommunerne, så der er nok
+
+Tirsdag den 6. november 2012 (L 43)
+
+ikke tale om, at det bliver noget tilsvarende – og der er det altså ca.
+40.000 kr. pr. kommune.
+Kan ordføreren oplyse mig om, hvad det er for en velfærd, som
+ordføreren ønsker at kommunerne skal investere i med disse 40.000
+kr.?";Louise Schack Elholm
+22700;Time;;Kl. 15:42
+22738;title_name;":
+Ordføreren.";Marianne Jelved
+22761;Time;"Karl H. Bornhøft (SF):
+Jeg vil da egentlig starte med at understrege, at jeg i denne sammenhæng ikke brugte ordet velfærd, men at jeg brugte udtrykket borgernær service. Der er jeg også nødt til at understrege – for det er jo noget, jeg har lært i den tid, jeg har været repræsentant en kommune –
+at det, hver gang der er en udgift, altså også er noget, der betyder, at
+det er nogle penge, der så ikke kan bruges på noget andet. Det troede
+jeg der var en fælles forståelse af, men det kan jeg så konstatere at
+der ikke nødvendigvis altid er. Men det er bare sådan, vi anskuer det.
+Det her er for mig at se ikke et spørgsmål, der handler om, hvorvidt
+SF er et socialistisk parti eller ej – for det er vi, og vi er oven i købet
+stolte af det – det er heller ikke et spørgsmål, der handler om, hvorvidt Venstre er et liberalt parti eller ej – og der håber jeg bestemt også at man i Venstre er stolte over at være det – men det her er et
+spørgsmål, der handler om, at der er et stykke arbejde, som vi skal
+have gjort.
+Men er det noget, der bliver gjort bedre, ved at det er båndlagt
+med hensyn til, at der skal laves nogle planer? Eller kan det blive
+gjort lige så godt, ved at man interesserer sig for børnene? Der må
+jeg sige: Vi tror faktisk på det sidste.";Kl. 15:42
+24028;Time;;Kl. 15:43
+24066;title_name;":
+Der er endnu en kort bemærkning fra fru Louise Schack Elholm.";Marianne Jelved
+24139;Time;;Kl. 15:43
+24165;name_party;":
+Jeg er ganske forundret over det, som ordføreren siger om, at det bare er noget, som man siger. Det er, som om det bare er en floskel,
+som man lirer af om, at det koster velfærd. Jeg håber da søreme, at
+det er noget, som man vurderer i hver enkelt sag, og at man ser på,
+hvad det har af konkret betydning. Jeg mener faktisk, at de 40.000
+kr., som en kommune skal bruge på at sikre en politik og sikre nogle
+mål på området for sprogscreening, er nogle penge, der er godt givet
+ud, altså til nogle børn, som så får bedre sprogkundskaber, og som
+efterfølgende vil kunne klare sig bedre i skolen. Det her er noget,
+som vil kunne hjælpe de udsatte børn. Det er jo nogle børn, som jeg
+ellers ville have troet at man i Socialistisk Folkeparti havde ønsket at
+hjælpe. Men det bliver jo dem, som kommer til at lide under det her.";Louise Schack Elholm
+24997;Time;;Kl. 15:44
+25035;title_name;":
+Ordføreren.";Marianne Jelved
+25058;Time;"Karl H. Bornhøft (SF):
+Jeg står egentlig tilbage med en fornemmelse af, at fru Louise
+Schack Elholm allerede havde skrevet det andet spørgsmål ned, inden mit første svar var blevet omsat. For jeg brugte faktisk ikke nogen udtryk om velfærd, jeg brugte et udtryk i forbindelse med noget,
+der i den her sammenhæng betyder noget for mig, og det var »borgernær service«. Det her er altså noget, der betyder, at uanset om der
+er tale om, at det er en lille eller det er en stor udgift – det er alt sammen afhængigt af, hvordan man anskuer det – så kan de penge, der
+
+5
+
+nu ikke skal bruges på det her, rent faktisk blive brugt til noget andet.
+At der oven i købet er tale om, at det skal ses som et led i, at der
+på nogle andre områder også er nogle tiltag, hvor man vil gøre det
+mindre bureaukratisk for kommunerne, er jo altså også noget, der
+betyder, at der, når det kommer dertil, hvordan det er i den store
+sammenhæng, så bliver frigjort nogle midler. Det var lige præcis
+derfor, det var vigtigt for KL og for regeringen at få det skrevet ind,
+og det er også derfor, det i den her sammenhæng er vigtigt, at man
+får stoppet et forbrug af penge, som ikke er nogle penge, som hjælper børnene, men at man til gengæld fastholder, at det her er en opgave, der skal løses.
+Så er der noget, jeg gerne vil minde om – for så sød er jeg – at
+jeg jo faktisk sad i Folketinget i sidste periode. Der er jeg så nødt til
+perifert lige at nævne, at det var en anden regering, der sad, end den,
+der sidder der nu, og jeg kan faktisk nævne adskillige punkter i forhold til, at der var opgaver, som denne regering sendte ud, og hvor
+den ikke sendte pengene med ud til det. Da kunne det åbenbart lade
+sig gøre. Men det kan det så ikke nu, kan jeg forstå.";Kl. 15:44
+26803;Time;;Kl. 15:45
+26841;title_name;":
+Tak til ordføreren. Den næste ordfører er fru Rosa Lund, der er ordfører for Enhedslisten.";Marianne Jelved
+26943;Time;(Ordfører);Kl. 15:46
+26970;name_party;":
+Tak. Jeg er glad for, at der kommer en lille smule debat i dag om det
+her lovforslag, fordi jeg synes, at det er rigtig dejligt, som ordføreren
+fra De Radikale også var inde på, at vi er begyndt at diskutere 0-6års-området, og at vi er begyndt at diskutere vigtigheden af børns
+udvikling, inden de starter i skole, fordi den har en enormt stor betydning, så det vil jeg da først kvittere for.
+Dernæst vil jeg kvittere for lovforslaget. Jeg synes, at det et rigtig
+godt lovforslag, som vi i Enhedslisten kan bakke fuldt op om. Vi har
+været meget godt inde på, synes jeg, hvad lovforslaget egentlig
+handler om, men jeg vil gerne bare lige konkretisere. Det her er jo
+altså ikke et lovforslag, som handler om det faktiske arbejde, der
+foregår ude i daginstitutionerne, det faktiske arbejde, som personalet, som talepædagogerne og pædagogerne laver. Det er et lovforslag, som handler om, at kommunerne ikke længere er forpligtet til
+at udarbejde en plan for sprogvurderingen, og det vil jo forhåbentlig
+betyde, at ressourcerne nu vil blive fjernet fra papirarbejdet, og at
+der vil komme flere ressourcer ud i daginstitutionerne, så pædagogerne kan beskæftige sig med det, de nu engang er uddannet til.
+Jeg håber, at konsekvensen af det her forslag ikke bare vil være,
+at kommunerne ikke længere har pligt til at udarbejde de her planer
+for sprogvurdering, men at konsekvensen også vil være, at det her er
+en start på, at vi begynder at anerkende pædagogernes faglighed, at
+vi begynder at anerkende, at pædagoger og dagtilbud har meget fokus på sproget i forvejen.
+Nu har jeg selv arbejdet i en sprogstimulering, jeg har selv arbejdet i en vuggestue og i en børnehave, og jeg kan da fortælle, at det er
+noget af det, man bruger rigtig meget tid på. Der har man altså ikke
+behov for en plan fra kommunen, der skal fortælle en, hvad man skal
+gøre, for det gør man automatisk, når man arbejder med børn i 0-6års-alderen. Så jeg håber, at det her er en start på en anerkendelse af
+den faglighed, der er til stede i vores dagtilbud i dag.
+Som tidligere ansat i en sprogstimulering vil jeg da sige, at jeg
+som tilføjelse til det her lovforslag godt kunne have ønsket mig, at vi
+herinde tog skridtet fuldt ud og helt fjernede kravet om sprogvurdering i dagtilbud. Det har altså ikke noget at gøre med, at jeg ikke ønsker, at vi skal hjælpe børn med sproglige vanskeligheder – tværtimod.
+
+6
+
+Tirsdag den 6. november 2012 (L 43)
+
+Sprogvurderingen er en standardiseret og bureaukratisk test, som
+ikke tager højde for den faglighed, pædagogerne har. En pædagog
+kan sagtens vurdere, hvornår et barn har brug for en styrket indsats,
+og hvornår et barn har brug for hjælp og har et ekstra behov med
+hensyn til sproget. Det kan en pædagog godt vurdere, for det er en
+pædagog uddannet i, og en pædagog er sådan set sammen med børnene hele tiden. Der har man altså ikke brug for en eller anden test
+eller en eller anden standardiseret vurdering til at gøre det.
+Så jeg håber, at vi kan arbejde videre med, hvordan vi ligesom
+kan få sprogvurderingerne tilbage ud i daginstitutionerne og til at
+blive en del af pædagogernes faglighed, i stedet for at det er sådan
+nogle standardiserede test, som det er i dag, hvor man viser børnene
+et billede af en is, og så skal de sige, at det er en vaffelis, og hvis de
+siger, at det er en is, betyder det, at de ikke kan tale dansk, og så får
+de minus i sprogvurdering. Det mener jeg da enhver må kunne se er
+en lille smule hat og briller, tror jeg at jeg vil kalde det.
+Så jeg vil sige, at det, vi har brug for, ikke er flere planer, og det
+er ikke flere test og sprogvurderinger. Det, vi har brug for, er en indsats i forbindelse med selve sprogstimuleringen. Sprogstimuleringen
+bliver jo ikke styrket af, at vi vurderer et barn. Sprogstimuleringen
+bliver styrket af, at ressourcerne bliver flyttet fra kommunernes skriveborde ud i daginstitutionerne, ud på stuerne, hvor pædagogerne
+kan arbejde med dem og bruge den faglighed, som vi nu engang har
+givet dem. Det synes jeg er det mest afgørende, og jeg ser det her
+som starten på at give pædagogerne frihed til at bruge deres faglighed. Tak.";Rosa Lund
+31092;Time;;Kl. 15:50
+31130;title_name;":
+Tak til ordføreren. Den næste ordfører er fru Merete Riisager, som er
+ordfører for Liberal Alliance.";Marianne Jelved
+31242;Time;(Ordfører);Kl. 15:50
+31275;name_party;":
+Liberal Alliance er positivt indstillet over for L 43. Vi er i Liberal
+Alliance helt klar over, at planer nedskrevet på papir ikke er nogen
+garanti for handling. Vi har i Danmark opbygget et system, i hvilket
+der er lag på lag på lag i den offentlige administration. Det er dyrt,
+og det giver ikke en bedre service til borgerne.
+Men at vi er positive over for L 43, betyder ikke, at vi ikke mener, at sprogstimulering i daginstitutionerne er vigtig. Jeg har selv
+haft et barn i vuggestue i Københavns Nordvestkvarter og er helt
+klar over, at der er særlige områder i Danmark, hvor udfordringen
+med sprogstimulering er særlig stor.
+Vi vil i udvalgsarbejdet lægge vægt på at få belyst, hvordan institutionerne i dag arbejder, og om de har de rette værktøjer til at løse
+opgaven, og også hvorvidt pædagogerne i deres nuværende uddannelse bliver tilstrækkelig kvalificeret til at varetage opgaven med at
+vurdere børns sprog og stimulere det, så børnene kan klare sig med
+deres kammerater og senere, når de kommer i grundskolen.";Merete Riisager
+32310;Time;;Kl. 15:51
+32348;title_name;":
+Tak til ordføreren. Der er ikke nogen korte bemærkninger. Den næste ordfører er fru Mai Henriksen, der er ordfører for Det Konservative Folkeparti.";Marianne Jelved
+32507;Time;"(Ordfører)
+Mai Henriksen (KF):
+For os Konservative er det vigtigste i dette lovforslag, at børn og unge fortsat sprogvurderes og sprogstimuleres i både dagtilbud og i
+indskolingen. Børn, der på baggrund af en sprogvurdering viser sig
+ikke at have et alderssvarende sprog, skal tilbydes en opfølgende
+
+sprogstimulering, for det kan have store konsekvenser på den lange
+bane, at man ikke opdager problemerne hos de børn, som har brug
+for en opfølgende sprogindsats. Risikoen er, at børnenes problemer
+først opdages langt senere, f.eks. ved skolestart, og dermed er de måske blevet endnu mere sprogligt distanceret fra deres kammerater.
+Forskning viser, at jo tidligere vi kan sætte ind over for børns sprogproblemer, jo mindre omfangsrig og samtidig mere effektiv vil indsatsen være. Derfor er Konservative meget glade for sprogvurderingerne i dagtilbuddene.
+Problemet er, at ikke alle børn, der har brug for at blive testet,
+rent faktisk bliver testet. En undersøgelse fra EVA i 2011, som fokuserer på etsprogede børn i dagtilbud, viser, at man overser tre ud af
+fem børn, som har brug for sproglig hjælp. Det vurderes, at ca. 15
+pct. af de sprogligt svageste børn i en årgang skal have sproghjælp
+fra enten en talepædagog, eller ved at pædagogerne har ekstra fokus
+på børnenes sprog i hverdagen. I dag opdager kommunerne kun 6,2
+pct. og ikke de 15 pct., der har behov for hjælp, og det er problematisk. Derfor bakker vi gerne op om initiativer, der kan sikre, at flere
+sprogligt svage børn opdages og dermed hurtigere kan hjælpes til et
+stærkt sprog.
+Vi kan konstatere, at et 3-årigt projekt blev sat i gang i 2010 af
+Danmarks Evalueringsinstitut. Projektet har fokus på kommuners arbejde med sprogvurderinger af 3-årige og de opfølgende sprogindsatser. Det ville selvfølgelig have været optimalt at have fået resultaterne fra projektet, før vi skulle tage stilling til dette lovforslag, men
+det lod sig i sagens natur ikke gøre. Det ville måske også have mindsket nogle af de kritiske røster, der er i høringssvarene.
+Særlig Socialpædagogerne og Børnerådet er skeptiske, fordi de er
+bange for, at det overordnede strategiske arbejde, der vedrører
+sprogvurderingerne i kommunerne, forsvinder, og at det bliver mere
+tilfældigt og omsonst, hvordan og af hvem der testes ude på institutionerne. Konservative er opmærksomme på bekymringerne, og vi
+vil følge det her med stor opmærksomhed. Men vi anerkender også
+behovet for at løsne kommunerne fra nogle af de faste rapporteringsforpligtelser, de har, og umiddelbart har vi stadig troen på en systematisk og kvalitetsbevidst indsats ude i institutionerne, og det er
+grunden til, at vi i dag siger ja til lovforslaget. Havde vi troet, at lovforslaget vil afstedkomme ringere sprogvurderinger og sprogstimulering, ville vores holdning have været anderledes.";Kl. 15:51
+35320;Time;;Kl. 15:54
+35358;title_name;":
+Tak til ordføreren. Så er det børne- og undervisningsministeren.";Marianne Jelved
+35434;Time;;Kl. 15:54
+35490;title_name;":
+Jeg vil godt takke for diskussionen her. Egentlig havde jeg troet, at
+det var sådan en lidt hurtig ting med bred accept, for det her er et
+meget fornuftigt og lille – det medgiver jeg – afbureaukratiseringsforslag. Men jeg kunne forstå, at Venstre mente, at det her simpelt
+hen var et bevidst anslag mod kommunernes arbejde i forhold til
+sprogvurdering og arbejdet med tosprogede børns sproglige udvikling. Jeg kunne forstå på Venstres ordfører, at det her ligefrem ville
+underminere kommunernes arbejde, som der blev sagt. Derfor tror
+jeg, det er nyttigt bare lige kort at sige, hvad det her lovforslag går
+ud på.
+Det går ud på, at kommunalbestyrelsens pligt til at udarbejde og
+offentliggøre en plan for kommunens mål og rammer for arbejdet
+med sprogvurdering og sprogstimulering ophæves. Og hvorfor ophæves det? Det ophæves, fordi der faktisk er kommet en ny regel.
+Der er nemlig kommet det, at regler om sprogvurdering og sprogstimulering til børn i dagtilbudsalderen er blevet samlet i en lov i 2010.
+Derfor giver det rigtig god mening, at vi lige en gang imellem prøver
+at kigge igennem, om der pludselig er dobbeltkrav til kommunerne.
+Det synes vi i regeringen at der ikke er nogen grund til, og derfor vil
+
+Tirsdag den 6. november 2012 (L 43)
+
+jeg også takke for de i øvrigt positive bemærkninger, der har været.
+Jeg vil også godt takke for både Dansk Folkepartis og Konservatives
+meget nuancerede ordførertaler. For selvfølgelig skal man hele tiden
+være sikker på, at hvis man laver en afbureaukratisering, hvor velment den end måtte være, så ændrer den ikke ved intentionen, nemlig at der er den omhyggelige opfølgning på børn, der har brug for
+sprogstimulering og har brug for en sprogvurdering. Det bliver der
+heller ikke slækket på med det her. Der er simpelt hen et krav om en
+dobbeltplan, og det synes vi i regeringen ikke giver mening, og derfor er vi også glade for den brede tilslutning, der har været til at afskaffe det. Men jeg vil gerne understrege en gang til, at der ikke bliver ændret ved, at 3-årige børn også fremover ligesom i dag vil skulle have en sprogvurdering og modtage sprogstimulering, hvis de har
+behov for en sprogunderstøttende indsats.
+Jeg tror også, det kunne være nyttigt at sige noget om nogle af de
+andre ting, som vi i regeringen har sat i værk, for vi mener faktisk, at
+det er utrolig vigtigt, at der arbejdes med børns sprog allerede i dagtilbuddet, herunder også tosprogede børn, for hvis de får rigtig godt
+fat i det danske sprog, så er de også meget bedre klædt på både i forhold til deres relationer med legekammerater, og hvad der sker i dagtilbuddet, og de vil også være parate, når de skal starte i skole. Og
+noget, vi derudover har fokus på, er det udviklingsprogram for fremtidens dagtilbud, som bl.a. den radikale ordfører nævnte, og hvor jeg
+i øvrigt var rigtig glad for, at så mange ordførere valgte at deltage i
+går, da der var et symposium om det udviklingsarbejde, regeringen
+vil sætte i gang omkring fremtidens dagtilbud. Der er et af indsatsområderne lige præcis, hvordan man også kan arbejde med børns
+sproglige udvikling, men netop igennem leg og læring, sådan at vi
+hele tiden har fokus på det systematiske pædagogiske arbejde med
+deres sprog.
+Vi har jo også i regeringen haft en tosprogstaskforce hen over
+nogle år, og den har været ude at rådgive både skoler og kommuner i
+forhold til, hvordan man arbejder med børn med tosproget baggrund
+på mange forskellige måder. Det er jo lige fra forældreinddragelse til
+selvfølgelig deres sproglige udvikling. Og tosprogstaskforcens virke
+er nu blevet udvidet, så det også omfatter dagtilbud, fordi vi netop
+ser på det sammenhængende børneliv.
+Så alt i alt er det her et lille fornuftigt afbureaukratiseringsforslag. Det svækker på ingen måde den indsats, der skal laves ude i
+dagtilbud for tosprogede børn i forhold til sprogvurdering. Det giver
+endda en lille portion penge – jeg medgiver, at det er lidt, men 4
+mio. kr. er også penge – som vi lader blive ude i kommunerne. Så
+der er rigtig mange gode grunde til at støtte op om det her og så i
+øvrigt fortsat hele tiden have fokus på at arbejde med, hvordan vi
+bedst muligt stimulerer børn. På trods af at de har nogle sproglige
+barrierer, skal det så tidligt som muligt opfanges bl.a. gennem dygtige pædagogers faglige arbejde med dem.
+Men tak for den brede opbakning i øvrigt.
+
+7";Christine Antorini
+39847;Time;;Kl. 15:59
+39885;title_name;":
+Børne- og undervisningsministeren.";Marianne Jelved
+39931;Time;;Kl. 15:59
+39987;title_name;":
+Som jeg sagde før, er der blevet lavet en ændring, der har samlet
+dagtilbudslovens regler om sprogvurdering og sprogstimulering, og
+den trådte i kraft i 2010. Det, der fremgår af den lov, er, at der skal
+gennemføres en sprogvurdering i to tilfælde. For det første af børn,
+der går i dagtilbud, og hvor der er en formodning om, at barnet har
+sproglige vanskeligheder og dermed har behov for sprogstimulering.
+Og det er dermed også en kommentar til Enhedslistens ordfører, fordi det jo netop vægter pædagogernes faglighed i forhold til at gå ind
+og arbejde med de børn, hvor man vurderer, at der er behov for en
+ekstra indsats. Og for det andet skal alle børn, der ikke går i dagtilbud, også have gennemført en sprogvurdering.
+Så det er bare for at sige, at det jo er, fordi der er kommet en ny
+lov efterfølgende, der har det systematiske fokus. Derfor er der ikke
+nogen grund til derudover at bede kommunerne om også at lave en
+plan. Det er jo det konkrete arbejde i dagtilbuddet og den tydelige
+forpligtelse, hvad angår hvem det er, der skal have sprogvurdering,
+som betyder, at børnene hjælpes så tidligt som muligt, hvis de har
+behov for det.";Christine Antorini
+41143;Time;;Kl. 16:00
+41181;title_name;":
+En kort bemærkning fra fru Louise Schack Elholm.";Marianne Jelved
+41241;Time;;Kl. 16:00
+41267;name_party;":
+Jeg er udmærket godt bekendt med den regelforenkling og afbureaukratisering, vi lavede i 2010. Jeg var selv ordfører på den. Men det,
+som der lægges op til med det her lovforslag, er ikke at fjerne sprogvurderingerne, men at fjerne, at kommunerne skal have et mål med
+det, altså have en politik for, hvad man gør, hvis ikke sprogvurderingen lever op til det. Det er da ganske almindelig logik, at man, når
+man har en politik om, at man skal lave en sprogvurdering, også må
+have en politik for, hvad der skal ske, hvis den ikke lever op til det,
+den skal. Hvad gør man i den pågældende kommune? Skal de sendes
+i sprogskole? At lave nogle test bare for at lave testene giver jo ingen mening. Man er jo nødt til at have et mål med det. Det er jo det,
+der bekymrer mig, altså at man laver en besparelse på 40.000 kr. pr.
+kommune ved ikke at forpligte kommunen på at lave nogen mål for
+de sprogvurderinger, der skal laves. Så løber det ud i sandet. Og jeg
+er fuldstændig enig med Børnerådet i, at det her altså mangler fokus
+på børnene.";Louise Schack Elholm
+42310;Time;;Kl. 16:01
+42321;Time;;Kl. 15:58
+42359;title_name;":
+Der er en kort bemærkning fra fru Louise Schack Elholm fra Venstre.";Marianne Jelved
+42438;Time;;Kl. 15:58
+42464;name_party;":
+Ministeren siger, at det allerede er dækket ind, hvad angår sprogstimulering. Sådan som jeg forstår ministeren, skulle det allerede for
+kommunerne være pligtigt alligevel at lave mål og politik på daginstitutionsområdet. Altså, når jeg læser lovforslaget, står der, at § 11,
+stk. 8, som handler om, at kommunalbestyrelsen skal udarbejde og
+offentliggøre en plan for kommunens mål og rammer for sprogvurdering og sprogstimulering, ophæves, og at stk. 9 derefter bliver stk.
+8. Det bliver ikke indføjet andre steder. Hvordan vil ministeren så
+sikre, at kommunen rent faktisk har mål og politik på området?";Louise Schack Elholm
+43107;title_name;":
+Børne- og undervisningsministeren.";Marianne Jelved
+43153;Time;;Kl. 16:01
+43209;title_name;":
+Den ændring, som blev lavet, og som ordføreren henviser til, går jo
+netop ud på, at der skal være den systematik i arbejdet, altså at der
+skal ske en sprogvurdering, som dermed jo styrker det målrettede arbejde. Der skal ske en sprogvurdering af børn, der går i dagtilbud, i
+de situationer, hvor der er en formodning om, at barnet kan have
+sproglige vanskeligheder og dermed har behov for sprogstimulering.
+Det er en meget klar målsætning i det.
+Derudover er det jo sådan, at et af de seks temaer i de pædagogiske læreplaner – som jo er gældende for hele dagtilbudsområdet –
+netop er, hvordan man arbejder med sprogstimulering. Det er jo også
+
+8
+
+Tirsdag den 6. november 2012 (L 38)
+
+en forpligtelse, man har ude i kommunerne og på de enkelte institutioner, altså hvordan man samlet udfolder de 6 læreplanstemaer.
+Så der er meget fokus på det allerede, og der er i øvrigt netop
+kommet en evaluering, der viser, at lige præcis læreplanstemaet omkring sprogstimulering netop er det, som der er blevet arbejdet mest
+systematisk med.
+Det kan så siges, at man desværre lidt har glemt også at fokusere
+på de læreplanstemaer, der handler om børns bevægelse og motorik
+og det læreplanstema, der handler om natur. Men det er noget af det,
+vi sætter yderligere fokus på i det udviklingsprogram for fremtidens
+dagtilbud, der går i gang i 2013.";Christine Antorini
+44554;Time;;Kl. 16:02
+44592;title_name;":
+Da der ikke er flere, der har bedt om ordet, er forhandlingen afsluttet. Tak til ministeren.
+Jeg foreslår, at lovforslaget henvises til Børne- og Undervisningsudvalget. Hvis ingen gør indsigelse, betragter jeg dette som vedtaget.
+Det er vedtaget.
+
+stre jo er et parti, der er folkeligt funderet og har en gammel tradition
+i forhold til folkekirken, hvorfor de enkelte menighedsråd med de erfaringer, som almindelige menighedsråd har fået med stiftsrådene,
+ikke er blevet spurgt om det betimelige i, at man udsætter høringen
+til efter folketingsvalget. Jeg spørger, om det i det mindste ikke er en
+kilde til overvejelse.";Marianne Jelved
+45223;Time;;Kl. 16:04
+45261;title_name;":
+Ordføreren.";Marianne Jelved
+45284;Time;;Kl. 16:04
+45314;name_party;":
+Nu er det jo ikke Venstre, der har fremsat det her lovforslag. Det er
+kirkeministeren, og derfor bør det spørgsmål jo rettelig henvises til
+kirkeministeren.
+Men jeg kan da sige, at når det drejer sig om sådan noget som en
+revisionsudsættelse af et lovforslag, er det ikke kutyme, at man sender det ud til en meget, meget bred kreds, men til dem, der er talsmænd for visse kredse, og det er jo det, der er sket her. Så den kreds,
+det er sendt ud til, ville nok også have været den samme kreds, hvis
+det havde været en Venstrekirkeminister, der havde siddet der.";Flemming Damgaard Larsen
+45886;Time;"Det næste punkt på dagsordenen er:
+3) 1. behandling af lovforslag nr. L 38:
+Forslag til lov om ændring af lov om ændring af lov om folkekirkens økonomi. (Ændring af revisionsklausul).
+Af ministeren for ligestilling og kirke (Manu Sareen).
+(Fremsættelse 24.10.2012).";Kl. 16:05
+46163;Time;Forhandling;Kl. 16:02
+46213;title_name;":
+Forhandlingen er åbnet. Den første ordfører er hr. Flemming Damgaard Larsen for Venstre.";Marianne Jelved
+46313;Time;(Ordfører);Kl. 16:03
+46354;name_party;":
+Dette lovforslag fra regeringen har til formål at udsætte revisionen af
+bestemmelserne i lov om folkekirkens økonomi vedrørende permanente stiftsråd fra folketingsåret 2012-13 til 2014-15, altså i 2 år.
+Baggrunden herfor er, at der er nedsat et udvalg, der arbejder med et
+udkast til en ny styringsstruktur for folkekirken, hvorfor det er hensigtsmæssigt at afvente dette udvalgs forslag, inden man forholder
+sig til erfaringerne med de permanente stiftsråd.
+Venstre kan støtte lovforslaget. Og da ordføreren for Det Konservative Folkeparti ikke har mulighed for at være til stede her i dag,
+skal jeg oplyse, at Det Konservative Folkeparti også kan støtte lovforslaget.";Flemming Damgaard Larsen
+47035;Time;;Kl. 16:03
+47073;title_name;":
+Tak til ordføreren. Undskyld, der kommer lige kort bemærkning.
+Den er fra hr. Christian Langballe, Dansk Folkeparti, værsgo";Marianne Jelved
+47208;Time;;Kl. 16:04
+47234;name_party;":
+Tak for ordet. Det fremgår af det omtalte lovforslag, at det har været
+i høring blandt biskopperne, stiftsøvrigheden, stiftsrådene, Landsforeningen af Menighedsråd, Danmarks Provsteforening og Præsteforeningen. Jeg spørger så Venstres ordfører, fordi jeg mener, at Ven-";Christian Langballe
+47543;title_name;":
+Endnu en kort bemærkning fra hr. Christian Langballe.";Marianne Jelved
+47608;Time;;Kl. 16:05
+47634;name_party;":
+Tak. Grunden til, at jeg spørger, er jo selvfølgelig, at jeg synes, det
+er meget vigtigt, at det, vi taler om, egentlig er en evaluering af,
+hvordan de her stiftsråd har virket. Fungerer de? Der ville det måske
+være meget rimeligt, at man spurgte hvert enkelt menighedsråd, i
+stedet for at de enkelte menighedsråd bliver holdt udenfor. For det er
+jo trods alt de enkelte menighedsråd, der gør sig erfaringer med
+stiftsrådene.
+Altså, jeg vil sige, at vores erfaringer med stiftsrådene er, at de
+stort set har været ikkeeksisterende. Men det er klart nok, at hvis
+man kun spørger stiftsrådene, vil de selvfølgelig sige, at det har været en enorm succes. Og nu udsætter man det så til efter valget. Det
+vil sige, at mange steder vil menighedsrådene være udskiftet, sådan
+at der er kommet nye til, og så skal de så at sige til at gøre sig erfaringer igen igen, med hensyn til hvordan det er med stiftsrådene.
+Jeg spørger så bare Venstre, om man ikke synes, at det vil være
+rimeligt, at hvert enkelt menighedsråd bliver spurgt, også i forhold
+til at man så at sige udsætter den evaluering.";Christian Langballe
+48730;Time;;Kl. 16:06
+48768;title_name;":
+Ordføreren.";Marianne Jelved
+48791;Time;;Kl. 16:06
+48821;name_party;":
+Jamen det arbejde her indgår jo i det udvalg, der er nedsat til at se på
+en ny styringsstruktur for folkekirken, og der vil det være sådan, at
+alle mulige parter overhovedet, altså også det enkelte menighedsråd,
+vil have mulighed for at give deres mening til kende.
+Det er altså en evaluering, der vil blive foretaget, i forbindelse
+med at vi skal behandle det forslag eller i hvert fald den betænkning,
+der kommer fra det udvalg, der er nedsat til at se på en ny styringsstruktur for folkekirken.";Flemming Damgaard Larsen
+49330;Time;;Kl. 16:07
+49368;title_name;":
+Denne gang siger jeg tak til ordføreren, endnu en gang. Den næste
+ordfører er hr. Daniel Toft Jakobsen fra Socialdemokraterne.
+
+Tirsdag den 6. november 2012 (L 38)";Marianne Jelved
+49545;Time;(Ordfører);Kl. 16:07
+49582;name_party;":
+Som den tidligere ordfører sagde, handler lovforslaget om at flytte
+tidspunktet for en revision af stiftsrådenes rolle, sammensætning og
+opgaver fra indeværende folketingsår til folketingsåret 2014-15.
+Når det er en god idé at ændre tidspunktet, skyldes det selvfølgelig, at der for nylig er nedsat et udvalg, der skal komme med forslag
+til en mere sammenhængende og moderne styringsstruktur for folkekirken, og som derfor bl.a. skal se på stiftsrådenes opgaver og rolle.
+Som der står i regeringsgrundlaget, ønsker regeringen inden for folkekirkens grundlovssikrede særstilling at indrette en mere tidssvarende og klar styringssstruktur for den danske folkekirke.
+Alle partier står bag nedsættelsen af føromtalte udvalg, og man
+kan kun glæde sig over den kompetence og bredde, der kendetegner
+medlemssammensætningen i udvalget. Det bliver spændende at se,
+hvilke modeller og anbefalinger der kommer ud af udvalgets arbejde. Forhåbentlig vil det føre til en god og bred debat i folkekirken og
+i sidste ende til, at det bliver mere klart, hvem der bestemmer hvad i
+folkekirken, både i forhold til økonomiske og indholdsmæssige forhold.
+Det er således efter vores opfattelse en rigtig god idé, at det her
+udvalg er blevet nedsat. Når vi på den måde har bedt et udvalg om at
+se på folkekirkens styringsstruktur i sin helhed, er det selvfølgelig
+helt oplagt, at evalueringen og revisionen af stiftsrådenes rolle og
+opgaver indgår i det arbejde. Derfor støtter vi lovforslaget.
+Jeg skulle hilse fra den radikale gruppe og fra Liberal Alliances
+gruppe, som ikke kan være her nu, og sige, at de to partier også støtter lovforslaget.";Daniel Toft Jakobsen
+51218;Time;;Kl. 16:09
+51256;title_name;":
+Tak til ordføreren. Så er den næste ordfører hr. Christian Langballe
+fra Dansk Folkeparti.";Marianne Jelved
+51358;Time;(Ordfører);Kl. 16:09
+51395;name_party;":
+Tak for ordet. Jeg vil godt problematisere, hvad jeg allerede har
+spurgt Venstre om, nemlig at der i forbindelse med det omtalte forslag har været en høring blandt biskopperne, stiftsøvrighederne,
+stiftsrådene, Landsforeningen af Menighedsråd, Danmarks Provsteforening og Den Danske Præsteforening. Jeg spørger egentlig bare,
+fordi det, det drejer sig om, jo er den evaluering, der skulle komme
+af den lov, som blev indført, og som hedder lov nr. 106 af 12. juni
+2009. Altså, den lov skulle nu revideres – forestillede jeg mig – inden menighedsrådsvalget gik i gang, og det vil sige, at dem, der har
+gjort de først erfaringer med stiftsrådene, altså blandt menighedsråd
+og blandt stiftsråd, kunne have mulighed for at udtale sig.
+Så spørger jeg bare, om det er et udtryk for en generel holdning i
+Kirkeministeriet, at de enkelte menighedsråd ikke skal spørges. Mener kirkeministeren ikke, at de betyder noget? Er det på den måde
+udtryk for en fremtidig praksis i forhold til vurderingen af menighedsrådene? For jeg vil mene, at når man ikke spørger de enkelte
+menighedsråd ved sådan en høring her, selv når det drejer sig om revision, er det faktisk et brud med det almindelige folkestyre i folkekirken, hvor sognet, den lokale sognekirke og menighedsrådet, er
+omdrejningspunktet. Hvorfor bliver det enkelte menighedsråd ikke
+spurgt?
+Der bliver i den her tid så sandelig holdt skåltaler om demokratiet
+i folkekirken – man taler jo om en moderne styringsstruktur, også fra
+kirkeministerens side. Men det er og bliver tomme fraser uden substans og indhold, når menighedsrådene ikke bliver hørt. I folkekir-
+
+9
+
+ken er der faktisk et græsrodsdemokrati, og det begynder nede fra
+med det enkelte sogn.
+Så vil jeg sige, at det er fatalt i forhold til L 38, at man ikke benytter lejligheden til at spørge de enkelte menighedsråd om stiftsrådene og om, hvilke erfaringer de har gjort. Virker de overhovedet,
+eller er de overflødige? Det er sådan noget, som de enkelte menighedsråd bør tage stilling til. Nu er chancen så i hvert fald foreløbig
+forpasset, for nu går mange af de gamle, som har gjort de erfaringer,
+af, og nye kommer til, og de skal så til at skabe sig et overblik over,
+hvordan det egentlig ser ud med de her stiftsråd.
+Jeg frygter for græsrodsdemokratiet i folkekirken. Jeg frygter, at
+ministeren og regeringen – måske af lutter velvilje – er ved at ødelægge folkekirken ved at ødelægge det græsrodsdemokrati, som
+kommer nedefra, hvor det lokale sogn har været omdrejningspunktet. Det aktuelle eksempel er meget sigende. Et andet eksempel, som
+jeg har diskuteret med ministeren, er forslaget om, at provster og
+provstiudvalg skal kunne lukke kirkerne hen over hovedet på de enkelte menighedsråd, hvilket jeg også ser som et frontalt angreb på
+folkekirken.
+Kirkeministeren er uenig med mig i det forhold og den bekymring, fordi det åbenbart er godt nok, hvilket rammer hovedet på sømmet i forhold til den ligegyldighed og – vil jeg også sige – foragt,
+som minister og regering nærer over for folkekirken.
+Mine overvejelser vil så danne baggrund for videre spørgsmål
+gennem den her proces. Vi siger nej til lovforslaget. Tak for ordet.";Christian Langballe
+54549;Time;;Kl. 16:13
+54587;title_name;":
+Tak til ordføreren. Den næste ordfører er hr. Karl H. Bornhøft for
+SF.";Marianne Jelved
+54669;Time;"(Ordfører)
+Karl H. Bornhøft (SF):
+Tak. Regeringen nedsatte som sagt i september 2012 et udvalg, der
+skulle se på en mere sammenhængende og mere moderne styringsstruktur for folkekirken. Det har længe været et ønske i SF, og det
+har især længe været et ønske for SF's permanente ordfører på området, og vi ser meget frem til at høre udvalgets anbefalinger og få den
+efterfølgende diskussion.
+En del af udvalgets arbejde er jo også et give et bud på en klar
+ansvarsfordeling, hvad angår de økonomiske og indholdsmæssige
+forhold i kirken. I den forbindelse skal udvalget også overveje og
+komme med eventuelle forslag vedrørende stiftsrådets opgaver og
+rolle. Da udvalget som bekendt først barsler med deres rapport ultimo 2013, giver det altså god mening, at vi afventer dets arbejde og
+dermed ændrer revisionsklausulen, så vi får en samlet evaluering og
+vurdering af området. På den måde kan vi bedst træffe beslutninger,
+der svarer til dem, der er ønske om i tiden. Derfor kan vi tilslutte os
+forslaget.";Kl. 16:13
+55683;Time;;Kl. 16:14
+55721;title_name;":
+Der er en kort bemærkning fra hr. Christian Langballe fra Dansk
+Folkeparti.";Marianne Jelved
+55808;Time;;Kl. 16:14
+55834;name_party;":
+Tak for ordet. Jeg kan stille det samme spørgsmål, som jeg stillede
+til Venstre. Betyder »moderne styringsstruktur for folkekirken«, at
+lovforslag ikke skal i høring blandt menighedsrådene? Jeg synes, det
+rejser et praktisk problem. Nu har vi den her lov, som kom i 2009,
+og man har i 3 år gjort erfaringer med stiftsrådene. Hvorfor er der
+ikke nogen, der har spurgt til de erfaringer? Det er så åbenbart noget,
+
+10
+
+Tirsdag den 6. november 2012 (L 38)
+
+der skal tages op i en kommission, hvor der også vil blive taget alt
+muligt andet op.
+Jeg synes, det er meget mærkeligt, at man har gennemført en høring, hvor alle blev spurgt, undtagen de enkelte menighedsråd, som
+jeg vil mene er fuldstændig centrale i folkekirken, da det er sognet,
+der er krumtappen, som folkekirken drejer om. Jeg vil spørge, om
+ordføreren ikke mener, at det er et problem.";Christian Langballe
+56695;Time;;Kl. 16:15
+56733;title_name;":
+Ordføreren.";Marianne Jelved
+56756;Time;"Karl H. Bornhøft (SF):
+Jeg har stor respekt for spørgerens ønske om at få et svar i den her
+sammenhæng. Til gengæld er jeg jo også – selv om jeg er lidt ked af
+at gøre det – nødt til at gøre opmærksom på, at jeg kun er inde som
+stedfortræder i 3 uger, og det er altså begrænset, hvor meget man giver sig til at love, når man kun er herinde i 3 uger. Når man i forvejen har været her i 4 år i sidste periode, har man lært, at det skal man
+nok ikke gøre.
+Derfor vil jeg sige, at jeg synes, det er fint, at Dansk Folkepartis
+ordfører gør sig sine overvejelser, og jeg glæder mig også til på et
+tidspunkt at kunne sidde derhjemme foran skærmen og høre, hvad
+det har udmøntet sig i, når der kommer en diskussion på grundlag af
+noget, som alle Folketingets partier kan tage stilling til, nemlig den
+rapport, der skal komme.";Kl. 16:15
+57585;Time;;Kl. 16:16
+57623;title_name;":
+Endnu en kort bemærkning fra hr. Christian Langballe.";Marianne Jelved
+57688;Time;;Kl. 16:16
+57714;name_party;":
+Jeg er fuldstændig klar over de vilkår, som ordføreren svarer på, og
+dem respekterer jeg fuldt ud.
+Ordføreren bruger sin almindelige sunde fornuft i forbindelse
+med alt muligt andet. Det spørgsmål, jeg så bare i hvert fald vil gentage, er: Er det så rimeligt, at græsrodsdemokratiet, dvs. det lokale
+demokrati i folkekirken, nemlig det enkelte menighedsråd, så at sige
+ikke bliver hørt om en evaluering, som bliver udsat, endda til efter
+menighedsrådsvalget, hvor der kommer en masse nye medlemmer
+ind? Det er det generelle.
+Det, jeg bare frygter for, er det folkelige demokrati. Kirkeministeren og alle mulige andre kan holde skåltaler om det, jeg synes bare, at det er afgørende, at det er det enkelte menighedsråd, der ligesom tager stilling til, om f.eks. stiftsrådene er en god idé.";Christian Langballe
+58513;Time;;Kl. 16:17
+58551;title_name;":
+Ordføreren.";Marianne Jelved
+58574;Time;"Karl H. Bornhøft (SF):
+Jeg kan desværre ikke bidrage med yderligere ud over det, jeg allerede har bidraget med.
+Jeg respekterer til gengæld, at der er folk, der har et andet synspunkt. Og jeg kan love spørgeren, at jeg, ligesom spørgeren selv, altid vil bruge min sunde fornuft. Jeg vil så også orientere spørgeren
+om, at det givetvis en gang imellem vil føre til forskellige konklusioner. Det er så også det, der er vores privilegium.";Kl. 16:17
+59021;Time;;Kl. 16:18
+59059;title_name;":
+Tak til ordføreren. Så er det ministeren for ligestilling og kirke.";Marianne Jelved
+59139;Time;"Ministeren for ligestilling og kirke (Manu Sareen):
+Tak, formand. Formålet med lovforslaget er, som vi har hørt, at ændre revisionsklausulen vedrørende bestemmelser i lov nr. 506 af 12.
+juni 2009 om ændring af lov om folkekirkens økonomi vedrørende
+etablering af permanente stiftsråd, således at der bliver fremsat forslag om revision af bestemmelserne senest i folketingsåret 2014-15
+frem for i folketingsåret 2012-13.
+Stiftsrådets opgaver og rolle skal selvfølgelig belyses af det udvalg, som vi har nedsat, som flere har været inde på, og derfor vil det
+set i lyset af det være naturligt at lade revisionen af loven indgå i det
+udvalgsarbejde.
+Derfor skal det her lovforslag som sagt ses i lyset af det. Vi rykker simpelt hen revisionsklausulen. Tak.";Kl. 16:18
+59904;Time;;Kl. 16:19
+59942;title_name;":
+Så er der en kort bemærkning fra hr. Christian Langballe, Dansk
+Folkeparti.";Marianne Jelved
+60029;Time;;Kl. 16:19
+60055;name_party;":
+Den her revisionsklausul har været til høring ved en masse forskellige parthavere, ved forskellige organisationer.
+Hvad jeg savner i det her, er ikke organisationernes stemme, de
+skal nok lade høre fra sig. Jeg savner de folk, som så at sige repræsenterer den fladbundede folkekirke, dvs. folk fra menighedsrådene,
+der står med fødderne i mulden og ved, hvad der foregår. Jeg spørger
+om det enkle: Hvorfor er de ikke blevet hørt med hensyn til den her
+klausul?
+Nu lyder det næsten, som om det så bliver overleveret til en kommission. Vi har også været med til at sige ja til kommissionen, men
+det lader til, at det så lige pludselig er op til kommissionen, og at det
+ikke er det enkelte menighedsråd, der skal tage stilling til det.
+Jeg spørger: Hvorfor er det sådan? Hvad med det enkelte menighedsråd? Hvorfor er det ikke blevet hørt med hensyn til den udskydelse?";Christian Langballe
+60932;Time;;Kl. 16:20
+60970;title_name;":
+Ministeren.";Marianne Jelved
+60993;Time;"Ministeren for ligestilling og kirke (Manu Sareen):
+Nu var det dér en kaskade af spørgsmål med hvorfor i. Jeg skal prøve at samle op på dem.
+For det første er der ikke noget odiøst i, at de enkelte menighedsråd, de 2.200 menighedsråd, ikke bliver hørt, når vi taler om en revisionsklausul, som hr. Flemming Damgaard Larsen i øvrigt også gjorde opmærksom på. Der er ikke noget odiøst i det, man plejer ikke at
+gøre det. Det er det ene.
+Det andet er jo, at dem, der udgør det store antal – sådan er det
+jo, når man lytter til græsrødderne – er repræsenteret, men af hvem?
+Jo, de er lige præcis repræsenteret af Lansforeningen af Menighedsråd. Den har også været med til at komme med høringssvar, og dens
+tilgang har været, at den ikke har noget problem med det her, modsat
+Dansk Folkeparti.
+Når det er sagt, vil jeg sige, at det også er sådan, at de enkelte
+menighedsråd har mulighed for at udtale sig via stiftsrådene, så vi
+har hørt bredt.
+Når det også er sagt, vil jeg sige, at det jo er fuldstændig korrekt,
+at ordføreren også har været med til at få kommissoriet på plads, at
+få udvalget på plads, og til at beslutte, hvem der skal sidde i det udvalg.
+
+Tirsdag den 6. november 2012 (F 5)
+
+Det udvalg skal netop kigge på det, vi taler om i dag, og det er
+kun derfor, vi rykker revisionsklausulen. Længere er den faktisk ikke.";Kl. 16:20
+62333;Time;;Kl. 16:21
+62371;title_name;":
+Endnu en kort bemærkning til hr. Christian Langballe.";Marianne Jelved
+62436;Time;;Kl. 16:21
+62462;name_party;":
+Jeg skal ikke forholde mig til kommissionens arbejde, for den gør
+sig selv sine overvejelser. Men jeg kan se på tidsplanen, at den folkelige debat – og hold nu fast – vil falde i juni, juli og august næste
+år. Når alle folk er taget på sommerferie, skal den folkelige debat om
+bl.a. stiftsrådene foregå. Så vidt jeg ved, vil de fleste menighedsråd
+ikke være samlet i den periode.
+Jeg siger bare det enkle, at folkekirken er baseret på det almindelige demokrati, som er ude i de lokale menighedsråd. Det er sådan,
+folkekirken er bygget op. Nu er vi ved at få en kirke, som er styret af
+organisationer og parthavere, som så at sige skal udtale deres forskellige holdninger.
+Folkekirken er bare det her velordnede anarki baseret på det enkelte menighedsråd. Jeg forstår ikke, hvorfor det enkelte menighedsråd ikke er blevet hørt i den her sag, med hensyn til at man udsætter
+evalueringen af, hvordan stiftsrådene har virket.
+Hvem ved det? Det ved de enkelte menighedsråd. Og det kan
+godt være, at de kommer til en anden konklusion, end man gør i Menighedsrådsforeningen.";Christian Langballe
+63541;Time;;Kl. 16:23
+63579;title_name;":
+Ministeren for ligestilling og kirke.
+
+11
+
+Jeg kan desværre ikke stille spørgsmål til hr. Christian Langballe,
+men så må jeg prøve at stille et spørgsmål til ministeren, så ministeren kan bekræfte min opfattelse af det.
+Med den her lovændring går vi jo ikke ind i det indholdsmæssige,
+vi går ikke ind og evaluerer stiftsrådenes betydning, hverken i forbindelse med opgaver, sammensætning eller kompetence. Det drejer
+sig alene om en udskydelse af revisionen i 2 år. Og til den tid får menighedsrådene også mulighed for at komme ind og vurdere, om
+stiftsrådene har fungeret hensigtsmæssigt, eller om de skal fungere
+på en anden måde eller sammensættes på en anden måde.
+Det vil sige, at i virkeligheden er det en bedre situation, for nu
+bliver der yderligere 2 år til at få et bredt fundament at vurdere på,
+også for menighedsrådene. Kan ministeren bekræfte, at til den tid vil
+menighedsrådene også blive hørt om det indholdsmæssige og vedrørende stiftsrådene?";Marianne Jelved
+64550;Time;;Kl. 16:25
+64588;title_name;":
+Ministeren for ligestilling og kirke.";Marianne Jelved
+64637;Time;"Ministeren for ligestilling og kirke (Manu Sareen):
+Tak til hr. Flemming Damgaard Larsen. Jeg kan ikke kun bekræfte
+én ting, jeg kan bekræfte flere ting, bl.a. også det, som hr. Flemming
+Damgaard Larsen startede med at sige, nemlig at hr. Christian Langballe får fremstillet det urimeligt skævt. Det er jeg fuldstændig enig
+i.
+Det er fuldstændig rigtigt, at meninghedsrådene selvfølgelig vil
+blive hørt på et senere tidspunkt; det her handler bare om at skyde
+revisionsklausulen.";Kl. 16:25
+65128;Time;;Kl. 16:25
+65139;Time;"Ministeren for ligestilling og kirke (Manu Sareen):
+Ordføreren siger »jeg siger bare«.
+Nu vil jeg prøve at samle op igen, også på noget af det, som ordføreren sagde tidligere, om, at menighedsrådene ikke skulle betyde
+noget for regeringen og for undertegnede.
+Ordføreren siger samtidig i forlængelse af den udtalelse, at vi har
+diskuteret de her ting før, også det om kompetencerne, om, hvem der
+skulle kunne tage kirker ud af drift.
+Igen vil jeg bare sige, at de to ting intet har med hinanden at gøre.
+For vi har jo netop – vi har jo netop bedt det udvalg, som vi endda
+har nedsat sammen, om også at kigge på det. Og det betyder jo ikke
+noget med, at vi ikke har respekt for menighedsrådene.
+Så glemmer ordføreren bare en ting, og den er, at ministeriet netop også er i gang med en evaluering og med at høre de involverede
+parter. Så det er jo ikke sådan, at vi ikke lytter, tværtimod lytter vi.
+Det, vi også gør, og som vi har gjort sammen med DF, er at nedsætte det udvalg; det har vi stor respekt for, det skal have arbejdsro,
+og det skal have lov til at kigge på de her ting, og så rykker vi simpelt hen bare revisionsklausulen. Længere er den ikke, det er meget,
+meget simpelt.";Kl. 16:23
+66335;Time;;Kl. 16:24
+66373;title_name;":
+Der er endnu en kort bemærkning, og den er fra hr. Flemming Damgaard Larsen fra Venstre.";Marianne Jelved
+66473;Time;;Kl. 16:24
+66503;name_party;":
+Nu får hr. Christian Langballe det her til at fremstå noget skævt, synes jeg.";Flemming Damgaard Larsen
+66620;title_name;":
+Der er ikke flere bemærkninger til ministeren, så jeg siger tak.
+Da der ikke er flere, der har bedt om ordet, er forhandlingen afsluttet.
+Jeg foreslår, at lovforslaget henvises til Kirkeudvalget. Hvis ingen
+gør indsigelse, betragter jeg det som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+4) Forespørgsel nr. F 5:
+Forespørgsel til beskæftigelsesministeren om brug af løntilskud:
+Hvad kan ministeren oplyse om brugen af løntilskud på det offentlige arbejdsmarked og det private arbejdsmarked?
+Af Bent Bøgsted (DF), Pia Adelsteen (DF), René Christensen (DF)
+og Jens Henrik Thulesen Dahl (DF).
+(Anmeldelse 11.10.2012. Fremme 23.10.2012).";Marianne Jelved
+67286;Time;;Kl. 16:26
+67324;title_name;":
+Jeg gør opmærksom på, at afstemning om eventuelle forslag til vedtagelse udsættes til torsdag den 8. november 2012.
+Det er først ordføreren for forespørgerne, hr. Bent Bøgsted,
+Dansk Folkeparti.
+
+12
+
+Tirsdag den 6. november 2012 (F 5)";Marianne Jelved
+67572;Time;"Begrundelse
+(Ordfører for forespørgerne)";Kl. 16:26
+67632;name_party;":
+Tak. Årsagen til, at vi har ønsket denne forespørgsel om løntilskudsjob, er, at vi igennem længere tid har set det, vi vil kalde et stigende
+misbrug af løntilskudsjob. Vi har set, at der er rigtig mange steder,
+især inden for det offentlige, det kommunale, hvor der er rigtig mange i løntilskudsjob og ikke særlig mange fastansatte. Det har jo aldrig været meningen med det. Det virker, som om der sker en fortrængning.
+Derfor har jeg stillet nogle spørgsmål til ministeren, hvor det i
+svarene er kommet frem, at der i offentligt, kommunalt, regi bliver
+brugt 2,5 mia. kr. til løntilskudsjob, men at det har en meget dårlig
+effekt. Der er ikke ret mange, der kommer i job. På det private arbejdsmarked bliver der brugt 900 mio. kr. til løntilskudsjob, og der
+er effekten meget større. Der er der omkring 50 pct., der kommer i
+job efterfølgende.
+Derfor synes jeg, det er på sin plads at få en debat om det her, vel
+vidende, at regeringen har sat et udredningsarbejde i gang, men efter
+Dansk Folkepartis mening ser det ud til, at der sker et vist misbrug.
+Der skulle gerne være den effekt, at når man kommer i et løntilskudsjob, får man også en stor chance for at få et job bagefter, så man
+ikke bare lige bruger den sidste rest af dagpengeperioden, inden man
+falder ud af systemet. Det har for rigtig mange, der har været i et
+løntilskudsjob inden for det kommunale, været sådan, at de, når de
+så har været der i et halvt år, finder ud af, at de snart har opbrugt
+dagpengeperioden, og at der ikke er udsigt til, at de kan få et job.
+Det er ikke hensigtsmæssigt, og derfor er der behov for ændringer på
+området.
+Så jeg ser frem til debatten og til at finde ud af, hvor de forskellige partier står henne i det her spil. Når det så ovre, venter vi også
+med spænding på den udredning, som regeringen vil komme med.";Bent Bøgsted
+69453;Time;;Kl. 16:28
+69489;title_name;":
+Beskæftigelsesministeren for besvarelse.";Anne Baastrup
+69541;Time;Besvarelse;Kl. 16:28
+69598;title_name;":
+Tak til Dansk Folkeparti for at rejse forespørgslen. Jeg synes, det er
+et relevant spørgsmål at rejse. Jeg er i lighed med Dansk Folkeparti
+optaget af, at brugen af løntilskud, hvad enten det er i den offentlige
+eller private sektor, altid foregår med det for øje, at det skal bibringe
+den ledige en bedre mulighed for at komme i arbejde, end hvis vedkommende ikke var kommet i et løntilskudsjob.
+Jeg er blevet bedt om i dag at redegøre for brugen af løntilskud
+på både det offentlige og det private arbejdsmarked, og jeg forstår
+det sådan, at spørgsmålet i dag er stillet på baggrund af en række
+svar, som blev afgivet i juni og oktober måned til Beskæftigelsesudvalget.
+Jeg vil gerne starte med at slå fast, at det er vigtigt, at vi fører en
+aktiv beskæftigelsespolitik i Danmark. Der er mange mennesker, der
+rammes af arbejdsløshed, og som selv formår at komme tilbage på
+arbejdsmarkedet. Det er godt og positivt. Der er også en gruppe ledige, der har behov for hjælp, støtte, vejledning, uddannelse og kompetenceløft for at kunne nå derhen.
+Det er selvfølgelig vigtigt, for at den beskæftigelsespolitik er så
+god som overhovedet muligt, at der er en bred vifte af redskaber.
+
+Løntilskud er en del af den vifte, og det er et redskab, som jeg selv
+tænker kan være en rigtig god idé, hvis man har behov for enten at
+blive oplært eller få genoptrænet kompetencer inden for sit fag eller
+til et nyt fag, altså, at det dermed er af faglig karakter, eller har behov for at få lært eller genlært sociale og sproglige kompetencer.
+Lidt om det faktuelle: Der bruges i dag ganske mange penge på
+området. Der bruges i 2012-priser 4,3 mia. kr. Man kan dog ikke sige, at hvis vi afskaffer løntilskud i morgen, vil de penge være sparet,
+for ganske mange af de her penge vil jo ellers og alternativt skulle
+bruges på forsørgelsesudgifter, nemlig til kontanthjælp og til dagpenge. Derudover er det jo ikke sådan, at alle andre former for aktiv
+beskæftigelsespolitik er gratis. Derfor kan man altså ikke tage det
+beløb og tænke, at de penge ville være sparet.
+Når det er sagt, er jeg meget optaget af, at vi får målrettet brugen
+af løntilskud. Vi har endnu ikke et præcist videngrundlag at stå på,
+og som ordføreren for Dansk Folkeparti også lige redegjorde for, har
+vi sammen med Enhedslisten igangsat et større udredningsarbejde
+om både offentlige og private løntilskud. Men vi ved noget allerede i
+dag, og vi ved også noget om effekterne.
+Det, man jo kan sige af helt generel karakter, er, at det ser ud til,
+at der er en positiv beskæftigelseseffekt ved brug af privat løntilskud. Der er ikke en positiv beskæftigelseseffekt ved brug af offentlig løntilskud, og der er oven i købet noget, der tyder på, at offentlige
+løntilskud kan være ledighedsforlængende, altså kan fastholde mennesker i ledighed. Det er, når man kigger på gruppen af ledige i det
+hele taget.
+Kigger vi på gruppen af udsatte ledige – man kan jo være udsat
+ledig af forskellige årsager; det er måske, fordi man har været lang
+tid væk fra arbejdsmarkedet, der kan være integrationsudfordringer,
+der kan være sociale problemer – ser vi, at det er bedre at være i et
+løntilskudsjob, også selv om det er offentligt, end ikke at være i et
+tilbud. Derfor er den retning, som vi som regering kigger i, den, at
+der er meget, der tyder på, at de private løntilskudsjob kan bruges af
+en bred gruppe ledige, men at man skal have en særlig omtanke, når
+det gælder de offentlige løntilskud.
+Vi har sammen med Enhedslisten valgt at igangsætte et udredningsarbejde. Det arbejde er i gang, og det vil både give os et overblik over udviklingen i anvendelsen af virksomhedspraktik og løntilskud, indsamle den nyeste viden, vi har på området, og belyse, hvordan løntilskud og virksomhedspraktik påvirker det ordinære arbejdsmarked, altså risikoen for, at ordningen fortrænger ordinære job. Jeg
+hører jo også eksempler på det derudefra. Derudover vil de se på,
+hvordan parterne kigger på løntilskudsområdet i det hele taget. Det
+udredningsarbejde, vi har igangsat, er færdigt i starten af det nye år,
+altså i 2013, og derefter vil jeg selvfølgelig se på, om der er behov
+for, at vi målretter den lovgivning, der er i dag.
+Jeg har lyttet mig til, at i hvert fald et bredt udsnit af Folketingets
+partier er blevet enige om et forslag til vedtagelse i dagens debat, og
+derfor er jeg egentlig ret fortrøstningsfuld, hvad angår debatten og
+udviklingen på løntilskudsområdet, for jeg tror, at mange af os har
+en fælles holdning til og fælles interesse i, at det, når der bruges løntilskud, altid skal være med det klare formål at bistå den enkelte ledige med at komme hurtigere tilbage på arbejdsmarkedet, og derfor
+må det selvfølgelig ikke forlænge ledighedsperioden.";Mette Frederiksen
+74311;Time;;Kl. 16:34
+74347;title_name;":
+Ordføreren for forespørgerne, hr. Bent Bøgsted.
+
+Tirsdag den 6. november 2012 (F 5)";Anne Baastrup
+74444;Time;"Forhandling
+(Ordfører for forespørgerne)";Kl. 16:34
+74504;name_party;":
+Tak. Tak til ministeren for talen. Når vi har en forespørgsel, er det jo
+altid noget, at der er enighed om, at der skal gøres noget, for når man
+kigger tilbage i tiden, vil man se, at løntilskud jo er indeholdt i forliget »Flere i arbejde«, og derfor er vi alle sammen mere eller mindre
+fælles om at have lavet det redskab. Der er heller ikke nogen, der siger, at det ikke er et af de bedre redskaber, det er mere et spørgsmål
+om, hvordan det bliver brugt, og at det skal bruges med omtanke.
+Når man så ser, at det i det private har mere effekt end i det offentlige, er det klart, at det ikke lige er på det private arbejdsmarked, der
+umiddelbart kan være behov for at gå ind og ændre på systemet.
+Der kan altid være tale om justeringer. Jeg har også hørt om nogle private arbejdsgivere, der shopper og får den ene efter den anden i
+løntilskudsordning og tilsyneladende aldrig kan bruge nogen af dem,
+de har i løntilskudsordning, men alligevel lader tiden køre ud. Det er
+noget, man kan sige er et misbrug.
+Men HK har f.eks. lavet en undersøgelse, og når der er 47,5 pct.
+af HK's aktiverede i job med løntilskud i privat virksomhed, der har
+fået hel eller delvis lovning på et job, når aktiveringen er færdig,
+mens det kun drejer sig om 7,7 pct. i job på det kommunale område,
+så er det noget, der skriger til himlen, for så er den gal inden for det
+offentlige område. Når man så også hører, at de ansatte ude i de
+kommunale institutioner føler, at der kommer flere og flere ind med
+løntilskud, samtidig med at kommunerne skal spare og fyrer nogle af
+de fastansatte, så kan man spørge, om det, der kommer i spil her, er
+fortrængning af fastansatte.
+Der er i hvert fald noget, der ikke helt stemmer, så der er noget,
+der skal kigges alvorligt på, for det har aldrig være meningen, at det
+skulle fortrænge faste arbejdspladser, og det har heller aldrig været
+meningen, at kommunen skulle bruge det som et spareobjekt og så
+sige: Jamen nu afskediger vi nogle af de faste, så får vi nogle ind på
+løntilskudsordningen, for dem får vi refusion til. Det er ikke det, der
+har været meningen.
+FOA har f.eks. lavet en undersøgelse, hvor tallene viser, at der er
+sket en kraftig stigning siden 2009, f.eks. er antallet af pædagogmedhjælpere steget fra 3,5 pct. i 2009 til 10,56 pct. af de ansatte i 2012
+inden for det kommunale system. Husassistenter er steget fra 11,79
+pct. til i 2012 at være oppe på 18,72 pct. Teknisk service-personale
+er steget fra 16,83 pct. til 24,3 pct. Så der er noget, der er galt. Derfor er det hamrende nødvendigt, at man får set på, hvad vi kan gøre
+anderledes inden for det offentlige, for vi er jo ikke indstillet på, at
+vi skal ud og afskaffe noget. Det er heller ikke for at spare penge,
+men pengene skal bruges på den rigtige måde, og kunne man nu opnå en effekt, der betød, at man for de samme penge kom op på, at det
+samlet var omkring 50 pct., der kom i job, var vi nået langt, og så
+ville det ikke se så umuligt ud inden for det offentlige.
+Vi ved også, at hvis dem, der er i løntilskudsjob i det offentlige,
+skal ud at søge arbejde – det skal de jo stadig væk gøre – så kan de
+dårligt nok få fri til at søge arbejde, fordi deres arbejdskraft er uundværlig der, hvor de er kommet i løntilskudsjob. Det skulle jo netop
+være sådan, at de stadig væk kunne søge arbejde, samtidig med at de
+får noget jobtræning og får noget erfaring på arbejdsmarkedet med
+løntilskudsjobbet, men det kan de ikke, for de kan dårligt nok få fri.
+Jo, måske fredag eftermiddag, men man går ikke ud på det private
+arbejdsmarked og søger job fredag eftermiddag, så er man sikker på,
+at man i hvert fald ikke får et job, for der skal man helst komme
+mandag eller tirsdag om morgenen for at få arbejde. Så i den forbindelse er der selvfølgelig også noget, der skal ses på.
+
+13
+
+Men der er nok at tage fat på, og i Dansk Folkeparti synes vi i
+hvert fald, at det skriger til himlen med de svar, vi har fået på
+spørgsmålene. Der er noget, der skal gøres, og vi skal tage fat på de
+ændringer. Derfor ser vi da frem til, når redegørelsen kommer, at ministeren indkalder kredsen til en ny forhandling om løntilskudsordningen, altså hvordan vi kan få rettet op på de problemer, der er, og
+som vi alle sammen godt kan se er der.
+Man kan selvfølgelig altid diskutere, hvorfor vi ikke har gjort det
+tidligere. Det har vi så ikke gjort, men det kunne godt være, vi skulle
+have haft fat i det for 3-4 år siden – hvem ved? Men nu er det kommet op, og nu bliver der taget fat på det, og så må vi så se, hvordan
+det går.
+Jeg skal så her på vegne af Venstre, Socialdemokratiet, Dansk
+Folkeparti, Det Radikale Venstre, Socialistisk Folkeparti, Enhedslisten og Det Konservative Folkeparti fremsætte følgende:
+Forslag til vedtagelse
+»Folketinget finder det afgørende, at kommunerne bruger de redskaber, der virker bedst over for den enkelte ledige.
+Løntilskud er et af elementerne i redskabsviften, der kan hjælpe
+med at skabe kontakt til en arbejdsplads og dermed hjælpe ledige
+gennem oplæring og genoptræning af faglige, sociale eller sproglige
+kompetencer.
+Folketinget konstaterer, at løntilskud til private virksomheder kan
+hjælpe ledige i job – også udsatte ledige. Det konstateres endvidere,
+at virksomhedsrettede indsatser i den offentlige sektor kan have en
+positiv effekt for udsatte ledige, mens offentlige løntilskudsjob derimod kan virke fastholdende og dermed forlænge ledighedsperioden
+for arbejdsmarkedsparate ledige.
+Folketinget konstaterer, at der er igangsat et udredningsarbejde af
+løntilskud og virksomhedspraktik, hvori en eventuel fortrængningseffekt af ordinært ansatte og misbrug af løntilskud bliver belyst. Resultatet heraf vil blive drøftet med de relevante partier i Folketinget
+med henblik på forbedringer af løntilskudsordninger.
+Folketinget finder det afgørende, at misbrug og uhensigtsmæssig
+brug af løntilskud modvirkes.«
+(Forslag til vedtagelse nr. V 3).";Bent Bøgsted
+80384;Time;;Kl. 16:41
+80420;title_name;":
+Forslaget til vedtagelse vil nu indgå i forhandlingerne.
+Vi går videre til den næste ordfører, hr. Hans Andersen.";Anne Baastrup
+80545;Time;(Ordfører);Kl. 16:41
+80575;name_party;":
+16 mia. kr. er det beløb, vi her i Danmark bruger i 2012 på aktivering. Det svarer til 0,9 pct. af vores bruttonationalprodukt, og sammenligner vi med gennemsnittet i OECD-landene, ja, så er det beløb,
+vi bruger, væsentlig højere. Når vi så bruger så mange penge, mener
+jeg, det er vigtigt at sikre, at vi også får smæk for skillingen.
+Forespørgslen her handler om løntilskudsjob, altså om den ordning for ledige, der går ud på, at de kan blive ansat i det offentlige
+eller det private, mens staten betaler omkring 50 pct. af lønnen. I det
+offentlige svarer lønnen til den lediges dagpenge eller kontanthjælp,
+mens den i det private svarer til, hvad der fås under almindelige vilkår, og så er det sådan, at man bruger af sin dagpengeret, mens man
+er i løntilskudsjob.
+Meningen med ordningen er at bringe den ledige tættere på arbejdsmarkedet. Man skulle gerne få erfaringer, et større netværk og
+motivation og på den måde kunne bruge jobbet som et springbræt til
+at komme rigtigt i arbejde.
+Formålet med løntilskud er ikke at løse ressourceproblemer eller
+andet på et arbejdssted, og det er heller ikke meningen, at kommu-
+
+14
+
+Tirsdag den 6. november 2012 (F 5)
+
+nerne skal kunne misbruge ordningen til kassetænkning. Det har der
+alligevel været problemer med, og det er bl.a. det, vi drøfter her i
+dag.
+Flere undersøgelser viser, at job med løntilskud hos private virksomheder er effektivt i forhold til at få ledige i arbejde bagefter. Og
+så viser undersøgelser også, at løntilskud i det offentlige er knap så
+stor en succes. Ja, nogle mener ligefrem, at det er en ren fiasko, hvor
+formuer går tabt. Fagforeningen PROSA har lavet en undersøgelse
+blandt deres medlemmer, og den viser, at 14,5 pct. af de ledige, der
+var i det offentlige, fik fast arbejde bagefter. For dem med løntilskudsjob i det private var antallet væsentlig højere, nemlig 55,3 pct.
+Anderledes ser det ud hos DJØF og Københavns Kommune, der peger på, at ca. 40 pct. af de ledige i offentlige løntilskudsjob kommer i
+arbejde umiddelbart efter forløbet.
+Det kan altså diskuteres, hvor skidt det står til med effekten af de
+offentlige løntilskudsjob. Men under alle omstændigheder mener
+jeg, at når de private virksomheder tydeligvis er de bedste til at få de
+ledige i arbejde, bør kommunerne og jobcentrene sørge for, at flere
+ledige kommer i løntilskudsjob dér. Sådan er det imidlertid ikke i
+dag, og det er et problem, vi skal have løst.
+Siden januar 2004 har der i gennemsnit kun været 3.943 personer
+i løntilskudsjob i det private, mens der har været 9.787 i det offentlige. I 2011 tegnede kommunerne sig for 2,5 mia. kr. ud af de næsten
+3,4 mia. kr., der blev brugt på ordningen, og i august i år var der kun
+4.618 private forløb og hele 10.000 offentlige forløb. Det er en stor
+skævvridning, og kommunerne bliver jo i den forbindelse beskyldt
+for kassetænkning.
+Dem, der skal have noget ud af de her ordninger, er jo først og
+fremmest de ledige. Så skal det selvfølgelig undersøges, hvad vi kan
+gøre for, at kommunerne ikke har mulighed for at misbruge ordningerne, og det kan jo i den forbindelse overvejes, om der er behov for
+en forbedring af det nuværende refusionssystem, som det f.eks. er
+anbefalet af Det Økonomiske Råd i deres seneste rapport. Så ville
+det selvfølgelig også være positivt, hvis vi kunne få de private virksomheder til at byde flere ledige indenfor.
+Der vil også være mulighed for at se på reglerne for merbeskæftigelse på det offentlige område, de er nemlig uklare i dag. Man kunne
+jo overveje at tilpasse reglerne, så de stemmer overens med dem på
+det private område. Her er kravene i forbindelse med merbeskæftigelse fastsat på basis af det gennemsnitlige antal i de sidste 12 måneder.
+Så vil jeg som en sidste ting nævne de her løntilskudskvoter på
+det offentlige område, altså kvoterne for, hvor mange kommunen
+skal ansætte i offentlige løntilskudsjob. Måske er tiden løbet fra de
+her kvoter, og man kunne jo se på ideen med at afskaffe dem og så
+give jobcentrene et større ansvar i den forbindelse.
+Det var ordene. Tak.";Hans Andersen
+84614;Time;;Kl. 16:46
+84650;title_name;":
+Der er en enkelt kort bemærkning. Hr. Bjarne Laustsen.";Anne Baastrup
+84716;Time;;Kl. 16:46
+84737;name_party;":
+Ja, der var jo ikke noget særlig interessant i Venstres ordførers tale i
+dag. Det eneste var, at man nu er inde i kampen igen; nu synes man,
+det er godt, at de ledige kommer i job med løntilskud. Jeg vil bare
+minde om, at det var Venstre, der tog initiativ til aftalen »Flere i arbejde«, som vi valgte at støtte, og derfor er alle de tal, som hr. Hans
+Andersen læste op, jo tal for ting, som Venstre selv har foreslået. Og
+vi kan se på udviklingen, at det følger konjunkturerne: Hvis der er
+mange ledige, er der også mange løntilskudsjob; er beskæftigelsen
+god, er der færre i løntilskudsjob. Så det er jo en regulator.
+Men samtidig skar Venstre voldsomt ned på uddannelsesaktiviteterne. De her folk, der er uden for arbejdsmarkedet, skal jo ind og
+
+have nogle kompetencer, for at deres ekspertise ikke ruster. Hvad er
+forslaget så, hvis det ikke skal være det her? Hvad skal det så være i
+stedet for? Det ville jo være interessant at høre, nu hvor man står og
+roser det private erhvervsliv for at gøre noget. Nu har vi jo lige set i
+forbindelse med akutjobaftalen, at de private arbejdsgivere siger: Vi
+vil gerne være med til at løse det her problem. Hvor er forskellen?";Bjarne Laustsen
+85920;Time;;Kl. 16:47
+85956;title_name;":
+Ordføreren.";Anne Baastrup
+85979;Time;;Kl. 16:47
+85998;name_party;":
+Vi vil sådan set meget gerne drøfte, hvordan vi kan få flere mennesker ud i løntilskudsjob på det private arbejdsmarked, hvor effekten
+er den bedste, for det viser tallene jo. Effekten er langt, langt bedre,
+hvis man kommer i job med løntilskud på det private arbejdsmarked.
+Der må man sige at de private virksomheder kan noget. De formår at
+involvere og byde den pågældende velkommen på en sådan måde, at
+det lykkes den pågældende at bide sig fast. Og det er jo rigtig godt.
+Jeg stiller bare spørgsmålet: Hvordan får vi nogle flere af den
+slags? Handler det om, at jobcentrene skal være mere aktive i forhold til at skabe de her kontakter? Det lytter jeg mig jo sådan set også til er nogle af de tanker, Socialdemokraterne har.";Hans Andersen
+86738;Time;;Kl. 16:48
+86774;title_name;":
+Bjarne Laustsen.";Anne Baastrup
+86802;Time;;Kl. 16:48
+86823;name_party;":
+Jamen altså, man er jo målløs! Her har vi arbejdsgivere i Danmark
+på det private arbejdsmarked, der laver en aftale med regeringen, der
+siger, at nogle af dem, der er udfaldstruede, vil de gerne tage frem i
+første række i køen og give et job. Og så viser det sig, at når folk
+kommer ud til en privat arbejdsgiver, er der faktisk rigtig gode chancer for, at de bliver ansat på ordinære vilkår. Effekten viser sig at
+være god. Hvordan kan det så være, at Venstre ikke kan støtte den
+anden del, når de kan støtte den del her? Jeg synes bare, at der simpelt hen mangler en kobling her.";Bjarne Laustsen
+87416;Time;;Kl. 16:49
+87452;title_name;":
+Ordføreren.";Anne Baastrup
+87475;Time;;Kl. 16:49
+87494;name_party;":
+For lige at tilhørerne til den her debat måske også kan forstå, hvad
+det er for spørgsmål, hr. Bjarne Laustsen stiller, så handler det om en
+tidligere debat, vi havde i dag, om akutjobordningen. Det her handler om, hvordan vi kan forbedre løntilskudsordningerne i Danmark.
+Jeg vil sådan set meget gerne drøfte med hr. Bjarne Laustsen, hvordan vi kan forbedre de her løntilskudsordninger.
+Der er noget, der tyder på, at jo flere vi formår at få ud i job med
+løntilskud i det private, jo bedre er det sådan set for de enkelte ledige. Jeg stiller bare stilfærdigt spørgsmålet, om jobcentrene kunne
+spille en større aktiv rolle her. Jeg tror sådan set også på, at virksomhederne gerne vil spille med.";Hans Andersen
+88202;Time;;Kl. 16:49
+88238;title_name;":
+Christian Juhl fra Enhedslisten.
+
+Tirsdag den 6. november 2012 (F 5)";Anne Baastrup
+88320;Time;;Kl. 16:50
+88341;name_party;":
+Jeg vil gerne høre, om ikke sådan noget som løntilskud, hvor man
+giver tilskud til virksomheder, er direkte imod en liberal tankegang.
+Altså, det er jo usundt for markedet, at man på den måde hælder offentlige penge ud i virksomheder og skævvrider konkurrencen.";Christian Juhl
+88614;Time;;Kl. 16:50
+88650;title_name;":
+Ordføreren.
+
+15
+
+har også – jeg tror, det var i dag, eller var det i går? – været ude at
+sige, at randzonerne også var en fejl. Det skal også rulles tilbage.
+Nu står vi så her og snakker om løntilskud, og både beskæftigelsesministeren og hr. Bent Bøgsted har været oppe at sige det, som
+forskningen viser, nemlig at de her, hvis vi sætter det lavt, 2,5 mia.
+kr., man bruger på løntilskud i det offentlige, i bedste fald ingen effekt har, i værste fald har en direkte negativ effekt på de lediges mulighed for at komme i beskæftigelse. Var det også en fejl, da Venstre
+indførte det?";Anne Baastrup
+89243;Time;;Kl. 16:53
+89254;Time;;Kl. 16:50
+89273;name_party;":
+Jeg tror, at når jeg indledte med at sige, at vi bruger 16 mia. kr. på
+vores beskæftigelsespolitik i Danmark, så var det jo ikke, fordi vi i
+dag lige pludselig i Venstre løber bort fra det og ikke vil tage ansvar
+for det. Vi er en del af alle de tiltag, der er lavet på arbejdsmarkedet
+igennem de sidste mange år. Det vil jeg gerne tage ansvar for, deriblandt også for ordninger om løntilskud.
+Jeg synes bare, at vi skal se på, om vi kan gøre dem bedre. Vi
+skal se på, om vi kan dæmme op for det misbrug, der måske er nogle
+steder. Det synes jeg vi skal gøre, fordi det sådan set handler om at
+få de ledige ud i helt almindelige job på den anden side af et løntilskudsjob.";Hans Andersen
+89957;Time;;Kl. 16:51
+89993;title_name;":
+Christian Juhl.";Anne Baastrup
+90046;title_name;":
+Ordføreren.";Anne Baastrup
+90069;Time;;Kl. 16:53
+90088;name_party;":
+Jeg mener ikke, at det er nogen fejl, at vi fører en aktiv beskæftigelsespolitik her i landet, hvor løntilskud er et af værktøjerne. Jeg vil
+bare sige, at når vi så kigger på tallene, er det jo klart, at vi skal arbejde med løntilskud der, hvor det har mest effekt – det har det på
+det private arbejdsmarked.
+Men der kommer jo også tal fra f.eks. Københavns Kommune,
+der viser, at løntilskud i Københavns Kommune faktisk har ført til,
+at nogle mennesker er kommet i beskæftigelse. Og det synes jeg jo
+ikke er spild af penge; det er sådan set en udmærket brug af de værktøjer, der er. Så jeg mener ikke – og jeg vil ikke stå her i dag og sige
+– at det her er en fejlslagen beskæftigelsespolitik. Jeg mener bare, at
+vi kan gøre det bedre, hvis vi drøfter tingene i fællesskab.";Hans Andersen
+90874;Time;;Kl. 16:54
+90885;Time;;Kl. 16:51
+90906;name_party;":
+Kan man sige, at det er en slags erhvervsstøtte, vi driver med de 16
+mia. kr., og at det er nødvendigt for erhvervslivet at få de penge? Eller hvordan skal man se på det, hvis der er tale om et omfattende
+misbrug af pengene?";Christian Juhl
+91142;Time;;Kl. 16:51
+91178;title_name;":
+Ordføreren.";Anne Baastrup
+91201;Time;;Kl. 16:51
+91220;name_party;":
+Jeg tror sådan set ikke, at jeg har nævnt, at der er nogle private virksomheder, der misbruger den her ordning. Det handler om, at der har
+været en diskussion om, at kommunerne tænker i løntilskudsjob,
+tænker i refusion på det her område og måske tænker uhensigtsmæssigt i forhold til de her ordninger. Det hjælper ikke de ledige, og jeg
+mener sådan set heller ikke, at kommunerne bør kritiseres for at misbruge ordningerne.
+Med hensyn til private virksomheder tror jeg sådan set, at virksomhederne også gerne vil påtage sig det ansvar at være en del af arbejdsmarkedet. Jeg lytter mig bare til, at de synes, at den måde, vi
+har indrettet løntilskudsordningerne på, godt kunne være mere fleksibel, end den er i dag. Det er sådan set det budskab, de kunne sende,
+og det sender jeg hermed også i dag.";Hans Andersen
+92030;Time;;Kl. 16:52
+92066;title_name;":
+Joachim B. Olsen fra Liberal Alliance.";Anne Baastrup
+92116;Time;;Kl. 16:52
+92139;name_party;":
+Efter valget har Venstre været fremme og givet udtryk for, at de har
+fortrudt en lang række af de ting, som de gennemførte i 00'erne. Det
+drejer sig bl.a. om fedtskatten, som man nu mener var en fejl. Man";Joachim B. Olsen
+92381;title_name;":
+Joachim B. Olsen.";Anne Baastrup
+92410;Time;;Kl. 16:54
+92433;name_party;":
+Jamen, altså, den dokumentation, vi har både fra Det Økonomiske
+Råd, fra Dansk Arbejdsgiverforening og andre, er ret utvetydig i sin
+kritik af offentlige løntilskud. Det er ikke en særlig god måde at bruge pengene på.
+Hr. Christian Juhl stillede jo faktisk et meget relevant spørgsmål,
+nemlig om det er liberal politik på den måde at give folk penge med,
+når de skal ud i et job. Det må vi kunne blive enige om det ikke er.
+Men når vi så oven i købet står på et ret solidt fundament, i forhold
+til at de der 2,5 mia. kr., som man bruger på offentlige løntilskud,
+ikke virker – de har måske endda en negativ effekt – kan vi så ikke i
+det mindste blive enige om, at det er en fejl at bruge penge på den
+måde. 2,5 mia. kr. er ikke et lille beløb.";Joachim B. Olsen
+93188;Time;;Kl. 16:55
+93224;title_name;":
+Ordføreren.";Anne Baastrup
+93247;Time;;Kl. 16:55
+93266;name_party;":
+2,5 mia. kr. er rigtig mange penge. Det er rigtig mange penge i forhold til 16 mia. kr., som vi bruger på den samlede aktive beskæftigelsespolitik. Jeg tror heller ikke, at spørgeren har hørt mig stå og sige, at det fungerer fantastisk med løntilskud i det offentlige. Vi har
+bare eksempler på, at der er ting, der sådan set fungerer, men den
+største effekt har vi på det private arbejdsmarked. Jeg så jo gerne, at
+vi kunne opnå den samme effekt på det offentlige arbejdsmarked, og
+så spørger jeg: Hvordan gør vi så det?
+Det er jo den debat, vi har i dag. Jeg lytter gerne til gode forslag
+om, hvordan vi forbedrer det her system. Og ja, der er løntilskud på
+det offentlige arbejdsmarked, som ingen mening har.
+
+16
+
+Tirsdag den 6. november 2012 (F 5)";Hans Andersen
+94030;Time;;Kl. 16:56
+94066;title_name;":
+Eigil Andersen, SF.";Anne Baastrup
+94097;Time;;Kl. 16:56
+94118;name_party;":
+Jeg er meget glad for, at Venstres ordfører erkender, at det nuværende system kan bruges til kassetænkning. Det skal jeg da lige love for
+at det bliver brugt til. Og i virkeligheden er det jo ordførerens partifæller, de tidligere beskæftigelsesministre Claus Hjort Frederiksen
+og Inger Støjberg, som har indført det her system, som indebærer, at
+hvis arbejdsløse er i løntilskudsjob, er der 50 pct. refusion af dagpengene, og hvis de ikke er, er der 30 pct. refusion. Efter min opfattelse er det jo derfor, at systemet blev indført.
+Det betyder så, da kommunerne kan tjene nogle penge på det og
+de er økonomisk klemt, at masser af arbejdsløse bliver sendt ud i
+løntilskudsjob, som er fuldstændig perspektivløse. Men jeg er glad
+for hr. Hans Andersens erkendelse af det her problem, og så vil jeg
+bare spørge: Skal det forstås på den måde, at Venstre som parti nu er
+indstillet på at tage et opgør med det her skøre system, som medfører, at arbejdsløse kommer ud i perspektivløse løntilskudsjob?";Eigil Andersen
+95124;Time;;Kl. 16:57
+95160;title_name;":
+Ordføreren.";Anne Baastrup
+95183;Time;;Kl. 16:57
+95202;name_party;":
+Vi kan hurtigt blive enige om, at ledige ikke skal ud i perspektivløse
+løntilskudsjob. Altså, jeg har sådan set en forventning om, at jobcentre og dermed også kommuner etablerer løntilskudsjob med mening.
+Den forventning har jeg sådan set, og jobcentrene rundtomkring i det
+her land gør det samlet set fornuftigt. Jeg vil gerne sige, at vi da skal
+sætte ind over for de kommuner, der misbruger de her ordninger. Jeg
+synes bare, at inden vi dømmer alle sammen ude, må vi bare erkende, at der altså også er ting, der fungerer, og så må vi jo have det på
+bordet og have stoppet det de steder, hvor der finder misbrug sted.";Hans Andersen
+95833;Time;;Kl. 16:58
+95869;title_name;":
+Eigil Andersen.";Anne Baastrup
+95896;Time;;Kl. 16:58
+95917;name_party;":
+I SF mener vi jo heller ikke, at løntilskudsordningen skal stoppes.
+Som det er fremgået også af Venstres ordførers indlæg, har den jo et
+fint formål i en del tilfælde inden for det private erhvervsliv, men inden for det offentlige kører det rigtig skævt og er spild af tid og penge for mange. Jeg må sige, at jeg ikke mener, det er tilstrækkeligt bare at sige til kommunerne, at man nu ikke må sende folk ud i perspektivløse løntilskudsjob. Hvorfor er det ikke tilstrækkeligt? Det er
+det ikke, fordi den tidligere borgerlige regering indførte det her kassetænkningssystem, som er en økonomisk mekanisme, som ligger
+bag ved det hele og i virkeligheden bliver yderst styrende for, hvad
+der foregår med hensyn til løntilskudsjob.
+Så min konklusion på det her er: Jeg er glad for, at Venstre kan
+se, at der er et negativt element af kassetænkning i det system, som
+Venstre selv har arrangeret, men jeg er ked af, at Venstre ikke vil
+være med til at tage skridtet fuldt ud og så sige, at vi også bliver nødt
+til at se på at få lavet de refusionsprocenter, som der er nu, om.";Eigil Andersen
+96998;Time;;Kl. 16:59
+97034;title_name;":
+Ordføreren.";Anne Baastrup
+97058;Time;;Kl. 16:59
+97077;name_party;":
+Jeg synes måske, hr. Eigil Andersen går lige lovlig hurtigt frem. Vi
+er enige om et forslag til vedtagelse i dag, og der er et analysearbejde i gang, og vi vil gerne se på, hvordan man forbedrer de her ordninger. Det vil vi sådan set gerne se på helt åbent, for vi skal da ikke
+bare hælde milliarder ned i offentlige løntilskudsjob, hvis de ingen
+mening har. Altså, de skal jo have effekt først og fremmest for at
+hjælpe den ledige ud på arbejdsmarkedet. Og det næste er, at vi skal
+bruge pengene rigtig fornuftigt, så det er sådan set mit svar.";Hans Andersen
+97634;Time;;Kl. 17:00
+97670;title_name;":
+Så er der ikke flere, der har bedt om korte bemærkninger. Så er det
+hr. Bjarne Laustsen som ordfører.";Anne Baastrup
+97783;Time;(Ordfører);Kl. 17:00
+97815;name_party;":
+Ja, modsat Venstre står Socialdemokratiet ved de aftaler, vi laver, og
+»Flere i arbejde« har vi lavet sammen. Derfor kan man også sige, at
+det er lidt underligt, at vi har en diskussion om et virkemiddel, som
+Venstre var med til at sætte i søen, da de havde regeringsmagten,
+men som der nu bagefter, fordi Dansk Folkeparti rejser spørgsmålet,
+er alt muligt galt med. Og man kan jo spørge: Hvorfor gjorde Venstre så ikke noget ved det, da de havde magten til det?
+Det er da mærkeligt, at den her løntilskudsordning har kørt i
+mange, mange år, og lige pludselig, fordi der var valg sidste år, siger
+Venstres ordfører, at der er alt muligt galt med den. Hvad er det for
+nogle spørgsmål, som Venstre har rejst sidenhen, både i finanslovforhandlingerne sidste år og her i år? Hvis det er sådan – det ved jeg
+efter mange års erfaring herinde – at man har et problem med noget
+og har lavet et forlig på området tidligere, så indkalder man da forligskredsen og spørger, om ikke det er muligt at blive enige om at
+ændre på det. Og det er der jo ingen der har gjort.
+Men jeg har respekt for, at sagen er blevet rejst, og jeg synes også, det er fint, at hele Folketinget kan være enige om et forslag til
+vedtagelse, for vi har jo behov for at have nogle værktøjer i forhold
+til arbejdsløse, som af en eller anden grund har mistet deres arbejde.
+De skal tilbage i arbejde igen. Vi er også i den situation, at vi igennem tiderne har mistet brancher, som er flaget helt fuldstændig ud,
+og andre har vi ikke behov for mere. Og vi har behov for, at nogle,
+som ikke har trukket ret meget på uddannelseskontoen, får mulighed
+for at få opkvalificering. Nogle gange drejer den her kobling sig jo
+om, hvordan og hvorledes man finder en arbejdsgiver. Det er jo det,
+der sker rigtig mange gange i løbet af et år, nemlig at en ledig og en
+arbejdsgiver, der står og mangler arbejdskraft, finder hinanden. Men
+kvalifikationerne er måske ikke lige til stede, og derfor er det jo fornuftigt, hvis man kombinerer løntilskudsjob med opkvalificering,
+uddannelse osv., så arbejdsgiveren får den rigtige medarbejder. Det
+er jo derfor, at jobrotation og en lang række forskellige andre værktøjer også virker ganske udmærket, hvis de er udtænkt ordentligt.
+Derfor vil jeg til dem, der måske synes, at det her værktøj ikke
+skal være der mere, sige, at så får man simpelt hen et problem på vores jobcentre, i forhold til at man ikke har den her reguleringsmekanisme. For vi kan jo også se på tallene, at når der er højkonjunktur
+og god beskæftigelse, er der ikke så mange løntilskudsjob, men når
+ledigheden stiger, er der selvfølgelig flere, der skal placeres. Sådan
+er det.
+Derfor kan vi jo se på, om der er forskel på effekten, når det
+drejer sig om det private og det offentlige, og om der også er noget i
+økonomien begge steder; det var hr. Eigil Andersen også inde på at
+vi skal kigge på.
+
+Tirsdag den 6. november 2012 (F 5)
+
+Det værste af det hele er jo, når folk oplever, at der er et misbrug.
+Jeg tror ikke, at der findes ret mange i dette Folketing, der ikke har
+modtaget noget derhjemmefra, fra deres valgkreds eller fra en fagforening, om, at der er nogle, der udnytter, at de er gået hen og blevet arbejdsløs. Og det værste er jo, når folk bliver sendt i løntilskudsjob i deres eget job, som de lige var blevet fyret fra, eller at man
+siger kæderygning af langtidsledige og en lang række andre forfærdelige udtryk, som man bruger om de ledige. Det kan vi selvfølgelig
+ikke holde til, og derfor synes jeg, at den form for misbrug, der
+eventuelt måtte være i systemet, skal vi blive enige om – i forhold til
+det, som regeringen allerede har givet tilsagn om – at prøve at kigge
+på sammen med Enhedslisten. Men jeg synes da, det er fint, at borgerlige partier også rykker og siger: Lad os da kigge på det her og
+se, om vi ikke kan indrette det på en anderledes måde i fremtiden.
+Jeg tror stadig væk bare, vi har brug for, at kompetencerne hos
+folk, der har været uden for arbejdsmarkedet i en tid, ikke ruster, altså at de folk kommer ind på arbejdsmarkedet igen, kombineret med
+opkvalificering, som jeg var inde på tidligere, og kan man lave det,
+kan det også godt være, at det i større grad kan udvikle sig til, at folk
+kan få ordinært arbejde.
+Vi har desværre også set, at der er arbejdsgivere, der simpelt hen
+har søgt – sådan var det før i tiden – efter folk, der kunne have løntilskud med. Det er jo dybt forkasteligt, at nogen kan finde på det, og
+derfor skal vi selvfølgelig også sætte ind på det felt, hvis man oplever, at der er et misbrug.
+En af de bedste måder til at undgå misbrug af sådan nogle forskellige ordninger på er, at de allerede ansatte medarbejdere på virksomhederne igennem eksempelvis tillidsmandssystemet godkender,
+om der skal folk ind på særlige vilkår. Vi kan jo ikke have en politimand eller et andet tilsyn, der kontrollerer hver enkelt arbejdsgiver i
+dette land, men de, der allerede er der, ved, hvad der foregår. Og
+skal folk ind på særlige vilkår, er det fornuftigt, at vi bruger tillidsmandssystemet til at garantere, at det, der foregår, er ekstra arbejdskraft, og at det fungerer efter hensigten.
+Der har også før i tiden været det spørgsmål fremme, om det,
+hvis man stiller sin arbejdskraft til rådighed og får et pænt supplement fra det offentlige dertil, så var urimeligt at sige, at så skal der
+efterfølgende ske en ordinær ansættelse i X antal måneder. Det var
+også en ting, man kunne diskutere.
+I Socialdemokratiet er vi åbne over for at diskutere det her og
+støtter selvfølgelig det forslag til vedtagelse, der er fremsat.";Bjarne Laustsen
+103369;Time;;Kl. 17:05
+103405;title_name;":
+Der er en enkelt kort bemærkning. Hr. Bent Bøgsted.";Anne Baastrup
+103468;Time;;Kl. 17:05
+103487;name_party;":
+Det var egentlig ikke meningen, jeg ville stille et spørgsmål, men jeg
+gør det alligevel. Det er, fordi hr. Bjarne Laustsen talte om det her
+med at afskaffe løntilskud. Det er der jo selvfølgelig ikke nogen der
+har lagt op til, men i forbindelse med det offentliges brug af løntilskudsledige vil jeg lige spørge hr. Bjarne Laustsen, om det ikke er
+korrekt, at hvis man kigger på det kommunale område, kan det være,
+at man siger, at det virker, som om det er sådan en maskine, hvor
+man bare kører dem igennem, men der kan være andre områder,
+hvor der kan være behov for løntilskud, som egentlig ikke skal give
+et job bagefter. Et eksempel er en ung mand, der gerne vil være børnehavepædagog, han har været murer, men vil skifte, og så får han et
+job med løntilskud for at få noget erfaring, før han begynder på uddannelsen. Det har noget perspektiv, fordi han har et videre forløb,
+og der kan det jo være godt. Det er sådan noget, vi gerne vil bevare,
+altså at det kan føre til noget.
+
+17";Bent Bøgsted
+104487;Time;;Kl. 17:06
+104523;title_name;":
+Ordføreren.";Anne Baastrup
+104546;Time;;Kl. 17:06
+104567;name_party;":
+Det var lige nøjagtig det eksempel, jeg prøvede at give, altså at det
+sættes det ind i en kontekst, hvor man har en arbejdsløs, der gerne
+vil ud og prøve noget nyt. Det firma, som vedkommende har arbejdet i, eksisterer måske ikke mere, og i den branche, man var i, er der
+arbejdsløshed, så langt som øjet rækker. Man er villig til at prøve noget nyt, men man har ikke kvalifikationerne til det. Der skal de tanker, som både hr. Bent Bøgsted og jeg har prøvet at udtrykke, da
+tænkes ind. Lad os da prøve at kigge på det, for det er da fornuftigt,
+og så er det måske også i et længerevarende forløb. Derfor tror jeg
+også, at en kombination af både løntilskud og uddannelsesinstrumentet godt kan virke hensigtsmæssigt også med henblik på at få en
+bedre effekt af den offentlige løntilskudssituation.";Bjarne Laustsen
+105375;Time;;Kl. 17:07
+105411;title_name;":
+Bent Bøgsted? Nej. Så der er ikke flere korte bemærkninger. Hr. Eigil Andersen, SF, som ordfører.";Anne Baastrup
+105520;Time;(Ordfører);Kl. 17:07
+105552;name_party;":
+Min vurdering er, at 80 pct. af løntilskudsjobbene i det offentlige desværre er ren opbevaring, uden at der er et jobperspektiv. Og det er
+spild af tid og penge både for den arbejdsløse og for samfundet, og
+derfor er der virkelig brug for, at vi får gjort noget ved det her. Man
+kan så spørge sig selv, om det skyldes, at lovreglerne er dårlige. Nej,
+det mener jeg ikke at det gør. Lovreglerne er gode nok. Der er nemlig to situationer, hvor man har lov til at komme i løntilskudsjob.
+Den ene situation er, at man har brug for at snuse til et nyt arbejdsområde, som man ikke tidligere har arbejdet inden for, men
+som måske kunne give en fremtidig jobmulighed. Og det er jo et fint
+formål. Den anden situation, hvor man må komme i løntilskudsjob,
+er, hvis man f.eks. har gået arbejdsløs så længe, at man har brug for
+at få genopfrisket sine faglige eller sociale kvalifikationer. Jeg forestiller mig, at det f.eks. kunne være efter 2 års arbejdsløshed eller
+hen imod 2 års arbejdsløshed. Det synes jeg også er et rigtig godt
+formål, og efter min mening og SF's mening er der ikke behov for at
+lave de regler om.
+Det, der er problemet, er, at reglerne ikke bliver overholdt. Det
+betyder så, at man i praksis i masser af tilfælde ikke foretager den
+konkrete individuelle vurdering af, hvad der gavner den enkelte arbejdsløse, for at vedkommende kan have en større chance for at få et
+arbejde igen. Og hvorfor er det så, at man ikke foretager den individuelle vurdering, som der burde være tale om, og hvorfor er det så,
+at man ikke overholder de to lovregler, der er, for, hvornår folk kan
+få lov til at få et løntilskudsjob?
+Ja, forklaringen er altså det her kassetænkningssystem, som jeg
+også var inde på tidligere, som den tidligere borgerlige regering har
+indført. Det skyldes, at kommunerne får 50 pct. refusion af dagpengene, hvis man kommer i et løntilskudsjob ligesom med virksomhedspraktik, og ellers får kommunen kun 30 pct. refunderet. Det betyder, at når kommunerne så er klemt økonomisk, og det er de jo,
+kan man godt sætte sig ind i, at en kommune vil tænke en hel del på
+og instruere sine medarbejdere i at sørge for, at der kommer nogle
+penge ind i kassen. Men det betyder, at det altså er nogle kommunaløkonomiske årsager ud fra det kassetænkningssystem, som man fra
+borgerlig side har arrangeret, som så betyder, at masser af arbejdsløse havner i de her perspektivløse løntilskudsjob. Derfor er der stort
+
+18
+
+Tirsdag den 6. november 2012 (F 5)
+
+behov for, at vi får kigget både på løntilskudsjobbenes funktionsmåde og på de her refusionssystemer.
+Så er der en anden problematik, som hedder: Er der fastansatte,
+som mister deres arbejde, eller som bliver fortrængt af arbejdsløse,
+der ansættes i løntilskudsjob? Der venter vi også på den her kulegravning, som allerede er blevet omtalt. Men der er indbygget en
+stor vanskelighed i systemet allerede i dag, og det kan man sige på
+forhånd. Den består i, at hvis man er en kommune, der vedtager et
+budget i oktober, hvor man skærer ned og nedlægger stillinger og fyrer folk, og det træder i kraft fra nytår, må kommunen godt allerede
+fra nytår ansætte folk i løntilskudsjob inden for det samme område.
+Hvorfor må kommunen det? Det må den, fordi man siger, at så har
+kommunen fået en ny normalbemanding, og det er den, som står i
+budgettet, og den gælder fra nytår. Og det vil sige, at løntilskudspersonerne så er merbeskæftigelse.
+Men det er jo soleklart for alle almindelige mennesker, herunder
+også for mig, at det selvfølgelig er en total urimelighed, at man nedlægger stillinger pr. 1. januar, og at man så må ansætte folk i løntilskud i samme ombæring. Der er det, at det ville være en god idé,
+som den socialdemokratiske ordfører også var inde på, at den lokale
+tillidsrepræsentant eller fagforening kunne nedlægge et veto imod, at
+der så kom nogen i løntilskudsjob, for jeg betragter det som et misbrug. Så det er den retning, SF arbejder i.
+Jeg vil også understrege, at jeg her har skitseret nogle SF-holdninger; jeg har ikke skitseret, hvad regeringen mener om det her
+spørgsmål, for der er tre partier i regeringen, og det vil så blive fastlagt på et senere tidspunkt, hvad regeringens holdning til de her emner bliver.
+Men jeg vil slutte af med sige, at SF støtter forslaget til vedtagelse, og jeg skulle hilse og sige fra den radikale ordfører, som desværre ikke kunne være til stede, at De Radikale også støtter forslaget til
+vedtagelse.";Eigil Andersen
+109977;Time;;Kl. 17:12
+110013;title_name;":
+Hr. Joachim B. Olsen for en kort bemærkning.";Anne Baastrup
+110069;Time;;Kl. 17:12
+110092;name_party;":
+Ordføreren problematiserer, at der er nogle incitamentsstrukturer i
+den måde, man har lavet refusionssystemet på, der gør, at kommunerne kan lave kassetænkning, altså at kommunerne har nogle økonomiske incitamenter til at handle på en bestemt måde. Det mener
+jeg at ordføreren har ret i.
+Men det, som jeg gerne vil ind på her, er, at ordføreren altså her
+anerkender, at økonomiske incitamenter virker. De virker ude i en
+kommune. Men vil ordføreren så også anerkende, at økonomiske incitamenter virker for helt almindelige mennesker, således at hvis det
+ikke kan betale sig at tage et arbejde, så gør folk det heller ikke? Det
+er den samme slags kassetænkning.";Joachim B. Olsen
+110764;Time;;Kl. 17:13
+110800;title_name;":
+Ordføreren.
+
+ge undersøgelser, at det først og fremmest skyldes, at de har nogle
+kollegaer.
+Nu tror jeg så nok, at hvis man dykker dybere ned i det, skyldes
+det også, at de får pengene, men det tager de som en naturlig ting.
+Men jeg vil sige, at økonomiske incitamenter da kan virke på andre
+områder, altså f.eks. med forskellige former for afgifter på varer og
+sådan noget. Der tror jeg at det kan påvirke det forbrug, som folk
+har.";Anne Baastrup
+111245;Time;;Kl. 17:14
+111281;title_name;":
+Joachim B. Olsen.";Anne Baastrup
+111310;Time;;Kl. 17:14
+111333;name_party;":
+Jeg forstår ordføreren sådan, at han erkender, at når det kommer til
+kommunen, så tænker de i økonomiske incitamenter osv., men når vi
+så kommer til mennesker i forhold til, om man har lyst til at tage et
+arbejde osv., og om man sådan forholder sig til de økonomiske incitamenter i forhold til, om det kan betale sig at tage et stykke arbejde,
+så bliver det sådan lidt mere tvivlsomt. Selvfølgelig er der mange
+ting, der spiller ind, når folk gerne have et arbejde. Jeg anerkender
+fuldstændig, at kollegaer osv. er en meget vigtig del. Men kan jeg ikke bare få sådan et helt grundlæggende svar på, når ordføreren anerkender, at økonomiske incitamenter spiller en rolle ude i kommunerne, i forhold til de valg de foretager, så spiller økonomiske incitamenter nok også en rolle for mennesker generelt, i forhold til hvilke
+valg de foretager, herunder om man har lyst til at være i et arbejde, i
+forhold til hvor meget man får ud af at være på det arbejde.";Joachim B. Olsen
+112298;Time;;Kl. 17:15
+112334;title_name;":
+Ordføreren.";Anne Baastrup
+112357;Time;;Kl. 17:15
+112378;name_party;":
+Det kan sammen med en række andre faktorer spille en rolle, men
+situationerne kan ikke helt sammenlignes, fordi når der sidder en
+kommunal medarbejder, som er instrueret af byrådet i, at der skal
+skaffes penge til kommunekassen, er der jo ikke de andre aspekter,
+som der er, hvis det drejer sig om et job. Det spiller da en rolle sammen med andre faktorer, som jeg var inde på i mit første svar, at man
+tjener nogle penge ved det. Jeg kan fortælle Liberal Alliances ordfører, at der også er en hel del mennesker, som ikke tjener så mange
+penge ved at gå på arbejde, men for hvem det spiller en stor rolle, at
+de har en funktion i samfundet, at de udfylder en rolle, at de har kolleger, de kan snakke med, og har et socialt fællesskab og mange andre ting. Så derfor kan man ikke ensidigt fokusere på det økonomiske argument, selv om det også indgår.";Eigil Andersen
+113238;Time;;Kl. 17:16
+113274;title_name;":
+Tak. Der er ikke flere korte bemærkninger. Hr. Christian Juhl, Enhedslisten, som ordfører.";Anne Baastrup
+113377;Time;;Kl. 17:13
+113388;Time;;Kl. 17:16
+113409;name_party;":
+Det er det jo ikke nødvendigvis, vil jeg sige. Nu synes jeg er helt
+grundlæggende, at det er godt, at det kan betale sig at arbejde. Det
+skal der ikke være nogen tvivl om, altså også økonomisk, men der er
+også mange andre aspekter ved at have job, eksempelvis at man har
+nogle kollegaer, som man kan snakke med, at man føler, man har en
+funktion i samfundet, at man har en god struktur i sin hverdag. Der
+er mange aspekter i det at arbejde, og hvis man spørger folk om,
+hvad den vigtigste grund er til, at de arbejder, så svarer de i forskelli-
+
+(Ordfører)";Eigil Andersen
+113987;name_party;":
+En del af løntilskuddene fungerer som direkte erhvervsstøtte. Det
+kan man jo lige så godt sige og kalde det, hvad det er, og lade være
+med at have sådan en indirekte tilgang til det. Det var måske bedre,
+at en del af den støtte blev givet til uddannelse i stedet for eller til
+direkte oprettelse af offentlige stillinger.
+Jeg mødte for ikke så lang tid siden en ledig, der havde fået sig et
+job. Han var rigtig glad. Han sagde, at han havde været ude hos en
+
+Tirsdag den 6. november 2012 (F 5)
+
+mester, som havde sagt, at han kunne bruge ham. Så skulle han ned
+til jobcenteret og afmelde sig, og inden han startede hos mesteren
+igen, sagde mesteren:
+Jeg har fået en henvendelse fra jobcenteret, og de vil tilbyde mig
+et løntilskud for at tage dig. Det havde jeg nu ikke tænkt på, men det
+ville da være dumt at sige nej til de penge. Så det starter vi lige med.
+Manden blev lidt ærgerlig, for det er jo skattepenge, der går til
+den slags ting. Men han blev også ærgerlig, for hvis han skulle tænke på, at han skulle genoptjene sin dagpengeret i fagforeningen eller
+a-kassen, så ville der gå lidt længere tid, for de løntilskudsjob tæller
+jo ikke som timer. Så mester fik nogle penge ud af at tage ham, og
+han var ellers god nok til at kunne klare det uden løntilskud. Så det
+er sådan set misbrug af ordningen, fordi jobcentrene ikke gør deres
+arbejde kritisk nok.
+Forleden så jeg også en annonce, hvor PrivatHospitalet Danmark
+søgte en operationssygeplejerske. Der stod, at operationssygeplejersken selvfølgelig skulle være uddannet og mindst have 3 års klinisk
+erfaring inden for forskellige områder, som de her sygeplejersker arbejder med. Så skulle hun selvfølgelig være engageret og alle de der
+ting, som man skal være nu til dags. Og så stod der allersidst i annoncen: Løn og ansættelse starter med 3 måneders løntilskud. Det er
+jo utroligt. Gad vide, hvad de 3 måneder skal bruges til, og gad vide,
+om hun ikke indgår i normeringen fra start.
+I går aftes var jeg i 3F i Randers. Der mødte jeg en gruppeformand for transport. Han havde været ude hos et firma, der hedder
+HIT Danmark, et transportfirma. De havde noget bøvl med, at de ikke måtte få valgt en tillidsrepræsentant, og så havde han sådan tilfældigt spurgt: Hvordan går det ellers ude hos jer? Jo, det går fint, svarede de. Er der nogle af jer, der er i løntilskudsjob? spurgte han. Ja,
+vi er seks derude, og vi er alle sammen i løntilskudsjob, sagde den
+her mand så. Selv lederen derude skulle være ansat med løntilskud.
+Det er jo direkte i strid med reglerne. Så mange med løntilskud må
+der jo ikke være i en virksomhed. Så hvis hr. Hans Andersen tror, at
+der ikke foregår privat snyd med løntilskudsjob, så kan han godt tro
+om igen. Der er faktisk rigtig, rigtig meget snyd på det her område,
+også på det private.
+Så er der alt det, der er nævnt med kommuner, der fyrer og ansætter folk med løntilskud. De går ind i normeringerne, de fastholdes
+i de der løntilskudsjob, og det virker indirekte som tilskud til kommunerne. Der synes jeg, vi hellere skulle give tilskuddet som et
+bloktilskud; så kunne de ansætte dem ordinært.
+Det er ulovligt, hvis løntilskudsjob fortrænger ordinære job, og
+derfor er det selvfølgelig vigtigt, at vi får den her undersøgelse. FOA
+har lavet en undersøgelse om det her spørgsmål, også for meget nylig, parallelt med den, som beskæftigelsesministeren har sat i gang,
+og de siger, at for 55 pct. af FOA's medlemmer er tillidsrepræsentanten ikke inddraget. Det er i strid med den regel, der er, om, at tillidsrepræsentanten skal inddrages. 55 pct.: Hver anden gang bliver folk
+ansat, uden at tillidsrepræsentanten bliver inddraget. 55 pct. laver ordinært arbejde; det vil sige, at de fungerer som billige vikarer og er
+en del af normeringen. Det er noget skidt, og det underminerer det
+her system. Jeg mener, vi kan spare en del penge på det, og dem kan
+vi bruge til ordinære stillinger i stedet for.
+Men hvor mange er det så, der får løntilskud? Falder eller stiger
+det? Der tror jeg, hr. Bjarne Laustsen har ret: I krisetider stiger det.
+Jeg så opgørelsen forleden, og i andet kvartal 2012 var der 14.810 på
+dagpenge i løntilskudsjob – 14.810. For dagpengemodtagerne var
+det samme tal 5.104 i 2008. Det er næsten en tredobling. For kontanthjælpsmodtagere var der i andet kvartal i år 5.448 i løntilskudsjob. Det var i 2008 1.951. Der er godt nok tale om en stigning på
+det her område, og jeg er rigtig, rigtig glad for, at vi fik sat den undersøgelse i gang. Nu kender vi i hvert fald en del af svarene, og
+hvis man går bare en smule ud i virkeligheden, så ved man, at det
+her er et alvorligt problem. Det, der nu er vigtigt bagefter, er at prøve
+
+19
+
+at se, om ikke vi kunne tilnærme os en tilstand, hvor løntilskuddene
+kun bruges, hvor der reelt er behov for en opkvalificering eller en
+uddannelse, sådan at man ikke misbruger ordningen.";Christian Juhl
+118836;Time;;Kl. 17:22
+118872;title_name;":
+Hr. Joachim B. Olsen fra Liberal Alliance som ordfører.";Anne Baastrup
+118939;Time;(Ordfører);Kl. 17:22
+118973;name_party;":
+Vi synes i Liberal Alliance, at det er fint, at der kommer en debat om
+løntilskud. Det er godt, at det er blevet belyst af vismændene og DA
+og andre, at løntilskud i det offentlige har en ringe effekt – i bedste
+fald har de ingen effekt, i værste fald er de direkte skadelige for de
+ledige, som kommer i løntilskudsjob, idet det ikke fører til ordinær
+beskæftigelse, men fører til, at de er ledige i længere tid og dermed
+mister kompetencer og anciennitet på arbejdsmarkedet og dermed
+får en lavere livsindkomst. Det er der jo ikke nogen der kan være
+tjent med, så det må være spild af penge.
+I det hele taget er løntilskud sådan en lappeløsning, fordi vi har et
+arbejdsmarked, som på trods af hvad mange siger ikke er særlig
+rummeligt, for det er jo et udtryk for, at arbejdsgivere ikke vil ansætte nogle af de svageste på arbejdsmarkedet, fordi de skal have en alt
+for høj løn. Den løn er de ikke værd, og derfor bliver de ikke ansat.
+Så går man så ind fra statens side og giver arbejdsgiverne nogle penge for at ansætte de her mennesker.
+I stedet for burde fagforeninger og os politikere jo gå den anden
+vej og se på, hvordan vi skaber et mere rummeligt arbejdsmarked,
+hvor dem med de mindste kompetencer rent faktisk kan komme ind.
+Vi kunne gøre det herinde ved at se på overførselsindkomsterne,
+som ifølge Velfærdskommissionen presser mindstelønningerne op.
+Det kan godt være, at de – hvad skal man sige? – skaber mere lighed; til gengæld gør de beskæftigelsesmulighederne dårligere, idet
+de presser mindstelønningerne op og dermed de svageste ud af arbejdsmarkedet.
+Det en af grundene til, at vi i Danmark er notorisk dårlige til at
+integrere indvandrere på arbejdsmarkedet, og til, at beskæftigelsesfrekvensen blandt indvandrere er utrolig lav, fordi de simpelt hen ikke kan få fodfæste på det danske arbejdsmarked. Dermed bliver de
+fastholdt på overførselsindkomster med alt, hvad det medfører af sociale problemer og yderligere omkostninger for samfundet.
+Så i stedet for at tænke i løntilskud burde vi tænke på, hvordan vi
+skaber et mere rummeligt arbejdsmarked, hvor flere kan komme ind,
+og hvor flere kan sælge deres arbejdskraft, for vi ved, at den sociale
+mobilitet på det danske arbejdsmarked er utrolig høj, hvilket bevirker, at når folk først kommer ind og får fodfæste på arbejdsmarkedet, stiger de forholdsvis hurtigt i løn, og det er jo glædeligt. Så det
+burde vi måske i højere grad fokusere på.
+Nogle af de penge, som man bruger på løntilskud, kunne man i
+stedet bruge på at sænke skatter og afgifter. Man bruger 3,3 mia. kr.
+– tror jeg – på offentlige løntilskud; for de penge kunne man jo fjerne fedt- og sukkerafgifterne, det ville skabe nogle reelle job. Man
+kunne sænke selskabsskatten, det ville skabe nogle job, og det ville
+yderligere medføre, at reallønnen for de ansatte på virksomhederne
+ville stige, fordi investeringerne i produktionsapparatet ville stige.
+Det ville øge produktiviteten og dermed lønningerne. Så i det hele
+taget er det en dårlig måde at bruge penge på.
+Men som sagt synes vi, det er godt, at vi får en debat om det, og
+vi har også et forslag til vedtagelse, som jeg gerne vil læse op og
+fremsætte på vegne af Liberal Alliance:
+Forslag til vedtagelse
+
+20
+
+Tirsdag den 6. november 2012 (F 5)
+
+»Subsidieret beskæftigelse bør i videst muligt omfang begrænses, da
+det er unødvendig indblanding i arbejdsmarkedet.
+Folketinget anerkender de økonomiske vismænds konklusion om,
+at der ingen effekt er af løntilskudsforløb, hvor den ledige ansættes
+på en offentlig arbejdsplads.
+Folketinget konstaterer, at offentlige løntilskudsjob i den offentlige sektor ikke fører til reelle job. Løntilskud fortrænger ligefrem ordinære job.
+Det er vigtigt at skabe gode rammevilkår i den private sektor, så
+der skabes reelle arbejdspladser.
+Folketinget pålægger derfor regeringen at afskaffe løntilskudsordninger for i stedet at bruge pengene på reelle vækst- og jobskabende initiativer som f.eks. skattelettelser.«
+(Forslag til vedtagelse nr. V 4).";Joachim B. Olsen
+122966;Time;;Kl. 17:27
+123002;title_name;":
+Forslaget vil indgå i de videre forhandlinger.
+Hr. Christian Juhl for en kort bemærkning.";Anne Baastrup
+123103;Time;;Kl. 17:27
+123124;name_party;":
+Tak. Der er en hel del af den liberale teori, jeg ikke helt kan forstå.
+Jeg har ellers prøvet i mange år. Hr. Joachim B. Olsen talte om, at vi
+skulle sørge for, at dem, der havde svært ved at komme ind på arbejdsmarkedet, skulle have lettere ved at komme ind, men er det ikke sådan, at det frie marked regulerer sig selv, og det vil sige, at
+salgsprisen på arbejdskraften, altså lønnen, også regulerer sig selv
+efter værdien af det produkt, der altså er arbejdskraft? Er det sådan,
+at der er noget, der ødelægger det frie marked? Der er jo fri forhandlingsret, og arbejdsgiverne har fri ret til at ansætte og fyre. Hvor er
+det, at det hellige, frie arbejdsmarked ikke fungerer?";Christian Juhl
+123813;Time;;Kl. 17:28
+123849;title_name;":
+Ordføreren.";Anne Baastrup
+123872;Time;;Kl. 17:28
+123895;name_party;":
+Jamen helt overordnet fungerer det jo ikke i det øjeblik, at politikerne går ind og siger, at er du uden for arbejdsmarkedet, skal du have
+en ydelse fra det offentlige, fordi den ydelse – det er jo ikke, fordi
+jeg siger, at man ikke skal have den, jeg siger bare, at når vi laver
+politik, så bør vi indrette det sådan, at det har mindst mulige skadelige effekter – presser mindstelønnen op. Det gør den jo, fordi der ikke er nogen arbejdsgiver, der sætter mindstelønningen lavere end
+overførselsindkomsten, fordi der jo ikke er nogen arbejdstager, der
+vil tage et job til en mindre løn end det, man kan få, når man er på
+overførselsindkomst.
+Derfor sker der det, at mindstelønnen stiger. Det betyder, at de,
+der ikke kan sælge deres arbejdskraft til den mindsteløn, er uden for
+arbejdsmarkedet – de kan ikke komme ind – fordi det, som hr. Christian Juhl siger, er styret af udbud og efterspørgsel. Derfor er man så
+nødt til at indføre sådan nogle ordninger som løntilskud og andet, for
+at det kan betale sig for arbejdsgiverne at ansætte nogle.";Joachim B. Olsen
+124951;Time;;Kl. 17:29
+124987;title_name;":
+Hr. Christian Juhl.
+
+både modstander af det og tilhænger af det, hvordan pokker skal det
+så gå? Så duer det frie arbejdsmarked altså ikke alligevel, når det
+kommer til stykket, så skal man regulere lidt på det på en eller anden
+måde for at være lidt human, eller hvad? Jeg forstår det ikke.
+Så er der det med, at hr. Joachim B. Olsen siger, at hvis man sænker selskabsskatten, så vil lønnen stige. Har hr. Joachim B. Olsen
+nogen sinde mødt en arbejdsgiver, der gav mere i løn, fordi han fik
+en lavere skat? Jeg har ikke endnu mødt en, og jeg har da trods alt
+tumlet rundt på arbejdsmarkedet i snart 30 år.";Anne Baastrup
+125604;Time;;Kl. 17:30
+125640;title_name;":
+Ordføreren.";Anne Baastrup
+125663;Time;;Kl. 17:30
+125686;name_party;":
+Jeg vil godt rette noget. Nu spurgte ordføreren overordnet om, hvorfor arbejdsmarkedet ikke fungerer helt. Jeg sagde ikke noget om, at
+man skulle fjerne overførselsindkomsterne, jeg sagde, at man bør se
+på det i en reform og få sat dem på et niveau, hvor de mest skadelige
+virkninger af dem bliver mindre. Jeg ved, at regeringen taler om en
+kontanthjælpsreform, og at den sigter på nogle af de her ting, men
+man kan jo bare se på Sverige. Man kunne sætte niveauet for overførselsindkomster, som det er i lande, som vi ellers sammenligner os
+med. Vi har de højeste overførselsindkomster i verden, og det er jo
+ikke noget, jeg står og finder på, når jeg siger, at overførselsindkomster har en indirekte effekt på de mindstelønninger, der er i et land,
+for det står i Velfærdskommissionen.
+Det er heller ikke noget, jeg står og finder på, når jeg siger, at
+mindstelønninger selvfølgelig har en betydning for, hvor mange der
+kan komme ind på arbejdsmarkedet. Det er klart, at dem med de laveste kompetencer ikke kan komme ind på arbejdsmarkedet, hvis de
+ikke kan sælge deres arbejdskraft til mindstelønnen.
+Omkring selskabsskatten vil jeg sige, at det jo er sådan, at en lavere selskabsskat betyder, at en virksomhed kan investere i et nyt
+produktionsapparat, og det betyder, at arbejdskraften på virksomheden bliver mere værd, og det medfører en højere realløn for de ansatte. Alternativt kan man bruge den til at ansætte flere mennesker, eller man kan sænke prisen på de varer, man sælger.";Joachim B. Olsen
+127185;Time;;Kl. 17:31
+127221;title_name;":
+Jeg tror, vi går videre til den næste spørger. Hr. Eigil Andersen.";Anne Baastrup
+127299;Time;;Kl. 17:31
+127320;name_party;":
+Tak. Liberal Alliance er jo et liberalistisk parti i ekstrem grad, og det
+indebærer bl.a., at man hylder arbejdsgiverne og deres magt og ønsker, at de skal have endnu mere magt, end de har, og lønmodtagerne på gulvet og dem, der er uden for arbejdspladserne, er man så ligeglad med. Et mantra i den her forbindelse er så, at Liberal Alliance
+mener, at lønningerne er for høje, og at de skal sænkes for at skabe
+et rummeligt arbejdsmarked. Jeg vil gerne stille Liberal Alliance og
+hr. Joachim B. Olsen et spørgsmål: Hvor langt skal lønningerne ned,
+før vi har nået det mål, Liberal Alliance har sat sig? Skal lønningerne ned på 40 kr. i timen, som man har i f.eks. rengørings- og restaurationsbranchen i USA, og som betyder, at folk ikke kan leve af det,
+de tjener?";Eigil Andersen
+128096;Time;;Kl. 17:32
+128107;Time;;Kl. 17:29
+128128;name_party;":
+Liberal Alliance siger, at man ingen understøttelse skulle have, hvis
+det skulle fungere effektivt, men siger også, at de ikke er tilhænger
+af ingen understøttelse. Så kan jeg ikke rigtig forstå det. Hvis man er";Christian Juhl
+128377;title_name;":
+Ordføreren.
+
+Tirsdag den 6. november 2012 (F 5)";Anne Baastrup
+128438;Time;;Kl. 17:35
+128449;Time;;Kl. 17:32
+128472;name_party;":
+Der var en del stråmænd i de bemærkninger, f.eks. at vi er et ekstremt liberalistisk parti. Jeg vil bare lige slå en kendsgerning fast:
+Hvis man gennemførte vores politik, det, som vi er gået til valg på,
+ville man få et skattetryk i Danmark på 43-44 pct. Når Sverige har
+gennemført de skattelettelser, de har annonceret, vil de være nede på
+det samme skattetryk. Jeg ved ikke, om ordføreren opfatter Sverige
+som et ultraliberalistisk land, jeg gør ikke. Når jeg henfører til overførselsindkomstniveauet i Sverige, mener jeg heller ikke, at man kan
+sige, at Sverige er et ultraliberalistisk land.
+Omkring lønningerne er det jo en kendsgerning, at lønningerne i
+Danmark er for høje. Nu er det ikke os herinde, der bestemmer lønningerne, og det skal det heller ikke være, men man kan sige, at det,
+jeg tror folk er fokuseret på, er ikke, hvad der står på deres løncheck,
+det er, hvor meget de får udbetalt, og man kan sige, at sænker vi
+skatten, kan folk få mere udbetalt, og virksomhederne kan bevare
+deres konkurrencekraft.";Joachim B. Olsen
+129507;Time;;Kl. 17:33
+129543;title_name;":
+Eigil Andersen.";Anne Baastrup
+129570;Time;;Kl. 17:33
+129591;name_party;":
+Jeg må sige helt ærligt, at jeg ikke betragter Liberal Alliances regnestykker på det her område som troværdige. Men nu er det heldigvis
+sådan, at hr. Joachim B. Olsen og jeg sammen har været i USA, i Atlanta, Georgia , hvor det er sådan, at 18 pct. af befolkningen lever
+under fattigdomsgrænsen.
+Hvad er fattigdomsgrænsen i Georgia? Den er på 22.000 dollar
+om året, altså 132.000 kr. om året til fire mennesker. Det kan man
+naturligvis ikke leve af. Og mange blandt de 18 pct. lever under fattigdomsgrænsen i to eller tre generationer, og det skyldes bl.a., at
+man har de her lave lønninger på 40 kr. i timen i en del brancher i
+USA.
+Har jeg ret i, at det billede, der er af de fattige i Georgia, er det,
+som Liberal Alliance ser som sin ønskedrøm for det danske samfund?";Eigil Andersen
+130374;Time;;Kl. 17:34
+130410;title_name;":
+Ordføreren.";Anne Baastrup
+130433;Time;;Kl. 17:34
+130456;name_party;":
+Om ordføreren finder vores regnestykker troværdige eller ej, må stå
+for ordførerens egen regning. Jeg kan bare konstatere, at de tal, vi
+har brugt, kommer fra Finansministeriet, og at konsekvenserne af
+vores politik er der regnet på af Finansministeriet; vi har spurgt ind
+til det. Så hvis ordføreren ikke mener, at Finansministeriet er troværdigt, synes jeg, at ordføreren har et problem, idet han sidder i et regeringsparti, men det må stå for ordførerens egen regning.
+Med hensyn til fattigdomsgrænsen i USA glemte ordføreren behændigt nok at indregne købekraften. Ordføreren lavede en direkte
+omskrivning fra dollar til kroner uden at indregne købekraften, og
+det er ikke særlig klogt. Det beløb, som ordføreren kom frem med,
+er rigtigt. Man skal bare huske at gange det med 1,7, så har man købekraften i USA, og så kommer man op på et beløb på over 200.000
+kr., og så begynder vi at nærme os danske forhold – ikke helt, men
+vi begynder at nærme os danske forhold.
+
+21";Joachim B. Olsen
+131466;title_name;":
+Hr. Bjarne Laustsen.";Anne Baastrup
+131498;Time;;Kl. 17:35
+131519;name_party;":
+Det er jo fint, at et parti har skarpe synspunkter, men når det er en
+syg tanke, som hr. Joachim B. Olsen leger med på vegne af Liberal
+Alliance, kræver det jo et par ord med på vejen. For det, jeg kan forstå at der stod i det forslag til vedtagelse, var, at hele det her område
+skulle afskaffes, og at de penge, der blev brugt på området, skulle
+bruges til skattelettelser. Hvem er det i øvrigt, der skal have de der
+skattelettelser? Jeg ved ikke, om hr. Joachim B. Olsen hørte efter,
+hvad ministeren sagde. Hvis det er sådan, at man afskaffer løntilskudsjob, er det jo ikke lig med en besparelse på næsten 4 mia. kr.,
+for de ledige skal jo også have understøttelse. Jeg kan så nu her forstå, at det ikke er vigtigt, at de ledige får nogen understøttelse.
+Går man egentlig i Liberal Alliance og leger med den tanke, at
+hvis det er sådan, at man gør de rige rigere – apropos købekraft og
+alle mulige andre ting – altså at hvis man bare straffer de arbejdsløse
+nok, bliver der nok et eller andet arbejde, fordi de rige bare vil sørge
+for, at de arbejdsløse kommer i arbejde? Jeg kan forstå, at det er det,
+der ligger i teksten: at vi skal afskaffe de ordninger, vi har, og bruge
+pengene på skattelettelser.";Bjarne Laustsen
+132736;Time;;Kl. 17:36
+132772;title_name;":
+Ordføreren.";Anne Baastrup
+132795;Time;;Kl. 17:36
+132818;name_party;":
+Nu har vi en debat i dag, som handler om løntilskud. Jeg refererer til,
+at vismændene har sat spørgsmålstegn ved, om ordningen virker, om
+pengene er brugt rigtigt. Så kører ordføreren ud ad en tangent om,
+hvad vi vil og ikke vil.
+Nu siger jeg det, så jeg tror, at ordføreren kan forstå det: Vi vil
+ikke afskaffe overførselsindkomsterne. Vi vil gerne være med til at
+se på, om de er hensigtsmæssige. Det kan jeg også forstå beskæftigelsesministeren vil. Jeg kan også konstatere, at ordføreren sidder i
+et parti, som har været med til at sørge for, at overførselsindkomsterne bliver reguleret mindre, end de ellers ville være blevet, altså at de
+ikke stiger så meget.
+Det er det ene initiativ, L 200, som har den største beskæftigelseseffekt. Regeringen vurderer, at det, at overførselsindkomsterne
+ikke vokser helt så meget, vil betyde, at 6.000 kommer i beskæftigelse. Så for mig lyder det, som om ordføreren er lidt ude af trit med sin
+egen regering, og hvad hans egen regering tror på.";Joachim B. Olsen
+133817;Time;;Kl. 17:37
+133853;title_name;":
+Hr. Bjarne Laustsen.";Anne Baastrup
+133885;Time;;Kl. 17:38
+133906;name_party;":
+Jeg skal lige bede ordføreren om at kigge ned på det stykke papir,
+han læste op af lige før. Står der ikke deri – ifølge det, der blev læst
+op – at man skulle tage at lukke de løntilskudsordninger og så bruge
+pengene til skattelettelser? Er det ikke det, der står i det forslag til
+vedtagelse, som kommer til afstemning her på torsdag?
+Men hvis man lukker de her ordninger, er det jo ikke sådan, at
+pengene er sparet, for de ledige skal jo også have dagpenge og kontanthjælp. Er det ikke sådan, det er? Jeg kan forstå, at det, der er lagt
+op til, og som Liberal Alliance beder Folketinget om at stemme om,
+
+22
+
+Tirsdag den 6. november 2012 (F 5)
+
+er, at vi skal lukke de her ordninger, spare pengene og så bruge dem
+til skattelettelser. Var det ikke det, hr. Joachim B. Olsen læste op?";Bjarne Laustsen
+134704;Time;;Kl. 17:38
+134740;title_name;":
+Så er det ordføreren.";Anne Baastrup
+134773;Time;;Kl. 17:38
+134796;name_party;":
+Jo, men jeg læste jo ikke noget beløb op. Jeg sagde, at man i stedet
+for at bruge pengene på løntilskud, kunne bruge dem til noget andet;
+jeg sagde jo ikke, at man så også skulle fjerne pengene til kontanthjælp. Der er da ikke noget sparet, der er da minus på det. Jeg har
+lige snakket med beskæftigelsesministeren nu, og hun sagde, at det
+bliver et minus på 600 mio. kr. Så jeg har ikke sagt, at man skulle
+afskaffe løntilskudsordningen, sådan at dem, der er i løntilskud, ikke
+skulle have overførselsindkomster. Det må jeg lige præcisere. Det
+sagde jeg faktisk ikke.";Joachim B. Olsen
+135376;Time;;Kl. 17:39
+135412;title_name;":
+Der er ikke flere, der har bedt korte bemærkninger. Jeg takker ordføreren. Den næste ordfører er fru Mai Henriksen, De Konservative.";Anne Baastrup
+135556;Time;"(Ordfører)
+Mai Henriksen (KF):
+Tak, formand. Først og fremmest en stor tak til Dansk Folkeparti for
+at rejse den her debat i Folketingssalen om løntilskudsjob.
+Hvis man er ledig og har ret til at blive aktiveret, så kan man blive ansat hos en privat eller offentlig arbejdsgiver. Arbejdsgiveren
+ansætter vedkommende, som er ledig, og modtager et tilskud til lønnen, og forløbet aftales mellem vedkommende, jobcenteret, a-kassen
+og en virksomhed, hvis man altså har sådan en.
+Flere i min omgangskreds har prøvet at være i løntilskud med
+større eller mindre held. Som politikere tror jeg, at vi alle sammen
+kender til, at vi modtager mange beskrivelser fra borgere, der fortæller, hvordan systemet er skruet sammen på godt og på ondt.
+En af de gode historier er om Kirsten, der skrev til mig. Kirsten
+blev ledig efter endt uddannelse, og hun søgte job over hele Danmark, men igen og igen blev hun mødt af arbejdsgivere, som sagde,
+at de ønskede en med mere erfaring. Og mere erfaring var jo netop,
+hvad Kirsten ikke havde. Hun var jo nyuddannet. Hun havde dog
+haft et relevant studiejob, men det var altså ikke nok til at imødekomme ønsket om erfaring. Så hun endte med at komme i et løntilskudsjob i en privat virksomhed, og i løbet af de måneder, hun var i
+løntilskudsjobbet, viste hun sit værd, og da virksomheden skulle ansætte en ny efter et lille stykke tid, kaldte de Kirsten til samtale, og
+idet hun nu både kendte virksomheden og hun havde den erfaring,
+som hun ikke havde tidligere, var det rent faktisk hende, der bliver
+ansat. Så Kirsten havde en rigtig god oplevelse med løntilskud, fordi
+det førte til beskæftigelse.
+Det er lige nøjagtig historier som Kirstens, der bekræfter mig i, at
+løntilskud kan være et gavnligt redskab. For nyuddannede kan det
+give den erfaring og viden, som ofte efterspørges af arbejdsgiverne.
+Løntilskud kan også bruges til at styrke ens allerede kendte kvalifikationer, eller det kan endda være en helt ny vej, der afprøves i en
+helt ny type job.
+Men løntilskud skal bruges med måde, og desværre ser vi jo også, hvordan der foregår misbrug af løntilskudsordningerne. Misbruget foregå på flere måder. Her tænker jeg eksempelvis på Aarhus
+Kommune, som i 2010 i en intern mail udsendte et dekret om, at 10
+pct. af alle stillinger inden for børne- og ungeområdet skulle erstattes
+af løntilskudsjob. Aarhus Kommune kan da have ret i, at det vil være
+en stor budgetmæssig besparelse for kommunen, fordi man jo vil få
+
+et tilskud for hver medarbejder. Men problemet er altså, at det er
+ulovligt. Det strider nemlig mod lovens bestemmelser om, hvordan
+man skal håndtere de her ordninger, og det helt store problem var jo
+bekymringen om, at folk i ordinære stillinger skulle erstattes af folk
+med løntilskud.
+Et andet eksempel på misbrug af løntilskudsordningerne er sjovt
+nok også fra Aarhus, nærmere betegnet sekretariatet bag Aarhus som
+kulturhovedstad. Her var der fire personer i ordinær beskæftigelse og
+otte ansatte med løntilskud. Siden sommeren 2008 har gennemtrækket af medarbejdere med løntilskud passeret 30 personer. Så tror jeg,
+at de fleste her kan blive enige om, at løntilskud pludselig bliver en
+maskine, der leverer billig arbejdskraft frem for en mekanisme, der
+sikrer tilbagevenden til arbejdsmarkedet. Nu skal det ikke lyde, som
+om jeg hænger Aarhus Kommune ud, for jeg overbevist om, at der er
+mange andre kommuner, som har lignende erfaringer med løntilskudsordningerne.
+Mens folkeskolen, daginstitutioner og kommunale forvaltninger
+har gennemført historisk hårde fyringsrunder, slog antallet af offentligt løntilskudsansatte sidste år alle rekorder med 38.581 personer.
+Det viser tal fra Arbejdsmarkedsstyrelsen, som www.avisen.dk har
+analyseret, og i en stor undersøgelse oplyser hver fjerde af FOA's tillidsrepræsentanter, at ledige ansatte med løntilskud i kommunerne
+flittigt bliver brugt som vikarer, når de fastansatte er væk, på ferie
+eller har meldt sig syge, og det er også i strid med intentionen bag
+loven om løntilskud.
+Professor ved Aarhus Universitet Michael Svarer har påvist, at
+det især er den aktivering, som finder sted i private virksomheder
+med løntilskud eller i virksomhedspraktik, der ser ud til at give de
+gode resultater; den mindst effektive form for aktivering er derimod
+at give løntilskud til job i den offentlige sektor. Ifølge professoren
+ser det faktisk ud til at forlænge perioden uden arbejde og dermed
+gøre størst skade end gavn, og det er svært problematisk. Derfor er
+det også rigtig godt, at vi får en sådan debat, som vi har haft her i
+aften i Folketingssalen, og at et udredningsarbejde er igangsat.";Kl. 17:39
+140164;Time;;Kl. 17:43
+140200;title_name;":
+Der er ikke nogen korte bemærkninger, så jeg siger tak til ordføreren. Hr. Bent Bøgsted for en afsluttende kommentar.";Anne Baastrup
+140329;Time;(Ordfører for forespørgerne);Kl. 17:43
+140377;name_party;":
+Tak, formand. Jeg vil sige tak for debatten. Det er jo altid rart at have en god debat, når der er bred opbakning til sådan en forespørgsel.
+Jeg kan forstå, at alle partier er enige om, at der skal gøres noget, for
+der er nogle store problemer rundtomkring, som vi er klar over er
+der, og så er det spørgsmålet om at få de rigtige løsninger.
+Som jeg forstår på det hele, er det lige fra Venstre, Socialdemokratiet, os selv i Dansk Folkeparti, SF, Enhedslisten, Konservative,
+selv De Radikale til selv Liberal Alliance, der er indstillet på, at der
+skal findes en løsning. Liberal Alliance kan så ikke lige finde ud af,
+hvad det er, de i virkeligheden vil med løntilskudsordningen, men
+det må tiden så vise, når rapporten kommer, for det kan jo godt være,
+at der kommer noget nyt frem i den forbindelse.
+Men jeg synes ikke, at jeg vil forlænge debatten ret meget andet
+end at sige, at vi i Dansk Folkeparti vil sige tak til de partier, der er
+enige om forslaget til vedtagelse, og jeg ser frem til det, som ministeren kommer med i forbindelse med den undersøgelse, og til, hvad
+det så munder ud i. Jeg håber, vi får fundet en løsning, hvor vi tilgodeser dem, der vitterlig har behov for at få et løntilskudsjob, få en
+opkvalificering, og det kan være i løntilskud, og tilgodeser dem, der
+vil skifte branche. Jeg håber også, at man vil få noget mere viden
+om, hvad der foregår og så få bremset det misbrug, der måtte være,
+for som hr. Christian Juhl siger, hører det ingen steder hjemme, at
+
+Tirsdag den 6. november 2012 (FM )
+
+der er fem eller seks, der er i løntilskud samme sted. Jeg har også
+hørt fra institutioner, hvor der har været en fastansat og tre-fire i løntilskud, men det har aldrig nogen sinde været meningen med det, og
+derfor skal det selvfølgelig bremses.
+Det kan også være, vi skal se på, om der skal være en løntilskudsordning, der er målrettet dagpengemodtagere, og en anden, der
+er målrettet kontanthjælpsmodtagere, for det er to forskellige grupper. Som jeg ser det, vil det være totalt urimeligt, at en dagpengemodtager skal bruge det sidste halve år i løntilskudsjob, hvis ikke
+der er udsigt til at få job bagefter. Det er da også noget, der kan indgå i diskussionen til den tid.
+Men jeg vil sige tak for opbakningen, og det har været en god debat, og vi ser frem til den videre udvikling i forløbet, når vi får rapporten i januar eller februar måned, hvor den kommer, så det ser vi
+frem til.";Bent Bøgsted
+142805;Time;;Kl. 17:46
+142841;title_name;":
+Da der ikke er flere, der har bedt om ordet, er forhandlingen sluttet.
+Afstemningen om de fremsatte forslag til vedtagelse vil som
+nævnt tidligere blive afholdt i morgen.";Anne Baastrup
+143024;Time;Meddelelser fra formanden;Kl. 17:46
+143086;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 7. november 2012, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 17:46).
+
+23";Anne Baastrup

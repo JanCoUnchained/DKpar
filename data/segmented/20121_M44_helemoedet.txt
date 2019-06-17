@@ -1,0 +1,208 @@
+split;reason;text;value
+0;;"Tirsdag den 15. januar 2013 (D)
+
+1
+
+Det eneste punkt på dagsordenen er:
+1) 2. (sidste) behandling af beslutningsforslag nr. B 49:
+Forslag til folketingsbeslutning om dansk militært bidrag til
+støtte for indsatsen i Mali.
+Af udenrigsministeren (Villy Søvndal).
+(Fremsættelse 15.01.2013. Første behandling 15.01.2013. Betænkning 15.01.2013).
+
+44. møde";
+387;Time;Dagsorden;kl. 22.00
+408;Time;"1) Eventuelt: 2. (sidste) behandling af beslutningsforslag nr. B
+49:
+Forslag til folketingsbeslutning om dansk militært bidrag til støtte
+for indsatsen i Mali.
+Af udenrigsministeren (Villy Søvndal).
+(Fremsættelse 15.01.2013. Første behanling 15.01.2013. Betænkning
+15.01.2013).
+
+Forhandling
+Formanden:
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig? Hr. Nikolaj Villumsen som ordfører
+for Enhedslisten.";Kl. 23:30
+839;Time;;Kl. 23:30
+850;Time;"Formanden:
+Mødet er åbnet, men da udvalgets betænkning endnu ikke er omdelt,
+må vi desværre foreløbig udsætte mødet til kl. 22.30.
+Jeg er ikke i stand til at love, at der ikke bliver yderligere udsættelser – beklager; vi gør, hvad vi kan.
+Mødet er udsat. (Kl. 22:00).";Kl. 22:00
+1129;Time;"Formanden:
+Mødet er genoptaget, men vi har ikke fået afsluttet behandlingen i
+Forsvarsudvalget. Der er først møde der kl. 23.00, og det vil sige, at
+mødet udsættes til kl. 23.30.
+Mødet er udsat. (Kl. 22:30).";Kl. 22:30
+1348;Time;"Formanden:
+Mødet er genoptaget.";Kl. 23:30
+1391;Time;"Samtykke til behandling
+Formanden:
+Det punkt, der er opført som nr. 1 på dagsordenen, kan kun med Tingets samtykke behandles i dette møde. Hvis ingen gør indsigelse, betragter jeg Tingets samtykke som givet.
+Det er givet.
+
+(Ordfører)";Kl. 23:30
+1649;name_party;":
+Udenrigsministeren blev tidligere i dag noget sur på Enhedslisten og
+kaldte os en række grimme ting. Efter svarene fra regeringen i udvalgsbehandlingen kan jeg faktisk godt forstå, at ministeren er frustreret og får lyst til at skælde ud, for i det her har regeringen en rigtig, rigtig dårlig sag.
+Ifølge Læger Uden Grænser er civile i byerne Douentza, Lere og
+Gao blevet ramt af de franske bombardementer hen over weekenden.
+Mange er blevet drevet på flugt af lige netop disse bombardementer.
+Oplysningerne kan den danske regering ikke afkræfte. Tværtimod
+ønsker den danske regering at bakke op om fortsatte bombardementer ved at støtte den franske intervention.
+Når Folketinget om lidt vedtager at sende dansk flystøtte til den
+franske intervention, der i de kommende 3 måneder vil fragte franske fremmedlegionærer og panservogne rundt i Vestafrika, aner vi
+ikke, om operationen vil blive udvidet. Vi kan ikke få nogen garanti
+for, at Folketinget eller Det Udenrigspolitiske Nævn vil blive hørt,
+hvis missionen udvides med andet materiel eller personel. Det er
+fuldstændig uklart, hvad missionen kan udvikle sig til, før Folketinget igen vil blive inddraget. Det synes jeg er dybt bekymrende.
+Svarene på udvalgsspørgsmålene har vist, at det danske bidrag er
+politisk og ikke militært begrundet. Alene til operationen i Mali har
+Frankrig nu ti militære og to civile transportfly. Derudover råder det
+franske militær selvfølgelig over langt flere transportfly. Danmarks
+bidrag er altså ikke tvingende nødvendigt, men politisk motiveret.
+Hvad er det så, Danmark siger politisk ja til? Ifølge den franske
+præsident ønsker man at fortsætte krigen, til oprøret er nedkæmpet.
+Det ønsker den danske regering ikke at tage afstand fra.
+Men konflikten i Nordmali har stået på, siden landet blev dannet,
+og tidligere er oprørere fra den lokale befolkning blevet kæmpet ned.
+Det understreger vigtigheden af, at man i Mali finder en politisk løsning, som kan accepteres af touaregfolket i Nordmali og sikre en
+økonomisk udvikling i den marginaliserede del af det i forvejen dybt
+forarmede land. Den franske strategi vil derimod føre til, at lokalbe-
+
+2
+
+Tirsdag den 15. januar 2013 (B 49)
+
+folkningen, der er sure på centralregeringen, kan blive tvunget i armene på islamisterne.
+Derudover står det oven på udvalgsbehandlingen klart, at man i
+en meget lille grad har afsøgt forhandlingsvejen med oprørerne. Den
+maliske regering har end ikke udpeget en officiel forhandlingsdelegation til at forhandle med oprørerne på trods af internationalt pres
+fra bl.a. Danmark.
+Desværre tilslutter Danmark sig nu en militær intervention, som
+ikke har til formål at skabe fred og forhandling, men udelukkende
+har til formål at erobre den nordlige del af Mali, som man har gjort
+det ved tidligere militæroperationer i landets historie.
+Jeg frygter, at den franske intervention, som Danmark nu tilslutter sig, vil medføre, at mange flere civile vil blive ofre og dø, og at
+konflikten vil blive langvarig og muligvis brede sig til nabolandene.
+Det kan styrke islamisterne stik imod regeringens hensigt.
+Der er brug for en politisk løsning i Mali. Der er brug for, at der
+bliver taget hensyn til lokalbefolkningens interesser i den nordlige
+del af Mali. Etableringen af en fredsbevarende styrke fra Den Afrikanske Union under FN-mandat og -kontrol kunne være en del af
+løsningen. Det bør Danmark arbejde for.
+Konkret bør Danmark lige nu støtte den humanitære indsats, som
+er stærkt påkrævet med hundredetusinder af maliske flygtninge i
+Mali og de omkringliggende lande. Det er her, Danmark kan gøre en
+indsats, og det er også her, vores indsats fra dansk side bør ligge.";Nikolaj Villumsen
+5303;Time;"Formanden:
+Tak til ordføreren. Der er ikke nogen bemærkninger. Så er det udenrigsministeren, der har ordet.";Kl. 23:35
+5422;Time;"Udenrigsministeren (Villy Søvndal):
+Jeg skal lige rette en lille fortalelse over for hr. Nikolaj Villumsen.
+Jeg er jo ikke sur, men bekymret. Jeg er bekymret, fordi jeg meget
+sjældent, synes jeg, har set et parti så galt afmarcheret i forbindelse
+med sådan fundamentale positioner.
+Det her drejer sig vel ret beset om det, man kunne kalde international solidaritet. Det, Enhedslisten i virkeligheden siger til afrikanerne, er: I må klare jeres konflikter selv.
+Det siger man, på trods af at de har en præsident i Mali, der beder
+om, at det internationale samfund kommer til undsætning, fordi de er
+ved at blive løbet over ende af terrorgrupper, som indtil nu har drevet 400.000 mennesker på flugt.
+Det drejer sig om international solidaritet med dem, der arbejder
+humanitært i Mali. Det gør bl.a. Dansk Røde Kors, det gør Red Barnet, det gør Institut for Menneskerettigheder.
+Når hr. Nikolaj Villumsen så siger, at han tror, at det her ikke er
+godt for nabolandene, så synes jeg, man skal lytte til, hvad nabolandene siger. Nabolandene siger det modsatte, ligesom FN siger det
+modsatte, ligesom Malis præsident siger det modsatte; ligesom alle
+de ytringer, vi har fra folk, udtrykker bekymring over, at byer bliver
+løbet over ende og endnu flere mennesker bliver drevet på flugt.
+Så er der en påstand fra Enhedslistens side i debatten i dag om, at
+vi skulle være optaget af humanitær bistand. Jeg kunne ikke være
+mere enig. Det er jo en af grundene til, at vi i 2012 fra dansk side har
+givet godt 82 mio. kr. i bilateral bistand. Derudover har vi givet 10
+mio. kr. i humanitær bistand til Mali. Derudover har vi givet 50 mio.
+kr. til Sahellandene, bl.a. Mali. Det står så i forhold til, at den her
+aktion andrager 14 mio. kr.
+Jeg tror, at enhver, der kender mit politiske ståsted, ved, at jeg
+har været fantastisk kritisk over for nogle af de krige, den tidligere
+regering gik ind i, med god ret.
+For mig er det derfor desto mere underligt, at man er imod, når vi
+som det ene står med en sag, der er så klar, som nogen sag nogen
+sinde har været, nemlig at vi har et klokkeklart FN-mandat, senest
+
+bekræftet i nat; når vi som det andet har en appel fra Malis præsident
+om at komme dem til undsætning; når vi som det tredje har et ønske
+fra Den Afrikanske Union og som det fjerde har et ønske fra den organisation, der varetager området, og som hedder ECCOWAS, Den
+Vestafrikanske Samarbejdsorganisation.
+Jeg synes, man er meget galt afmarcheret, når man sidder alle de
+her ting overhørig. I virkeligheden er meldingen vel fra Enhedslisten, at når det drejer sig om forhold i Afrika, må de sejle deres egen
+sø, når det kommer til militære konflikter.
+Jeg er helt klar over, at Enhedslisten er med på den humanitære
+del af det. Det her drejer sig bare ikke om den humanitære del. Det
+drejer sig om at forhindre, at hundredtusindvis af mennesker bliver
+drevet på flugt. Det drejer sig om, at byer bliver løbet over ende. Det
+er derfor, de beder om hjælp.
+Derfor vil jeg godt kvittere over for den del af Folketinget, det
+store flertal, der i dag er med til at sikre, at Danmark tager sin del af
+ansvaret i den her konflikt.";Kl. 23:35
+8552;Time;"Formanden:
+Tak til udenrigsministeren. Forsvarsministeren.";Kl. 23:39
+8622;Time;;Kl. 23:39
+8658;title_name;":
+Også jeg vil gerne takke for den hurtige proces, som Tingets velvillige behandling har givet, og for den brede opbakning, som der er. Det
+er vigtigt for vores folk, der skal af sted, og som er på vej af sted, og
+for deres familier at vide, at der er bred opbakning til den indsats,
+som de kommer til at levere.
+Det har været en hurtig proces, og derfor vil jeg gerne gøre opmærksom på besvarelsen af Forsvarsudvalgets spørgsmål 2, hvoraf
+det fremgår, at når vi træffer den her beslutning, betyder det også, at
+vi presser missionen, presser flyvevåbnet.
+Vores Herculesfly er en efterspurgt ressource, som jo ikke bare
+holder i hangaren og venter på, at der er opgaver til det, men som er
+i brug hele tiden. Det betyder også, at når vi sender flyet af sted, og
+hvis det kommer til at blive i de fulde 3 måneder, så vil der være andre opgaver, som enten må nedprioriteres eller ikke kan løses i den
+periode.
+Ikke desto mindre er det et vigtigt bidrag til indsatsen i Mali, og
+så meget desto større grund synes jeg der er til, at vi i fællesskab er
+tilfredse med den opbakning, der er til B 49 her i aften.";Nick Hækkerup
+9772;Time;"Formanden:
+Tak til forsvarsministeren. Jeg har ikke noteret andre, der ønsker ordet. Hr. Nikolaj Villumsen. Er det til anden runde? Ja.";Kl. 23:40
+9919;Time;(Ordfører);Kl. 23:41
+9954;name_party;":
+Jeg synes bare, at det er meget vigtigt meget klart at afkræfte, at Enhedslisten er ligeglad med det, der sker i Mali. Nej, tværtimod er vi
+kommet med meget konkrete forslag til, hvad Danmark bør gøre.
+Vi har foreslået, at en etablering af en fredsstyrke fra Den Afrikanske Union under FN-mandat og -kontrol kunne være en del af
+løsningen på konflikten. Vi har helt konkret foreslået, at Danmark
+bidrager med humanitær hjælp.
+Jeg synes, at den internationale solidaritet, som udenrigsministeren taler for, klinger hult. Det er en international solidaritet, der lige
+nu rammer civilbefolkningen i Mali med bomber, som har ramt og
+dræbt civile hen over weekenden, og som har drevet dem på flugt.
+Det har aldrig nogen sinde været internationale solidaritet set
+med Enhedslistens øjne, og det plejede heller ikke tidligere at være
+udenrigsministerens opfattelse af begrebet solidaritet.
+
+Tirsdag den 15. januar 2013 (FM )
+
+Derfor vil jeg gerne slå fast, at Enhedslisten har nogle meget klare forslag til at støtte civilbefolkningen i Mali, som kan være med til
+at løse konflikten og sikre, at den ikke i fremtiden vil blive ved med
+at blusse op, så flere civile vil dø, og så konflikten vil brede sig til
+nabolandene.";Nikolaj Villumsen
+11180;Time;"Formanden:
+Tak til ordføreren.
+Så er der vist ikke flere, der har bedt om ordet, og så går vi til
+afstemning.";Kl. 23:42
+11301;Time;"Afstemning
+Formanden:
+Der stemmes om forslagets endelige vedtagelse, og der kan stemmes
+nu.
+Jeg slutter afstemningen.
+For stemte 99 (V, S, DF, RV, SF, LA og KF), imod stemte 8 (EL),
+hverken for eller imod stemte 0.
+Forslaget til folketingsbeslutning er vedtaget. [Forslaget vil blive
+sendt til udenrigsministeren].";Kl. 23:42
+11628;Time;"Meddelelser fra formanden
+Formanden:
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 16. januar
+2013, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 23:43).
+
+3";Kl. 23:43
