@@ -1,0 +1,24 @@
+text;Name;Time
+":
+Der er ikke mere at foretage i dette møde.
+Næste møde afholdes i dag om 10 minutter med de resterende dagsordenspunkter, som fremgår af ugeplanen.
+Mødet er hævet. (Kl. 10:01).";Pia Kjærsgaard;10H 1M 0S
+Meddelelser fra formanden;Pia Kjærsgaard;10H 0M 0S
+":
+Mødet er åbnet.
+Fra medlem af Folketinget Andreas Steenberg, der har orlov, har jeg
+modtaget meddelelse om, at han fra og med den 1. maj 2017 atter
+kan give møde i Tinget.
+Sanne Bjørns hverv som midlertidigt medlem af Folketinget ophører fra nævnte dato at regne.
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 169:
+Forslag til lov om Den Europæiske Unions Agentur for Retshåndhævelsessamarbejde. (Europol).
+Af justitsministeren (Søren Pape Poulsen).
+(Fremsættelse 28.03.2017. 1. behandling 20.04.2017. Betænkning
+25.04.2017).";Pia Kjærsgaard;10H 0M 0S
+Forhandling;Pia Kjærsgaard;10H 0M 0S
+":
+Der er ikke stillet ændringsforslag.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.";Pia Kjærsgaard;10H 0M 0S

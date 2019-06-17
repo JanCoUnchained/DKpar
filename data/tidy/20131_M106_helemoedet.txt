@@ -1,0 +1,20 @@
+text;Name;Time
+":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden.
+(Fremsættelse af forslag).";Bertel Haarder;12H 59M 0S
+":
+I dag er der følgende anmeldelser:
+Udenrigsministeren (Martin Lidegaard):
+Beslutningsforslag nr. B 123 (Forslag til folketingsbeslutning om
+yderligere dansk militært bidrag til støtte for indsatsen mod ISIL).
+Nikolaj Villumsen (EL) m.fl.:
+Beslutningsforslag nr. B 124 (Forslag til folketingsbeslutning om
+støtte til kurdernes kamp mod ISIL i Syrien).
+Titlerne på de anmeldte sager vil fremgå af www.folketingstidende.dk (jf. ovenfor).";Bertel Haarder;13H 0M 0S
+":
+Hermed er der ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 1. oktober
+2014, kl. 9.00.";Bertel Haarder;13H 0M 0S

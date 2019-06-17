@@ -1,0 +1,25 @@
+text;Name;Time
+"Dagsorden
+1) Meddelelse fra formanden.";Mette Bock;10H 0M 0S
+Meddelelser fra formanden;Mette Bock;10H 0M 0S
+":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelse fra formanden.";Mette Bock;10H 0M 0S
+":
+I dag er der følgende anmeldelse:";Mette Bock;10H 0M 0S
+":
+Lovforslag nr. L 185 (Forslag til lov om ændring af lov om fremme
+af vedvarende energi. (Ophævelse af 60/40-støtteordningen for solcelleanlæg).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Lars Christian Lilleholt;10H 0M 0S
+Meddelelser fra formanden;Lars Christian Lilleholt;10H 0M 0S
+":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag, tirsdag den 3. maj 2016, kl.
+10.10.
+Mødet starter med førstebehandlingen af lovforslag nr. L 185.
+Den ordinære dagsorden påbegyndes kl. 13, og anden- og tredjebehandlingen af L 185 vil finde sted senere på dagen.
+
+1";Mette Bock;10H 0M 0S
